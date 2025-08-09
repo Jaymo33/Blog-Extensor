@@ -1,0 +1,37 @@
+---
+// Import the collection and the layout
+import { getCollection } from 'astro:content';
+import BlogPost from '../../layouts/blog/BlogPost.astro';
+
+// This tells Astro to pre-render all pages at build time
+export const prerender = true;
+
+// Get all blog posts for static generation
+export async function getStaticPaths() {
+  const blogPosts = await getCollection('blog');
+  return blogPosts.map((post) => ({
+    params: { id: post.id },
+    props: { post },
+  }));
+}
+
+// Get the post data from props
+const { post } = Astro.props;
+
+// Get the post content
+const { Content } = await post.render();
+
+// Set the page title for better SEO
+const { title, description } = post.data;
+---
+
+<!-- Set the page metadata -->
+<BlogPost post={post}>
+  <Content />
+</BlogPost>
+
+<!-- Set the page title and description -->
+<script is:inline>
+  document.title = `${title} | Air Fryer Recipes`;
+  document.querySelector('meta[name="description"]')?.setAttribute('content', description || '');
+</script>

@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+// Get all blog posts sorted by publication date
+const posts = await getCollection('blog');
+const sortedPosts = posts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+// SEO metadata
+const title = 'Blog | Air Fryer Recipes';
+const description = 'Find out more more about Air Fryer Recipes.co.uk and explore what your Air Fryer has to offer!';
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
+---
+
+<style>
+  @import '/css/blog-cards.css';
+</style>
+
+<Layout title={title} description={description} canonical={canonicalURL}>
+  <div class="w-layout-blockcontainer container breadcrumb w-container"><div class="breadcrumb"><a href="/" class="button w-button">Home</a></div><div class="breadcrumb"><div class="text-block-8">|</div></div><div class="breadcrumb"><a href="/" class="button w-button">Blog</a></div></div>
+    <div class="container">
+     
+      <div class="blog-header">
+        <h1>Discover Our Air Fryer Blogs!</h1>
+      </div>
+      
+      <div class="blog-cards-container">
+        {sortedPosts.map((post) => (
+          <a href={`/blog/${post.id}/`} class="blog-card">
+            {post.data.heroImage ? (
+              <img 
+                src={post.data.heroImage} 
+                loading="lazy" 
+                alt={post.data.description || post.data.title} 
+                class="blog-card-image"
+              />
+            ) : (
+              <div class="blog-card-image-placeholder"></div>
+            )}
+            <div class="blog-card-content">
+              <h2 class="blog-card-title">{post.data.title}</h2>
+              <p class="blog-card-description">{post.data.description}</p>
+              <div class="blog-card-footer">
+               
+               
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+</Layout>

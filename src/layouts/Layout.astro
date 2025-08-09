@@ -1,3 +1,26 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+	title?: string;
+	description?: string;
+	image?: string;
+	canonical?: string;
+	schema?: Record<string, any>;
+}
+
+const {
+	title = 'Air Fryer Recipes',
+	description = 'Delicious air fryer recipes and cooking tips',
+	image = '/images/default-og.jpg',
+	canonical = Astro.url.pathname,
+	schema,
+} = Astro.props;
+
+const canonicalURL = new URL(canonical, Astro.site).href;
+---
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -5,18 +28,227 @@
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
+		
+		<!-- Primary Meta Tags -->
+		<title>{title}</title>
+		<meta name="title" content={title} />
+		<meta name="description" content={description} />
+		<link rel="canonical" href={canonicalURL} />
+		
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content={canonicalURL} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={new URL(image, Astro.site)} />
+		
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={canonicalURL} />
+		<meta property="twitter:title" content={title} />
+		<meta property="twitter:description" content={description} />
+		<meta property="twitter:image" content={new URL(image, Astro.site)} />
+		
+		<!-- RSS Feed -->
+		<link rel="alternate" type="application/rss+xml" title="RSS Feed for Air Fryer Recipes" href="/rss.xml" />
+		
+		<!-- Schema.org JSON-LD -->
+		{schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+	  <link rel="stylesheet" href="/extras/style.css" />
+  <link rel="stylesheet" href="/extras/OneBlogStyle.css" />
+  </head>
+  <body>
+		<div id="NAV" class="navbar-logo-left"><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar-logo-left-container shadow-three w-nav"><div class="container-2"><a href="/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/683dec578aea93bac7a5ac7a_airfryer.png" loading="lazy" alt="" class="image-21"></a><div class="navbar-wrapper"><nav role="navigation" class="nav-menu-wrapper w-nav-menu"><ul role="list" class="nav-menu-two w-list-unstyled"><li><div data-delay="0" data-hover="true" class="nav-dropdown-2 nav-link w-dropdown" style=""><div class="nav-dropdown-toggle-2 w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0"><div class="nav-dropdown-icon-2 w-icon-dropdown-toggle" aria-hidden="true"></div><div class="nav-link">Resources</div></div><nav class="nav-dropdown-list-2 shadow-three mobile-shadow-hide w-dropdown-list" id="w-dropdown-list-0" aria-labelledby="w-dropdown-toggle-0"><a href="/recipes" class="nav-dropdown-link-2 nav-link" tabindex="0">Recipes</a><a href="/air-fryer-brands" class="nav-dropdown-link-2 nav-link" tabindex="0">Air Fryer Brands</a><a href="/air-fryer-conversion-chart" class="nav-dropdown-link-2 nav-link" tabindex="0">Air Fryer Conversion Chart</a><a href="/air-fryer-cleaner" class="nav-dropdown-link-2 nav-link" tabindex="0">Air Fryer Cleaning Guide</a><a href="/air-fryer-knowledge-library" class="nav-dropdown-link-2 nav-link" tabindex="0">Air Fryer Knowledge Base</a></nav></div></li><li><a href="/blog" aria-current="page" class="nav-link w--current">Blog</a></li><li><a href="/about" class="nav-link">About&nbsp;Us</a></li><li><a href="/support" class="nav-link">Contact Us</a></li></ul></nav><div class="menu-button w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false"><div class="w-icon-nav-menu"></div></div></div></div><div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div></div></div>
+		<main>
+			<slot />
+		</main>
+		<Footer />
 	</body>
 </html>
 
-<style>
-	html,
+<style is:global>
+	:root {
+		--color-primary: #ff6b35;
+		--color-secondary: #f7c59f;
+		--color-accent: #2ec4b6;
+		--color-background: #FFF8ED;
+		--color-text: #333333;
+		--color-light: #f5f5f5;
+		--color-dark: #222222;
+		--color-gray: #666666;
+		--color-gray-light: #dddddd;
+		--font-family-base: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+		--font-family-heading: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+		--box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+		--border-radius: 8px;
+		--max-width: 1200px;
+	}
+
+	html {
+		font-family: var(--font-family-base);
+		background-color: var(--color-background);
+		color: var(--color-text);
+	}
+
 	body {
-		margin: 0;
+		margin: 0 auto;
+		padding: 0;
 		width: 100%;
-		height: 100%;
+		min-height: 100vh;
+		display: flex;
+		flex-direction: column;
+		background-color: var(--color-background);
+	}
+	
+	.container {
+		width: 75%;
+		max-width: var(--max-width);
+		margin: 0 auto;
+		padding: 0.5rem 1rem;
+	}
+
+	main {
+		flex: 1;
+		width: 88%;
+		margin: 0 auto;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: var(--font-family-heading);
+		margin: 0 0 1rem 0;
+		line-height: 1.2;
+	}
+
+	h1 {
+		font-size: 2.5rem;
+	}
+
+	h2 {
+		font-size: 2rem;
+	}
+
+	h3 {
+		font-size: 1.75rem;
+	}
+
+	a {
+		color: var(--color-primary);
+		text-decoration: none;
+		transition: color 0.2s ease;
+	}
+
+	a:hover {
+		color: var(--color-accent);
+	}
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+
+	code {
+		font-family: 'Courier New', Courier, monospace;
+		background-color: var(--color-light);
+		padding: 0.2em 0.4em;
+		border-radius: 3px;
+		font-size: 0.9em;
+	}
+
+	pre {
+		background-color: var(--color-dark);
+		color: var(--color-light);
+		padding: 1rem;
+		border-radius: var(--border-radius);
+		overflow-x: auto;
+	}
+
+	pre code {
+		background-color: transparent;
+		padding: 0;
+		color: inherit;
+	}
+
+	blockquote {
+		border-left: 4px solid var(--color-accent);
+		margin: 1.5rem 0;
+		padding: 0.5rem 0 0.5rem 1.5rem;
+		font-style: italic;
+		color: var(--color-gray);
+	}
+
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		margin: 1.5rem 0;
+	}
+
+	th, td {
+		padding: 0.75rem;
+		border: 1px solid var(--color-gray-light);
+	}
+
+	th {
+		background-color: var(--color-light);
+	}
+
+	header {
+		background-color: var(--color-background);
+		/* position: sticky; */
+		top: 0;
+		z-index: 100;
+		width: 100%;
+	}
+
+	nav {
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		max-width: var(--max-width);
+		margin: 0 auto;
+	}
+
+	.logo a {
+		font-size: 1.5rem;
+		font-weight: bold;
+		color: #333;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.nav-links {
+		display: flex;
+		gap: 1rem;
+	}
+
+	.nav-links a {
+		color: #333;
+		font-weight: 500;
+		font-size: 1rem;
+		padding: 0.5rem 0.75rem;
+	}
+
+	.nav-links a:hover {
+		color: #FF6B35;
+	}
+
+	.dropdown-arrow {
+		font-size: 0.75rem;
+		vertical-align: middle;
+		margin-left: 0.25rem;
+	}
+
+	/* Footer styles moved to Footer.astro component */
+
+	@media (max-width: 768px) {
+		nav {
+			flex-direction: column;
+			text-align: center;
+			gap: 1rem;
+		}
+
+		.nav-links {
+			justify-content: center;
+		}
 	}
 </style>
