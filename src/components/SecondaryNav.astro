@@ -1,0 +1,98 @@
+---
+// SecondaryNav.astro
+// This component creates a secondary navigation bar with Home and Blog links
+// plus the current blog post title when viewing a blog post
+
+interface Props {
+  currentTitle?: string;
+}
+
+const { currentTitle } = Astro.props;
+---
+
+<div class="secondary-nav">
+  <div class="secondary-nav-container">
+    <div class="secondary-nav-links">
+      <a href="/" class="secondary-nav-link">Home</a>
+      <span class="secondary-nav-separator">|</span>
+      
+      {currentTitle === "Blog" ? (
+        <span class="secondary-nav-current">Blog</span>
+      ) : (
+        <>
+          <a href="/blog" class="secondary-nav-link">Blog</a>
+          {currentTitle && (
+            <>
+              <span class="secondary-nav-separator">|</span>
+              <span class="secondary-nav-current">{currentTitle}</span>
+            </>
+          )}
+        </>
+      )}
+    </div>
+  </div>
+</div>
+
+<style>
+  .secondary-nav {
+    background-color: var(--color-background);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 0.5rem 0;
+  }
+
+  .secondary-nav-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .secondary-nav-links {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .secondary-nav-link {
+    color: #333;
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.03);
+    transition: background-color 0.2s ease;
+    letter-spacing: -0.01em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  .secondary-nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+
+  .secondary-nav-separator {
+    color: #999;
+    margin: 0 0.25rem;
+  }
+
+  .secondary-nav-current {
+    color: #333;
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.03);
+    transition: background-color 0.2s ease;
+    letter-spacing: -0.01em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+ 
+  }
+
+  @media (max-width: 768px) {
+    .secondary-nav-current {
+      max-width: 150px;
+    }
+  }
+</style>

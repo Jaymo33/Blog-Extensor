@@ -38,26 +38,8 @@ const relatedPosts = allPosts.slice(0, 3);
 const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
 ---
 
-<Layout>
-  <div class="w-layout-blockcontainer container breadcrumb w-container">
-    <div class="breadcrumb">
-      <a href="/" class="button w-button">Home</a>
-    </div>
-    <div class="breadcrumb">
-      <div class="text-block-8">|
-        </div>
-      </div>
-      <div class="breadcrumb">
-        <a href="/" class="button w-button">Blog</a>
-      </div>
-      <div class="breadcrumb">
-        <div class="text-block-8">|
-          </div>
-        </div>
-        <div class="breadcrumb">
-          <a href="/" class="button w-button">{post.data.title}</a>
-        </div>
-    </div>
+<Layout currentTitle={title}>
+  <!-- Removed the old breadcrumb navigation as it's replaced by SecondaryNav -->
   <div class="blog-container">
     <main class="blog-main">
       <article class="blog-post">
@@ -180,14 +162,17 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
   }
 
   .post-content {
-    line-height: 1.7;
+    line-height: 1.6;
     color: #374151;
+    font-size: 1rem;
+    letter-spacing: -0.01em;
   }
 
   .post-content h2 {
     font-size: 1.5rem;
     margin: 2rem 0 1rem;
-    font-weight: 700;
+    font-weight: 600;
+    letter-spacing: -0.0125em;
   }
 
   .post-content p {

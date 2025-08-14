@@ -18,8 +18,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
   @import '/css/blog-cards.css';
 </style>
 
-<Layout title={title} description={description} canonical={canonicalURL}>
-  <div class="w-layout-blockcontainer container breadcrumb w-container"><div class="breadcrumb"><a href="/" class="button w-button">Home</a></div><div class="breadcrumb"><div class="text-block-8">|</div></div><div class="breadcrumb"><a href="/" class="button w-button">Blog</a></div></div>
+<Layout title={title} description={description} canonical={canonicalURL} currentTitle="Blog">
     <div class="container">
      
       <div class="blog-header">
