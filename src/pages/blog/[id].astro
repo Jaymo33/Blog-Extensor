@@ -10,7 +10,7 @@ export const prerender = true;
 export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
   return blogPosts.map((post) => ({
-    params: { id: post.id },
+    params: { id: post.slug },
     props: { post },
   }));
 }
@@ -31,7 +31,7 @@ const { title, description } = post.data;
 </BlogPost>
 
 <!-- Set the page title and description -->
-<script is:inline>
+<script is:inline define:vars={{ title, description }}>
   document.title = `${title} | Air Fryer Recipes`;
   document.querySelector('meta[name="description"]')?.setAttribute('content', description || '');
 </script>
