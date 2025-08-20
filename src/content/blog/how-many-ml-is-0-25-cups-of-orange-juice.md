@@ -1,11 +1,12 @@
 ---
 title: "How Many ml Is 0.25 Cups of Orange Juice?"
 description: "Discover how to convert 0.25 cups of orange juice to ml for perfect air fryer recipes. Get precise measurements in seconds!"
-pubDate: 2025-07-28T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/images/how-many-ml-is-0-25-cups-of-orange-juice-ae015cda.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-0-25-cups-of-orange-juice-d28b3f58.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>0.25 cups of orange juice equals approximately 59 ml. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a marinade, glaze, or baking a citrus-infused dessert, knowing how many ml is 0.25 cups of orange juice ensures accuracy.</p>

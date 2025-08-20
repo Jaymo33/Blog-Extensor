@@ -1,0 +1,30 @@
+---
+title: "345 F to Gas Mark"
+description: "Convert 345 F to Gas Mark for perfect air fryer cooking. Includes UK oven conversions, baking tips, and temperature charts."
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/345-f-to-gas-mark-aea39737.png"
+tags:
+  - "gasmark"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>345 F converts to Gas Mark 4 in UK ovens and air fryers. This medium heat setting is perfect for baking cookies, roasting vegetables, or cooking poultry in your air fryer. Whether you're following an American recipe or adjusting your favourite dishes, knowing this conversion ensures consistent results every time.</p>
+
+<h2>Understanding 345 F to Gas Mark Conversions</h2>
+<p>The Gas Mark system is uniquely British, with temperatures ranging from Gas Mark 1 (275 F) to Gas Mark 9 (475 F). At 345 F, you're working with Gas Mark 4, which provides gentle yet effective heat for most baking needs. This temperature works particularly well in air fryers for items like scones, muffins, or even <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>air fryer cakes</a> that need steady, even cooking.</p>
+<p>When converting 345 Fahrenheit to Gas Mark, remember that air fryers cook faster than conventional ovens. You might need to reduce cooking times by 20% when using your air fryer at Gas Mark 4 equivalent. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> includes all these adjustments to take the guesswork out of your cooking.</p>
+
+<h2>Why 345 F to Gas Mark Matters for Air Fryers</h2>
+<p>Many British cooks prefer using Gas Mark settings, while American recipes typically use Fahrenheit. When you find a tempting recipe at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> that calls for 345 F, converting to Gas Mark 4 ensures you can replicate it perfectly. This temperature is particularly versatile, working well for both sweet and savoury dishes in your air fryer.</p>
+<p>The 345 F to Gas Mark conversion becomes especially important when baking. Items like <a href=https://www.airfryerrecipe.co.uk/recipe-category/cookies>air fryer cookies</a> need this moderate heat to cook through without burning. At Gas Mark 4 (345 F), your air fryer provides the ideal environment for even browning and perfect texture development in baked goods.</p>
+
+<h3>Adjusting Cooking Times at 345 F/Gas Mark 4</h3>
+<p>When using 345 F in Gas Mark terms for your air fryer, remember to check food earlier than the recipe suggests. Air fryers circulate hot air more efficiently than conventional ovens, often reducing cooking times by 15-25%. A recipe that takes 30 minutes at Gas Mark 4 in a regular oven might only need 22-25 minutes in your air fryer.</p>
+
+<h2>Common Uses for 345 F (Gas Mark 4) in Air Fryers</h2>
+<p>This temperature works beautifully for roasting vegetables like potatoes, carrots, and parsnips in your air fryer. The 345 F to Gas Mark conversion ensures they cook through without drying out. It's also ideal for reheating leftovers or cooking delicate items like fish fillets that might fall apart at higher temperatures.</p>
+<p>For <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>air fryer chicken</a> dishes, 345 F (Gas Mark 4) provides gentle cooking that keeps meat juicy while ensuring thorough cooking. When baking, this temperature helps cakes rise evenly without developing a hard crust too quickly. Always use an air fryer thermometer to verify your appliance's accuracy at these settings.</p>
+
+<h3>Troubleshooting 345 F to Gas Mark Conversions</h3>
+<p>If foods seem to be cooking too quickly at the 345 F Gas Mark equivalent in your air fryer, try reducing the temperature by 10-15 F. Some air fryers run hotter than their settings indicate. Regular <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaning</a> also ensures more accurate temperature control and even cooking at all Gas Mark conversions.</p>

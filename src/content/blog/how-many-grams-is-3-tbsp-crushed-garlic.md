@@ -1,0 +1,28 @@
+---
+title: "How many grams is 3 tbsp of crushed garlic?"
+description: "Discover how to convert 3 tbsp of crushed garlic into grams for precise air fryer recipes. Perfect measurements every time!"
+pubDate: 2025-08-12T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-3-tbsp-crushed-garlic-b6c8bbcf.webp"
+tags:
+  - "measurement"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>3 tablespoons of crushed garlic equals approximately 45 grams. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a garlic-infused marinade or adding depth to roasted vegetables, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
+
+<h2>Why Accurate Garlic Measurements Matter</h2>  
+<p>Using the right amount of crushed garlic can elevate your air fryer dishes from good to great. Too little, and the flavour falls flat; too much, and it overpowers other ingredients. Garlic’s intensity varies depending on whether it’s fresh, minced, or crushed, so weighing it removes guesswork. If you love garlic-heavy recipes like roasted potatoes or chicken, precise measurements ensure balanced results every time. Explore more <a href=https://www.airfryerrecipe.co.uk/recipes>garlic-infused air fryer recipes</a> for inspiration.</p>  
+
+<p>Crushed garlic also releases more oils than minced or chopped, meaning its weight can differ slightly. A standard UK tablespoon holds about 15 grams of crushed garlic, so 3 tbsp totals roughly 45 grams. For dishes like garlic bread or shrimp scampi, this accuracy ensures perfect seasoning. Need to adjust quantities? Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> simplifies scaling recipes up or down.</p>  
+
+<h3>How to Measure Crushed Garlic Correctly</h3>  
+<p>For the most accurate 3 tbsp crushed garlic to grams conversion, use a kitchen scale. Lightly pack the garlic into the spoon without compressing it too tightly, as this can skew the weight. If you don’t have a scale, remember that 1 tbsp equals about 15 grams, making 3 tbsp 45 grams. This method works well for marinades, sauces, and rubs featured in our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken air fryer recipes</a>.</p>  
+
+<h2>Common Recipes Using 3 Tbsp Crushed Garlic</h2>  
+<p>Many air fryer dishes rely on 3 tablespoons of crushed garlic for bold flavour. Garlic butter shrimp, for instance, uses this quantity to coat the seafood evenly. Similarly, garlic-roasted vegetables or crispy tofu benefit from this measurement for a robust taste. If you’re meal prepping, check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/meal-prep>meal prep ideas</a> to incorporate garlic efficiently.</p>  
+
+<p>Another favourite is garlic-parmesan fries, where 3 tbsp of crushed garlic blends with oil and herbs for a crispy coating. For meat lovers, garlic-marinated lamb or beef skewers also use this amount. Whether you’re cooking for one or a crowd, knowing how many grams are in 3 tbsp of crushed garlic ensures flawless results. Keep your air fryer in top shape with our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> to avoid lingering odours.</p>  
+
+<h3>Adjusting Garlic Quantities for Taste</h3>  
+<p>While 3 tbsp crushed garlic equals 45 grams, personal preference may call for adjustments. If you prefer milder flavours, reduce the amount slightly. For garlic lovers, adding an extra tablespoon (15 grams) can intensify the dish. Always taste as you go, especially when adapting recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> to suit your palate.</p>

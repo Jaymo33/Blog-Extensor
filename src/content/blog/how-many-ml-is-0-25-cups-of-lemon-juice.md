@@ -1,11 +1,12 @@
 ---
 title: "How Many ml Is 0.25 Cups of Lemon Juice?"
 description: "Discover the exact ml measurement for 0.25 cups of lemon juice with our easy conversion guide—perfect for air fryer recipes!"
-pubDate: 2025-07-28T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/images/how-many-ml-is-0-25-cups-of-lemon-juice-9641f9cb.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-0-25-cups-of-lemon-juice-fd38f3f9.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>0.25 cups of lemon juice equals approximately 59 ml, making it easy to measure for air fryer recipes. Whether you're whipping up a zesty marinade or a tangy glaze, knowing this conversion ensures accuracy in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results.</p>  

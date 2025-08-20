@@ -1,11 +1,12 @@
 ---
 title: "How Many ml Is 0.25 Cups of Buttermilk?"
 description: "Discover the exact ml measurement for 0.25 cups of buttermilk and simplify your baking conversions with this easy guide."
-pubDate: 2025-07-28T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/images/how-many-ml-is-0-25-cups-of-buttermilk-2935db50.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-0-25-cups-of-buttermilk-8bd44aaa.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>0.25 cups of buttermilk equals approximately 59 ml, making it easy to measure for your air fryer recipes. Whether you're baking or cooking, precise measurements ensure perfect results every time. This conversion is useful for both UK and US recipes, so you won't need to second-guess your ingredients. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

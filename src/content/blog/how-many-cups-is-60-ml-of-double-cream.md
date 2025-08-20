@@ -1,0 +1,35 @@
+---
+title: "How Many Cups Is 60 ml of Double Cream?"
+description: "Learn how to convert 60 ml of double cream to cups for precise baking and cooking. Perfect for air fryer recipes!"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-60-ml-of-double-cream-581602d5.webp"
+tags:
+  - "volume"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>60 ml of double cream is approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>  
+
+<h2>Why Accurate Measurements Matter</h2>  
+<p>When working with double cream, even small measurement discrepancies can affect the outcome of your dish. Too much cream can make sauces overly rich or cause cakes to collapse, while too little might leave your recipe dry. For air fryer recipes, precision is key to achieving the right crispiness and moisture balance. That’s why understanding conversions like 60 ml of double cream to cups is so important.</p>  
+<p>At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise the importance of accurate measurements for perfect results. Whether you're making a creamy pasta sauce or a fluffy dessert, getting the ratios right ensures consistency. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for more handy measurement tips.</p>  
+
+<h2>How to Measure 60 ml of Double Cream</h2>  
+<p>If you don’t have a measuring jug with millilitre markings, you can still measure 60 ml of double cream accurately. A standard metric measuring cup will show millilitres, but if you’re using imperial cups, remember that 60 ml equals roughly 1/4 cup. For best results, use a liquid measuring cup and fill it to the 60 ml line.</p>  
+
+<h3>Using a Kitchen Scale</h3>  
+<p>For even greater accuracy, consider weighing your double cream. Since double cream has a density close to water, 60 ml weighs approximately 60 grams. A kitchen scale can help you measure precisely, especially for recipes where exact proportions are critical.</p>  
+
+<h2>Common Uses for 60 ml of Double Cream</h2>  
+<p>Double cream is a versatile ingredient used in both sweet and savoury dishes. In baking, 60 ml (1/4 cup) can be whipped for toppings or folded into batters for added richness. For air fryer cooking, it’s perfect for creamy sauces or as a base for dips.</p>  
+<p>Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for inspiration on how to use double cream in your air fryer. From creamy mushroom sauces to indulgent desserts, the possibilities are endless.</p>  
+
+<h3>Adjusting Recipes for Different Measurements</h3>  
+<p>If a recipe calls for a different amount of double cream, you can easily scale the measurement. For example, 120 ml would be 1/2 cup, and 30 ml would be 1/8 cup. Keeping these conversions in mind helps you adapt recipes without hassle.</p>  
+
+<h2>Tips for Storing Double Cream</h2>  
+<p>Double cream should always be stored in the fridge and used before its expiry date. If you’ve opened a carton, ensure it’s tightly sealed to prevent spoilage. For longer storage, consider freezing it in measured portions like 60 ml for future use.</p>  
+
+<h3>Cleaning Your Air Fryer After Using Cream</h3>  
+<p>Cooking with double cream can leave residues in your air fryer. To keep it in top condition, check out our guide on <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>how to clean your air fryer</a>. Regular maintenance ensures your appliance stays efficient and ready for your next culinary adventure.</p>

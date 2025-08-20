@@ -1,0 +1,26 @@
+---
+title: "How Many Cups Is 985 ml of Orange Juice?"
+description: "Find out exactly how many cups 985 ml of orange juice equals for perfect recipes every time. Includes UK and US conversions."
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-985-ml-of-orange-juice-790f04eb.webp"
+tags:
+  - "volume"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>985 ml of orange juice equals approximately 4.16 cups in the UK or 4.17 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up a citrus glaze or a tangy marinade, knowing how to convert 985 ml of orange juice to cups ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless results.</p>
+
+<h2>Why Accurate Measurements Matter in Air Fryer Cooking</h2>
+<p>Air fryers rely on precise ingredient ratios to achieve the perfect texture and flavour. Using 985 ml of orange juice instead of the correct cup measurement could throw off your recipe. For example, a marinade with too much liquid might not adhere properly to chicken or vegetables. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for quick reference when adapting recipes.</p>
+<p>Orange juice adds brightness to dishes like glazed salmon or citrus-infused desserts. Whether you’re baking a cake or preparing a sauce, converting 985 ml of orange juice to cups ensures consistency. Visit our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for inspiration on using orange juice in air fryer meals.</p>
+
+<h3>UK vs. US Cup Measurements</h3>
+<p>In the UK, 1 cup equals 284 ml, making 985 ml of orange juice roughly 4.16 cups. In the US, where 1 cup is 240 ml, 985 ml translates to about 4.17 cups. This small difference might not matter for most recipes, but it’s good to know for precision. For more measurement tips, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert category</a>, where orange juice often stars.</p>
+
+<h2>How to Measure 985 ml of Orange Juice Without a Measuring Cup</h2>
+<p>If you don’t have a measuring cup, you can use a kitchen scale to weigh 985 ml of orange juice. Since orange juice has a similar density to water, 985 ml weighs roughly 985 grams. Alternatively, use a standard mug (about 300 ml) and adjust accordingly. For more clever hacks, check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning and maintenance guide</a> to keep your air fryer in top shape.</p>
+<p>Another method is to use tablespoons—20 UK tablespoons (15 ml each) equal 300 ml, so you’d need about 65 tablespoons for 985 ml. This might sound tedious, but it’s handy in a pinch. Remember, accuracy is key for air fryer success, especially with sticky or liquid ingredients like orange juice.</p>
+
+<h3>Recipes Using 985 ml of Orange Juice</h3>
+<p>With 985 ml of orange juice, you could make a large batch of citrus marinade for chicken or a refreshing sorbet. Try our orange-glazed shrimp or a tangy cake from the <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cakes category</a>. The versatility of orange juice makes it a staple for both sweet and savoury air fryer dishes.</p>

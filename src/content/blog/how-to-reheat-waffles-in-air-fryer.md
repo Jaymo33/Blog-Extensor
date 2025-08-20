@@ -6,7 +6,7 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>Reheating waffles in an air fryer is simple: preheat to 160°C (320°F), place waffles in a single layer, and cook for 2–3 minutes until crispy. This method restores their texture better than a microwave, keeping them fluffy inside while crisping the exterior. Whether you have leftover homemade waffles or frozen ones, your air fryer can revive them perfectly.</p>  

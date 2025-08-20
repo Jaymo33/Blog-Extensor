@@ -1,0 +1,28 @@
+---
+title: "How many grams is 5 tbsp of chilli sauce?"
+description: "Learn how to convert 5 tbsp of chilli sauce into grams for precise air fryer cooking. Get accurate measurements in seconds!"
+pubDate: 2025-08-12T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-of-chilli-sauce-f9bec812.webp"
+tags:
+  - "measurement"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>5 tablespoons of chilli sauce weigh approximately 75 grams. This conversion is essential for air fryer cooking, where precision ensures even cooking and perfect flavour balance. Whether you're marinating chicken or spicing up a stir-fry, knowing the exact weight helps avoid over-seasoning or underwhelming results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
+
+<h2>Why accurate measurements matter in air fryer cooking</h2>  
+<p>Air fryers rely on hot, circulating air to cook food evenly, so ingredient ratios are crucial. Too much chilli sauce can make dishes overly spicy or soggy, while too little might leave them bland. Measuring 5 tbsp of chilli sauce in grams ensures consistency, especially when scaling recipes. If you're experimenting with new dishes, browse our <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> for inspiration.</p>  
+
+<p>Many UK cooks prefer weighing ingredients for accuracy, as tablespoon sizes can vary slightly. A digital kitchen scale removes guesswork, making it easier to follow recipes precisely. Whether you're cooking for one or meal prepping, grams provide a reliable standard. For more tips on perfecting air fryer meals, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipe category</a>.</p>  
+
+<h3>How to measure chilli sauce without a scale</h3>  
+<p>If you don’t have a scale, use a standard UK tablespoon (15ml) to measure chilli sauce. Fill it level for accuracy, and remember that thicker sauces may weigh slightly more. For sticky sauces, lightly grease the spoon to help it slide off cleanly. Always check the sauce’s density, as brands vary—some are more watery, while others are paste-like.</p>  
+
+<h2>Common uses for 5 tbsp of chilli sauce</h2>  
+<p>Five tablespoons of chilli sauce (75g) is perfect for marinating 500g of chicken or tofu before air frying. It also works well in glazes for ribs or as a base for spicy dips. If you're cooking frozen foods like prawns or veggies, this amount adds a bold kick without overpowering. Discover more ideas in our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a>.</p>  
+
+<p>For meal prep, 5 tbsp of chilli sauce can season a batch of roasted potatoes or mixed seafood. Adjust the quantity if you prefer milder or hotter flavours. Pair it with a dash of lime or honey to balance the heat. Need cleaning tips after cooking? Our guide to <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> keeps your appliance spotless.</p>  
+
+<h3>Converting other sauce quantities</h3>  
+<p>If your recipe calls for more or less chilli sauce, here’s a quick reference: 1 tbsp ≈ 15g, 3 tbsp ≈ 45g, and 10 tbsp ≈ 150g. These conversions work for most UK-brand sauces, but always check labels for specific weights. For thicker sauces like sriracha, expect slightly higher gram measurements per tablespoon.</p>

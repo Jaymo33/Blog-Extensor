@@ -1,11 +1,12 @@
 ---
 title: "How Many ml Is 0.25 Cups of Lime Juice?"
 description: "Discover the exact ml measurement for 0.25 cups of lime juice and simplify your cooking conversions with this easy guide."
-pubDate: 2025-07-28T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/images/how-many-ml-is-0-25-cups-of-lime-juice-d457dba6.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-0-25-cups-of-lime-juice-4cedb0f9.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>0.25 cups of lime juice equals approximately 59 ml. This conversion is essential for precision in cooking, especially when using an air fryer where exact measurements can make or break a dish. Whether you’re whipping up a zesty marinade or a tangy glaze, knowing how many ml 0.25 cups of lime juice is will help you nail the recipe every time.</p>  

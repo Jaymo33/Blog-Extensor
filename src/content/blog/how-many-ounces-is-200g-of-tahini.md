@@ -1,0 +1,28 @@
+---
+title: "How many ounces is 200g of tahini?"
+description: "Discover how to convert 200g of tahini to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements."
+pubDate: 2025-08-12T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-200g-of-tahini-d267cdc9.webp"
+tags:
+  - "measurement"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>200 grams of tahini equals approximately 7.05 ounces. Whether you're preparing a creamy hummus or a rich tahini dressing for your air fryer dishes, knowing this conversion ensures accuracy in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>  
+
+<h2>Why Convert 200g of Tahini to Ounces?</h2>  
+<p>Many air fryer recipes, especially those from the UK or US, use different measurement systems. Converting 200g of tahini to ounces (7.05 oz) helps you follow recipes without confusion. This is particularly useful for sauces, dressings, or marinades where consistency matters. If you're exploring our <a href=https://www.airfryerrecipe.co.uk/recipes>tahini-based recipes</a>, this conversion will come in handy.</p>  
+
+<p>Tahini, a staple in Middle Eastern cuisine, is often measured in grams in the UK. However, some kitchen scales or recipes may use ounces. Knowing that 200g tahini to ounces is roughly 7.05 oz simplifies your cooking process. This small detail can make a big difference in dishes like air-fried falafel or tahini-glazed vegetables.</p>  
+
+<h3>How to Measure 200g of Tahini Accurately</h3>  
+<p>For the best results, use a digital kitchen scale to measure 200 grams of tahini. If your scale displays ounces, it should read around 7.05 oz. Alternatively, you can use measuring spoons or cups, though these are less precise. A standard metric tablespoon holds about 15g of tahini, so 200g would be roughly 13 tablespoons.</p>  
+
+<h2>Common Uses for 200g of Tahini in Air Fryer Recipes</h2>  
+<p>200 grams of tahini is a versatile amount for many air fryer dishes. It’s enough to make a batch of creamy hummus, a tahini marinade for chicken, or a drizzle for roasted vegetables. Check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> for inspiration on how to incorporate tahini into your meals.</p>  
+
+<p>Another great use for 200g of tahini is in dressings or dips. Its rich, nutty flavour pairs perfectly with air-fried sweet potatoes or falafel. If you're meal prepping, this quantity is ideal for making a week’s worth of sauces. For more ideas, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> to adjust other ingredients seamlessly.</p>  
+
+<h3>Tips for Storing Leftover Tahini</h3>  
+<p>If you don’t use all 200g of tahini at once, store it in an airtight container in the fridge. Stir well before reusing, as the oil tends to separate. Proper storage ensures your tahini stays fresh for future air fryer creations. For more storage tips, explore our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning and maintenance guide</a>.</p>

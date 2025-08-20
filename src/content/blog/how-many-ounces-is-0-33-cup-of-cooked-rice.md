@@ -1,0 +1,39 @@
+---
+title: "How many ounces is 0.33 cup of cooked rice?"
+description: "Find out exactly how many ounces are in 0.33 cup of cooked rice for perfect air fryer meal prep. Includes UK conversions and tips!"
+pubDate: 2025-08-12T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-33-cup-of-cooked-rice-e303851a.webp"
+tags:
+  - "measurement"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>0.33 cup of cooked rice equals approximately 2.64 ounces (74.8 grams). This measurement is essential for precise air fryer cooking, ensuring your portions are spot-on for recipes and meal prep.</p>  
+
+<h2>Understanding the Conversion</h2>  
+<p>Converting 0.33 cup of cooked rice to ounces is straightforward once you know the standard weight. Cooked rice is lighter than uncooked rice, with 1 cup typically weighing around 8 ounces. Therefore, 0.33 cup of cooked rice translates to roughly 2.64 ounces. This measurement is particularly useful for air fryer recipes, where portion control can affect cooking times and results.</p>  
+
+<p>For those using UK measurements, it’s worth noting that 1 UK cup is slightly larger than the US cup, but the difference is negligible for most recipes. If you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, you can trust that the conversions are accurate for UK kitchens. Always measure cooked rice after it’s cooled to avoid discrepancies.</p>  
+
+<h3>Why Accuracy Matters in Air Fryer Cooking</h3>  
+<p>Air fryers cook food quickly and evenly, but portion sizes can impact the final result. Too much rice in a single layer may not crisp properly, while too little could dry out. Knowing that 0.33 cup of cooked rice is 2.64 ounces helps you adjust recipes like fried rice or stuffed peppers with confidence.</p>  
+
+<h2>How to Measure Cooked Rice Correctly</h2>  
+<p>To measure 0.33 cup of cooked rice accurately, use a dry measuring cup and lightly spoon the rice in without packing it down. Level off the top with a straight edge for consistency. If you don’t have a 1/3 cup measure, you can use a tablespoon—0.33 cup equals about 5 tablespoons plus 1 teaspoon.</p>  
+
+<p>For those who prefer weighing ingredients, a kitchen scale is the most precise tool. Simply set it to ounces and measure out 2.64 ounces of cooked rice. This method eliminates guesswork and ensures perfect results every time, especially when using your air fryer for dishes like <a href=https://www.airfryerrecipe.co.uk/recipes>rice-based recipes</a>.</p>  
+
+<h3>Common Uses for 0.33 Cup of Cooked Rice</h3>  
+<p>This portion size is ideal for single-serving meals or side dishes in the air fryer. Try it in stuffed vegetables, rice cakes, or as a base for grain bowls. For meal prep, knowing the ounce equivalent helps you portion out servings quickly and efficiently.</p>  
+
+<h2>Converting Other Rice Measurements</h2>  
+<p>If you need to scale up or down, here’s a quick reference: 1 cup of cooked rice equals 8 ounces, so 0.5 cup is 4 ounces, and 0.25 cup is 2 ounces. Keep this <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> handy for other common measurements.</p>  
+
+<p>For larger batches, multiply accordingly—for example, 2 cups of cooked rice would be 16 ounces. This is helpful when preparing family-sized portions or freezing leftovers for later use in your air fryer.</p>  
+
+<h3>Tips for Cooking Rice in an Air Fryer</h3>  
+<p>While air fryers aren’t typically used to cook raw rice, they’re excellent for reheating or crisping cooked rice. Spread 0.33 cup (2.64 ounces) in an even layer and air fry at 180°C for 3–5 minutes for a crispy texture. Check out our guide to <a href=https://www.airfryerrecipe.co.uk/recipe-category/meal-prep>meal prep with your air fryer</a> for more ideas.</p>  
+
+<h2>Frequently Asked Questions</h2>  
+<p>Still have questions about measuring 0.33 cup of cooked rice in ounces? Below, we’ve answered the most common queries to help you master air fryer cooking with precision.</p>

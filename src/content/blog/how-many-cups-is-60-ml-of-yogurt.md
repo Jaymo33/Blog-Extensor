@@ -1,0 +1,33 @@
+---
+title: "How Many Cups Is 60 ml of Yogurt"
+description: "Learn how to convert 60 ml of yogurt to cups for precise baking and cooking. Perfect for air fryer recipes and meal prep!"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-60-ml-of-yogurt-dc1d04fc.webp"
+tags:
+  - "measurement"
+author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
+---
+
+<p>60 ml of yogurt is approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking, cooking, or air fryer recipes where measurements matter. Whether you're whipping up a cake or marinating chicken, knowing how to convert 60 ml of yogurt to cups ensures your dish turns out perfectly.</p>  
+
+<h2>Understanding the Conversion: 60 ml of Yogurt to Cups</h2>  
+<p>When converting 60 ml of yogurt to cups, it’s important to note that 1 cup equals 240 ml. This means 60 ml is exactly one-quarter of a cup. For those using UK measurements, the conversion remains the same, as metric units are consistent. If you’re working with an American recipe, rest assured that 60 ml of yogurt translates seamlessly to 0.25 cups.</p>  
+
+<p>Many air fryer recipes, like those on <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a>, call for precise measurements to ensure even cooking. Whether you’re making a yogurt-based marinade for chicken or a creamy dessert, getting the 60 ml to cups conversion right is key. A slight miscalculation can affect texture and taste, so accuracy matters.</p>  
+
+<h3>Why Measuring Yogurt Correctly Matters</h3>  
+<p>Yogurt is a versatile ingredient used in everything from baking to marinades. Too much or too little can throw off the balance of your recipe. For example, if you’re making a yogurt-based cake in your air fryer, 60 ml of yogurt (or 0.25 cups) ensures the right moisture level. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for more handy measurement tips.</p>  
+
+<h2>Tools for Measuring 60 ml of Yogurt</h2>  
+<p>While a liquid measuring cup is ideal for 60 ml of yogurt, a standard dry measuring cup can also work if you level it off properly. For the most accurate results, use a kitchen scale set to grams—60 ml of yogurt weighs roughly 61 grams. This method eliminates guesswork, especially for air fryer recipes where precision is crucial.</p>  
+
+<p>If you don’t have a scale or measuring cup, a tablespoon can help. Since 1 tablespoon equals 15 ml, 60 ml of yogurt is 4 tablespoons. This trick is handy when you’re in a pinch and need to measure ingredients quickly. For more air fryer-friendly recipes, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert category</a> for inspiration.</p>  
+
+<h3>Common Uses for 60 ml of Yogurt in Air Fryer Cooking</h3>  
+<p>Yogurt is a staple in many air fryer recipes, from marinades to baked goods. A 60 ml portion (0.25 cups) is perfect for coating chicken or fish before air frying, ensuring a tender result. It’s also great for adding moisture to cakes or muffins, like those in our <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cakes category</a>.</p>  
+
+<h2>Converting 60 ml of Yogurt in Different Recipes</h2>  
+<p>Whether you’re following a UK or US recipe, 60 ml of yogurt equals 0.25 cups. This consistency makes it easy to adapt recipes for your air fryer. For example, if a recipe calls for 120 ml of yogurt, you’ll know that’s 0.5 cups (or half a cup). Keeping these conversions in mind simplifies meal prep and baking.</p>  
+
+<p>If you’re scaling up a recipe, remember that 240 ml of yogurt equals 1 cup. This is useful for batch cooking or meal prep in your air fryer. For more tips on air fryer maintenance, check out our guide on <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>how to clean your air fryer</a> to keep it in top condition.</p>

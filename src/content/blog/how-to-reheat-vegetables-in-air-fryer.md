@@ -6,7 +6,7 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>Reheating vegetables in an air fryer typically takes 3-5 minutes at 160-180°C, depending on the type and quantity. This method restores crispness while preventing the sogginess you get from microwaving. Whether you’re working with roasted root veg, steamed greens, or stir-fried mixes, your air fryer can revive them with minimal effort.</p>

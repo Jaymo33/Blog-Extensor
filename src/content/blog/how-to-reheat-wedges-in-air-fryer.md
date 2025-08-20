@@ -6,6 +6,7 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+schema: "<script type=\"application/ld+json\"></script>"
 ---
 
 <p>Reheating wedges in an air fryer at 180°C (350°F) for 3–5 minutes restores their crispiness perfectly. This method beats microwaving, which often leaves them limp, and is quicker than using a conventional oven. Whether your wedges are from last night’s dinner or stored in the fridge, an air fryer brings them back to life with minimal effort.</p>
