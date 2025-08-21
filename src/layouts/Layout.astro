@@ -85,6 +85,10 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 						   aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
 						<div class="nav-dropdown-icon-2 w-icon-dropdown-toggle"></div>
 						<div class="nav-link">Resources</div>
+						<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7071 14.7071C12.3166 15.0976 11.6834 15.0976 11.2929 14.7071L6.29289 9.70711C5.90237 9.31658 5.90237 8.68342 6.29289 8.29289C6.68342 7.90237 7.31658 7.90237 7.70711 8.29289L12 12.5858L16.2929 8.29289C16.6834 7.90237 17.3166 7.90237 17.7071 8.29289C18.0976 8.68342 18.0976 9.31658 17.7071 9.70711L12.7071 14.7071Z" fill="#000000"/>
+</svg>
 					  </div>
 					  <nav class="nav-dropdown-list-2 shadow-three mobile-shadow-hide w-dropdown-list" 
 						   id="w-dropdown-list-0" aria-labelledby="w-dropdown-toggle-0">
@@ -98,7 +102,7 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 				  </li>
 	  
 				  <!-- Regular Links -->
-				  <li><a href="/blog" class="nav-link w--current">Blog</a></li>
+				  <li class="blog-btn-nav"><a href="/blog" class="nav-link w--current">Blog</a></li>
 				  <li><a href="https://www.airfryerrecipe.co.uk/about" class="nav-link">About Us</a></li>
 				  <li><a href="https://www.airfryerrecipe.co.uk/support" class="nav-link">Contact Us</a></li>
 				</ul>
@@ -139,10 +143,12 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 .container-2 {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   padding: 0.75rem 2rem;
   max-width: 1000px;
   margin: auto;
+}
+.navbar-wrapper{
+	margin-left: 250px;
 }
 
 /* Logo Image */
@@ -187,6 +193,10 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   position: relative;
 }
 
+.blog-btn-nav{
+	border-radius: 20px;
+}
+
 .nav-dropdown-toggle-2 {
   display: flex;
   align-items: center;
@@ -199,7 +209,7 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   top: 100%;
   left: 0;
   background: white;
-  min-width: 200px;
+  min-width: 250px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   border-radius: 6px;
   overflow: hidden;
@@ -207,15 +217,16 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 }
 
 .nav-dropdown-list-2 a {
- 
+
   display: block;
   color: #333;
   text-decoration: none;
 }
 
-.nav-dropdown-list-2 a:hover {
-  background: #f7f7f7;
-}
+
+/* .nav-dropdown-list-2 a:hover {
+  background: #D3EFE7;
+} */
 
 /* Show Dropdown on Hover */
 .nav-dropdown-2:hover .nav-dropdown-list-2 {
@@ -385,7 +396,7 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 	nav {
 		display: flex;
 		justify-content: space-around;
-		align-items: center;
+		
 		max-width: var(--max-width);
 		margin: 0 auto;
 	}
@@ -409,10 +420,6 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 		font-weight: 500;
 		font-size: 1rem;
 		padding: 0.5rem 0.75rem;
-	}
-
-	.nav-links a:hover {
-		color: #FF6B35;
 	}
 
 	.dropdown-arrow {
