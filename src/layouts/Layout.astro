@@ -172,8 +172,19 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 }
 .nav-dropdown-link-2:hover{
   background-color: #DAF5ED;
-
+  color: #4A5152;
+  font-weight: 600;
+  border-radius: 15px;
 }
+.nav-dropdown-link-2{
+	font-size: 12px;
+	
+}
+
+/* Add this new CSS rule for white background on dropdown hover */
+/* .nav-dropdown-list-2:hover {
+  background-color: white;
+} */
 
 .nav-link {
   color: #333;
@@ -186,6 +197,7 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 .nav-link:hover,
 .nav-link.w--current {
   font-weight: bold;
+  color: #333;
 }
 
 /* Dropdown Styles */
@@ -193,10 +205,16 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   position: relative;
 }
 
-.blog-btn-nav{
+/* .blog-btn-nav{
 	border-radius: 20px;
+	 background-color:#D3EFE7;
+} */
+.blog-btn-nav .nav-link:hover {
+  background-color: #D3EFE7 !important;
+  color: #333 !important;
+  border-radius: 20px;
+  font-weight: bold !important;
 }
-
 .nav-dropdown-toggle-2 {
   display: flex;
   align-items: center;
@@ -214,10 +232,10 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   border-radius: 6px;
   overflow: hidden;
   flex-direction: column;
+  padding: 4px 1px;
 }
 
 .nav-dropdown-list-2 a {
-
   display: block;
   color: #333;
   text-decoration: none;
@@ -263,8 +281,8 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 		--color-dark: #222222;
 		--color-gray: #666666;
 		--color-gray-light: #dddddd;
-		--font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-		--font-family-heading: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+		--font-family-base: Georgia, 'Times New Roman', Times, serif;
+		--font-family-heading: Georgia, 'Times New Roman', Times, serif;
 		--box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 		--border-radius: 8px;
 		--max-width: 1200px;
