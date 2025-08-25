@@ -41,7 +41,7 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
 <Layout currentTitle={title}>
   <!-- Removed the old breadcrumb navigation as it's replaced by SecondaryNav -->
   <div class="blog-container">
-    <main class="blog-main">
+    <main class="blog-main" style="width: 92%;">
       <article class="blog-post">
         
         {/* Post Header */}
@@ -86,6 +86,12 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
     padding: 2rem 1rem;
     gap: 2rem;
   }
+
+  @media (max-width: 768px) {
+  .blog-container {
+    padding: 0;
+  }
+}
 
   .blog-main {
     /* max-width: 800px; */
@@ -136,7 +142,11 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
     color: #014E4E;
     line-height: 1.2;
   }
-
+@media (max-width: 768px) {
+   .post-title {
+    margin-top: 10px;
+  }
+}
   .post-tags {
     display: flex;
     flex-wrap: wrap;
@@ -357,7 +367,12 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
     border-radius: 25px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   }
-
+@media (max-width: 768px) {
+   .header-image {
+    height: 250px;
+    min-width: 350px;
+  }
+}
 </style>
 
 <!-- Schema.org JSON-LD -->
