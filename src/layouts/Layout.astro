@@ -258,16 +258,163 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 
 /* Responsive Styling */
 @media (max-width: 768px) {
+  .navbar-logo-left {
+    height: 80px;
+    background: #FFF8ED;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .container-2 {
+    padding: 1rem 1.5rem;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    max-width: 100%;
+  }
+  
+  .image-21 {
+    height: 50px;
+    width: auto;
+  }
+  
+  .navbar-wrapper {
+    position: relative;
+    margin-left: 0;
+  }
+  
   .nav-menu-two {
     display: none;
     flex-direction: column;
-    background: white;
-    width: 100%;
-    padding: 1rem;
+    background: #FFF8ED;
+    width: 75vw;
+    padding: 0;
+    position: fixed;
+    top: 80px;
+    left: 30px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    max-height: calc(100vh - 80px);
+    overflow-y: auto;
+    border-top: 1px solid #e5e5e5;
+	border-radius: 15px;
   }
-  .menu-button {
+  
+  .nav-menu-two li {
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .nav-menu-two li:last-child {
+    border-bottom: none;
+  }
+  
+  .nav-link {
     display: block;
+    font-size: 16px;
+    color: #333;
+    border-radius: 0;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+  }
+  
+  .nav-link:hover {
+    color: #333;
+  }
+  
+  .nav-dropdown-2 {
+    width: 80%;
+  }
+  
+  .nav-dropdown-toggle-2 {
+    padding-left: 95px;
+    background: none;
+    border: none;
+    text-align: left;
     cursor: pointer;
+  }
+  
+  /* .nav-dropdown-toggle-2:hover {
+    background-color: #f0f0f0;
+  } */
+  
+  .nav-dropdown-list-2 {
+    position: static;
+    display: none;
+    flex-direction: column;
+    background: #f8f9fa;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #e5e5e5;
+	margin-left: 25px;
+  }
+  
+  .nav-dropdown-link-2 {
+    /* padding: 1rem 2.5rem; */
+    font-size: 14px;
+    border-bottom: 1px solid #e9ecef;
+    color: #666;
+  }
+  
+  .nav-dropdown-link-2:hover {
+    background-color: #DAF5ED;
+    color: #4A5152;
+  }
+  
+  .nav-dropdown-link-2:last-child {
+    border-bottom: none;
+  }
+  
+  .menu-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0.5rem;
+    background: none;
+    border: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .menu-button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  
+  .w-icon-nav-menu {
+    width: 24px;
+    height: 24px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23333' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cline x1='3' y1='6' x2='21' y2='6'%3e%3c/line%3e%3cline x1='3' y1='12' x2='21' y2='12'%3e%3c/line%3e%3cline x1='3' y1='18' x2='21' y2='18'%3e%3c/line%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+  
+  .w-nav-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 999;
+  }
+  
+  .blog-btn-nav .nav-link {
+    background-color: #D3EFE7;
+    color: #333;
+    margin: 0.5rem 1.5rem;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .blog-btn-nav .nav-link:hover {
+    background-color: #26a69a;
+    color: white;
   }
 }
 
@@ -460,3 +607,62 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 		}
 	}
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const menuButton = document.querySelector('.menu-button') as HTMLElement;
+    const navMenu = document.querySelector('.nav-menu-two') as HTMLElement;
+    const navOverlay = document.querySelector('.w-nav-overlay') as HTMLElement;
+    const dropdownToggles = document.querySelectorAll('.nav-dropdown-toggle-2');
+    
+    // Mobile menu toggle
+    if (menuButton && navMenu) {
+      menuButton.addEventListener('click', function() {
+        const isOpen = navMenu.style.display === 'flex';
+        
+        if (isOpen) {
+          navMenu.style.display = 'none';
+          if (navOverlay) navOverlay.style.display = 'none';
+          menuButton.setAttribute('aria-expanded', 'false');
+        } else {
+          navMenu.style.display = 'flex';
+          if (navOverlay) navOverlay.style.display = 'block';
+          menuButton.setAttribute('aria-expanded', 'true');
+        }
+      });
+      
+      // Close menu when clicking overlay
+      if (navOverlay) {
+        navOverlay.addEventListener('click', function() {
+          navMenu.style.display = 'none';
+          navOverlay.style.display = 'none';
+          menuButton.setAttribute('aria-expanded', 'false');
+        });
+      }
+    }
+    
+    // Mobile dropdown toggles
+    dropdownToggles.forEach((toggle: Element) => {
+      toggle.addEventListener('click', function(this: HTMLElement, e: Event) {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          const dropdownList = this.nextElementSibling as HTMLElement;
+          const isOpen = dropdownList?.style.display === 'flex';
+          
+          // Close all other dropdowns
+          document.querySelectorAll('.nav-dropdown-list-2').forEach((list: Element) => {
+            const listElement = list as HTMLElement;
+            if (listElement !== dropdownList) {
+              listElement.style.display = 'none';
+            }
+          });
+          
+          // Toggle current dropdown
+          if (dropdownList) {
+            dropdownList.style.display = isOpen ? 'none' : 'flex';
+          }
+        }
+      });
+    });
+  });
+</script>
