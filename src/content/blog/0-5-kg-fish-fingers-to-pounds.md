@@ -168,7 +168,7 @@ schema: |
           ],
           "availableLanguage": [
             "English"
-          },
+            ],
           "email": "support@airfryerrecipe.co.uk"
         }
       }
