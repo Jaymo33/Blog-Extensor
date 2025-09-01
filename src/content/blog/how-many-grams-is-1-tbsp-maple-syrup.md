@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1 tbsp of maple syrup?"
 description: "Find out exactly how many grams are in 1 tbsp of maple syrup for perfect air fryer recipes every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-tbsp-maple-syrup-4577c423.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-maple-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-maple-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-maple-syrup"
+    },
+    "headline": "Quick Answer: How many grams is 1 tbsp of maple syrup?",
+    "description": "Find out exactly how many grams are in 1 tbsp of maple syrup for perfect air fryer recipes every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-maple-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 1 tbsp of maple syrup the same as 20g in all countries?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "In the UK, 1 tbsp of maple syrup is consistently around 20g due to standardised tablespoon measurements (15ml). However, US tablespoons are slightly larger (14.8ml vs 15ml), so the weight may vary by a gram or two. Always check your local standards if precision is crucial."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use honey instead of maple syrup in the same weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While honey and maple syrup have similar densities (1 tbsp of honey is also roughly 20g), their flavours and moisture content differ. Honey is sweeter and thicker, which may affect cooking times in air fryer recipes. Adjust other liquids slightly if substituting."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my maple syrup measurement seem heavier than 20g per tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If your syrup is colder or crystallised, it may pack more densely into the spoon, increasing the weight. Let it reach room temperature and stir well before measuring for accuracy. Impurities or added thickeners can also cause slight variations."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert grams of maple syrup to cups for larger recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Since 1 tbsp equals 20g, 1 UK cup (250ml) holds about 16 tbsp, totalling 320g. For US cups (240ml), it’s roughly 300g. Use these approximations for glazes or marinades, but weigh critical ingredients for baking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of maple syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-maple-syrup",
+    "description": "Find out exactly how many grams are in 1 tbsp of maple syrup for perfect air fryer recipes every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-maple-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1 tbsp of maple syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-maple-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1 tablespoon (tbsp) of maple syrup weighs approximately 20 grams. This measurement is essential for precise cooking, especially when using an air fryer, where accuracy can make or break a recipe. Whether you’re drizzling it over air-fried pancakes or using it as a glaze for roasted vegetables, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

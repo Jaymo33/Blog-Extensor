@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 2.25 Cups of Lemon Juice?"
 description: "Convert 2.25 cups of lemon juice to ml effortlessly for perfect air fryer recipes. Get precise measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-2-25-cups-of-lemon-juice-9db947ee.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-lemon-juice.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-lemon-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-lemon-juice"
+    },
+    "headline": "Quick Conversion: How Many ml Is 2.25 Cups of Lemon Juice?",
+    "description": "Convert 2.25 cups of lemon juice to ml effortlessly for perfect air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T23:32:33.463000+00:00",
+    "dateModified": "2025-07-28T23:32:33.463000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-lemon-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.25 cups of lemon juice the same in UK and US measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, there’s a slight difference. A US cup is 236.588 ml, so 2.25 cups equal 532.32 ml. A UK cup is 284 ml, making 2.25 cups approximately 639 ml. Most modern recipes, including those on airfryerrecipe.co.uk, use the US standard unless specified."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lemon juice instead of fresh for this conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, bottled lemon juice works for the 2.25 cups (532.32 ml) conversion, but fresh juice offers brighter flavour. If using bottled, check for additives like preservatives, which might slightly alter taste in air fryer recipes like marinades or glazes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 2.25 cups of lemon juice last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Freshly squeezed lemon juice lasts 2-3 days refrigerated. For longer storage, freeze 532.32 ml (2.25 cups) in ice cube trays and thaw as needed. Avoid storing in metal containers, as acidity can react with the material."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What air fryer recipes commonly use 2.25 cups of lemon juice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Large-batch recipes like citrus marinades for chicken, lemon glaze for cakes, or dressings for salads often require this amount. It’s also handy for meal-prepping sauces or cleaning solutions. Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a> for inspiration."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.25 Cups of Lemon Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-lemon-juice",
+    "description": "Convert 2.25 cups of lemon juice to ml effortlessly for perfect air fryer recipes. Get precise measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T23:32:33.463000+00:00",
+    "dateModified": "2025-07-28T23:32:33.463000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-lemon-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 2.25 Cups of Lemon Juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-lemon-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.25 cups of lemon juice equals approximately 532.32 millilitres (ml). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or baked goods. Whether you're following a British or American recipe, knowing how to convert cups to ml guarantees consistent results every time.</p>

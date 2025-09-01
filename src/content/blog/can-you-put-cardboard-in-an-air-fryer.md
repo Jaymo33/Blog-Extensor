@@ -1,12 +1,195 @@
 ---
 title: "Can You Put Cardboard in an Air Fryer?"
 description: "Wondering if cardboard is safe in an air fryer? Learn why it's risky, fire hazards, and safer alternatives for cooking and reheating."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/can-you-put-cardboard-in-an-air-fryer-97ceac02.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-cardboard-in-an-air-fryer.png"
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cardboard-in-an-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cardboard-in-an-air-fryer"
+    },
+    "headline": "Can You Put Cardboard in an Air Fryer? Safety Guide",
+    "description": "Wondering if cardboard is safe in an air fryer? Learn why it's risky, fire hazards, and safer alternatives for cooking and reheating.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T22:38:02.529000+00:00",
+    "dateModified": "2025-07-22T22:38:02.529000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-cardboard-in-an-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Safety"
+    },
+    "articleSection": "Safety",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you use cardboard in an air fryer for reheating pizza?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, reheating pizza on cardboard in an air fryer is unsafe. The high heat can ignite the cardboard, especially if it’s greasy. Use a microwave-safe plate or place the pizza directly on the air fryer rack instead."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Will cardboard catch fire in an air fryer immediately?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cardboard can smoulder or catch fire within minutes, depending on the air fryer’s temperature and the cardboard’s thickness. Even at lower settings, the risk remains due to concentrated heat circulation."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is there any type of cardboard safe for air fryers?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No cardboard is air fryer-safe. All varieties—including pizza boxes, cereal boxes, and parchment-lined cardboard—pose fire and toxicity risks. Stick to purpose-made liners or silicone mats."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What should I do if cardboard accidentally goes in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Unplug the air fryer immediately and let it cool in a ventilated area. Check for damage or residue, and clean thoroughly before next use. If smoke persists, consult the manufacturer or a professional."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Can You Put Cardboard in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cardboard-in-an-air-fryer",
+    "description": "Wondering if cardboard is safe in an air fryer? Learn why it's risky, fire hazards, and safer alternatives for cooking and reheating.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T22:38:02.529000+00:00",
+    "dateModified": "2025-07-22T22:38:02.529000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cardboard-in-an-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Can You Put Cardboard in an Air Fryer?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cardboard-in-an-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>No, you should never put cardboard in an air fryer. Cardboard is highly flammable and can catch fire when exposed to the high heat of an air fryer, which typically operates between 160°C and 200°C. Even small pieces or grease-soaked cardboard pose serious risks, from smoke damage to full-blown fires. Instead, opt for air fryer-safe liners or parchment paper designed for high temperatures. For more safe cooking tips, explore <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> that use proper materials.</p>  

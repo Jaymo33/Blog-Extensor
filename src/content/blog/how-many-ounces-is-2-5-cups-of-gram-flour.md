@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 2.5 cups of gram flour?"
 description: "Discover how to convert 2.5 cups of gram flour to ounces for perfect air fryer recipes. Get precise measurements and baking tips!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-2-5-cups-of-gram-flour-ae48a5bd.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-gram-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-gram-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-gram-flour"
+    },
+    "headline": "Quick Answer: 2.5 Cups of Gram Flour to Ounces Conversion",
+    "description": "Discover how to convert 2.5 cups of gram flour to ounces for perfect air fryer recipes. Get precise measurements and baking tips!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-gram-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use a regular cup to measure gram flour for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can use a standard measuring cup, for the most accurate results, a kitchen scale is best. Gram flour can settle or become compacted, affecting the weight. If using cups, fluff the flour first and level it off for consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of gram flour affect the 2.5 cups to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Slight variations may occur based on brand or how finely the gram flour is milled. However, 2.5 cups generally converts to around 10.6 oz. For precision, always check the packaging or weigh it yourself."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust air fryer cooking times when using gram flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Gram flour cooks faster than wheat flour due to its finer texture. Start with shorter cooking times and check frequently. Recipes using 2.5 cups (10.6 oz) may need slight adjustments based on your air fryer model."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute gram flour with another type in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Gram flour has unique binding properties, so substitutes like almond flour or rice flour may alter texture. If replacing, adjust quantities slightly and expect differences in crispiness. Always test small batches first."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of gram flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-gram-flour",
+    "description": "Discover how to convert 2.5 cups of gram flour to ounces for perfect air fryer recipes. Get precise measurements and baking tips!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-gram-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 2.5 cups of gram flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-gram-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.5 cups of gram flour equals approximately 10.6 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Gram flour, also known as besan, is a staple in many air fryer recipes, from crispy pakoras to gluten-free baking. If you're using an air fryer, knowing the exact weight ensures consistent results every time. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

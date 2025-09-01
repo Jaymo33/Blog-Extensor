@@ -1,12 +1,195 @@
 ---
 title: "237 C to Fan Oven"
 description: "Convert 237 C to fan oven settings for perfect air frying. Learn temperature equivalents, adjustments & recipes for your air fryer."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/237-c-to-fan-oven-0208830c.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/237-c-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/237-c-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/237-c-to-fan-oven"
+    },
+    "headline": "237 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 237 C to fan oven settings for perfect air frying. Learn temperature equivalents, adjustments & recipes for your air fryer.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T17:06:33.012000+00:00",
+    "dateModified": "2025-07-21T17:06:33.012000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/237-c-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 237 C to an air fryer setting?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most air fryers use fan-oven logic, so set yours to 220 C for a 237 C recipe. Always check food early, as cooking times may vary by model."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 237 C for baking in a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but reduce it to 220 C for fan ovens. This prevents over-browning while ensuring even baking, ideal for pastries and breads."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer cook faster at 237 C equivalent?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate heat more aggressively than standard ovens, so 220 C (fan) cooks food quicker. Reduce time by 10-15% and monitor closely."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 237 C too high for air frying frozen foods?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "At 220 C (fan), most frozen foods cook perfectly. However, check packaging for specific instructions, as some items require lower temperatures."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "237 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/237-c-to-fan-oven",
+    "description": "Convert 237 C to fan oven settings for perfect air frying. Learn temperature equivalents, adjustments & recipes for your air fryer.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T17:06:33.012000+00:00",
+    "dateModified": "2025-07-21T17:06:33.012000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/237-c-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "237 C to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/237-c-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>237 C converts to approximately 220 C in a fan oven. This slight reduction accounts for the efficient heat circulation in fan-assisted ovens and air fryers, ensuring even cooking without over-browning. Whether you're baking, roasting, or air frying, this conversion is key to perfect results.</p>

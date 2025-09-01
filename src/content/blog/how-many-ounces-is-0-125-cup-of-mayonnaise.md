@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.125 cup of mayonnaise?"
 description: "Learn how to convert 0.125 cup of mayonnaise to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-125-cup-of-mayonnaise-6cf0a9ab.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-mayonnaise.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-mayonnaise",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-mayonnaise"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup Mayonnaise to Ounces Easily",
+    "description": "Learn how to convert 0.125 cup of mayonnaise to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-mayonnaise.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I measure 0.125 cup of mayonnaise without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring cup, use a tablespoon: 0.125 cup equals 2 tablespoons. Alternatively, a kitchen scale can measure 1 ounce directly. For small amounts like this, precision ensures your air fryer dishes turn out perfectly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 0.125 cup of mayonnaise for air fryer chicken?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 0.125 cup (1 oz) of mayonnaise is ideal for coating chicken in the air fryer. It helps create a crispy, golden exterior while keeping the meat juicy. Try it in recipes like air fryer chicken wings or breaded tenders."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 0.125 cup of mayonnaise the same as 1 fluid ounce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, in weight, 0.125 cup of mayonnaise is approximately 1 ounce. However, fluid ounces measure volume, not weight, so for thick ingredients like mayonnaise, it’s best to weigh it for accuracy in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to store leftover mayonnaise after measuring 0.125 cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store leftover mayonnaise in an airtight container in the fridge. Use it within a week for best quality. It’s perfect for quick air fryer sauces or dressings, so you’ll likely find plenty of uses for it."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-mayonnaise",
+    "description": "Learn how to convert 0.125 cup of mayonnaise to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-mayonnaise#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.125 cup of mayonnaise?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-mayonnaise"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.125 cup of mayonnaise equals approximately 1 ounce. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a quick sauce or coating chicken for a crispy finish, knowing how to convert cups to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve restaurant-quality results at home.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 2.0 Cups of Evaporated Milk?"
 description: "Discover the exact ml measurement for 2.0 cups of evaporated milk with our easy conversion guide—perfect for air fryer recipes!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-2-cups-evaporated-milk-5c0c56c9.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-evaporated-milk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-evaporated-milk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-evaporated-milk"
+    },
+    "headline": "Quick Answer: How Many ml Is 2.0 Cups of Evaporated Milk?",
+    "description": "Discover the exact ml measurement for 2.0 cups of evaporated milk with our easy conversion guide—perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T23:32:33.463000+00:00",
+    "dateModified": "2025-07-28T23:32:33.463000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-evaporated-milk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.0 cups of evaporated milk the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 2.0 cups of evaporated milk equals 473 ml in both the UK and US. While cup sizes can vary slightly for dry ingredients, liquid measurements like evaporated milk are standardised globally. Always use a liquid measuring jug for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use regular milk instead of evaporated milk in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can, but evaporated milk is thicker and richer, so results may differ. If substituting, use 2.0 cups (473 ml) of regular milk mixed with ½ cup of powdered milk to mimic the texture. Adjust cooking times slightly as regular milk contains more water."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store leftover evaporated milk after measuring 2.0 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Transfer unused evaporated milk to an airtight container and refrigerate for up to 5 days. For longer storage, freeze it in 473 ml (2.0-cup) portions. Thaw in the fridge before using, and stir well to restore consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for evaporated milk instead of fresh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Evaporated milk caramelises better and resists curdling under high heat, making it ideal for air fryers. Its concentrated flavour also enhances dishes without adding excess moisture. For best results, stick to the 2.0 cups (473 ml) measurement specified in your recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.0 Cups of Evaporated Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-evaporated-milk",
+    "description": "Discover the exact ml measurement for 2.0 cups of evaporated milk with our easy conversion guide—perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T23:32:33.463000+00:00",
+    "dateModified": "2025-07-28T23:32:33.463000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-evaporated-milk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 2.0 Cups of Evaporated Milk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-evaporated-milk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.0 cups of evaporated milk equals 473 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a creamy dessert or a savoury dish, precise measurements ensure consistent results. Evaporated milk is thicker than regular milk, so getting the conversion right is key for texture and flavour. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

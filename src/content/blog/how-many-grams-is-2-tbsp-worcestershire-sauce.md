@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 2 tbsp of worcestershire sauce?"
 description: "Find out exactly how many grams are in 2 tbsp of worcestershire sauce for perfect air fryer recipes every time. Includes UK conversions and tips."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-tbsp-worcestershire-sauce-586edaa5.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-worcestershire-sauce.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-worcestershire-sauce",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-worcestershire-sauce"
+    },
+    "headline": "Quick Answer: How many grams is 2 tbsp of worcestershire sauce?",
+    "description": "Find out exactly how many grams are in 2 tbsp of worcestershire sauce for perfect air fryer recipes every time. Includes UK conversions and tips.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-worcestershire-sauce.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale to measure worcestershire sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, a kitchen scale is the most accurate way to measure worcestershire sauce. Simply set your scale to grams, place a small bowl on it, and pour the sauce until it reaches 30 grams for 2 tablespoons. This method eliminates guesswork and ensures perfect results in your air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does worcestershire sauce thicken in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Worcestershire sauce can reduce and thicken slightly in the air fryer due to the high heat. If using it as a glaze, mix it with a bit of honey or oil to prevent over-thickening. For marinades, the sauce will infuse into the food without becoming too sticky."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 2 tbsp of worcestershire sauce too much for air fryer chicken?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "2 tbsp (30 grams) of worcestershire sauce is ideal for marinating 4-6 chicken pieces in the air fryer. It provides enough flavour without overpowering the meat. For smaller portions, reduce the amount to 1 tbsp (15 grams) and adjust other seasonings accordingly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute soy sauce for worcestershire sauce in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Soy sauce can be used as a substitute, but it’s saltier and lacks the tangy depth of worcestershire sauce. Use about 1.5 tbsp (22 grams) of soy sauce for every 2 tbsp (30 grams) of worcestershire sauce, and add a splash of lemon juice for balance."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of worcestershire sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-worcestershire-sauce",
+    "description": "Find out exactly how many grams are in 2 tbsp of worcestershire sauce for perfect air fryer recipes every time. Includes UK conversions and tips.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-worcestershire-sauce#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 2 tbsp of worcestershire sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-worcestershire-sauce"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2 tablespoons (tbsp) of worcestershire sauce weigh approximately 30 grams (g) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re marinating chicken, seasoning beef, or adding depth to vegetables, knowing the exact weight helps you achieve consistent results.</p>

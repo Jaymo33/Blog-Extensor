@@ -1,12 +1,195 @@
 ---
 title: "301 F to Fan Oven"
 description: "Convert 301 F to fan oven settings easily. Learn the exact temperature and how it compares to air fryer cooking for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/301-f-to-fan-oven-f86d0d2d.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/301-f-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/301-f-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/301-f-to-fan-oven"
+    },
+    "headline": "301 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 301 F to fan oven settings easily. Learn the exact temperature and how it compares to air fryer cooking for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T19:59:54.203000+00:00",
+    "dateModified": "2025-07-21T19:59:54.203000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/301-f-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How does 301 F compare between a fan oven and conventional oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "301 F equals about 149 C in a conventional oven, but reduces to approximately 150 C in a fan oven due to the more efficient heat circulation. Fan ovens typically cook faster at slightly lower temperatures than conventional ovens."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same cooking time when converting 301 F to fan oven settings?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, you'll generally need to reduce cooking time by about 10-15% when using a fan oven compared to conventional oven settings at 301 F. Always check food a few minutes early and use visual cues for doneness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 301 F suitable for air frying chicken?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "301 F (150 C fan) works well for slow-cooking chicken in an air fryer, especially for tender results. However, for crispy skin, you'll want to finish at a higher temperature (about 200 C fan) for the last few minutes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why would I cook at 301 F instead of higher temperatures?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "301 F (150 C fan) is ideal for gentle cooking that prevents burning while allowing thorough cooking. It's perfect for dehydrating, slow-roasting, or cooking delicate items that might dry out at higher temperatures."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "301 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/301-f-to-fan-oven",
+    "description": "Convert 301 F to fan oven settings easily. Learn the exact temperature and how it compares to air fryer cooking for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T19:59:54.203000+00:00",
+    "dateModified": "2025-07-21T19:59:54.203000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/301-f-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "301 F to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/301-f-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>301 F converts to approximately 150 C in a fan oven. This temperature is commonly used for slow roasting, baking delicate items, or dehydrating foods in both fan ovens and air fryers. Understanding this conversion helps when following recipes designed for different cooking appliances.</p>

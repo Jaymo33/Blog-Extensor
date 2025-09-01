@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 30g of cocoa powder?"
 description: "Convert 30g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/30g-cocoa-powder-to-ounces-d27d105e.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-cocoa-powder-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-cocoa-powder-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-cocoa-powder-to-ounces"
+    },
+    "headline": "Quick 30g cocoa powder to ounces conversion for UK bakers",
+    "description": "Convert 30g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-cocoa-powder-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 30g of cocoa powder in savoury air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 30g of cocoa powder can add depth to savoury dishes like chilli or mole sauce in the air fryer. Just ensure you balance it with other spices to avoid overpowering the dish."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store leftover cocoa powder after measuring 30g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store cocoa powder in an airtight container in a cool, dark place. This prevents moisture absorption and keeps it fresh for future air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 30g of cocoa powder the same as 30g of melted chocolate?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, cocoa powder and melted chocolate aren’t interchangeable. Cocoa powder is pure cocoa solids, while melted chocolate contains fat and sugar, altering the recipe’s texture and taste."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute 30g of cocoa powder with hot chocolate mix?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It’s not recommended, as hot chocolate mix contains sugar and milk powder. Using it instead of cocoa powder will make your air fryer dessert overly sweet and less chocolatey."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of cocoa powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-cocoa-powder-to-ounces",
+    "description": "Convert 30g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-cocoa-powder-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 30g of cocoa powder?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-cocoa-powder-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>30 grams of cocoa powder equals approximately 1.06 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're preparing brownies, cakes, or hot chocolate, knowing how to convert 30g cocoa powder to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious treats.</p>  

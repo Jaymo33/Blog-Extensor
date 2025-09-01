@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 2 cups of jam?"
 description: "Learn how to convert 2 cups of jam to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-2-cups-of-jam-a3dc42b9.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-jam.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-jam",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-jam"
+    },
+    "headline": "Quick Guide: Convert 2 Cups of Jam to Ounces Easily",
+    "description": "Learn how to convert 2 cups of jam to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-jam.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 2 cups of any type of jam for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most jams work well, but thicker varieties like marmalade or fruit preserves may need thinning with water or juice. Avoid sugar-free jams unless specified, as they can behave differently under heat. Always check recipe notes for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 2 cups of jam to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Since 2 cups of jam equal 16 ounces, this converts to approximately 454 grams. For precise baking, use a kitchen scale. Grams are more accurate for international recipes or when scaling ingredients."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer jam glaze burn sometimes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "High sugar content in jam can caramelise quickly in air fryers. To prevent burning, apply glazes in the last 5 minutes of cooking or dilute jam with a splash of water. Lower temperatures (160°C) also help."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze leftover jam measured in cups or ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, jam freezes well in airtight containers. Label with the measurement (e.g., \"16 oz/2 cups\") for easy use later. Thaw in the fridge overnight before reheating or using in recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of jam?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-jam",
+    "description": "Learn how to convert 2 cups of jam to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-jam#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 2 cups of jam?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-jam"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2 cups of jam equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making glazes, fillings, or sauces, knowing how many ounces are in 2 cups of jam ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

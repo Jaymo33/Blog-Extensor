@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 4 tbsp of minced garlic?"
 description: "Convert 4 tbsp of minced garlic into grams easily for precise cooking. Perfect for air fryer recipes and meal prep."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-4-tbsp-minced-garlic-9ba01612.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-minced-garlic.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-garlic",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-garlic"
+    },
+    "headline": "Quick Answer: 4 tbsp minced garlic to grams UK",
+    "description": "Convert 4 tbsp of minced garlic into grams easily for precise cooking. Perfect for air fryer recipes and meal prep.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-minced-garlic.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use garlic powder instead of minced garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but the conversion differs. 1/8 teaspoon of garlic powder equals one fresh garlic clove or about 1 tsp minced garlic. For 4 tbsp (48 grams) of minced garlic, substitute with 2 teaspoons of garlic powder. Adjust to taste, as powders are more concentrated."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does minced garlic weigh the same as chopped garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, minced garlic is finer and denser than chopped, so it weighs slightly more per tablespoon. 4 tbsp of chopped garlic is roughly 40 grams, while minced garlic is 48 grams. Always check your recipe’s preferred texture for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does minced garlic last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Freshly minced garlic lasts 1–2 days refrigerated, while jarred varieties stay fresh for 2–3 months unopened. Once opened, use jarred minced garlic within 2 weeks. For longer storage, freeze it in portions matching common measurements like 4 tbsp (48 grams)."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK recipes use grams for minced garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide precision, especially in baking and air frying, where small measurement errors affect outcomes. UK recipes often favour weight over volume for consistency. A digital scale ensures accuracy, whether you’re converting 4 tbsp or scaling a recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of minced garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-garlic",
+    "description": "Convert 4 tbsp of minced garlic into grams easily for precise cooking. Perfect for air fryer recipes and meal prep.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-garlic#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 4 tbsp of minced garlic?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-garlic"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>4 tablespoons (tbsp) of minced garlic equals approximately 48 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting portions, knowing the gram equivalent ensures accuracy.</p>  

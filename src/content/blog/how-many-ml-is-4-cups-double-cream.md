@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 4.0 Cups of Double Cream?"
 description: "Discover how to convert 4.0 cups of double cream to ml for perfect baking and cooking every time. Get accurate measurements now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-4-cups-double-cream-52c3ebe4.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-4-cups-double-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-double-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-double-cream"
+    },
+    "headline": "Quick Guide: Convert 4.0 Cups of Double Cream to ml Easily",
+    "description": "Discover how to convert 4.0 cups of double cream to ml for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T08:54:58.618000+00:00",
+    "dateModified": "2025-07-30T08:54:58.618000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-4-cups-double-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 4.0 cups of double cream the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Almost! A UK cup is 236.6 ml, while a US cup is 240 ml. For 4.0 cups, that’s roughly 946 ml (UK) vs 960 ml (US)—a minor difference that rarely affects recipes. However, for precision in baking, stick to one measurement system."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use whipped double cream in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but with caution. Whipped cream can melt or collapse under high heat. Use it as a topping after air frying, or fold it into cold desserts. For cooked dishes, add unwhipped double cream (946 ml for 4.0 cups) directly to the recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 4.0 cups (946 ml) of double cream last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Unopened, it lasts until the expiry date. Once opened, use within 3–4 days. For longer storage, freeze it in portions—though texture may change slightly. Always sniff test before using in your air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to measure sticky double cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Lightly grease your measuring cup with oil first, or use a spatula to scrape out every bit. For 4.0 cups (946 ml), a large liquid jug works best. If scaling down, weigh it: 1 ml of double cream ≈ 1.04 grams."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 4.0 Cups of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-double-cream",
+    "description": "Discover how to convert 4.0 cups of double cream to ml for perfect baking and cooking every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T08:54:58.618000+00:00",
+    "dateModified": "2025-07-30T08:54:58.618000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-double-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 4.0 Cups of Double Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-double-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>4.0 cups of double cream equals approximately 946 ml, making it easy to measure for your air fryer recipes. Whether you’re baking a rich dessert or preparing a creamy sauce, accurate conversions ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial precise measurements are for air fryer cooking. Let’s dive deeper into how this conversion works and why it matters.</p>

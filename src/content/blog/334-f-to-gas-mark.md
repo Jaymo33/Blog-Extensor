@@ -1,12 +1,195 @@
 ---
 title: "334 F to Gas Mark"
 description: "Learn how to convert 334 F to Gas Mark for air fryers and ovens. Includes UK conversions, baking tips, and temperature equivalents."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/334-f-to-gas-mark-ae5620ae.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/334-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/334-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/334-f-to-gas-mark"
+    },
+    "headline": "334 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Learn how to convert 334 F to Gas Mark for air fryers and ovens. Includes UK conversions, baking tips, and temperature equivalents.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T19:42:35.102000+00:00",
+    "dateModified": "2025-07-20T19:42:35.102000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/334-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 334 F (Gas Mark 3) for frozen foods in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 334 F (Gas Mark 3) works well for many frozen foods in air fryers. It provides gentle heating that cooks through without burning the exterior. Adjust cooking times slightly shorter than package instructions due to the air fryer’s efficiency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 334 F compare to other common air fryer temperatures?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "334 F (Gas Mark 3) is lower than typical air frying temperatures (usually 350-400 F), making it better for delicate items. It’s ideal when you want slower cooking without excessive browning, similar to conventional oven baking at moderate heat."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why would my air fryer recipe specify 334 F instead of Gas Mark?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many modern air fryers use digital Fahrenheit displays rather than Gas Mark. Recipes specify 334 F for precision, as some appliances don’t convert between systems. Always check your model’s settings capabilities."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 334 F to Gas Mark conversion different for fan ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 334 F still converts to Gas Mark 3 in fan ovens. However, fan-assisted cooking may require reducing the temperature by about 20 F (to 314 F) for equivalent results, as fans distribute heat more efficiently."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "334 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/334-f-to-gas-mark",
+    "description": "Learn how to convert 334 F to Gas Mark for air fryers and ovens. Includes UK conversions, baking tips, and temperature equivalents.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T19:42:35.102000+00:00",
+    "dateModified": "2025-07-20T19:42:35.102000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/334-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "334 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/334-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <h2>Understanding 334 F to Gas Mark Conversion</h2>

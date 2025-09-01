@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 125g of garlic paste?"
 description: "Learn how to convert 125g of garlic paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/125g-garlic-paste-to-ounces-68b8614d.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-garlic-paste-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-garlic-paste-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-garlic-paste-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 125g of garlic paste to ounces",
+    "description": "Learn how to convert 125g of garlic paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-garlic-paste-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use minced garlic instead of garlic paste in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute minced garlic for garlic paste, but the texture and intensity will differ. Minced garlic has a chunkier texture and a stronger raw flavour compared to the smooth, concentrated taste of garlic paste. Use about 1.5 times the amount of minced garlic to match the flavour of 125g (4.41 oz) of garlic paste."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does homemade garlic paste last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Homemade garlic paste lasts up to two weeks in the fridge if stored in an airtight container. For longer storage, freeze it in small portions. Freezing preserves the flavour for up to three months. Always label containers with dates to keep track of freshness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 125g of garlic paste equal 125ml in volume?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, weight and volume measurements aren’t interchangeable. While 125g of garlic paste is approximately 4.41 ounces, its volume depends on density. Garlic paste is thicker than water, so 125g may occupy slightly less space than 125ml. For accuracy, always weigh ingredients when possible."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to clean garlic paste residue from my air fryer basket?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To remove garlic paste residue, soak the air fryer basket in warm, soapy water for 10–15 minutes. Scrub gently with a non-abrasive sponge, then rinse thoroughly. For stubborn stains, use a baking soda paste. Avoid harsh chemicals to prevent damaging the non-stick coating. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> for more tips."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of garlic paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-garlic-paste-to-ounces",
+    "description": "Learn how to convert 125g of garlic paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-garlic-paste-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 125g of garlic paste?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-garlic-paste-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125g of garlic paste is approximately 4.41 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for the best flavour and texture. Whether you're preparing a marinade, sauce, or rub, getting the quantities right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for perfect cooking results.</p>  

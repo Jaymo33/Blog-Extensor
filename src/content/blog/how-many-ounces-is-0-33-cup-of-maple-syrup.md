@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.33 cup of maple syrup?"
 description: "Discover how many ounces are in 0.33 cup of maple syrup with our easy conversion guide. Perfect for air fryer recipes and precise measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-33-cup-of-maple-syrup-1cb1c1f7.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-maple-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-maple-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-maple-syrup"
+    },
+    "headline": "Quick Answer: 0.33 Cup Maple Syrup to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.33 cup of maple syrup with our easy conversion guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-maple-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use honey instead of maple syrup in my air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute honey for maple syrup in most air fryer recipes. However, honey is slightly sweeter and thicker, so you may need to adjust the quantity. Start with a little less honey and taste as you go to ensure the flavour isn’t overpowering."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 0.33 cup of maple syrup to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "0.33 cup of maple syrup is approximately 75 grams. If your recipe calls for grams instead of ounces, this conversion will help you measure accurately. Using a kitchen scale is the easiest way to ensure precision when working with sticky ingredients like maple syrup."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my maple syrup glaze burn in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Maple syrup has a high sugar content, which can caramelise and burn quickly in the air fryer’s intense heat. To prevent this, try reducing the cooking temperature or applying the glaze halfway through the cooking process. You can also mix the syrup with a bit of oil or water to thin it out."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Where can I find more air fryer recipes using maple syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You’ll find plenty of delicious recipes featuring maple syrup on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>. From glazed meats to sweet desserts, our collection has something for every taste. Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for inspiration and step-by-step guides."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of maple syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-maple-syrup",
+    "description": "Discover how many ounces are in 0.33 cup of maple syrup with our easy conversion guide. Perfect for air fryer recipes and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-maple-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.33 cup of maple syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-maple-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.33 cup of maple syrup equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a glaze or adding sweetness to a dish, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you cook with confidence, and accurate measurements are a big part of that.</p>

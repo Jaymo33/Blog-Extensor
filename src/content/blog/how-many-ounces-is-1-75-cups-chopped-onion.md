@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 1.75 cups of chopped onion?"
 description: "Learn how to convert 1.75 cups of chopped onion to ounces for perfect air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-1-75-cups-chopped-onion-39b67de6.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-chopped-onion.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-chopped-onion",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-chopped-onion"
+    },
+    "headline": "Quick Guide: Convert 1.75 cups of chopped onion to ounces easily",
+    "description": "Learn how to convert 1.75 cups of chopped onion to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-chopped-onion.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of onion affect how many ounces are in 1.75 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, onion varieties have slightly different densities. Yellow onions, the most common cooking variety, yield about 7 ounces for 1.75 cups chopped. Sweeter onions like Vidalia or red onions may weigh marginally less due to higher water content, while shallots pack more tightly, potentially increasing the weight slightly for the same volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use frozen chopped onion instead of fresh for this measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Frozen chopped onion can substitute fresh in most air fryer recipes, but there are differences. 1.75 cups of frozen chopped onion typically weighs about 7.5 ounces due to ice crystals. Thaw and drain excess liquid before measuring for accurate results. Frozen onions work particularly well in dishes where they'll be cooked thoroughly, like casseroles or meatloaves."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I adjust cooking times when using 1.75 cups chopped onion in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "When a recipe calls for 1.75 cups (7 ounces) of chopped onion, spread it evenly in the air fryer basket for proper circulation. Dense dishes may require 2-3 minutes extra cooking time. For recipes where onion is the main ingredient (like onion rings), follow specific timing guides rather than general conversions."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best way to chop onion for accurate cup measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For consistent 1.75 cup (7 ounce) measurements, use a uniform chop size—about 1cm pieces work well. Avoid both finely minced and large chunks unless specified in the recipe. Always measure after chopping, not before, and use the 'scoop and level' method with dry measuring cups for most accurate results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of chopped onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-chopped-onion",
+    "description": "Learn how to convert 1.75 cups of chopped onion to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-chopped-onion#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 1.75 cups of chopped onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-chopped-onion"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.75 cups of chopped onion equals approximately 7 ounces (198 grams) when measured for air fryer recipes. This conversion ensures accuracy, whether you're prepping ingredients for a stir-fry, casserole, or crispy onion topping. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfect textures and flavours.</p>

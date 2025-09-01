@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 200g of peanut butter?"
 description: "Learn how to convert 200g of peanut butter to ounces with our simple guide. Perfect for air fryer recipes and accurate measurements every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-200g-of-peanut-butter-d6708f2c.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-peanut-butter.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-peanut-butter",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-peanut-butter"
+    },
+    "headline": "Quick Guide: Convert 200g of Peanut Butter to Ounces Easily",
+    "description": "Learn how to convert 200g of peanut butter to ounces with our simple guide. Perfect for air fryer recipes and accurate measurements every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-peanut-butter.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 200g of peanut butter the same as 7 ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "200g of peanut butter is approximately 7.05 ounces, so it’s very close to 7 ounces. For most recipes, this small difference won’t matter, but for precision baking in your air fryer, it’s best to use the exact 7.05-ounce measurement."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many cups is 200g of peanut butter?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "200g of peanut butter is roughly 3/4 cup. However, this can vary slightly depending on how packed or runny your peanut butter is. For air fryer recipes where accuracy counts, weighing your ingredients is always the best approach."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use crunchy peanut butter instead of smooth for 200g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use either type as the weight conversion remains the same. Just note that crunchy peanut butter may affect the texture of your air fryer dishes slightly. The 200g to ounces (7.05) conversion applies to both varieties."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do air fryer recipes sometimes use grams instead of ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many air fryer recipes use grams because it’s a more precise measurement system, especially important for consistent cooking results. While 200g equals 7.05 ounces, grams allow for finer adjustments in small-batch air fryer cooking. Our conversion guide helps bridge the gap between measurement systems."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of peanut butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-peanut-butter",
+    "description": "Learn how to convert 200g of peanut butter to ounces with our simple guide. Perfect for air fryer recipes and accurate measurements every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-peanut-butter#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 200g of peanut butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-peanut-butter"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>200g of peanut butter equals approximately 7.05 ounces. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you’re making peanut butter cookies or a savoury satay sauce, knowing this conversion ensures your dish turns out perfectly. For more air fryer recipe ideas, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

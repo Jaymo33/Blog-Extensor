@@ -1,12 +1,195 @@
 ---
 title: "467 F to Gas Mark"
 description: "Convert 467 F to Gas Mark for oven and air fryer cooking. Learn the exact equivalent and how to adjust recipes for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/467-f-to-gas-mark-d620abbd.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/467-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/467-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/467-f-to-gas-mark"
+    },
+    "headline": "467 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Convert 467 F to Gas Mark for oven and air fryer cooking. Learn the exact equivalent and how to adjust recipes for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T10:27:34.920000+00:00",
+    "dateModified": "2025-07-21T10:27:34.920000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/467-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use Gas Mark 9 in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most air fryers can reach temperatures equivalent to Gas Mark 9 (467 F), though cooking times will be shorter than conventional ovens. Always check your specific model's maximum temperature capacity in the manual."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert other Fahrenheit temperatures to Gas Mark?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use our comprehensive conversion chart at airfryerrecipe.co.uk/air-fryer-conversion-chart which includes all common temperature equivalents from Fahrenheit to Gas Mark for easy reference."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my food cook faster at 467 F in the air fryer compared to the oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate hot air more efficiently around food, transferring heat faster than conventional ovens. This means cooking times are typically 20-30% shorter at the same temperature setting."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is it safe to regularly use my air fryer at 467 F?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While safe for occasional high-temperature cooking, frequent use at maximum heat may shorten your appliance's lifespan. Alternate with lower temperatures and ensure proper cleaning between uses to maintain performance."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "467 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/467-f-to-gas-mark",
+    "description": "Convert 467 F to Gas Mark for oven and air fryer cooking. Learn the exact equivalent and how to adjust recipes for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T10:27:34.920000+00:00",
+    "dateModified": "2025-07-21T10:27:34.920000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/467-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "467 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/467-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>467 F converts to Gas Mark 9, the highest standard setting on most UK ovens. This high temperature is ideal for roasting, baking, and achieving crispy results in air fryers. Whether you're adapting an oven recipe for your air fryer or checking compatibility, knowing this conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. The Gas Mark system, used predominantly in the UK, simplifies oven temperature settings with numbered increments.</p>

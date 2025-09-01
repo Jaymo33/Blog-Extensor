@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 960 ml of Lemon Juice?"
 description: "Discover how to convert 960 ml of lemon juice to cups for perfect recipes every time. Get precise measurements for baking and cooking."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-960-ml-of-lemon-juice-da5408b1.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-lemon-juice.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-lemon-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-lemon-juice"
+    },
+    "headline": "Quick Conversion: How Many Cups Is 960 ml of Lemon Juice?",
+    "description": "Discover how to convert 960 ml of lemon juice to cups for perfect recipes every time. Get precise measurements for baking and cooking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-lemon-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 960 ml of lemon juice the same in US and UK cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 960 ml of lemon juice equals approximately 4.06 US cups or 3.38 UK cups. The difference arises because a US cup is 240 ml, while a UK cup is 284 ml. Always check which measurement system your recipe uses for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lemon juice instead of fresh for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, bottled lemon juice works in a pinch, but fresh lemon juice offers better flavour and acidity. If using bottled, check for additives like preservatives, which might alter the taste. For best results in air fryer recipes, fresh is preferred."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 960 ml of lemon juice without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring cup, use a kitchen scale. Lemon juice weighs roughly 1 gram per ml, so 960 ml would be about 960 grams. Alternatively, a standard water bottle often has volume markings you can use as a guide."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What recipes commonly use 960 ml of lemon juice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "960 ml of lemon juice is often used in large-batch recipes like lemon curd, marinades, or homemade lemonade. In air fryer cooking, it’s great for glazing proteins like salmon or chicken, or adding tang to roasted vegetables. Check our recipe section for inspiration."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 960 ml of Lemon Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-lemon-juice",
+    "description": "Discover how to convert 960 ml of lemon juice to cups for perfect recipes every time. Get precise measurements for baking and cooking.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-lemon-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 960 ml of Lemon Juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-lemon-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>960 ml of lemon juice equals approximately 4.06 US cups or 3.38 UK cups. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're baking a lemon drizzle cake or marinating chicken, knowing how to convert 960 ml of lemon juice to cups ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions simple and practical for home cooks.</p>

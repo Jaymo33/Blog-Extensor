@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 0.25 tbsp of butter?"
 description: "Find out exactly how many grams are in 0.25 tbsp of butter with this simple UK conversion guide. Perfect for air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-25-tbsp-of-butter-4751afda.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-butter.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-butter",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-butter"
+    },
+    "headline": "Quick Answer: 0.25 tbsp of butter in grams (UK conversion)",
+    "description": "Find out exactly how many grams are in 0.25 tbsp of butter with this simple UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-butter.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use margarine instead of butter for 0.25 tbsp measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute margarine for butter in most recipes. However, margarine may have a slightly different weight per tablespoon, so it’s best to weigh it for accuracy. Generally, 0.25 tbsp of margarine will be close to 3.55g, but check your brand’s packaging to be sure."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK recipes use grams for butter instead of tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "UK recipes often use grams because it’s more precise. Butter density can vary slightly, and weighing ensures consistency. Tablespoons can differ in size, especially between countries, so grams provide a universal measurement that works perfectly for air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 0.25 tbsp of butter without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a scale, use a standard UK tablespoon and fill it to a quarter of its capacity. For softer butter, press it gently into the spoon and level off with a knife. For hard butter, slice thinly—about 3mm thick from a standard block should approximate 0.25 tbsp."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does salted or unsalted butter affect the weight in grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Salted and unsalted butter have nearly identical weights, so 0.25 tbsp of either will still be around 3.55g. The main difference is taste and sodium content. For baking in your air fryer, unsalted butter is often preferred to control salt levels in the recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 0.25 tbsp of butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-butter",
+    "description": "Find out exactly how many grams are in 0.25 tbsp of butter with this simple UK conversion guide. Perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-butter#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 0.25 tbsp of butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-butter"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.25 tbsp of butter equals approximately 3.55 grams in the UK. This conversion is essential for precision in air fryer recipes, where accurate measurements can make or break a dish. Whether you’re whipping up a batch of cookies or preparing a savoury dish, knowing the exact weight of butter ensures consistent results every time.</p>

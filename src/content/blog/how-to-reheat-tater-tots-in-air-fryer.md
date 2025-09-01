@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Tater Tots in an Air Fryer"
 description: "Learn how to reheat tater tots in an air fryer for crispy, golden results every time. Perfect temp, time, and tips for leftovers!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-tater-tots-in-air-fryer-26ded4a5.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-tater-tots-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tater-tots-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tater-tots-in-air-fryer"
+    },
+    "headline": "Reheat Tater Tots in Air Fryer – Quick & Crispy Guide",
+    "description": "Learn how to reheat tater tots in an air fryer for crispy, golden results every time. Perfect temp, time, and tips for leftovers!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T19:59:55.735000+00:00",
+    "dateModified": "2025-07-22T19:59:55.735000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-tater-tots-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat tater tots in an air fryer from frozen?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Cook frozen tater tots at 190°C (375°F) for 6–8 minutes, shaking halfway. No thawing needed—the air fryer crisps them perfectly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to reheat tater tots without drying them out?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Lightly mist with oil or water before reheating, and avoid overcooking. Check at 3 minutes to ensure they stay moist inside."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does it take to reheat tater tots in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Typically 3–5 minutes at 190°C (375°F) for fridge leftovers. Frozen tots may need 6–8 minutes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat tater tots the next day in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes! Store them airtight in the fridge, then reheat at 190°C (375°F) for 4–5 minutes for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Tater Tots in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tater-tots-in-air-fryer",
+    "description": "Learn how to reheat tater tots in an air fryer for crispy, golden results every time. Perfect temp, time, and tips for leftovers!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T19:59:55.735000+00:00",
+    "dateModified": "2025-07-22T19:59:55.735000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tater-tots-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Tater Tots in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tater-tots-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Reheating tater tots in an air fryer is simple: preheat to 190°C (375°F), cook for 3–5 minutes, and shake halfway for even crispiness. This method restores that golden crunch better than a microwave or oven. Whether you’re working with fridge leftovers or frozen batches, your air fryer delivers restaurant-quality results with minimal effort.</p>  

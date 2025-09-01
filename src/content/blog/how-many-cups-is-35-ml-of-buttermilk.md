@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 35 ml of Buttermilk?"
 description: "Learn how to convert 35 ml of buttermilk to cups for perfect baking every time. Includes UK and US measurements for accuracy."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-35-ml-of-buttermilk-60e2c490.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-buttermilk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-buttermilk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-buttermilk"
+    },
+    "headline": "Quick Guide: Convert 35 ml of Buttermilk to Cups Easily",
+    "description": "Learn how to convert 35 ml of buttermilk to cups for perfect baking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:31:14.710000+00:00",
+    "dateModified": "2025-07-30T23:31:14.710000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-buttermilk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 35 ml of buttermilk the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, there's a slight difference. In the UK, 35 ml equals 0.15 cups (as a UK cup is 250 ml). In the US, it's 0.148 cups (as a US cup is 240 ml). For most recipes, this small variance won't matter, but for precision baking, it's good to be aware."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use milk instead of 35 ml of buttermilk in recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can make a buttermilk substitute by adding 1 teaspoon of lemon juice or vinegar to 35 ml of regular milk. Let it sit for 5 minutes to curdle slightly. This works well in most recipes, though the flavour won't be quite as tangy as real buttermilk."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 35 ml of buttermilk without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use standard spoons - 35 ml is about 7 teaspoons or just under 2.5 tablespoons. For better accuracy, use a medicine measuring cup or syringe if you have one. These are often marked in ml and perfect for small liquid measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some air fryer recipes call for small amounts like 35 ml of buttermilk?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook food quickly with circulating hot air, so recipes often use smaller quantities of liquids to prevent sogginess. 35 ml of buttermilk is enough to add moisture and flavour without making food wet. It's perfect for coating meats or adding to small-batch baked goods."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 35 ml of Buttermilk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-buttermilk",
+    "description": "Learn how to convert 35 ml of buttermilk to cups for perfect baking every time. Includes UK and US measurements for accuracy.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:31:14.710000+00:00",
+    "dateModified": "2025-07-30T23:31:14.710000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-buttermilk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 35 ml of Buttermilk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-buttermilk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>35 ml of buttermilk is approximately 0.15 cups in the UK or 0.148 cups in the US. This small but precise measurement is crucial for baking, where accuracy can make or break your recipe. Whether you're whipping up pancakes, scones, or a moist cake, knowing how to convert 35 ml of buttermilk to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when adapting recipes for your air fryer.</p>  

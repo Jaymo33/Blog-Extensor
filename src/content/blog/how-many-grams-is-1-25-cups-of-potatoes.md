@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 1.25 Cups of Potatoes"
 description: "Convert 1.25 cups of potatoes to grams quickly and accurately for perfect air fryer recipes every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-25-cups-of-potatoes-04500578.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-25-cups-of-potatoes.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-potatoes",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-potatoes"
+    },
+    "headline": "Easy Conversion: 1.25 Cups of Potatoes to Grams",
+    "description": "Convert 1.25 cups of potatoes to grams quickly and accurately for perfect air fryer recipes every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T21:00:06.165000+00:00",
+    "dateModified": "2025-07-27T21:00:06.165000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-25-cups-of-potatoes.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of potato affect the weight per cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different potato varieties have varying densities, so 1.25 cups of russet potatoes may weigh slightly more than the same volume of sweet potatoes. For the most accurate measurement, always weigh your potatoes using a kitchen scale."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for mashed potatoes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Mashed potatoes are denser than diced, so 1.25 cups will weigh more—around 200-220 grams. If your recipe calls for mashed, adjust accordingly or weigh it for precision."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is weighing potatoes better than using cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cups measure volume, which can vary based on how potatoes are cut or packed. Grams measure weight, giving consistent results for air fryer recipes where even cooking is crucial."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert grams back to cups if needed?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To convert grams to cups, divide the weight by 140 (since 1 cup ≈ 140g of diced potatoes). For 175 grams, that’s roughly 1.25 cups. Always check with a measuring cup for accuracy."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.25 Cups of Potatoes",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-potatoes",
+    "description": "Convert 1.25 cups of potatoes to grams quickly and accurately for perfect air fryer recipes every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T21:00:06.165000+00:00",
+    "dateModified": "2025-07-27T21:00:06.165000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-potatoes#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 1.25 Cups of Potatoes",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-potatoes"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.25 cups of potatoes equals approximately 175 grams, making it easy to measure for air fryer recipes. Whether you're preparing crispy roast potatoes or a hearty potato bake, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that precision matters when cooking with an air fryer, so let’s break down the conversion in detail.</p>  

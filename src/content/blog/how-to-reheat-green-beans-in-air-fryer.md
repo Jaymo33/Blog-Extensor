@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Green Beans in an Air Fryer"
 description: "Learn how to reheat green beans in an air fryer to keep them crispy and fresh. Perfect temperature, timing, and tips for best results every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-green-beans-in-air-fryer-555aa792.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-green-beans-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-green-beans-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-green-beans-in-air-fryer"
+    },
+    "headline": "Reheat Green Beans in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat green beans in an air fryer to keep them crispy and fresh. Perfect temperature, timing, and tips for best results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T18:39:33.442000+00:00",
+    "dateModified": "2025-07-22T18:39:33.442000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-green-beans-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat green beans in an air fryer from frozen?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can reheat frozen green beans in an air fryer. Preheat to 170°C and cook for 5-6 minutes, shaking halfway. No need to thaw—they’ll come out crispy and perfectly heated."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to prevent green beans from drying out when reheating?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Lightly misting the green beans with water or oil before air frying helps retain moisture. Also, avoid overcooking—3-4 minutes at 160°C is usually sufficient for leftovers."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat green beans in an air fryer if they were originally boiled?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Boiled green beans reheat well in an air fryer. Pat them dry first, then air fry at 160°C for 3 minutes to restore some crispness without drying them out."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I reheat green beans with other vegetables in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cut denser vegetables smaller for even heating. Reheat at 160°C for 4-5 minutes, shaking halfway. If ingredients vary greatly in size, consider reheating them separately for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Green Beans in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-green-beans-in-air-fryer",
+    "description": "Learn how to reheat green beans in an air fryer to keep them crispy and fresh. Perfect temperature, timing, and tips for best results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T18:39:33.442000+00:00",
+    "dateModified": "2025-07-22T18:39:33.442000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-green-beans-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Green Beans in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-green-beans-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Reheating green beans in an air fryer at 160°C for 3-4 minutes keeps them crispy and fresh, just like they were freshly cooked. This method is far superior to microwaving, which often leaves them soggy. Whether you’re working with leftovers or meal-prepped green beans, your air fryer can revive them perfectly. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

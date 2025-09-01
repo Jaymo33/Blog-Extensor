@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 5g of double cream?"
 description: "Learn how to convert 5g of double cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-5g-of-double-cream-11ef47c7.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-double-cream.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-double-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-double-cream"
+    },
+    "headline": "Quick Guide: Convert 5g of Double Cream to Ounces Easily",
+    "description": "Learn how to convert 5g of double cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-double-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use single cream instead of double cream in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but single cream has a lower fat content (around 18%), so it won’t thicken or enrich dishes the same way. For best results, stick to double cream or adjust quantities slightly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store leftover double cream after measuring 5g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store it in an airtight container in the fridge for up to 3 days. Shake well before using, as it can separate. Freezing isn’t recommended as it alters the texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 5g of double cream the same as 5ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Not exactly. Double cream is denser than water, so 5g is roughly 4.8ml. For precise air fryer recipes, always weigh cream rather than relying on volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I whip 5g of double cream in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Whipping such a small amount isn’t practical. For whipped cream, use at least 100g (3.5 oz) and chill the bowl first. The air fryer isn’t suitable for whipping cream—stick to a hand mixer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of double cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-double-cream",
+    "description": "Learn how to convert 5g of double cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-double-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 5g of double cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-double-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 grams of double cream equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a dessert or adding richness to a dish, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the details right for flawless cooking. Keep reading for more tips on measuring double cream and using it in your air fryer.</p>  

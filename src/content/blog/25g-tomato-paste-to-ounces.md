@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 25g of tomato paste?"
 description: "Convert 25g of tomato paste to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/25g-tomato-paste-to-ounces-f2c771f7.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-tomato-paste-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces"
+    },
+    "headline": "Quick 25g tomato paste to ounces conversion for air fryer recipes",
+    "description": "Convert 25g of tomato paste to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-tomato-paste-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I measure 25g of tomato paste without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can measure 25g of tomato paste without scales using tablespoons. One tablespoon of tomato paste weighs about 15g, so 25g would be roughly one and two-thirds tablespoons. Alternatively, check the packaging for weight markings - many tubes show approximate quantities."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use tomato sauce instead of 25g tomato paste in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute tomato sauce for tomato paste, but you'll need to adjust quantities. Use about double the amount of tomato sauce (50g for 25g paste) and reduce it slightly to thicken. The flavour will be milder, so you might want to add a pinch of sugar or herbs to compensate."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does opened tomato paste last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Opened tomato paste lasts about 5-7 days in the refrigerator when stored in an airtight container. For longer storage, freeze it in portions. This way, you'll always have the right amount (like 25g) ready for your next air fryer recipe without waste."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is weight measurement better than volume for tomato paste?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weight measurement is more accurate for tomato paste because it's so dense and sticky. Volume measurements can vary based on how the paste is packed into the spoon. 25g will always be 25g, but a \"tablespoon\" could range from 15g to 20g depending on how it's measured."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of tomato paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces",
+    "description": "Convert 25g of tomato paste to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 25g of tomato paste?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>25g of tomato paste equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making a rich pasta sauce or a flavourful marinade, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with concentrated ingredients like tomato paste.</p>

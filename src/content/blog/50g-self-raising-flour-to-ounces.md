@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 50g of self-raising flour?"
 description: "Convert 50g of self-raising flour to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/50g-self-raising-flour-to-ounces-2066b3bc.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-self-raising-flour-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-self-raising-flour-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/50g-self-raising-flour-to-ounces"
+    },
+    "headline": "Quick 50g self-raising flour to ounces conversion guide",
+    "description": "Convert 50g of self-raising flour to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-self-raising-flour-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use plain flour instead of self-raising flour for 50g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but you’ll need to add raising agents. For every 50g of plain flour, mix in 1 teaspoon of baking powder to mimic self-raising flour. In air fryer recipes, this adjustment helps maintain the desired lift and texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 50g of self-raising flour compare to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "50g of self-raising flour is roughly 1/3 cup (UK metric). However, cup measurements can vary based on how you scoop the flour. For air fryer baking, where precision matters, weighing 50g (1.76 oz) is more reliable than volume measures."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe need exact flour measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook faster and more intensely than conventional ovens. Even small measurement variations can affect how batters rise or coatings crisp. Sticking to 50g (1.76 oz) ensures even cooking and perfect texture every time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I convert 50g of self-raising flour to ounces for gluten-free flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the weight conversion (50g = 1.76 oz) applies to any flour type. However, gluten-free blends may behave differently in recipes. Check <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> for adapted recipes using alternative flours."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 50g of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-self-raising-flour-to-ounces",
+    "description": "Convert 50g of self-raising flour to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/50g-self-raising-flour-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 50g of self-raising flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/50g-self-raising-flour-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>50g of self-raising flour equals approximately 1.76 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you’re making fluffy cakes or crispy batters, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we specialise in helping you nail these conversions for perfect results every time.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 125g of almond butter?"
 description: "Convert 125g of almond butter to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/125g-almond-butter-to-ounces-25d51160.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-almond-butter-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-almond-butter-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-almond-butter-to-ounces"
+    },
+    "headline": "Quick 125g almond butter to ounces conversion guide",
+    "description": "Convert 125g of almond butter to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-almond-butter-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use peanut butter instead of almond butter in a 125g measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute peanut butter for almond butter in a 1:1 ratio by weight. Since 125g of peanut butter also equals roughly 4.41 ounces, the conversion remains the same. Keep in mind that peanut butter has a stronger flavour, which may alter the taste of your dish."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my almond butter measurement seem off when using cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cups measure volume, not weight, and almond butter’s density varies by brand and temperature. For accuracy, always weigh 125g (4.41 oz) instead of using cups. If you must use cups, lightly pack the almond butter and level it off—but expect slight variations."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 125g of almond butter?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "125g (4.41 oz) of almond butter contains approximately 750 calories, depending on the brand. It’s energy-dense, so portion control is key. In air fryer recipes, a little goes a long way to add richness without excess oil."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze almond butter in 125g portions for later use?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Freezing 125g (4.41 oz) portions in airtight containers or bags preserves freshness for up to 3 months. Thaw in the fridge before using. This is handy for meal prepping or saving leftover almond butter from larger jars."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of almond butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-almond-butter-to-ounces",
+    "description": "Convert 125g of almond butter to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-almond-butter-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 125g of almond butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-almond-butter-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125g of almond butter equals approximately 4.41 ounces. Whether you're whipping up a batch of air fryer cookies or a nutty glaze for chicken, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating it can be to juggle metric and imperial units mid-recipe. That’s why we’ve broken down the conversion so you can focus on cooking, not calculations.</p>  

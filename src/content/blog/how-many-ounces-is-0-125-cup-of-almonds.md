@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.125 cup of almonds"
 description: "Convert 0.125 cup of almonds to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-125-cup-of-almonds-0ef44049.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-almonds.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almonds",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almonds"
+    },
+    "headline": "Quick Answer: 0.125 Cup of Almonds to Ounces UK",
+    "description": "Convert 0.125 cup of almonds to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-almonds.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use whole almonds instead of sliced for 0.125 cup measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, whole almonds can be used, but the volume-to-weight ratio may vary slightly. For accuracy, weigh 0.5 oz (14 grams) of whole almonds if your recipe calls for 0.125 cup. Sliced almonds pack differently, so adjust if texture matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 0.125 cup of almonds compare to other nuts in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Different nuts have varying densities. For example, 0.125 cup of walnuts weighs about 0.4 oz, while pecans are closer to 0.45 oz. Almonds at 0.5 oz are denser, so always check weight for substitutions."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 0.125 cup of almonds the same as 2 tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 0.125 cup equals 2 tablespoons. Both measurements weigh 0.5 oz (14 grams) of almonds. This makes it easy to switch between measuring tools for small quantities in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 0.125 cup (0.5 oz) of almonds?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Approximately 82 calories. Almonds are nutrient-dense, providing healthy fats and protein. Perfect for adding energy to air fryer meals without overdoing portion sizes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of almonds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almonds",
+    "description": "Convert 0.125 cup of almonds to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almonds#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.125 cup of almonds",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almonds"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.125 cup of almonds equals approximately 0.5 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking almond-crusted chicken or whipping up a batch of almond cookies, knowing the exact weight saves time and avoids guesswork.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 835 ml of Single Cream?"
 description: "Learn how to convert 835 ml of single cream to cups for perfect baking and cooking results every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-835-ml-of-single-cream-4bbd75b6.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-835-ml-of-single-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-single-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-single-cream"
+    },
+    "headline": "Quick Guide: Convert 835 ml of Single Cream to Cups Easily",
+    "description": "Learn how to convert 835 ml of single cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-835-ml-of-single-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 835 ml of single cream the same as 3.5 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 835 ml of single cream is approximately 3.5 cups in UK measurements. In the US, it's slightly more—around 3.52 cups—due to the difference in cup sizes between the two regions. Always check which measurement system your recipe uses for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use double cream instead of single cream in a recipe calling for 835 ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can substitute double cream for single cream, but keep in mind it has a higher fat content, which may affect the texture of your dish. If using double cream, you might want to thin it slightly with milk to match the consistency of single cream. Adjustments may be needed depending on the recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 835 ml of single cream without a jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring jug, you can use a kitchen scale. Single cream weighs roughly 1 gram per millilitre, so 835 ml would be 835 grams. Alternatively, use a standard tablespoon—1 UK tablespoon is about 15 ml, so you'd need around 55.6 tablespoons to reach 835 ml."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What recipes can I make with 835 ml of single cream in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "835 ml of single cream is perfect for air fryer recipes like custards, creamy pasta sauces, or even rich desserts like crème brûlée. You can also use it in savoury dishes like mushroom stroganoff or creamy chicken bakes. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for inspiration."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 835 ml of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-single-cream",
+    "description": "Learn how to convert 835 ml of single cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-single-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 835 ml of Single Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-single-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>835 ml of single cream is approximately 3.5 cups in UK measurements or 3.52 cups in US measurements. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact cup measurement ensures perfect results every time.</p>

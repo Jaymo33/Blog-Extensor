@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1 tbsp of caster sugar"
 description: "Discover the exact weight of 1 tbsp caster sugar in grams for perfect baking every time. Includes UK conversions and air fryer tips."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-tbsp-caster-sugar-99cbc201.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-caster-sugar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-caster-sugar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-caster-sugar"
+    },
+    "headline": "Quick Answer: How many grams in 1 tbsp of caster sugar",
+    "description": "Discover the exact weight of 1 tbsp caster sugar in grams for perfect baking every time. Includes UK conversions and air fryer tips.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-caster-sugar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 1 tbsp of caster sugar weigh the same as granulated sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, caster sugar is slightly lighter than granulated sugar per tablespoon. While 1 tbsp of caster sugar weighs about 12.5 grams, granulated sugar comes in at approximately 15 grams per tablespoon. This difference is due to caster sugar's finer crystals, which pack less densely in the spoon."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use granulated sugar instead of caster sugar in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can substitute granulated sugar, but it may affect texture. Caster sugar dissolves more easily, creating smoother batters. If using granulated sugar in air fryer recipes, you might want to pulse it in a blender first to achieve a finer texture similar to caster sugar."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert cups of caster sugar to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "One UK cup of caster sugar equals about 225 grams. For air fryer recipes, we recommend weighing ingredients rather than using cup measurements for greater accuracy. This ensures consistent results with the air fryer's rapid cooking method."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer baked goods brown too quickly with caster sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Caster sugar caramelises faster due to its fine texture. In air fryers, which cook hotter and faster than conventional ovens, this can lead to over-browning. Try reducing the temperature by 10-20°C or checking for doneness a few minutes earlier than the recipe suggests."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of caster sugar",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-caster-sugar",
+    "description": "Discover the exact weight of 1 tbsp caster sugar in grams for perfect baking every time. Includes UK conversions and air fryer tips.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-caster-sugar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1 tbsp of caster sugar",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-caster-sugar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1 tablespoon (tbsp) of caster sugar weighs approximately 12.5 grams in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're converting recipes or need precise sugar quantities, knowing this conversion ensures consistent results every time.</p>  

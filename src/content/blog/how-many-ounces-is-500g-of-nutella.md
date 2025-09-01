@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 500g of Nutella?"
 description: "Find out exactly how many ounces 500g of Nutella weighs with our easy conversion guide. Perfect for baking and air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-500g-of-nutella-1b712b73.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-nutella.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-nutella",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-nutella"
+    },
+    "headline": "Quick Answer: How Many Ounces is 500g of Nutella?",
+    "description": "Find out exactly how many ounces 500g of Nutella weighs with our easy conversion guide. Perfect for baking and air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-nutella.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How many ounces are in 500g of Nutella?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "500g of Nutella equals approximately 17.64 ounces. This conversion is useful for recipes, especially when using an air fryer where precise measurements matter."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use cups instead of ounces to measure 500g of Nutella?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While 500g of Nutella is roughly two cups, using a kitchen scale is more accurate. Cups can vary depending on how the Nutella is scooped or packed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does Nutella’s weight change if it’s cold or room temperature?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Nutella thickens when cold, which can slightly affect its weight. For the most accurate measurement, let it sit at room temperature before weighing."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to clean Nutella from my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Wipe the air fryer basket with a warm, damp cloth immediately after use. For sticky residue, use a mild detergent or a specialised air fryer cleaner."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of Nutella?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-nutella",
+    "description": "Find out exactly how many ounces 500g of Nutella weighs with our easy conversion guide. Perfect for baking and air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-nutella#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 500g of Nutella?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-nutella"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>500g of Nutella equals approximately 17.64 ounces. This conversion is handy for recipes, especially when using an air fryer where precise measurements can make all the difference. Whether you're baking a cake or whipping up a quick dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>

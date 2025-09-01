@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 760 ml of Half And Half?"
 description: "Learn how to convert 760 ml of half and half to cups in seconds. Perfect for baking and cooking with your air fryer. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-760-ml-of-half-and-half-49534a9e.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-half-and-half.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-half-and-half",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-half-and-half"
+    },
+    "headline": "Quick Guide: Convert 760 ml of Half And Half to Cups Easily",
+    "description": "Learn how to convert 760 ml of half and half to cups in seconds. Perfect for baking and cooking with your air fryer. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-half-and-half.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 760 ml of half and half the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While the metric measurement (760 ml) is the same worldwide, cup sizes differ slightly between the UK and US. A UK cup is 284 ml, while a US cup is 240 ml. For 760 ml of half and half, that's about 2.68 UK cups or 3.2 US cups. Most modern recipes use the US cup measurement."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use milk instead of half and half in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can substitute milk for half and half, but the results will be less rich. To approximate half and half, mix 3 parts milk with 1 part cream. For 760 ml (about 3.2 cups) of half and half substitute, use 2.4 cups milk and 0.8 cups cream. This works well in most air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does half and half affect cooking times in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes with half and half may require slightly adjusted cooking times in your air fryer. The extra fat content can cause browning to happen faster, so it's wise to check dishes 5-10 minutes earlier than the recipe suggests. Dairy-based recipes also benefit from slightly lower temperatures to prevent curdling."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best way to measure 760 ml of half and half without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring jug, you can use standard drinking glasses as a rough guide - most hold about 200-250 ml. For 760 ml, that's approximately 3 full glasses plus a small top-up. For baking, it's worth investing in proper measuring tools for accuracy, especially when using your air fryer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 760 ml of Half And Half?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-half-and-half",
+    "description": "Learn how to convert 760 ml of half and half to cups in seconds. Perfect for baking and cooking with your air fryer. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-half-and-half#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 760 ml of Half And Half?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-half-and-half"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>760 ml of half and half is approximately 3.2 cups. This conversion is essential for anyone using half and half in recipes, especially when cooking or baking with an air fryer. Accurate measurements ensure your dishes turn out perfectly every time, whether you're making creamy sauces or indulgent desserts.</p>

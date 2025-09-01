@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 760 ml of Lemon Juice?"
 description: "Learn how to convert 760 ml of lemon juice to cups for baking and cooking. Perfect for air fryer recipes and precise measurements!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-760-ml-of-lemon-juice-a574308b.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-lemon-juice.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-lemon-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-lemon-juice"
+    },
+    "headline": "Quick Guide: Convert 760 ml of Lemon Juice to Cups Easily",
+    "description": "Learn how to convert 760 ml of lemon juice to cups for baking and cooking. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-lemon-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 760 ml of lemon juice the same as 760 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 760 ml of lemon juice is not the same as 760 grams. Millilitres measure volume, while grams measure weight. The density of lemon juice means 760 ml weighs roughly 780 grams due to its slight heaviness compared to water."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lemon juice instead of fresh for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, bottled lemon juice works fine in most air fryer recipes, though fresh juice offers a brighter flavour. If using bottled, check for additives like preservatives, which might alter taste. For marinades or glazes, 760 ml (3.2 cups) of either type will suffice."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 760 ml of lemon juice last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Freshly squeezed lemon juice lasts about 3–4 days in the fridge, while bottled juice can last up to 6 months unopened. Once opened, store 760 ml in an airtight container and use within a week for best quality."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to squeeze 760 ml of lemon juice quickly?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To get 760 ml (3.2 cups) of lemon juice efficiently, roll lemons on a countertop before cutting to loosen the pulp. Use a citrus juicer or reamer, and strain seeds. On average, 10–12 large lemons yield 760 ml. For bulk prep, consider an electric juicer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 760 ml of Lemon Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-lemon-juice",
+    "description": "Learn how to convert 760 ml of lemon juice to cups for baking and cooking. Perfect for air fryer recipes and precise measurements!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-lemon-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 760 ml of Lemon Juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-lemon-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>760 ml of lemon juice is equivalent to approximately 3.2 cups. This conversion is essential for baking, cooking, or preparing marinades in your air fryer. Precise measurements ensure your dishes turn out perfectly every time, whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations.</p>

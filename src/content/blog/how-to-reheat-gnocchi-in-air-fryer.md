@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Gnocchi in an Air Fryer"
 description: "Learn how to reheat gnocchi in an air fryer for crispy perfection. Get timings, temperatures, and tips for leftover gnocchi at airfryerrecipe.co.uk."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-gnocchi-in-air-fryer-9bd3a8b6.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-gnocchi-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-gnocchi-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-gnocchi-in-air-fryer"
+    },
+    "headline": "Reheat Gnocchi in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat gnocchi in an air fryer for crispy perfection. Get timings, temperatures, and tips for leftover gnocchi at airfryerrecipe.co.uk.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T18:06:35.548000+00:00",
+    "dateModified": "2025-07-22T18:06:35.548000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-gnocchi-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat gnocchi in an air fryer straight from frozen?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Frozen gnocchi reheats beautifully in an air fryer at 180°C (350°F) for 4-5 minutes. No need to thaw - just spread in a single layer and check at 4 minutes for perfect texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I prevent reheated gnocchi from drying out in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Lightly misting with oil or adding a teaspoon of water to the basket helps maintain moisture. For sauced gnocchi, reheat plain first then add fresh sauce afterwards to prevent drying."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to reheat gnocchi with sauce in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For saucy dishes, it’s best to reheat gnocchi separately at 180°C for 3 minutes, then mix with freshly warmed sauce. This prevents the sauce from drying out or burning during reheating."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat shop-bought fresh gnocchi in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, store-bought fresh gnocchi works perfectly. Cook at 180°C for 3-4 minutes, shaking halfway. The air fryer gives better results than boiling for reheating pre-cooked fresh gnocchi."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Gnocchi in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-gnocchi-in-air-fryer",
+    "description": "Learn how to reheat gnocchi in an air fryer for crispy perfection. Get timings, temperatures, and tips for leftover gnocchi at airfryerrecipe.co.uk.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T18:06:35.548000+00:00",
+    "dateModified": "2025-07-22T18:06:35.548000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-gnocchi-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Gnocchi in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-gnocchi-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Reheating gnocchi in an air fryer takes just 3-5 minutes at 180°C (350°F), giving you crispy-edged, pillowy-soft results that beat microwaving every time. This method revitalises leftover gnocchi better than any other reheating technique, preserving that perfect al dente texture while adding delightful crunch.</p>

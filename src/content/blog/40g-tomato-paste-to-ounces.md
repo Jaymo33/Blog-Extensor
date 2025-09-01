@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 40g of tomato paste?"
 description: "Learn how to convert 40g of tomato paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/40g-tomato-paste-to-ounces-df73ab33.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-tomato-paste-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-tomato-paste-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-tomato-paste-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 40g of Tomato Paste to Ounces",
+    "description": "Learn how to convert 40g of tomato paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-tomato-paste-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use tomato sauce instead of 40g tomato paste?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can substitute tomato sauce, the results will differ. Tomato paste is much more concentrated, so you'd need about 120ml (4oz) of tomato sauce to replace 40g (1.41oz) of paste. Keep in mind this will make your dish more liquid, which might affect air fryer cooking times."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 40g of tomato paste?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "40g of tomato paste contains approximately 50 calories. It's also rich in lycopene and vitamin C. When used in air fryer recipes, the high heat can actually increase the bioavailability of some nutrients in tomato paste."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe taste bitter with tomato paste?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "This usually happens when tomato paste burns in the air fryer. To prevent this, mix your 40g (1.41oz) of tomato paste with a bit of oil or water before adding it to other ingredients. Also, consider reducing cooking temperature by about 10°C if using tomato paste-heavy recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze measured portions of tomato paste?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Freezing pre-measured 40g portions (about 1.41oz) of tomato paste is a great time-saver. Simply scoop onto parchment paper, freeze until solid, then transfer to a freezer bag. These frozen portions will keep for up to 3 months and can go straight into your air fryer recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of tomato paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-tomato-paste-to-ounces",
+    "description": "Learn how to convert 40g of tomato paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-tomato-paste-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 40g of tomato paste?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-tomato-paste-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>40g of tomato paste equals approximately 1.41 ounces. Whether you're preparing a rich pasta sauce or a flavourful marinade for your air fryer, getting the measurements right is key. Conversions like 40g tomato paste to ounces ensure your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when working with concentrated ingredients like tomato paste.</p>  

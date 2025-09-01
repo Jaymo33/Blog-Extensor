@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 0.75 tbsp of rice?"
 description: "Discover how to convert 0.75 tbsp of rice into grams for perfect air fryer recipes every time. Get accurate measurements now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-075-tbsp-of-rice-830633ff.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-075-tbsp-of-rice.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-rice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-rice"
+    },
+    "headline": "Quick Answer: 0.75 tbsp of rice to grams conversion",
+    "description": "Discover how to convert 0.75 tbsp of rice into grams for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-075-tbsp-of-rice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 0.75 tbsp of rice in my air fryer without converting to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can use 0.75 tbsp of rice without converting to grams, weighing it (approximately 9 grams) ensures more consistent results in your air fryer. Rice expands during cooking, and precise measurements help prevent undercooked or mushy textures."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of rice affect how many grams are in 0.75 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different rice varieties have slightly different weights. While 0.75 tbsp of most common rice types equals about 9 grams, specialty rices like basmati or jasmine might vary slightly. For absolute precision, weigh your rice when trying new varieties."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why would I need such a small amount as 0.75 tbsp of rice for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "0.75 tbsp (about 9 grams) of rice is perfect for single servings, stuffed vegetables, or testing new recipes without waste. Air fryers excel at small-batch cooking, making precise small measurements like this very useful for creative dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 0.75 tbsp of rice if I don’t have measuring spoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have measuring spoons, you can estimate 0.75 tbsp by filling a regular spoon about three-quarters full. However, for air fryer recipes where precision matters, investing in basic measuring tools or a kitchen scale is recommended for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-rice",
+    "description": "Discover how to convert 0.75 tbsp of rice into grams for perfect air fryer recipes every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-rice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 0.75 tbsp of rice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-rice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.75 tablespoons (tbsp) of rice equals approximately 9 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re cooking a small portion or scaling up, knowing how to convert 0.75 tbsp of rice into grams ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you master air fryer cooking.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 0.5 Cups of Plain Flour?"
 description: "Discover how to convert 0.5 cups of plain flour to grams for precise baking in your air fryer. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-5-cups-of-plain-flour-2cfecada.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-plain-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-plain-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-plain-flour"
+    },
+    "headline": "Quick Guide: Convert 0.5 Cups of Plain Flour to Grams Easily",
+    "description": "Discover how to convert 0.5 cups of plain flour to grams for precise baking in your air fryer. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T16:11:25.168000+00:00",
+    "dateModified": "2025-07-27T16:11:25.168000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-plain-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 0.5 cups of plain flour the same as 62.5 grams in the UK and USA?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 0.5 cups of plain flour equals 62.5 grams in both the UK and USA. However, measuring cups can vary slightly in size, so using a digital scale is recommended for absolute accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use self-raising flour instead of plain flour in this conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, self-raising flour includes raising agents, so its weight per cup differs. For 0.5 cups of self-raising flour, you’d need about 60 grams. Always check recipe requirements to avoid mishaps."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer bake turn out dry even with the correct flour measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Dry results may stem from overmixing, high heat, or insufficient moisture. Ensure you’re using the right temperature and adding wet ingredients like eggs or milk as directed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert grams back to cups if a recipe uses metric measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Divide the gram amount by 125 (the weight of 1 cup of plain flour). For example, 62.5 grams ÷ 125 = 0.5 cups. A conversion chart simplifies this process for quick reference."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.5 Cups of Plain Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-plain-flour",
+    "description": "Discover how to convert 0.5 cups of plain flour to grams for precise baking in your air fryer. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T16:11:25.168000+00:00",
+    "dateModified": "2025-07-27T16:11:25.168000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-plain-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 0.5 Cups of Plain Flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-plain-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.5 cups of plain flour equals approximately 62.5 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes, cookies, or bread, knowing the exact gram equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we believe accurate measurements are the foundation of great cooking. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>  

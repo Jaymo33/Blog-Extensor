@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 10g of brown sugar?"
 description: "Convert 10g of brown sugar to oz in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/10g-brown-sugar-to-ounces-3db722a2.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-brown-sugar-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-brown-sugar-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-brown-sugar-to-ounces"
+    },
+    "headline": "Quick 10g brown sugar to ounces conversion for UK bakers",
+    "description": "Convert 10g of brown sugar to oz in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-brown-sugar-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 10g of brown sugar the same as 10g of white sugar in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 10g of any sugar (brown, white, or caster) converts to roughly 0.35 ounces. However, brown sugar is denser when packed, so always measure by weight for precision in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use volume measurements instead of weight for 10g of brown sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While possible (about 2 tsp for 10g), weight is far more accurate. Air fryer recipes often rely on precise sugar amounts for texture and caramelisation, so scales are best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK air fryer recipes use grams instead of ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams are the standard metric measurement in the UK, offering greater precision for small quantities like 10g of brown sugar. Ounces are more common in older or US-based recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store brown sugar to keep it fresh for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Keep brown sugar in an airtight container with a terra cotta disc or marshmallow to prevent hardening. Proper storage ensures accurate 10g measurements every time."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of brown sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-brown-sugar-to-ounces",
+    "description": "Convert 10g of brown sugar to oz in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-brown-sugar-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 10g of brown sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-brown-sugar-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>10 grams of brown sugar equals approximately 0.35 ounces. This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Whether you’re whipping up cookies or a glaze for meats, knowing how many ounces 10g of brown sugar is can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so your cooking stays hassle-free.</p>  

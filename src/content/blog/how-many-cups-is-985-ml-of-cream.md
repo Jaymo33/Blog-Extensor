@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 985 ml of Cream?"
 description: "Find out exactly how many cups 985 ml of cream equals for perfect baking and cooking every time. Includes UK and US conversions."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-985-ml-of-cream-cce6c179.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 985 ml of Cream?",
+    "description": "Find out exactly how many cups 985 ml of cream equals for perfect baking and cooking every time. Includes UK and US conversions.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 985 ml of cream the same as 1 litre?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 985 ml of cream is slightly less than 1 litre. One litre equals 1000 ml, so 985 ml is 15 ml short. This small difference can matter in recipes where precision is key, especially in baking or air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use whipped cream instead of liquid cream in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Whipped cream and liquid cream behave differently under heat. Liquid cream is better for sauces and baked goods in the air fryer, as whipped cream can lose its texture. Always check your recipe for the best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store leftover cream after measuring 985 ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store leftover cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in ice cube trays and use as needed. Thawed cream works well in cooked dishes but may not whip properly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK and US cup measurements differ for cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The UK and US use different standards for cup measurements. A UK cup is 284 ml, while a US cup is 240 ml. This historical difference means recipes may vary slightly depending on their origin. Always check which measurement system your recipe uses."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 985 ml of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-cream",
+    "description": "Find out exactly how many cups 985 ml of cream equals for perfect baking and cooking every time. Includes UK and US conversions.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 985 ml of Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>985 ml of cream equals approximately 4.16 cups in the UK or 4.17 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing how to convert 985 ml of cream to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions easy for home cooks.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 10g of cottage cheese?"
 description: "Convert 10g of cottage cheese to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/10g-cottage-cheese-to-ounces-3b2fc641.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-cottage-cheese-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-cottage-cheese-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-cottage-cheese-to-ounces"
+    },
+    "headline": "Quick Answer: 10g of cottage cheese to ounces UK",
+    "description": "Convert 10g of cottage cheese to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-cottage-cheese-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 10g of cottage cheese in air-fryer baking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 10g (0.35 oz) of cottage cheese adds moisture to air-fryer cakes or muffins. Just blend it smoothly into the batter. It works especially well in protein-packed banana bread or lemon drizzle cakes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 10g of cottage cheese compare to ricotta in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "10g of ricotta also equals 0.35 oz, but it’s smoother and less tangy than cottage cheese. In air-fryer recipes, ricotta spreads more evenly, while cottage cheese adds texture. Swap them 1:1 by weight if you prefer."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air-fryer recipe specify cottage cheese in grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams are more precise for baking, as cottage cheese density varies by brand. 10g (0.35 oz) ensures consistency. UK recipes often use metric measurements, but our conversion makes it easy for any kitchen scale."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze 10g portions of cottage cheese?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes! Freeze 10g (0.35 oz) dollops on a tray before bagging. Thawed cottage cheese is best for cooked dishes like air-fryer pasta bakes. The texture becomes grainier, but the flavour remains intact."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of cottage cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-cottage-cheese-to-ounces",
+    "description": "Convert 10g of cottage cheese to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-cottage-cheese-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 10g of cottage cheese?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-cottage-cheese-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>10g of cottage cheese equals approximately 0.35 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re making a healthy snack or adding cottage cheese to a dish, knowing the weight in ounces helps ensure accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love simplifying measurements for your cooking convenience. Keep reading for more tips on using cottage cheese in your air fryer.</p>

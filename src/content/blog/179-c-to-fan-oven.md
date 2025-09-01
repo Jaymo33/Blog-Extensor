@@ -1,12 +1,195 @@
 ---
 title: "179 C to Fan Oven"
 description: "Learn how to convert 179 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and baking tips for UK kitchens."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/179-c-to-fan-oven-0c2c23f8.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/179-c-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/179-c-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/179-c-to-fan-oven"
+    },
+    "headline": "179 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 179 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and baking tips for UK kitchens.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T13:54:18.206000+00:00",
+    "dateModified": "2025-07-21T13:54:18.206000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/179-c-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 179 C in an air fryer without converting?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, air fryers function like fan ovens, so you should reduce 179 C to 160 C to prevent overcooking. The circulating air cooks food faster, requiring lower temperatures for the same results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What happens if I forget to convert 179 C for my fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Food may cook too quickly, leading to dry or burnt edges while the center remains underdone. Always adjust temperatures downward by 20°C when using fan-assisted settings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 179 C the same for all fan ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most UK fan ovens follow the 20°C reduction rule, but cheaper models may vary. Check your manual or use an oven thermometer to confirm accuracy at 179 C."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 179 C compare to gas mark settings?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "179 C equates to Gas Mark 4 in a conventional oven. For fan ovens, use Gas Mark 4 but reduce the temperature to 160 C for equivalent cooking power."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "179 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/179-c-to-fan-oven",
+    "description": "Learn how to convert 179 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and baking tips for UK kitchens.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T13:54:18.206000+00:00",
+    "dateModified": "2025-07-21T13:54:18.206000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/179-c-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "179 C to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/179-c-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>179 C in a fan oven is equivalent to approximately 160 C in a conventional oven without the fan. This temperature adjustment ensures even cooking in air fryers and convection ovens, which circulate hot air for faster, crispier results. Whether you're baking, roasting, or reheating, understanding this conversion helps achieve restaurant-quality dishes at home. For more air fryer temperature guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>.</p>  

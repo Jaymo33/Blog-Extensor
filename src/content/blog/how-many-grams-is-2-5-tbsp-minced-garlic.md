@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 2.5 tbsp of minced garlic?"
 description: "Discover how to convert 2.5 tbsp of minced garlic into grams for perfect air fryer recipes every time. Get the exact measurement now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-5-tbsp-minced-garlic-55c53c5c.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-minced-garlic.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-garlic",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-garlic"
+    },
+    "headline": "Quick Answer: 2.5 tbsp minced garlic to grams conversion",
+    "description": "Discover how to convert 2.5 tbsp of minced garlic into grams for perfect air fryer recipes every time. Get the exact measurement now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-minced-garlic.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 2.5 tbsp of minced garlic equal the same weight as chopped garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 2.5 tbsp of chopped garlic weighs slightly less than minced garlic because it's less densely packed. Minced garlic (35 grams per 2.5 tbsp) has finer pieces that settle more closely together in the measuring spoon. For chopped garlic, expect about 30 grams for the same volume measurement."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use garlic powder instead of 2.5 tbsp minced garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute 1.5 teaspoons of garlic powder for 2.5 tbsp minced garlic (35 grams). However, the flavour profile will differ - powder is more concentrated and lacks the fresh, pungent notes of fresh minced garlic. When using powder in air fryer recipes, mix it with a bit of water to prevent burning."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does minced garlic measurement affect cooking time in air fryers?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The amount of minced garlic (2.5 tbsp/35 grams) can influence cooking time slightly. More garlic releases more moisture, which might require an extra minute or two. For even cooking, spread garlic-coated ingredients in a single layer and shake the basket halfway through, especially for recipes like garlic potatoes or chicken wings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my 2.5 tbsp minced garlic measurement vary between brands?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Different brands of pre-minced garlic have varying moisture content and chop sizes, affecting weight. Some contain preservative liquids that increase volume without adding garlic mass. For consistency, we recommend weighing 35 grams rather than relying solely on the 2.5 tbsp measurement, especially when precision matters in air fryer cooking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 2.5 tbsp of minced garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-garlic",
+    "description": "Discover how to convert 2.5 tbsp of minced garlic into grams for perfect air fryer recipes every time. Get the exact measurement now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-garlic#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 2.5 tbsp of minced garlic?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-garlic"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.5 tablespoons of minced garlic equals approximately 35 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up garlic-infused chicken or a flavourful vegetable stir-fry, knowing the exact weight ensures consistent results every time.</p>

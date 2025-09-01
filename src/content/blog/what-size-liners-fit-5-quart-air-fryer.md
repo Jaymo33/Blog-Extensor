@@ -1,12 +1,195 @@
 ---
 title: "What Size Liners Fit a 5 Quart Air Fryer?"
 description: "Discover the right liner size for your 5 quart air fryer with our easy guide. Get perfect fits for paper, silicone, and reusable liners today!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/what-size-liners-fit-5-quart-air-fryer-135f60d8.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/what-size-liners-fit-5-quart-air-fryer.webp"
 tags:
   - "liner"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-5-quart-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-5-quart-air-fryer"
+    },
+    "headline": "Perfect Fit: Best Liners for a 5 Quart Air Fryer",
+    "description": "Discover the right liner size for your 5 quart air fryer with our easy guide. Get perfect fits for paper, silicone, and reusable liners today!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T20:10:55.780000+00:00",
+    "dateModified": "2025-07-28T20:10:55.780000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/what-size-liners-fit-5-quart-air-fryer.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Liner"
+    },
+    "articleSection": "Liner",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use regular parchment paper in my 5 quart air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use regular parchment paper, but it should be cut to fit your 5 quart air fryer basket. Ensure it’s perforated or has small holes to allow proper airflow. Avoid letting the paper touch the heating element to prevent burning."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do Ninja liners fit all 5 quart air fryers?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Ninja liners are designed for Ninja air fryers, but they may fit other 5 quart models with similar basket sizes. Always check the dimensions of your air fryer basket before purchasing. Third-party liners often list compatibility with multiple brands."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Are silicone liners better than paper liners for a 5 quart air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Silicone liners are reusable and eco-friendly, making them a great long-term investment. Paper liners are convenient for quick cleanup but need replacing after each use. Choose based on your cooking frequency and sustainability preferences."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I clean reusable liners for my 5 quart air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most silicone liners can be washed with warm, soapy water or placed in the dishwasher. Avoid abrasive scrubbers to prevent damage. For stubborn residue, soak the liner in warm water before cleaning. Always dry thoroughly before reuse."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "What Size Liners Fit a 5 Quart Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-5-quart-air-fryer",
+    "description": "Discover the right liner size for your 5 quart air fryer with our easy guide. Get perfect fits for paper, silicone, and reusable liners today!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T20:10:55.780000+00:00",
+    "dateModified": "2025-07-28T20:10:55.780000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-5-quart-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "What Size Liners Fit a 5 Quart Air Fryer?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-5-quart-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Liners for a 5 quart air fryer typically measure 7.5 to 8 inches in diameter for round liners or 7.5 x 7.5 inches for square ones. Getting the right fit ensures your food cooks evenly and makes cleanup a breeze. Whether you’re using parchment paper, silicone, or reusable liners, the size matters to avoid blocking airflow. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your air fryer’s basket dimensions before buying liners.</p>

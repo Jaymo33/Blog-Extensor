@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 2.0 Cups of Yogurt?"
 description: "Learn how to convert 2.0 cups of yogurt to ml for perfect baking and cooking every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-2-cups-yogurt-e80cf688.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-yogurt.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-yogurt"
+    },
+    "headline": "Quick Guide: Convert 2.0 Cups of Yogurt to ml Easily",
+    "description": "Learn how to convert 2.0 cups of yogurt to ml for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T23:32:33.463000+00:00",
+    "dateModified": "2025-07-28T23:32:33.463000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of yogurt affect the ml measurement for 2.0 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The type of yogurt doesn't change the volume measurement - 2.0 cups will always be approximately 473 ml regardless of whether it's Greek, natural, or flavored yogurt. However, thicker yogurts like Greek yogurt may pack differently in the cup, so it's best to stir them first for accurate measuring."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same conversion for frozen yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the 2.0 cups to 473 ml conversion works for frozen yogurt too. However, remember that frozen yogurt expands when frozen, so if your recipe calls for thawed frozen yogurt, measure it after thawing for accuracy. Check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert recipes</a> for frozen yogurt ideas."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 2.0 cups of yogurt without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have measuring cups, you can use a standard drinking glass which typically holds about 240 ml. Two glasses would give you roughly 480 ml, which is close enough to 473 ml for most recipes. Alternatively, use a kitchen scale - 2.0 cups of yogurt weighs approximately 454 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use grams instead of ml for yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Some recipes use weight (grams) instead of volume (ml) because it's more precise, especially for baking. While 2.0 cups is about 473 ml, it's also approximately 454 grams. Weight measurements eliminate variables like how tightly packed the yogurt is in the cup. For air fryer recipes, either method works fine."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.0 Cups of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-yogurt",
+    "description": "Learn how to convert 2.0 cups of yogurt to ml for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T23:32:33.463000+00:00",
+    "dateModified": "2025-07-28T23:32:33.463000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 2.0 Cups of Yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.0 cups of yogurt equals approximately 473 ml. This conversion is essential for anyone using recipes that require precise measurements, especially when working with air fryers where consistency matters. Whether you're whipping up a cake or preparing a marinade, knowing how to convert cups to millilitres ensures your dish turns out perfectly every time.</p>

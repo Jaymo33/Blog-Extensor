@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 785 ml of Half And Half?"
 description: "Discover how to convert 785 ml of half and half to cups for perfect baking and cooking every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-785-ml-of-half-and-half-26eecc13.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-785-ml-of-half-and-half.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-half-and-half",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-half-and-half"
+    },
+    "headline": "Quick Answer: How Many Cups Is 785 ml of Half And Half?",
+    "description": "Discover how to convert 785 ml of half and half to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-785-ml-of-half-and-half.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 785 ml of half and half the same as 3.3 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 785 ml of half and half is approximately 3.3 cups. This conversion is based on the standard UK cup measurement of 240 ml per cup. For precise baking or cooking, especially in an air fryer, it’s best to use a measuring jug for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 785 ml of half and half in an air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 785 ml of half and half works well in air fryer recipes like custards, creamy sauces, or even soups. Just ensure your air fryer-safe dish can accommodate the liquid without overflowing during cooking. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for inspiration."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 785 ml of half and half without a jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring jug, you can use standard cups and tablespoons. 785 ml equals roughly 3 cups (720 ml) plus 2 tablespoons (30 ml). For the most accurate results, a liquid measuring jug is recommended."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 785 ml of half and half differ between UK and US measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The difference is minimal. In the UK, 785 ml is 3.3 cups (240 ml per cup), while in the US, it’s about 3.31 cups (236.6 ml per cup). For most recipes, this small variance won’t affect the outcome, but always check the recipe’s origin for precision."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 785 ml of Half And Half?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-half-and-half",
+    "description": "Discover how to convert 785 ml of half and half to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-half-and-half#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 785 ml of Half And Half?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-half-and-half"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>785 ml of half and half equals approximately 3.3 cups. This conversion is essential for anyone baking or cooking with half and half, especially when using an air fryer where precise measurements matter. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert 785 ml of half and half to cups ensures your recipe turns out perfectly every time.</p>

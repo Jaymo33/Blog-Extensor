@@ -1,12 +1,195 @@
 ---
 title: "182 C to Fan Oven"
 description: "Learn how to convert 182 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/182-c-to-fan-oven-06a9b777.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/182-c-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/182-c-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/182-c-to-fan-oven"
+    },
+    "headline": "182 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 182 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T13:54:18.206000+00:00",
+    "dateModified": "2025-07-21T13:54:18.206000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/182-c-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 182 C to fan oven for baking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For baking, reduce 182 C by 20 degrees to 160 C fan. However, for delicate cakes or pastries, consider lowering to 150-155 C fan and extending cooking time slightly to prevent over-browning while ensuring even rising."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 182 C the same in an air fryer and fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While both use circulating air, air fryers are more compact and intense. Start with the standard 182 C to 160 C fan conversion, but monitor closely as cooking times may be 20-30% faster in air fryers compared to full-size fan ovens."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my food cook faster at 182 C in a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Fan ovens circulate hot air continuously, transferring heat more efficiently than conventional ovens. The 182 C to 160 C fan conversion accounts for this intensity, but the moving air still cooks food about 20% faster than static heat at the same temperature."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 182 C fan oven times for my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, always reduce cooking times when converting 182 C fan oven recipes for air fryers. Start checking 5-10 minutes before the recipe suggests, as air fryers' concentrated heat cooks food faster than even fan ovens. Adjust based on your specific model's performance."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "182 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/182-c-to-fan-oven",
+    "description": "Learn how to convert 182 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T13:54:18.206000+00:00",
+    "dateModified": "2025-07-21T13:54:18.206000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/182-c-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "182 C to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/182-c-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <h2>Understanding 182 C in Fan Ovens</h2>

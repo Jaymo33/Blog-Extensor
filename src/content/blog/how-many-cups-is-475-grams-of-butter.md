@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 475 Grams of Butter?"
 description: "Learn how to convert 475 grams of butter to cups for perfect baking results every time. Includes UK & US measurements and air fryer tips."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-475-grams-of-butter-c6819df2.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-butter.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-butter",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-butter"
+    },
+    "headline": "Quick Guide: Convert 475 Grams of Butter to Cups Easily",
+    "description": "Learn how to convert 475 grams of butter to cups for perfect baking results every time. Includes UK & US measurements and air fryer tips.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T22:50:30.951000+00:00",
+    "dateModified": "2025-07-26T22:50:30.951000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-butter.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 475 grams of butter the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, UK and US cup measurements differ slightly. 475 grams of butter equals about 2.1 UK cups or 2 US cups due to the UK cup being 250ml versus the US cup at 240ml. Always check which measurement system your recipe uses for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use melted butter instead of solid for measuring 475 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It’s best to measure butter in its solid state for accuracy. Melted butter can settle unevenly in a cup, leading to incorrect measurements. If a recipe calls for melted butter, measure it solid first, then melt it."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does butter measurement affect air fryer cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Too much butter in an air fryer can cause smoking or uneven cooking, while too little may dry out food. For 475 grams, lightly coat ingredients rather than drowning them. Air fryers need less fat than traditional frying, so adjust recipes accordingly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to measure 475 grams of butter without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use the markings on butter packaging (usually in tablespoons or grams) or the water displacement method: fill a cup with water, add butter until the water level rises to the 2-cup mark (US), then drain. This gives a close approximation for 475 grams."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 475 Grams of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-butter",
+    "description": "Learn how to convert 475 grams of butter to cups for perfect baking results every time. Includes UK & US measurements and air fryer tips.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T22:50:30.951000+00:00",
+    "dateModified": "2025-07-26T22:50:30.951000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-butter#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 475 Grams of Butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-butter"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>475 grams of butter is roughly equivalent to 2.1 cups in the UK or 2 cups in the US. Getting this conversion right is essential for baking, cooking, or even air frying, where precise measurements can make or break a recipe. Whether you're whipping up a cake or preparing a savoury dish in your air fryer, knowing how to convert grams to cups ensures consistent results every time.</p>

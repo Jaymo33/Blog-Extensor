@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 5 tbsp of baking soda?"
 description: "Convert 5 tbsp of baking soda to grams in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-baking-soda-9fdb7149.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-baking-soda.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-baking-soda",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-baking-soda"
+    },
+    "headline": "Quick Conversion: 5 tbsp of baking soda to grams",
+    "description": "Convert 5 tbsp of baking soda to grams in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-baking-soda.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 5 tbsp of baking soda for cleaning my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 5 tbsp (60 grams) of baking soda mixed with water makes an effective, non-toxic cleaner for your air fryer basket. It helps remove grease and odours without harsh chemicals. Just scrub gently and rinse thoroughly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for baking soda in grams instead of tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide a more accurate measurement, especially for baking soda, which can compact in a tablespoon. Air fryer recipes often require precision to ensure even cooking and texture, so weighing ingredients is preferred."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What happens if I use too much baking soda in my air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Excess baking soda can leave a bitter taste and cause over-browning or uneven rising. Stick to the recommended 60 grams (5 tbsp) unless the recipe specifies otherwise. Always measure carefully for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is there a difference between UK and US tablespoons for baking soda measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, both UK and US tablespoons hold 15 ml, so 5 tbsp of baking soda equals 60 grams in either system. However, always check your recipe’s origin to confirm the measurement standard used."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of baking soda?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-baking-soda",
+    "description": "Convert 5 tbsp of baking soda to grams in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-baking-soda#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 5 tbsp of baking soda?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-baking-soda"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 tablespoons of baking soda equals approximately 60 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making fluffy cakes or crispy snacks, knowing the exact weight ensures consistent results every time.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "383 F to Gas Mark"
 description: "Convert 383°F to Gas Mark for your air fryer or oven. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/383-f-to-gas-mark-6c8e0936.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/383-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/383-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/383-f-to-gas-mark"
+    },
+    "headline": "383 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Convert 383°F to Gas Mark for your air fryer or oven. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T21:38:45.164000+00:00",
+    "dateModified": "2025-07-20T21:38:45.164000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/383-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use Gas Mark 5 for all air fryer cooking at 383 F?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While Gas Mark 5 (383 F) works for many foods, some dishes require higher or lower temperatures. Delicate items like fish might need slightly lower heat, while crispy foods like roast potatoes often benefit from higher temperatures. Always check specific recipe recommendations."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 383 F to Gas Mark for a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For fan ovens, you'd typically reduce the temperature by about 20°C (36°F), making 383 F equivalent to Gas Mark 4 in a fan oven. However, air fryers behave differently, so stick with Gas Mark 5 (383 F) unless the recipe specifies otherwise."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer cook faster than my oven at Gas Mark 5?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate hot air more efficiently than conventional ovens, cooking food faster even at the same temperature (383 F/Gas Mark 5). This is why we recommend reducing cooking times by about 20% when converting oven recipes to air fryer use."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 383 F the same as Gas Mark 5 in all air fryer models?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While 383 F should equal Gas Mark 5 across all appliances, some air fryer models may have slight temperature variations. It's always good to use an oven thermometer to verify your air fryer's actual temperature if precision is crucial for your recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "383 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/383-f-to-gas-mark",
+    "description": "Convert 383°F to Gas Mark for your air fryer or oven. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T21:38:45.164000+00:00",
+    "dateModified": "2025-07-20T21:38:45.164000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/383-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "383 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/383-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>383°F converts to Gas Mark 5, making it a moderate oven temperature ideal for roasting and baking in both conventional ovens and air fryers. This temperature is commonly used for cooking meats, vegetables, and baked goods where you want thorough cooking without excessive browning. When using your air fryer at this temperature, you'll typically need to reduce cooking times by about 20% compared to conventional oven recipes.</p>

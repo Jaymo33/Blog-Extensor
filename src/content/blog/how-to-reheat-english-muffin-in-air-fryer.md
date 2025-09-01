@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat English Muffin in an Air Fryer"
 description: "Learn how to reheat English muffin in air fryer for perfect texture. Get timings, temperatures, and tips to avoid drying out your muffin."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-english-muffin-in-air-fryer-96c56e02.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-english-muffin-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-english-muffin-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-english-muffin-in-air-fryer"
+    },
+    "headline": "Reheat English Muffin in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat English muffin in air fryer for perfect texture. Get timings, temperatures, and tips to avoid drying out your muffin.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T18:06:35.548000+00:00",
+    "dateModified": "2025-07-22T18:06:35.548000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-english-muffin-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat English muffin in air fryer straight from the freezer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Yes, you can reheat frozen English muffins in an air fryer. Increase the temperature to 180°C and cook for 4-5 minutes, flipping halfway. The higher temperature helps thaw and crisp the muffin properly.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to prevent English muffins drying out in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Lightly brush the cut sides with butter or oil before reheating, and don’t overcook. Check at the 2-minute mark – properly reheated English muffins should feel warm but still soft inside.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does air fryer reheating compare to using a toaster for English muffins?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Air fryers provide more even heating than toasters, preventing burnt edges while thoroughly warming the center. They also better preserve the muffin’s texture, especially for thicker or refrigerated muffins.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat English muffin with toppings already on it in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Yes, but adjust the method – reduce temperature to 150°C and cook for just 1-2 minutes to warm toppings without burning. Cheese, butter or jam all reheat well this way.</p>"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat English Muffin in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-english-muffin-in-air-fryer",
+    "description": "Learn how to reheat English muffin in air fryer for perfect texture. Get timings, temperatures, and tips to avoid drying out your muffin.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T18:06:35.548000+00:00",
+    "dateModified": "2025-07-22T18:06:35.548000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-english-muffin-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat English Muffin in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-english-muffin-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>To reheat an English muffin in an air fryer, set the temperature to 160°C (320°F) and cook for 2-3 minutes. This method restores the muffin’s crisp exterior while keeping the interior soft and fluffy. Whether you’re working with a fresh muffin or one from the fridge, your air fryer can revive it beautifully. For those who love kitchen gadgets, this technique beats using a toaster or microwave hands down. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more brilliant air fryer hacks.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 60 ml of Single Cream?"
 description: "Discover how to convert 60 ml of single cream to cups for perfect recipes every time. Get precise measurements for baking and cooking."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-60-ml-of-single-cream-0c709f5b.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-single-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-single-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-single-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 60 ml of Single Cream?",
+    "description": "Discover how to convert 60 ml of single cream to cups for perfect recipes every time. Get precise measurements for baking and cooking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:31:14.367000+00:00",
+    "dateModified": "2025-07-30T23:31:14.367000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-single-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 60 ml of single cream the same as 60 ml of double cream in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 60 ml of single cream and double cream have different densities, so their cup measurements vary. Single cream is lighter, so 60 ml equals roughly 0.25 cups, while double cream may be slightly less due to its thickness. Always check specific conversions for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale instead of measuring cups for 60 ml of single cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, a kitchen scale works well for measuring liquids like single cream. Since 1 ml of single cream weighs about 1 gram, 60 ml would be approximately 60 grams. This method is especially useful for air fryer recipes where precision is key."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 60 ml of single cream without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use tablespoons—four level tablespoons equal 60 ml (0.25 cups). Alternatively, a standard shot glass often holds 50 ml, so a little over that will give you 60 ml. These quick methods are handy for air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the cup measurement for 60 ml of single cream change in the US and UK?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, both the US and UK use 240 ml as 1 cup, so 60 ml remains 0.25 cups in both systems. However, always ensure your measuring tools are accurate, especially for air fryer recipes where small differences can affect results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-single-cream",
+    "description": "Discover how to convert 60 ml of single cream to cups for perfect recipes every time. Get precise measurements for baking and cooking.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:31:14.367000+00:00",
+    "dateModified": "2025-07-30T23:31:14.367000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-single-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 60 ml of Single Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-single-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>60 ml of single cream equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy sauce or a delicate dessert, knowing how to convert millilitres to cups ensures consistency in your dishes.</p>  

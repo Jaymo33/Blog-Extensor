@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 40g of chopped onion?"
 description: "Convert 40g of chopped onion to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/40g-chopped-onion-to-ounces-b0d2cd46.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-chopped-onion-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-chopped-onion-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-chopped-onion-to-ounces"
+    },
+    "headline": "Quick 40g chopped onion to ounces conversion guide",
+    "description": "Convert 40g of chopped onion to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-chopped-onion-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use frozen chopped onion instead of fresh for 40g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, frozen chopped onion works perfectly in place of fresh when measuring 40g. The weight remains the same, though frozen onion may release slightly more moisture during cooking. There's no need to thaw - just add it straight to your air fryer basket, possibly extending cooking time by a minute or two."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 40g of chopped onion compare to onion powder?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "40g of fresh chopped onion equals about 4 teaspoons of onion powder. However, they're not direct substitutes flavour-wise - fresh onion provides texture and milder flavour, while powder is more concentrated. For air frying, stick to fresh when the recipe specifies it, as powder can burn at high temperatures."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes specify weight (40g) rather than volume for chopped onion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weight measurements like 40g are more accurate because how finely you chop affects volume. A coarsely chopped 40g will take up more space than finely diced. Recipes, especially for air fryers where precision matters, often use weight to ensure consistent results regardless of chopping style."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 40g of chopped onion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "40g of chopped onion contains approximately 16 calories. It's a low-calorie way to add flavour to air fryer dishes. The calorie count remains roughly the same whether raw or cooked, though caramelising in the air fryer concentrates the natural sugars slightly."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of chopped onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-chopped-onion-to-ounces",
+    "description": "Convert 40g of chopped onion to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-chopped-onion-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 40g of chopped onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-chopped-onion-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>40g of chopped onion is approximately 1.41 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a quick stir-fry or prepping ingredients for a casserole, knowing how to convert grams to ounces ensures accuracy in your cooking.</p>

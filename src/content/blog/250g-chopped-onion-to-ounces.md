@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 250g of chopped onion?"
 description: "Learn how to convert 250g of chopped onion to ounces for perfect air fryer recipes. Get accurate measurements every time!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/250g-chopped-onion-to-ounces-5a874bee.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250g-chopped-onion-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/250g-chopped-onion-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/250g-chopped-onion-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 250g of chopped onion to ounces",
+    "description": "Learn how to convert 250g of chopped onion to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250g-chopped-onion-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 250g of chopped onion to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "250g of chopped onion is roughly 2 cups when lightly packed. However, cup measurements can vary based on how finely the onion is chopped. For accuracy, a kitchen scale is best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use frozen chopped onion instead of fresh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, frozen chopped onion works well in air fryer recipes. Use the same weight (250g or 8.82 ounces), but note that frozen onions may release more moisture, so adjust cooking times slightly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many onions make 250g when chopped?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "About 2 medium-sized onions yield 250g when chopped. Onion sizes vary, so weighing is the most reliable method for precise measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of onion affect the weight conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the conversion from grams to ounces (250g = 8.82 oz) applies to all onion types. However, sweeter onions like Vidalia may have slightly different densities, but the difference is minimal for most recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of chopped onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/250g-chopped-onion-to-ounces",
+    "description": "Learn how to convert 250g of chopped onion to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/250g-chopped-onion-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 250g of chopped onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/250g-chopped-onion-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>250g of chopped onion equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, ensuring you get the right portion sizes for perfect results. Whether you're prepping a stir-fry, soup, or a delicious air-fried dish, knowing how to convert grams to ounces helps maintain consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

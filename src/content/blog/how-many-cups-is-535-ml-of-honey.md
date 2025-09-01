@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 535 ml of Honey?"
 description: "Learn how to convert 535 ml of honey to cups for baking and cooking. Get precise measurements for UK and US cups in seconds."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-535-ml-of-honey-e171da9e.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-535-ml-of-honey.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-honey",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-honey"
+    },
+    "headline": "Quick Guide: Convert 535 ml of Honey to Cups Easily",
+    "description": "Learn how to convert 535 ml of honey to cups for baking and cooking. Get precise measurements for UK and US cups in seconds.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-535-ml-of-honey.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 535 ml of honey the same as 2 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 535 ml of honey is slightly more than 2 cups. In the UK, it's approximately 2.25 cups, and in the US, it's about 2.26 cups. The exact conversion depends on whether you're using UK or US cup measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 535 ml of honey without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring cup, you can use a kitchen scale. Honey weighs about 340 grams per cup, so 535 ml would be roughly 765 grams. Alternatively, use tablespoons—16 tablespoons equal 1 cup, so 535 ml would be around 36 tablespoons."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 535 ml of honey in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 535 ml of honey works well in air fryer recipes like glazed meats or desserts. Just ensure you distribute it evenly to avoid burning. Honey caramelises quickly in an air fryer, so keep an eye on cooking times."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of honey affect the conversion from ml to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The type of honey can slightly affect the conversion due to differences in viscosity. Thicker honey may settle differently in a cup, but the volume remains the same. For precise baking, it's best to measure by weight or use a liquid measuring cup."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 535 ml of Honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-honey",
+    "description": "Learn how to convert 535 ml of honey to cups for baking and cooking. Get precise measurements for UK and US cups in seconds.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-honey#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 535 ml of Honey?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-honey"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>535 ml of honey is approximately 2.25 cups in the UK and 2.26 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a cake or glazing chicken, knowing how to convert 535 ml of honey to cups ensures your dish turns out perfectly.</p>

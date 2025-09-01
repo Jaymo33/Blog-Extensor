@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.125 cup of garlic paste?"
 description: "Learn how to convert 0.125 cup of garlic paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-125-cup-of-garlic-paste-b22abbed.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-garlic-paste.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-garlic-paste",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-garlic-paste"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup Garlic Paste to Ounces Easily",
+    "description": "Learn how to convert 0.125 cup of garlic paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-garlic-paste.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use minced garlic instead of garlic paste in my air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute minced garlic for garlic paste, but the measurements will differ. Minced garlic is less concentrated, so you’ll need about 1.5 times the amount to match the flavour of 0.125 cup (1 ounce) of garlic paste. Adjust to taste and keep an eye on cooking times, as minced garlic may cook faster."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does garlic paste last in the fridge?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Garlic paste typically lasts about 2-3 weeks in the fridge if stored in an airtight container. For longer storage, freeze it in small portions. Always check for signs of spoilage, like mould or off smells, before using. Proper storage ensures your garlic paste stays fresh and flavourful."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my garlic paste burn in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Garlic paste burns easily because of its high sugar content and lack of moisture. To prevent this, mix it with a bit of oil or water before applying it to your food. Lowering the cooking temperature slightly can also help. Keep an eye on your dish to avoid overcooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I make my own garlic paste at home?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Blend peeled garlic cloves with a small amount of oil or water until smooth. Homemade garlic paste is fresher and free from preservatives. Store it in the fridge or freezer for future use. Adjust the consistency to match your recipe needs, whether for marinades or sauces."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of garlic paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-garlic-paste",
+    "description": "Learn how to convert 0.125 cup of garlic paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-garlic-paste#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.125 cup of garlic paste?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-garlic-paste"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.125 cup of garlic paste equals approximately 1 ounce. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a marinade or adding flavour to your favourite <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing the exact weight ensures consistency. Garlic paste is a staple in many kitchens, and getting the measurement right can elevate your cooking. Let’s dive deeper into how this conversion works and why it matters for your air fryer meals.</p>

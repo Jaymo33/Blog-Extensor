@@ -1,12 +1,195 @@
 ---
 title: "322 F to Gas Mark"
 description: "Convert 322°F to Gas Mark for your oven or air fryer. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/322-f-to-gas-mark-9be7ad57.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/322-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/322-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/322-f-to-gas-mark"
+    },
+    "headline": "322 F to Gas Mark: Oven & Air Fryer Conversion Guide",
+    "description": "Convert 322°F to Gas Mark for your oven or air fryer. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T19:42:35.102000+00:00",
+    "dateModified": "2025-07-20T19:42:35.102000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/322-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 322 F in my air fryer if it doesn't show Gas Mark?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, simply set your air fryer to 322°F which equals Gas Mark 3. Most air fryers display Fahrenheit or Celsius, so you don't need the Gas Mark setting. The cooking results will be identical."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 322 F compare to other common Gas Mark temperatures?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "322°F (Gas Mark 3) is slightly cooler than Gas Mark 4 (350°F/180°C) and warmer than Gas Mark 2 (300°F/150°C). It's ideal for slower, more gentle cooking compared to higher Gas Marks."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes specify 322 F instead of Gas Mark 3?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes from America or with digital oven settings often use Fahrenheit. 322 F to Gas Mark conversion helps UK cooks using traditional ovens. Air fryer recipes may use Fahrenheit for precision temperature control."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I cook frozen food at 322 F (Gas Mark 3) in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 322 F works well for frozen foods needing gentle reheating. It prevents outside burning while thoroughly heating the center. Adjust cooking time slightly longer than package instructions for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "322 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/322-f-to-gas-mark",
+    "description": "Convert 322°F to Gas Mark for your oven or air fryer. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T19:42:35.102000+00:00",
+    "dateModified": "2025-07-20T19:42:35.102000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/322-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "322 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/322-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>322°F converts to Gas Mark 3 in UK ovens and air fryers. This temperature is commonly used for slow roasting, baking, and gentle cooking. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your dishes cook evenly. Many recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use this temperature for perfect results. It's especially useful when adapting American recipes that specify Fahrenheit to UK Gas Mark settings.</p>

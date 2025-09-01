@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 235 ml of Vegetable Oil?"
 description: "Discover how to convert 235 ml of vegetable oil to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-235-ml-of-vegetable-oil-e226874b.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-vegetable-oil.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Answer: How Many Cups Is 235 ml of Vegetable Oil?",
+    "description": "Discover how to convert 235 ml of vegetable oil to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 235 ml of vegetable oil exactly 1 cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "235 ml of vegetable oil is very close to 1 cup, but not exact. A standard metric cup holds 240 ml, so 235 ml is just under a full cup. For most recipes, this small difference won’t matter, but for precision, measure slightly below the cup’s rim."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a US cup to measure 235 ml of vegetable oil?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but note that a US cup is 236.59 ml, so 235 ml is nearly identical. The difference is negligible for air frying or baking. If your recipe requires exact measurements, use a metric measuring jug for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 235 ml of vegetable oil without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring cup, use a tablespoon. There are roughly 16 tablespoons in 235 ml (1 tbsp = 15 ml). Alternatively, fill a standard drinking glass to just below the 250 ml mark, leaving a small gap."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do air fryer recipes sometimes call for 235 ml of vegetable oil?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes may use 235 ml (about 1 cup) for coating or marinating ingredients like chicken or vegetables. This amount ensures even crispiness without excess oil. For healthier options, you can reduce the oil slightly and still achieve great results in your air fryer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 235 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-vegetable-oil",
+    "description": "Discover how to convert 235 ml of vegetable oil to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 235 ml of Vegetable Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>235 ml of vegetable oil equals approximately 1 cup (or 0.99 cups to be precise). Whether you're using an air fryer or baking, accurate measurements ensure your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial conversions like these are for hassle-free cooking.</p>  

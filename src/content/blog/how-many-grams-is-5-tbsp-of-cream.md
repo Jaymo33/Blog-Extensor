@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 5 tbsp of cream?"
 description: "Learn how to convert 5 tbsp of cream to grams in seconds for perfect air fryer recipes. Get accurate measurements every time!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-of-cream-ee98b5d9.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-cream.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-cream"
+    },
+    "headline": "Quick Guide: Convert 5 tbsp of Cream to Grams Easily",
+    "description": "Learn how to convert 5 tbsp of cream to grams in seconds for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 5 tbsp of cream the same as 75 grams in the UK?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, in the UK, 5 tablespoons of cream generally equals about 75 grams. However, this can vary slightly depending on the cream's fat content. Double cream may weigh closer to 80 grams for the same volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use millilitres instead of grams for measuring cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Five tablespoons of cream is roughly 75ml, which converts to 75 grams. Millilitres and grams are interchangeable for liquids like cream, making it easy to measure without scales."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe require cream in grams instead of tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide a more accurate measurement, especially in air fryer cooking where consistency affects results. Tablespoons can vary based on how the cream is scooped, but grams ensure precision for perfect dishes every time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert other cream measurements to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a standard conversion of 1 tablespoon = 15 grams for single cream. For larger quantities, multiply accordingly—e.g., 10 tbsp = 150 grams. Always check your recipe for the type of cream specified, as double cream weighs slightly more."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-cream",
+    "description": "Learn how to convert 5 tbsp of cream to grams in seconds for perfect air fryer recipes. Get accurate measurements every time!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 5 tbsp of cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 tablespoons of cream is approximately 75 grams. This conversion is essential for air fryer recipes where precise measurements can affect texture and cooking times. Whether you’re making a creamy sauce or a decadent dessert, knowing the exact weight ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

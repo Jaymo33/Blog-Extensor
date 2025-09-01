@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 3.0 Cups of Water?"
 description: "Discover the exact ml measurement for 3.0 cups of water with our easy conversion guide—perfect for air fryer recipes and precise cooking."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-3-cups-of-water-c683f9c8.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-of-water.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-water",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-water"
+    },
+    "headline": "Quick Answer: How Many ml Is 3.0 Cups of Water?",
+    "description": "Discover the exact ml measurement for 3.0 cups of water with our easy conversion guide—perfect for air fryer recipes and precise cooking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T08:54:58.618000+00:00",
+    "dateModified": "2025-07-30T08:54:58.618000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-of-water.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 3.0 cups of water the same in the US and UK?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, US and UK cup measurements differ. A US cup is 240 ml, while a UK cup is 284 ml. For 3.0 cups, this means 710 ml (US) or 852 ml (UK). Always check the recipe’s origin to ensure accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a regular measuring cup for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but ensure it’s a standardised measuring cup (not a drinking cup) for precision. Liquid measuring cups with ml markings are ideal for air fryer recipes requiring exact water quantities like 710 ml (3.0 cups)."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 3.0 cups of water without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring cup, use a scale: 1 ml of water weighs 1 gram. So, 710 ml (3.0 cups) = 710 grams. Alternatively, a standard UK mug holds about 250 ml, so roughly 2.8 mugs equal 710 ml."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is 3.0 cups of water a common measurement in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many air fryer recipes, like steamed dishes or batters, require moderate liquid volumes. 710 ml (3.0 cups) balances moisture without overcrowding the basket, ensuring even cooking and crisp results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.0 Cups of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-water",
+    "description": "Discover the exact ml measurement for 3.0 cups of water with our easy conversion guide—perfect for air fryer recipes and precise cooking.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T08:54:58.618000+00:00",
+    "dateModified": "2025-07-30T08:54:58.618000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-water#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 3.0 Cups of Water?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-water"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>3.0 cups of water equals 710 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you’re preparing a sauce, baking, or adjusting liquid quantities, knowing how many ml is 3.0 cups of water ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless so you can focus on creating delicious meals.</p>  

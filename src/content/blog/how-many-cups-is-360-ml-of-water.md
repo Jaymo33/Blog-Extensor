@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 360 ml of Water?"
 description: "Learn how to convert 360 ml of water to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-360-ml-of-water-14388a29.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-water.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-water",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-water"
+    },
+    "headline": "Quick Guide: Convert 360 ml of Water to Cups Easily",
+    "description": "Learn how to convert 360 ml of water to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-water.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 360 ml of water the same as 1.5 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 360 ml of water equals 1.5 US cups. However, in the UK, a cup is 284 ml, so 360 ml is roughly 1.27 UK cups. Always check which measurement system your recipe uses to ensure accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale to measure 360 ml of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Since 1 ml of water weighs 1 gram, 360 ml of water will weigh 360 grams. A kitchen scale is a precise way to measure liquids, especially for air fryer recipes where accuracy matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the easiest way to measure 360 ml of water without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A standard US cup is 240 ml, so 1.5 cups equal 360 ml. Alternatively, a UK mug holds about 284 ml, so 360 ml is just over 1.27 mugs. A small juice glass (200 ml) filled twice also gets you close."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do air fryer recipes need such precise water measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook food quickly and evenly, so precise measurements ensure the right texture and doneness. Too much water can make food soggy, while too little can dry it out. Accurate conversions like 360 ml to cups help achieve perfect results every time."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 360 ml of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-water",
+    "description": "Learn how to convert 360 ml of water to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-water#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 360 ml of Water?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-water"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>360 ml of water equals approximately 1.52 cups in the UK or 1.5 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking a cake or preparing a savoury meal, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

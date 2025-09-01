@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 135 ml of Maple Syrup?"
 description: "Discover how to convert 135 ml of maple syrup to cups for perfect baking and air frying every time. Get precise measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-135-ml-of-maple-syrup-d60291ab.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-135-ml-of-maple-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-maple-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-maple-syrup"
+    },
+    "headline": "Quick Answer: How Many Cups Is 135 ml of Maple Syrup?",
+    "description": "Discover how to convert 135 ml of maple syrup to cups for perfect baking and air frying every time. Get precise measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-135-ml-of-maple-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 135 ml of maple syrup interchangeably with honey in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute 135 ml of maple syrup with honey in most air fryer recipes. Both are liquid sweeteners with similar consistencies, though honey is slightly sweeter. Adjust cooking times slightly, as honey may caramelise faster under the air fryer's high heat."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store leftover maple syrup after measuring 135 ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store opened maple syrup in the fridge to prevent mould growth. Pour any leftover syrup from your 135 ml measurement into an airtight container. It keeps for up to a year refrigerated. Warm slightly before reusing if it thickens."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe taste too sweet with 135 ml of maple syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers intensify flavours due to concentrated heat circulation. If 135 ml (0.57 cups) of maple syrup makes your dish too sweet, reduce it by a tablespoon or balance it with acidic ingredients like lemon juice or vinegar."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I measure 135 ml of maple syrup by weight instead of volume?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 135 ml of maple syrup weighs about 170 grams. Using a kitchen scale ensures accuracy, especially for baking. This method avoids sticky measuring cups and is handy for large batches."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 135 ml of Maple Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-maple-syrup",
+    "description": "Discover how to convert 135 ml of maple syrup to cups for perfect baking and air frying every time. Get precise measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-maple-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 135 ml of Maple Syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-maple-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>135 ml of maple syrup equals approximately 0.57 cups (just over half a cup). This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly sweetened every time. Whether you're making glazes, marinades, or baked goods, knowing this measurement helps avoid guesswork. For more precise conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

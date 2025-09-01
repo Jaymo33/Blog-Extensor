@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 5 tbsp of wholemeal flour?"
 description: "Find out exactly how many grams are in 5 tbsp of wholemeal flour for perfect baking every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-wholemeal-flour-b4152b82.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-wholemeal-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-wholemeal-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-wholemeal-flour"
+    },
+    "headline": "Quick Answer: 5 tbsp of wholemeal flour in grams",
+    "description": "Find out exactly how many grams are in 5 tbsp of wholemeal flour for perfect baking every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-wholemeal-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use white flour instead of wholemeal flour in the same amount?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, white flour is lighter, so 5 tbsp weighs around 35 grams compared to wholemeal flour’s 40 grams. If substituting, adjust the quantity slightly or expect a slightly different texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my wholemeal flour measurement vary slightly?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Wholemeal flour can settle or compact, leading to slight weight differences. Always fluff it before measuring for consistency. Humidity and brand variations can also affect density."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store wholemeal flour to keep it fresh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store wholemeal flour in an airtight container in a cool, dark place. It has a shorter shelf life than white flour due to its higher oil content, so use it within 3–6 months."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I measure wholemeal flour by volume instead of weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While possible, weighing is more accurate. If using tablespoons, fluff and level carefully. For best results in air fryer baking, a kitchen scale is ideal."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-wholemeal-flour",
+    "description": "Find out exactly how many grams are in 5 tbsp of wholemeal flour for perfect baking every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-wholemeal-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 5 tbsp of wholemeal flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-wholemeal-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 tablespoons of wholemeal flour weigh approximately 40 grams. This conversion is essential for precise baking, especially when using an air fryer for recipes like muffins or bread. Understanding these measurements ensures consistency and perfect results every time.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 450 Grams of Lentils?"
 description: "Find out exactly how many cups 450 grams of lentils equals for perfect air fryer recipes every time. Simple conversion guide included!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-450-grams-of-lentils-44824126.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-lentils.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-lentils",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-lentils"
+    },
+    "headline": "Quick Answer: How Many Cups Is 450 Grams of Lentils?",
+    "description": "Find out exactly how many cups 450 grams of lentils equals for perfect air fryer recipes every time. Simple conversion guide included!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-lentils.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of lentil affect how many cups 450 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different lentil varieties can slightly affect the conversion. While most standard lentils (like green or brown) convert at about 200g per cup, smaller varieties like red lentils are slightly denser. For 450 grams, you might get slightly less than 2.25 cups with red lentils. However, the difference is minimal for most air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same conversion for cooked lentils?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, cooked lentils have absorbed water and expanded, so the conversion changes dramatically. While 450 grams of dry lentils equals about 2.25 cups, the same weight of cooked lentils would be much greater in volume. For cooked lentils in air fryer recipes, it's best to measure by weight or use recipe-specific guidance."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I adjust cooking times when using 450 grams of lentils in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "When cooking 450 grams (2.25 cups) of lentils in your air fryer, cooking times depend on the recipe. For crispy roasted lentils, cook at 190°C for 12-15 minutes, shaking halfway. For lentil-based dishes like falafel or burgers, follow recipe times but check for doneness as air fryer models vary. Always ensure lentils are spread evenly in the basket."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe specify grams instead of cups for lentils?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many air fryer recipes use weight measurements (grams) rather than volume (cups) because it's more precise. The way lentils settle in a cup can vary, but 450 grams is always 450 grams. This precision matters in air fryers where even cooking depends on consistent ingredient quantities. Investing in kitchen scales will improve your air fryer results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 450 Grams of Lentils?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-lentils",
+    "description": "Find out exactly how many cups 450 grams of lentils equals for perfect air fryer recipes every time. Simple conversion guide included!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-lentils#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 450 Grams of Lentils?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-lentils"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>450 grams of lentils equals approximately 2.25 cups. This conversion is based on standard UK cup measurements, where 1 cup of lentils typically weighs around 200 grams. Whether you're using an air fryer or traditional oven, getting your measurements right is key to perfect results every time.</p>

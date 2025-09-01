@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 810 ml of Balsamic Vinegar?"
 description: "Learn how to convert 810 ml of balsamic vinegar to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-810-ml-of-balsamic-vinegar-960dcd37.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-810-ml-of-balsamic-vinegar.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar"
+    },
+    "headline": "Quick Guide: Convert 810 ml of Balsamic Vinegar to Cups",
+    "description": "Learn how to convert 810 ml of balsamic vinegar to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-810-ml-of-balsamic-vinegar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 810 ml of balsamic vinegar the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, there’s a slight difference. A UK cup is 250 ml, so 810 ml equals 3.42 cups. A US cup is 240 ml, making it approximately 3.38 cups. For air fryer recipes, this small variance usually doesn’t affect the outcome, but for precision, use a scale."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute another vinegar for balsamic vinegar in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but adjust for flavour and acidity. Red wine vinegar or apple cider vinegar can work, but they’re less sweet. For 810 ml substitutions, add a teaspoon of sugar per cup to mimic balsamic’s richness. Always taste-test before committing to a full batch."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 810 ml of balsamic vinegar last once opened?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Stored properly in a cool, dark place, opened balsamic vinegar lasts 3–5 years. Its acidity acts as a natural preservative. If you’ve reduced 810 ml into a glaze, refrigerate it and use within two weeks for best quality."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to clean balsamic vinegar residue from my air fryer basket?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Soak the basket in warm, soapy water for 15 minutes, then scrub with a soft sponge. For stubborn spots, a paste of baking soda and water works wonders. Avoid abrasive tools to prevent scratching. Regular cleaning prevents sticky build-up."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 810 ml of Balsamic Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar",
+    "description": "Learn how to convert 810 ml of balsamic vinegar to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 810 ml of Balsamic Vinegar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>810 ml of balsamic vinegar is approximately 3.42 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're marinating chicken, glazing vegetables, or creating a reduction, knowing how to convert millilitres to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

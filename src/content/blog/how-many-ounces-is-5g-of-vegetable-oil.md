@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 5g of vegetable oil?"
 description: "Learn how to convert 5g of vegetable oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-5g-of-vegetable-oil-deab252e.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-vegetable-oil.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 5g of Vegetable Oil to Ounces Easily",
+    "description": "Learn how to convert 5g of vegetable oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use olive oil instead of vegetable oil for 5g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute olive oil for vegetable oil in the same quantity (5g or 0.18 ounces). However, olive oil has a stronger flavour, so it may alter the taste of your dish. For neutral-tasting recipes, stick to vegetable oil."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 5g of vegetable oil to tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Five grams of vegetable oil is roughly 0.35 tablespoons (just over 1/3 of a tablespoon). For precision, use a measuring spoon or a kitchen scale, especially when preparing air fryer recipes where accuracy matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is 5g of vegetable oil commonly used in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Five grams of oil (0.18 ounces) is enough to lightly coat food without making it greasy. Air fryers circulate hot air efficiently, so a small amount of oil ensures crispiness while keeping dishes healthier than deep-frying."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of vegetable oil affect the 5g to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the conversion remains the same (5g = 0.18 ounces) regardless of the vegetable oil type (sunflower, canola, etc.). However, oils with different viscosities may measure slightly differently by volume, so weight is more accurate."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of vegetable oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-vegetable-oil",
+    "description": "Learn how to convert 5g of vegetable oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 5g of vegetable oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 grams of vegetable oil equals approximately 0.18 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're frying, roasting, or baking, knowing how to convert grams to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals. Let's dive deeper into why this measurement matters and how to use it effectively.</p>  

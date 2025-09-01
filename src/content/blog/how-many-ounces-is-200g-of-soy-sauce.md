@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 200g of soy sauce?"
 description: "Learn how to convert 200g of soy sauce to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-200g-of-soy-sauce-c3274554.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-soy-sauce.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-soy-sauce",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-soy-sauce"
+    },
+    "headline": "Quick Guide: Convert 200g of Soy Sauce to Ounces Easily",
+    "description": "Learn how to convert 200g of soy sauce to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-soy-sauce.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 200g of soy sauce the same as 200ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 200g of soy sauce is not the same as 200ml. Grams measure weight, while millilitres measure volume. The density of soy sauce means 200g is roughly 190ml, but always use a scale for accuracy, especially in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a tablespoon to measure 200g of soy sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While possible, it’s not the most accurate method. One tablespoon of soy sauce weighs about 15g, so 200g would be roughly 13 tablespoons. For precision, a kitchen scale is best, especially for air fryer cooking where balance matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the brand of soy sauce affect the weight-to-ounce conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most soy sauces have similar densities, so 200g will generally equal 7.05 ounces regardless of brand. However, thicker or artisanal varieties might vary slightly. Always check the label if you’re unsure."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 200g of soy sauce last once opened?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "An opened bottle of soy sauce lasts about 2-3 years if stored properly. Keep it sealed and away from direct sunlight. For best flavour in air fryer recipes, use within a year of opening."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of soy sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-soy-sauce",
+    "description": "Learn how to convert 200g of soy sauce to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-soy-sauce#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 200g of soy sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-soy-sauce"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>200g of soy sauce equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re marinating chicken or whipping up a stir-fry, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping home cooks nail their measurements for flawless results.</p>  

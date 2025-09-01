@@ -1,12 +1,195 @@
 ---
 title: "87 Fan Oven to Conventional Oven Conversion"
 description: "Learn how to convert 87 fan oven to conventional oven temperatures easily. Get perfect baking results every time with our simple guide."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/87-fan-oven-to-conventional-oven-conversion-d6b2ab4c.png"
+pubDate: 2025-07-23T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/87-fan-oven-to-conventional-oven-conversion.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/87-fan-oven-to-conventional-oven-conversion",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/87-fan-oven-to-conventional-oven-conversion"
+    },
+    "headline": "Quick 87 Fan Oven to Conventional Oven Conversion Guide",
+    "description": "Learn how to convert 87 fan oven to conventional oven temperatures easily. Get perfect baking results every time with our simple guide.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-23T17:04:24.107000+00:00",
+    "dateModified": "2025-07-23T17:04:24.107000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/87-fan-oven-to-conventional-oven-conversion.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 87 fan oven to celsius for a conventional oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To convert 87 fan oven to celsius for a conventional oven, simply add 13 degrees. This means 87°C fan oven equals 100°C in a conventional oven. This conversion accounts for the different heat distribution methods between the two oven types."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is the conversion different for baking versus roasting?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The basic 87 fan oven to conventional oven conversion remains the same (+13°C), but baking often requires more precision. For delicate bakes like soufflés or custards, you might need to reduce the conventional oven temperature slightly and extend cooking time to prevent over-browning."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same conversion for my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers work similarly to fan ovens but are more efficient. For 87 fan oven to air fryer conversion, you might actually reduce the temperature by about 10°C (to 77°C) and shorten cooking time by 20-30% compared to fan oven instructions."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do fan ovens cook at lower temperatures than conventional ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Fan ovens circulate hot air continuously, ensuring more efficient heat transfer to food. This means they can achieve the same cooking results at lower temperatures (about 20°C less) than conventional ovens which rely on radiant heat and natural convection."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "87 Fan Oven to Conventional Oven Conversion",
+    "url": "https://www.airfryerrecipe.co.uk/blog/87-fan-oven-to-conventional-oven-conversion",
+    "description": "Learn how to convert 87 fan oven to conventional oven temperatures easily. Get perfect baking results every time with our simple guide.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-23T17:04:24.107000+00:00",
+    "dateModified": "2025-07-23T17:04:24.107000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/87-fan-oven-to-conventional-oven-conversion#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "87 Fan Oven to Conventional Oven Conversion",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/87-fan-oven-to-conventional-oven-conversion"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>87 fan oven converts to approximately 100°C in a conventional oven. This conversion is essential for achieving consistent baking results when switching between oven types. Fan ovens circulate hot air, allowing them to cook food faster and at lower temperatures than conventional ovens. Understanding this difference is crucial, especially when following recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> that might specify one oven type over another.</p>

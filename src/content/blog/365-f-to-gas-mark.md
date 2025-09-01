@@ -1,12 +1,195 @@
 ---
 title: "365 F to Gas Mark"
 description: "Convert 365°F to Gas Mark (Gas Mark 4.5) for perfect air fryer & oven cooking. Includes UK conversion charts & temperature tips."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/365-f-to-gas-mark-61e590a4.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/365-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/365-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/365-f-to-gas-mark"
+    },
+    "headline": "365 F to Gas Mark Conversion for Air Fryers & Ovens",
+    "description": "Convert 365°F to Gas Mark (Gas Mark 4.5) for perfect air fryer & oven cooking. Includes UK conversion charts & temperature tips.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T21:01:50.722000+00:00",
+    "dateModified": "2025-07-20T21:01:50.722000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/365-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use Gas Mark 4 instead of 365 F (Gas Mark 4.5)?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, Gas Mark 4 (350°F) works as a substitute for 365°F. Increase cooking time by 5-10 minutes and monitor doneness. In air fryers, sticking to 365°F yields slightly crisper results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I set 365 F to Gas Mark on a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Fan ovens typically don’t use Gas Mark—set the temperature directly to 365°F (185°C). If your fan oven shows Gas Mark, treat it the same as a conventional oven (Gas Mark 4.5)."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer cook faster than Gas Mark 4.5 in the oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate hot air intensely, cooking food about 20% faster than conventional ovens. Always check food early when converting Gas Mark recipes to air fryer settings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 365 F the same as Gas Mark 4.5 for all air fryer models?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 365°F equals Gas Mark 4.5 universally, but cooking times vary between air fryer brands due to basket size and wattage. Consult your model’s manual for specific guidance."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "365 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/365-f-to-gas-mark",
+    "description": "Convert 365°F to Gas Mark (Gas Mark 4.5) for perfect air fryer & oven cooking. Includes UK conversion charts & temperature tips.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T21:01:50.722000+00:00",
+    "dateModified": "2025-07-20T21:01:50.722000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/365-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "365 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/365-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <h2>What is 365 F to Gas Mark?</h2>

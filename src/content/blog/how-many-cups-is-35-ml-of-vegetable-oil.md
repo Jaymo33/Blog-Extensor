@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 35 ml of Vegetable Oil?"
 description: "Learn how to convert 35 ml of vegetable oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-35-ml-of-vegetable-oil-2e04e2c8.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-vegetable-oil.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 35 ml of Vegetable Oil to Cups Easily",
+    "description": "Learn how to convert 35 ml of vegetable oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:31:14.357000+00:00",
+    "dateModified": "2025-07-30T23:31:14.357000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 35 ml of vegetable oil instead of butter in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute 35 ml (0.15 cups) of vegetable oil for butter in most air fryer recipes. However, butter has a lower smoke point, so oil is often better for high-temperature air frying. For baking, the swap works well, but expect a slightly lighter texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 35 ml of vegetable oil without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use tablespoons: 2 tablespoons (30 ml) plus 1 teaspoon (5 ml) equals 35 ml. Alternatively, a standard shot glass often holds 30–50 ml, so fill it just over halfway. For precision, consider investing in a small metric measuring jug."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 35 ml of vegetable oil weigh the same as 35 ml of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, vegetable oil is less dense than water. While 35 ml of water weighs 35 grams, 35 ml of oil weighs about 32 grams. This difference matters in weight-based recipes, but volume measurements (ml or cups) remain consistent."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 35 ml of vegetable oil enough for air-frying a whole chicken?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "35 ml (0.15 cups) is sufficient for lightly coating a small chicken or chicken pieces before air frying. For larger birds, you might need up to 60 ml. The oil helps crisp the skin, but too much can cause smoking in the air fryer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 35 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vegetable-oil",
+    "description": "Learn how to convert 35 ml of vegetable oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:31:14.357000+00:00",
+    "dateModified": "2025-07-30T23:31:14.357000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 35 ml of Vegetable Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>35 ml of vegetable oil equals approximately 0.15 cups (or roughly 1/8 cup plus 1 teaspoon). Whether you're preparing a crispy batch of air-fried chicken or baking a moist cake, getting the measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in cooking, especially when using an air fryer where oil quantities can significantly impact texture and taste.</p>

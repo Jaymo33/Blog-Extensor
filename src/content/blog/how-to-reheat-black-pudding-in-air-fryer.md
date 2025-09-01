@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Black Pudding in an Air Fryer"
 description: "Learn the best way to reheat black pudding in an air fryer for crispy edges and moist centres. Get perfect timings, temperatures, and tips for leftovers at airfryerrecipe.co.uk."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-black-pudding-in-air-fryer-17bfb404.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-black-pudding-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-black-pudding-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-black-pudding-in-air-fryer"
+    },
+    "headline": "How to reheat black pudding in air fryer – Crispy & juicy results | AirFryerRecipe.co.uk",
+    "description": "Learn the best way to reheat black pudding in an air fryer for crispy edges and moist centres. Get perfect timings, temperatures, and tips for leftovers at airfryerrecipe.co.uk.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T16:12:00.810000+00:00",
+    "dateModified": "2025-07-22T16:12:00.810000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-black-pudding-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat black pudding in an air fryer from frozen?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can reheat frozen black pudding in an air fryer. Increase the cooking time to 5-6 minutes at 160°C, flipping halfway through. There's no need to thaw first, though patting dry any ice crystals helps achieve better crisping."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best way to prevent black pudding from drying out when reheating?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To prevent dryness, use a lower temperature (160°C max) and shorter cook time (3-4 minutes). Lightly oiling the slices helps retain moisture. Avoid overcooking by checking internal temperature - remove when it reaches 74°C."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does it take to reheat black pudding in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Typically 3-4 minutes at 160°C for refrigerated slices, flipping halfway. Whole sausages take 6-8 minutes. Frozen black pudding needs 5-6 minutes. Times may vary slightly between air fryer models."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is reheated black pudding in air fryer as good as freshly cooked?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "When done properly, air-fried reheated black pudding can rival freshly cooked. The air fryer restores crispness better than other methods while maintaining moisture. Many prefer the slightly intensified flavours that develop upon reheating."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Black Pudding in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-black-pudding-in-air-fryer",
+    "description": "Learn the best way to reheat black pudding in an air fryer for crispy edges and moist centres. Get perfect timings, temperatures, and tips for leftovers at airfryerrecipe.co.uk.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T16:12:00.810000+00:00",
+    "dateModified": "2025-07-22T16:12:00.810000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-black-pudding-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Black Pudding in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-black-pudding-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>To reheat black pudding in an air fryer, preheat to 160°C and cook for 3-4 minutes until piping hot. This method preserves moisture while crisping the exterior better than microwaving. Black pudding reheats beautifully in air fryers when done correctly, making it ideal for breakfast leftovers or meal prep.</p>

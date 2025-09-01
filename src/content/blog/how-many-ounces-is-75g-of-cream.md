@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 75g of cream?"
 description: "Learn how to convert 75g of cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-75g-of-cream-fa7fe496.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-cream.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-cream"
+    },
+    "headline": "Quick Guide: Convert 75g of Cream to Ounces Easily",
+    "description": "Learn how to convert 75g of cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 75g of cream in place of 2.65 ounces in recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 75g of cream is equivalent to 2.65 ounces, so you can use them interchangeably in recipes. Just ensure your measurements are precise, especially for baking or air fryer dishes where accuracy matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 75g of cream without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without a scale, you can use tablespoons—75g of cream is roughly 5 tablespoons. However, cream density varies, so a scale is best for accuracy. For air fryer recipes, precise measurements help achieve the best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What air fryer recipes use 75g of cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "75g of cream works well in air fryer desserts like cheesecakes, custards, or creamy sauces. It adds richness and moisture to dishes. Check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for recipe ideas."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of cream affect the 75g to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The conversion (75g = 2.65 oz) applies to all types of cream, but thickness may vary slightly. Double cream is denser than single cream, but the weight-to-volume ratio remains consistent for measurement purposes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-cream",
+    "description": "Learn how to convert 75g of cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 75g of cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>75g of cream is approximately 2.65 ounces. This conversion is essential for anyone using recipes that require precise measurements, especially when working with air fryers. Whether you're making a creamy sauce or a dessert, knowing how to convert grams to ounces ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide easy-to-follow guides to help you master kitchen conversions like this one.</p>

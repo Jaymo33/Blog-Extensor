@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 660 ml of Heavy Cream?"
 description: "Discover how to convert 660 ml of heavy cream to cups for perfect baking and cooking every time. Get precise measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-660-ml-of-heavy-cream-37ba79f4.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-heavy-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-heavy-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-heavy-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 660 ml of Heavy Cream?",
+    "description": "Discover how to convert 660 ml of heavy cream to cups for perfect baking and cooking every time. Get precise measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-heavy-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 660 ml of heavy cream the same as 660 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 660 ml of heavy cream is not the same as 660 grams. The weight of heavy cream can vary slightly depending on its fat content, but generally, 660 ml of heavy cream weighs around 680 grams. Always check the specific density if precision is crucial for your recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 660 ml of heavy cream in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use 660 ml of heavy cream in your air fryer for recipes like creamy sauces, custards, or desserts. However, avoid pouring liquid cream directly into the air fryer basket. Instead, use it as part of a recipe or in a heatproof container placed inside the air fryer."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 660 ml of heavy cream without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring cup, you can use a kitchen scale to weigh the heavy cream. Since 660 ml is roughly 680 grams, you can measure it by weight. Alternatively, use a standard drinking glass, but note that this method is less accurate and may vary depending on the glass size."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What can I substitute for 660 ml of heavy cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can substitute 660 ml of heavy cream with an equal amount of half-and-half or whole milk mixed with melted butter (for baking). For a lighter option, use coconut cream or evaporated milk. Keep in mind that substitutions may alter the texture and flavour of your dish."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 660 ml of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-heavy-cream",
+    "description": "Discover how to convert 660 ml of heavy cream to cups for perfect baking and cooking every time. Get precise measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-heavy-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 660 ml of Heavy Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-heavy-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>660 ml of heavy cream is approximately 2.79 cups in the US measurement system and 2.32 cups in the UK measurement system. Whether you're baking a cake, making a creamy sauce, or preparing a dessert in your air fryer, knowing this conversion ensures accuracy. Heavy cream is a versatile ingredient, and getting the measurement right can make or break your recipe.</p>

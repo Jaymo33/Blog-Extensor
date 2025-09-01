@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 50g of cream?"
 description: "Learn how to convert 50g of cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-50g-of-cream-996115cc.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-50g-of-cream.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-cream"
+    },
+    "headline": "Quick Guide: Convert 50g of Cream to Ounces Easily",
+    "description": "Learn how to convert 50g of cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-50g-of-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 50g of double cream instead of single cream in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but be mindful that double cream has a higher fat content (around 48%) compared to single cream (18%). This means it will whip thicker and may alter the texture of your dish. For most air fryer recipes, you can substitute them gram-for-gram, but adjust cooking times slightly as double cream browns faster."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 50g of cream to cups instead of ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "50g of cream is roughly 1/4 cup (or 0.21 cups to be precise). However, measuring by weight (grams or ounces) is always more accurate than volume measurements like cups. If your recipe calls for cups, use a liquid measuring cup and fill it just below the 1/4 cup line for 50g."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 50g of whipped cream equal 50g of liquid cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 50g of whipped cream contains less actual cream because it’s been aerated. If a recipe calls for 50g of liquid cream, you’ll need to measure it before whipping. Once whipped, the volume increases, but the weight remains the same only if compacted."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 50g of plant-based cream instead of dairy cream in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, most plant-based creams can be substituted 1:1 by weight (50g = 1.76 oz). However, they may behave differently when heated, so adjust cooking times accordingly. Coconut cream works well for desserts, while soy or oat cream are great for savoury dishes. Always check for stabilisers that might affect browning."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 50g of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-cream",
+    "description": "Learn how to convert 50g of cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 50g of cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>50g of cream is approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a dessert or adding cream to a savoury dish, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly.</p>  

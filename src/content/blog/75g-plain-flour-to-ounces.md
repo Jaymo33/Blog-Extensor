@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 75g of plain flour?"
 description: "Convert 75g of plain flour to ounces in seconds with our simple guide. Perfect for air fryer baking and precise UK measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/75g-plain-flour-to-ounces-64ff1ca5.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-plain-flour-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-plain-flour-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-plain-flour-to-ounces"
+    },
+    "headline": "Quick & Easy 75g plain flour to ounces conversion guide",
+    "description": "Convert 75g of plain flour to ounces in seconds with our simple guide. Perfect for air fryer baking and precise UK measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-plain-flour-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use self-raising flour instead of plain flour for 75g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but adjust for leavening agents. Self-raising flour contains baking powder, which alters texture. For precise results, stick to plain flour unless the recipe specifies otherwise."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 75g of plain flour to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "75g of plain flour is roughly ½ cup + 1 tablespoon when lightly spooned. For accuracy, use scales—especially in air fryer baking, where density affects outcomes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe need exact flour measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook quickly, and imbalances in dry-to-wet ratios can lead to undercooked or burnt results. Precise 75g (2.65 oz) measurements ensure even heat penetration and ideal texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 75g of plain flour weigh the same as 75g of other types?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weight is consistent, but density varies. Wholemeal flour, for example, is denser, so 75g may occupy less volume. Always weigh flour for accuracy in air fryer recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of plain flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-plain-flour-to-ounces",
+    "description": "Convert 75g of plain flour to ounces in seconds with our simple guide. Perfect for air fryer baking and precise UK measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-plain-flour-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 75g of plain flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-plain-flour-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>75g of plain flour equals approximately 2.65 ounces. This conversion is essential for air fryer recipes, where precise measurements can affect texture and cooking times. Whether you're whipping up cakes, cookies, or breaded dishes in your air fryer, knowing how to convert grams to ounces ensures consistent results every time.</p>

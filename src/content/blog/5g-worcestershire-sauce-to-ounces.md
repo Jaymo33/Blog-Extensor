@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 5g of worcestershire sauce?"
 description: "Convert 5g of worcestershire sauce to ounces easily with our simple guide. Perfect for air fryer recipes and precise measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/5g-worcestershire-sauce-to-ounces-90332a4d.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5g-worcestershire-sauce-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5g-worcestershire-sauce-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-worcestershire-sauce-to-ounces"
+    },
+    "headline": "Quick 5g worcestershire sauce to ounces conversion guide",
+    "description": "Convert 5g of worcestershire sauce to ounces easily with our simple guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5g-worcestershire-sauce-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 5g of worcestershire sauce the same as 5ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 5g and 5ml of worcestershire sauce aren't identical. While they're close in volume (about one teaspoon), weight (grams) measures mass, while millilitres measure volume. For most cooking purposes, the difference is negligible, but for precise baking or marinades, it's best to measure by weight."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 5g of worcestershire sauce without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can approximate 5g of worcestershire sauce using a standard teaspoon – it's roughly one level teaspoon. For better accuracy, use a measuring spoon set with millilitre markings (5g ≈ 5ml). Remember that pouring technique affects the measurement, so go slowly for best results in your air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 5g of worcestershire sauce contain much sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Worcestershire sauce does contain some sugar, but 5g (0.18 oz) amounts to less than 0.5g of sugar – negligible for most diets. If you're watching sugar intake strictly, check your brand's nutrition label as recipes can vary slightly between manufacturers."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze leftover worcestershire sauce in 5g portions?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While possible, freezing worcestershire sauce isn't recommended as it can alter the flavour and texture. Instead, store opened bottles in the fridge where they'll keep for months. For easy 5g portions, consider using an ice cube tray, but use frozen sauce within a few weeks for best quality."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of worcestershire sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5g-worcestershire-sauce-to-ounces",
+    "description": "Convert 5g of worcestershire sauce to ounces easily with our simple guide. Perfect for air fryer recipes and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-worcestershire-sauce-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 5g of worcestershire sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-worcestershire-sauce-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 grams of worcestershire sauce is approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements for the best results. Whether you're marinating chicken or adding a splash to a beef dish, knowing how to convert grams to ounces ensures your cooking is spot on every time.</p>

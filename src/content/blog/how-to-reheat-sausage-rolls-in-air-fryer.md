@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Sausage Rolls in an Air Fryer"
 description: "Learn the best way to reheat sausage rolls in an air fryer for crispy, golden results. Perfect temperature & timing guide for leftovers."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-sausage-rolls-in-air-fryer-9ae51b95.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-sausage-rolls-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sausage-rolls-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sausage-rolls-in-air-fryer"
+    },
+    "headline": "Reheat Sausage Rolls in Air Fryer – Quick & Crispy",
+    "description": "Learn the best way to reheat sausage rolls in an air fryer for crispy, golden results. Perfect temperature & timing guide for leftovers.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T19:59:55.735000+00:00",
+    "dateModified": "2025-07-22T19:59:55.735000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-sausage-rolls-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat sausage rolls in an air fryer from frozen?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, frozen sausage rolls can be reheated in an air fryer at 160°C for 8–10 minutes. No need to thaw—just add a couple of extra minutes to the cooking time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best temperature to reheat sausage rolls without drying them out?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "160°C (320°F) is ideal for reheating sausage rolls in an air fryer. This temperature crisps the pastry gently without overcooking the filling."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I keep reheated sausage rolls crispy?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Avoid overcrowding the basket and spritz lightly with oil before reheating. For extra crispness, flip them halfway through the cooking time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat sausage rolls in an air fryer the next day?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Store them in the fridge overnight and reheat at 160°C for 3–5 minutes. They’ll taste nearly as good as fresh."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Sausage Rolls in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sausage-rolls-in-air-fryer",
+    "description": "Learn the best way to reheat sausage rolls in an air fryer for crispy, golden results. Perfect temperature & timing guide for leftovers.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T19:59:55.735000+00:00",
+    "dateModified": "2025-07-22T19:59:55.735000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sausage-rolls-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Sausage Rolls in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sausage-rolls-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Reheating sausage rolls in an air fryer is simple: preheat to 160°C (320°F) and cook for 3–5 minutes until crispy. This method ensures they stay moist inside while regaining that golden crunch. Whether you’re working with leftovers or refrigerated sausage rolls, the air fryer delivers consistent results without the sogginess of a microwave.</p>  

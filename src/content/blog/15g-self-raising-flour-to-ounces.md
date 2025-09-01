@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 15g of self-raising flour?"
 description: "Learn how to convert 15g of self-raising flour to ounces for perfect baking every time. Includes UK measurements and air fryer tips."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/15g-self-raising-flour-to-ounces-422fe000.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-self-raising-flour-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-self-raising-flour-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/15g-self-raising-flour-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 15g of Self-Raising Flour to Ounces",
+    "description": "Learn how to convert 15g of self-raising flour to ounces for perfect baking every time. Includes UK measurements and air fryer tips.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-self-raising-flour-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 15g of self-raising flour the same as plain flour in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 15g of self-raising flour (0.53 oz) includes baking powder, while plain flour doesn’t. Substituting them requires adjusting leavening agents. For air fryer recipes, stick to the specified flour type for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use cups instead of ounces for 15g of self-raising flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but cups measure volume, not weight. 15g of self-raising flour is roughly ⅛ cup. For precision, especially in air fryer baking, weight measurements (grams or ounces) are recommended."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer bake fail with 15g of self-raising flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Over- or under-measuring 15g (0.53 oz) can affect rise. Also, check your air fryer’s temperature calibration. Uneven heat may require recipe tweaks."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store self-raising flour after measuring 15g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Keep it in an airtight container in a cool, dry place. Moisture can deactivate the baking powder in self-raising flour, impacting future air fryer bakes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-self-raising-flour-to-ounces",
+    "description": "Learn how to convert 15g of self-raising flour to ounces for perfect baking every time. Includes UK measurements and air fryer tips.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/15g-self-raising-flour-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 15g of self-raising flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/15g-self-raising-flour-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>15g of self-raising flour equals approximately 0.53 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes or bread, knowing how to convert grams to ounces ensures consistency. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

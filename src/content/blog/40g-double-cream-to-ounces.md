@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 40g of double cream?"
 description: "Convert 40g of double cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/40g-double-cream-to-ounces-d49566f2.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-double-cream-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-double-cream-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-double-cream-to-ounces"
+    },
+    "headline": "Quick 40g double cream to ounces conversion for UK cooks",
+    "description": "Convert 40g of double cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-double-cream-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use single cream instead of double cream if I only have 40g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute single cream for double cream, but the texture and richness will differ. Double cream has a higher fat content (around 48%), while single cream has about 18%. For 40g (1.41 oz), the swap will work in sauces or soups, but avoid whipping single cream as it won’t hold its shape."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert other amounts of double cream from grams to ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To convert any amount of double cream from grams to ounces, multiply the grams by 0.0353. For example, 100g of double cream equals 3.53 oz. Keep in mind that this conversion applies to weight, not volume, so always use a scale for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for 40g of double cream specifically?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes often specify 40g of double cream because it’s a manageable amount that balances richness without making dishes overly heavy. In air fryer cooking, precise quantities ensure even cooking and perfect texture, especially in baked goods or sauces."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I measure 40g of double cream in cups instead of ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Measuring double cream in cups isn’t ideal because volume measurements vary with density. However, 40g (1.41 oz) of double cream is roughly 3 tablespoons or just under ¼ cup. For best results, stick to weight measurements for consistency."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of double cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-double-cream-to-ounces",
+    "description": "Convert 40g of double cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-double-cream-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 40g of double cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-double-cream-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>40g of double cream equals approximately 1.41 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re whipping up a dessert or adding richness to a savoury dish, knowing how to convert grams to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, and this guide will help you nail those measurements.</p>  

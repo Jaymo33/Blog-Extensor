@@ -1,12 +1,195 @@
 ---
 title: "298 F to Fan Oven"
 description: "Convert 298 F to fan oven settings easily. Learn the exact temperature and get air fryer cooking tips for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/298-f-to-fan-oven-40f4a806.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/298-f-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/298-f-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/298-f-to-fan-oven"
+    },
+    "headline": "298 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 298 F to fan oven settings easily. Learn the exact temperature and get air fryer cooking tips for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T19:02:28.332000+00:00",
+    "dateModified": "2025-07-21T19:02:28.332000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/298-f-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 298 F to Celsius for a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To convert 298 F to Celsius for a fan oven, first convert to conventional Celsius (about 148 C), then reduce by 20 C for the fan setting. This gives you approximately 130 C for fan oven cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same 298 F conversion for my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers typically need slightly lower temperatures than fan ovens. Start with the fan oven conversion (130 C) but be prepared to reduce by another 5-10 degrees or shorten cooking time by 10-20% for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do fan ovens need lower temperatures than conventional ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Fan ovens circulate hot air more efficiently, cooking food faster and more evenly. The moving air transfers heat better to food surfaces, so you can achieve the same results at slightly lower temperatures than conventional ovens."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What types of food cook best at 298 F in a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "298 F (130 C fan) works well for delicate baking like cheesecakes, custards, and meringues, as well as slow-roasting vegetables or dehydrating fruits. It's a gentle temperature that prevents burning while thoroughly cooking food."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "298 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/298-f-to-fan-oven",
+    "description": "Convert 298 F to fan oven settings easily. Learn the exact temperature and get air fryer cooking tips for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T19:02:28.332000+00:00",
+    "dateModified": "2025-07-21T19:02:28.332000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/298-f-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "298 F to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/298-f-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>298 F converts to approximately 148 C in a fan oven. This moderate temperature is perfect for gentle baking and roasting in both fan ovens and air fryers. Whether you're adapting a recipe or troubleshooting your cooking, understanding this conversion is key.</p>

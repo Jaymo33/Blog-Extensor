@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 35 ml of Lime Juice?"
 description: "Learn how to convert 35 ml of lime juice to cups for perfect air fryer recipes every time. Get precise measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-35-ml-of-lime-juice-e41d8e9e.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-lime-juice.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-lime-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-lime-juice"
+    },
+    "headline": "Quick Conversion: How Many Cups Is 35 ml of Lime Juice?",
+    "description": "Learn how to convert 35 ml of lime juice to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:31:16.295000+00:00",
+    "dateModified": "2025-07-30T23:31:16.295000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-lime-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lime juice instead of fresh for 35 ml measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, bottled lime juice works in a pinch, but fresh lime juice offers brighter flavour. If using bottled, check for additives like preservatives, which might alter taste. For air fryer recipes, fresh is best for marinades and dressings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 35 ml of lime juice affect cooking times in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Lime juice itself doesn’t change cooking times, but acidic marinades can tenderise proteins faster. For example, chicken marinated in 35 ml of lime juice might cook slightly quicker. Always check internal temperatures for safety."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to zest a lime if I need both juice and zest?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Zest the lime before juicing it! Use a fine grater or microplane to remove the green part (avoid the bitter white pith). Then, cut and juice the lime—you’ll get the full 35 ml plus fragrant zest for recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute lemon juice for lime juice in a 35 ml measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but expect a flavour difference. Lemon juice is sharper, while lime is more aromatic. In air fryer recipes like marinades or glazes, the swap works, but adjust other seasonings to balance the taste."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 35 ml of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-lime-juice",
+    "description": "Learn how to convert 35 ml of lime juice to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:31:16.295000+00:00",
+    "dateModified": "2025-07-30T23:31:16.295000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-lime-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 35 ml of Lime Juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-lime-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>35 ml of lime juice equals approximately 0.148 cups (or just under 1/7 of a cup). This precise measurement is essential for air fryer recipes where balance is key—too much or too little lime juice can alter flavours and textures. Whether you’re making a tangy marinade or a citrusy glaze, knowing how to convert 35 ml of lime juice to cups ensures consistent results every time.</p>  

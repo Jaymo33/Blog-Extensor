@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 0.75 Cups of Double Cream?"
 description: "Learn how to convert 0.75 cups of double cream to ml for perfect baking and cooking results every time. Includes tips for air fryer recipes!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-0-75-cups-of-double-cream-063fe4ef.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-75-cups-of-double-cream.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-75-cups-of-double-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-75-cups-of-double-cream"
+    },
+    "headline": "Quick Guide: Convert 0.75 Cups of Double Cream to ml Easily",
+    "description": "Learn how to convert 0.75 cups of double cream to ml for perfect baking and cooking results every time. Includes tips for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T20:11:40.852000+00:00",
+    "dateModified": "2025-07-28T20:11:40.852000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-75-cups-of-double-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use single cream instead of double cream in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute single cream, but the results will be less rich and creamy. Double cream has a higher fat content (around 48%), which gives dishes a thicker texture. For best results, stick to double cream if the recipe calls for it."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 0.75 cups of double cream without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring cup, use a kitchen scale. 0.75 cups (177 ml) of double cream weighs approximately 180 grams. Alternatively, use a tablespoon—12 tablespoons equal 0.75 cups. Just be sure to level off each tablespoon for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe with double cream turn out greasy?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Greasiness can occur if you use too much double cream or don't balance it with other ingredients. Stick to the recipe's measurements, and consider reducing the cream slightly if your air fryer tends to cook hotter than expected. Also, ensure you're using fresh double cream, as older cream can separate during cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze dishes made with double cream in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but the texture may change slightly upon reheating. Cream-based sauces or desserts can become grainy or separate when frozen and thawed. For best results, reheat gently in the air fryer at a lower temperature, stirring occasionally to maintain smoothness."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 0.75 Cups of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-75-cups-of-double-cream",
+    "description": "Learn how to convert 0.75 cups of double cream to ml for perfect baking and cooking results every time. Includes tips for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T20:11:40.852000+00:00",
+    "dateModified": "2025-07-28T20:11:40.852000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-75-cups-of-double-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 0.75 Cups of Double Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-75-cups-of-double-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.75 cups of double cream equals approximately 177 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy sauce or a decadent dessert, knowing the exact ml equivalent ensures perfect results every time.</p>

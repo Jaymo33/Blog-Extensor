@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 150g of minced garlic?"
 description: "Find out exactly how many ounces are in 150g of minced garlic for perfect air fryer recipes every time. Convert grams to ounces with ease."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-150g-minced-garlic-be004dd9.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-minced-garlic.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-minced-garlic",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-minced-garlic"
+    },
+    "headline": "Quick Answer: How many ounces is 150g of minced garlic?",
+    "description": "Find out exactly how many ounces are in 150g of minced garlic for perfect air fryer recipes every time. Convert grams to ounces with ease.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-minced-garlic.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use jarred minced garlic instead of fresh for the 150g measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use jarred minced garlic as a substitute for fresh when measuring 150g (5.29 oz). However, jarred garlic often has a slightly different texture and moisture content, which might affect measurements slightly. For best results in air fryer recipes, drain any excess liquid before measuring."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does the conversion from 150g to ounces affect air fryer cooking times?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The conversion from 150g to ounces (5.29 oz) doesn't directly affect cooking times, but the amount of garlic used can influence flavour intensity. In air fryer cooking, larger quantities of minced garlic might require slightly longer cooking if they're coating ingredients like chicken or vegetables, as the moisture needs to evaporate for proper crisping."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 150g of minced garlic the same as 150g of whole garlic cloves?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 150g of minced garlic is not the same as 150g of whole cloves. Whole cloves include peels and have a different volume once minced. If starting with whole cloves, you'll need more by weight to yield 150g of minced garlic. Typically, you'd need about 30-35 medium cloves to make 150g (5.29 oz) of minced garlic."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 150g of minced garlic without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, you can estimate 150g of minced garlic as roughly 15 level tablespoons (assuming 10g per tablespoon). However, this method isn't as precise as using digital scales. For air fryer recipes where accuracy matters, investing in a basic kitchen scale will give you more consistent results when converting between grams and ounces."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of minced garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-minced-garlic",
+    "description": "Find out exactly how many ounces are in 150g of minced garlic for perfect air fryer recipes every time. Convert grams to ounces with ease.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-minced-garlic#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 150g of minced garlic?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-minced-garlic"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>150g of minced garlic equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a garlic-infused dish or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion ensures your meal turns out perfectly.</p>

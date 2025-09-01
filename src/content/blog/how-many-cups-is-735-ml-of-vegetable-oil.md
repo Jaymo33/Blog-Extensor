@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 735 ml of Vegetable Oil?"
 description: "Convert 735 ml of vegetable oil to cups effortlessly for baking and air frying. Get precise measurements for perfect recipes every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-735-ml-of-vegetable-oil-44e1b3c8.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-735-ml-of-vegetable-oil.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Conversion: 735 ml of Vegetable Oil to Cups",
+    "description": "Convert 735 ml of vegetable oil to cups effortlessly for baking and air frying. Get precise measurements for perfect recipes every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-735-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How many cups is 735 ml of vegetable oil in the UK?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "In the UK, 735 ml of vegetable oil equals approximately 3.1 cups. The UK uses the metric system, but cup measurements are still common in recipes. Always use a liquid measuring cup for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 735 ml of vegetable oil in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Using 735 ml of vegetable oil in an air fryer is unnecessary and unsafe. Air fryers require minimal oil—usually just 1-2 tablespoons. For best results, follow air fryer-specific recipes that use far less oil."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 735 ml of vegetable oil to cups for baking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To convert 735 ml of vegetable oil to cups for baking, use 3.1 cups. This ensures your cakes or pastries have the right texture. For precise measurements, a kitchen scale can also help."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to measure 735 ml of vegetable oil without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring cup, use a kitchen scale. Vegetable oil weighs roughly 0.92 grams per ml, so 735 ml would be about 676 grams. Alternatively, use a standard mug (about 250 ml) and measure roughly 3 mugs minus 15 ml."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 735 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-vegetable-oil",
+    "description": "Convert 735 ml of vegetable oil to cups effortlessly for baking and air frying. Get precise measurements for perfect recipes every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 735 ml of Vegetable Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>735 ml of vegetable oil equals approximately 3.1 cups. This conversion is essential for accurate measurements in baking, frying, or air frying. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting quantities, knowing this conversion ensures perfect results every time.</p>  

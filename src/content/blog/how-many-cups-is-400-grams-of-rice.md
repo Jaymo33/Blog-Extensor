@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 400 Grams of Rice?"
 description: "Discover how to convert 400 grams of rice to cups for perfect air fryer meals every time. Includes UK and US measurements!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-400-grams-of-rice-e273de0c.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-rice.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-rice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-rice"
+    },
+    "headline": "Quick Answer: How Many Cups Is 400 Grams of Rice?",
+    "description": "Discover how to convert 400 grams of rice to cups for perfect air fryer meals every time. Includes UK and US measurements!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-rice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of rice affect how many cups 400 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the type of rice can slightly alter the volume. Long-grain rice like basmati or jasmine is fluffier, so 400 grams may fill slightly more cups than short-grain or sticky rice. However, the difference is minimal—typically within 0.1-0.2 cups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same conversion for brown rice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Brown rice is denser than white rice, so 400 grams may take up slightly less volume—about 1.9 UK cups or 2 US cups. Adjust liquid ratios in air fryer recipes, as brown rice absorbs more water and cooks longer."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 400 grams of rice if I only have a mug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A standard UK mug holds about 250 grams of rice, so 400 grams would be roughly 1.6 mugs. For better accuracy, use proper measuring cups or weigh the rice if possible, especially for air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer rice turn out dry with 400 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Dry rice in the air fryer often means too little liquid or overcooking. For 400 grams of rice, reduce the cooking time by 2-3 minutes and check moisture levels. Covering the rice with foil halfway through can also help retain steam."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-rice",
+    "description": "Discover how to convert 400 grams of rice to cups for perfect air fryer meals every time. Includes UK and US measurements!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-rice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 400 Grams of Rice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-rice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>400 grams of rice equals approximately 2 cups in the UK and 2.1 cups in the US. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you're making a quick rice dish or a baked treat, knowing how to convert grams to cups will save you time and hassle.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 275 Grams of Butter?"
 description: "Learn how to convert 275 grams of butter to cups for perfect baking every time. Includes UK and US conversions for air fryer recipes."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-275-grams-of-butter-4a4df01f.png"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-butter.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-butter",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-butter"
+    },
+    "headline": "Quick Guide: Convert 275 Grams of Butter to Cups Easily",
+    "description": "Learn how to convert 275 grams of butter to cups for perfect baking every time. Includes UK and US conversions for air fryer recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:31:13.244000+00:00",
+    "dateModified": "2025-07-26T21:31:13.244000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-butter.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 275 grams of butter the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, there’s a slight difference due to varying cup sizes. In the UK, 275 grams of butter equals 1.2 cups (250ml per cup), while in the US, it’s 1.16 cups (240ml per cup). Always check your recipe’s origin for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use margarine instead of butter for 275 grams in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but results may vary. Margarine has a higher water content, which can affect texture. For baking, stick to butter for best results. For savoury dishes, margarine can work as a substitute."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 275 grams of butter without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use the markings on the butter wrapper or tablespoons. One UK block is 250g, so 275g is slightly more. Alternatively, 275 grams is about 19.6 tablespoons (14g per tablespoon)."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What air fryer recipes commonly use 275 grams of butter?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cakes, cookies, and pastries often call for this amount. For example, buttery shortbread or flaky croissants benefit from precise measurements. Check <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for recipe ideas."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 275 Grams of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-butter",
+    "description": "Learn how to convert 275 grams of butter to cups for perfect baking every time. Includes UK and US conversions for air fryer recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:31:13.244000+00:00",
+    "dateModified": "2025-07-26T21:31:13.244000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-butter#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 275 Grams of Butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-butter"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>275 grams of butter is roughly equivalent to 1.2 cups in the UK or 1.16 cups in the US. Whether you're baking a cake or preparing a savoury dish in your air fryer, accurate measurements are key to perfect results. This guide will help you convert 275 grams of butter to cups effortlessly, ensuring your recipes turn out just right every time.</p>  

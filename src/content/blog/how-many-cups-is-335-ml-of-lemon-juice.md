@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 335 ml of Lemon Juice?"
 description: "Discover how to convert 335 ml of lemon juice to cups for perfect recipes. Get accurate measurements for baking and cooking in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-335-ml-of-lemon-juice-5a2da247.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-335-ml-of-lemon-juice.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-lemon-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-lemon-juice"
+    },
+    "headline": "Quick Conversion: How Many Cups Is 335 ml of Lemon Juice?",
+    "description": "Discover how to convert 335 ml of lemon juice to cups for perfect recipes. Get accurate measurements for baking and cooking in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-335-ml-of-lemon-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 335 ml of lemon juice the same as 335 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 335 ml of lemon juice isn't exactly the same as 335 grams. While they're close (lemon juice has a density of about 1.03 g/ml), 335 ml would weigh approximately 345 grams. For most recipes, this small difference won't matter, but for precise baking, it's better to measure by volume when the recipe specifies millilitres."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many lemons do I need to get 335 ml of juice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You'll typically need 6-7 medium-sized lemons to yield 335 ml of juice. Each lemon produces about 50-60 ml of juice depending on size and juiciness. For consistent results, it's best to have a couple extra lemons on hand in case some are less juicy than others."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lemon juice instead of fresh for recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use bottled lemon juice as a substitute for fresh in most recipes. However, fresh lemon juice generally provides better flavour. If using bottled, check that it's 100% lemon juice without additives. The conversion remains the same - 335 ml of bottled juice equals the same amount in cups as fresh."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use millilitres instead of cups for lemon juice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Millilitre measurements are more precise, especially in professional recipes or baking where accuracy matters. Cups can vary slightly between countries and even between different measuring cups. Using millilitres (335 ml in this case) ensures everyone gets the exact same amount, regardless of their cup measurements."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 335 ml of Lemon Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-lemon-juice",
+    "description": "Discover how to convert 335 ml of lemon juice to cups for perfect recipes. Get accurate measurements for baking and cooking in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-lemon-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 335 ml of Lemon Juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-lemon-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>335 ml of lemon juice equals approximately 1.42 cups in the UK or 1.41 cups in the US. This conversion is essential for recipes, especially when using an air fryer for dishes like lemon drizzle cake or tangy marinades. Whether you're baking or cooking, knowing how many cups is 335 ml of lemon juice ensures your dish turns out perfectly every time.</p>

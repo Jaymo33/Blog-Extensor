@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 75g of peanut butter?"
 description: "Convert 75g of peanut butter to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-75g-peanut-butter-bef42a22.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-peanut-butter.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-peanut-butter",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-peanut-butter"
+    },
+    "headline": "Quick 75g peanut butter to ounces conversion for UK cooks",
+    "description": "Convert 75g of peanut butter to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-peanut-butter.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 75g of peanut butter the same as 75ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 75g of peanut butter isn't the same as 75ml. Weight (grams) and volume (millilitres) measure different properties. Peanut butter's density means 75g takes up less space than 75ml. For accuracy in recipes, always weigh peanut butter rather than using volume measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 75g of peanut butter?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "There are approximately 450 calories in 75g of standard peanut butter. This can vary slightly between brands and types (smooth vs crunchy, added sugar etc). If you're watching calories, consider using powdered peanut butter which has fewer calories per 75g serving."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use almond butter instead of peanut butter in a 75g measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can generally substitute almond butter for peanut butter in a 1:1 ratio by weight. So 75g of almond butter would replace 75g of peanut butter. The flavour will be different, and almond butter is often slightly runnier, which might affect some recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes measure peanut butter in ounces rather than grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Ounces are still commonly used in some countries like the US, while grams are standard in the UK and Europe. Some older UK recipes might also use ounces. Knowing that 75g equals 2.65 ounces helps you follow any recipe accurately, regardless of its measurement system."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of peanut butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-peanut-butter",
+    "description": "Convert 75g of peanut butter to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-peanut-butter#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 75g of peanut butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-peanut-butter"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>75g of peanut butter equals approximately 2.65 ounces. This conversion is handy when following air fryer recipes that use imperial measurements. Whether you're whipping up peanut butter cookies or a satay sauce, getting the quantities right ensures perfect results every time.</p>

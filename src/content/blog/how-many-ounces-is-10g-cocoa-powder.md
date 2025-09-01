@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 10g of cocoa powder?"
 description: "Learn how to convert 10g of cocoa powder to ounces in seconds. Perfect for air fryer baking and precise measurements every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-10g-cocoa-powder-229799d1.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-10g-cocoa-powder.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-cocoa-powder",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-cocoa-powder"
+    },
+    "headline": "Quick Guide: Convert 10g of Cocoa Powder to Ounces Easily",
+    "description": "Learn how to convert 10g of cocoa powder to ounces in seconds. Perfect for air fryer baking and precise measurements every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-10g-cocoa-powder.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 10g of cocoa powder in any air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 10g of cocoa powder (0.35 oz) works well in most air fryer recipes, from cakes to brownies. Just ensure you follow the recipe’s measurements closely for the best results. Adjustments may be needed based on your air fryer’s size and cooking time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 10g of cocoa powder if I don’t have a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use tablespoons to measure 10g of cocoa powder. One tablespoon is roughly 7g, so 1.5 tablespoons will give you approximately 10g. For accuracy, fluff the cocoa powder first and level it off with a knife."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of cocoa powder affect the weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, whether you use Dutch-processed or natural cocoa powder, 10g will still equal 0.35 ounces. However, the flavour and acidity may vary, so choose the type specified in your recipe for the best outcome."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute cocoa powder for chocolate in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but you’ll need to adjust the recipe. Replace 10g of cocoa powder with about 20g of melted chocolate and reduce other fats slightly. Keep an eye on cooking times, as substitutions can affect texture in the air fryer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of cocoa powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-cocoa-powder",
+    "description": "Learn how to convert 10g of cocoa powder to ounces in seconds. Perfect for air fryer baking and precise measurements every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-cocoa-powder#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 10g of cocoa powder?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-cocoa-powder"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>10g of cocoa powder equals approximately 0.35 ounces. This conversion is handy when you're using an air fryer for baking, as precise measurements can make all the difference. Whether you're whipping up brownies or a chocolate cake, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1.5 tbsp of tomato ketchup?"
 description: "Find out exactly how many grams are in 1.5 tbsp of tomato ketchup with our easy conversion guide. Perfect for air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-5-tbsp-tomato-ketchup-556a72ba.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-tomato-ketchup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-tomato-ketchup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-tomato-ketchup"
+    },
+    "headline": "Quick Answer: 1.5 tbsp tomato ketchup to grams conversion",
+    "description": "Find out exactly how many grams are in 1.5 tbsp of tomato ketchup with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-tomato-ketchup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the brand of tomato ketchup affect the gram measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Different brands can vary slightly in density due to recipe variations, but standard UK tomato ketchup averages 15g per tablespoon. For precise air fryer cooking, stick to one brand once you’ve established its weight per tablespoon."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for homemade tomato ketchup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Homemade ketchup often differs in thickness from commercial versions. If yours is runnier, 1.5 tbsp might weigh slightly less than 22.5g. For best results in air fryer recipes, weigh your homemade ketchup rather than relying on volume measures."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use grams instead of tablespoons for ketchup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Gram measurements ensure consistency regardless of how you scoop the ketchup. In air fryer cooking where precise temperatures and times matter, weight measurements eliminate variables that could affect your dish’s outcome."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store leftover tomato ketchup after measuring?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Always refrigerate opened tomato ketchup and use within 6-8 weeks. For air fryer cooking, bring ketchup to room temperature before measuring for most accurate results, as cold ketchup is thicker and harder to measure precisely."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of tomato ketchup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-tomato-ketchup",
+    "description": "Find out exactly how many grams are in 1.5 tbsp of tomato ketchup with our easy conversion guide. Perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-tomato-ketchup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1.5 tbsp of tomato ketchup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-tomato-ketchup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 tablespoons of tomato ketchup weighs approximately 22.5 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing exact weights ensures consistent results.</p>

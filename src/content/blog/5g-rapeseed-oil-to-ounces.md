@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 5g of rapeseed oil?"
 description: "Convert 5g of rapeseed oil to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/5g-rapeseed-oil-to-ounces-e6ee6c6c.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5g-rapeseed-oil-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5g-rapeseed-oil-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-rapeseed-oil-to-ounces"
+    },
+    "headline": "Quick & Easy 5g Rapeseed Oil to Ounces Conversion Guide",
+    "description": "Convert 5g of rapeseed oil to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5g-rapeseed-oil-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Why is rapeseed oil good for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Rapeseed oil is excellent for air frying because of its high smoke point (around 230°C), which means it can withstand the high temperatures of air frying without burning or smoking. It also has a neutral flavour that doesn't overpower your food, and its light texture helps create crispy results with just small amounts like 5 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 5 grams of rapeseed oil without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can estimate 5 grams of rapeseed oil using a teaspoon - one level teaspoon holds approximately 5 grams. For more accuracy, consider using measuring spoons specifically designed for small quantities. Alternatively, a quick spray from an oil mister will typically deliver about 5 grams with 2-3 short sprays."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 5 grams of rapeseed oil enough for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 5 grams (about 0.18 ounces) of rapeseed oil is often sufficient for air frying. Air fryers are designed to cook with minimal oil, and this small amount is enough to lightly coat ingredients for crispiness without making them greasy. Many recipes specifically call for this quantity to achieve perfect results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use other oils if I don't have rapeseed oil?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While rapeseed oil is ideal, you can substitute other high smoke point oils like sunflower or vegetable oil in the same 5 gram quantity. Avoid olive oil for high-temperature air frying as it has a lower smoke point. Always check your recipe's specific requirements as some oils may affect flavour."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of rapeseed oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5g-rapeseed-oil-to-ounces",
+    "description": "Convert 5g of rapeseed oil to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-rapeseed-oil-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 5g of rapeseed oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-rapeseed-oil-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 grams of rapeseed oil equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're preparing crispy vegetables or succulent meats, knowing how many ounces is 5g of rapeseed oil ensures perfect results every time.</p>

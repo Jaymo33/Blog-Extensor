@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1.5 tbsp of rolled oats?"
 description: "Find out exactly how many grams are in 1.5 tbsp of rolled oats for perfect air fryer recipes every time. Get the conversion now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-5-tbsp-rolled-oats-b483da4c.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-rolled-oats.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-rolled-oats",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-rolled-oats"
+    },
+    "headline": "Quick Answer: How many grams is 1.5 tbsp of rolled oats?",
+    "description": "Find out exactly how many grams are in 1.5 tbsp of rolled oats for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-rolled-oats.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use instant oats instead of rolled oats for the same gram measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can substitute instant oats, they may weigh slightly differently due to their finer texture. For 1.5 tbsp, you'll still get approximately 12 grams, but the volume might look different. Always check your recipe for specific oat type requirements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does the UK tablespoon measurement compare to other countries for rolled oats?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A UK tablespoon is 15ml, the same as in most Commonwealth countries. However, US tablespoons are slightly smaller at 14.8ml. For 1.5 tbsp rolled oats to grams, the difference is minimal (about 0.5g), so you can use the 12g measurement confidently."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is weight (grams) more accurate than volume (tablespoons) for rolled oats?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weight measurements are more precise because how you fill the tablespoon affects the volume. Oats can settle or be packed down, changing the actual amount. Grams eliminate this variability, especially important for air fryer cooking where consistency matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this 1.5 tbsp to gram conversion for steel-cut oats?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, steel-cut oats are denser than rolled oats. While 1.5 tbsp of rolled oats equals 12 grams, steel-cut oats would weigh about 15 grams for the same volume. Always check which type your recipe specifies for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of rolled oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-rolled-oats",
+    "description": "Find out exactly how many grams are in 1.5 tbsp of rolled oats for perfect air fryer recipes every time. Get the conversion now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-rolled-oats#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1.5 tbsp of rolled oats?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-rolled-oats"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 tablespoons of rolled oats equals approximately 12 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making granola, oat bars, or coating for chicken, knowing the exact weight helps maintain consistency.</p>

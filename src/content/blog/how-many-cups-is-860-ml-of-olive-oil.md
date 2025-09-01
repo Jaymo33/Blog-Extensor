@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 860 ml of Olive Oil?"
 description: "Discover how to convert 860 ml of olive oil to cups for precise air fryer cooking. Perfect for baking and frying with accurate measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-860-ml-of-olive-oil-f4d662d0.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-olive-oil.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-olive-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-olive-oil"
+    },
+    "headline": "Quick Answer: How Many Cups Is 860 ml of Olive Oil?",
+    "description": "Discover how to convert 860 ml of olive oil to cups for precise air fryer cooking. Perfect for baking and frying with accurate measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-olive-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 860 ml of olive oil the same as 3.63 cups in all countries?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, cup measurements vary slightly between the US (240 ml per cup) and the UK (284 ml per cup). In the US, 860 ml of olive oil equals 3.63 cups, while in the UK, it’s roughly 3.03 cups. Always check your recipe’s origin for the most accurate conversion."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale to measure 860 ml of olive oil?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes! Since olive oil weighs approximately 0.92 grams per ml, 860 ml weighs about 791 grams. Using a kitchen scale ensures precision, especially for baking. Just tare your container before pouring the oil for an exact measurement."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long will 860 ml of olive oil last in air fryer cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It depends on usage. For a household cooking daily, 860 ml (3.63 cups) might last 2–3 weeks. Store it properly in a cool, dark place to maintain freshness. For recipes, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> to make the most of your oil."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to clean olive oil residue from my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use warm, soapy water and a non-abrasive sponge to wipe the basket and tray. For stubborn grease, try our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Regular cleaning prevents smoke and ensures your air fryer performs at its best."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 860 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-olive-oil",
+    "description": "Discover how to convert 860 ml of olive oil to cups for precise air fryer cooking. Perfect for baking and frying with accurate measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-olive-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 860 ml of Olive Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-olive-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>860 ml of olive oil is approximately 3.63 cups. This conversion is essential for air fryer recipes where precise measurements ensure perfect cooking results. Whether you're making crispy chips or baking a cake, knowing how to convert millilitres to cups helps avoid guesswork.</p>

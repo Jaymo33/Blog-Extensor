@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 0.75 Cups of Cocoa Powder?"
 description: "Find out exactly how many grams are in 0.75 cups of cocoa powder for perfect baking results every time. Includes UK and US conversions."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-75-cups-of-cocoa-powder-8cbca656.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-cocoa-powder.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-cocoa-powder",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-cocoa-powder"
+    },
+    "headline": "Quick Answer: How Many Grams Is 0.75 Cups of Cocoa Powder?",
+    "description": "Find out exactly how many grams are in 0.75 cups of cocoa powder for perfect baking results every time. Includes UK and US conversions.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T16:11:23.858000+00:00",
+    "dateModified": "2025-07-27T16:11:23.858000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-cocoa-powder.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 0.75 cups of cocoa powder weigh the same as 0.75 cups of flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, cocoa powder and flour have different densities. While 0.75 cups of cocoa powder weighs about 75 grams, the same volume of all-purpose flour weighs approximately 94 grams. Always check ingredient-specific conversions for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use Dutch-processed cocoa powder for the same gram measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, Dutch-processed and natural cocoa powder have similar weights. However, Dutch-processed cocoa is less acidic, which may affect recipes requiring baking soda. Stick to the 75-gram measurement but adjust leavening agents if needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 0.75 cups of cocoa powder to ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "0.75 cups (75 grams) of cocoa powder equals roughly 2.65 ounces. For smaller adjustments, note that 1 gram is about 0.035 ounces. Use a kitchen scale for precise ounce measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my cocoa powder measurement vary slightly each time?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Variations can occur due to settling, humidity, or packing. For consistency, fluff the cocoa powder before measuring or use a scale. Storing it properly in an airtight container also helps maintain uniformity."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.75 Cups of Cocoa Powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-cocoa-powder",
+    "description": "Find out exactly how many grams are in 0.75 cups of cocoa powder for perfect baking results every time. Includes UK and US conversions.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T16:11:23.858000+00:00",
+    "dateModified": "2025-07-27T16:11:23.858000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-cocoa-powder#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 0.75 Cups of Cocoa Powder?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-cocoa-powder"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.75 cups of cocoa powder equals approximately 75 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up brownies, cakes, or a decadent chocolate sauce, knowing the exact gram equivalent ensures consistent results every time.</p>  

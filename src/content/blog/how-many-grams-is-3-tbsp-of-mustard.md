@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 3 tbsp of mustard?"
 description: "Discover the exact weight of 3 tbsp mustard in grams for perfect air fryer recipes. Get precise measurements every time!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-3-tbsp-of-mustard-7c83ab0f.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-mustard.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-mustard",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-mustard"
+    },
+    "headline": "Quick Answer: How Many Grams is 3 Tbsp of Mustard?",
+    "description": "Discover the exact weight of 3 tbsp mustard in grams for perfect air fryer recipes. Get precise measurements every time!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-mustard.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of mustard affect the weight of 3 tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, slightly. Dijon and whole-grain mustards are denser than yellow mustard, so 3 tbsp might weigh closer to 45-48g. Runny mustards like American yellow could be around 42g. For most recipes, 45g is a safe estimate."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring spoon instead of a scale for mustard?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can, but a scale is more accurate. Mustard’s thickness means spoon measurements can vary. If using spoons, level them off for consistency. For baking or precise recipes, weighing is best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does mustard impact air fryer cooking times?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Mustard-based glazes or coatings can slightly increase cooking time due to moisture. If using a wet mustard marinade, pat excess off before air frying to ensure crispiness. Monitor your dish closely."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Are there low-sodium mustard options for healthier recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Many brands offer low-sodium mustards, which work well in air fryer recipes. Just check the label and adjust seasoning if needed. The gram measurement (45g per 3 tbsp) remains the same."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of mustard?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-mustard",
+    "description": "Discover the exact weight of 3 tbsp mustard in grams for perfect air fryer recipes. Get precise measurements every time!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-mustard#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 3 tbsp of mustard?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-mustard"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>3 tablespoons of mustard weigh approximately 45 grams. This measurement is essential for air fryer recipes where precision ensures the best results. Whether you’re making a glaze, marinade, or dipping sauce, knowing the exact weight helps you nail the recipe every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking game. Let’s dive deeper into mustard measurements and their role in air frying.</p>

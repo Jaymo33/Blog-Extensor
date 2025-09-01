@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 5 tbsp of jam?"
 description: "Find out exactly how many grams are in 5 tbsp of jam with our simple conversion guide. Perfect for air fryer recipes and precise baking!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-of-jam-390f3948.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-jam.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-jam",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-jam"
+    },
+    "headline": "Quick Guide: Convert 5 tbsp of jam to grams easily",
+    "description": "Find out exactly how many grams are in 5 tbsp of jam with our simple conversion guide. Perfect for air fryer recipes and precise baking!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-jam.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Why is it better to measure jam in grams rather than tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide a more accurate measurement than tablespoons because weight isn't affected by how the jam is packed or the size of air pockets. This precision is especially important in baking and air fryer cooking where consistency matters. Volume measurements can vary by up to 20%, while grams give you the exact same amount every time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for all types of jam?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most standard jams will be close to 20g per tablespoon (100g for 5 tbsp), but thicker preserves or conserves may weigh slightly more. Runny jams might be a bit lighter. For critical recipes, it's best to check your specific jam's nutritional label or weigh it directly for perfect accuracy every time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure sticky jam without making a mess?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Lightly grease your measuring spoon with oil or use a silicone spatula to help release the jam. For thick jams, warming the spoon first can help it slide off more easily. Alternatively, place your bowl on scales, zero it, then add jam directly until you reach 100g—this avoids dirtying extra utensils."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What air fryer recipes work well with 5 tbsp (100g) of jam?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "This quantity is perfect for glazing meats like chicken wings or pork chops in the air fryer. It's also ideal for making jam-filled pastries, thumbprint cookies, or as a topping for air-fried desserts. The high heat caramelises the jam beautifully—just watch cooking times as sugar burns faster in the air fryer than a conventional oven."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of jam?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-jam",
+    "description": "Find out exactly how many grams are in 5 tbsp of jam with our simple conversion guide. Perfect for air fryer recipes and precise baking!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-jam#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 5 tbsp of jam?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-jam"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 tablespoons of jam is approximately 100 grams. This conversion is handy for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making a jam-filled pastry or glazing meats, knowing the exact weight helps avoid guesswork.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 200 Grams of Minced Beef?"
 description: "Discover how to convert 200 grams of minced beef to cups for perfect air fryer recipes every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-200-grams-minced-beef-55d9784f.png"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-minced-beef.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-minced-beef",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-minced-beef"
+    },
+    "headline": "Quick Answer: How Many Cups Is 200 Grams of Minced Beef?",
+    "description": "Discover how to convert 200 grams of minced beef to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:31:11.708000+00:00",
+    "dateModified": "2025-07-26T21:31:11.708000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-minced-beef.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the fat content of minced beef affect the cup measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, fattier minced beef can take up slightly more space due to its softer texture, while lean beef may measure closer to 1 cup per 200 grams. For consistent results, lightly pack the beef into the measuring cup without pressing too firmly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for frozen minced beef?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Frozen minced beef is denser, so it’s best to thaw it first before measuring. If you must measure it frozen, expect it to take up slightly less volume—about ¾ cup for 200 grams. Always adjust cooking times in the air fryer for frozen meat."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many burgers can I make with 200 grams of minced beef?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can make two large 100-gram burgers or four smaller 50-gram patties. Shape them evenly for consistent air frying, and preheat your air fryer to ensure they cook through without drying out."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 200 grams of minced beef enough for a family meal?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For a family of four, 200 grams works well in dishes like bolognese or tacos when paired with fillers like beans or vegetables. For heartier meals, consider doubling the portion and adjusting air fryer settings accordingly."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 200 Grams of Minced Beef?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-minced-beef",
+    "description": "Discover how to convert 200 grams of minced beef to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:31:11.708000+00:00",
+    "dateModified": "2025-07-26T21:31:11.708000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-minced-beef#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 200 Grams of Minced Beef?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-minced-beef"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>200 grams of minced beef is roughly equivalent to 1 cup when lightly packed. This measurement can vary slightly depending on the fat content and how tightly the beef is packed into the cup. For air fryer recipes, precise measurements ensure even cooking and perfect results every time.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 4 tbsp of peanut butter?"
 description: "Discover how many grams are in 4 tbsp of peanut butter for perfect air fryer recipes. Get accurate conversions and cooking tips here!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-4-tbsp-of-peanut-butter-b0edd53f.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-peanut-butter.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-peanut-butter",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-peanut-butter"
+    },
+    "headline": "Quick Answer: How Many Grams in 4 Tbsp Peanut Butter?",
+    "description": "Discover how many grams are in 4 tbsp of peanut butter for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-peanut-butter.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of peanut butter affect the weight of 4 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, natural peanut butter is often runnier and may weigh slightly less per tablespoon compared to stabilised brands. For accuracy, always weigh your peanut butter if possible."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use crunchy peanut butter instead of smooth for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Crunchy peanut butter works well but may alter the texture slightly. If a recipe calls for smooth, blending crunchy peanut butter briefly can help achieve a similar consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure peanut butter without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a tablespoon and lightly pack the peanut butter without pressing too hard. Level it off with a knife for an approximate 16-gram per tablespoon measurement (64g for 4 tbsp)."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is my peanut butter measurement different from the standard 64g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Variations can occur due to brand density or how the peanut butter is packed. For best results, weigh it or refer to our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for adjustments."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of peanut butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-peanut-butter",
+    "description": "Discover how many grams are in 4 tbsp of peanut butter for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-peanut-butter#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 4 tbsp of peanut butter?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-peanut-butter"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>4 tablespoons (tbsp) of peanut butter weigh approximately 64 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making peanut butter cookies, satay sauce, or energy bites, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you nail every recipe.</p>  

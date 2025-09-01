@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 610 ml of Vegetable Oil?"
 description: "Learn how to convert 610 ml of vegetable oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-610-ml-of-vegetable-oil-362091c2.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-610-ml-of-vegetable-oil.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 610 ml of Vegetable Oil to Cups Easily",
+    "description": "Learn how to convert 610 ml of vegetable oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-610-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 610 ml of vegetable oil the same in US and UK cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 610 ml of vegetable oil equals about 2.57 US cups (240 ml per cup) or 2.15 UK cups (284 ml per cup). Always check which measurement system your recipe follows to avoid errors."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 610 ml of vegetable oil for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While air fryers need minimal oil, 610 ml can be used for marinating or coating large batches. Most recipes require just a light spray, so adjust accordingly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 610 ml of vegetable oil without a jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring jug, use standard cups: roughly 2.5 US cups or 2 UK cups plus 2 tablespoons for 610 ml. A kitchen scale (1 ml ≈ 1 gram) can also help."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What recipes use 610 ml of vegetable oil?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Large-batch frying, deep-frying, or baking recipes often use 610 ml of oil. For air fryers, it's ideal for marinating proteins like chicken or tofu in bulk."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 610 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-vegetable-oil",
+    "description": "Learn how to convert 610 ml of vegetable oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 610 ml of Vegetable Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>610 ml of vegetable oil equals approximately 2.57 cups in the US measurement system and 2.15 cups in the UK system. Whether you're preparing a crispy batch of air-fried chicken or baking a moist cake, getting the oil measurement right is crucial. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking.</p>

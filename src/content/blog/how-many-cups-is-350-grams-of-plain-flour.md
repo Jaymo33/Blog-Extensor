@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 350 Grams of Plain Flour?"
 description: "Learn how to convert 350 grams of plain flour to cups for perfect baking every time. Get accurate measurements and handy tips for air fryer recipes."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-350-grams-of-plain-flour-31be4012.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-plain-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-plain-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-plain-flour"
+    },
+    "headline": "Quick Guide: Convert 350 Grams of Plain Flour to Cups Easily",
+    "description": "Learn how to convert 350 grams of plain flour to cups for perfect baking every time. Get accurate measurements and handy tips for air fryer recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-plain-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of flour affect how many cups 350 grams will be?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different types of flour have varying densities. Plain (all-purpose) flour at 350 grams is about 2.8 cups, but wholemeal flour might be slightly more voluminous due to its coarser texture. Always check specific conversions for the flour type you're using."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I measure 350 grams of plain flour without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, use the spoon-and-level method: gently spoon flour into a measuring cup without packing it down, then level off the top with a knife. For 350 grams, you'll need about 2.8 cups measured this way. This method helps prevent over-measuring that can occur with scooping."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK and US cup measurements differ for 350 grams of flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The UK uses a 250ml cup while the US uses 240ml, causing slight variations in conversions. 350 grams of plain flour is about 2.8 US cups or 2.9 UK cups. Always check which cup measurement your recipe uses for the most accurate results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same conversion for self-raising flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Self-raising flour is slightly lighter than plain flour due to the added raising agents. While 350 grams of plain flour is about 2.8 cups, self-raising might be closer to 3 cups. For baking, especially in air fryers, it's best to weigh ingredients for precision."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 350 Grams of Plain Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-plain-flour",
+    "description": "Learn how to convert 350 grams of plain flour to cups for perfect baking every time. Get accurate measurements and handy tips for air fryer recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-plain-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 350 Grams of Plain Flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-plain-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>350 grams of plain flour is approximately 2.8 cups when measured correctly. This conversion is essential for baking and air frying, where precise measurements can make or break your recipe. Whether you're whipping up a cake or coating chicken for the air fryer, knowing how to convert grams to cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect dishes every time.</p>

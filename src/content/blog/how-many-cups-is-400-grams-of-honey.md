@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 400 Grams of Honey?"
 description: "Discover how to convert 400 grams of honey to cups for perfect baking and air frying every time. Quick, accurate, and hassle-free!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-400-grams-of-honey-360b3391.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-honey.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-honey",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-honey"
+    },
+    "headline": "Easy Conversion: How Many Cups Is 400 Grams of Honey?",
+    "description": "Discover how to convert 400 grams of honey to cups for perfect baking and air frying every time. Quick, accurate, and hassle-free!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-honey.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of honey affect how many cups 400 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, raw honey is denser than processed honey, so 400 grams may fill slightly less than 1.2 cups. Always measure by weight for accuracy, especially in baking or air-fryer recipes where consistency matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same conversion for other sweeteners like maple syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, maple syrup is less dense than honey. 400 grams of maple syrup equals about 1.3 cups. Check our air fryer conversion chart for precise measurements across different ingredients."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 400 grams of honey without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a liquid measuring cup and the 1.2-cup approximation, but coat the cup with oil first for easier pouring. For sticky recipes like air-fryer glazes, this method works in a pinch."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my honey measurement vary between recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes may assume different honey densities or use packed vs. leveled cups. Always refer to weight (grams) for precision, especially in air-fryer cooking where even coatings are key."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-honey",
+    "description": "Discover how to convert 400 grams of honey to cups for perfect baking and air frying every time. Quick, accurate, and hassle-free!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-honey#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 400 Grams of Honey?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-honey"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>400 grams of honey is roughly equivalent to 1.2 cups, though this can vary slightly depending on honey density and temperature. If you're using an air fryer for recipes like glazed salmon or honey-roasted vegetables, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accuracy matters, especially when converting grams to cups for sticky ingredients like honey.</p>  

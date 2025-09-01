@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Mac And Cheese in an Air Fryer"
 description: "Learn how to reheat mac and cheese in an air fryer without drying it out. Get perfect results with the right temperature and time settings every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-mac-and-cheese-in-air-fryer-18dc9c9d.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mac-and-cheese-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mac-and-cheese-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mac-and-cheese-in-air-fryer"
+    },
+    "headline": "Reheat Mac And Cheese in Air Fryer – Quick & Crispy Tips",
+    "description": "Learn how to reheat mac and cheese in an air fryer without drying it out. Get perfect results with the right temperature and time settings every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T18:39:33.442000+00:00",
+    "dateModified": "2025-07-22T18:39:33.442000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mac-and-cheese-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat mac and cheese in an air fryer without drying it out?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes! The key is using a lower temperature (160°C) and adding a splash of milk before reheating. Covering with foil for the first half of cooking also helps retain moisture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do you reheat leftover mac and cheese in an air fryer to make it crispy?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Spread the mac and cheese evenly in the basket, spritz the top with oil, and cook at 160°C for 3-5 minutes. For extra crispiness, sprinkle breadcrumbs or cheese on top before air frying."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to reheat frozen mac and cheese in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Thaw it in the fridge overnight first, then reheat at 160°C for 5-7 minutes. If reheating straight from frozen, add 2-3 extra minutes and check frequently to avoid overcooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is it safe to reheat mac and cheese in an air fryer the next day?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely. Store it in an airtight container in the fridge, then reheat at 160°C until piping hot (at least 75°C internally). Stir halfway to ensure even heating."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Mac And Cheese in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mac-and-cheese-in-air-fryer",
+    "description": "Learn how to reheat mac and cheese in an air fryer without drying it out. Get perfect results with the right temperature and time settings every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T18:39:33.442000+00:00",
+    "dateModified": "2025-07-22T18:39:33.442000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mac-and-cheese-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Mac And Cheese in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mac-and-cheese-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>To reheat mac and cheese in an air fryer, set it to 160°C (320°F) and cook for 3-5 minutes until warmed through. This method keeps the dish creamy while adding a delightful crispiness to the top layer. Whether you’re using leftovers or meal-prepped portions, your air fryer can revive mac and cheese better than a microwave or oven.</p>

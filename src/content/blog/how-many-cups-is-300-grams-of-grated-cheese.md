@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 300 Grams of Grated Cheese?"
 description: "Find out exactly how many cups 300 grams of grated cheese equals for perfect air fryer recipes every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-300-grams-of-grated-cheese-bc578170.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-grated-cheese.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-grated-cheese",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-grated-cheese"
+    },
+    "headline": "Quick Answer: How Many Cups Is 300 Grams of Grated Cheese?",
+    "description": "Find out exactly how many cups 300 grams of grated cheese equals for perfect air fryer recipes every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-grated-cheese.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of cheese affect how many cups 300 grams will yield?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the type of cheese makes a difference. Hard cheeses like parmesan or cheddar will yield slightly more cups per 300 grams compared to softer cheeses like mozzarella due to differences in density and moisture content. For accuracy, weigh your cheese if possible."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use pre-shredded cheese instead of grating my own?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use pre-shredded cheese, but it often contains anti-caking agents that may affect volume. Freshly grated cheese tends to be fluffier, so 300 grams may take up slightly more space. Adjust measurements lightly if needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store leftover grated cheese?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store leftover grated cheese in an airtight container in the fridge for up to 5 days. For longer storage, freeze it in portions. Thaw before using in air fryer recipes to ensure even melting."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my grated cheese clump in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Clumping can happen if the cheese is too densely packed or if the air fryer temperature is too low. Spread the cheese evenly and cook at the recommended temperature for best results. Lightly greasing the basket can also help."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 300 Grams of Grated Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-grated-cheese",
+    "description": "Find out exactly how many cups 300 grams of grated cheese equals for perfect air fryer recipes every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-grated-cheese#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 300 Grams of Grated Cheese?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-grated-cheese"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>300 grams of grated cheese is roughly equivalent to 3 cups, though this can vary slightly depending on the cheese type and how finely it’s grated. Whether you’re making a cheesy air fryer dish or prepping ingredients for a bake, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for air fryer cooking, so let’s break it down.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 560 ml of Vegetable Oil?"
 description: "Learn how to convert 560 ml of vegetable oil to cups for perfect baking and frying. Get accurate measurements for air fryer recipes today!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-560-ml-of-vegetable-oil-58e49045.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-vegetable-oil.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 560 ml of Vegetable Oil to Cups Easily",
+    "description": "Learn how to convert 560 ml of vegetable oil to cups for perfect baking and frying. Get accurate measurements for air fryer recipes today!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 560 ml of vegetable oil the same as 560 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 560 ml of vegetable oil is not the same as 560 grams. Oil is less dense than water, so 560 ml of vegetable oil weighs approximately 515 grams. Always check your recipe's requirements, as some may list oil by weight rather than volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use olive oil instead of vegetable oil in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute olive oil for vegetable oil in an air fryer, but be mindful of the smoke point. Olive oil has a lower smoke point than vegetable oil, so it's best for lower-temperature cooking. For high-heat recipes, stick to vegetable oil for better results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 560 ml of vegetable oil without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring cup, you can use a standard drinking glass or mug as a rough guide. A typical UK mug holds about 250 ml, so 560 ml would be just over two mugs. For more accuracy, use tablespoons—560 ml equals about 37 US tablespoons."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of vegetable oil affect the conversion from ml to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the type of vegetable oil doesn't affect the volume-to-cup conversion. Whether you're using sunflower, rapeseed, or blended oil, 560 ml will always equal roughly 2.37 US cups or 2.46 UK cups. The difference lies in flavour and smoke point, not measurement."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 560 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-vegetable-oil",
+    "description": "Learn how to convert 560 ml of vegetable oil to cups for perfect baking and frying. Get accurate measurements for air fryer recipes today!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 560 ml of Vegetable Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>560 ml of vegetable oil is approximately 2.37 cups in the US measurement system and roughly 2.46 cups in the UK. This conversion is essential for precise cooking, especially when using an air fryer where exact measurements can impact texture and crispiness. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a family favourite, knowing how to convert millilitres to cups ensures consistent results.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "335 F to Fan Oven"
 description: "Convert 335 F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/335-f-to-fan-oven-3a696097.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/335-f-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/335-f-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/335-f-to-fan-oven"
+    },
+    "headline": "335 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 335 F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T23:29:04.388000+00:00",
+    "dateModified": "2025-07-21T23:29:04.388000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/335-f-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How does 335 F compare to gas mark in a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "335 F is equivalent to Gas Mark 3 in a conventional oven, but in a fan oven you'd typically use Gas Mark 2.5 or reduce the temperature by about 20°C for equivalent cooking results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same cooking time when converting 335 F to fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, fan ovens cook faster than conventional ovens. When converting 335 F to fan oven settings, reduce the cooking time by about 10-15% and check for doneness earlier to prevent overcooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my food cook differently at 335 F in an air fryer versus a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers have more intense air circulation than fan ovens, cooking food even faster. You may need to reduce both temperature and cooking time further when converting 335 F for air fryer use compared to fan oven settings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 335 F a common temperature for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 335 F (about 168 C) is frequently used in air fryer recipes for gentle cooking of items like reheated foods, delicate pastries, or slow-cooked vegetables that need even heating without browning too quickly."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "335 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/335-f-to-fan-oven",
+    "description": "Convert 335 F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T23:29:04.388000+00:00",
+    "dateModified": "2025-07-21T23:29:04.388000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/335-f-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "335 F to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/335-f-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>335 F converts to approximately 168 C in a fan oven. This temperature is commonly used for baking and roasting in both conventional ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using a traditional oven or a modern air fryer.</p>

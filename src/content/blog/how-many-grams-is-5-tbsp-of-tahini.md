@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 5 tbsp of tahini?"
 description: "Learn how to convert 5 tbsp of tahini to grams for precise cooking. Perfect for air fryer recipes and accurate measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-of-tahini-857931bb.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-tahini.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-tahini",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-tahini"
+    },
+    "headline": "Quick Guide: Convert 5 tbsp of tahini to grams easily",
+    "description": "Learn how to convert 5 tbsp of tahini to grams for precise cooking. Perfect for air fryer recipes and accurate measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-tahini.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I measure tahini if I don’t have a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use tablespoons for measuring tahini if you don’t have a scale. One level tablespoon equals about 15 grams, so 5 tbsp would be roughly 75 grams. Stir the tahini well first to ensure an even consistency, and level off the spoon for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the brand of tahini affect the weight per tablespoon?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Different brands may have slight variations in texture, but the weight per tablespoon remains fairly consistent. Thicker tahini might pack more densely, so stirring it well ensures uniformity. For precise results, especially in baking, a kitchen scale is best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use tahini in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Tahini works well in air fryer recipes, from marinades to dressings. Just remember that 5 tbsp of tahini equals 75 grams for accurate measurements. It adds a rich, nutty flavour to dishes like roasted vegetables or glazed proteins."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store tahini to keep it fresh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store tahini in a cool, dark place or the fridge to prevent separation and spoilage. Stir it well before each use, as the oils naturally rise to the top. Proper storage ensures it stays fresh for months, ready for your next air fryer creation."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of tahini?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-tahini",
+    "description": "Learn how to convert 5 tbsp of tahini to grams for precise cooking. Perfect for air fryer recipes and accurate measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-tahini#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 5 tbsp of tahini?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-tahini"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 tablespoons of tahini equals approximately 75 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out just right. Whether you're making hummus, dressings, or baking, knowing the exact weight helps avoid guesswork.</p>  

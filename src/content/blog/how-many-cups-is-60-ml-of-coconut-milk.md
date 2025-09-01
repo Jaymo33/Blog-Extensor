@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 60 ml of Coconut Milk?"
 description: "Find out exactly how many cups 60 ml of coconut milk equals for perfect air fryer recipes. Get precise conversions and cooking tips here!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-60-ml-of-coconut-milk-a7f2dd2b.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-coconut-milk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-coconut-milk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-coconut-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 60 ml of Coconut Milk?",
+    "description": "Find out exactly how many cups 60 ml of coconut milk equals for perfect air fryer recipes. Get precise conversions and cooking tips here!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-coconut-milk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 60 ml of coconut milk the same as 60 ml of water in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 60 ml of any liquid, including coconut milk or water, equals 0.25 cups. The density of coconut milk doesn’t change the volume measurement, though its thickness may affect pouring accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a US cup to measure 60 ml of coconut milk in the UK?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Both US and UK measuring cups use the same standard for millilitre-to-cup conversions. So, 60 ml of coconut milk is 0.25 cups regardless of where you are."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 60 ml of coconut milk if I don’t have a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use four tablespoons to approximate 60 ml of coconut milk. For baking, though, a kitchen scale or proper measuring tools are best for precision."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does canned coconut milk measure the same as carton coconut milk?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 60 ml of canned or carton coconut milk both equal 0.25 cups. Just ensure the canned version is well-mixed, as it can separate. Shake or stir before measuring."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Coconut Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-coconut-milk",
+    "description": "Find out exactly how many cups 60 ml of coconut milk equals for perfect air fryer recipes. Get precise conversions and cooking tips here!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-coconut-milk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 60 ml of Coconut Milk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-coconut-milk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>60 ml of coconut milk equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a curry, baking a cake, or making a creamy sauce, knowing how to convert 60 ml of coconut milk to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple for home chefs.</p>  

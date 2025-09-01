@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 560 ml of Chicken Broth?"
 description: "Learn how to convert 560 ml of chicken broth to cups for perfect recipes every time. Get precise measurements for cooking and baking in minutes."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-560-ml-of-chicken-broth-60443883.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-chicken-broth.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-chicken-broth",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-chicken-broth"
+    },
+    "headline": "Quick Guide: Convert 560 ml of Chicken Broth to Cups Easily",
+    "description": "Learn how to convert 560 ml of chicken broth to cups for perfect recipes every time. Get precise measurements for cooking and baking in minutes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-chicken-broth.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 560 ml of chicken broth the same as 2.5 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 560 ml of chicken broth is approximately 2.37 cups, not 2.5 cups. The exact conversion is important for recipes where precision matters, especially in air fryer cooking where liquid quantities can affect texture and cooking time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 560 ml of chicken broth in place of water in recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute water with 560 ml of chicken broth to add more flavour to your dishes. This works well in soups, stews, and even when cooking grains like rice or quinoa. Just adjust the seasoning accordingly, as broth adds saltiness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 560 ml of chicken broth without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring jug, use a standard 250 ml cup and measure a little over two cups (500 ml), then add an additional 60 ml (about 1/4 cup) to reach 560 ml. A tablespoon holds about 15 ml, so four tablespoons will give you the extra 60 ml needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of chicken broth affect the conversion from ml to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the type of chicken broth (homemade, store-bought, low-sodium, etc.) doesn’t affect the volume conversion. 560 ml of any chicken broth will always equal approximately 2.37 cups. However, the flavour and salt content may vary, so adjust your recipe accordingly."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 560 ml of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-chicken-broth",
+    "description": "Learn how to convert 560 ml of chicken broth to cups for perfect recipes every time. Get precise measurements for cooking and baking in minutes.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-chicken-broth#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 560 ml of Chicken Broth?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-chicken-broth"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>560 ml of chicken broth equals approximately 2.37 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you're making soups, stews, or marinades, knowing how to convert 560 ml of chicken broth to cups ensures consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions simple so you can focus on creating delicious meals.</p>

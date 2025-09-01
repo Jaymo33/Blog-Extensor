@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 30g of agave syrup?"
 description: "Convert 30g of agave syrup to ounces in seconds for perfect air fryer baking. Get precise measurements for flawless results every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/30g-agave-syrup-to-ounces-1c291809.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-agave-syrup-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-agave-syrup-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-agave-syrup-to-ounces"
+    },
+    "headline": "Quick 30g agave syrup to ounces conversion for air fryer recipes",
+    "description": "Convert 30g of agave syrup to ounces in seconds for perfect air fryer baking. Get precise measurements for flawless results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-agave-syrup-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 30g of agave syrup the same as 30g of honey in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While both 30g of agave syrup and honey convert to approximately 1.06 ounces, they have different densities and sweetness levels. Agave syrup is slightly less dense than honey, meaning 30g occupies slightly more volume. For air fryer recipes, they aren't always interchangeable without adjusting other liquid ingredients."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use tablespoons instead of weighing 30g of agave syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can approximate 30g of agave syrup with two level tablespoons. However, for precise air fryer baking results, especially in delicate recipes like soufflés or macarons, weighing your ingredients is always more accurate. The thickness of agave syrup can cause tablespoon measurements to vary slightly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some air fryer recipes specify grams instead of ounces for agave syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many professional and European recipes use grams for greater precision, especially with sticky ingredients like agave syrup. Digital scales measure grams more accurately than volume measurements like ounces for thick liquids. When converting 30g agave syrup to ounces, you're ensuring compatibility with all recipe formats."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 30g of agave syrup affect cooking times in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The 1.06 ounces of agave syrup in a recipe can slightly increase cooking times as the sugar content promotes browning. Recipes with 30g agave syrup may need 1-2 minutes less than those using granulated sugar. Always check your air fryer food a few minutes early when using liquid sweeteners."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of agave syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-agave-syrup-to-ounces",
+    "description": "Convert 30g of agave syrup to ounces in seconds for perfect air fryer baking. Get precise measurements for flawless results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-agave-syrup-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 30g of agave syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-agave-syrup-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>30g of agave syrup equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking air fryer cookies or glazing salmon, knowing how many ounces is 30g of agave syrup ensures consistent results every time.</p>

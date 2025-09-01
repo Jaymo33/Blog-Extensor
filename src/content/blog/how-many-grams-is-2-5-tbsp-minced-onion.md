@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 2.5 tbsp of minced onion?"
 description: "Discover how to convert 2.5 tbsp of minced onion into grams for perfect air fryer recipes every time. Get accurate measurements now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-5-tbsp-minced-onion-8b59cd88.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-minced-onion.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-onion",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-onion"
+    },
+    "headline": "Quick Answer: 2.5 tbsp minced onion to grams conversion",
+    "description": "Discover how to convert 2.5 tbsp of minced onion into grams for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-minced-onion.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use dried minced onion instead of fresh for the 2.5 tbsp measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute dried minced onion, but the conversion differs. For 2.5 tbsp (20g) of fresh minced onion, use about 2 tbsp of dried minced onion. Remember to rehydrate dried onion in water for 5-10 minutes before using in air fryer recipes for better texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does the 2.5 tbsp to grams conversion change if I use red onion instead of white?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The conversion remains roughly the same (about 20g for 2.5 tbsp) whether using white, yellow, or red onions. However, red onions are slightly denser, so you might get 21-22g for the same volume. For most air fryer recipes, this small difference won't affect the final result."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use grams instead of tablespoons for minced onion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide more accuracy because tablespoon measurements can vary based on how finely the onion is chopped and how tightly it's packed. Weight measurements eliminate this variability, especially important in air frying where precise ingredient ratios affect cooking time and texture. That's why UK recipes typically use grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store leftover minced onion after measuring out 2.5 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store unused minced onion in an airtight container in the fridge for up to 5 days. For longer storage, freeze measured portions (like your 20g/2.5 tbsp amounts) in ice cube trays, then transfer to freezer bags. This makes it easy to grab the right quantity for future air fryer recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 2.5 tbsp of minced onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-onion",
+    "description": "Discover how to convert 2.5 tbsp of minced onion into grams for perfect air fryer recipes every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-onion#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 2.5 tbsp of minced onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-minced-onion"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.5 tablespoons of minced onion equals approximately 20 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dish, knowing how to convert tablespoons to grams ensures consistent flavour every time.</p>

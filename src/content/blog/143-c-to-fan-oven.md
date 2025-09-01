@@ -1,12 +1,195 @@
 ---
 title: "143 C to Fan Oven"
 description: "Convert 143 C to fan oven settings for perfect air frying. Learn temperature equivalents, adjustments, and ideal cooking times for your recipes."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/143-c-to-fan-oven-70cbfe33.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/143-c-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/143-c-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/143-c-to-fan-oven"
+    },
+    "headline": "143 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 143 C to fan oven settings for perfect air frying. Learn temperature equivalents, adjustments, and ideal cooking times for your recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T13:18:32.394000+00:00",
+    "dateModified": "2025-07-21T13:18:32.394000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/143-c-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How does 143 C compare to air fryer temperatures?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "143 C converts to about 125 C in both fan ovens and air fryers. However, air fryers' compact size means they often cook faster, so you may need to reduce cooking times by 10-15% compared to standard fan oven recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 143 C fan oven settings for frozen foods?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but check packaging for specific instructions. Most frozen foods cook well at 143 C fan oven equivalent (125 C), though you may need to increase time slightly compared to conventional oven directions due to the lower temperature setting."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do fan ovens need lower temperatures than conventional ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The circulating fan distributes heat more efficiently, cooking food faster and more evenly. Reducing the temperature by 15-20 degrees prevents over-browning or drying out while ensuring thorough cooking - the same principle applies to air fryers."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I know if my 143 C fan oven conversion is accurate?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use an oven thermometer to verify actual temperatures. All ovens vary slightly, and factors like age, cleanliness, and brand can affect performance. For air fryers, check food doneness a few minutes early until you learn your appliance's quirks."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "143 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/143-c-to-fan-oven",
+    "description": "Convert 143 C to fan oven settings for perfect air frying. Learn temperature equivalents, adjustments, and ideal cooking times for your recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T13:18:32.394000+00:00",
+    "dateModified": "2025-07-21T13:18:32.394000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/143-c-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "143 C to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/143-c-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>143 C converts to approximately 125 C in a fan oven. This 15-20 degree reduction accounts for the efficient heat circulation in convection cooking. Whether you're using an air fryer or traditional fan oven, understanding this conversion ensures perfectly cooked meals every time.</p>

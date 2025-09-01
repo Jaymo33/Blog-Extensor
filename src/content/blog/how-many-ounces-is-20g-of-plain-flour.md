@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 20g of plain flour?"
 description: "Convert 20g of plain flour to ounces in seconds with our easy guide. Perfect for air fryer baking and precise measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-20g-of-plain-flour-15ae16a0.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-20g-of-plain-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-plain-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-plain-flour"
+    },
+    "headline": "Quick Answer: How many ounces is 20g of plain flour?",
+    "description": "Convert 20g of plain flour to ounces in seconds with our easy guide. Perfect for air fryer baking and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-20g-of-plain-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use cups instead of grams or ounces for measuring 20g of plain flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While possible, we don’t recommend using cups for small amounts like 20g of plain flour. A UK metric cup holds about 120g of plain flour, making it hard to accurately measure just 20g (roughly 1/6 cup). For air fryer recipes where precision matters, stick to grams or ounces."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of flour affect the grams to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Plain, self-raising, and wholemeal flours have very similar densities, so 20g will always be about 0.71 ounces. However, specialty flours like coconut or almond flour are much lighter—20g of these would be closer to 0.9 ounces. Always check specific conversion charts for alternative flours."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK air fryer recipes often use grams instead of ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The UK officially uses metric measurements, so most recipes (including ours at airfryerrecipe.co.uk) default to grams. It’s more precise for baking, especially with small air fryer batches. However, we provide ounce conversions for flexibility—20g of plain flour will always be 0.71 ounces."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 20g of plain flour if my scales only show whole grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most digital scales measure to 1g increments, so 20g is easy. For analog scales showing only ounces, look for the 0.7 mark (just under 3/4). Alternatively, use the spoon method—2.5 level tablespoons of plain flour equals approximately 20g or 0.71 ounces."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of plain flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-plain-flour",
+    "description": "Convert 20g of plain flour to ounces in seconds with our easy guide. Perfect for air fryer baking and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-plain-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 20g of plain flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-plain-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>20g of plain flour equals approximately 0.71 ounces. Whether you're baking in an air fryer or prepping ingredients for a recipe, getting measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when working with smaller quantities like 20g of plain flour.</p>  

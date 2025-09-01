@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 5g of quinoa?"
 description: "Learn how to convert 5g of quinoa to ounces in seconds. Perfect for air fryer recipes and precise meal prep. Get accurate measurements now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-5g-of-quinoa-ca3ef847.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-quinoa.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-quinoa",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-quinoa"
+    },
+    "headline": "Quick Guide: Convert 5g of Quinoa to Ounces Easily",
+    "description": "Learn how to convert 5g of quinoa to ounces in seconds. Perfect for air fryer recipes and precise meal prep. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-quinoa.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 5g of quinoa in an air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 5g of quinoa (0.18 oz) is perfect for small portions in air fryer recipes. It works well as a topping, coating, or mixed into stuffings. Just ensure it’s evenly distributed for even cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How much does 5g of quinoa expand when cooked?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "5g of uncooked quinoa roughly triples in volume when cooked, yielding about 15g. This makes it great for small servings or as an addition to other ingredients in your air fryer dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do I need to rinse quinoa before air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, rinsing quinoa removes its natural coating, which can taste bitter. Pat it dry before air frying to ensure it crisps up nicely. This step is especially important for coatings or toppings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to store cooked quinoa for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store cooked quinoa in an airtight container in the fridge for up to 3 days. Reheat it in the air fryer for 2-3 minutes to restore its crispiness before using it in recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of quinoa?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-quinoa",
+    "description": "Learn how to convert 5g of quinoa to ounces in seconds. Perfect for air fryer recipes and precise meal prep. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-quinoa#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 5g of quinoa?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-quinoa"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 grams of quinoa equals approximately 0.18 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you're meal prepping or following a recipe, knowing how to convert 5g of quinoa to ounces ensures perfect results every time.</p>

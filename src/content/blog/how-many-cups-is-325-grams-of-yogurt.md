@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 325 Grams of Yogurt?"
 description: "Discover how to convert 325 grams of yogurt to cups for perfect baking and cooking every time. Get precise measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-325-grams-of-yogurt-6d602459.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-yogurt.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-yogurt"
+    },
+    "headline": "Quick Answer: How Many Cups Is 325 Grams of Yogurt?",
+    "description": "Discover how to convert 325 grams of yogurt to cups for perfect baking and cooking every time. Get precise measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 325 grams of yogurt the same as 1.35 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 325 grams of yogurt is approximately 1.35 cups. However, this can vary slightly depending on the yogurt's thickness. Greek yogurt, for example, may measure slightly less due to its density."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring cup instead of a scale for yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Spoon the yogurt into the cup without packing it down and level it off for accuracy. For thicker yogurts, the displacement method works well—just be mindful of slight variations."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of yogurt affect the cup measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, thicker yogurts like Greek or Skyr may take up less space per gram compared to regular yogurt. Always consider consistency when measuring to ensure precision in your recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 325 grams of yogurt for a smaller recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Simply divide the measurement proportionally. For half the recipe, use about 0.67 cups. For a quarter, use roughly 0.34 cups. Always verify with a scale or conversion chart for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 325 Grams of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-yogurt",
+    "description": "Discover how to convert 325 grams of yogurt to cups for perfect baking and cooking every time. Get precise measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 325 Grams of Yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>325 grams of yogurt is approximately 1.35 cups. This conversion is essential for accurate baking and cooking, especially when using an air fryer. Whether you're making a creamy dessert or a savoury marinade, knowing how to measure yogurt correctly ensures perfect results every time.</p>  

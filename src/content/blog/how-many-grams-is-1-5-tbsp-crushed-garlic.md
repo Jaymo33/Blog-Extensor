@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1.5 tbsp of crushed garlic?"
 description: "Discover how to convert 1.5 tbsp of crushed garlic into grams for perfect air fryer recipes every time. Get accurate UK measurements now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-5-tbsp-crushed-garlic-8d958e49.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-crushed-garlic.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-crushed-garlic",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-crushed-garlic"
+    },
+    "headline": "Quick Answer: 1.5 tbsp crushed garlic to grams UK",
+    "description": "Discover how to convert 1.5 tbsp of crushed garlic into grams for perfect air fryer recipes every time. Get accurate UK measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-crushed-garlic.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use minced garlic instead of crushed for 1.5 tbsp to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but note that minced garlic is slightly lighter. While 1.5 tbsp of crushed garlic equals 22.5g, minced garlic weighs about 20g for the same volume. Adjust your measurements accordingly, especially for air fryer recipes where precision affects cooking times and flavour distribution."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many garlic cloves make 1.5 tbsp (22.5g) crushed garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Typically, 2-3 medium-sized garlic cloves yield 1.5 tbsp (22.5g) when crushed. Clove sizes vary, so for accuracy, crush first then measure. This ensures your air fryer dishes like garlic bread or roasted potatoes have consistent garlic intensity without overpowering."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does jarred crushed garlic weigh the same as fresh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Jarred crushed garlic often has added moisture, making it slightly heavier per tablespoon. For 1.5 tbsp (22.5g), you might need less jarred garlic than fresh. Always check the label—some brands include oil, which further alters the weight and cooking behaviour in air fryers."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe taste too garlicky even with 1.5 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate hot air intensely, which can concentrate flavours. Try reducing to 1 tbsp (15g) crushed garlic if your dish tastes overpowering. Also, distribute garlic evenly—clumps burn and create bitter spots. Pre-mixing with oil helps disperse flavour more uniformly during cooking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of crushed garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-crushed-garlic",
+    "description": "Discover how to convert 1.5 tbsp of crushed garlic into grams for perfect air fryer recipes every time. Get accurate UK measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-crushed-garlic#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1.5 tbsp of crushed garlic?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-crushed-garlic"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 tablespoons (tbsp) of crushed garlic equals approximately 22.5 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up garlic-infused chicken or roasted vegetables, knowing the exact weight ensures consistent flavour. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen maths so you can focus on cooking. Let’s dive deeper into why accurate conversions matter.</p>  

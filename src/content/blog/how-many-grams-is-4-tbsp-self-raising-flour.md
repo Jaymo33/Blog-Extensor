@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 4 tbsp of self-raising flour?"
 description: "Convert 4 tbsp of self-raising flour into grams effortlessly for perfect baking every time. Get accurate UK measurements now!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-4-tbsp-self-raising-flour-45cfdd29.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-self-raising-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-self-raising-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-self-raising-flour"
+    },
+    "headline": "Quick Answer: 4 tbsp of self-raising flour to grams",
+    "description": "Convert 4 tbsp of self-raising flour into grams effortlessly for perfect baking every time. Get accurate UK measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-self-raising-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use plain flour instead of self-raising flour for 4 tbsp in a recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but you’ll need to add baking powder. For every 150g of plain flour, mix in 2 tsp of baking powder. If your recipe calls for 4 tbsp (30g) of self-raising flour, use 30g plain flour plus ¼ tsp baking powder."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer bake turn out dense with 4 tbsp of self-raising flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Dense bakes often result from over-measuring or compacted flour. Ensure you’re spooning and leveling the flour lightly. Also, check your air fryer’s temperature—too low, and the baking powder won’t activate properly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 4 tbsp of self-raising flour to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "4 tbsp equals ¼ cup. However, for accuracy, grams are preferable. A standard UK cup of self-raising flour is 120g, so 4 tbsp (30g) is a quarter of that."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the brand of self-raising flour affect the 4 tbsp to grams conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Slight variations exist between brands due to milling density. Always check the packaging for weight guidelines, but most UK brands align with the 30g-per-4-tbsp standard. When in doubt, weigh it."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-self-raising-flour",
+    "description": "Convert 4 tbsp of self-raising flour into grams effortlessly for perfect baking every time. Get accurate UK measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-self-raising-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 4 tbsp of self-raising flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-self-raising-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>4 tablespoons (tbsp) of self-raising flour equals approximately 30 grams (g). This conversion is essential for precise baking, especially when using an air fryer, where accurate measurements can make or break your recipe. Whether you're whipping up cakes, muffins, or bread, knowing the exact weight ensures consistent results every time.</p>  

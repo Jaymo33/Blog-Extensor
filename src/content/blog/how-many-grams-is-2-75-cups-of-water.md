@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 2.75 Cups of Water?"
 description: "Discover the exact gram measurement for 2.75 cups of water with our simple conversion guide—perfect for air fryer recipes and precise cooking."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-75-cups-of-water-52ad7912.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-water.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-water",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-water"
+    },
+    "headline": "Quick Answer: How Many Grams Is 2.75 Cups of Water?",
+    "description": "Discover the exact gram measurement for 2.75 cups of water with our simple conversion guide—perfect for air fryer recipes and precise cooking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T16:03:14.795000+00:00",
+    "dateModified": "2025-07-28T16:03:14.795000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-water.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.75 cups of water the same in grams for all liquids?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 2.75 cups of water equals approximately 650 grams, but other liquids like milk or oil have different densities. For example, milk weighs slightly more due to its fat content. Always check a conversion chart for specific liquids."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why should I measure water in grams instead of cups for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide a more precise measurement than cups, which can vary based on how you fill them. In air fryer cooking, exact measurements ensure even cooking and perfect texture, especially for baked goods or steamed dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring jug instead of a scale for 2.75 cups of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but for the most accuracy, a scale is recommended. Measuring jugs can have slight variations, and if precision is key (like in baking), weighing 650 grams ensures consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the UK and US cup measurement differ for 2.75 cups of water in grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, both UK and US standard cups measure 236.59 ml of water, so 2.75 cups will always be roughly 650 grams. However, always verify your cup’s markings, as some regional measuring cups may vary slightly."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.75 Cups of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-water",
+    "description": "Discover the exact gram measurement for 2.75 cups of water with our simple conversion guide—perfect for air fryer recipes and precise cooking.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T16:03:14.795000+00:00",
+    "dateModified": "2025-07-28T16:03:14.795000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-water#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 2.75 Cups of Water?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-water"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.75 cups of water equals approximately 650 grams. This conversion is essential for precision in cooking, especially when using an air fryer where exact measurements can impact texture and cooking times. Whether you're preparing a cake, a savoury dish, or even reheating leftovers, knowing how many grams 2.75 cups of water weighs ensures consistent results every time.</p>

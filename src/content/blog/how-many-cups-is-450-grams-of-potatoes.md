@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 450 Grams of Potatoes?"
 description: "Find out exactly how many cups 450 grams of potatoes equals for perfect air fryer recipes. Get precise measurements and cooking tips today!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-450-grams-of-potatoes-cb7d5d8b.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-potatoes.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-potatoes",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Cups Is 450 Grams of Potatoes?",
+    "description": "Find out exactly how many cups 450 grams of potatoes equals for perfect air fryer recipes. Get precise measurements and cooking tips today!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-potatoes.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of potato affect how many cups 450 grams yields?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, potato variety impacts cup measurements. Floury potatoes like Maris Pipers are denser, so 450 grams may fill fewer cups than waxy potatoes like Jersey Royals. The cut also matters – diced floury potatoes pack more tightly than sliced waxy ones."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use US cups to measure 450 grams of potatoes for UK recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "UK and US cup sizes differ slightly (250ml vs. 240ml), but the difference is minimal for most recipes. For precise results with 450 grams of potatoes, we recommend using a kitchen scale or sticking to one measurement system throughout the recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many servings does 450 grams of potatoes make in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "450 grams of potatoes typically serves 2-3 people as a side dish, depending on appetite and what else you're serving. For main dishes like air fryer potato hash, it might serve 1-2. Adjust quantities based on your recipe and preferences."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer cook 450 grams of potatoes unevenly?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Uneven cooking usually means overcrowding. Even with accurate measurements, 450 grams of potatoes needs space for air circulation. Cook in batches if necessary, and shake the basket halfway. Also check that your potato pieces are uniformly sized for consistent results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 450 Grams of Potatoes?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-potatoes",
+    "description": "Find out exactly how many cups 450 grams of potatoes equals for perfect air fryer recipes. Get precise measurements and cooking tips today!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-potatoes#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 450 Grams of Potatoes?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-potatoes"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>450 grams of potatoes is roughly equivalent to 2.5 to 3 cups, depending on how finely they’re chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and cooking time. Whether you’re prepping roast potatoes, wedges, or mash, knowing how many cups 450 grams of potatoes yields ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>

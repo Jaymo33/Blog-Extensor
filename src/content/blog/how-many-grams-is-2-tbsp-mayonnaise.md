@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 2 tbsp of mayonnaise?"
 description: "Find out exactly how many grams are in 2 tbsp of mayonnaise for perfect air fryer recipes. Includes UK conversions and handy tips!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-tbsp-mayonnaise-fbac29d9.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-mayonnaise.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mayonnaise",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mayonnaise"
+    },
+    "headline": "Quick Answer: How many grams is 2 tbsp of mayonnaise?",
+    "description": "Find out exactly how many grams are in 2 tbsp of mayonnaise for perfect air fryer recipes. Includes UK conversions and handy tips!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-mayonnaise.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2 tbsp of mayonnaise the same as 30 grams in all brands?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most full-fat mayonnaise brands will measure close to 30 grams for 2 tablespoons. However, light or reduced-fat versions may weigh slightly less due to differences in density. Always check the nutrition label if you need precise measurements for dietary requirements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use mayonnaise in my air fryer without making a mess?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes! When using mayonnaise in air fryer recipes, mix it with breadcrumbs or spices to create a coating rather than applying it directly. This prevents drips and ensures even cooking. For easy cleanup, consider using an air fryer liner."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert grams back to tablespoons if my recipe uses weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "To convert grams back to tablespoons, divide by 15 (since 1 tbsp is approx. 15g). For example, 45 grams of mayonnaise would be 3 tablespoons. Use a measuring spoon for accuracy, especially in baking or sauce-making."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does mayonnaise affect cooking times in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Mayonnaise can slightly reduce cooking time when used as a coating because it helps food brown faster. However, avoid using excessive amounts as it may cause smoking. Stick to the recommended 2 tbsp (30g) for best results in most recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mayonnaise",
+    "description": "Find out exactly how many grams are in 2 tbsp of mayonnaise for perfect air fryer recipes. Includes UK conversions and handy tips!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mayonnaise#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 2 tbsp of mayonnaise?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mayonnaise"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2 tablespoons (tbsp) of mayonnaise weigh approximately 30 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making crispy chicken or a quick mayo-based dip, knowing the exact weight ensures consistent results every time.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "Can You Put Silicone in an Air Fryer?"
 description: "Wondering if silicone is air fryer safe? Learn whether you can use silicone mats, moulds, or liners in your air fryer without risks. UK safety advice."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/can-you-put-silicone-in-an-air-fryer-c620fd90.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-silicone-in-an-air-fryer.png"
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-in-an-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-in-an-air-fryer"
+    },
+    "headline": "Is Silicone Safe for Air Fryers? UK Guide | airfryerrecipe.co.uk",
+    "description": "Wondering if silicone is air fryer safe? Learn whether you can use silicone mats, moulds, or liners in your air fryer without risks. UK safety advice.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T23:30:57.071000+00:00",
+    "dateModified": "2025-07-22T23:30:57.071000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-silicone-in-an-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Safety"
+    },
+    "articleSection": "Safety",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can silicone melt or catch fire in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Quality food-grade silicone won't melt or catch fire in normal air fryer use as it withstands temperatures up to 230°C. However, extremely cheap silicone with fillers might degrade at high heat, so always check temperature ratings before use."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Are there any silicone accessories I shouldn't put in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Avoid using silicone items not specifically designed for cooking, like non-food-grade silicone or items with metal parts. Also steer clear of very thick silicone that might block airflow, and never let silicone touch heating elements directly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I know if my silicone is safe for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Look for food-grade certification and temperature ratings of at least 220°C. Reputable kitchen brands clearly label their products as air fryer safe. When in doubt, do a test run at 180°C for 5 minutes to check for any changes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use silicone cupcake cases in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, silicone cupcake cases work perfectly in air fryers for individual portions. Place them directly in the basket or on a trivet, adjusting cooking time slightly as they may cook faster than in traditional ovens."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Can You Put Silicone in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-in-an-air-fryer",
+    "description": "Wondering if silicone is air fryer safe? Learn whether you can use silicone mats, moulds, or liners in your air fryer without risks. UK safety advice.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T23:30:57.071000+00:00",
+    "dateModified": "2025-07-22T23:30:57.071000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-in-an-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Can You Put Silicone in an Air Fryer?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-in-an-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Yes, you can safely use food-grade silicone in an air fryer as it withstands typical cooking temperatures up to 220°C. High-quality silicone won't melt, catch fire, or release harmful chemicals when used properly in air fryers. Many home cooks regularly use silicone liners, moulds, and baskets to make air frying easier and cleanup quicker.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 385 ml of Evaporated Milk?"
 description: "Learn how to convert 385 ml of evaporated milk to cups for perfect baking and cooking every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-385-ml-evaporated-milk-fb145b48.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-evaporated-milk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-evaporated-milk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-evaporated-milk"
+    },
+    "headline": "Quick Guide: Convert 385 ml of Evaporated Milk to Cups Easily",
+    "description": "Learn how to convert 385 ml of evaporated milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-evaporated-milk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 385 ml of evaporated milk the same as regular milk in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, evaporated milk is denser due to reduced water content. While 385 ml of regular milk equals about 1.63 cups, evaporated milk's thickness means it may settle differently. Always measure liquids by volume for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale to measure 385 ml of evaporated milk?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but you'll need to know the density. Evaporated milk weighs roughly 252 grams per 250 ml, so 385 ml would be about 388 grams. For precision, a liquid measuring cup is easier."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust recipes if I only have a 385 ml can of evaporated milk?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many recipes are designed for standard can sizes like 385 ml. If your recipe calls for cups, use 1.63 cups. For smaller amounts, refrigerate leftovers in an airtight container for up to 5 days."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does evaporated milk measure differently in the UK vs. the US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cup sizes are slightly different (UK cups are 284 ml, US are 240 ml), but 385 ml is a metric measurement, so it's consistent. Just convert to cups based on your recipe's origin."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 385 ml of Evaporated Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-evaporated-milk",
+    "description": "Learn how to convert 385 ml of evaporated milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-evaporated-milk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 385 ml of Evaporated Milk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-evaporated-milk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>385 ml of evaporated milk is approximately 1.63 cups. Whether you're baking a cake or whipping up a creamy sauce, knowing this conversion ensures your recipe turns out just right. Evaporated milk is a staple in many dishes, from desserts to savoury meals, and getting the measurement spot-on matters. If you're using an air fryer for recipes requiring evaporated milk, precise measurements help avoid soggy or dry results. Head over to <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurement guides.</p>

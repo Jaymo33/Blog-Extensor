@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 25g of wholemeal flour?"
 description: "Convert 25g of wholemeal flour to ounces in seconds with our easy guide. Perfect for air fryer baking and precise UK measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/25g-wholemeal-flour-to-ounces-c39b2d8b.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-wholemeal-flour-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-wholemeal-flour-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-wholemeal-flour-to-ounces"
+    },
+    "headline": "Quick 25g wholemeal flour to ounces conversion guide",
+    "description": "Convert 25g of wholemeal flour to ounces in seconds with our easy guide. Perfect for air fryer baking and precise UK measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-wholemeal-flour-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use plain flour instead of wholemeal flour in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute plain flour for wholemeal flour in air fryer recipes, but adjustments may be needed. Wholemeal flour absorbs more liquid, so if replacing 25g (0.88 oz) wholemeal with plain flour, you might need slightly less liquid in your recipe. The texture will also be lighter with plain flour."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 25g of wholemeal flour compare to cups measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "25g of wholemeal flour is roughly ¼ cup, but we strongly recommend weighing flour for accuracy. Cup measurements can vary significantly depending on how you scoop the flour. For consistent results in air fryer baking, especially with wholemeal flour, digital scales giving ounces or grams are best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do my air fryer baked goods with wholemeal flour come out dry?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Wholemeal flour's high fibre content absorbs more moisture during cooking. If using 25g (0.88 oz) wholemeal flour in air fryer recipes, try increasing liquid ingredients slightly or reducing cooking time by 1-2 minutes. The air fryer's intense heat can dry out wholemeal baked goods faster than conventional ovens."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I convert other amounts of wholemeal flour using the same ratio?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely, the conversion ratio remains consistent. For any amount of wholemeal flour, multiply grams by 0.035 to get ounces. So 50g would be 1.76 oz, 100g would be 3.53 oz, and so on. This works for all air fryer recipes requiring precise flour measurements."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-wholemeal-flour-to-ounces",
+    "description": "Convert 25g of wholemeal flour to ounces in seconds with our easy guide. Perfect for air fryer baking and precise UK measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-wholemeal-flour-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 25g of wholemeal flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-wholemeal-flour-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>25g of wholemeal flour equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or breads. Whether you're using a digital scale or measuring cups, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 125 Grams of Icing Sugar?"
 description: "Discover how to convert 125 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-125-grams-of-icing-sugar-0c8bae29.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-icing-sugar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-icing-sugar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-icing-sugar"
+    },
+    "headline": "Quick Answer: How Many Cups Is 125 Grams of Icing Sugar?",
+    "description": "Discover how to convert 125 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T21:00:04.671000+00:00",
+    "dateModified": "2025-07-27T21:00:04.671000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-icing-sugar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 125 grams of icing sugar equal 1 cup in both the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 125 grams of icing sugar is approximately 1 cup in both UK and US measurements. However, UK cups are slightly larger (250ml vs. 240ml in the US), but the difference is negligible for most recipes. For precision, especially in air fryer baking, weighing the sugar is best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a regular cup to measure 125 grams of icing sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can use a standard cup, it’s not the most accurate method. Icing sugar’s density varies based on how it’s packed. For consistent results, fluff the sugar with a fork before lightly spooning it into the cup. Better yet, use a kitchen scale for exact measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my 125 grams of icing sugar look like less than 1 cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "This usually happens if the sugar is compacted or settled during storage. Always aerate icing sugar by sifting or fluffing it before measuring. Humidity can also cause clumping, which affects volume. Storing it in an airtight container helps maintain consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 125 grams of icing sugar to tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "125 grams of icing sugar is roughly 16 tablespoons. However, tablespoons are even less precise than cups for dry ingredients. If your recipe requires exact measurements, stick to grams or use our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for reliable results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 125 Grams of Icing Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-icing-sugar",
+    "description": "Discover how to convert 125 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T21:00:04.671000+00:00",
+    "dateModified": "2025-07-27T21:00:04.671000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-icing-sugar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 125 Grams of Icing Sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-icing-sugar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125 grams of icing sugar is roughly equivalent to 1 cup in both UK and US measurements. However, slight variations can occur due to how the sugar is packed. For precise baking, especially in air fryer recipes, measuring by weight is always best.</p>

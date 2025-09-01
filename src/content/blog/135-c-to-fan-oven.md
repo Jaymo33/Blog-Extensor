@@ -1,12 +1,195 @@
 ---
 title: "135 C to Fan Oven"
 description: "Learn how to convert 135 C to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/135-c-to-fan-oven-79602c40.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/135-c-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/135-c-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/135-c-to-fan-oven"
+    },
+    "headline": "135 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 135 C to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T12:06:53.392000+00:00",
+    "dateModified": "2025-07-21T12:06:53.392000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/135-c-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How does 135 C in a fan oven compare to conventional oven temperatures?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "In a conventional oven without a fan, you'd typically need to set the temperature about 20 C higher than in a fan oven. So 135 C in a fan oven would equate to approximately 155 C in a traditional oven. This adjustment accounts for the less efficient heat distribution in non-fan ovens."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the 135 C setting for frozen foods in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 135 C works well for gently cooking certain frozen foods like vegetables or pre-cooked meats. However, for frozen items that need thorough cooking like raw chicken, you'll want higher temperatures (at least 180 C) to ensure food safety. Always check packaging for specific cooking instructions."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why would I use 135 C instead of higher temperatures in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "135 C is perfect for slow cooking, dehydrating, or gently reheating delicate foods. Higher temperatures can cause burning or uneven cooking with certain dishes. The lower heat allows flavours to develop gradually and prevents the outside from cooking too quickly before the inside is done."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long should I cook food at 135 C in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cooking times vary by food type and quantity, but generally expect 20-50% longer cooking times than higher temperature settings. For example, roasting vegetables might take 25-35 minutes at 135 C compared to 15-20 minutes at 180 C. Always check food regularly and adjust times based on your specific air fryer model."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "135 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/135-c-to-fan-oven",
+    "description": "Learn how to convert 135 C to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T12:06:53.392000+00:00",
+    "dateModified": "2025-07-21T12:06:53.392000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/135-c-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "135 C to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/135-c-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <h2>Understanding 135 C in Fan Ovens</h2>

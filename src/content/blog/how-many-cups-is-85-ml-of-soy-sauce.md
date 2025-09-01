@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 85 ml of Soy Sauce?"
 description: "Discover how to convert 85 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements and cooking tips here."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-85-ml-of-soy-sauce-0fada05e.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-soy-sauce.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-soy-sauce",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-soy-sauce"
+    },
+    "headline": "Quick Answer: How Many Cups Is 85 ml of Soy Sauce?",
+    "description": "Discover how to convert 85 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements and cooking tips here.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-soy-sauce.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 85 ml of soy sauce the same as 0.36 cups in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, there’s a slight difference. In the US, 1 cup equals 240 ml, so 85 ml is roughly 0.36 cups. In the UK, 1 cup is 284 ml, making 85 ml closer to 0.3 cups. For air fryer recipes, stick to ml for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a tablespoon to measure 85 ml of soy sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but it’s less precise. Since 1 tablespoon equals 15 ml, you’d need about 5.5 tablespoons for 85 ml. For best results in air fryer cooking, use a liquid measuring cup or scale."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of soy sauce affect the 85 ml to cups conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the conversion remains the same whether it’s light, dark, or low-sodium soy sauce. However, thicker sauces like kecap manis may settle differently, so stir before measuring for air fryer marinades."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust an air fryer recipe if I accidentally use too much soy sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Balance excess soy sauce with sweetness (honey or sugar) or acidity (vinegar or citrus). For 85 ml in a recipe meant for less, dilute with water or broth and extend cooking time slightly to maintain crispiness."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 85 ml of Soy Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-soy-sauce",
+    "description": "Discover how to convert 85 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements and cooking tips here.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-soy-sauce#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 85 ml of Soy Sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-soy-sauce"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>85 ml of soy sauce is approximately 0.36 cups (just over 1/3 cup). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or whipping up a stir-fry, knowing how to convert ml to cups ensures your flavours are spot-on.</p>

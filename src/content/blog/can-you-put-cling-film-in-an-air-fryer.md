@@ -1,12 +1,195 @@
 ---
 title: "Can You Put Cling Film in an Air Fryer?"
 description: "Wondering if you can put cling film in an air fryer? Discover why it's unsafe, risks of melting or fire, and safer alternatives for air frying."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/can-you-put-cling-film-in-an-air-fryer-5ec935bb.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-cling-film-in-an-air-fryer.png"
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cling-film-in-an-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cling-film-in-an-air-fryer"
+    },
+    "headline": "Cling Film in Air Fryer: Safety Guide & Risks Explained",
+    "description": "Wondering if you can put cling film in an air fryer? Discover why it's unsafe, risks of melting or fire, and safer alternatives for air frying.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T22:38:02.529000+00:00",
+    "dateModified": "2025-07-22T22:38:02.529000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-cling-film-in-an-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Safety"
+    },
+    "articleSection": "Safety",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you use cling film in a Ninja air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, Ninja specifically warns against using cling film in their air fryers. Like all air fryers, the high heat and rapid air circulation make it unsafe for any plastic wraps, regardless of brand."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What temperature does cling film melt in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most cling films begin melting between 110-130°C, well below typical air fryer cooking temperatures of 160-200°C. Melting can occur within minutes of starting your air fryer."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is there any cling film safe for air fryers?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Currently no food-grade cling films are rated for air fryer use. For covering foods, use parchment paper or silicone lids specifically designed for high-heat cooking instead."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What should I do if cling film melted in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Unplug immediately and let cool completely. Carefully remove any plastic residue once cool, using wooden or plastic tools to avoid scratching surfaces. Run a cleaning cycle with vinegar solution to remove odors."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Can You Put Cling Film in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cling-film-in-an-air-fryer",
+    "description": "Wondering if you can put cling film in an air fryer? Discover why it's unsafe, risks of melting or fire, and safer alternatives for air frying.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T22:38:02.529000+00:00",
+    "dateModified": "2025-07-22T22:38:02.529000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cling-film-in-an-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Can You Put Cling Film in an Air Fryer?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-cling-film-in-an-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>No, you should never put cling film in an air fryer. The intense heat circulating inside an air fryer (typically 160-200°C) will cause standard cling film to melt, potentially releasing harmful chemicals into your food and damaging your appliance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always recommend using materials specifically designed for high-heat cooking when preparing your favourite <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>.</p>

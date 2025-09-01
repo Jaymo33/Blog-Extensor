@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 5 tbsp of chopped onion?"
 description: "Convert 5 tbsp of chopped onion into grams easily with our UK measurement guide. Perfect for air fryer recipes and meal prep accuracy."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-5-tbsp-chopped-onion-2a3087e8.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-chopped-onion.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-chopped-onion",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-chopped-onion"
+    },
+    "headline": "Quick Guide: 5 tbsp chopped onion to grams UK conversion",
+    "description": "Convert 5 tbsp of chopped onion into grams easily with our UK measurement guide. Perfect for air fryer recipes and meal prep accuracy.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-chopped-onion.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use frozen chopped onion instead of fresh for the 5 tbsp measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute frozen chopped onion in the same 5 tbsp (40g) quantity. Frozen onion often comes pre-chopped to a consistent size, making measurements more reliable. Just note that frozen onion releases more moisture during cooking, so you may need to adjust air fryer times slightly or pat it dry before use."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does the gram weight change if I use red onion instead of white?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Red onion is slightly denser than white onion, so 5 tbsp of chopped red onion weighs about 42-45g compared to white onion's 40g. The difference is minimal for most recipes, but for precise measurements like in air fryer baking, it's worth noting. Both types work well in air fryer recipes from our vegetable category."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my 5 tbsp of chopped onion weigh differently each time I measure?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Variations occur due to differences in chop size, onion moisture content, and how tightly you pack the tablespoon. For absolute consistency in air fryer cooking, weighing in grams is best. If using tablespoons, try to chop to a uniform size and use the spoon-and-level method for most accurate results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 5 tbsp (40g) of chopped onion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "There are approximately 16 calories in 40g (5 tbsp) of raw chopped onion. This makes onion a great low-calorie flavour booster for air fryer dishes. When caramelised in the air fryer, the calorie count increases slightly due to oil absorption, but remains a healthy addition to meals."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of chopped onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-chopped-onion",
+    "description": "Convert 5 tbsp of chopped onion into grams easily with our UK measurement guide. Perfect for air fryer recipes and meal prep accuracy.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-chopped-onion#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 5 tbsp of chopped onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-chopped-onion"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 tablespoons (tbsp) of chopped onion is approximately 40 grams (g). This conversion is essential for precise cooking, especially when using an air fryer where ingredient accuracy can affect texture and cooking times. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing the weight ensures consistency.</p>

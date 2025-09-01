@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 20g of minced onion?"
 description: "Learn how to convert 20g of minced onion to ounces for perfect air fryer recipes every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/20g-minced-onion-to-ounces-d681f857.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-minced-onion-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-minced-onion-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-minced-onion-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 20g of minced onion to ounces",
+    "description": "Learn how to convert 20g of minced onion to ounces for perfect air fryer recipes every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-minced-onion-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use dried minced onion instead of fresh for 20g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute dried minced onion for fresh. Use about 2 teaspoons of dried minced onion to replace 20g (0.71 oz) of fresh. However, dried onion has a more concentrated flavour, so adjust to taste. Rehydrate it with a bit of water before adding to air fryer recipes for better texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 20g of minced onion compare to a whole onion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "20g of minced onion is roughly equivalent to about 1/8 of a medium-sized onion. If your recipe calls for a whole onion but you only have minced, use 160g (about 5.6 oz) to match the quantity. This conversion helps when scaling recipes up or down for air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do I need to adjust cooking time when using 20g of minced onion in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Generally, no—20g of minced onion is a small enough quantity that it won’t significantly affect cooking time. However, if you’re adding it to dishes with very short cook times (like air-fried shrimp), mix it in well to ensure even distribution. Larger quantities may require slight adjustments."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze 20g portions of minced onion for later use?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Freezing 20g (0.71 oz) portions of minced onion in small bags or containers makes meal prep easier. When ready to use, thaw it in the fridge or add it directly to your air fryer dish. Frozen minced onion works well in soups, stews, and marinades, though it may be slightly softer when cooked."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of minced onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-minced-onion-to-ounces",
+    "description": "Learn how to convert 20g of minced onion to ounces for perfect air fryer recipes every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-minced-onion-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 20g of minced onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-minced-onion-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>20 grams (20g) of minced onion equals approximately 0.71 ounces (0.71 oz). This conversion is handy when following air fryer recipes that list ingredients in grams but require ounces for precise measuring. Whether you're preparing a quick stir-fry or a slow-cooked dish, knowing this conversion ensures your meals turn out perfectly seasoned every time.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 425 Grams of Pasta?"
 description: "Discover how to convert 425 grams of pasta to cups for perfect air fryer meals every time. Includes UK and US measurements!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-425-grams-of-pasta-7e18de28.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-425-grams-of-pasta.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-pasta",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-pasta"
+    },
+    "headline": "Quick Answer: How Many Cups Is 425 Grams of Pasta?",
+    "description": "Discover how to convert 425 grams of pasta to cups for perfect air fryer meals every time. Includes UK and US measurements!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-425-grams-of-pasta.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of pasta affect how many cups 425 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different pasta shapes have varying densities. For example, 425 grams of spaghetti measures about 4 cups, while penne might be closer to 4.5 cups due to its hollow shape. Always check specific conversions for accuracy in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 425 grams of pasta without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have scales, use the guideline that 100g of dry pasta is roughly 1 cup. For 425 grams, measure out 4 cups plus 2 tablespoons. For shaped pasta like penne, fill the cup lightly without packing it down."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I cook 425 grams of pasta directly in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It's best to pre-boil pasta before air frying, especially for larger quantities like 425 grams. The air fryer works great for finishing dishes like pasta bakes, but boiling ensures even cooking throughout."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many servings does 425 grams of pasta make?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "425 grams of uncooked pasta serves about 4-6 people, depending on portion size. When cooked, it roughly doubles in volume. For air fryer meals, this quantity works well for family dinners or meal prep."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 425 Grams of Pasta?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-pasta",
+    "description": "Discover how to convert 425 grams of pasta to cups for perfect air fryer meals every time. Includes UK and US measurements!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-pasta#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 425 Grams of Pasta?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-pasta"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>425 grams of pasta is roughly equivalent to 4.25 cups when measured uncooked. This conversion can vary slightly depending on the pasta shape, but it's a reliable starting point for recipes. If you're using an air fryer for pasta dishes, knowing this measurement ensures perfect portions every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>  

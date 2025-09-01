@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 860 ml of Water?"
 description: "Discover how to convert 860 ml of water to cups for perfect air fryer recipes every time. Get precise measurements for UK and US cups."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-860-ml-of-water-d10c8980.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-water.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-water",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-water"
+    },
+    "headline": "Quick Answer: How Many Cups Is 860 ml of Water?",
+    "description": "Discover how to convert 860 ml of water to cups for perfect air fryer recipes every time. Get precise measurements for UK and US cups.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-water.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 860 ml of water the same as 3.5 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 860 ml of water is slightly more than 3.5 cups. In the UK, it's approximately 3.63 cups, and in the US, it's about 3.64 cups. For air fryer recipes, this small difference can impact texture, so it's best to measure precisely."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a regular mug to measure 860 ml of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can use a mug, sizes vary widely. A standard UK mug holds around 300 ml, so 860 ml would be just under 3 mugs. For accuracy, we recommend using a measuring cup or kitchen scale for air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK and US cup measurements differ for 860 ml of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The UK uses a 284 ml cup, while the US uses a 240 ml cup. This means 860 ml converts to slightly different values in each system. Always check which standard your air fryer recipe follows to avoid errors."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 860 ml of water affect air fryer cooking times?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Too much or too little water can alter cooking times. For example, 860 ml of water in a steam-based dish may require longer cooking than a drier recipe. Always follow your air fryer's guidelines and adjust as needed for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 860 ml of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-water",
+    "description": "Discover how to convert 860 ml of water to cups for perfect air fryer recipes every time. Get precise measurements for UK and US cups.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-water#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 860 ml of Water?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-water"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>860 ml of water equals approximately 3.63 cups in the UK or 3.64 cups in the US. This conversion is essential for air fryer recipes where precise liquid measurements can make or break your dish. Whether you're preparing a cake, sauce, or marinade, knowing how to convert 860 ml of water to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results from your air fryer with accurate measurements.</p>

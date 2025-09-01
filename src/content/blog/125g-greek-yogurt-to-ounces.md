@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 125g of greek yogurt?"
 description: "Convert 125g of greek yogurt to ounces in seconds with our easy measurement guide. Perfect for air fryer recipes and meal prep."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/125g-greek-yogurt-to-ounces-d762d70e.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-greek-yogurt-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-greek-yogurt-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-greek-yogurt-to-ounces"
+    },
+    "headline": "Quick 125g greek yogurt to ounces conversion guide",
+    "description": "Convert 125g of greek yogurt to ounces in seconds with our easy measurement guide. Perfect for air fryer recipes and meal prep.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-greek-yogurt-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use regular yogurt instead of greek yogurt in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can substitute regular yogurt, greek yogurt's thicker consistency works better in air fryer recipes. If using regular yogurt, reduce the quantity by about 25% as it's more watery. For 125g (4.41oz) of greek yogurt, you'd use about 95g (3.35oz) of regular yogurt."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 125g of greek yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The calorie content depends on the fat content. Full-fat greek yogurt contains about 130-150 calories per 125g (4.41oz), while low-fat versions have about 80-100 calories. Always check the nutritional information on your specific brand for accurate details."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze 125g portions of greek yogurt for later use?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can freeze greek yogurt in 125g portions, though the texture may become slightly grainy after thawing. It's best used in cooked dishes like marinades or baking after freezing. Thaw in the fridge overnight before use for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best way to measure 125g of greek yogurt without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, you can use measuring spoons - 125g (4.41oz) is approximately 8 level tablespoons of greek yogurt. Alternatively, it's roughly half a standard UK small pot (250g) of yogurt. For most accurate results in air fryer recipes, we recommend investing in digital scales."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of greek yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-greek-yogurt-to-ounces",
+    "description": "Convert 125g of greek yogurt to ounces in seconds with our easy measurement guide. Perfect for air fryer recipes and meal prep.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-greek-yogurt-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 125g of greek yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-greek-yogurt-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125g of greek yogurt equals approximately 4.41 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when following American or UK recipes that use different measurement systems. Whether you're making a healthy breakfast or a creamy sauce for your air fryer chicken, knowing this conversion will ensure perfect results every time.</p>

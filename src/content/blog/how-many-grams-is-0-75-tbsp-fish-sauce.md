@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 0.75 tbsp of fish sauce?"
 description: "Discover how to convert 0.75 tbsp of fish sauce to grams for precise air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-75-tbsp-fish-sauce-2507d517.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-fish-sauce.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-fish-sauce",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-fish-sauce"
+    },
+    "headline": "Quick Answer: 0.75 tbsp fish sauce to grams conversion",
+    "description": "Discover how to convert 0.75 tbsp of fish sauce to grams for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-fish-sauce.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use a regular spoon to measure 0.75 tbsp of fish sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can use a regular spoon, it's not ideal for accuracy. A proper measuring spoon ensures you get exactly 0.75 tbsp (11.25g). If you must use a regular spoon, fill it about three-quarters full, but for best results in air fryer cooking, invest in proper measuring tools."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the brand of fish sauce affect the gram measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Different brands can vary slightly in density, but the difference is minimal for home cooking. Most fish sauces will weigh approximately 15g per tablespoon, making 0.75 tbsp about 11.25g. For absolute precision in air fryer recipes, weighing is always best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store fish sauce after measuring out 0.75 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Fish sauce should be stored in a cool, dark place with the lid tightly sealed. It doesn't require refrigeration, though some prefer to chill it. The high salt content acts as a natural preservative, keeping it fresh for months after opening."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute fish sauce with something else in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have fish sauce, you can use soy sauce or Worcestershire sauce, but adjust quantities as they have different salt levels. For vegetarian options, try mushroom sauce or a mix of soy sauce and a pinch of seaweed flakes to mimic the umami flavour."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of fish sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-fish-sauce",
+    "description": "Discover how to convert 0.75 tbsp of fish sauce to grams for precise air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-fish-sauce#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 0.75 tbsp of fish sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-fish-sauce"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.75 tbsp of fish sauce equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or seasoning seafood, knowing the exact weight ensures consistent results every time. Fish sauce adds a rich umami flavour, and getting the quantity right is key. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for more inspiration.</p>

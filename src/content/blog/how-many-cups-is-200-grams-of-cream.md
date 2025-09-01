@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 200 Grams of Cream?"
 description: "Discover how to convert 200 grams of cream to cups for perfect baking and cooking every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-200-grams-of-cream-aca2ae13.png"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-cream.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 200 Grams of Cream?",
+    "description": "Discover how to convert 200 grams of cream to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:31:11.920000+00:00",
+    "dateModified": "2025-07-26T21:31:11.920000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-cream.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 200 grams of cream the same as 200ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 200 grams of cream is not the same as 200ml. Cream is denser than water, so 200 grams will be slightly less in volume. For most creams, 200 grams equals about 0.85 cups or roughly 190ml. Always check the specific type of cream for precise conversions."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring cup for 200 grams of cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use a measuring cup for 200 grams of cream, but it's less accurate than weighing. 200 grams is approximately 0.85 cups. For best results, use a kitchen scale, especially in baking where precision matters. If using cups, level off the cream for consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of cream affect the conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the type of cream can slightly affect the conversion. Heavy cream and double cream are denser than lighter creams, but the difference is minimal for most recipes. For 200 grams, the cup measurement will still be close to 0.85 cups regardless of the cream type."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 200 grams of cream without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, you can use a measuring cup to approximate 200 grams of cream. Fill the cup to just under 7/8 full (about 0.85 cups). For better accuracy, use a liquid measuring cup and ensure the cream is at room temperature to avoid density variations."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 200 Grams of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-cream",
+    "description": "Discover how to convert 200 grams of cream to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:31:11.920000+00:00",
+    "dateModified": "2025-07-26T21:31:11.920000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 200 Grams of Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>200 grams of cream is roughly equivalent to 0.85 cups. This conversion is essential for anyone using recipes that list ingredients in grams but prefer measuring with cups. Whether you're whipping up a dessert or preparing a savoury dish in your air fryer, knowing this conversion ensures accuracy and delicious results.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 1000g of agave syrup?"
 description: "Discover how to convert 1000g of agave syrup to ounces with our easy guide. Perfect for air fryer recipes and precise measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-1000g-of-agave-syrup-fe4690aa.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-agave-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-agave-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-agave-syrup"
+    },
+    "headline": "Quickly Convert 1000g of Agave Syrup to Ounces (UK)",
+    "description": "Discover how to convert 1000g of agave syrup to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-agave-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 1000g of agave syrup the same as 35.27 ounces in the UK?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 1000g of agave syrup is approximately 35.27 ounces in the UK. This conversion is based on the standard metric-to-imperial measurement, where 1 gram equals 0.03527 ounces. It's a precise measurement for recipes, especially in air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring cup instead of a scale for 1000g of agave syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While a scale is more accurate, you can use a measuring cup for agave syrup. 1000g (35.27 ounces) is roughly 1.25 cups, but this can vary slightly due to density. For best results in air fryer recipes, a digital scale is recommended."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does agave syrup affect air fryer cooking times?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Agave syrup can caramelise quickly in an air fryer due to its high sugar content. When using 1000g (35.27 ounces), monitor cooking times closely to prevent burning. Reducing the temperature slightly may help achieve even cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Where can I find air fryer recipes using agave syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You’ll find plenty of recipes using agave syrup on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>. From desserts to glazes, our collection includes creative ways to use this sweetener in your air fryer. Check out the dessert or breakfast categories for inspiration."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of agave syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-agave-syrup",
+    "description": "Discover how to convert 1000g of agave syrup to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-agave-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 1000g of agave syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-agave-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1000g of agave syrup equals approximately 35.27 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making desserts or marinades, knowing how to convert grams to ounces is a handy skill. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

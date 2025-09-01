@@ -1,12 +1,195 @@
 ---
 title: "484 F to Fan Oven"
 description: "Convert 484 F to fan oven settings easily with our simple guide. Achieve perfect results every time with accurate temperature conversions for your recipes."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/484-f-to-fan-oven-6f1770bd.png"
+pubDate: 2025-07-23T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/484-f-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/484-f-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/484-f-to-fan-oven"
+    },
+    "headline": "Quick 484 F to Fan Oven Conversion Guide for Perfect Cooking",
+    "description": "Convert 484 F to fan oven settings easily with our simple guide. Achieve perfect results every time with accurate temperature conversions for your recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-23T17:04:24.107000+00:00",
+    "dateModified": "2025-07-23T17:04:24.107000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/484-f-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 484 F to Celsius for a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "484 F converts to approximately 250 C in a conventional oven, but for a fan oven you should reduce this by 20-25 degrees. The ideal fan oven temperature for 484 F would be about 225-230 C, depending on your specific oven model and recipe requirements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the same cooking time when converting 484 F to fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, fan ovens typically cook faster than conventional ovens at the same temperature. When converting 484 F to fan oven settings (about 225-230 C), you should reduce the cooking time by about 10-15%. Always check your food a few minutes early to prevent overcooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 484 F too high for an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most air fryers can handle 484 F (250 C), but it's at the upper end of their temperature range. For best results, reduce to about 230 C and monitor cooking closely. High temperatures are great for crisping but can burn food quickly in an air fryer's concentrated heat."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What types of food cook best at 484 F in a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "484 F (converted to about 225-230 C fan) is ideal for foods that benefit from quick, high-heat cooking. This includes roasted meats, crispy potatoes, pizza, and vegetables like Brussels sprouts. The high temperature creates excellent browning while keeping interiors moist."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "484 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/484-f-to-fan-oven",
+    "description": "Convert 484 F to fan oven settings easily with our simple guide. Achieve perfect results every time with accurate temperature conversions for your recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-23T17:04:24.107000+00:00",
+    "dateModified": "2025-07-23T17:04:24.107000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/484-f-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "484 F to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/484-f-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <h2>Understanding 484 F to Fan Oven Conversion</h2>

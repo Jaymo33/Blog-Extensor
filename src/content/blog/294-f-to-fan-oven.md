@@ -1,12 +1,195 @@
 ---
 title: "294 F to Fan Oven"
 description: "Learn how to convert 294 F to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/294-f-to-fan-oven-9b158e80.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/294-f-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/294-f-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/294-f-to-fan-oven"
+    },
+    "headline": "294 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 294 F to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T19:02:28.332000+00:00",
+    "dateModified": "2025-07-21T19:02:28.332000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/294-f-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How does 294 F compare to gas mark temperatures?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "294 F equates to Gas Mark 1 on the UK scale. However, fan ovens don't use gas marks, so you'd convert 294 F to 140 C first, then reduce by 20 C for fan mode, resulting in 120 C fan equivalent."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 294 F conversion for all air fryer models?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most air fryers handle 294 F (140 C fan) conversions well, but basket-style models may require 5-10 C lower temperatures than oven-style units due to more intense air circulation. Always check your manufacturer's guidelines."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my food cook faster at 294 F in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate heat more efficiently than conventional ovens, reducing cooking times by up to 30%. At 294 F equivalent (120 C fan), foods brown quickly while staying moist inside. Reduce cooking times by 20% initially when converting recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best way to check 294 F accuracy in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Place an oven thermometer in your air fryer basket and run it at 140 C (294 F equivalent) for 5 minutes. If readings differ by more than 10 C, adjust your temperature settings accordingly or contact the manufacturer for calibration advice."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "294 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/294-f-to-fan-oven",
+    "description": "Learn how to convert 294 F to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T19:02:28.332000+00:00",
+    "dateModified": "2025-07-21T19:02:28.332000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/294-f-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "294 F to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/294-f-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>294 F converts to approximately 140 C in a fan oven. This temperature is ideal for slow-cooking meats, baking delicate desserts, or dehydrating fruits in your air fryer. Understanding this conversion helps you adapt recipes from American cookbooks or older appliances to modern fan-assisted cooking.</p>

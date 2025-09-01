@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 250 Grams of Potatoes?"
 description: "Discover how to convert 250 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-250-grams-of-potatoes-58813d20.png"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-potatoes.png"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-potatoes",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Cups Is 250 Grams of Potatoes?",
+    "description": "Discover how to convert 250 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:31:12.248000+00:00",
+    "dateModified": "2025-07-26T21:31:12.248000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-potatoes.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How many cups is 250 grams of mashed potatoes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "250 grams of mashed potatoes is roughly 1 to 1.25 cups, depending on how much liquid or butter is added. Mashed potatoes are denser than chopped or diced potatoes, so the volume is slightly less. Always measure after mashing for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of potato affect the cup measurement for 250 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the type of potato can slightly affect the measurement. For example, 250 grams of dense russet potatoes may be closer to 1.5 cups when diced, while lighter red potatoes could fill closer to 2 cups. Always consider the variety when converting grams to cups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use frozen potatoes to measure 250 grams in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but frozen potatoes may have a different density due to ice crystals. Thaw and drain them first for an accurate measurement. 250 grams of thawed frozen potatoes is roughly 1.5 to 2 cups, similar to fresh potatoes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust air fryer cooking times for 250 grams of potatoes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For 250 grams of potatoes (about 1.5 to 2 cups), cook at 200°C for 15-20 minutes, shaking the basket halfway. Adjust time based on the cut size—thinner fries cook faster than wedges. Always check for crispiness before serving."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 250 Grams of Potatoes?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-potatoes",
+    "description": "Discover how to convert 250 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:31:12.248000+00:00",
+    "dateModified": "2025-07-26T21:31:12.248000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-potatoes#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 250 Grams of Potatoes?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-potatoes"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>250 grams of potatoes is roughly equivalent to 1.5 to 2 cups, depending on how finely they are chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can affect cooking times and results. Whether you're making crispy fries or roasted potatoes, knowing how many cups 250 grams of potatoes equals ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>

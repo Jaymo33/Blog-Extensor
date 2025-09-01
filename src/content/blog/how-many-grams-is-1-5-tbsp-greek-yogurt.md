@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1.5 tbsp of greek yogurt?"
 description: "Convert 1.5 tbsp of greek yogurt into grams easily with our precise UK measurement guide for perfect air fryer recipes."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-5-tbsp-greek-yogurt-99640302.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-greek-yogurt.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-greek-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-greek-yogurt"
+    },
+    "headline": "Quick Answer: 1.5 tbsp of greek yogurt to grams UK",
+    "description": "Convert 1.5 tbsp of greek yogurt into grams easily with our precise UK measurement guide for perfect air fryer recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-greek-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use regular yogurt instead of greek yogurt in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but adjust the quantity. Regular yogurt is thinner, so use 1.25 tbsp (about 18.75g) to match the thickness of 1.5 tbsp (22.5g) of greek yogurt. Drain excess liquid if needed for marinades or dips."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe taste off when I eyeball 1.5 tbsp of greek yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Eyeballing can lead to uneven measurements—too much yogurt adds excess moisture, while too little dulls flavours. For consistent results, weigh 22.5g or use proper measuring spoons."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 1.5 tbsp of greek yogurt to grams for a large batch recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Multiply 22.5g by your batch size. For 4 servings, you’d need 90g (4 x 1.5 tbsp). A kitchen scale ensures accuracy, especially for meal prep or baked goods."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 1.5 tbsp of greek yogurt the same in US and UK measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "UK and US tablespoons both hold 15ml, so 1.5 tbsp equals 22.5g in both. However, always check recipe origins, as some US recipes use cups instead of grams."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of greek yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-greek-yogurt",
+    "description": "Convert 1.5 tbsp of greek yogurt into grams easily with our precise UK measurement guide for perfect air fryer recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-greek-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1.5 tbsp of greek yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-greek-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 tablespoons (tbsp) of greek yogurt equals approximately 22.5 grams in UK measurements. This conversion is essential for air fryer recipes where precision ensures the best texture and consistency. Whether you’re making dips, marinades, or baked goods, knowing the exact weight saves time and avoids kitchen mishaps.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 2 cups of rice flour?"
 description: "Discover how to convert 2 cups of rice flour to ounces for perfect air fryer recipes. Get accurate measurements every time!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-2-cups-of-rice-flour-a0555686.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-rice-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice-flour"
+    },
+    "headline": "Quick Answer: How Many Ounces in 2 Cups of Rice Flour?",
+    "description": "Discover how to convert 2 cups of rice flour to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-rice-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2 cups of rice flour the same as 2 cups of all-purpose flour in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, rice flour is lighter than all-purpose flour. While 2 cups of all-purpose flour weigh around 9 ounces, 2 cups of rice flour weigh approximately 9.6 ounces. The difference may seem small, but it can affect recipes, especially in air fryer baking where precision matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a UK measuring cup for 2 cups of rice flour to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but ensure your cup measures 240ml (the UK standard). US cups are slightly smaller at 237ml, which could lead to minor discrepancies. For accuracy, weigh your rice flour—9.6 ounces (272g) for 2 cups—or use a conversion chart tailored to your region."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe with rice flour turn out too dry?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Rice flour absorbs more liquid than wheat flour. If your recipe calls for 2 cups of rice flour (9.6 ounces), you may need to add extra moisture, like an additional egg or a tablespoon of oil. Experiment with small batches to find the right balance for your air fryer."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 2 cups of rice flour to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "2 cups of rice flour equal roughly 272 grams. If your recipe uses metric measurements, a kitchen scale is the easiest way to ensure accuracy. For air fryer recipes, especially coatings or batters, grams provide more precision than volume measurements."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of rice flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice-flour",
+    "description": "Discover how to convert 2 cups of rice flour to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 2 cups of rice flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2 cups of rice flour equals approximately 9.6 ounces (or 272 grams). Whether you're baking gluten-free treats or experimenting with air fryer recipes, accurate measurements are key. Rice flour is a staple in many kitchens, especially for those avoiding wheat, and knowing its weight ensures consistent results.</p>

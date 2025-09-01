@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 710 ml of Olive Oil?"
 description: "Learn how to convert 710 ml of olive oil to cups for perfect air fryer recipes every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-710-ml-of-olive-oil-acb137eb.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-olive-oil.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-olive-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 710 ml of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 710 ml of olive oil to cups for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-olive-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 710 ml of olive oil the same as 3 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 710 ml of olive oil is approximately 3 cups (2.997 cups precisely). This conversion works for both UK and US recipes, though slight variations exist due to cup sizes. For air fryer cooking, using 240 ml per cup ensures consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use vegetable oil instead of olive oil in the same quantity?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute vegetable oil for olive oil in a 1:1 ratio, including 710 ml (3 cups). However, olive oil has a distinct flavour and smoke point, which may affect taste and cooking time. Adjust seasonings accordingly for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 710 ml of olive oil without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a standard 240 ml cup: fill it three times, leaving a small gap at the top for accuracy. Alternatively, 47 tablespoons (15 ml each) will also give you 710 ml. This method is handy for air fryer recipes requiring precise oil amounts."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does olive oil measurement change for air fryer vs. oven cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 710 ml of olive oil remains the same volume regardless of cooking method. However, air fryers require less oil overall due to their efficient circulation. For oven recipes, you might need slightly more oil to achieve similar results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 710 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-olive-oil",
+    "description": "Learn how to convert 710 ml of olive oil to cups for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-olive-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 710 ml of Olive Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-olive-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>710 ml of olive oil equals approximately 3 cups (2.997 cups to be precise). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're drizzling oil over veggies or mixing it into a batter, knowing the exact amount ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail these conversions effortlessly.</p>

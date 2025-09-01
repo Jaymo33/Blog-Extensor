@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 400 Grams of Potatoes?"
 description: "Find out how to convert 400 grams of potatoes to cups for perfect air fryer recipes every time. Get the exact measurement now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-400-grams-of-potatoes-c2f88b38.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-potatoes.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-potatoes",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Cups Is 400 Grams of Potatoes?",
+    "description": "Find out how to convert 400 grams of potatoes to cups for perfect air fryer recipes every time. Get the exact measurement now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-potatoes.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 400 grams of frozen potatoes instead of fresh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use frozen potatoes, but the cup measurement may vary slightly due to ice content. Thaw and pat them dry before measuring to get the most accurate result. Frozen potatoes work well in air fryer recipes, but adjust cooking times as they may release more moisture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many medium potatoes equal 400 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Two medium-sized potatoes typically weigh around 400 grams. If you don’t have a scale, this is a handy rule of thumb. Just remember that sizes can vary, so if your potatoes are particularly large or small, adjust accordingly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does peeling potatoes affect the cup measurement for 400 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Peeling potatoes reduces their weight slightly, but the difference in cup measurement is minimal. Whether peeled or unpeeled, 400 grams of potatoes will still roughly equal 2.5 to 3 cups when chopped."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute sweet potatoes for regular potatoes in this measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Sweet potatoes have a similar density, so 400 grams will also be around 2.5 to 3 cups when chopped. However, cooking times may differ slightly in the air fryer, so keep an eye on them to avoid overcooking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Potatoes?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-potatoes",
+    "description": "Find out how to convert 400 grams of potatoes to cups for perfect air fryer recipes every time. Get the exact measurement now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-potatoes#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 400 Grams of Potatoes?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-potatoes"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>400 grams of potatoes is roughly equivalent to 2.5 to 3 cups, depending on how finely they are chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy fries, roasted potatoes, or a hearty bake, knowing how many cups 400 grams of potatoes yields ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>

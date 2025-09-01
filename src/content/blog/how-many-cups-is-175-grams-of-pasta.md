@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 175 Grams of Pasta"
 description: "Find out exactly how many cups 175 grams of pasta equals for perfect air fryer meals every time. Includes UK and US conversions!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-175-grams-of-pasta-45910f8c.png"
+pubDate: 2025-07-25T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-pasta.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-pasta",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-pasta"
+    },
+    "headline": "Quick Answer: How Many Cups Is 175 Grams of Pasta?",
+    "description": "Find out exactly how many cups 175 grams of pasta equals for perfect air fryer meals every time. Includes UK and US conversions!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-25T23:55:27.950000+00:00",
+    "dateModified": "2025-07-25T23:55:27.950000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-pasta.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 175 grams of pasta double in size when cooked?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, pasta typically doubles in volume when cooked. 175 grams of dry pasta (about 1.75 cups) will yield roughly 3.5 cups cooked. This is useful for meal prep or portioning air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 175 grams of pasta without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a measuring cup: 175 grams is roughly 1.75 cups of dry pasta. For long pasta, a bundle the diameter of a £1 coin plus half again will approximate 175 grams. Adjust slightly for larger or smaller shapes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 175 grams of pasta enough for two people?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It depends on the dish. For a light meal or side, 175 grams can serve two. For a main course, you might want 100–125 grams per person. Air fryer pasta bakes are filling, so 175 grams can stretch further with added veggies or protein."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I cook 175 grams of pasta directly in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most pasta needs boiling first, but some recipes use soaked or no-boil pasta in air fryer bakes. Check recipes like our <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer pasta dishes</a> for methods that skip the stovetop. Always add a bit of liquid to prevent drying out."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Pasta",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-pasta",
+    "description": "Find out exactly how many cups 175 grams of pasta equals for perfect air fryer meals every time. Includes UK and US conversions!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-25T23:55:27.950000+00:00",
+    "dateModified": "2025-07-25T23:55:27.950000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-pasta#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 175 Grams of Pasta",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-pasta"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>175 grams of pasta is approximately 1.75 cups, though this can vary slightly depending on the pasta shape and density. Whether you’re prepping for an air fryer pasta bake or a quick stir-fry, getting the measurements right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting traditional recipes for your air fryer.</p>  

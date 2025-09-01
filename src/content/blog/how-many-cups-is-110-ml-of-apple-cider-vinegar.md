@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 110 ml of Apple Cider Vinegar?"
 description: "Convert 110 ml of apple cider vinegar to cups in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-110-ml-of-apple-cider-vinegar-1eca6bd0.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-110-ml-of-apple-cider-vinegar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-apple-cider-vinegar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-apple-cider-vinegar"
+    },
+    "headline": "Quick Conversion: 110 ml of Apple Cider Vinegar to Cups",
+    "description": "Convert 110 ml of apple cider vinegar to cups in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-110-ml-of-apple-cider-vinegar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use white vinegar instead of apple cider vinegar in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute white vinegar for apple cider vinegar, but the flavour will be sharper and less fruity. Use the same measurement—110 ml (0.46 cups)—for a similar acidity level. Apple cider vinegar adds a milder, slightly sweet taste, so adjust other seasonings accordingly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 110 ml of apple cider vinegar without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring jug, use tablespoons. Since 1 tablespoon is 15 ml, 7 tablespoons plus 1 teaspoon will give you roughly 110 ml (0.46 cups). For even more precision, a kitchen scale set to grams can also help, as 110 ml of apple cider vinegar weighs about 115 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does apple cider vinegar affect the cooking time in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Apple cider vinegar itself doesn’t significantly alter cooking times, but it can impact marinades or glazes. For example, a 110 ml (0.46 cups) vinegar-based marinade might require less time than a dairy-based one due to its acidity. Always follow your recipe’s recommended air fryer settings for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 110 ml of apple cider vinegar the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 110 ml of apple cider vinegar is the same volume in both the UK and US—approximately 0.46 cups. However, cup sizes can vary slightly between countries, so for absolute precision, stick to metric measurements or use a conversion chart like the one on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 110 ml of Apple Cider Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-apple-cider-vinegar",
+    "description": "Convert 110 ml of apple cider vinegar to cups in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-apple-cider-vinegar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 110 ml of Apple Cider Vinegar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-apple-cider-vinegar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>110 ml of apple cider vinegar is approximately 0.46 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you're marinating chicken or whipping up a tangy sauce, knowing how to convert 110 ml of apple cider vinegar to cups ensures consistency in your recipes.</p>

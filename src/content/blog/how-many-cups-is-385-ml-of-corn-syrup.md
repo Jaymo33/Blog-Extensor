@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 385 ml of Corn Syrup?"
 description: "Learn how to convert 385 ml of corn syrup to cups for perfect baking and air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-385-ml-of-corn-syrup-1abf7cd1.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-corn-syrup.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-corn-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-corn-syrup"
+    },
+    "headline": "Quick Guide: Convert 385 ml of Corn Syrup to Cups Easily",
+    "description": "Learn how to convert 385 ml of corn syrup to cups for perfect baking and air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-corn-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 385 ml of corn syrup the same as 385 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 385 ml of corn syrup is not the same as 385 grams. Due to its density, 385 ml of corn syrup weighs approximately 515 grams. Always use a kitchen scale for precise measurements, especially in baking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute golden syrup for corn syrup in a 385 ml measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute golden syrup for corn syrup in equal amounts (385 ml for 385 ml). However, golden syrup has a stronger flavour, which might alter the taste of your dish slightly. Adjust other sweeteners if needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I clean my air fryer after using 385 ml of corn syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "After using sticky ingredients like corn syrup, wipe your air fryer basket with warm, soapy water immediately. For stubborn residue, soak the basket and use a soft sponge. Avoid abrasive cleaners to prevent damage."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my recipe call for 385 ml of corn syrup instead of sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Corn syrup prevents crystallisation, giving desserts a smooth texture. It also adds moisture, which is ideal for chewy baked goods. If substituting sugar, you may need to adjust liquids in the recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 385 ml of Corn Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-corn-syrup",
+    "description": "Learn how to convert 385 ml of corn syrup to cups for perfect baking and air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-corn-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 385 ml of Corn Syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-corn-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>385 ml of corn syrup equals approximately 1.63 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a dessert or a glaze, knowing how to measure 385 ml of corn syrup in cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless results every time.</p>  

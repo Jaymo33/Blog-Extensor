@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 660 ml of Apple Cider Vinegar?"
 description: "Discover how to convert 660 ml of apple cider vinegar to cups for precise cooking and baking in your air fryer. Get the answer in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-660-ml-of-apple-cider-vinegar-baf1b812.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-apple-cider-vinegar.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-apple-cider-vinegar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-apple-cider-vinegar"
+    },
+    "headline": "Quick Conversion: How Many Cups Is 660 ml of Apple Cider Vinegar?",
+    "description": "Discover how to convert 660 ml of apple cider vinegar to cups for precise cooking and baking in your air fryer. Get the answer in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-apple-cider-vinegar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 660 ml of apple cider vinegar the same as 660 ml of water in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 660 ml of apple cider vinegar equals the same volume in cups as water—approximately 2.79 cups. While their weights differ slightly due to density, the cup measurement remains consistent for liquids in cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a regular drinking cup to measure 660 ml of apple cider vinegar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It’s best to use a standard measuring cup for accuracy, as drinking cups vary in size. A proper measuring cup ensures you get the correct 2.79 cups for 660 ml, which is crucial for air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 660 ml of apple cider vinegar without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a measuring cup, use a kitchen scale. Since 660 ml of apple cider vinegar weighs about 693 grams, you can weigh it out. Alternatively, use a tablespoon (15 ml) and measure 44 tablespoons."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for 660 ml of apple cider vinegar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes may use 660 ml (2.79 cups) of apple cider vinegar for marinades, pickling, or sauces, as its acidity tenderises meat and adds flavour. Always measure accurately to avoid overpowering or underwhelming results in your air fryer dishes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 660 ml of Apple Cider Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-apple-cider-vinegar",
+    "description": "Discover how to convert 660 ml of apple cider vinegar to cups for precise cooking and baking in your air fryer. Get the answer in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-apple-cider-vinegar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 660 ml of Apple Cider Vinegar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-apple-cider-vinegar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>660 ml of apple cider vinegar equals approximately 2.79 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where ingredient ratios matter. Whether you're marinating chicken or whipping up a tangy glaze, knowing the exact measurement ensures perfect results every time.</p>  

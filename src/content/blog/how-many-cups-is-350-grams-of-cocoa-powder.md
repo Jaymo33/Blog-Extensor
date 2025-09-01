@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 350 Grams of Cocoa Powder"
 description: "Learn how to convert 350 grams of cocoa powder to cups for perfect baking results every time. Includes UK and US measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-350-grams-of-cocoa-powder-a9d57db9.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-cocoa-powder.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cocoa-powder",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cocoa-powder"
+    },
+    "headline": "Quick Guide: Convert 350 Grams of Cocoa Powder to Cups Easily",
+    "description": "Learn how to convert 350 grams of cocoa powder to cups for perfect baking results every time. Includes UK and US measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-cocoa-powder.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 350 grams of cocoa powder the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 350 grams of cocoa powder equals about 3.5 cups in the UK and 2.8 cups in the US due to differing cup sizes. Always check which measurement system your recipe uses for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a regular measuring cup for cocoa powder?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but spoon the cocoa powder into the cup and level it off—don’t scoop directly from the bag. For best results, use a kitchen scale to weigh 350 grams precisely."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my cocoa powder measurement seem off?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cocoa powder can compact if scooped or packed too tightly, leading to inaccurate measurements. Always use the spoon-and-level method or weigh it for consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust air fryer baking times for cocoa-based recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook faster, so reduce baking times by 20-30% and check early. For cocoa-heavy recipes like brownies, start checking at the 10-minute mark to avoid overbaking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 350 Grams of Cocoa Powder",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cocoa-powder",
+    "description": "Learn how to convert 350 grams of cocoa powder to cups for perfect baking results every time. Includes UK and US measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cocoa-powder#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 350 Grams of Cocoa Powder",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cocoa-powder"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>350 grams of cocoa powder is roughly equivalent to 3.5 cups in the UK and 2.8 cups in the US. This conversion is essential for precise baking, especially when using an air fryer for cakes, brownies, or other cocoa-based recipes. Getting the measurement right ensures your desserts turn out perfectly every time.</p>  

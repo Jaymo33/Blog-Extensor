@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 1.5 cups of jam?"
 description: "Discover how to convert 1.5 cups of jam to ounces with our easy guide—perfect for air fryer recipes and precise measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-1-5-cups-of-jam-bad839ac.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-jam.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-jam",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-jam"
+    },
+    "headline": "Quick Answer: How many ounces is 1.5 cups of jam?",
+    "description": "Discover how to convert 1.5 cups of jam to ounces with our easy guide—perfect for air fryer recipes and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-jam.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of jam affect the weight of 1.5 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, thicker jams like marmalade or fruit preserves may weigh slightly more per cup than runnier jams. For absolute accuracy, weighing your jam with a kitchen scale is best, especially in air fryer cooking where consistency matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use grams instead of ounces for measuring jam?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 1.5 cups of jam is roughly 340 grams. Many kitchen scales switch between ounces and grams, making it easy to measure jam for international recipes or precise air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 1.5 cups of jam for a smaller air fryer batch?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Simply halve or quarter the measurement—0.75 cups would be 6 oz, and 0.375 cups would be 3 oz. Air fryers excel at smaller portions, so adjusting jam quantities ensures perfect results without waste."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my jam glaze burn in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook quickly, and sugary jams can caramelise or burn if applied too thickly. Brush a thin, even layer and check frequently. Reducing temperature slightly (by 10°C) can also help prevent burning."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of jam?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-jam",
+    "description": "Discover how to convert 1.5 cups of jam to ounces with our easy guide—perfect for air fryer recipes and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-jam#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 1.5 cups of jam?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-jam"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 cups of jam equals approximately 12 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a dessert or glazing meats, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is when cooking with an air fryer.</p>

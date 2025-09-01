@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 200g of fish sauce?"
 description: "Find out exactly how many ounces 200g of fish sauce equals with our simple UK conversion guide. Perfect for air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-200g-fish-sauce-7f4c8171.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-fish-sauce.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-fish-sauce",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-fish-sauce"
+    },
+    "headline": "Quick Answer: How Many Ounces is 200g of Fish Sauce?",
+    "description": "Find out exactly how many ounces 200g of fish sauce equals with our simple UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-fish-sauce.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use a tablespoon to measure 200g of fish sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While possible, it’s not the most accurate method. One tablespoon of fish sauce weighs about 15g, so 200g would require roughly 13 tablespoons. For precision, a kitchen scale is best—200g equals 7.05 ounces."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does fish sauce weigh the same as water in grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, fish sauce is slightly denser than water. While 200ml of water weighs 200g, fish sauce may weigh slightly more due to its salt and protein content. Always weigh it for accurate measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 200g of fish sauce last once opened?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "An opened 200g (7.05 oz) bottle of fish sauce can last up to a year if refrigerated. Its high salt content acts as a natural preservative, but always check for off smells or discolouration before use."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute soy sauce for fish sauce in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but the flavour profile will differ. Soy sauce is saltier and lacks the umami depth of fish sauce. If substituting, use slightly less—around 150g (5.3 oz) of soy sauce for 200g (7.05 oz) of fish sauce."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of fish sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-fish-sauce",
+    "description": "Find out exactly how many ounces 200g of fish sauce equals with our simple UK conversion guide. Perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-fish-sauce#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 200g of fish sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-fish-sauce"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>200g of fish sauce equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a marinade or adding depth to a stir-fry, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking.</p>  

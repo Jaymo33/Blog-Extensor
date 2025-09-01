@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 2.5 tbsp of breadcrumbs?"
 description: "Convert 2.5 tbsp of breadcrumbs into grams for perfect air fryer recipes. Get precise measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-5-tbsp-breadcrumbs-3ca39d9f.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-breadcrumbs.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-breadcrumbs",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-breadcrumbs"
+    },
+    "headline": "Quick Answer: 2.5 tbsp of breadcrumbs to grams UK",
+    "description": "Convert 2.5 tbsp of breadcrumbs into grams for perfect air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-breadcrumbs.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of breadcrumb affect the weight of 2.5 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different breadcrumb varieties have slightly different weights. Standard dry breadcrumbs weigh about 7g per tablespoon (so 18g for 2.5 tbsp), while panko breadcrumbs are lighter at approximately 6g per tablespoon (15g for 2.5 tbsp). Fresh breadcrumbs are heavier, weighing around 10g per tablespoon."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 2.5 tbsp of breadcrumbs for gluten-free air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Gluten-free breadcrumbs work well in air fryers and have a similar weight - about 7g per tablespoon (18g for 2.5 tbsp). You might need to add a bit more oil spray as gluten-free coatings can be drier. They crisp up beautifully and are perfect for coating chicken or fish."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 2.5 tbsp breadcrumbs to grams if my recipe uses cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "There are 16 tablespoons in a cup, so 2.5 tbsp equals about 1/6 cup. In grams, this is approximately 18g for standard breadcrumbs. For precise conversions, refer to our air fryer conversion chart which includes all common measurement equivalents used in air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer food sometimes have patchy breadcrumb coating?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Patchy coating often happens when the breadcrumbs aren't evenly distributed or when there's too much moisture on the food's surface. After applying your 18g (2.5 tbsp) of breadcrumbs, let coated items rest for 5 minutes before cooking. This helps the coating adhere better and results in more even browning in the air fryer."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 2.5 tbsp of breadcrumbs?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-breadcrumbs",
+    "description": "Convert 2.5 tbsp of breadcrumbs into grams for perfect air fryer recipes. Get precise measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-breadcrumbs#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 2.5 tbsp of breadcrumbs?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-breadcrumbs"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.5 tablespoons (tbsp) of breadcrumbs equals approximately 18 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and crispiness. Whether you're coating chicken, fish, or vegetables, knowing exactly how many grams are in 2.5 tbsp of breadcrumbs ensures consistent results every time.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 2 tbsp of plain yogurt?"
 description: "Find out exactly how many grams are in 2 tbsp of plain yogurt for perfect air fryer recipes. Get precise measurements every time!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-tbsp-plain-yogurt-b2f2bf1f.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-plain-yogurt.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-plain-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-plain-yogurt"
+    },
+    "headline": "Quick Answer: How many grams is 2 tbsp of plain yogurt?",
+    "description": "Find out exactly how many grams are in 2 tbsp of plain yogurt for perfect air fryer recipes. Get precise measurements every time!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-plain-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use Greek yogurt instead of plain yogurt in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute Greek yogurt, but note it’s thicker and weighs slightly more—around 35 grams per 2 tbsp. Adjust liquids in your recipe if needed, as Greek yogurt may make mixtures denser."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is weighing yogurt better than measuring by volume?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weighing yogurt in grams ensures accuracy, especially since thickness varies between brands. Volume measurements (like tablespoons) can be inconsistent, affecting recipe outcomes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 2 tbsp of yogurt to grams if my recipe uses cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "One cup of plain yogurt is roughly 245 grams, so 2 tbsp (30g) is about 1/8 of a cup. Use a kitchen scale for the most precise conversion."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does flavoured yogurt weigh the same as plain yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Flavoured yogurts may weigh slightly more due to added sugars or fruit. For accuracy, check the nutrition label or weigh it yourself before using in recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of plain yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-plain-yogurt",
+    "description": "Find out exactly how many grams are in 2 tbsp of plain yogurt for perfect air fryer recipes. Get precise measurements every time!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-plain-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 2 tbsp of plain yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-plain-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2 tablespoons (tbsp) of plain yogurt weigh approximately 30 grams. This measurement is handy for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making marinades, dips, or baked goods, knowing this conversion helps streamline your cooking process.</p>  

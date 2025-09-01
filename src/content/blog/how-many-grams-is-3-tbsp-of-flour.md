@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 3 tbsp of flour?"
 description: "Learn how to convert 3 tbsp of flour into grams for precise air fryer baking. Get accurate measurements and perfect results every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-3-tbsp-of-flour-eba5f119.webp"
+pubDate: 2025-08-03T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-flour"
+    },
+    "headline": "Quick Guide: Convert 3 tbsp of flour to grams easily",
+    "description": "Learn how to convert 3 tbsp of flour into grams for precise air fryer baking. Get accurate measurements and perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of flour affect how many grams are in 3 tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different flour types have varying densities. Plain white flour weighs about 8g per tablespoon (24g for 3 tbsp), while wholemeal flour is slightly lighter at about 7g per tablespoon (21g for 3 tbsp). Specialty flours like bread or cake flour also have different weights per tablespoon."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is weighing flour better than using tablespoons for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weighing flour gives more consistent results because it eliminates packing variations. Air fryers cook so quickly that small measurement differences can significantly affect texture. Grams provide precision that volume measurements can't match, especially important for baked goods."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 3 tbsp of flour without kitchen scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use proper measuring spoons (not eating utensils) and the spoon-and-level method: fluff flour, gently spoon into tablespoon without packing, then level off with a knife edge. This gives the closest approximation to weighed flour, though scales are still more accurate."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do US and UK tablespoons measure the same amount of flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, both US and UK tablespoons hold about 15ml volume, so 3 tbsp flour converts to the same grams in both systems. However, US cups differ from UK cups, so be careful with larger volume measurements in recipes from different countries."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-flour",
+    "description": "Learn how to convert 3 tbsp of flour into grams for precise air fryer baking. Get accurate measurements and perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-03T23:25:27.803000+00:00",
+    "dateModified": "2025-08-03T23:25:27.803000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 3 tbsp of flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>3 tablespoons (tbsp) of flour equals approximately 24 grams. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up air fryer cookies or a quick bread, knowing the exact weight ensures consistent results every time.</p>

@@ -1,12 +1,195 @@
 ---
 title: "Can You Put Silicone Liner in an Air Fryer?"
 description: "Wondering if silicone liners are air fryer-safe? Discover the dos and don'ts of using silicone liners in your air fryer for easy cleaning and better cooking."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/can-you-put-silicone-liner-in-an-air-fryer-7739dab7.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-silicone-liner-in-an-air-fryer.png"
 tags:
   - "liner"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-liner-in-an-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-liner-in-an-air-fryer"
+    },
+    "headline": "Silicone Liner in Air Fryer: Safety & Usage Guide | UK",
+    "description": "Wondering if silicone liners are air fryer-safe? Discover the dos and don'ts of using silicone liners in your air fryer for easy cleaning and better cooking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T23:30:57.071000+00:00",
+    "dateModified": "2025-07-22T23:30:57.071000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-silicone-liner-in-an-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Liner"
+    },
+    "articleSection": "Liner",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use any silicone liner in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, not all silicone liners are suitable for air fryers. You should only use liners specifically designed for air frying, as they’re tested to withstand high temperatures and won’t block airflow. Always check the product’s heat resistance (usually up to 220°C) and fit before using."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Will a silicone liner affect cooking times in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A properly fitted silicone liner shouldn’t significantly alter cooking times, but it may slightly increase them due to the extra layer between the food and the heating element. For best results, check food a few minutes earlier than usual and adjust as needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a silicone liner when air frying frozen foods?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, silicone liners work well with frozen foods like chips, nuggets, or vegetables. They prevent sticking and make cleanup easier. Just ensure the liner is securely placed and doesn’t obstruct the air fryer’s fan for even cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How often should I replace my air fryer’s silicone liner?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "With proper care, a silicone liner can last 6–12 months. Replace it if you notice discolouration, tears, or a sticky surface that won’t clean off. These signs indicate the liner may be degrading and could affect food safety."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Can You Put Silicone Liner in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-liner-in-an-air-fryer",
+    "description": "Wondering if silicone liners are air fryer-safe? Discover the dos and don'ts of using silicone liners in your air fryer for easy cleaning and better cooking.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T23:30:57.071000+00:00",
+    "dateModified": "2025-07-22T23:30:57.071000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-liner-in-an-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Can You Put Silicone Liner in an Air Fryer?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-liner-in-an-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Yes, you can safely use a silicone liner in your air fryer, provided it’s heat-resistant and fits properly. Most silicone liners are designed to withstand temperatures up to 220°C, making them suitable for air frying. However, always check the manufacturer’s guidelines for both your air fryer and the liner to ensure compatibility.</p>

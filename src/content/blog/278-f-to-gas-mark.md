@@ -1,12 +1,195 @@
 ---
 title: "278 F to Gas Mark"
 description: "Learn how to convert 278°F to Gas Mark for oven and air fryer cooking. Includes conversion charts, tips, and recipe adjustments for perfect results."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/278-f-to-gas-mark-e0425bd3.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/278-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/278-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/278-f-to-gas-mark"
+    },
+    "headline": "Convert 278 F to Gas Mark | Air Fryer & Oven Guide",
+    "description": "Learn how to convert 278°F to Gas Mark for oven and air fryer cooking. Includes conversion charts, tips, and recipe adjustments for perfect results.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T17:53:23.048000+00:00",
+    "dateModified": "2025-07-20T17:53:23.048000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/278-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 278 F in my air fryer instead of Gas Mark 1 in recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use 278°F in your air fryer as an equivalent to Gas Mark 1. Just remember air fryers cook faster, so reduce the cooking time by about 20-30% compared to oven recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What types of food cook best at 278 F (Gas Mark 1)?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "This low temperature works best for slow roasting vegetables, proofing dough, keeping food warm, or dehydrating fruits. It's not ideal for most meats or foods needing crispiness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why doesn't my air fryer have a Gas Mark setting?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers typically use Fahrenheit or Celsius because they're digital appliances designed for precise temperature control. Gas Marks are primarily used for traditional gas ovens in the UK."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert other temperatures between Fahrenheit and Gas Mark?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can find comprehensive conversion charts at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a> that cover all common cooking temperatures between Fahrenheit, Celsius, and Gas Mark."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "278 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/278-f-to-gas-mark",
+    "description": "Learn how to convert 278°F to Gas Mark for oven and air fryer cooking. Includes conversion charts, tips, and recipe adjustments for perfect results.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T17:53:23.048000+00:00",
+    "dateModified": "2025-07-20T17:53:23.048000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/278-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "278 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/278-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>278°F converts to Gas Mark 1 for oven cooking. This is a gentle heat ideal for slow roasting, proofing dough, or keeping dishes warm. When using an air fryer, you'll typically set the temperature directly rather than converting to Gas Mark, but understanding oven equivalents helps when adapting traditional recipes.</p>

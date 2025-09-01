@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 175 Grams of Potatoes"
 description: "Discover how to convert 175 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-175-grams-of-potatoes-4f2e8449.png"
+pubDate: 2025-07-25T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-potatoes.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-potatoes",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Cups Is 175 Grams of Potatoes?",
+    "description": "Discover how to convert 175 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-25T21:48:02.255000+00:00",
+    "dateModified": "2025-07-25T21:48:02.255000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-potatoes.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of potato affect how many cups are in 175 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, potato variety can slightly affect the cup measurement. Starchy potatoes like russets are less dense than waxy varieties, so 175 grams might fill slightly more volume. However, the difference is minimal - generally around 1.25 cups for diced potatoes regardless of type."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use frozen potatoes to measure 175 grams in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Frozen potatoes often have added moisture, so 175 grams may take up slightly more space than fresh. For frozen diced potatoes, still use about 1.25 cups as a starting point. Just pat them dry before air frying to ensure crispiness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many medium potatoes equal 175 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "One medium potato (about 5-7cm diameter) typically weighs 150-200 grams, so one medium potato is roughly equivalent to 175 grams. If your potatoes are very large or small, it's best to weigh them or use the cup measurement for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my 175 grams of potatoes look different when chopped vs whole?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Chopping creates air gaps between pieces, making 175 grams appear to fill more volume. Whole potatoes pack more densely. That's why 175 grams of whole potatoes looks smaller than 175 grams of diced - but the weight remains the same. Always measure by weight for baking recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Potatoes",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-potatoes",
+    "description": "Discover how to convert 175 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-25T21:48:02.255000+00:00",
+    "dateModified": "2025-07-25T21:48:02.255000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-potatoes#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 175 Grams of Potatoes",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-potatoes"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>175 grams of potatoes is roughly equivalent to 1.25 cups when diced or sliced. This measurement can vary slightly depending on the potato type and how finely they're chopped. If you're using an air fryer, getting the right amount ensures even cooking and delicious results every time.</p>  

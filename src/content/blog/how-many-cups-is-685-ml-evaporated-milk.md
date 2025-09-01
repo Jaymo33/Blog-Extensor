@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 685 ml of Evaporated Milk?"
 description: "Discover how to convert 685 ml of evaporated milk to cups for perfect baking and cooking every time. Get the exact measurement now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-685-ml-evaporated-milk-46040dc4.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-evaporated-milk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-evaporated-milk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-evaporated-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 685 ml of Evaporated Milk?",
+    "description": "Discover how to convert 685 ml of evaporated milk to cups for perfect baking and cooking every time. Get the exact measurement now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-evaporated-milk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 685 ml of evaporated milk the same as 2.9 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 685 ml of evaporated milk is approximately 2.9 cups. This conversion is based on the standard US cup measurement of 240 ml. For UK metric cups (250 ml), it's roughly 2.74 cups. Always check your recipe's measurement system for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use fresh milk instead of evaporated milk in a recipe calling for 685 ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Fresh milk isn't a direct substitute for evaporated milk due to its higher water content. For 685 ml of evaporated milk, you'd need to reduce fresh milk by simmering it until it reduces by about 60%. Alternatively, mix 2 cups of whole milk with ½ cup of melted butter for a similar consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 685 ml of evaporated milk without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring jug, use a standard cup. For 685 ml, measure just under 3 cups (2.9 cups). A tablespoon holds about 15 ml, so you could also use 45 tablespoons plus 2 teaspoons, though this method is less precise."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes specify evaporated milk instead of regular milk?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Evaporated milk has a richer, creamier texture and concentrated flavour due to its reduced water content. It's ideal for recipes requiring thickness, like custards or sauces. In an air fryer, it helps achieve a moist, tender texture in baked goods without excess liquid."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 685 ml of Evaporated Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-evaporated-milk",
+    "description": "Discover how to convert 685 ml of evaporated milk to cups for perfect baking and cooking every time. Get the exact measurement now!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-evaporated-milk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 685 ml of Evaporated Milk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-evaporated-milk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>685 ml of evaporated milk is approximately 2.9 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking. Whether you're making a creamy dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistent results every time.</p>  

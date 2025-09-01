@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 4 tbsp of rice?"
 description: "Find out exactly how many grams are in 4 tbsp of rice for perfect air fryer meals every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-4-tbsp-of-rice-93e59853.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-rice.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-rice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-rice"
+    },
+    "headline": "Quick Answer: How many grams is 4 tbsp of rice?",
+    "description": "Find out exactly how many grams are in 4 tbsp of rice for perfect air fryer meals every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-rice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of rice affect how many grams are in 4 tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different rice varieties have slightly different weights. Long-grain white rice averages 15g per tablespoon (60g for 4 tbsp), while brown rice is about 16g per tbsp. Short-grain or sticky rice can weigh up to 17g per tablespoon. Always check your specific rice type for most accurate measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 4 tbsp of rice in any air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "4 tbsp (60g) of rice works well for single-serving recipes in most air fryers. However, always check your specific air fryer's capacity and the recipe requirements. Some larger batch recipes may call for more rice, while smaller air fryers might need slightly less to prevent overcrowding."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How much does 4 tbsp of cooked rice weigh?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "4 tablespoons of cooked rice weighs about 90 grams, nearly double its uncooked weight. This is because rice absorbs water during cooking. When following air fryer recipes, pay attention to whether measurements are for cooked or uncooked rice to ensure proper results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best way to measure 4 tbsp of rice without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a proper measuring spoon (not eating utensils) and spoon the rice in lightly without packing it down. Level off the top with a straight edge like a knife. For most accuracy, consider investing in a cheap digital scale - they're invaluable for air fryer cooking where precise measurements matter."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-rice",
+    "description": "Find out exactly how many grams are in 4 tbsp of rice for perfect air fryer meals every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-rice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 4 tbsp of rice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-rice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>4 tablespoons (tbsp) of rice weighs approximately 60 grams. This measurement is essential for air fryer recipes, ensuring consistent results whether you're cooking rice dishes or using rice as an ingredient. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions help you nail every meal.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "366 F to Fan Oven"
 description: "Convert 366 F to fan oven settings easily. Learn the exact temperature and how it compares to air fryer cooking for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/366-f-to-fan-oven-f1c46f75.png"
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/366-f-to-fan-oven.png"
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/366-f-to-fan-oven",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/366-f-to-fan-oven"
+    },
+    "headline": "366 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 366 F to fan oven settings easily. Learn the exact temperature and how it compares to air fryer cooking for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-21T23:29:04.388000+00:00",
+    "dateModified": "2025-07-21T23:29:04.388000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/366-f-to-fan-oven.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How does 366 F compare in a fan oven versus an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>While both use similar heating principles, air fryers cook faster at 366 F (170 C fan) due to their compact size and intense air circulation. You'll typically need to reduce cooking times by 10-20% when using an air fryer compared to a fan oven at this temperature.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use the 366 F fan oven setting for frozen foods?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Absolutely! 366 F (170 C fan) works beautifully for frozen foods like chips, chicken nuggets, or pizza. The fan circulation helps achieve crisp results while ensuring thorough heating. Just extend cooking time slightly compared to fresh foods.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do fan ovens use lower temperatures than conventional ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Fan ovens circulate hot air more efficiently, cooking food faster and more evenly. The 20 C reduction (from 185 C conventional to 170 C fan for 366 F) compensates for this increased efficiency, preventing over-browning while ensuring proper cooking.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I clean my fan oven or air fryer after cooking at 366 F?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>After cooking at 366 F, wait for the appliance to cool, then wipe with a damp cloth. For tougher grease, use our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Regular cleaning maintains performance at this important cooking temperature.</p>"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "366 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/366-f-to-fan-oven",
+    "description": "Convert 366 F to fan oven settings easily. Learn the exact temperature and how it compares to air fryer cooking for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-21T23:29:04.388000+00:00",
+    "dateModified": "2025-07-21T23:29:04.388000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/366-f-to-fan-oven#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "366 F to Fan Oven",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/366-f-to-fan-oven"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>366 F converts to approximately 170 C in a fan oven. This temperature is ideal for baking, roasting, and air frying, offering even heat distribution for consistent results. Whether you're adapting recipes or comparing appliances, understanding this conversion is key to kitchen success.</p>

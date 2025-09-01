@@ -1,12 +1,195 @@
 ---
 title: "387 F to Gas Mark"
 description: "Convert 387°F to Gas Mark (5) for perfect air fryer & oven cooking. Includes conversion tips, baking advice & temperature charts."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/387-f-to-gas-mark-3ac3b52c.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/387-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/387-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/387-f-to-gas-mark"
+    },
+    "headline": "387 F to Gas Mark Conversion Guide for Air Fryers & Ovens",
+    "description": "Convert 387°F to Gas Mark (5) for perfect air fryer & oven cooking. Includes conversion tips, baking advice & temperature charts.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T21:38:45.164000+00:00",
+    "dateModified": "2025-07-20T21:38:45.164000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/387-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use Gas Mark 5 for all air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While Gas Mark 5 (387°F) works for many recipes, always check specific temperature requirements. Some delicate baked goods or meats may need different temperatures for optimal results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 387°F to Gas Mark for a fan oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For fan ovens, you'd typically reduce the temperature by about 20°C (36°F), making 387°F equivalent to Gas Mark 4 in a fan-assisted oven. However, air fryers don't usually require this adjustment."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my food cook faster at 387°F in an air fryer than my oven?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate hot air more efficiently than conventional ovens, leading to faster cooking times. At 387°F (Gas Mark 5), you should typically reduce cooking time by about 20% compared to oven instructions."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 387°F too hot for reheating leftovers in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "387°F (Gas Mark 5) works well for reheating crispy foods like pizza or fried chicken. For more delicate items, consider lowering to 350°F (Gas Mark 4) to prevent drying out."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "387 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/387-f-to-gas-mark",
+    "description": "Convert 387°F to Gas Mark (5) for perfect air fryer & oven cooking. Includes conversion tips, baking advice & temperature charts.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T21:38:45.164000+00:00",
+    "dateModified": "2025-07-20T21:38:45.164000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/387-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "387 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/387-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>387°F converts to Gas Mark 5, which is the standard setting for many baking recipes in both conventional ovens and air fryers. This temperature is ideal for achieving perfectly cooked goods without burning or undercooking. Whether you're using an air fryer or traditional oven, understanding this conversion ensures your dishes turn out just right every time.</p>

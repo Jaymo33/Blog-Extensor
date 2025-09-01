@@ -1,12 +1,195 @@
 ---
 title: "312 F to Gas Mark"
 description: "Learn how to convert 312 F to Gas Mark for your air fryer or oven. Includes baking tips and temperature equivalents for perfect results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/312-f-to-gas-mark-94fca9d4.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/312-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/312-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-gas-mark"
+    },
+    "headline": "312 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Learn how to convert 312 F to Gas Mark for your air fryer or oven. Includes baking tips and temperature equivalents for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T18:49:13.383000+00:00",
+    "dateModified": "2025-07-20T18:49:13.383000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/312-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 312 F in my air fryer if the recipe says Gas Mark 2?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 312 F is the exact equivalent of Gas Mark 2. You can use this temperature in your air fryer, though cooking times may be 15-20% shorter than conventional oven recipes suggest."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What types of food cook best at 312 F (Gas Mark 2) in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "312 F (Gas Mark 2) works well for dehydrating fruits, slow-roasting vegetables, baking delicate pastries, and tenderising tougher cuts of meat. It's ideal for recipes requiring gentle, prolonged heat."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I know if my air fryer's 312 F setting is accurate?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use an oven thermometer placed inside your air fryer when set to 312 F. Run the air fryer empty for 10 minutes, then check the thermometer reading. Small variations are normal, but significant differences may indicate calibration issues."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why would I need to convert 312 F to Gas Mark for air fryer cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While most air fryers use Fahrenheit, many traditional British recipes specify Gas Mark temperatures. Knowing that 312 F equals Gas Mark 2 helps when adapting these recipes for air fryer use while maintaining the intended cooking method."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "312 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/312-f-to-gas-mark",
+    "description": "Learn how to convert 312 F to Gas Mark for your air fryer or oven. Includes baking tips and temperature equivalents for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T18:49:13.383000+00:00",
+    "dateModified": "2025-07-20T18:49:13.383000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "312 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>312 F converts to Gas Mark 2. This temperature is commonly used for slow baking, roasting, and dehydrating in both conventional ovens and air fryers. Understanding this conversion helps when following recipes or adjusting cooking times for different appliances.</p>

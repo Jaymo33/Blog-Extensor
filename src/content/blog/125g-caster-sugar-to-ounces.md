@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 125g of caster sugar?"
 description: "Convert 125g of caster sugar to ounces in seconds with our easy guide – perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/125g-caster-sugar-to-ounces-b4f4b8eb.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-caster-sugar-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-caster-sugar-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-caster-sugar-to-ounces"
+    },
+    "headline": "Quick 125g caster sugar to ounces conversion for baking",
+    "description": "Convert 125g of caster sugar to ounces in seconds with our easy guide – perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-caster-sugar-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use granulated sugar instead of caster sugar in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can substitute granulated sugar for caster sugar in air fryer recipes, but the texture may differ slightly. Caster sugar’s finer grains incorporate better in batters and dissolve more quickly. If using granulated, you might want to pulse it briefly in a blender to achieve a finer texture similar to caster sugar."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does air fryer baking affect sugar measurements compared to conventional ovens?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers circulate hot air more intensely than conventional ovens, which can cause faster caramelization of sugars. This means measurements like 125g caster sugar to ounces become even more critical, as slight variations can significantly impact browning and texture. Generally, you might use slightly less sugar in air fryer adaptations of oven recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK recipes often use grams instead of ounces for sugar measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The UK officially adopted the metric system, making grams the standard measurement for baking ingredients. Metric measurements offer greater precision, especially important in baking where small differences matter. While 125g caster sugar equals about 4.41 ounces, most UK recipes and packaging will display metric weights for consistency and accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I check if my 125g caster sugar measurement is accurate without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, you can use the spoon-and-level method with a measuring cup. For 125g (about 4.41 ounces) of caster sugar, this would be approximately ½ cup plus 1 tablespoon when lightly spooned into the cup and leveled off. However, for the most accurate results in air fryer baking, investing in digital kitchen scales is highly recommended."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-caster-sugar-to-ounces",
+    "description": "Convert 125g of caster sugar to ounces in seconds with our easy guide – perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-caster-sugar-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 125g of caster sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-caster-sugar-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125g of caster sugar equals approximately 4.41 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially in baking where accuracy matters. Whether you’re making cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your treats turn out perfectly every time.</p>

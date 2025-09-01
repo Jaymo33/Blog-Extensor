@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 30g of self-raising flour?"
 description: "Learn how to convert 30g of self-raising flour to ounces for perfect baking results every time. Includes easy tips and air fryer-friendly recipes."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/30g-self-raising-flour-to-ounces-29271367.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-self-raising-flour-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-self-raising-flour-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-self-raising-flour-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 30g of self-raising flour to ounces",
+    "description": "Learn how to convert 30g of self-raising flour to ounces for perfect baking results every time. Includes easy tips and air fryer-friendly recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-self-raising-flour-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use plain flour instead of self-raising flour in a 30g measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but you'll need to add raising agents. For every 30g of plain flour, add ¾ teaspoon of baking powder to make it self-raising. The ounce measurement stays the same (1.06 oz), but the leavening action will differ without adjustment."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 30g of self-raising flour without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use tablespoons – 30g is approximately 4 slightly rounded tablespoons. Spoon the flour into the tablespoon and level it off for accuracy. Remember this equals about 1.06 ounces if your recipe uses imperial measurements."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 30g of self-raising flour weigh the same as 30g of plain flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, by weight they're identical (both 30g or 1.06 oz), but self-raising flour contains baking powder. The added raising agent affects volume and performance in recipes, not the basic weight conversion."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer baking need precise 30g flour measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers have compact cooking spaces where small measurement errors are magnified. Precise 30g (1.06 oz) portions ensure even cooking and proper rise. Too much flour can block air circulation, while too little may cause collapsing."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-self-raising-flour-to-ounces",
+    "description": "Learn how to convert 30g of self-raising flour to ounces for perfect baking results every time. Includes easy tips and air fryer-friendly recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-self-raising-flour-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 30g of self-raising flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-self-raising-flour-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>30g of self-raising flour equals approximately 1.06 ounces. Whether you're baking cakes, biscuits, or air fryer-friendly treats, getting your measurements right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for home bakers. This guide will help you nail the conversion every time.</p>  

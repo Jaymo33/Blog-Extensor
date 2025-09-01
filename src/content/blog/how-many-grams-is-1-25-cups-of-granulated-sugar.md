@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 1.25 Cups of Granulated Sugar?"
 description: "Convert 1.25 cups of granulated sugar to grams easily for precise baking in your air fryer. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-25-cups-of-granulated-sugar-58b9f24c.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-25-cups-of-granulated-sugar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-granulated-sugar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-granulated-sugar"
+    },
+    "headline": "Quick Answer: 1.25 Cups of Granulated Sugar to Grams",
+    "description": "Convert 1.25 cups of granulated sugar to grams easily for precise baking in your air fryer. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T16:11:37.491000+00:00",
+    "dateModified": "2025-07-27T16:11:37.491000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-25-cups-of-granulated-sugar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of sugar affect the gram measurement for 1.25 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the type of sugar can impact the weight. Granulated sugar is denser than powdered or brown sugar, so 1.25 cups of each will weigh differently. For granulated sugar, 1.25 cups equals 250 grams, but brown sugar (packed) would be closer to 275 grams due to moisture content."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a UK measuring cup for US recipes calling for 1.25 cups of sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "UK and US measuring cups differ slightly—a UK cup is 250ml, while a US cup is 240ml. For granulated sugar, the difference is minimal (about 5 grams), but for precision, convert to grams. 1.25 US cups is roughly 248 grams, whereas UK cups would be 250 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust cooking time if I reduce the sugar in an air fryer recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Reducing sugar can affect browning and texture. In an air fryer, less sugar may require slightly shorter cooking times to prevent drying out. Start by checking 2-3 minutes earlier than the recipe suggests, especially for cakes or cookies."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do air fryer recipes often use grams instead of cups for sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide exact measurements, which are critical in air fryers due to their intense, rapid heat. Cups can vary based on how ingredients are packed, leading to inconsistent results. Grams ensure reliability, especially for baking where precision affects texture and doneness."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.25 Cups of Granulated Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-granulated-sugar",
+    "description": "Convert 1.25 cups of granulated sugar to grams easily for precise baking in your air fryer. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T16:11:37.491000+00:00",
+    "dateModified": "2025-07-27T16:11:37.491000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-granulated-sugar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 1.25 Cups of Granulated Sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-granulated-sugar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.25 cups of granulated sugar equals 250 grams. This conversion is essential for air fryer baking, where precision ensures even cooking and perfect texture. Whether you’re making cakes, cookies, or desserts, knowing the exact gram measurement helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to elevate your cooking game. Let’s dive deeper into why this measurement matters.</p>

@@ -82,6 +82,14 @@
   margin-bottom: 1.25rem;
   flex-grow: 1;
   letter-spacing: -0.01em;
+  
+  /* Limit to 3 lines maximum */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: calc(1.5em * 3); /* 3 lines * line-height */
 }
 
 .blog-card-footer {

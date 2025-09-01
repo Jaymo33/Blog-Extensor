@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 2.25 Cups of Chicken Breast?"
 description: "Find out exactly how many grams 2.25 cups of chicken breast weighs for perfect air fryer recipes every time. Get the conversion now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-25-cups-of-chicken-breast-75c81020.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-chicken-breast.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-chicken-breast",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-chicken-breast"
+    },
+    "headline": "Quick Answer: How Many Grams Is 2.25 Cups of Chicken Breast?",
+    "description": "Find out exactly how many grams 2.25 cups of chicken breast weighs for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T23:33:52.667000+00:00",
+    "dateModified": "2025-07-27T23:33:52.667000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-chicken-breast.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the weight of 2.25 cups of chicken breast change if it's cooked?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, cooked chicken breast weighs less due to moisture loss. Raw 2.25 cups (315 grams) may reduce to about 225-250 grams after cooking. Always measure raw for recipe accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for other types of chicken, like thighs or wings?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, chicken thighs and wings have different densities and fat content. The 2.25 cups-to-grams conversion applies specifically to boneless, skinless chicken breast."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 2.25 cups of shredded chicken breast?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Gently spoon shredded chicken into a measuring cup without compacting it. For accuracy, fluff it lightly to avoid gaps. Shredded chicken may weigh slightly less than diced."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer chicken breast turn out dry?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Overcooking or overcrowding the basket can cause dryness. For 315 grams, cook at 180°C for 12-15 minutes, flipping halfway. Brining the chicken beforehand also helps retain moisture."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.25 Cups of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-chicken-breast",
+    "description": "Find out exactly how many grams 2.25 cups of chicken breast weighs for perfect air fryer recipes every time. Get the conversion now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T23:33:52.667000+00:00",
+    "dateModified": "2025-07-27T23:33:52.667000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-chicken-breast#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 2.25 Cups of Chicken Breast?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-chicken-breast"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.25 cups of chicken breast equals approximately 315 grams. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect results. Whether you're meal prepping or following a specific dish, knowing the gram equivalent of 2.25 cups of chicken breast helps streamline your cooking process.</p>

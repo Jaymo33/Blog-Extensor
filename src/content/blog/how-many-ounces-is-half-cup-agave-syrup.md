@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.5 cup of agave syrup?"
 description: "Learn how to convert 0.5 cup of agave syrup to ounces for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-half-cup-agave-syrup-c982ed5c.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-half-cup-agave-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-agave-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-agave-syrup"
+    },
+    "headline": "Quick Guide: Convert 0.5 Cup Agave Syrup to Ounces Easily",
+    "description": "Learn how to convert 0.5 cup of agave syrup to ounces for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-half-cup-agave-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of agave syrup affect the 0.5 cup to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While all agave syrups will roughly convert to 6 ounces per 0.5 cup, there can be slight variations. Darker agave syrups tend to be slightly denser than lighter varieties, potentially adding about 0.1-0.2 ounces to your measurement. For most air fryer recipes, this minor difference won’t affect results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a dry measuring cup for 0.5 cup of agave syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It’s better to use a liquid measuring cup for agave syrup. The sticky consistency makes it difficult to level off in dry measuring cups, potentially affecting your 0.5 cup to ounces accuracy. Liquid measures with pour spouts give cleaner measurements and easier pouring into your air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I adjust cooking times when using 0.5 cup agave syrup in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes using 0.5 cup (6 ounces) of agave syrup may require slightly reduced temperatures or shorter cooking times. The sugar content can cause faster browning - try reducing your air fryer temperature by about 10°C or checking for doneness 2-3 minutes earlier than the recipe suggests."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is there a difference between US and UK measurements for 0.5 cup agave syrup to ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but it’s minimal. A US 0.5 cup equals exactly 6 ounces, while a UK 0.5 cup is about 5.92 ounces. For air fryer cooking, this 0.08 ounce difference is negligible. Most modern recipes use US cup measurements, so we recommend sticking with the 6 ounce conversion unless specified otherwise."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of agave syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-agave-syrup",
+    "description": "Learn how to convert 0.5 cup of agave syrup to ounces for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-agave-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.5 cup of agave syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-agave-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.5 cup of agave syrup equals approximately 6 ounces (5.91 oz to be precise). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a glaze or sweetening a marinade, knowing how many ounces are in 0.5 cup of agave syrup ensures consistent results every time.</p>

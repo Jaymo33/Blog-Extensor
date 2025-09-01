@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.5 cup of breadcrumbs?"
 description: "Find out exactly how many ounces are in 0.5 cup of breadcrumbs for perfect air fryer recipes every time. No more guesswork!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-5-cup-of-breadcrumbs-ba53e8c8.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-breadcrumbs.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-breadcrumbs",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-breadcrumbs"
+    },
+    "headline": "Quick Answer: How many ounces is 0.5 cup of breadcrumbs?",
+    "description": "Find out exactly how many ounces are in 0.5 cup of breadcrumbs for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-breadcrumbs.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of breadcrumb affect how many ounces are in 0.5 cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different types of breadcrumbs have varying weights. Traditional dried breadcrumbs weigh about 2 ounces per 0.5 cup, while fresh breadcrumbs can be heavier at 2.5 ounces. Panko breadcrumbs are lighter, typically around 1.5 ounces for the same volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use grams instead of ounces to measure 0.5 cup of breadcrumbs?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely. 0.5 cup of breadcrumbs equals approximately 56 grams. Many digital kitchen scales allow you to switch between ounces and grams, making it easy to measure ingredients accurately regardless of the unit your recipe uses."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do my air fryer recipes sometimes turn out too dry when using 0.5 cup of breadcrumbs?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "This could happen if you're packing the breadcrumbs too densely into the measuring cup. Always use the spoon-and-level method for accurate measurements. Also, different air fryer models circulate heat differently - you might need to slightly adjust breadcrumb quantities based on your specific appliance."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store opened breadcrumbs to maintain accurate measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Keep opened breadcrumbs in an airtight container in a cool, dry place. Exposure to humidity can make breadcrumbs clump together, affecting both their weight and texture. Proper storage ensures your 0.5 cup measurements remain consistent recipe after recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of breadcrumbs?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-breadcrumbs",
+    "description": "Find out exactly how many ounces are in 0.5 cup of breadcrumbs for perfect air fryer recipes every time. No more guesswork!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-breadcrumbs#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.5 cup of breadcrumbs?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-breadcrumbs"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.5 cup of breadcrumbs equals approximately 2 ounces. This measurement is essential for getting your air fryer recipes just right, whether you're coating chicken, fish, or vegetables. Breadcrumbs are a staple in many air fryer dishes, and knowing the exact weight ensures consistency in texture and cooking times.</p>

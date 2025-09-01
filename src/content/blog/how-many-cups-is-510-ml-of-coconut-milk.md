@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 510 ml of Coconut Milk?"
 description: "Learn how to convert 510 ml of coconut milk to cups for perfect recipes every time. Get accurate measurements for cooking and baking."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-510-ml-of-coconut-milk-d4238835.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-coconut-milk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-coconut-milk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-coconut-milk"
+    },
+    "headline": "Quick Guide: Convert 510 ml of Coconut Milk to Cups Easily",
+    "description": "Learn how to convert 510 ml of coconut milk to cups for perfect recipes every time. Get accurate measurements for cooking and baking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-coconut-milk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 510 ml of coconut milk the same as 2 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 510 ml of coconut milk is not exactly 2 cups. In the US, it's approximately 2.15 cups, while in the UK, it's about 1.8 cups. The difference arises because US and UK cup measurements vary slightly. Always check which measurement system your recipe uses for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring jug to convert 510 ml of coconut milk to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use a measuring jug to convert 510 ml of coconut milk to cups. Just ensure the jug has both metric (ml) and imperial (cups) markings. For 510 ml, fill the jug to the 510 ml line, then check the corresponding cup measurement—roughly 2.15 US cups or 1.8 UK cups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 510 ml of coconut milk affect air fryer cooking times?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "510 ml of coconut milk can slightly increase cooking times in an air fryer due to its moisture content. If using it in a marinade or sauce, expect a longer cooking time to ensure even browning. Always check your food periodically and adjust the time as needed for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Are there any substitutes for 510 ml of coconut milk in recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute 510 ml of coconut milk with almond milk, soy milk, or regular dairy milk, though the flavour and texture will differ. For a similar richness, use 510 ml of heavy cream diluted with water. Always adjust seasonings to compensate for flavour changes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 510 ml of Coconut Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-coconut-milk",
+    "description": "Learn how to convert 510 ml of coconut milk to cups for perfect recipes every time. Get accurate measurements for cooking and baking.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-coconut-milk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 510 ml of Coconut Milk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-coconut-milk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>510 ml of coconut milk is approximately 2.15 cups in the US measurement system and 1.8 cups in the UK. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're whipping up a curry or baking a cake, knowing how to convert 510 ml of coconut milk to cups ensures consistent results every time.</p>

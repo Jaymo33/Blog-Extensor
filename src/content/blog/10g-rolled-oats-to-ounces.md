@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 10g of rolled oats?"
 description: "Learn how to convert 10g of rolled oats to ounces in seconds. Perfect for air fryer recipes and precise measurements every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/10g-rolled-oats-to-ounces-2233a690.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-rolled-oats-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-rolled-oats-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-rolled-oats-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 10g of Rolled Oats to Ounces Easily",
+    "description": "Learn how to convert 10g of rolled oats to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-rolled-oats-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use quick oats instead of rolled oats for the same weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, quick oats and rolled oats weigh similarly—10g equals 0.35 ounces for both. However, quick oats absorb moisture faster, which may affect texture in air fryer recipes. Rolled oats provide better crunch for toppings or coatings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many calories are in 10g of rolled oats?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Ten grams of rolled oats contain roughly 38 calories. Since air fryers use little to no oil, this makes oat-based recipes a healthier choice. Perfect for low-calorie breakfasts or snacks."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do I need to adjust cooking time for oat toppings in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, oat toppings brown quickly in the air fryer. For 10g (0.35 oz) sprinkled over fruit or yogurt, cook at 160°C for 3–4 minutes. Watch closely to prevent burning."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute flour with 10g of rolled oats in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For binding, yes—10g of blended rolled oats can replace flour in meatballs or burgers. For baking, oats lack gluten, so results may be denser. Experiment with small batches first."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of rolled oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-rolled-oats-to-ounces",
+    "description": "Learn how to convert 10g of rolled oats to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-rolled-oats-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 10g of rolled oats?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-rolled-oats-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>10g of rolled oats equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making granola, oat bars, or a crispy topping, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for perfect results every time. Let’s dive deeper into why this conversion matters.</p>  

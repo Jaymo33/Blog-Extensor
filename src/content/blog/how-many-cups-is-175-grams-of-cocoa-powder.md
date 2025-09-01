@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 175 Grams of Cocoa Powder?"
 description: "Find out how many cups 175 grams of cocoa powder equals for perfect baking. Includes UK/US conversions and air fryer recipe tips for accurate measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-175-grams-of-cocoa-powder-539ece1c.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-cocoa-powder.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cocoa-powder",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cocoa-powder"
+    },
+    "headline": "How many cups is 175 grams of cocoa powder – Easy conversion guide | AirFryerRecipe.co.uk",
+    "description": "Find out how many cups 175 grams of cocoa powder equals for perfect baking. Includes UK/US conversions and air fryer recipe tips for accurate measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T16:57:37.476000+00:00",
+    "dateModified": "2025-07-22T16:57:37.476000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-cocoa-powder.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 175 grams of cocoa powder equal the same in UK and US cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, there's a slight difference. 175 grams of cocoa powder equals 1.75 UK cups (250ml) or about 1.8 US cups (240ml). Always check which cup measurement your air fryer recipe uses for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 175g of cocoa powder in any air fryer dessert recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "175 grams works well for most standard air fryer chocolate recipes serving 4-6 people. For smaller batches or less intense chocolate flavour, you might reduce the quantity slightly and adjust other ingredients proportionally."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store leftover cocoa powder after measuring out 175g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Keep opened cocoa powder in an airtight container in a cool, dark place. Proper storage maintains its flavour and density, ensuring your next 175g measurement remains accurate for air fryer baking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some air fryer recipes specify grams instead of cups for cocoa powder?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weight measurements (grams) are more precise than volume (cups) because cocoa powder can settle differently. For consistent results in air fryer baking, especially with 175g quantities, weighing gives the most reliable outcome every time."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Cocoa Powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cocoa-powder",
+    "description": "Find out how many cups 175 grams of cocoa powder equals for perfect baking. Includes UK/US conversions and air fryer recipe tips for accurate measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T16:57:37.476000+00:00",
+    "dateModified": "2025-07-22T16:57:37.476000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cocoa-powder#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 175 Grams of Cocoa Powder?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cocoa-powder"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>175 grams of cocoa powder equals approximately 1.75 cups when using standard UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect chocolate cakes, brownies, or hot cocoa mixes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements make all the difference in air fryer recipes.</p>

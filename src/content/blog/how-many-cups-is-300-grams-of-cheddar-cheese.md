@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 300 Grams of Cheddar Cheese?"
 description: "Learn how to convert 300 grams of cheddar cheese to cups for perfect recipes every time. Get accurate measurements for baking and cooking."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-300-grams-of-cheddar-cheese-cc094a41.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-cheddar-cheese.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-cheddar-cheese",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-cheddar-cheese"
+    },
+    "headline": "Quick Guide: Convert 300 Grams of Cheddar Cheese to Cups Easily",
+    "description": "Learn how to convert 300 grams of cheddar cheese to cups for perfect recipes every time. Get accurate measurements for baking and cooking.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-cheddar-cheese.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use pre-shredded cheese instead of grating my own for 300 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use pre-shredded cheese, but it may have a slightly different volume due to anti-caking agents. For accuracy, weigh 300 grams or lightly pack it into a measuring cup for roughly 2.5 cups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of cheddar cheese affect the cup measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Mild, sharp, or aged cheddar has similar density, so 300 grams will still be around 2.5 cups when grated. However, very crumbly or extra-mature cheddar might vary slightly in volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 300 grams of cheddar cheese without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a scale, lightly pack grated cheese into a measuring cup. 300 grams is roughly 2.5 cups, but for block cheese, estimate by cutting into small cubes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I freeze leftover cheddar cheese after measuring 300 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Freeze grated or cubed cheddar in an airtight container for up to 3 months. Thaw in the fridge before using it in air fryer recipes for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 300 Grams of Cheddar Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-cheddar-cheese",
+    "description": "Learn how to convert 300 grams of cheddar cheese to cups for perfect recipes every time. Get accurate measurements for baking and cooking.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-cheddar-cheese#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 300 Grams of Cheddar Cheese?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-cheddar-cheese"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>300 grams of cheddar cheese is roughly equivalent to 2.5 cups when grated. This conversion is essential for recipes that require precise measurements, especially when using an air fryer for dishes like cheesy baked potatoes or crispy nachos. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accurate measurements are for perfect results every time.</p>

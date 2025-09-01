@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 175 Grams of Broccoli?"
 description: "Discover how to convert 175 grams of broccoli to cups for perfect air fryer recipes. Get precise measurements and cooking tips here!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-175-grams-of-broccoli-3343181b.png"
+pubDate: 2025-07-25T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-broccoli.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-broccoli",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-broccoli"
+    },
+    "headline": "Quick Answer: How Many Cups Is 175 Grams of Broccoli?",
+    "description": "Discover how to convert 175 grams of broccoli to cups for perfect air fryer recipes. Get precise measurements and cooking tips here!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-25T23:55:27.950000+00:00",
+    "dateModified": "2025-07-25T23:55:27.950000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-broccoli.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 175 grams of broccoli the same as 2 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 175 grams of broccoli is approximately 2 cups when chopped. This can vary slightly based on floret size and packing density. For air frying, lightly packed cups ensure even crisping."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 175 grams of broccoli without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a measuring cup: 175 grams equals about 2 cups of loosely chopped florets. Avoid packing them tightly, as this can lead to inaccuracies. Stems may require slight adjustments."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does frozen broccoli measure the same as fresh for 175 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Frozen broccoli should be thawed and drained first, as ice adds extra weight. Once prepared, 175 grams will still roughly equal 2 cups, but texture differences may affect cooking times."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 175 grams of broccoli in baking recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Finely chopped, 175 grams of broccoli works well in quiches or muffins, yielding about 1.5 cups. Adjust other liquids if the mixture seems too dense for your recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-broccoli",
+    "description": "Discover how to convert 175 grams of broccoli to cups for perfect air fryer recipes. Get precise measurements and cooking tips here!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-25T23:55:27.950000+00:00",
+    "dateModified": "2025-07-25T23:55:27.950000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-broccoli#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 175 Grams of Broccoli?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-broccoli"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>175 grams of broccoli is roughly equivalent to 2 cups when chopped. This conversion is handy for air fryer recipes where precise measurements ensure even cooking. Whether you're making crispy roasted broccoli or adding it to a stir-fry, knowing the cup equivalent helps streamline prep. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

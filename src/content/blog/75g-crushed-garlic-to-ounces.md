@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 75g of crushed garlic?"
 description: "Learn how to convert 75g of crushed garlic to ounces for perfect air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/75g-crushed-garlic-to-ounces-b9e4e3ec.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-crushed-garlic-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-crushed-garlic-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-crushed-garlic-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 75g of Crushed Garlic to Ounces",
+    "description": "Learn how to convert 75g of crushed garlic to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-crushed-garlic-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I convert 75g of crushed garlic to ounces without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have a scale, roughly 3 tablespoons of crushed garlic equal 75g (2.65 oz). However, a digital scale is more precise for consistent results in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use minced garlic instead of crushed garlic for 75g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but minced garlic is less dense. 75g of minced garlic equals about 2.5 oz, slightly less than crushed. Adjust measurements based on your recipe’s flavour intensity."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does 75g of crushed garlic measure differently in ounces for UK and US recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The conversion is the same (75g = 2.65 oz), but some US recipes use volume measurements like cups. Always weigh ingredients for accuracy, especially in air fryer cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What air fryer recipes work best with 75g of crushed garlic?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Garlic-heavy dishes like roasted vegetables, garlic butter shrimp, or marinated meats shine with 75g (2.65 oz) of crushed garlic. Check our recipe section for inspiration!"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of crushed garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-crushed-garlic-to-ounces",
+    "description": "Learn how to convert 75g of crushed garlic to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-crushed-garlic-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 75g of crushed garlic?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-crushed-garlic-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>75g of crushed garlic equals approximately 2.65 ounces. Whether you're prepping a marinade or seasoning a dish for your air fryer, accurate measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for cooking success. Let’s break down the details so you never second-guess your garlic measurements again.</p>  

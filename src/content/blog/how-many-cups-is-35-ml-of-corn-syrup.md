@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 35 ml of Corn Syrup?"
 description: "Learn how to convert 35 ml of corn syrup to cups for perfect baking and air frying every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-35-ml-of-corn-syrup-604607e6.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-corn-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-corn-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-corn-syrup"
+    },
+    "headline": "Quick Guide: Convert 35 ml of Corn Syrup to Cups Easily",
+    "description": "Learn how to convert 35 ml of corn syrup to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:31:14.574000+00:00",
+    "dateModified": "2025-07-30T23:31:14.574000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-corn-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use honey instead of corn syrup in a 35 ml measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute honey for corn syrup in a 1:1 ratio, but keep in mind honey is sweeter and thicker. For 35 ml of corn syrup, use 35 ml of honey, but reduce other sugars in the recipe slightly. Honey also browns faster in an air fryer, so lower the temperature by 5–10°C to avoid burning."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I clean my air fryer after using corn syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Corn syrup can leave sticky residues. Once the air fryer cools, wipe the basket with warm, soapy water or use our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. For stubborn spots, a paste of baking soda and water works well. Avoid abrasive scrubbers to protect non-stick coatings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 35 ml of corn syrup the same as golden syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, corn syrup and golden syrup have different consistencies and flavours. While both are liquid sweeteners, 35 ml of golden syrup is denser and has a stronger taste. If substituting, adjust other liquids in the recipe slightly to compensate for the texture difference."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some air fryer recipes use small amounts like 35 ml of corn syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers require less liquid than traditional ovens due to their compact size and rapid air circulation. Using 35 ml of corn syrup (about 1/8 cup) ensures even distribution without making foods soggy. It’s perfect for glazes or binding coatings, like in <a href=https://www.airfryerrecipe.co.uk/recipe-category/cookies>cookie recipes</a>."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 35 ml of Corn Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-corn-syrup",
+    "description": "Learn how to convert 35 ml of corn syrup to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:31:14.574000+00:00",
+    "dateModified": "2025-07-30T23:31:14.574000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-corn-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 35 ml of Corn Syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-corn-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>35 ml of corn syrup equals approximately 0.15 cups (or roughly 1/8 cup plus a teaspoon). This conversion is handy when adapting recipes for your air fryer, ensuring precise measurements for perfect results every time. Whether you’re baking or glazing, knowing how to convert 35 ml of corn syrup to cups can save you from guesswork.</p>

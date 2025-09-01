@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 100 Grams of Mozzarella Cheese?"
 description: "Find out exactly how many cups 100 grams of mozzarella cheese equals for perfect air fryer recipes every time. No more guesswork!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-100-grams-of-mozzarella-cheese-61d41a77.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-mozzarella-cheese.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-mozzarella-cheese",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-mozzarella-cheese"
+    },
+    "headline": "Quick Answer: How Many Cups Is 100 Grams of Mozzarella Cheese?",
+    "description": "Find out exactly how many cups 100 grams of mozzarella cheese equals for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T21:00:03.865000+00:00",
+    "dateModified": "2025-07-27T21:00:03.865000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-mozzarella-cheese.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of mozzarella cheese affect how many cups 100 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the form of mozzarella does make a slight difference. Shredded mozzarella is fluffier and takes up more space, so 100 grams equals about 0.4 cups. Grated mozzarella is denser, while fresh mozzarella (in balls) has higher water content and measures slightly less per 100 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for other types of cheese in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While this conversion works for mozzarella, other cheeses have different densities. Hard cheeses like cheddar or parmesan will have different cup measurements for the same weight. Always check specific conversion charts for different cheese types when air frying."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use grams while others use cups for mozzarella cheese?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide more accuracy as weight isn't affected by how the cheese is packed. Cup measurements can vary based on how tightly you pack the cheese. Many professional recipes use grams for consistency, while home cooks often prefer cups for convenience."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How can I measure 100 grams of mozzarella cheese without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, you can use measuring cups: 100 grams of shredded mozzarella is about 0.4 cups (just under half a cup). Alternatively, use tablespoons - about 6-7 tablespoons equal 100 grams. For fresh mozzarella, 100 grams is roughly a small ball about the size of a golf ball."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 100 Grams of Mozzarella Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-mozzarella-cheese",
+    "description": "Find out exactly how many cups 100 grams of mozzarella cheese equals for perfect air fryer recipes every time. No more guesswork!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T21:00:03.865000+00:00",
+    "dateModified": "2025-07-27T21:00:03.865000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-mozzarella-cheese#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 100 Grams of Mozzarella Cheese?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-mozzarella-cheese"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>100 grams of mozzarella cheese equals approximately 0.4 cups when shredded or grated. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making crispy mozzarella sticks or a cheesy pizza, knowing how many cups is 100 grams of mozzarella cheese ensures consistent results every time.</p>

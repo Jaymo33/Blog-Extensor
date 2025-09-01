@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 500g of sunflower oil?"
 description: "Learn how to convert 500g of sunflower oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-500g-sunflower-oil-f578f120.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-sunflower-oil.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-sunflower-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-sunflower-oil"
+    },
+    "headline": "Quick Guide: Convert 500g of sunflower oil to ounces easily",
+    "description": "Learn how to convert 500g of sunflower oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-sunflower-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Why is it important to measure sunflower oil accurately in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Accurate measurement ensures proper cooking results - too much oil can make food greasy, while too little may cause dryness. Precise amounts (like converting 500g to 17.64 oz) help achieve the perfect crispiness and texture in air-fried dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use other oils if I don't have sunflower oil for my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute with oils of similar smoke points like rapeseed or vegetable oil. Just maintain the same weight conversion (500g = 17.64 oz) for consistent results. Avoid olive oil for high-temperature frying as it has a lower smoke point."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 500g of sunflower oil last in air fryer cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "500g (17.64 oz) of sunflower oil can last for multiple cooking sessions, depending on recipe requirements. Most air fryer dishes use just 1-2 tablespoons per batch. Store properly to maintain quality between uses."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do I need to measure oil differently for different air fryer models?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The measurement (500g = 17.64 oz) remains the same across models, but application methods may vary. Some air fryers work best with oil sprayed on food, while others may require tossing ingredients in measured oil. Always check your specific model's guidelines."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of sunflower oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-sunflower-oil",
+    "description": "Learn how to convert 500g of sunflower oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-sunflower-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 500g of sunflower oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-sunflower-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>500g of sunflower oil equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and taste. Whether you're frying, baking, or making dressings, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

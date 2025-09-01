@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 200 Grams of Rice?"
 description: "Discover how to convert 200 grams of rice to cups for perfect cooking every time. Includes UK and US measurements for accuracy."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-200-grams-of-rice-5c296e79.png"
+pubDate: 2025-07-25T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-rice.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-rice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-rice"
+    },
+    "headline": "Quick Answer: How Many Cups Is 200 Grams of Rice?",
+    "description": "Discover how to convert 200 grams of rice to cups for perfect cooking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-25T23:55:27.950000+00:00",
+    "dateModified": "2025-07-25T23:55:27.950000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-rice.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of rice affect how many cups 200 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but only slightly. Fluffier varieties like basmati may take up more space, while short-grain rice is denser. For most recipes, 200 grams of rice equals roughly 1 US cup or 0.88 UK cups, regardless of type."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do UK and US cup measurements differ for 200 grams of rice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The UK uses a 250ml cup, while the US uses 240ml. This small difference means 200 grams of rice is about 0.88 UK cups but 1 US cup. Always check which measurement system your recipe follows."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring cup instead of a scale for 200 grams of rice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but a scale is more accurate. If using cups, spoon the rice in lightly and level it off. Avoid packing it down, as this can lead to using too much rice in your air fryer dish."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How much cooked rice does 200 grams of uncooked rice yield?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "200 grams of uncooked rice expands to about 3 cups cooked. This is useful for meal prep or portioning air fryer recipes. Remember, rice triples in volume when cooked, so adjust servings accordingly."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 200 Grams of Rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-rice",
+    "description": "Discover how to convert 200 grams of rice to cups for perfect cooking every time. Includes UK and US measurements for accuracy.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-25T23:55:27.950000+00:00",
+    "dateModified": "2025-07-25T23:55:27.950000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-rice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 200 Grams of Rice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-rice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>200 grams of rice equals approximately 1 cup in the US and 0.88 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you're meal prepping or whipping up a quick side dish, knowing how much rice to use makes all the difference.</p>  

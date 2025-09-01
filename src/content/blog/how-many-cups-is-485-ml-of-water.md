@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 485 ml of Water?"
 description: "Learn how to convert 485 ml of water to cups for precise cooking and baking. Get accurate measurements for UK and US cups in seconds."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-485-ml-of-water-a132a01c.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-of-water.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-water",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-water"
+    },
+    "headline": "Quick Guide: Converting 485 ml of Water to Cups Easily",
+    "description": "Learn how to convert 485 ml of water to cups for precise cooking and baking. Get accurate measurements for UK and US cups in seconds.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-of-water.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 485 ml of water the same as 2 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 485 ml of water equals roughly 2.05 US cups or 1.7 UK cups. The difference might seem small, but in baking or air fryer cooking, precise measurements matter. Always check whether your recipe uses US or UK cup measurements to avoid errors."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a regular drinking cup to measure 485 ml of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Drinking cups vary in size, so they’re not reliable for accurate measurements. A standard US measuring cup holds 240 ml, and a UK one holds 284 ml. For 485 ml of water, use proper measuring tools or a kitchen scale for best results, especially in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe turn out soggy when using 485 ml of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers need minimal moisture to crisp food. If your dish is soggy, you might be using too much water. Try reducing the liquid slightly or patting ingredients dry before cooking. Also, ensure you’ve converted 485 ml to cups correctly for your region."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 485 ml of water to cups for a UK recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For UK recipes, 485 ml of water is about 1.7 cups (since 1 UK cup = 284 ml). If the recipe calls for exact measurements, use a jug marked in millilitres or a digital scale. For air fryer cooking, precision helps avoid under- or overcooking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 485 ml of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-water",
+    "description": "Learn how to convert 485 ml of water to cups for precise cooking and baking. Get accurate measurements for UK and US cups in seconds.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-water#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 485 ml of Water?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-water"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>485 ml of water is approximately 2.05 US cups or 1.7 UK cups. Getting this conversion right is essential for cooking, baking, and especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're preparing a sauce, batter, or simply hydrating ingredients, knowing how to convert millilitres to cups ensures consistency in your dishes.</p>  

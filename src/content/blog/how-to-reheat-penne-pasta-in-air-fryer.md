@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Penne Pasta in an Air Fryer"
 description: "Learn how to reheat penne pasta in an air fryer without drying it out. Get perfect temperature, timing & tips for crispy leftovers at airfryerrecipe.co.uk."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-penne-pasta-in-air-fryer-a0e402c4.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-penne-pasta-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-penne-pasta-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-penne-pasta-in-air-fryer"
+    },
+    "headline": "Reheat Penne Pasta in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat penne pasta in an air fryer without drying it out. Get perfect temperature, timing & tips for crispy leftovers at airfryerrecipe.co.uk.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T19:59:55.735000+00:00",
+    "dateModified": "2025-07-22T19:59:55.735000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-penne-pasta-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat penne pasta with sauce in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Saucy penne pasta reheats beautifully in an air fryer. Just stir in a teaspoon of water before cooking to prevent the sauce from drying out. Creamy sauces like alfredo may need 30 seconds less time than tomato-based ones."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I reheat penne pasta without it getting hard?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The trick is using lower heat (160°C) and adding moisture. Either sprinkle water over the pasta before reheating or cover it loosely with foil for the first half of cooking. Shaking the basket halfway through also prevents uneven drying."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is it safe to reheat penne pasta that's been in the fridge for 3 days?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, if stored properly in an airtight container. Ensure the pasta reaches 75°C internally when reheating. For extra safety, give it a quick sniff test first – if it smells off, don’t risk it."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my reheated penne pasta stick to the air fryer basket?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Sticking usually means either insufficient oil or overcrowding. Lightly grease the basket or use parchment liners designed for air fryers. Spread pasta in a single layer, and toss it with a bit of olive oil if it’s very dry."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Penne Pasta in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-penne-pasta-in-air-fryer",
+    "description": "Learn how to reheat penne pasta in an air fryer without drying it out. Get perfect temperature, timing & tips for crispy leftovers at airfryerrecipe.co.uk.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T19:59:55.735000+00:00",
+    "dateModified": "2025-07-22T19:59:55.735000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-penne-pasta-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Penne Pasta in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-penne-pasta-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>Reheating penne pasta in an air fryer takes just 3-5 minutes at 160°C (320°F), giving it a deliciously crispy texture while keeping the inside moist. This method beats microwaving, which often leaves pasta rubbery or unevenly heated. Whether you’ve got a saucy bake or plain penne, your air fryer can revive leftovers brilliantly.</p>

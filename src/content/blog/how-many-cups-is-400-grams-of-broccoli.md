@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 400 Grams of Broccoli?"
 description: "Discover how to convert 400 grams of broccoli to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-400-grams-of-broccoli-90531627.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-broccoli.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-broccoli",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-broccoli"
+    },
+    "headline": "Quick Answer: How Many Cups Is 400 Grams of Broccoli?",
+    "description": "Discover how to convert 400 grams of broccoli to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-broccoli.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use frozen broccoli instead of fresh for 400 grams in cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but frozen broccoli is denser due to ice content, so 400 grams may measure closer to 3.5 cups once thawed. Drain excess water to avoid soggy results in the air fryer. Fresh broccoli yields a truer 4-cup measurement for 400 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many servings does 400 grams of broccoli make in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "400 grams (about 4 cups) of broccoli serves 2–4 people as a side dish, depending on portion size. In the air fryer, this quantity cooks evenly without overcrowding, making it ideal for family meals or meal prep."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do I need to adjust cooking time for 400 grams of broccoli in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For 400 grams of broccoli, cook at 180°C for 10–12 minutes, shaking the basket halfway. Larger batches may require longer, but sticking to 400 grams ensures crispiness without over- or undercooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I store leftover cooked broccoli from 400 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the air fryer at 160°C for 3–4 minutes to restore crispiness. Avoid microwaving, as it can make the broccoli mushy."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-broccoli",
+    "description": "Discover how to convert 400 grams of broccoli to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-broccoli#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 400 Grams of Broccoli?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-broccoli"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>400 grams of broccoli is roughly equivalent to 4 cups when chopped. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you’re roasting, steaming, or crisping broccoli in your air fryer, knowing how many cups 400 grams translates to ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can focus on creating delicious meals.</p>

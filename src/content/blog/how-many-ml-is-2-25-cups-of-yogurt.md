@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 2.25 Cups of Yogurt?"
 description: "Convert 2.25 cups of yogurt to ml effortlessly for precise air fryer recipes. Get accurate measurements and cooking tips here!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-2-25-cups-of-yogurt-63b36bfb.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-yogurt.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-yogurt"
+    },
+    "headline": "Quick Conversion: How Many ml Is 2.25 Cups of Yogurt?",
+    "description": "Convert 2.25 cups of yogurt to ml effortlessly for precise air fryer recipes. Get accurate measurements and cooking tips here!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T08:54:40.015000+00:00",
+    "dateModified": "2025-07-30T08:54:40.015000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.25 cups of yogurt the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, UK and US cup measurements differ slightly. In the US, 2.25 cups of yogurt equals 532.5 ml, while in the UK, it’s approximately 639 ml due to the larger UK cup size (284 ml per cup). Always check your recipe’s origin to ensure accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use Greek yogurt instead of regular yogurt for 2.25 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but Greek yogurt is thicker, so you may need to adjust liquids in your recipe. For 2.25 cups (532.5 ml), consider adding a splash of milk or water to match regular yogurt’s consistency, especially in batters or marinades."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 2.25 cups of yogurt without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a standard 250 ml mug: 2 full mugs (500 ml) plus a scant half mug (32.5 ml) approximates 532.5 ml. For precision, weigh it—yogurt weighs roughly 245 grams per cup, so 2.25 cups is about 551 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my yogurt-based air fryer recipe turn out watery?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Excess moisture can occur if the yogurt isn’t drained (for thicker varieties) or if the air fryer temperature is too low. For sauces or dips, cook uncovered at a higher heat for the last few minutes to evaporate extra liquid."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.25 Cups of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-yogurt",
+    "description": "Convert 2.25 cups of yogurt to ml effortlessly for precise air fryer recipes. Get accurate measurements and cooking tips here!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T08:54:40.015000+00:00",
+    "dateModified": "2025-07-30T08:54:40.015000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 2.25 Cups of Yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.25 cups of yogurt equals approximately 532.5 millilitres (ml). This conversion is essential for air fryer recipes, where precision ensures the best texture and consistency. Whether you’re whipping up a cake, marinating chicken, or preparing a creamy dessert, knowing how many ml is 2.25 cups of yogurt helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

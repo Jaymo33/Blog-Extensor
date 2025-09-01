@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 40g of protein powder?"
 description: "Find out exactly how many ounces 40g of protein powder equals with this simple UK conversion guide—perfect for air fryer meal prep!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-40g-of-protein-powder-77c3ccaa.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-protein-powder.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-protein-powder",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-protein-powder"
+    },
+    "headline": "Quick Answer: How Many Ounces is 40g of Protein Powder?",
+    "description": "Find out exactly how many ounces 40g of protein powder equals with this simple UK conversion guide—perfect for air fryer meal prep!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-protein-powder.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 40g of protein powder the same as 40g of flour in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 40g of protein powder and 40g of flour both equal 1.41 oz, but their volumes differ due to density. Protein powder is often fluffier, so always weigh ingredients for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a US measuring cup for 40g of protein powder?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "US cups measure volume, not weight. Since protein powder densities vary, 40g (1.41 oz) might fill a cup differently depending on the brand. A scale is more reliable."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many scoops is 40g of protein powder?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It depends on the scoop size. Most protein powders use a 30g scoop, so 40g would be roughly 1.33 scoops. Check your product’s serving size to be sure."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes list protein powder in ounces instead of grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Ounces are more common in American recipes, while grams are standard in the UK. Converting 40g to ounces (1.41 oz) ensures compatibility with international recipes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of protein powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-protein-powder",
+    "description": "Find out exactly how many ounces 40g of protein powder equals with this simple UK conversion guide—perfect for air fryer meal prep!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-protein-powder#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 40g of protein powder?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-protein-powder"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>40 grams (40g) of protein powder equals approximately 1.41 ounces (oz). If you're using an air fryer for meal prep or baking, knowing this conversion ensures accurate measurements for perfect results every time. Whether you're making protein pancakes, shakes, or energy bites, getting the right amount of protein powder is key.</p>  

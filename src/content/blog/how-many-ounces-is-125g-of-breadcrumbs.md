@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 125g of breadcrumbs?"
 description: "Learn how to convert 125g of breadcrumbs to ounces for perfect air fryer recipes. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-125g-of-breadcrumbs-72bd1ad2.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-125g-of-breadcrumbs.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125g-of-breadcrumbs",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125g-of-breadcrumbs"
+    },
+    "headline": "Quick Guide: Convert 125g of Breadcrumbs to Ounces",
+    "description": "Learn how to convert 125g of breadcrumbs to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-125g-of-breadcrumbs.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 125g of breadcrumbs for gluten-free air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 125g of gluten-free breadcrumbs works the same way as regular breadcrumbs in air fryer recipes. Just ensure your other ingredients are also gluten-free if needed. The weight-to-ounce conversion (4.41 oz) remains identical."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 125g of breadcrumbs to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "125g of breadcrumbs is roughly 1.5 cups, but this can vary slightly depending on how fine or packed they are. For accuracy, especially in air fryer recipes, a kitchen scale is best."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to coat food evenly with 125g of breadcrumbs?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For even coating, dip your food in flour, then egg, and finally the 125g (4.41 oz) of breadcrumbs. Press gently to adhere, and shake off excess before air frying for a crisp finish."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I substitute panko for regular breadcrumbs in a 125g measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can swap panko for regular breadcrumbs at a 1:1 ratio (125g or 4.41 oz). Panko will give a lighter, crunchier texture, perfect for air fryer dishes like tonkatsu or crispy prawns."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of breadcrumbs?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125g-of-breadcrumbs",
+    "description": "Learn how to convert 125g of breadcrumbs to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125g-of-breadcrumbs#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 125g of breadcrumbs?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125g-of-breadcrumbs"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125g of breadcrumbs equals approximately 4.41 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfectly crispy results. Whether you’re coating chicken, fish, or vegetables, knowing how to convert grams to ounces helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions easy so you can focus on cooking delicious meals.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 100g of granulated sugar?"
 description: "Find out exactly how many ounces are in 100g of granulated sugar with our easy conversion guide. Perfect for air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-100g-granulated-sugar-7111e018.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-granulated-sugar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-granulated-sugar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-granulated-sugar"
+    },
+    "headline": "Quick Answer: How many ounces is 100g of granulated sugar?",
+    "description": "Find out exactly how many ounces are in 100g of granulated sugar with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-granulated-sugar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 100g of granulated sugar the same as 100ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 100g of granulated sugar is not the same as 100ml. Weight (grams) and volume (millilitres) measure different properties. 100g of granulated sugar equals about 118ml in volume due to sugar's density. For accurate baking, always measure sugar by weight rather than volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use brown sugar instead of granulated sugar in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can substitute brown sugar for granulated sugar, but you'll need to adjust quantities slightly. Brown sugar is more moist and dense, so 100g would be slightly less in volume than granulated. Expect a richer flavour and chewier texture in baked goods. Reduce cooking time by 1-2 minutes as brown sugar caramelises faster."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I clean sticky sugar residue from my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For sugar spills in your air fryer, wait until the appliance cools, then wipe with a damp cloth. For stubborn residue, use a soft brush with warm soapy water. Avoid harsh abrasives that could damage non-stick coatings. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaning guide</a> for more tips."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do my air fryer cakes sometimes taste too sweet?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers concentrate flavours more than conventional ovens, which can make sugar taste more intense. If your cakes taste too sweet, try reducing the sugar by 10-15g (about 0.35-0.53 ounces) while keeping other ingredients the same. The rapid air circulation enhances sweetness perception, so less sugar is often needed."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of granulated sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-granulated-sugar",
+    "description": "Find out exactly how many ounces are in 100g of granulated sugar with our easy conversion guide. Perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-granulated-sugar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 100g of granulated sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-granulated-sugar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>100g of granulated sugar equals approximately 3.53 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break your recipe. Whether you're whipping up cakes or cookies, getting the sugar quantity right ensures perfect results every time.</p>

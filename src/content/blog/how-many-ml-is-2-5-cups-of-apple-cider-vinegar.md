@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 2.5 Cups of Apple Cider Vinegar?"
 description: "Convert 2.5 cups of apple cider vinegar to ml effortlessly for precise cooking and baking. Perfect for air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-2-5-cups-of-apple-cider-vinegar-978c2355.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-apple-cider-vinegar.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-apple-cider-vinegar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-apple-cider-vinegar"
+    },
+    "headline": "Quick Conversion: 2.5 Cups of Apple Cider Vinegar to ml",
+    "description": "Convert 2.5 cups of apple cider vinegar to ml effortlessly for precise cooking and baking. Perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T08:54:40.465000+00:00",
+    "dateModified": "2025-07-30T08:54:40.465000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-apple-cider-vinegar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.5 cups of apple cider vinegar the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, UK and US cup measurements differ slightly. A US cup is 236.588 ml, while a UK cup is 284.131 ml. However, most modern recipes use the US standard, so 2.5 cups of apple cider vinegar would be 591.47 ml unless specified otherwise."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale to measure 2.5 cups of apple cider vinegar in ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While a kitchen scale can measure liquids by weight, it's less accurate for volume conversions like 2.5 cups (591.47 ml) of apple cider vinegar. A liquid measuring cup with millilitre markings is the best tool for precise results in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What if my recipe calls for 2.5 cups of apple cider vinegar but I only have a 500 ml bottle?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "2.5 cups equal 591.47 ml, so a 500 ml bottle won't be quite enough. You'd need an additional 91.47 ml (about 6 tablespoons) to match the recipe. Consider scaling the recipe down or using a combination of vinegar and water if needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 2.5 cups of apple cider vinegar last once opened?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "An opened bottle of apple cider vinegar lasts about 2 years if stored properly. Keep it in a cool, dark place with the lid tightly sealed. For best quality in recipes like air fryer marinades, use it within a year for optimal flavour."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.5 Cups of Apple Cider Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-apple-cider-vinegar",
+    "description": "Convert 2.5 cups of apple cider vinegar to ml effortlessly for precise cooking and baking. Perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T08:54:40.465000+00:00",
+    "dateModified": "2025-07-30T08:54:40.465000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-apple-cider-vinegar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 2.5 Cups of Apple Cider Vinegar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-apple-cider-vinegar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.5 cups of apple cider vinegar equals 591.47 millilitres (ml). This conversion is essential for precise cooking, especially when preparing marinades, dressings, or glazes for air fryer recipes. Whether you're following a British or American recipe, knowing how to convert cups to millilitres ensures accuracy and perfect results every time.</p>

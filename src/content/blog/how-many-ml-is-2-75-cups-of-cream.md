@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 2.75 Cups of Cream?"
 description: "Learn how to convert 2.75 cups of cream to ml for perfect baking and cooking results. Includes UK and US conversions for accuracy."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-2-75-cups-of-cream-96673385.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-cream.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-cream"
+    },
+    "headline": "Quick Guide: Convert 2.75 Cups of Cream to ml Easily",
+    "description": "Learn how to convert 2.75 cups of cream to ml for perfect baking and cooking results. Includes UK and US conversions for accuracy.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T08:54:40.075000+00:00",
+    "dateModified": "2025-07-30T08:54:40.075000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.75 cups of cream the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 2.75 cups of cream differs slightly between the UK and US due to cup size variations. In the UK, 2.75 cups equal 687.5 ml, while in the US, it’s approximately 651 ml. Always check which measurement system your recipe uses for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale instead of measuring cups for cream?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, weighing cream is often more accurate. Cream’s density means 1 ml weighs roughly 1 gram, so 650 ml would be about 650 grams. Use a digital scale for precision, especially in air fryer recipes where consistency matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust an air fryer recipe if I only have ml measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If your recipe lists cups but you prefer ml, simply convert using the standard 250 ml per UK cup or 236.6 ml per US cup. For 2.75 cups, that’s 687.5 ml (UK) or 651 ml (US). Adjust cooking times if the liquid volume changes significantly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for cream in ml instead of cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many air fryer recipes use ml for precision, as slight measurement errors can affect cooking. Ml measurements are also more universal, reducing confusion between UK and US cup sizes. Stick to ml for the best results in air fryer cooking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.75 Cups of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-cream",
+    "description": "Learn how to convert 2.75 cups of cream to ml for perfect baking and cooking results. Includes UK and US conversions for accuracy.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T08:54:40.075000+00:00",
+    "dateModified": "2025-07-30T08:54:40.075000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 2.75 Cups of Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.75 cups of cream equals approximately 650 ml in the UK and 651 ml in the US. This slight difference is due to the variation in cup sizes between the two regions. Whether you're whipping up a dessert or a creamy sauce in your air fryer, getting the measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for air fryer cooking, so let’s break it down.</p>  

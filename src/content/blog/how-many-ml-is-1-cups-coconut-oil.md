@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 1.0 Cups of Coconut Oil?"
 description: "Discover the exact ml measurement for 1.0 cups of coconut oil with our simple conversion guide—perfect for air fryer recipes!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-1-cups-coconut-oil-0093f2b7.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-cups-coconut-oil.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-coconut-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-coconut-oil"
+    },
+    "headline": "Quick Answer: How Many ml Is 1.0 Cups of Coconut Oil?",
+    "description": "Discover the exact ml measurement for 1.0 cups of coconut oil with our simple conversion guide—perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T20:11:40.852000+00:00",
+    "dateModified": "2025-07-28T20:11:40.852000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-cups-coconut-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does coconut oil measurement change if it's solid or liquid?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 1.0 cups of coconut oil equals 237 ml whether it's solid or melted. However, always measure melted oil in a liquid measuring cup for accuracy. Solid coconut oil should be packed firmly into a dry measuring cup."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use coconut oil instead of vegetable oil in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, coconut oil is a great substitute for vegetable oil in air fryers. Just remember that 1.0 cups of coconut oil equals 237 ml. Its high smoke point makes it ideal for frying and roasting, adding a subtle sweetness to dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 1.0 cups of coconut oil to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "1.0 cups of coconut oil (237 ml) weighs approximately 218 grams. This conversion is useful for recipes requiring weight measurements. Always check if your recipe specifies volume (ml) or weight (grams) for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is coconut oil healthier than other oils for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Coconut oil contains healthy fats and has a high smoke point, making it suitable for air frying. However, moderation is key—using 237 ml (1.0 cups) for large batches ensures even cooking without excess oil. It's a great alternative to processed oils."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.0 Cups of Coconut Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-coconut-oil",
+    "description": "Discover the exact ml measurement for 1.0 cups of coconut oil with our simple conversion guide—perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T20:11:40.852000+00:00",
+    "dateModified": "2025-07-28T20:11:40.852000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-coconut-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 1.0 Cups of Coconut Oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-coconut-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.0 cups of coconut oil equals 237 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up crispy snacks or baking delicious treats, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking measurements so you can focus on creating mouthwatering dishes.</p>

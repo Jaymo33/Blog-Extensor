@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 0.25 cup of shredded carrot?"
 description: "Discover how many ounces are in 0.25 cup of shredded carrot for perfect air fryer recipes. Get precise UK measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-0-25-cup-shredded-carrot-28678ebf.webp"
+pubDate: 2025-08-11T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-shredded-carrot.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-shredded-carrot",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-shredded-carrot"
+    },
+    "headline": "Quick Answer: 0.25 Cup Shredded Carrot to Ounces UK",
+    "description": "Discover how many ounces are in 0.25 cup of shredded carrot for perfect air fryer recipes. Get precise UK measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-shredded-carrot.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use pre-packaged shredded carrot instead of fresh for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, pre-packaged shredded carrot works well in air fryers, but check for added preservatives that might affect texture. Freshly shredded carrot tends to crisp better, while pre-cut versions may require slightly less cooking time due to moisture loss during storage."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does 0.25 cup shredded carrot compare to whole carrots in weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "One medium UK carrot (about 6 inches long) yields roughly 1 cup when shredded, so 0.25 cup represents a quarter of that carrot. In weight terms, this equates to approximately 1 ounce (28 grams) of shredded carrot from a portion of one whole carrot."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Do I need to adjust air fryer temperature when using 0.25 cup shredded carrot?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No temperature adjustment is needed for this small quantity. Cook at your recipe’s specified temperature (usually 160-180°C). However, spread the shreds evenly in the basket to prevent clumping, and shake halfway through for even crisping."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 0.25 cup shredded carrot take to cook in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "At 180°C, 0.25 cup (1 ounce) of shredded carrot cooks in 5-7 minutes. For softer results, go up to 8 minutes. If mixing with other ingredients (like in fritters), extend time by 2-3 minutes based on the recipe’s total volume."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of shredded carrot?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-shredded-carrot",
+    "description": "Discover how many ounces are in 0.25 cup of shredded carrot for perfect air fryer recipes. Get precise UK measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-11T22:11:18.984000+00:00",
+    "dateModified": "2025-08-11T22:11:18.984000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-shredded-carrot#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 0.25 cup of shredded carrot?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-shredded-carrot"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.25 cup of shredded carrot equals approximately 1 ounce (28 grams). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you’re making carrot fritters or adding veggies to a stir-fry, knowing the exact weight saves time and guarantees consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

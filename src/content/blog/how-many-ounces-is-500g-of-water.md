@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 500g of water?"
 description: "Discover how to convert 500g of water to ounces effortlessly for precise air fryer recipes. Perfect measurements every time!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-500g-of-water-f08fdfb2.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-water.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-water",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-water"
+    },
+    "headline": "Quick Answer: How Many Ounces is 500g of Water?",
+    "description": "Discover how to convert 500g of water to ounces effortlessly for precise air fryer recipes. Perfect measurements every time!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-water.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 500g of water the same as 500ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 500g of water is the same as 500ml because water has a density of 1g/ml. This makes converting between weight and volume straightforward for recipes. However, this only applies to water—other liquids like oil or milk have different densities."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a measuring cup instead of a scale for 500g of water?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use a measuring cup if it has metric markings. Since 500g of water equals 500ml, fill the cup to the 500ml line. For imperial measurements, aim for roughly 17.64 fluid ounces, though a scale is more precise for baking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some air fryer recipes use grams instead of ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many UK and European recipes use grams for greater precision, especially in baking. Grams provide smaller increments than ounces, ensuring consistent results. If your recipe uses grams, stick with them for the best outcome."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does water affect air fryer cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Water adds moisture, preventing food from drying out during air frying. It’s useful for steaming vegetables or reheating leftovers. However, avoid adding too much, as excess water can create steam that affects crispiness. Always measure carefully for balanced results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-water",
+    "description": "Discover how to convert 500g of water to ounces effortlessly for precise air fryer recipes. Perfect measurements every time!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-water#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 500g of water?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-water"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>500g of water equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're baking, steaming, or reheating, knowing how to convert grams to ounces helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for delicious meals.</p>  

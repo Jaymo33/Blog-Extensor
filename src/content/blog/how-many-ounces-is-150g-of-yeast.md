@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 150g of yeast?"
 description: "Learn how to convert 150g of yeast to ounces in seconds with our simple guide. Perfect for baking in your air fryer or oven!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-150g-of-yeast-e2e629e5.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-of-yeast.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-yeast",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-yeast"
+    },
+    "headline": "Quick Guide: Convert 150g of Yeast to Ounces Easily",
+    "description": "Learn how to convert 150g of yeast to ounces in seconds with our simple guide. Perfect for baking in your air fryer or oven!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-of-yeast.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 150g of yeast the same as 5.29 ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 150g of yeast is approximately 5.29 ounces. This conversion is based on the standard metric-to-imperial ratio, where 1 gram equals 0.035 ounces. For baking accuracy, always use a digital scale when possible."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use volume measurements instead of weight for 150g of yeast?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While you can use tablespoons (about 16.5 for 150g), weight measurements are far more precise. Yeast density can vary, so weighing ensures consistency, especially in air fryer recipes where exact proportions matter."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many 7g yeast packets make 150g?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "150g of yeast equals about 21.4 packets of 7g yeast. Since you can’t split packets, round up to 22 for safety. Bulk yeast is more cost-effective for large batches."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does yeast type affect the 150g-to-ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the conversion stays the same for active dry, instant, or fresh yeast. However, substitution ratios differ—check your recipe for the correct type before measuring."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of yeast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-yeast",
+    "description": "Learn how to convert 150g of yeast to ounces in seconds with our simple guide. Perfect for baking in your air fryer or oven!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-yeast#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 150g of yeast?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-yeast"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>150g of yeast equals approximately 5.29 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like doughnuts or bread. Whether you're following a UK recipe or adapting an international one, knowing how to convert grams to ounces ensures your baked goods turn out perfectly every time.</p>

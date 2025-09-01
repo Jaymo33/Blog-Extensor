@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 125 Grams of Milk?"
 description: "Discover how to convert 125 grams of milk to cups for perfect baking and cooking every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-125-grams-of-milk-26206fc2.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-milk.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-milk",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-milk"
+    },
+    "headline": "Quick Guide: Convert 125 Grams of Milk to Cups Easily",
+    "description": "Discover how to convert 125 grams of milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T21:00:05.320000+00:00",
+    "dateModified": "2025-07-27T21:00:05.320000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-milk.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 125 grams of milk the same as 125ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, for most practical purposes, 125 grams of milk is roughly equal to 125ml because milk's density is very close to water. However, slight variations can occur based on fat content, so using a scale is best for precision."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use almond milk instead of regular milk for 125 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute almond milk, but check the consistency as it may be slightly thinner. Use the same 125-gram measurement, but adjust other liquids in the recipe if needed for the right texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 125 grams of milk without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a liquid measuring cup: 125 grams is about 125ml, which is just over half a US cup or exactly half a UK metric cup. Pour slowly to ensure accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use grams instead of cups for milk?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide more precision, especially in baking where exact ratios matter. Cups can vary based on how you fill them, while grams ensure consistency every time."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 125 Grams of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-milk",
+    "description": "Discover how to convert 125 grams of milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T21:00:05.320000+00:00",
+    "dateModified": "2025-07-27T21:00:05.320000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-milk#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 125 Grams of Milk?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-milk"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>125 grams of milk is roughly equivalent to 0.53 cups (or just over half a cup) in standard US measurements. If you're using UK metric cups, it's approximately 0.5 cups. This conversion is handy whether you're baking, cooking, or preparing air fryer recipes where precision matters.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 460 ml of Yogurt?"
 description: "Learn how to convert 460 ml of yogurt to cups for perfect baking and cooking every time. Includes UK and US measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-460-ml-of-yogurt-9f19dbdf.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-yogurt.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-yogurt"
+    },
+    "headline": "Quick Guide: Convert 460 ml of Yogurt to Cups Easily",
+    "description": "Learn how to convert 460 ml of yogurt to cups for perfect baking and cooking every time. Includes UK and US measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 460 ml of yogurt the same as 2 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 460 ml of yogurt is slightly less than 2 cups. In the UK, it’s about 1.94 cups, and in the US, it’s roughly 1.95 cups. The difference is minimal, but for precise baking, it’s best to measure accurately."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use Greek yogurt instead of regular yogurt in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but Greek yogurt is thicker, so you may need to adjust other liquids in the recipe. If the batter seems too dense, add a splash of milk or water to thin it out slightly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 460 ml of yogurt without a measuring cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use tablespoons—30 UK tablespoons (15 ml each) will give you 450 ml, which is close enough. Alternatively, weigh it on a kitchen scale; 460 ml of yogurt weighs about 460 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of yogurt affect the conversion from ml to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The thickness can vary slightly, but for most types (regular, Greek, or flavoured), the ml-to-cup conversion remains the same. Just ensure you’re measuring it consistently for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 460 ml of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-yogurt",
+    "description": "Learn how to convert 460 ml of yogurt to cups for perfect baking and cooking every time. Includes UK and US measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T00:26:06.873000+00:00",
+    "dateModified": "2025-08-01T00:26:06.873000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 460 ml of Yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>460 ml of yogurt is roughly 1.94 cups in the UK or 1.95 cups in the US. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're making a creamy marinade or a fluffy cake, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>  

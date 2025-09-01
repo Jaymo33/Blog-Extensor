@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 2.75 Cups of Minced Beef?"
 description: "Convert 2.75 cups of minced beef to grams effortlessly with our easy guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-2-75-cups-of-minced-beef-7b603dab.webp"
+pubDate: 2025-07-28T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-minced-beef.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-minced-beef",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-minced-beef"
+    },
+    "headline": "Quick Conversion: 2.75 Cups of Minced Beef to Grams",
+    "description": "Convert 2.75 cups of minced beef to grams effortlessly with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-28T16:03:14.145000+00:00",
+    "dateModified": "2025-07-28T16:03:14.145000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-minced-beef.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 2.75 cups of minced beef the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 2.75 cups of minced beef converts to roughly 625 grams in both the UK and US. However, fat content can slightly affect the weight, so using a scale is best for precision. This measurement works well for air fryer recipes on both sides of the Atlantic."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for frozen minced beef?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Frozen minced beef may weigh slightly more due to ice crystals, so thaw it first for accurate measurements. Once thawed, 2.75 cups should still be around 625 grams. Always pat it dry before cooking in the air fryer to avoid excess moisture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many servings does 625g (2.75 cups) of minced beef make?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "625g of minced beef typically serves 4-6 people, depending on the recipe. For air fryer dishes like burgers or meatballs, it yields about 6 portions. Adjust seasonings and sides accordingly for larger or smaller groups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best way to store leftover minced beef?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Store cooked minced beef in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portions and reheat in the air fryer at 160°C for 5-7 minutes. Always ensure it’s piping hot before serving."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.75 Cups of Minced Beef?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-minced-beef",
+    "description": "Convert 2.75 cups of minced beef to grams effortlessly with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-28T16:03:14.145000+00:00",
+    "dateModified": "2025-07-28T16:03:14.145000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-minced-beef#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 2.75 Cups of Minced Beef?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-minced-beef"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>2.75 cups of minced beef equals approximately 625 grams, making it easier to measure for your air fryer recipes. Whether you're prepping for burgers, meatballs, or a hearty bolognese, knowing this conversion ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when cooking with an air fryer.</p>

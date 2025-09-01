@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 375 Grams of Chicken Breast?"
 description: "Learn how to convert 375 grams of chicken breast to cups for perfect air fryer recipes every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-375-grams-of-chicken-breast-b04f47f5.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-375-grams-of-chicken-breast.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-chicken-breast",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-chicken-breast"
+    },
+    "headline": "Quick Guide: Convert 375 Grams of Chicken Breast to Cups Easily",
+    "description": "Learn how to convert 375 grams of chicken breast to cups for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-375-grams-of-chicken-breast.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use frozen chicken breast for 375 grams to cups conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but thaw it first for accurate measurements. Frozen chicken contains ice crystals that affect volume and weight. Thaw in the fridge overnight, then pat dry before dicing or shredding. This ensures your 375 grams of chicken breast converts correctly to cups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does cooking method affect the cup measurement for 375 grams of chicken breast?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cooking shrinks chicken, so raw measurements differ from cooked. 375 grams of raw chicken breast yields about 1.5 to 2 cups, but cooked it reduces to roughly 1 to 1.25 cups. Always measure raw chicken for recipes specifying uncooked quantities."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 375 grams of chicken breast enough for two people?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely. 375 grams of chicken breast provides two generous 187-gram portions, perfect for main meals. It's ideal for air fryer recipes like fajitas or salads. For heartier appetites, pair with sides from our <a href=https://www.airfryerrecipe.co.uk/recipe-category/vegetables>vegetable recipes</a>."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my 375 grams of chicken breast measure differently in cups sometimes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Dice size and packing method cause variations. Tightly packed shredded chicken takes less space than loosely packed chunks. For consistency, use uniform cuts and lightly fill measuring cups. When precision matters, weigh ingredients instead of using volume measurements."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 375 Grams of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-chicken-breast",
+    "description": "Learn how to convert 375 grams of chicken breast to cups for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:34:06.484000+00:00",
+    "dateModified": "2025-07-26T21:34:06.484000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-chicken-breast#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 375 Grams of Chicken Breast?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-chicken-breast"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>375 grams of chicken breast is roughly equivalent to 1.5 to 2 cups when diced or shredded, depending on the size of the pieces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're cooking a family meal or prepping ingredients for the week, knowing how to convert grams to cups ensures consistency and perfect results every time.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 1.5 Cups of Rolled Oats?"
 description: "Convert 1.5 cups of rolled oats to grams effortlessly for perfect air fryer recipes every time. Get precise measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-5-cups-of-rolled-oats-e1e828a8.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-cups-of-rolled-oats.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-rolled-oats",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-rolled-oats"
+    },
+    "headline": "Quick Answer: How Many Grams Is 1.5 Cups of Rolled Oats?",
+    "description": "Convert 1.5 cups of rolled oats to grams effortlessly for perfect air fryer recipes every time. Get precise measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T23:31:15.600000+00:00",
+    "dateModified": "2025-07-27T23:31:15.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-cups-of-rolled-oats.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of rolled oats affect the gram measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, thicker rolled oats (like jumbo oats) may weigh slightly more per cup due to less processing. However, standard rolled oats average 90g per cup, so 1.5 cups would still be around 135g. For precision, weigh your specific brand."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use instant oats instead of rolled oats in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can, but adjust the quantity: instant oats weigh less (about 80g per cup) and cook faster. Reduce air fryer time by 1–2 minutes to prevent burning. Texture will also be softer compared to rolled oats."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert grams back to cups if my recipe uses weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Divide the gram measurement by 90 (the weight of 1 cup of rolled oats). For example, 180g ÷ 90 = 2 cups. Use the spoon-and-level method for accuracy, especially in baking recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe with oats turn out dry?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Over-measuring oats can absorb too much moisture. Ensure you’re using 135g for 1.5 cups and add a tablespoon of liquid (like milk or oil) if needed. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> to rule out residue affecting performance."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.5 Cups of Rolled Oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-rolled-oats",
+    "description": "Convert 1.5 cups of rolled oats to grams effortlessly for perfect air fryer recipes every time. Get precise measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T23:31:15.600000+00:00",
+    "dateModified": "2025-07-27T23:31:15.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-rolled-oats#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 1.5 Cups of Rolled Oats?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-rolled-oats"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 cups of rolled oats equals approximately 135 grams. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making granola, oat bars, or a hearty breakfast, knowing this conversion helps avoid kitchen mishaps.</p>

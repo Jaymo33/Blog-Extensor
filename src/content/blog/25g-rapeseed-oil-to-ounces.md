@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 25g of rapeseed oil?"
 description: "Convert 25g of rapeseed oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/25g-rapeseed-oil-to-ounces-a4a42351.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-rapeseed-oil-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-rapeseed-oil-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-rapeseed-oil-to-ounces"
+    },
+    "headline": "Quick 25g rapeseed oil to ounces conversion for air fryers",
+    "description": "Convert 25g of rapeseed oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-rapeseed-oil-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Why is rapeseed oil good for air fryer cooking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Rapeseed oil is excellent for air fryer cooking because it has a high smoke point (around 230°C), meaning it won't break down at typical air frying temperatures. Its neutral flavour doesn't overpower other ingredients, and it helps create crispy textures without excessive greasiness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use other oils if I don't have rapeseed oil?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute other oils with similar smoke points, like sunflower or vegetable oil, using the same 25g measurement. However, olive oil (especially extra virgin) has a lower smoke point and stronger flavour, so it's not always the best substitute for rapeseed oil in air frying."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 25g of rapeseed oil without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Without scales, you can approximate 25g of rapeseed oil using volume measurements - it's roughly 2 tablespoons. However, for complete accuracy, especially in baking recipes, investing in digital kitchen scales is recommended as oil density can vary slightly with temperature."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of rapeseed oil affect the 25g to ounces conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the conversion from 25g to ounces (0.88 oz) remains the same whether you're using standard rapeseed oil or cold-pressed varieties. The density difference between types is negligible for cooking measurements, though flavour and nutritional profiles may vary."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of rapeseed oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-rapeseed-oil-to-ounces",
+    "description": "Convert 25g of rapeseed oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-rapeseed-oil-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 25g of rapeseed oil?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-rapeseed-oil-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>25g of rapeseed oil equals approximately 0.88 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference to your results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dish, knowing how to convert grams to ounces ensures perfect cooking every time.</p>

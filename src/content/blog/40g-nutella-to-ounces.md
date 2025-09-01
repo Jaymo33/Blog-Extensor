@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 40g of nutella?"
 description: "Discover how to convert 40g of Nutella to ounces for perfect baking and air frying every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/40g-nutella-to-ounces-ede063ec.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-nutella-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-nutella-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-nutella-to-ounces"
+    },
+    "headline": "Quick & Easy 40g Nutella to Ounces Conversion Guide",
+    "description": "Discover how to convert 40g of Nutella to ounces for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-nutella-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I measure 40g of Nutella without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can use tablespoons to measure 40g of Nutella—roughly 2.5 tablespoons equal 40g. For better accuracy, lightly grease the spoon to help the Nutella slide off. However, a digital scale is always the most precise method."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 40g of Nutella the same in fluid ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 40g of Nutella equals 1.41 weight ounces, not fluid ounces. Weight ounces measure mass, while fluid ounces measure volume. Nutella’s thick consistency means weight measurements are more reliable for recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 40g of Nutella in air fryer desserts?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 40g of Nutella is perfect for air fryer desserts like stuffed pastries, mug cakes, or drizzles. Its rich flavour enhances treats without overpowering them. Just ensure even distribution for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does 40g of Nutella matter in air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Precise measurements like 40g ensure consistent cooking and flavour in air fryer recipes. Too much Nutella can cause spills or uneven cooking, while too little may leave desserts lacking richness. Accuracy is key for perfect results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of nutella?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/40g-nutella-to-ounces",
+    "description": "Discover how to convert 40g of Nutella to ounces for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T21:33:21.570000+00:00",
+    "dateModified": "2025-08-08T21:33:21.570000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-nutella-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 40g of nutella?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/40g-nutella-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>40g of Nutella equals approximately 1.41 ounces. This conversion is essential for anyone using an air fryer to create delicious desserts or snacks with precise measurements. Whether you’re making Nutella-stuffed pastries or drizzling it over air-fried bananas, knowing the exact weight ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

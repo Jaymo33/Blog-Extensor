@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat Jacket Potato in an Air Fryer"
 description: "Learn how to reheat jacket potato in an air fryer for perfect crispiness. Get timings, temperatures, and tips for fluffy insides every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-jacket-potato-in-air-fryer-cef20366.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-jacket-potato-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jacket-potato-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jacket-potato-in-air-fryer"
+    },
+    "headline": "Reheat Jacket Potato in Air Fryer – Crispy & Quick Guide",
+    "description": "Learn how to reheat jacket potato in an air fryer for perfect crispiness. Get timings, temperatures, and tips for fluffy insides every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T18:39:33.442000+00:00",
+    "dateModified": "2025-07-22T18:39:33.442000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-jacket-potato-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat a jacket potato twice in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Yes, but only if it was refrigerated promptly after the first reheating. Ensure the potato reaches 75°C internally each time and consume immediately after the second reheating. Multiple reheating cycles increase food safety risks.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do you reheat a jacket potato with toppings in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>For cheese-topped potatoes, reheat at 160°C for 4 minutes, then add fresh cheese and cook 2 more minutes. For wet toppings like beans, cover with foil for the first 5 minutes to prevent drying out.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is my reheated jacket potato dry in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Overcooking or insufficient moisture causes dryness. Spritz cold potatoes with water before reheating, and reduce time by 1 minute if your air fryer runs hot. Wrapping in damp kitchen paper for the first 2 minutes can help.</p>"
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat a frozen pre-cooked jacket potato in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "<p>Absolutely. Cook at 180°C for 10–12 minutes from frozen, flipping halfway. No need to thaw – the air fryer’s rapid circulation prevents icy centres while crisping the skin beautifully.</p>"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat Jacket Potato in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jacket-potato-in-air-fryer",
+    "description": "Learn how to reheat jacket potato in an air fryer for perfect crispiness. Get timings, temperatures, and tips for fluffy insides every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T18:39:33.442000+00:00",
+    "dateModified": "2025-07-22T18:39:33.442000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jacket-potato-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat Jacket Potato in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jacket-potato-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>To reheat a jacket potato in an air fryer, preheat to 180°C (350°F) and cook for 5–8 minutes until piping hot. This method restores crispiness while keeping the inside fluffy – far better than microwaving. Whether you’ve stored your spud in the fridge or have leftovers from last night, your air fryer is the ideal tool for revival.</p>

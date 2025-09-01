@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 30g of caster sugar?"
 description: "Discover how to convert 30g of caster sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-30g-caster-sugar-dad26e13.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-caster-sugar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-caster-sugar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-caster-sugar"
+    },
+    "headline": "Quick Guide: Convert 30g Caster Sugar to Ounces Easily",
+    "description": "Discover how to convert 30g of caster sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-caster-sugar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use granulated sugar instead of caster sugar for 30g in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but granulated sugar has larger crystals, which may affect texture. For best results, stick to caster sugar or blitz granulated sugar briefly in a blender to mimic caster sugar's fine texture. In air fryer baking, finer sugar dissolves better."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 30g caster sugar to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "30g of caster sugar is roughly ¼ cup, but measuring by weight (grams or ounces) is more accurate. Cups can vary based on how you scoop the sugar, so scales are recommended for air fryer recipes where precision matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is caster sugar better for air fryer baking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Caster sugar dissolves faster, creating smoother batters and even bakes. In air fryers, where cooking is rapid, fine sugar ensures consistent sweetness and texture without graininess. It’s ideal for cakes, cookies, and meringues."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 30g caster sugar conversion change for US ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 30g equals 1.06 ounces in both UK and US measurements. The ounce measurement is standardized, so you can use this conversion confidently in any recipe, including air fryer bakes."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-caster-sugar",
+    "description": "Discover how to convert 30g of caster sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-caster-sugar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 30g of caster sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-caster-sugar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>30g of caster sugar equals approximately 1.06 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up cakes, cookies, or desserts, knowing how to convert 30g caster sugar to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with every air fryer bake.</p>

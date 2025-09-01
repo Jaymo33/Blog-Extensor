@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 260 ml of Double Cream?"
 description: "Learn how to convert 260 ml of double cream to cups in seconds for perfect baking and cooking results every time."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-260-ml-of-double-cream-946eea87.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-260-ml-of-double-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-double-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-double-cream"
+    },
+    "headline": "Quick Guide: Convert 260 ml of Double Cream to Cups Easily",
+    "description": "Learn how to convert 260 ml of double cream to cups in seconds for perfect baking and cooking results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-260-ml-of-double-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use single cream instead of double cream in a recipe calling for 260 ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute single cream for double cream, but the texture and richness will differ. Double cream has a higher fat content, so your dish may be less creamy. Adjust cooking times slightly if using an air fryer, as single cream may behave differently under heat."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 260 ml of double cream without a measuring jug?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a measuring jug, you can use a standard tablespoon. There are roughly 15 ml in a tablespoon, so 260 ml would be about 17 tablespoons. Alternatively, use a kitchen scale—260 ml of double cream weighs approximately 260 grams."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for 260 ml of double cream specifically?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Recipes often specify 260 ml of double cream to ensure the right consistency and flavour balance. In air fryer cooking, precise amounts help achieve even cooking and perfect texture. Straying too far from the measurement could affect the dish's outcome."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Is 260 ml of double cream the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 260 ml of double cream is the same measurement in both the UK and US. However, cup sizes can vary slightly between countries, so it's best to stick to millilitres for accuracy. Always double-check conversions if using a recipe from another country."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 260 ml of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-double-cream",
+    "description": "Learn how to convert 260 ml of double cream to cups in seconds for perfect baking and cooking results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-double-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 260 ml of Double Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-double-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>260 ml of double cream is approximately 1.1 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistency in your recipes.</p>

@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 310 ml of Lime Juice?"
 description: "Convert 310 ml of lime juice to cups easily for baking or cooking. Perfect for air fryer recipes and precise measurements."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-310-ml-of-lime-juice-62e7afe9.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-lime-juice.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-lime-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-lime-juice"
+    },
+    "headline": "Quick Answer: How Many Cups Is 310 ml of Lime Juice?",
+    "description": "Convert 310 ml of lime juice to cups easily for baking or cooking. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-lime-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 310 ml of lime juice the same as 310 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 310 ml of lime juice is not the same as 310 grams. The weight depends on the density of the liquid. Lime juice weighs approximately 1.04 grams per ml, so 310 ml would be roughly 322 grams. For precise baking, it's best to measure by volume (ml) or weight (grams) as specified in the recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lime juice instead of fresh for 310 ml measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use bottled lime juice, but fresh lime juice often has a brighter, more vibrant flavour. If substituting, check for additives in bottled juice, as some brands contain preservatives or sweeteners that may alter the taste of your dish."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many limes do I need for 310 ml of juice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "On average, one lime yields about 30-45 ml of juice, depending on size and juiciness. For 310 ml, you’d need roughly 7-10 limes. Rolling limes before juicing and using a citrus press can help maximise yield."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 310 ml of lime juice conversion change for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, the conversion remains the same (1.31 cups). However, air fryer recipes may require slight adjustments due to faster cooking times. Always taste and adjust seasonings as needed, especially with acidic ingredients like lime juice."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 310 ml of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-lime-juice",
+    "description": "Convert 310 ml of lime juice to cups easily for baking or cooking. Perfect for air fryer recipes and precise measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:32:39.600000+00:00",
+    "dateModified": "2025-07-30T23:32:39.600000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-lime-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 310 ml of Lime Juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-lime-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>310 ml of lime juice is approximately 1.31 cups in the UK or 1.31 US customary cups. This conversion is essential for precise baking or cooking, especially when using an air fryer where ingredient ratios can affect results. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>  

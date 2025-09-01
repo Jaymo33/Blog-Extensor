@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 0.5 tbsp of garlic paste?"
 description: "Discover how many grams are in 0.5 tbsp of garlic paste for precise air fryer cooking. Get accurate measurements in seconds!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-5-tbsp-garlic-paste-1b5d7063.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-garlic-paste.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-garlic-paste",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-garlic-paste"
+    },
+    "headline": "Quick Answer: 0.5 tbsp garlic paste to grams conversion",
+    "description": "Discover how many grams are in 0.5 tbsp of garlic paste for precise air fryer cooking. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-garlic-paste.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use fresh garlic instead of 0.5 tbsp garlic paste?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute about 1.5 cloves of fresh minced garlic for 0.5 tbsp (7.5g) garlic paste. However, the flavour profile will be slightly different as paste has a more concentrated, cooked garlic taste. For air fryer recipes, paste often works better as it distributes more evenly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the brand of garlic paste affect the weight?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Different brands can vary slightly in density due to ingredients like oil or preservatives. Most commercial garlic pastes weigh about 15g per tablespoon, but for absolute precision in critical recipes, it's best to weigh your specific brand. The difference is usually minimal for home cooking purposes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 0.5 tbsp of garlic paste last once opened?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Opened garlic paste typically lasts 2-3 weeks in the refrigerator if stored properly in an airtight container. You can extend this by freezing measured portions. For best flavour in your air fryer recipes, try to use it within the first week after opening."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I make my own garlic paste and use the same conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Homemade garlic paste may be slightly different in density depending on your preparation method. As a general rule, the 0.5 tbsp to 7.5g conversion still applies if you've made a smooth, well-blended paste. For chunkier homemade versions, you might need to adjust quantities slightly to taste."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of garlic paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-garlic-paste",
+    "description": "Discover how many grams are in 0.5 tbsp of garlic paste for precise air fryer cooking. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-garlic-paste#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 0.5 tbsp of garlic paste?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-garlic-paste"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.5 tbsp of garlic paste equals approximately 7.5 grams. This measurement is crucial for air fryer recipes where precision ensures perfect flavour balance. Whether you're making marinades, sauces, or rubs, knowing this conversion helps avoid overpowering dishes.</p>

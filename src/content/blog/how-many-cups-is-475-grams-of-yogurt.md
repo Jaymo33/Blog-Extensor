@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 475 Grams of Yogurt?"
 description: "Learn how to convert 475 grams of yogurt to cups for perfect baking and cooking every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-475-grams-of-yogurt-2dbaf243.webp"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-yogurt.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-yogurt"
+    },
+    "headline": "Quick Guide: Convert 475 Grams of Yogurt to Cups Easily",
+    "description": "Learn how to convert 475 grams of yogurt to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T22:50:30.953000+00:00",
+    "dateModified": "2025-07-26T22:50:30.953000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-yogurt.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of yogurt affect how many cups 475 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the type of yogurt can affect the measurement. Greek yogurt is denser than regular yogurt, so 475 grams might be slightly less than 2 cups. For the most accurate results, use a kitchen scale."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 475 grams of yogurt in air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! 475 grams of yogurt works well in many air fryer recipes, from marinades to baked goods. Just ensure you measure it accurately for the best results. Check out our recipes for ideas."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 475 grams of yogurt without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don't have a scale, spoon the yogurt into a measuring cup and level it off with a knife. 475 grams is roughly 2 cups, but avoid packing it down to prevent over-measuring."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What can I make with 475 grams of yogurt in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "You can make a variety of dishes, such as yogurt-marinated chicken, air-fried cakes, or creamy dips. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for recipe inspiration using this amount of yogurt."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 475 Grams of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-yogurt",
+    "description": "Learn how to convert 475 grams of yogurt to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T22:50:30.953000+00:00",
+    "dateModified": "2025-07-26T22:50:30.953000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 475 Grams of Yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>475 grams of yogurt is approximately 2 cups. This conversion is handy whether you're baking, cooking, or meal prepping with your air fryer. Getting measurements right ensures your recipes turn out perfectly every time.</p>

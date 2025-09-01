@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 1 tbsp of onion?"
 description: "Discover the exact weight of 1 tbsp of onion in grams for perfect air fryer recipes. Get precise UK measurements and cooking tips here."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-1-tbsp-of-onion-4060a70c.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-onion.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-onion",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-onion"
+    },
+    "headline": "Quick Answer: How many grams is 1 tbsp of onion? UK Guide",
+    "description": "Discover the exact weight of 1 tbsp of onion in grams for perfect air fryer recipes. Get precise UK measurements and cooking tips here.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-onion.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of onion affect the weight per tablespoon?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, onion varieties can slightly vary in density. A tablespoon of finely chopped white onion typically weighs 10 grams, while red or sweet onions may be marginally lighter due to higher water content. For most recipes, this small difference won’t affect the outcome, but for precision baking, stick to one variety."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert grams of onion to cups for air fryer recipes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "160 grams of chopped onion equals roughly 1 cup. This conversion is useful for larger recipes or when scaling up. Remember that cup measurements are less precise than weight, so for best results in your air fryer, use a digital scale when possible."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use frozen chopped onions instead of fresh in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Frozen onions weigh slightly more per tablespoon (about 12 grams) due to ice crystals. Thaw and drain them first for accurate measurements. They work well in most air fryer recipes, though fresh onions yield crispier results for toppings."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe specify onion weight instead of volume?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Weight measurements (grams) are more accurate than volume (tablespoons) because onion pieces can settle differently. This precision ensures consistent cooking times and flavours in your air fryer. Always opt for weight measurements when they’re provided for best results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-onion",
+    "description": "Discover the exact weight of 1 tbsp of onion in grams for perfect air fryer recipes. Get precise UK measurements and cooking tips here.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-onion#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 1 tbsp of onion?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-onion"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1 tablespoon (tbsp) of chopped onion weighs approximately 10 grams in the UK. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect results. Whether you’re preparing a quick stir-fry or a hearty casserole, knowing the exact weight of your ingredients can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve culinary perfection with accurate conversions and tips.</p>

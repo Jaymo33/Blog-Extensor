@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 175 Grams of Yogurt?"
 description: "Need to convert 175 grams of yogurt to cups? Our guide gives you the exact measurement for UK and US cups, plus air fryer recipe tips. Find out now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-175-grams-of-yogurt-e484be47.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-yogurt.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-yogurt",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-yogurt"
+    },
+    "headline": "How Many Cups Is 175 Grams of Yogurt? – Quick Conversion Guide | AirFryerRecipe.co.uk",
+    "description": "Need to convert 175 grams of yogurt to cups? Our guide gives you the exact measurement for UK and US cups, plus air fryer recipe tips. Find out now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T16:57:37.476000+00:00",
+    "dateModified": "2025-07-22T16:57:37.476000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-yogurt.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of yogurt affect how many cups 175 grams equals?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, thicker yogurts like Greek style are denser, so 175 grams takes up less cup space (about 2/3 cup) compared to runnier natural yogurt (nearly 3/4 cup). Always check your recipe's yogurt type for best results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use milliliters instead of cups for 175 grams of yogurt?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Since yogurt has a similar density to water, 175 grams is roughly 175ml. This makes liquid measuring cups a handy alternative if you don't have kitchen scales available."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do my air fryer yogurt-based recipes sometimes turn out wet?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Using slightly more than 175 grams of yogurt can add excess moisture. Always measure precisely, and consider draining thicker yogurts in a sieve for 10 minutes if your recipe needs a drier consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store leftover yogurt after measuring out 175 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Press cling film directly onto the yogurt's surface to prevent drying, or transfer it to an airtight container. Stored properly in the fridge, it'll stay fresh for 3-5 days – perfect for your next air fryer recipe."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-yogurt",
+    "description": "Need to convert 175 grams of yogurt to cups? Our guide gives you the exact measurement for UK and US cups, plus air fryer recipe tips. Find out now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T16:57:37.476000+00:00",
+    "dateModified": "2025-07-22T16:57:37.476000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-yogurt#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 175 Grams of Yogurt?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-yogurt"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>175 grams of yogurt is approximately 0.74 cups in the UK or 0.7 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making a marinade, baking, or whipping up a creamy sauce, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you nail every recipe.</p>

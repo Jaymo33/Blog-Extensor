@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 635 ml of Single Cream?"
 description: "Convert 635 ml of single cream to cups easily for perfect air fryer recipes. Get precise measurements and avoid cooking mishaps today!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-635-ml-of-single-cream-6435affd.webp"
+pubDate: 2025-08-01T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-single-cream.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-single-cream",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-single-cream"
+    },
+    "headline": "Quick Conversion: 635 ml of Single Cream to Cups for Air Fryer Recipes",
+    "description": "Convert 635 ml of single cream to cups easily for perfect air fryer recipes. Get precise measurements and avoid cooking mishaps today!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-single-cream.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 635 ml of single cream the same as 2.68 cups in all countries?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While 635 ml of single cream equals approximately 2.68 cups in both the UK and US, cup sizes can vary slightly. The US uses a 240 ml cup, while the UK officially follows 250 ml. For most recipes, this small difference won't affect the outcome, but for precision baking, it's best to stick to one measurement system."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use double cream instead of single cream if I adjust the quantity?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but double cream has a higher fat content, so you'll need to adjust other liquids in the recipe. For 635 ml of single cream, you could use slightly less double cream (about 2.5 cups) and thin it with milk if needed. The texture and richness will differ, so consider the recipe requirements carefully."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How should I store leftover single cream after measuring 635 ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Transfer any unused single cream to an airtight container and refrigerate immediately. It typically lasts 3-4 days after opening. For longer storage, freeze single cream in measured portions, though note it may separate slightly when thawed—best used in cooked dishes rather than fresh applications."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe with single cream sometimes curdle?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers cook at high heat, which can cause single cream to curdle if heated too quickly. To prevent this, add cream towards the end of cooking or reduce the temperature slightly. Stirring frequently also helps distribute heat evenly and maintain a smooth texture."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 635 ml of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-single-cream",
+    "description": "Convert 635 ml of single cream to cups easily for perfect air fryer recipes. Get precise measurements and avoid cooking mishaps today!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-01T23:32:10.358000+00:00",
+    "dateModified": "2025-08-01T23:32:10.358000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-single-cream#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 635 ml of Single Cream?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-single-cream"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>635 ml of single cream is approximately 2.68 cups. This conversion is essential for air fryer recipes, ensuring accuracy when measuring ingredients for creamy sauces, desserts, or baked goods. Whether you're following a British or American recipe, knowing this conversion helps avoid kitchen mishaps.</p>

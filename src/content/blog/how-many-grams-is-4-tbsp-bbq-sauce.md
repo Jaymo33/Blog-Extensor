@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 4 tbsp of bbq sauce"
 description: "Discover the exact weight of 4 tbsp of BBQ sauce in grams for perfect air fryer recipes. Get accurate conversions and cooking tips here!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-4-tbsp-bbq-sauce-87ce6204.webp"
+pubDate: 2025-08-05T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-bbq-sauce.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-bbq-sauce",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-bbq-sauce"
+    },
+    "headline": "Quick Answer: How Many Grams is 4 Tbsp of BBQ Sauce?",
+    "description": "Discover the exact weight of 4 tbsp of BBQ sauce in grams for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-bbq-sauce.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does the type of BBQ sauce affect the weight of 4 tablespoons?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, thicker BBQ sauces (like smoky or honey-based) can weigh slightly more—around 65 grams for 4 tbsp. Lighter, vinegar-based sauces may be closer to 55 grams. Always check labels for density variations, especially with sugar-free or low-sodium options."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use 4 tbsp of BBQ sauce straight from the fridge in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It’s best to let chilled BBQ sauce reach room temperature first. Cold sauce can lower the air fryer’s temperature temporarily, affecting crispiness. Stirring it beforehand also ensures even distribution when coating food."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 4 tbsp of BBQ sauce to grams if my recipe uses cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Four tablespoons equal ¼ cup, so 60 grams of BBQ sauce is roughly ¼ cup. For larger batches, remember 1 cup of BBQ sauce weighs about 240 grams. Use a scale for precision, especially with sticky ingredients."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe call for grams instead of tablespoons for BBQ sauce?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams ensure consistency across brands and batch sizes, crucial for air fryers’ rapid cooking. Tablespoons can vary based on how sauce is scooped or levelled. Weight measurements eliminate guesswork for perfect results every time."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of bbq sauce",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-bbq-sauce",
+    "description": "Discover the exact weight of 4 tbsp of BBQ sauce in grams for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-05T23:07:32.143000+00:00",
+    "dateModified": "2025-08-05T23:07:32.143000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-bbq-sauce#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 4 tbsp of bbq sauce",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-bbq-sauce"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>4 tablespoons of BBQ sauce weigh approximately 60 grams. This measurement is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you're marinating chicken or glazing ribs, knowing the exact weight helps avoid overly saucy or dry results. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

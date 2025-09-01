@@ -1,12 +1,195 @@
 ---
 title: "How to Reheat French Toast in an Air Fryer"
 description: "Learn how to reheat French toast in an air fryer for crispy, warm results without drying out. Perfect temps, timings & tips for leftovers."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-to-reheat-french-toast-in-air-fryer-acbc8582.png"
+pubDate: 2025-07-22T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-french-toast-in-air-fryer.png"
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-french-toast-in-air-fryer",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-french-toast-in-air-fryer"
+    },
+    "headline": "Reheat French Toast in Air Fryer – Quick & Crispy Guide",
+    "description": "Learn how to reheat French toast in an air fryer for crispy, warm results without drying out. Perfect temps, timings & tips for leftovers.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-22T18:06:35.548000+00:00",
+    "dateModified": "2025-07-22T18:06:35.548000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-french-toast-in-air-fryer.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can you reheat French toast in an air fryer from frozen?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but thaw frozen French toast in the fridge overnight first for even reheating. If reheating straight from frozen, add 1-2 minutes to the cooking time and check frequently to prevent the outside burning before the middle thaws."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What's the best temperature to reheat French toast in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "160°C (320°F) is ideal - hot enough to crisp the exterior without drying out the egg-soaked interior. Some air fryers run hotter than others, so adjust by 10°C if needed based on your first results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do you keep French toast crispy when reheating?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Ensure proper spacing in the basket, preheat the air fryer, and consider a light oil spritz. Avoid covering the French toast during or after reheating, as trapped steam causes sogginess. Eat immediately for maximum crispness."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I reheat French toast with toppings in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It's best to add fresh toppings after reheating. Syrups, whipped cream or fruit will melt or burn at air fryer temperatures. For toppings like nuts or cinnamon sugar that can handle heat, add them in the last minute of cooking."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How to Reheat French Toast in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-french-toast-in-air-fryer",
+    "description": "Learn how to reheat French toast in an air fryer for crispy, warm results without drying out. Perfect temps, timings & tips for leftovers.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-22T18:06:35.548000+00:00",
+    "dateModified": "2025-07-22T18:06:35.548000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-french-toast-in-air-fryer#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How to Reheat French Toast in an Air Fryer",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-french-toast-in-air-fryer"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>To reheat French toast in an air fryer, preheat to 160°C (320°F) and cook for 3-4 minutes until heated through and crispy. This gentle temperature prevents drying while reviving that perfect golden texture. Whether you’ve got leftover French toast from breakfast or meal-prepped slices, your air fryer delivers better results than a microwave.</p>

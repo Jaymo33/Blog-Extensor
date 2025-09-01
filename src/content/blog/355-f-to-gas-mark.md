@@ -1,12 +1,195 @@
 ---
 title: "355 F to Gas Mark"
 description: "Convert 355°F to Gas Mark for oven and air fryer cooking. Includes conversion charts, tips for adjusting recipes, and temperature equivalents."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/355-f-to-gas-mark-c2620f95.png"
+pubDate: 2025-07-20T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/355-f-to-gas-mark.png"
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/355-f-to-gas-mark",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/355-f-to-gas-mark"
+    },
+    "headline": "355 F to Gas Mark: Oven & Air Fryer Conversion Guide",
+    "description": "Convert 355°F to Gas Mark for oven and air fryer cooking. Includes conversion charts, tips for adjusting recipes, and temperature equivalents.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-20T21:01:50.722000+00:00",
+    "dateModified": "2025-07-20T21:01:50.722000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/355-f-to-gas-mark.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use Gas Mark 4 instead of 4.5 for 355 F?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, Gas Mark 4 (350 F) can be used as it's only 5 degrees lower than 355 F. Your cooking time might need to be slightly longer, about 5-10 minutes more depending on the recipe. The difference is minimal for most dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I set 355 F on an air fryer without Gas Mark settings?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most digital air fryers allow you to input temperatures directly in Fahrenheit. Simply set it to 355 F. If your model only has presets, choose the setting closest to 350-375 F and adjust cooking time accordingly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes specify 355 F instead of 350 F or 375 F?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "355 F (Gas Mark 4.5) offers a middle ground - slightly hotter than 350 F for better browning but gentler than 375 F to prevent burning. It's ideal for recipes needing thorough cooking without excessive browning, like delicate cakes or juicy meats."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I cook frozen foods at 355 F in my air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 355 F works well for many frozen foods in air fryers. It's hot enough to crisp without burning. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a> for specific timing recommendations, as cooking times vary by item size and thickness."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "355 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/355-f-to-gas-mark",
+    "description": "Convert 355°F to Gas Mark for oven and air fryer cooking. Includes conversion charts, tips for adjusting recipes, and temperature equivalents.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-20T21:01:50.722000+00:00",
+    "dateModified": "2025-07-20T21:01:50.722000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/355-f-to-gas-mark#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "355 F to Gas Mark",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/355-f-to-gas-mark"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>355°F converts to Gas Mark 4.5 in UK ovens and air fryers. This temperature is commonly used for baking cakes, roasting vegetables, and cooking poultry. Whether you're using a conventional oven or an air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

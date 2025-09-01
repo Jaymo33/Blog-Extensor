@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 250 Grams of Chicken Breast?"
 description: "Learn how to convert 250 grams of chicken breast to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-250-grams-of-chicken-breast-b06b2f57.png"
+pubDate: 2025-07-26T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-chicken-breast.png"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-chicken-breast",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-chicken-breast"
+    },
+    "headline": "Quick Guide: Convert 250 Grams of Chicken Breast to Cups Easily",
+    "description": "Learn how to convert 250 grams of chicken breast to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-26T21:31:11.739000+00:00",
+    "dateModified": "2025-07-26T21:31:11.739000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-chicken-breast.png"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 250 grams of chicken breast equal 1.5 cups when cooked?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 250 grams of chicken breast shrinks by about 25–30% when cooked, yielding roughly 1 cup. Always measure raw chicken for recipes specifying uncooked weights or volumes. Cooked chicken is denser, so cup measurements differ."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use liquid measuring cups for 250 grams of chicken breast?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It’s best to use dry measuring cups for chicken, as liquid cups aren’t designed for solids. For 250 grams of chicken breast (1.5 cups), lightly fill a dry cup without packing. A kitchen scale is even more accurate."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many chicken breasts make 250 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Typically, one medium chicken breast weighs 150–200 grams, so 250 grams equals about 1.25 to 1.5 breasts. Sizes vary, so weighing ensures accuracy for recipes requiring 250 grams of chicken breast in cups."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do air fryer recipes use cups instead of grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many air fryer recipes originate from regions where cup measurements are standard. For 250 grams of chicken breast, cups simplify prep without scales. However, weighing (in grams) guarantees precision, especially for baking or marinades."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 250 Grams of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-chicken-breast",
+    "description": "Learn how to convert 250 grams of chicken breast to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-26T21:31:11.739000+00:00",
+    "dateModified": "2025-07-26T21:31:11.739000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-chicken-breast#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 250 Grams of Chicken Breast?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-chicken-breast"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>250 grams of chicken breast equals approximately 1.5 cups when diced or shredded. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you’re meal prepping or following a specific dish, knowing how to convert grams to cups saves time and avoids guesswork. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

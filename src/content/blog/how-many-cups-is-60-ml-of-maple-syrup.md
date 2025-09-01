@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 60 ml of Maple Syrup?"
 description: "Learn how to convert 60 ml of maple syrup to cups for perfect baking and air frying every time. Get accurate measurements in seconds!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-60-ml-of-maple-syrup-bf45e716.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-maple-syrup.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-maple-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-maple-syrup"
+    },
+    "headline": "Quick & Easy: Convert 60 ml of Maple Syrup to Cups",
+    "description": "Learn how to convert 60 ml of maple syrup to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T23:31:15.034000+00:00",
+    "dateModified": "2025-07-30T23:31:15.034000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-maple-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use honey instead of maple syrup in a 60 ml measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, honey can substitute maple syrup in equal amounts (60 ml = 0.25 cups). However, honey is sweeter and thicker, so reduce cooking temperature by 10°C to prevent over-browning. Adjust other liquids slightly if needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 60 ml of maple syrup if I don’t have metric tools?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use imperial equivalents: 60 ml equals 4 tablespoons or 2 fluid ounces. A standard US shot glass (1.5 oz) filled halfway plus 1 tablespoon also works. For sticky syrups, coat the spoon with oil first."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 60 ml of maple syrup have the same calories as 0.25 cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, since 60 ml and 0.25 cups are the same volume, the calorie count remains identical (about 200 kcal for pure maple syrup). Sugar content and nutritional values won’t vary by measurement type."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why does my air fryer recipe taste too sweet with 60 ml of maple syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers concentrate flavours due to rapid air circulation. Try reducing maple syrup to 45 ml (3 tbsp) or balancing it with acidic ingredients like lemon juice. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe adjustments guide</a> for troubleshooting."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Maple Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-maple-syrup",
+    "description": "Learn how to convert 60 ml of maple syrup to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T23:31:15.034000+00:00",
+    "dateModified": "2025-07-30T23:31:15.034000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-maple-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 60 ml of Maple Syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-maple-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>60 ml of maple syrup equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements ensure the best texture and flavour. Whether you're making glazes, marinades, or baked goods, knowing how to convert millilitres to cups saves time and avoids kitchen mishaps.</p>  

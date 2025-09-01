@@ -1,12 +1,195 @@
 ---
 title: "How Many ml Is 3.5 Cups of Maple Syrup?"
 description: "Discover the exact ml measurement for 3.5 cups of maple syrup with our simple conversion guide—perfect for air fryer recipes!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ml-is-3-5-cups-of-maple-syrup-655b730c.webp"
+pubDate: 2025-07-30T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-5-cups-of-maple-syrup.webp"
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-5-cups-of-maple-syrup",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-5-cups-of-maple-syrup"
+    },
+    "headline": "Quick Answer: How Many ml Is 3.5 Cups of Maple Syrup?",
+    "description": "Discover the exact ml measurement for 3.5 cups of maple syrup with our simple conversion guide—perfect for air fryer recipes!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-30T08:54:58.618000+00:00",
+    "dateModified": "2025-07-30T08:54:58.618000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-5-cups-of-maple-syrup.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 3.5 cups of maple syrup the same in the UK and US?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 3.5 cups of maple syrup equals approximately 828 ml in both the UK and US. Cup measurements are standardized for liquids like maple syrup, so you can use this conversion confidently in any recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a kitchen scale instead of measuring cups for maple syrup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Absolutely! Maple syrup weighs about 312 grams per cup, so 3.5 cups would be roughly 1,092 grams. Using a scale can be more precise, especially for sticky ingredients like syrup."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of maple syrup affect the ml measurement?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, whether you use Grade A or Grade B maple syrup, the ml measurement for 3.5 cups remains the same (828 ml). The difference lies in flavour intensity, not volume."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust cooking times when using maple syrup in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Maple syrup can caramelize quickly in the air fryer, so reduce the temperature by 10°C and check food frequently. This prevents burning while ensuring a perfect glaze or sweetness."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.5 Cups of Maple Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-5-cups-of-maple-syrup",
+    "description": "Discover the exact ml measurement for 3.5 cups of maple syrup with our simple conversion guide—perfect for air fryer recipes!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-30T08:54:58.618000+00:00",
+    "dateModified": "2025-07-30T08:54:58.618000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-5-cups-of-maple-syrup#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many ml Is 3.5 Cups of Maple Syrup?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-5-cups-of-maple-syrup"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>3.5 cups of maple syrup equals approximately 828 ml. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re drizzling it over roasted vegetables or using it as a glaze for meats, knowing the exact ml measurement helps avoid guesswork.</p>  

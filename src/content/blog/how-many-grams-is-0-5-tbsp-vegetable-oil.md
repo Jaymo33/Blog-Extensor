@@ -1,12 +1,195 @@
 ---
 title: "How many grams is 0.5 tbsp of vegetable oil"
 description: "Convert 0.5 tbsp of vegetable oil into grams for precise air fryer cooking. Get the exact weight and tips for perfect results every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-5-tbsp-vegetable-oil-9f1080e0.webp"
+pubDate: 2025-08-04T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-vegetable-oil.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-vegetable-oil",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-vegetable-oil"
+    },
+    "headline": "Quick Answer: 0.5 tbsp vegetable oil to grams",
+    "description": "Convert 0.5 tbsp of vegetable oil into grams for precise air fryer cooking. Get the exact weight and tips for perfect results every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-vegetable-oil.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use olive oil instead of vegetable oil for 0.5 tbsp measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can substitute olive oil, but note that its density is slightly different. 0.5 tbsp of olive oil weighs about 6.7 grams, nearly the same as vegetable oil. The small difference won’t affect most recipes, but for precision, adjust if needed."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is measuring oil in grams better than tablespoons for air frying?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide exact weight, eliminating inconsistencies from how you fill a spoon. Air fryers rely on even oil distribution for crispiness, so grams ensure accuracy. Tablespoons can vary based on oil type and temperature, but grams stay reliable."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 0.5 tbsp vegetable oil if I don’t have a ½ tablespoon spoon?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use a full tablespoon and estimate halfway, or measure 1.5 teaspoons (since 1 tbsp = 3 tsp). For the most accuracy, weigh 6.8 grams on a kitchen scale. A little practice makes it easy to eyeball."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of vegetable oil affect the gram weight for 0.5 tbsp?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Most vegetable oils (like sunflower or canola) have similar densities, so 0.5 tbsp ≈ 6.8 grams. Exceptions include thicker oils (e.g., coconut), which weigh slightly more. Always check specific oil types for precise conversions."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of vegetable oil",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-vegetable-oil",
+    "description": "Convert 0.5 tbsp of vegetable oil into grams for precise air fryer cooking. Get the exact weight and tips for perfect results every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-04T22:47:35.785000+00:00",
+    "dateModified": "2025-08-04T22:47:35.785000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-vegetable-oil#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many grams is 0.5 tbsp of vegetable oil",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-vegetable-oil"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.5 tbsp of vegetable oil weighs approximately 6.8 grams. This conversion is essential for air fryer recipes where accurate measurements ensure perfect results. Whether you’re frying, roasting, or baking, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Keep reading for more details on conversions and tips.</p>  

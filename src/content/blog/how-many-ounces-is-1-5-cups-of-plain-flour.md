@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 1.5 cups of plain flour?"
 description: "Learn how to convert 1.5 cups of plain flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-1-5-cups-of-plain-flour-f73c4ab2.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-plain-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-plain-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-plain-flour"
+    },
+    "headline": "Quick Guide: Convert 1.5 Cups of Plain Flour to Ounces Easily",
+    "description": "Learn how to convert 1.5 cups of plain flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-plain-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Why is 1.5 cups of plain flour not always 6.35 ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The weight of 1.5 cups of plain flour can vary due to factors like how you scoop it or humidity levels. Scooping directly from the bag compacts the flour, resulting in more than 6.35 ounces. Using a scale ensures accuracy, especially for air fryer recipes where precision matters."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use self-raising flour instead of plain flour in the same amount?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Self-raising flour weighs slightly less than plain flour because it contains baking powder. If substituting, 1.5 cups of self-raising flour is about 6 ounces, not 6.35 ounces. Adjustments may be needed for air fryer recipes to avoid overly dense or risen results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 1.5 cups of plain flour to grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "1.5 cups of plain flour equals approximately 180 grams. This conversion is useful for UK bakers who prefer metric measurements. For air fryer recipes, grams offer even greater precision than ounces, ensuring consistent results every time."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of measuring cup affect the ounce conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, US and UK measuring cups differ slightly in volume. A UK cup is 284ml, while a US cup is 240ml. For 1.5 cups of plain flour, this means about 6.7 ounces in UK cups versus 6.35 ounces in US cups. Always check which standard your recipe uses."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of plain flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-plain-flour",
+    "description": "Learn how to convert 1.5 cups of plain flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T23:45:58.474000+00:00",
+    "dateModified": "2025-08-10T23:45:58.474000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-plain-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 1.5 cups of plain flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-plain-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1.5 cups of plain flour equals approximately 6.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking cakes or coating chicken, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time.</p>

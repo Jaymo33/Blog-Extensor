@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 5g of wholemeal flour?"
 description: "Convert 5g of wholemeal flour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-5g-wholemeal-flour-28134a3c.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-wholemeal-flour.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-wholemeal-flour",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-wholemeal-flour"
+    },
+    "headline": "Quick & Easy 5g Wholemeal Flour to Ounces Conversion Guide",
+    "description": "Convert 5g of wholemeal flour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-wholemeal-flour.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How do I measure 5g of wholemeal flour without scales?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you don’t have scales, you can use measuring spoons – 1 level tablespoon of wholemeal flour is approximately 5g (0.18 ounces). However, this method isn’t as precise as using digital scales, especially for baking where accuracy matters. For best results, consider investing in an inexpensive kitchen scale."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does wholemeal flour weigh the same as white flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Wholemeal flour is slightly denser than white flour due to its higher fibre content, but the weight difference is minimal for small quantities like 5g. Both types of flour convert to about 0.18 ounces per 5g. However, wholemeal flour absorbs more liquid, so you may need to adjust other ingredients in your recipe."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for other types of flour?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, the 5g to 0.18 ounces conversion works for most types of wheat flour, including plain, self-raising, and wholemeal. However, very light flours like coconut or almond flour have different densities. For these, it’s best to check specific conversion charts or weigh them directly."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is my air fryer recipe with wholemeal flour turning out dry?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Wholemeal flour absorbs more moisture than white flour, which can lead to drier results if you don’t adjust the recipe. Try increasing liquid ingredients slightly when using wholemeal flour. Also ensure you’re measuring accurately – 5g should be exactly 0.18 ounces for the best texture in air fryer baked goods."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-wholemeal-flour",
+    "description": "Convert 5g of wholemeal flour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-wholemeal-flour#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 5g of wholemeal flour?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-wholemeal-flour"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>5 grams of wholemeal flour equals approximately 0.18 ounces. This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making bread, cakes, or coating for fried foods, knowing how to convert grams to ounces is a game-changer.</p>

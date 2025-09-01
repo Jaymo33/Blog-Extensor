@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 1000g of caster sugar?"
 description: "Learn how to convert 1000g of caster sugar to ounces in seconds. Perfect for baking and air fryer recipes with accurate measurements."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-1000g-caster-sugar-494dd5fd.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-caster-sugar.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-caster-sugar",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-caster-sugar"
+    },
+    "headline": "Quick Guide: Convert 1000g Caster Sugar to Ounces Easily",
+    "description": "Learn how to convert 1000g of caster sugar to ounces in seconds. Perfect for baking and air fryer recipes with accurate measurements.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-caster-sugar.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use granulated sugar instead of caster sugar for 1000g conversions?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but granulated sugar is coarser, so the volume might differ slightly. 1000g of granulated sugar is still approximately 35.27 oz, but it may not dissolve as easily in recipes designed for caster sugar. For air fryer baking, caster sugar is often preferred for its fine texture."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I measure 1000g of caster sugar without a scale?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "While a scale is best, you can use measuring cups as a rough guide. 1000g of caster sugar is roughly 4.96 UK cups. However, this method is less precise, especially for air fryer recipes where exact measurements matter. Weighing is always recommended for accuracy."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 1000g of caster sugar equal 1000ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, grams measure weight, while millilitres measure volume. Due to caster sugar’s density, 1000g takes up about 1.25 litres in volume. This distinction is important for air fryer recipes where precise ratios affect cooking times and results."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why is my air fryer recipe too sweet even with 1000g (35.27 oz) of caster sugar?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Air fryers concentrate flavours, so recipes might taste sweeter than in a conventional oven. Try reducing the sugar by 10-15% when adapting recipes. Also, ensure your measurements are accurate—using a scale for 1000g (35.27 oz) conversions helps avoid over-sweetening."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-caster-sugar",
+    "description": "Learn how to convert 1000g of caster sugar to ounces in seconds. Perfect for baking and air fryer recipes with accurate measurements.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-caster-sugar#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 1000g of caster sugar?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-caster-sugar"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>1000g of caster sugar equals approximately 35.27 ounces. This conversion is essential for bakers who need precise measurements for recipes, especially when using an air fryer where accuracy can affect cooking results. Whether you're making cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

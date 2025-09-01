@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 75g of lime juice?"
 description: "Learn how to convert 75g of lime juice to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!"
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-ounces-is-75g-of-lime-juice-b26983f3.webp"
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-lime-juice.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-lime-juice",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-lime-juice"
+    },
+    "headline": "Quickly Convert 75g of Lime Juice to Ounces (UK Guide)",
+    "description": "Learn how to convert 75g of lime juice to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-lime-juice.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use bottled lime juice instead of fresh for 75g measurements?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, you can use bottled lime juice as a substitute for fresh when measuring 75g (2.65 oz). However, bottled juice often has a slightly different flavour profile and may contain preservatives. For best results in air fryer recipes, adjust seasoning to taste as bottled juice can be less vibrant than fresh."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How many limes equal 75g of juice?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Typically, one medium lime yields about 30g (1 oz) of juice. Therefore, you'd need approximately 2.5 medium limes to get 75g of juice. Size and juiciness vary though, so it's best to measure with scales after squeezing rather than counting limes for precise recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does 75g of lime juice equal 75ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 75g of lime juice doesn't exactly equal 75ml. While close, lime juice has a density of about 1.03 g/ml, so 75g equals roughly 73ml. For air fryer recipes where precision matters, always measure by weight (grams) rather than volume (ml) when possible."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some air fryer recipes specify lime juice in grams rather than ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Many professional and UK recipes use grams for greater precision, as scales measure more accurately than volume measurements. Grams account for variations in juice density and air bubbles. This precision is especially important in air frying where small liquid amounts significantly affect cooking results and texture."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of lime juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-lime-juice",
+    "description": "Learn how to convert 75g of lime juice to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
+    "inLanguage": "en",
+    "datePublished": "2025-08-10T00:51:10.153000+00:00",
+    "dateModified": "2025-08-10T00:51:10.153000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-lime-juice#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 75g of lime juice?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-lime-juice"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>75g of lime juice is approximately 2.65 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for marinades or dressings. Whether you're using fresh limes or bottled juice, knowing the exact weight-to-volume ratio ensures your dish turns out perfectly every time.</p>

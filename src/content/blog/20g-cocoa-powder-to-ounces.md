@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 20g of cocoa powder?"
 description: "Convert 20g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and precise UK recipes."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/20g-cocoa-powder-to-ounces-376cb527.webp"
+pubDate: 2025-08-06T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-cocoa-powder-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-cocoa-powder-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-cocoa-powder-to-ounces"
+    },
+    "headline": "Quick 20g cocoa powder to ounces conversion for UK bakers",
+    "description": "Convert 20g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and precise UK recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-cocoa-powder-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Can I use 20g of cocoa powder in savoury air fryer dishes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, 20g of cocoa powder (0.71 oz) works well in savoury dishes like spice rubs or chilli. It adds depth without sweetness. Just balance it with other seasonings for a rich, complex flavour."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I convert 20g cocoa powder to cups?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "20g of cocoa powder is roughly 1/4 cup, but weighing it is more accurate. Cups can vary based on how you scoop, so scales are best for precision in air fryer recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does cocoa powder behave differently in an air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Cocoa powder works the same in air fryer baking as in conventional ovens. However, air fryers cook faster, so watch your timing to avoid over-browning chocolate-based recipes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best cocoa powder for air fryer baking?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Use unsweetened cocoa powder for baking—it gives the purest chocolate flavour. Dutch-processed cocoa is milder, while natural cocoa is more acidic. Choose based on your recipe’s needs."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of cocoa powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-cocoa-powder-to-ounces",
+    "description": "Convert 20g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and precise UK recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-06T23:33:24.546000+00:00",
+    "dateModified": "2025-08-06T23:33:24.546000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-cocoa-powder-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 20g of cocoa powder?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-cocoa-powder-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>20g of cocoa powder equals approximately 0.71 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're whipping up a chocolate cake or a batch of brownies, knowing how to convert 20g cocoa powder to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into why this measurement matters and how to use it in your air fryer.</p>  

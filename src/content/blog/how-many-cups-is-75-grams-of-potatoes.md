@@ -1,12 +1,195 @@
 ---
 title: "How Many Cups Is 75 Grams of Potatoes?"
 description: "Discover how to convert 75 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements now!"
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-cups-is-75-grams-of-potatoes-5ebe7733.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-potatoes.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-potatoes",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Cups Is 75 Grams of Potatoes?",
+    "description": "Discover how to convert 75 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T19:05:43.270000+00:00",
+    "dateModified": "2025-07-27T19:05:43.270000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-potatoes.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "How many cups is 75 grams of mashed potatoes?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "75 grams of mashed potatoes is roughly 0.3 cups due to its denser texture. Unlike diced or sliced potatoes, mashed potatoes pack more tightly, so the volume is slightly less. For best results in the air fryer, spread mashed potatoes evenly to ensure even cooking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Does the type of potato affect the cup measurement for 75 grams?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, different potato varieties have slightly different densities. For example, 75 grams of russet potatoes might fill a cup differently than sweet potatoes. Weighing is the most accurate method, but if using cups, aim for a loose fill to avoid overpacking."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use frozen potatoes for 75 grams to cups conversion?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Frozen potatoes may have a different volume due to ice crystals or pre-cutting. If using frozen, thaw and drain excess moisture first for a more accurate measurement. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a> for tips on cooking frozen potatoes in the air fryer."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How do I adjust cooking time for 75 grams of potatoes in the air fryer?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For 75 grams of potatoes, cook at 200°C for 15-20 minutes, shaking the basket halfway. Smaller cuts like diced potatoes cook faster, while thicker wedges may need a bit longer. Always check for crispiness and adjust time as needed."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 75 Grams of Potatoes?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-potatoes",
+    "description": "Discover how to convert 75 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T19:05:43.270000+00:00",
+    "dateModified": "2025-07-27T19:05:43.270000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-potatoes#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Cups Is 75 Grams of Potatoes?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-potatoes"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>75 grams of potatoes is roughly equivalent to 0.4 cups when diced or sliced. This measurement can vary slightly depending on the potato's density and how finely it's chopped. If you're using an air fryer, getting the right amount ensures even cooking and perfect results every time. For more precise conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

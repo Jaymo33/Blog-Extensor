@@ -1,12 +1,195 @@
 ---
 title: "How many ounces is 150g of soy sauce?"
 description: "Convert 150g of soy sauce to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise seasoning every time."
-pubDate: 2025-08-12T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/150g-soy-sauce-to-ounces-f93d6011.webp"
+pubDate: 2025-08-08T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-soy-sauce-to-ounces.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-soy-sauce-to-ounces",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/150g-soy-sauce-to-ounces"
+    },
+    "headline": "Quick 150g soy sauce to ounces conversion for UK cooks",
+    "description": "Convert 150g of soy sauce to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise seasoning every time.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-soy-sauce-to-ounces.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Is 150g of soy sauce the same as 150ml?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 150g of soy sauce isn’t identical to 150ml. While they’re close (soy sauce’s density makes 150g roughly 142ml), it’s best to weigh it for accuracy. In ounces, 150g equals 5.29 oz, whereas 150ml converts to about 5.07 oz. For air fryer recipes, using grams ensures consistency."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use a US cup to measure 150g of soy sauce in ounces?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A US cup (240ml) won’t give you the precise 150g (5.29 oz) measurement. Soy sauce’s weight varies slightly by brand, but generally, 150g fills about ⅔ of a US cup. For best results in air fryer cooking, use a scale or refer to our conversion chart for exact amounts."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How long does 150g of soy sauce last in the fridge once opened?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "An opened bottle of soy sauce stays fresh for 2-3 years if refrigerated. The 150g (5.29 oz) quantity you’ve measured will maintain its quality as long as it’s stored airtight. For air fryer marinades, always use fresh-smelling soy sauce to avoid off-flavours in your dishes."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "What’s the best soy sauce substitute if I only have 150g called for in a recipe?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "If you’re short on soy sauce, try tamari (gluten-free) or coconut aminos (sweeter) in the same 150g (5.29 oz) quantity. Liquid aminos or a mix of Worcestershire sauce and water can also work. Adjust other seasonings in your air fryer recipe to compensate for flavour differences."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of soy sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-soy-sauce-to-ounces",
+    "description": "Convert 150g of soy sauce to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise seasoning every time.",
+    "inLanguage": "en",
+    "datePublished": "2025-08-08T23:46:47.435000+00:00",
+    "dateModified": "2025-08-08T23:46:47.435000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/150g-soy-sauce-to-ounces#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How many ounces is 150g of soy sauce?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/150g-soy-sauce-to-ounces"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>150g of soy sauce equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or whipping up a stir-fry, knowing how to convert grams to ounces ensures your flavours are spot-on. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these details for perfect results every time.</p>  

@@ -1,12 +1,195 @@
 ---
 title: "How Many Grams Is 0.5 Cups of Chicken Breast?"
 description: "Discover the exact gram measurement for 0.5 cups of chicken breast and simplify your cooking with precise conversions for air fryer recipes."
-pubDate: 2025-08-11T00:00:00.000Z
-heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/md/how-many-grams-is-0-5-cups-of-chicken-breast-42fc90cf.webp"
+pubDate: 2025-07-27T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-chicken-breast.webp"
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
-schema: "<script type=\"application/ld+json\"></script>"
+schema: |
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-chicken-breast",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-chicken-breast"
+    },
+    "headline": "Quick Answer: How Many Grams Is 0.5 Cups of Chicken Breast?",
+    "description": "Discover the exact gram measurement for 0.5 cups of chicken breast and simplify your cooking with precise conversions for air fryer recipes.",
+    "author": {
+    "@type": "Person",
+    "name": "AirFryerRecipes.co.uk",
+    "url": "https://www.airfryerrecipe.co.uk/about",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    }
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Air Fryer Recipe",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+    }
+    },
+    "datePublished": "2025-07-27T16:11:24.550000+00:00",
+    "dateModified": "2025-07-27T16:11:24.550000+00:00",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-chicken-breast.webp"
+    },
+    "about": {
+    "@type": "Thing",
+    "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB",
+    "isAccessibleForFree": true
+        
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+    "@type": "Question",
+    "name": "Does 0.5 cups of chicken breast weigh the same cooked and raw?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No, 0.5 cups of raw chicken breast weighs around 70 grams, but once cooked, it reduces to roughly 50 grams due to moisture loss. Always measure raw chicken for recipe accuracy, especially in air fryer cooking where timing relies on starting weight."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Can I use this conversion for frozen chicken breast?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, but thaw it first for the most precise measurement. Frozen chicken may have ice crystals that add extra weight, skewing your results. For air fryer recipes, thawed chicken also cooks more evenly than frozen."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "How does shredded chicken compare to diced in weight per cup?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Shredded chicken is lighter and fluffier, so 0.5 cups may weigh slightly less than diced—closer to 60 grams. For consistent results, lightly pack shredded chicken without compressing it. This is ideal for salads or sandwiches."
+    }
+    },
+    {
+    "@type": "Question",
+    "name": "Why do some recipes use grams and others use cups for chicken?",
+    "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Grams provide precision, especially in baking or calorie-counting, while cups are quicker for casual cooking. US recipes often use cups, whereas UK and European ones prefer grams. For air fryer recipes, grams ensure even cooking and better results."
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.5 Cups of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-chicken-breast",
+    "description": "Discover the exact gram measurement for 0.5 cups of chicken breast and simplify your cooking with precise conversions for air fryer recipes.",
+    "inLanguage": "en",
+    "datePublished": "2025-07-27T16:11:24.550000+00:00",
+    "dateModified": "2025-07-27T16:11:24.550000+00:00"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-chicken-breast#breadcrumbs",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "blogs",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog"
+    }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "How Many Grams Is 0.5 Cups of Chicken Breast?",
+    "item": {
+    "@type": "WebPage",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-chicken-breast"
+    }
+    }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
+    "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+    "inLanguage": "en"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
+    "areaServed": [
+    {
+    "@type": "Country",
+    "name": "United Kingdom"
+    },
+    {
+    "@type": "Country",
+    "name": "United States"
+    }
+    ],
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "areaServed": [
+    "GB",
+    "US"
+    ],
+    "availableLanguage": [
+    "English"
+    ],
+    "email": "support@airfryerrecipe.co.uk"
+    }
+    }
+    </script>
+    """
 ---
 
 <p>0.5 cups of chicken breast weighs approximately 70 grams, though this can vary slightly based on how finely the chicken is chopped or shredded. If you're using an air fryer, precise measurements help ensure even cooking and perfect results every time. Whether you're making a stir-fry, salad, or a protein-packed meal, knowing this conversion saves time and hassle. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> to streamline your cooking process.</p>
