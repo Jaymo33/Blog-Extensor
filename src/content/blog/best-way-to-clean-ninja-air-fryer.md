@@ -42,9 +42,7 @@ schema: |
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/best-way-to-clean-ninja-air-fryer.png"
     },
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true
-        
-    }
+    "isAccessibleForFree": true}
     </script>
 
     <script type="application/ld+json">

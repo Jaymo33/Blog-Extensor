@@ -42,9 +42,7 @@ schema: |
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/ninja-air-fryer-faults-list.png"
     },
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true
-        
-    }
+    "isAccessibleForFree": true}
     </script>
 
     <script type="application/ld+json">

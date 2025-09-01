@@ -42,9 +42,7 @@ schema: |
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-long-to-cook-sausages-in-air-fryer.png"
     },
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true
-        
-    }
+    "isAccessibleForFree": true}
     </script>
 
     <script type="application/ld+json">

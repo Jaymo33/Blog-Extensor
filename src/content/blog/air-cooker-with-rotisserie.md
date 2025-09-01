@@ -42,9 +42,7 @@ schema: |
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/air-cooker-with-rotisserie.png"
     },
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true
-        
-    }
+    "isAccessibleForFree": true}
     </script>
 
     <script type="application/ld+json">

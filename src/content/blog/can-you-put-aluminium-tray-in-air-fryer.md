@@ -47,9 +47,7 @@ schema: |
     },
     "articleSection": "Safety",
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true
-        
-    }
+    "isAccessibleForFree": true}
     </script>
 
     <script type="application/ld+json">
