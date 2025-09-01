@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>So, how many ounces is 3 cups of rice? In the UK, 3 cups of uncooked, long-grain white rice typically weighs around 21 ounces. This conversion is essential for anyone using an air fryer to prepare rice-based dishes, as accurate measurements ensure consistent cooking results. Whether you're meal prepping or cooking for the family, knowing this weight helps you portion correctly and avoid waste. Many air fryer recipes, especially those found on <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, rely on precise measurements for success. Understanding how many ounces is 3 cups of rice is the first step towards mastering your air fryer rice recipes.</p>

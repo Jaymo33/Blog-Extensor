@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450°F converts to Gas Mark 8 in UK ovens and air fryers. This high temperature is perfect for roasting, baking, and achieving crispy textures in your air fryer. Whether you're cooking frozen chips or baking a cake, knowing this conversion ensures your recipes turn out just right.</p>

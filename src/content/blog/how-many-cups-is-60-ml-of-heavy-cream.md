@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of heavy cream is approximately 0.25 cups (or 1/4 cup). This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>  

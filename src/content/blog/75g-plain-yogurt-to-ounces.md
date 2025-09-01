@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of plain yogurt equals approximately 2.65 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making dips, marinades, or baked goods, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

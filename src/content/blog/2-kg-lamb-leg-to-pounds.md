@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 kg lamb leg converts to approximately 4.41 pounds, which is essential knowledge for air fryer cooking times and temperature settings. Whether you're preparing a classic roast or experimenting with new recipes, understanding this conversion ensures your meat cooks evenly and reaches the perfect level of doneness. Many air fryer recipes and guides, including those on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, use imperial measurements, so converting 2 kg lamb leg to pounds helps you follow instructions accurately. This is particularly useful if you're using a pre-packaged joint or buying from a butcher who uses metric measurements. Getting this right from the start means you can set your air fryer correctly and avoid under or overcooking your valuable cut of meat.</p>

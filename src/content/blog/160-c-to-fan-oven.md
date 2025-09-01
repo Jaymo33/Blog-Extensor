@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 C in a fan oven is equivalent to approximately 140 C in a conventional oven without the fan. This 20-degree reduction is standard for fan-assisted cooking, ensuring even heat distribution and perfect results. Whether you're baking cakes or roasting vegetables, understanding this conversion is key. For air fryer users, this temperature often translates directly, as most models use fan-assisted technology. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for recipes optimised for these settings.</p>

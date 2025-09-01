@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of brown sugar is roughly equivalent to ½ cup when lightly packed. This conversion is essential for baking and air frying, where precision ensures the best results. Whether you're making cookies, cakes, or even glazes for meats, knowing how to measure 100 grams of brown sugar in cups can make all the difference.</p>  

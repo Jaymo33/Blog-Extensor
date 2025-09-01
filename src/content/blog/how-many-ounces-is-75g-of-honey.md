@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of honey equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re drizzling honey over roasted vegetables or using it as a glaze for chicken, knowing the exact weight ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

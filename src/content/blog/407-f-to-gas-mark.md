@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>407°F converts to Gas Mark 6 in UK ovens and air fryers. This medium-high temperature is perfect for roasting meats, baking pastries, or crisping vegetables in your air fryer. Whether you're following an American recipe or adjusting your appliance settings, knowing this conversion ensures cooking success every time.</p>

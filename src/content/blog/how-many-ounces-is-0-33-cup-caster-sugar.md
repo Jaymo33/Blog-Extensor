@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of caster sugar equals approximately 2.64 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break your recipe. Whether you’re making cakes, cookies, or desserts, knowing how many ounces are in 0.33 cup of caster sugar ensures consistency and perfect results every time.</p>

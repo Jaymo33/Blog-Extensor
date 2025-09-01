@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of caster sugar is equivalent to approximately 0.71 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes or cookies, knowing how to convert grams to ounces ensures consistent results every time.</p>

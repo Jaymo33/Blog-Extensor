@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of treacle equals approximately 20 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you're baking sticky toffee pudding or glazing meats, knowing how many ounces are in 2.5 cups of treacle helps avoid kitchen mishaps.</p>  

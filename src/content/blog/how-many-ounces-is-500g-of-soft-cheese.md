@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of soft cheese equals approximately 17.64 ounces. This conversion is essential for UK cooks who need precise measurements for air fryer recipes or baking. Whether you're making a cheesecake or a creamy pasta dish, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

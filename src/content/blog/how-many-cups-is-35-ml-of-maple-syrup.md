@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of maple syrup equals approximately 0.15 cups (or roughly 1/8 cup plus 1 tablespoon). This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you’re whipping up a glaze or sweetening a dessert, knowing how to measure maple syrup accurately is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and stress-free.</p>  

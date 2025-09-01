@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of coconut oil equals 12 ounces, making it easy to measure for air fryer recipes. Whether you're baking or frying, knowing this conversion ensures your dishes turn out perfectly every time. Coconut oil is a staple in many kitchens, especially for air fryer enthusiasts who love its high smoke point and rich flavour. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often recommend it for everything from crispy chicken to decadent desserts.</p>  

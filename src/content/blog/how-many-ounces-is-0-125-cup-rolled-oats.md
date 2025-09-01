@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of rolled oats equals approximately 0.4 ounces (oz) in weight. This measurement is essential for precise air fryer recipes, ensuring your breakfasts and baked goods turn out perfectly every time. Whether you're making granola, oat bars, or adding oats to your air fryer muffins, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make cooking effortless.</p>  

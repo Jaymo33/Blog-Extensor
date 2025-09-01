@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of water equals approximately 3.53 ounces. This conversion is essential for precise cooking, especially when using an air fryer where accurate measurements can make all the difference. Whether you're following a recipe or adjusting portion sizes, knowing how to convert grams to ounces ensures perfect results every time.</p>  

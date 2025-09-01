@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of quinoa equals approximately 45 grams (g). This conversion is essential for air fryer recipes, ensuring precise measurements for perfectly cooked quinoa every time. Whether you're preparing a quinoa salad or using it as a base for a protein-packed meal, knowing the exact weight helps avoid under or overcooking.</p>

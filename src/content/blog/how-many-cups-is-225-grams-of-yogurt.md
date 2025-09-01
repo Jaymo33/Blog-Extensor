@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of yogurt is roughly equivalent to 0.95 cups, or just under 1 cup. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making cakes, marinades, or dips, knowing how to convert grams to cups ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions easy for home chefs.</p>  

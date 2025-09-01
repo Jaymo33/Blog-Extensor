@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of baking soda equals approximately 2 ounces. This conversion is essential for air fryer recipes and baking, where precise measurements can make all the difference. Whether you’re whipping up a batch of air fryer cookies or a savoury dish, knowing how many ounces are in 0.25 cup of baking soda ensures your recipe turns out perfectly every time.</p>

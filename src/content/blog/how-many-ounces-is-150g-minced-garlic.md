@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of minced garlic equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a garlic-infused dish or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion ensures your meal turns out perfectly.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of peanut butter weigh approximately 32 grams. This measurement is essential for air fryer recipes, ensuring consistency in texture and flavour. Whether you’re making peanut butter cookies or a savoury satay sauce, knowing the exact weight helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

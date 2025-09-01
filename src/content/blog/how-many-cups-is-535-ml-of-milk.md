@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of milk is approximately 2.26 cups in the US measurement system and roughly 2.11 cups in the UK system. This conversion is essential for anyone using recipes that list milk in millilitres but require cup measurements. Whether you're preparing a creamy sauce or baking a cake in your air fryer, getting the measurement right ensures perfect results every time.</p>

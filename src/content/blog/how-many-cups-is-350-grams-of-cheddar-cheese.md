@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of cheddar cheese is roughly equivalent to 3.5 cups when grated. This conversion is essential for recipes where precision matters, especially when using an air fryer. Whether you're making cheesy nachos or a hearty casserole, knowing how many cups is 350 grams of cheddar cheese ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of semolina equals approximately 6.25 ounces (oz). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making crispy semolina-coated chicken or a fluffy semolina cake, knowing the exact weight helps avoid under or over-measuring. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for consistent results. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>  

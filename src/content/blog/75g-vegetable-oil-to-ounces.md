@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of vegetable oil is approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re frying, baking, or roasting, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when using an air fryer.</p>  

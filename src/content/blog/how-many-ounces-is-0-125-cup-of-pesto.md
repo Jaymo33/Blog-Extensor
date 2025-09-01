@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of pesto equals approximately 1 ounce. This measurement is crucial for air fryer recipes where precision can make all the difference. Whether you're whipping up a quick pasta dish or adding pesto to your air-fried chicken, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how important accurate measurements are for delicious meals.</p>

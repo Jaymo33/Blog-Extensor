@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of olive oil is roughly equivalent to 1.8 cups (or 1 and 4/5 cups). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re baking, frying, or drizzling, knowing how many cups 400 grams of olive oil equals ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals.</p>  

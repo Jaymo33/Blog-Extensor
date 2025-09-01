@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of frozen corn equals approximately 10 ounces (283 grams). This measurement is essential for air fryer recipes, ensuring accurate portioning and perfect results every time. Whether you're making crispy corn fritters or a quick side dish, knowing the weight helps streamline your cooking process.</p>  

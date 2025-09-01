@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>190 fan oven equals approximately 170°C in a conventional oven. This conversion is essential for achieving consistent baking and roasting results when switching between oven types. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting family favourites, understanding this temperature difference matters.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of shredded carrot equals approximately 4.5 ounces. This measurement is key for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're roasting carrots or adding them to a stir-fry, knowing the exact weight helps with consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

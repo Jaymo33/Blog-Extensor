@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of broccoli is roughly equivalent to 4 cups when chopped. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you’re roasting, steaming, or crisping broccoli in your air fryer, knowing how many cups 400 grams translates to ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can focus on creating delicious meals.</p>

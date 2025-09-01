@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of double cream is approximately 1.73 cups in standard UK measurements or 1.73 US cups. This conversion is essential for baking, cooking, or whipping up air fryer recipes where precision matters. Whether you're making a rich dessert or a creamy sauce, knowing how to convert 410 ml of double cream to cups ensures consistent results every time.</p>

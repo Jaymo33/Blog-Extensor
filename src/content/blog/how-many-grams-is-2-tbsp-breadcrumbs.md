@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of breadcrumbs weigh approximately 15 grams in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're coating chicken, fish, or veggies, knowing the exact weight ensures consistent results every time.</p>

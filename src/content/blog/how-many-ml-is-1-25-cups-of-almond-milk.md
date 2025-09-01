@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of almond milk equals approximately 295.74 millilitres (ml). This conversion is essential for precision in cooking, especially when using an air fryer where exact measurements can impact texture and cooking times. Whether you're whipping up a creamy sauce or baking a moist cake, knowing the exact ml equivalent of 1.25 cups of almond milk ensures consistent results every time.</p>

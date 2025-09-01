@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of wheatgerm equals approximately 0.88 ounces. This measurement is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. Whether you’re making granola, breading, or adding a nutritional boost to your meals, knowing how to convert 0.25 cup of wheatgerm to ounces ensures consistency in your recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of Nutella equals approximately 0.18 ounces. This conversion is handy for anyone using air fryer recipes that require precise measurements. Whether you’re making desserts or breakfast treats, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of brown sugar is roughly equivalent to 0.63 cups (or just over half a cup) when lightly packed. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Getting the measurement right ensures your recipes turn out perfectly every time. Whether you're following a British or American recipe, this guide will help you nail the conversion without fuss.</p>  

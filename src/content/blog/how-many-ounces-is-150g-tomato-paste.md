@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of tomato paste equals approximately 5.29 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a rich pasta sauce or a flavourful marinade, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve restaurant-quality results at home. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>  

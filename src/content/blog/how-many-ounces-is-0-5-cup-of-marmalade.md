@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of marmalade equals approximately 4.5 ounces. This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're making glazes, sauces, or baked goods, knowing how many ounces are in 0.5 cup of marmalade ensures your recipes turn out perfectly every time.</p>

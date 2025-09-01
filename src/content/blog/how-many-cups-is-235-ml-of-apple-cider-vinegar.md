@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of apple cider vinegar equals approximately 1 cup (0.99 cups to be precise). This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for dishes like marinades or dressings. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting with your own, knowing this conversion ensures perfect results every time.</p>  

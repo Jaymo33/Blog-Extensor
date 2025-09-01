@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of yogurt is roughly equivalent to 2.1 US cups or 1.75 UK cups. This conversion helps ensure accuracy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're making a creamy dip or a fluffy cake, knowing how to convert grams to cups ensures consistent results every time.</p>  

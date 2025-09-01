@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of desiccated coconut weighs approximately 3.5 ounces (100 grams). This measurement is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making coconut shrimp or a tropical dessert in your air fryer, knowing this conversion helps avoid guesswork.</p>

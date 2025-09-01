@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of buttermilk is approximately 3.63 cups. This conversion is essential for anyone using recipes that require precise measurements, especially when baking or preparing dishes in an air fryer. Whether you're making fluffy pancakes or a tangy marinade, knowing how to convert 860 ml of buttermilk to cups ensures your dish turns out perfectly every time.</p>  

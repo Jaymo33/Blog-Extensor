@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 4 converts to 180°C, which is one of the most commonly used temperatures for air fryer cooking. This moderate heat works perfectly for everything from roasting vegetables to baking cakes, making it essential knowledge for any air fryer enthusiast. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend bookmarking this conversion as you'll use it frequently.</p>

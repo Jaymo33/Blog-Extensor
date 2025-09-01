@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of apple juice equals approximately 5.28 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results every time. Whether you’re making glazes, marinades, or desserts, knowing the exact weight of your ingredients matters. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these conversions effortlessly.</p>  

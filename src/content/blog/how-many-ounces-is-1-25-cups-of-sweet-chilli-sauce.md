@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of sweet chilli sauce equals approximately 10 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken or glazing shrimp, knowing the exact weight ensures consistent results. Sweet chilli sauce is a versatile ingredient, and getting the right amount is key to balancing flavours. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

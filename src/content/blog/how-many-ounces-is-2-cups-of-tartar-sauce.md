@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of tartar sauce equals approximately 16 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're coating fish fillets or whipping up a batch of crispy shrimp, knowing the exact weight ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

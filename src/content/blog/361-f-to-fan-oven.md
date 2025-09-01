@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>361 F converts to approximately 183 C in a fan oven. This temperature is ideal for achieving crispy yet tender results when air frying or baking. Whether you're adapting an American recipe or fine-tuning your air fryer settings, understanding this conversion ensures perfect cooking every time.</p>

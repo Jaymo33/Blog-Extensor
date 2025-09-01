@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of cream is roughly equivalent to 0.31 cups in the UK or 0.33 cups in the US. This conversion is essential for anyone using recipes that list ingredients by weight rather than volume. Whether you’re whipping up a dessert or a savoury dish in your air fryer, knowing how many cups is 75 grams of cream ensures perfect results every time.</p>

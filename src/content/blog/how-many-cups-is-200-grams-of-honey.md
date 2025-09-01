@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of honey is roughly equivalent to 0.63 cups in the UK and 0.85 cups in the US. This conversion is essential for baking, cooking, or air fryer recipes where precision matters. Honey’s thickness and density mean it doesn’t measure the same as liquids like water, so using weight (grams) is often more accurate. If you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion ensures your dishes turn out perfectly every time.</p>

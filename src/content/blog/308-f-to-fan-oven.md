@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>308°F converts to approximately 153°C in a fan oven. This temperature is ideal for slow roasting, baking delicate pastries, or cooking dishes that require gentle heat in your air fryer or fan-assisted oven. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using an air fryer or traditional oven.</p>

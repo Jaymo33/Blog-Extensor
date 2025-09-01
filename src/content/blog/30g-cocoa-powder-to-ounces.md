@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of cocoa powder equals approximately 1.06 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're preparing brownies, cakes, or hot chocolate, knowing how to convert 30g cocoa powder to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious treats.</p>  

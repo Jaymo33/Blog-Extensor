@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 3.25 kg cod fillet and need to know its weight in pounds, the answer is approximately 7.17 pounds. This conversion is essential for anyone using an air fryer, as many recipes and portion guides are written in pounds, especially if you're following American or traditional British recipes. Knowing the exact weight helps you cook your cod perfectly every time, ensuring it's flaky and moist without being over or underdone. Whether you're meal prepping or cooking for a crowd, this simple conversion makes life easier. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

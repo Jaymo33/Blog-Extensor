@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of wholemeal flour equals approximately 7.05 ounces. This conversion is essential for bakers who prefer using ounces over grams, especially when following UK recipes or using an air fryer. Accurate measurements ensure your baked goods turn out perfectly every time. Whether you’re making bread, cakes, or air fryer-friendly treats, knowing how to convert grams to ounces is a game-changer. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

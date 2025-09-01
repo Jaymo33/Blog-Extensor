@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of oats equals approximately 1.41 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're making overnight oats, granola, or oat-based coatings for air-fried chicken, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect results every time.</p>

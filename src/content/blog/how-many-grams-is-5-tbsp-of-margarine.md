@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of margarine equals approximately 70 grams (g). This conversion is essential for air fryer recipes where precision matters. Whether you’re baking, frying, or roasting, knowing the exact weight ensures consistent results. Margarine’s density can vary slightly, but 70g is the standard UK measurement for 5 tbsp. Stick to this for foolproof cooking in your air fryer.</p>  

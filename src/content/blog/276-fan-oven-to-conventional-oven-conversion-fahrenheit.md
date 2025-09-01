@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 276 fan oven to Fahrenheit for a conventional oven is straightforward: 276°F in a fan oven equals approximately 250°F in a conventional oven. This adjustment accounts for the even heat distribution of fan-assisted cooking, ensuring your dishes cook perfectly without burning or undercooking. Whether you’re baking cakes, roasting meats, or using an air fryer, understanding this conversion is key to culinary success.</p>

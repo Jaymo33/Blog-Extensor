@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of plain flour equals approximately 5.29 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking air fryer cakes or coating chicken, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of plain yogurt equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or making sauces. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing this measurement ensures consistency. Plain yogurt is a versatile ingredient, often used in marinades, dips, or even air-fried desserts like cakes and muffins.</p>

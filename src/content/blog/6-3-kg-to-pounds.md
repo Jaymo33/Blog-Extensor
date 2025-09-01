@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>6.3 kg is equal to approximately 13.89 pounds, a conversion that becomes incredibly useful when you're preparing larger batches of food in your air fryer. Whether you're meal prepping for the week or cooking for a crowd, getting your weights right ensures everything cooks evenly and comes out perfectly crispy. This is especially important with air fryers, as overcrowding can lead to uneven results. Knowing how to convert 6.3 kg to pounds helps you follow recipes accurately and scale ingredients properly. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

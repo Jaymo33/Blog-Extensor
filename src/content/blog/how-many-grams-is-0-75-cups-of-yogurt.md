@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Grams Is 0.75 Cups of Yogurt?</h2>  

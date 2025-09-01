@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>156 fan oven converts to approximately 140°C in a conventional oven. This adjustment ensures your recipes cook evenly, whether you're baking in a traditional oven or using an air fryer. Understanding this conversion is crucial for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of baking soda equals approximately 4 ounces (113 grams). This conversion is essential for air fryer recipes, where precise measurements can affect texture and rise. Whether you're whipping up a batch of air-fried cookies or using baking soda to clean your appliance, knowing the exact weight ensures consistency.</p>  

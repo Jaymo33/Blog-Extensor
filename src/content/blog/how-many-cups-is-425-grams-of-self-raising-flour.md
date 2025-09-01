@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of self-raising flour equals approximately 3.4 cups when measured correctly. This conversion is essential for baking, especially when using an air fryer for cakes or bread. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfect results. Whether you're following a UK or US recipe, understanding how many cups is 425 grams of self-raising flour ensures consistency.</p>

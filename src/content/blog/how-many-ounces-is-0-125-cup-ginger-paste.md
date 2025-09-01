@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of ginger paste equals approximately 1 ounce. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a marinade or adding a punch of flavour to your dishes, knowing how many ounces are in 0.125 cup of ginger paste ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you cook with confidence. Keep reading for more tips and conversions!</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of apple juice equals 16 fluid ounces (or approximately 16 oz by weight for most practical purposes). If you're using an air fryer to create glazes, marinades, or even baked goods, knowing this conversion ensures your recipes turn out perfectly every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, precise measurements make all the difference.</p>

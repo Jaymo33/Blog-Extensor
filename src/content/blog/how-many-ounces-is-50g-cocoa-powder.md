@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of cocoa powder equals approximately 1.76 ounces. Whether you're baking a cake or whipping up a chocolatey treat in your air fryer, knowing this conversion ensures precision. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for perfect results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of minced garlic equals approximately 12 grams. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you're whipping up garlic-infused dishes or following a specific recipe, knowing the exact weight saves time and avoids guesswork.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of yogurt equals approximately 768 ml, making it easy to measure for air fryer recipes. Whether you're whipping up a creamy dessert or a savoury marinade, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in cooking, especially when using an air fryer. This conversion is handy for both UK and US measurements, so you can follow any recipe with confidence. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>

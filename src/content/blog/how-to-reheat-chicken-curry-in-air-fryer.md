@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating chicken curry in an air fryer takes just 3-5 minutes at 160°C (320°F), giving you crispy edges while keeping the centre moist. This method beats microwaving hands down, as it prevents that dreaded soggy texture while evenly warming through your leftovers. Whether you’re dealing with takeaway curry or homemade batches, your air fryer can revive it beautifully – just follow these simple steps for the best results every time.</p>

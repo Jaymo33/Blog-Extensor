@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of vegetable oil equals approximately 1.76 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting quantities, knowing how to convert grams to ounces is a handy skill.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Ounces Is 1.75 Cups of Almond Butter?</h2>  

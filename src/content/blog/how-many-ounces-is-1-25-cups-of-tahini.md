@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of tahini equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making hummus, dressings, or marinades, knowing the exact weight ensures consistency. Tahini’s thick, paste-like texture means volume measurements can vary, so weighing it is often more accurate. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>6 kg salmon fillet equals approximately 13.23 pounds, making it a substantial cut perfect for feeding a crowd or meal prepping. This conversion is essential for air fryer users who need to adjust cooking times and temperatures based on weight. Whether you're following a recipe from airfryerrecipe.co.uk or creating your own dish, knowing the exact weight in pounds ensures perfect results. Understanding this measurement helps you portion correctly and avoid under or overcooking. It's a fundamental skill for anyone serious about air fryer cooking.</p>

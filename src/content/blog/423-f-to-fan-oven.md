@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>423 F converts to approximately 220 C in a fan oven, which is a common setting for roasting and baking. This temperature is ideal for achieving crispy exteriors while keeping interiors moist, whether you're using a traditional fan oven or an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions for perfect results every time.</p>

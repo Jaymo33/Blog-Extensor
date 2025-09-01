@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How many ounces is 0.125 cup of tomato ketchup?</h2>

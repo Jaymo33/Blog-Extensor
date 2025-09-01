@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of cream is approximately 0.46 cups. This conversion is essential for anyone using recipes that list ingredients in millilitres but prefer measuring in cups. Whether you're whipping up a dessert or preparing a savoury dish in your air fryer, knowing how to convert 110 ml of cream to cups ensures accuracy and consistency.</p>

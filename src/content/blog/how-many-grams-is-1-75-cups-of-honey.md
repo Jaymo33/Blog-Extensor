@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of honey equals approximately 595 grams. This conversion is essential for anyone using honey in air fryer recipes, ensuring accuracy for perfect results every time. Whether you're baking cakes or glazing meats, knowing the exact weight helps avoid guesswork. For more precise measurements, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of beef stock equals approximately 0.89 cups (just under 1 cup). This conversion is essential for precise cooking, especially when using an air fryer for recipes like stews, gravies, or marinades. Getting the measurement right ensures your dishes turn out perfectly every time.</p>

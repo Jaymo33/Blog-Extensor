@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of Nutella equals approximately 3.53 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing air fryer treats. Whether you’re making a Nutella-filled pastry or a chocolatey dessert, knowing this measurement ensures accuracy.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of plain flour weighs approximately 8 grams in the UK. This measurement is essential for baking and cooking, especially when using an air fryer where precision can affect texture and cooking times. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or converting measurements, knowing this conversion ensures consistent results every time.</p>

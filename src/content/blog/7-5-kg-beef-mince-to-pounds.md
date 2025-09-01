@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>7.5 kg of beef mince is equal to approximately 16.53 pounds. This conversion is essential when you're working with larger quantities of mince, especially if you're preparing meals in bulk or following a recipe that uses imperial measurements. Knowing how to convert 7.5 kg beef mince to pounds ensures you get the right amount for your dishes, whether you're making burgers, meatballs, or a hearty bolognese. Accurate measurements help achieve consistent cooking results and perfect portion sizes. For more handy conversion tips, check out our full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

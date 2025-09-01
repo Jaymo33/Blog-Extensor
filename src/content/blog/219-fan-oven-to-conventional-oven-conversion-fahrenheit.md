@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>219 fan oven is equivalent to approximately 200°F in a conventional oven. This conversion is essential for accurate baking and cooking, especially when using an air fryer. Understanding the difference between fan and conventional ovens ensures your recipes turn out perfectly every time.</p>

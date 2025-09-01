@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of water equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking, frying, or steaming, knowing how to convert 50g of water to ounces ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when using an air fryer.</p>

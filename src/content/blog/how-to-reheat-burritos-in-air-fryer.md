@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating burritos in an air fryer takes just 3-5 minutes at 180°C (350°F), giving you crispy tortillas without drying out the filling. This method outperforms microwaves by restoring texture while keeping ingredients moist – perfect for meal prep leftovers or next-day lunches.</p>

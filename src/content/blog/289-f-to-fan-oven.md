@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>289 F converts to approximately 143 C in a fan oven. This temperature is ideal for gentle baking, slow roasting, or reheating dishes in your air fryer. Understanding this conversion helps you achieve consistent results when following recipes designed for conventional ovens.</p>

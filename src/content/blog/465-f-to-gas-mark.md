@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>465°F converts to Gas Mark 9 in UK ovens and air fryers. This high-temperature setting is ideal for professional-style baking, pizza cooking, or achieving crispy results in your air fryer. Understanding this conversion helps when following recipes across different appliances.</p>

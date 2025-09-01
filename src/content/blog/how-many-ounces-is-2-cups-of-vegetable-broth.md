@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of vegetable broth equals approximately 16 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making soups, stews, or marinades, knowing how to convert cups to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking measurements for hassle-free meal prep.</p>  

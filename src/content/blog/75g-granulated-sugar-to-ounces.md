@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of granulated sugar equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a cake or caramelising sugar for a dessert, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of single cream equals approximately 24 fluid ounces (fl oz) in the UK. This conversion is essential for air fryer recipes that require precise measurements to achieve the perfect consistency. Whether you're making a creamy pasta sauce or a decadent dessert, knowing how to convert cups to ounces ensures your dish turns out just right.</p>

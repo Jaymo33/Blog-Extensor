@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of minced beef is roughly equivalent to 2.5 cups when lightly packed. This conversion is essential for air fryer recipes, ensuring you get the right texture and doneness. Whether you’re prepping burgers, meatballs, or a hearty bolognese, accurate measurements make all the difference. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

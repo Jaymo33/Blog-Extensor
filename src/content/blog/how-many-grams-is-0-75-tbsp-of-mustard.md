@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of mustard is approximately 11 grams. This conversion is essential for air fryer recipes where precision can make or break your dish. Whether you're preparing a marinade, glaze, or sauce, knowing the exact weight ensures consistent results every time. Mustard’s density can vary slightly, but 11 grams is a reliable benchmark for most recipes. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating ribs in an air fryer takes just 3-5 minutes at 160°C (320°F), giving you crispy edges while keeping the meat tender. This method outperforms microwaves that leave ribs soggy or ovens that dry them out. The air fryer's rapid circulation brings leftovers back to life with restaurant-quality texture.</p>

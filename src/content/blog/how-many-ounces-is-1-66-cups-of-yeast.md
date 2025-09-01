@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of yeast equals approximately 13.28 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like bread or pizza dough. Whether you're following a UK recipe or adjusting measurements, knowing how many ounces are in 1.66 cups of yeast ensures consistent results.</p>

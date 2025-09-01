@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of icing sugar is roughly equivalent to 3 cups in the UK and 3.5 cups in the US. This conversion is essential for bakers who rely on precise measurements for cakes, frostings, and other sweet treats. Whether you're using an air fryer for baking or traditional methods, accurate measurements ensure perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

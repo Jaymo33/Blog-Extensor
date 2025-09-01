@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat stuffed peppers in an air fryer, set the temperature to 160°C (320°F) and cook for 4-6 minutes until piping hot throughout. This method restores crispiness while preventing the filling from drying out – far superior to microwave reheating.</p>

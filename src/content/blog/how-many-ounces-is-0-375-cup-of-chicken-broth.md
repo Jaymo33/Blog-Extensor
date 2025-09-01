@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of chicken broth equals 3 ounces. This conversion is essential for precise cooking, especially when preparing air fryer recipes that require accurate liquid measurements. Whether you're making soups, sauces, or marinades, knowing how to convert cups to ounces ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you master these small but crucial details for flawless cooking.</p>  

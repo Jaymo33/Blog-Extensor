@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of vegetable oil equals approximately 0.35 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're frying, baking, or roasting, knowing how to convert 10g of vegetable oil to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for perfect dishes every time.</p>  

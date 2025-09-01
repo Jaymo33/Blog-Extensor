@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of crushed garlic weigh approximately 28 grams in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make or break a dish. Whether you're whipping up garlic-infused chicken or a flavourful vegetable stir-fry, knowing the exact weight ensures consistency. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

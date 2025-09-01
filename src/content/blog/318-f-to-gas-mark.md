@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>318 F converts to Gas Mark 3 for most ovens and air fryers. This temperature is ideal for gentle baking, slow roasting, and achieving even cooking without burning. Whether you're using an air fryer or a conventional oven, knowing this conversion ensures your recipes turn out perfectly every time.</p>

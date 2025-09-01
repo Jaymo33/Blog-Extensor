@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of water equals 177.44 ml. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're preparing a sauce, baking, or simply hydrating ingredients, knowing how many ml is 0.75 cups of water ensures consistency and accuracy.</p>

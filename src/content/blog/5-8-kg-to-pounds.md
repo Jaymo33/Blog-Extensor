@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5.8 kg is equal to approximately 12.787 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging use different measurement systems. Knowing how to quickly convert between kilograms and pounds ensures you use the correct ingredient amounts, which directly affects cooking time and results. Whether you're portioning meat, vegetables, or frozen goods, accuracy is key. For more handy conversion tools, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

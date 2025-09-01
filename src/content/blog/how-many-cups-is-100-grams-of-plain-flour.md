@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of plain flour is roughly 0.8 cups in the UK and 0.85 cups in the US. Getting this conversion right is essential for baking and air frying, where precise measurements can make or break a recipe. Whether you're whipping up cakes, bread, or batters for air-fried treats, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when adapting recipes for your air fryer.</p>  

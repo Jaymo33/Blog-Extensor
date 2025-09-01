@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>233°C in a fan oven equals approximately 210°C in a conventional oven. This 20-25°C reduction is crucial for perfect baking results when switching between oven types. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping home cooks navigate these temperature conversions with confidence.</p>

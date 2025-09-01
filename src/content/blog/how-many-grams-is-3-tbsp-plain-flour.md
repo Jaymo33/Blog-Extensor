@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of plain flour equals approximately 24 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your bakes and batters turn out just right. Whether you're whipping up air fryer cakes, cookies, or breaded dishes, knowing the exact weight of your ingredients can make all the difference.</p>  

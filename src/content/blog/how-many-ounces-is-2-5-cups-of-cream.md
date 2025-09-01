@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of cream equals approximately 20 fluid ounces (or 19.2 oz by weight in the UK). Whether you're baking, cooking, or preparing an air fryer recipe, knowing this conversion ensures your dish turns out just right. Cream is a staple in many recipes, from rich desserts to creamy sauces, and getting the measurement spot-on can make all the difference.</p>  

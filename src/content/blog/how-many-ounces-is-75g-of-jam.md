@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of jam equals approximately 2.65 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making pastries, glazing meats, or whipping up a dessert, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking.</p>  

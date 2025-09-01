@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of lentils weigh approximately 600 grams. This conversion is essential for air fryer recipes where precision matters. Whether you’re cooking, baking, or meal prepping, knowing how many grams are in 3.0 cups of lentils ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple for your kitchen needs. Keep reading to explore why this conversion matters and how to use it effectively.</p>

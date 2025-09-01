@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of cooked rice equals approximately 1.06 ounces. This conversion is handy for meal prep, especially when using an air fryer for perfectly portioned dishes. Whether you’re tracking calories or following a recipe, knowing how to convert grams to ounces ensures accuracy in your cooking.</p>  

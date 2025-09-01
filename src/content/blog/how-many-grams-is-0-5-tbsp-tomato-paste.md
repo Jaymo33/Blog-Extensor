@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of tomato paste equals approximately 7 grams. This measurement is crucial for air fryer recipes where precision can make or break your dish. Whether you're making a rich pasta sauce or a flavourful marinade, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect cooking.</p>

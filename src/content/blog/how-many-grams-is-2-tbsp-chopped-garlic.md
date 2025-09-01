@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of chopped garlic equals approximately 28 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up garlic butter shrimp or a fragrant chicken marinade, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you cook with confidence.</p>

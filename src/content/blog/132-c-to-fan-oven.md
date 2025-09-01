@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>132 C in a fan oven is equivalent to approximately 150 C in a conventional oven. This conversion is crucial when adapting recipes between different cooking appliances, especially when using an air fryer which operates similarly to a fan oven. At airfryerrecipe.co.uk, we specialise in helping you navigate these temperature conversions for perfect results every time.</p>

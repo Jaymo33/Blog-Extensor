@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of garlic paste equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break the dish. Whether you're whipping up a marinade or seasoning your ingredients, knowing the exact weight ensures consistent results every time. Garlic paste is a staple in many recipes, and getting the measurement right is key to balancing flavours. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

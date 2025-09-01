@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of almond butter equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're whipping up a batch of almond butter cookies or adding it to a savoury dish, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so you can focus on cooking.</p>  

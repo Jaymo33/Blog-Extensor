@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of yeast equals approximately 3 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making dough for air fryer pizza or fluffy rolls, knowing how many ounces are in 0.75 cup of yeast ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of gelatin powder equals approximately 4.41 ounces. This conversion is essential for recipes requiring precise measurements, especially when working with air fryers or baking. Whether you're making desserts, jellies, or even savoury dishes, knowing how to convert grams to ounces ensures consistency in your cooking.</p>  

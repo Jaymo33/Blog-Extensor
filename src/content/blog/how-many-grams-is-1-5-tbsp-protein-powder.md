@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of protein powder typically equals around 12 grams, though this can vary slightly by brand and density. For air fryer recipes, precise measurements ensure your protein-packed dishes turn out perfectly every time. Whether you're making protein muffins or adding powder to coatings, knowing the exact conversion helps avoid dry or dense results.</p>  

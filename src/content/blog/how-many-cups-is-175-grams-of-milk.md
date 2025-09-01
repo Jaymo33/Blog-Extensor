@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of milk is roughly 0.74 cups in the UK or 0.73 cups in the US. Whether you're baking or cooking in your air fryer, getting the right measurement ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting grams to cups for recipes like cakes, custards, or creamy sauces.</p>  

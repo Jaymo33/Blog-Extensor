@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of gelatin powder equals approximately 1 ounce. This conversion is essential for air fryer recipes, especially when making desserts like panna cotta or jelly-based treats. Precise measurements ensure the right texture and consistency, so your air fryer creations turn out perfectly every time.</p>  

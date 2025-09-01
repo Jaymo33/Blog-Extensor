@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of balsamic vinegar equals approximately 1 cup in US measurements or just under 1 cup (0.98 cups) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up a glaze, marinade, or dressing, knowing how many cups is 235 ml of balsamic vinegar ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so your cooking stays hassle-free.</p>  

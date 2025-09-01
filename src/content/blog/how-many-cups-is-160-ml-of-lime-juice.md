@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of lime juice equals approximately 0.68 cups (just over 2/3 cup). This conversion is essential for recipes, especially when using an air fryer, where precise measurements can affect texture and flavour. Whether you're making marinades, dressings, or desserts, knowing how to convert 160 ml of lime juice to cups ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

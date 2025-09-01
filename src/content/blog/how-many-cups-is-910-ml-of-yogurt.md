@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of yogurt is approximately 3.85 cups. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're making cakes, dips, or marinades, knowing how to convert millilitres to cups can save time and avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple so your dishes turn out flawless every time.</p>

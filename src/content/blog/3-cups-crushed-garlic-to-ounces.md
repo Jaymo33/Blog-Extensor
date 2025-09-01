@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of crushed garlic equals approximately 24 ounces (or 680 grams) in the UK. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a garlic-infused roast or a quick stir-fry, knowing how many ounces are in 3 cups of crushed garlic ensures consistent results every time.</p>

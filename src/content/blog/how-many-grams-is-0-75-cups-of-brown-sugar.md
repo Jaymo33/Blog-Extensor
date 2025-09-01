@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of brown sugar equals approximately 150 grams, making it easy to measure for your air fryer recipes. Whether you're baking cookies, cakes, or glazes, knowing this conversion ensures consistent results every time. Brown sugar’s moisture content means it packs differently than granulated sugar, so weighing it guarantees accuracy. For more air fryer baking tips, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25 grams of onion equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're prepping ingredients for a stir-fry or a crispy onion topping, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make it easy to switch between units for seamless cooking.</p>

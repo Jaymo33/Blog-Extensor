@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of olive oil equals approximately 540 grams. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you're baking, frying, or drizzling, knowing how many grams are in 2.5 cups of olive oil ensures consistency and perfect results every time.</p>  

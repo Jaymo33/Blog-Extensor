@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of buttermilk is approximately 1.5 cups. This conversion is essential for anyone using an air fryer to bake or cook, as precise measurements can make or break a recipe. Whether you’re whipping up fluffy pancakes or a moist cake, knowing how to convert 360 ml of buttermilk to cups ensures consistency and delicious results every time.</p>

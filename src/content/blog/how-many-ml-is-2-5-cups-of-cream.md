@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of cream equals 591.47 ml, making it easy to measure for your recipes. Whether you're whipping up a dessert or preparing a creamy sauce, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results every time.</p>

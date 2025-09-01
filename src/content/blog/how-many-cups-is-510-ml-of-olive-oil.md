@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of olive oil is approximately 2.15 cups in the US measurement system and roughly 1.8 cups in the UK. Whether you're prepping ingredients for your air fryer or following a baking recipe, getting the conversion right ensures perfect results every time. Olive oil is a staple in many dishes, from crispy roasted veggies to succulent chicken, so knowing how to measure it accurately is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into how 510 ml translates to cups and why precision matters.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of rice equals approximately 0.35 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference. Whether you’re meal prepping or following a recipe, knowing how to convert grams to ounces ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of corn syrup equals approximately 2.68 cups. This conversion is essential for baking and air fryer recipes where precise measurements matter. Whether you're making sticky buns or glazes, knowing how to convert millilitres to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we simplify these conversions so you can focus on cooking. Let’s dive deeper into why this measurement matters.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of vinegar equals 8 fluid ounces (oz) in both US and UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you're marinating chicken or whipping up a tangy sauce, knowing this measurement ensures consistency in your dishes.</p>

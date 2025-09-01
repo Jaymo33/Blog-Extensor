@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of condensed milk equals approximately 0.53 ounces. This conversion is essential for UK cooks using air fryer recipes that require precise measurements of condensed milk. Whether you're making air fryer desserts or adding sweetness to baked goods, knowing this conversion will help you achieve perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>468 F converts exactly to Gas Mark 9 in UK ovens and air fryers. This high-temperature setting is perfect for professional baking results and crispy air-fried dishes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting oven instructions, knowing this conversion is essential.</p>

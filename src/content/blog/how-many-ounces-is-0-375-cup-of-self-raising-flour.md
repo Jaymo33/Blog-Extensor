@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of self-raising flour equals approximately 1.5 ounces (oz). This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up cakes, muffins, or bread in your air fryer, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with accurate conversions.</p>  

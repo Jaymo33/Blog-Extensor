@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of gelatin powder equals approximately 5.29 ounces. This conversion is essential for precise measurements in air fryer recipes, especially when working with delicate ingredients like gelatin. Whether you're making marshmallows, panna cotta, or other gelatin-based treats in your air fryer, getting the measurement right ensures perfect texture every time.</p>

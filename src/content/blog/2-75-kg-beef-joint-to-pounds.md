@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 2.75 kg beef joint and need to know its weight in pounds for an air fryer recipe, the answer is straightforward: 2.75 kg is approximately 6.06 pounds. This conversion is essential for accurately following cooking instructions, setting the right temperature, and ensuring your roast is perfectly cooked. Whether you’re preparing a Sunday dinner or a special occasion meal, knowing the exact weight helps avoid under or overcooking. Using your air fryer for a roast this size can yield deliciously crisp and tender results. For more handy conversion tips, check out our full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

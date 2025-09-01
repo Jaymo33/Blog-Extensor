@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of lime juice is approximately 2.68 cups. This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or desserts. Whether you're following a British or American recipe, knowing how to convert millilitres to cups guarantees perfect results every time.</p>  

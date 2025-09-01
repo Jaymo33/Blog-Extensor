@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put a standard takeaway box in an air fryer. Most disposable containers are made from thin plastic or polystyrene that can melt at temperatures above 160°C, releasing toxic fumes and potentially damaging your appliance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always recommend transferring food to oven-safe dishes for safe reheating.</p>

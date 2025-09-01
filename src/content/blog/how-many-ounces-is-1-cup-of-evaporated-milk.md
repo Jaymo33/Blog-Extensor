@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of evaporated milk equals approximately 8.5 ounces (240 ml) in UK measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're making creamy desserts or savoury dishes, knowing the exact weight helps avoid kitchen mishaps.</p>  

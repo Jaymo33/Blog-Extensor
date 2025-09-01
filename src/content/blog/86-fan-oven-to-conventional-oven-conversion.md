@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>86°C in a fan oven equals approximately 76°C in a conventional oven. This 10°C reduction is standard when converting between fan-assisted and traditional oven settings. Understanding this conversion is crucial when following recipes or adjusting cooking times for different appliances, especially when using an air fryer as an alternative.</p>

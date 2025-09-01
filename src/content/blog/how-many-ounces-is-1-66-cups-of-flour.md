@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of flour equals approximately 7.5 ounces (or precisely 7.47 oz). This conversion is essential for air fryer baking where precise measurements can make or break your recipe. Whether you're making air fryer cakes or coating chicken, knowing exactly how many ounces are in 1.66 cups of flour ensures consistent results every time.</p>

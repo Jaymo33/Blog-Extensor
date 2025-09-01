@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of ground almonds equals approximately 6 ounces (170 grams). This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making almond-crusted chicken or a gluten-free cake, precise measurements matter.</p>  

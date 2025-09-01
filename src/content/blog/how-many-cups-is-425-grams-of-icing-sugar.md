@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of icing sugar is approximately 3.5 cups when lightly spooned into a measuring cup. This conversion is essential for bakers who rely on precise measurements for perfect cakes, cookies, and air fryer desserts. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing how to convert grams to cups ensures consistency in your baking.</p>  

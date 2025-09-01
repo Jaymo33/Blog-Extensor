@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of cottage cheese equals approximately 5.29 ounces. This conversion is handy when following air fryer recipes that use imperial or metric measurements. Whether you’re making a creamy dip or a protein-packed breakfast, knowing the exact weight ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

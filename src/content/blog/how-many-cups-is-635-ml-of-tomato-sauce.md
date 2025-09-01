@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of tomato sauce is roughly 2.68 cups in the US or 2.23 cups in the UK. This conversion is essential for air fryer recipes, ensuring you get the right consistency and flavour. Whether you're making a rich pasta sauce or a hearty stew, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer.</p>  

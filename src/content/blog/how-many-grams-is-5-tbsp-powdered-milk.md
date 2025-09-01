@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of powdered milk equals approximately 35 grams. This conversion is essential for precise baking or cooking, especially when using an air fryer. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight ensures consistency. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of water weigh exactly 30 grams (g). This measurement is consistent whether you're using UK or metric tablespoons, making it easy to convert for air fryer recipes. Precise measurements like this are key to perfecting dishes, especially when using an air fryer where ingredient ratios matter.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of lime juice equals 24 fluid ounces (fl oz) in the UK and US measurement systems. This conversion is essential for air fryer recipes that require precise measurements, ensuring your dishes turn out perfectly every time. Whether you're marinating chicken or adding a citrusy kick to desserts, knowing how many ounces are in 3 cups of lime juice is a game-changer.</p>

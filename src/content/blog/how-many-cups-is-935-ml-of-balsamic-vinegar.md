@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of balsamic vinegar equals approximately 3.95 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you’re whipping up a glaze or marinating meats, knowing how to convert millilitres to cups ensures consistency in your recipes.</p>  

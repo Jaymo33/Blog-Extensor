@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of margarine equals 1 ounce. This simple conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're baking or frying, knowing how many ounces are in 0.125 cup of margarine ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with air fryers.</p>

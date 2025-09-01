@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>304 F converts to approximately 150 C in a fan oven. This conversion is essential when adapting recipes between traditional ovens and air fryers, especially for those who love crispy, evenly cooked meals. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of sunflower seeds equals approximately 1.25 ounces (35 grams). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're sprinkling them over a salad or using them as a coating for chicken, knowing the exact weight helps avoid over or under-seasoning.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should never put cardboard in an air fryer. Cardboard is highly flammable and can catch fire when exposed to the high heat of an air fryer, which typically operates between 160°C and 200°C. Even small pieces or grease-soaked cardboard pose serious risks, from smoke damage to full-blown fires. Instead, opt for air fryer-safe liners or parchment paper designed for high temperatures. For more safe cooking tips, explore <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> that use proper materials.</p>  

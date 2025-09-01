@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of milk is roughly equivalent to 0.95 cups in the UK or 0.89 cups in the US. This conversion is essential for anyone using an air fryer to bake or cook recipes that require precise measurements. Whether you're making a cake, custard, or a creamy sauce, knowing how to convert grams to cups ensures your dish turns out perfectly every time.</p>

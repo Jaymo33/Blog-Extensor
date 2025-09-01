@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>401°F converts to approximately 205°C in a fan oven. This conversion is essential when using American recipes with UK appliances or adjusting air fryer temperatures for conventional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks.</p>

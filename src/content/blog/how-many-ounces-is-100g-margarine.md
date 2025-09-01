@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of margarine equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking, frying, or melting margarine, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it in your kitchen.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>446 F converts to approximately 230 C in a fan oven. This temperature is ideal for roasting meats, baking crispy dishes, or using your air fryer for golden results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we specialise in making these conversions effortless for home cooks.</p>

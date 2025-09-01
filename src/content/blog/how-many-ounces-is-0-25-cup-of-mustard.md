@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of mustard equals approximately 2 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re preparing a marinade, sauce, or glaze, knowing how to convert 0.25 cup of mustard to ounces ensures consistent results every time.</p>

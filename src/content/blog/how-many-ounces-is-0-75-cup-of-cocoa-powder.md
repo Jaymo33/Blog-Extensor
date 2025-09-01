@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of cocoa powder equals approximately 2.25 ounces (or 2.25 oz) when measured accurately. This conversion is essential for baking, especially when using an air fryer for cakes, brownies, or other cocoa-based treats. Getting the measurement right ensures your recipes turn out perfectly every time.</p>  

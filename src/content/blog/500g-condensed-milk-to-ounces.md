@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of condensed milk equals approximately 17.64 ounces. This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Whether you’re whipping up a dessert or adjusting a recipe, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>  

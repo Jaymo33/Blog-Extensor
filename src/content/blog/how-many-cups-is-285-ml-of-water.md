@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of water equals approximately 1.2 cups in the US and 1.14 cups in the UK. This conversion is essential for precise cooking, especially when using an air fryer where measurements can affect texture and cooking times. Whether you're baking, making sauces, or preparing ingredients, knowing how to convert 285 ml of water to cups ensures consistency in your recipes. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

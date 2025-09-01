@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>29 kg equals approximately 63.93 pounds, making it a crucial conversion for anyone using an air fryer with imperial measurements. This conversion helps you accurately portion ingredients, follow recipes precisely, and achieve consistent cooking results every time. Whether you're preparing a large family meal or meal prepping for the week, understanding weight conversions eliminates guesswork. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use pounds or kilograms, so knowing both systems is incredibly useful. Getting your measurements right ensures your food cooks evenly and comes out perfectly crispy.</p>

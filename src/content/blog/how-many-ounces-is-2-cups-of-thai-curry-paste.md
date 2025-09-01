@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of Thai curry paste equals approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes, ensuring accurate measurements for the best results. Whether you're making a fragrant curry or marinating meats, knowing the weight helps balance flavours perfectly.</p>  

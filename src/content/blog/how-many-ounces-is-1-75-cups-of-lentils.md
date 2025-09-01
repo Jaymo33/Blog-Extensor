@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of lentils equals approximately 10.5 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're meal prepping or following a specific dish, knowing how to convert 1.75 cups of lentils to ounces ensures consistency and delicious results.</p>

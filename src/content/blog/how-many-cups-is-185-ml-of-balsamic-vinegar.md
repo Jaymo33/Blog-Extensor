@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of balsamic vinegar equals approximately 0.78 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken or drizzling over roasted vegetables, knowing how many cups 185 ml of balsamic vinegar is ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

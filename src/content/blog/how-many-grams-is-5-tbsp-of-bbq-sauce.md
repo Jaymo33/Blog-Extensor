@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of BBQ sauce is approximately 75 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re marinating chicken or glazing ribs, knowing the exact weight ensures consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

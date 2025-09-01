@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of milk is roughly equivalent to 0.53 cups (or just over half a cup) in standard US measurements. If you're using UK metric cups, it's approximately 0.5 cups. This conversion is handy whether you're baking, cooking, or preparing air fryer recipes where precision matters.</p>  

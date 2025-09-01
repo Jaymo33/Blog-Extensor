@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of apple cider vinegar equals approximately ⅔ cup. This conversion is essential for precision in cooking and baking, especially when using an air fryer where exact measurements can impact texture and flavour. Whether you're marinating chicken or whipping up a tangy glaze, knowing how to convert 160 ml of apple cider vinegar to cups ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of breadcrumbs equal approximately 8 ounces (227 grams). This measurement is essential for air fryer recipes, ensuring your coatings and breadings turn out perfectly crispy. Whether you're making chicken tenders, fish fillets, or veggie bites, accurate conversions make all the difference.</p>

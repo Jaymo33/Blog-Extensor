@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of chicken broth equals approximately 710 ml. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making soups, stews, or marinades, knowing how many ml is 3.0 cups of chicken broth ensures your dish turns out perfectly every time.</p>

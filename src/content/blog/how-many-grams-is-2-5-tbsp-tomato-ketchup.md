@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tbsp of tomato ketchup equals approximately 37.5 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a quick sauce or marinating chicken, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

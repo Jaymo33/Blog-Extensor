@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of coconut oil equals approximately 10.5 grams. This conversion is essential for precision in air fryer cooking, where exact measurements can make or break a recipe. Whether you’re whipping up crispy snacks or baking healthier treats, knowing the weight of coconut oil ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can focus on cooking.</p>  

@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>238°C converts to Gas Mark 9, which is the standard equivalent for this high cooking temperature. This conversion is essential when using recipes that specify Gas Mark settings, especially for baking or roasting in both traditional ovens and air fryers. Whether you're preparing crispy roast potatoes or baking a Victoria sponge, knowing your 238 c to gas mark conversion ensures perfect results every time.</p>

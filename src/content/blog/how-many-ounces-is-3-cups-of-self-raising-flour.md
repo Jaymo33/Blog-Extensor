@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of self-raising flour equals approximately 12.75 ounces (or 12 ¾ oz). This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes, bread, or other treats, knowing the exact weight ensures consistency.</p>

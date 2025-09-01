@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of single cream is roughly equivalent to 2 cups. This conversion is handy for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing how to convert ml to cups ensures perfect results every time.</p>

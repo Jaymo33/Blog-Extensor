@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of Nutella equals approximately 1 ounce. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making cookies, brownies, or a quick dessert, knowing how many ounces are in 0.125 cup of Nutella ensures perfect results every time.</p>  

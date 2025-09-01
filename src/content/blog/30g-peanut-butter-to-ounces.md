@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of peanut butter equals approximately 1.06 ounces. This conversion is handy for air fryer recipes where precise measurements matter, ensuring your dishes turn out perfectly every time. Whether you're making peanut butter cookies or a savoury satay sauce, knowing this conversion helps streamline your cooking process.</p>  

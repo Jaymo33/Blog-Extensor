@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 kg is equal to approximately 3.86 pounds, a conversion that comes in handy when preparing ingredients for your air fryer. Whether you're portioning chicken, beef, or vegetables, knowing how to switch between metric and imperial measurements ensures your recipes turn out perfectly every time. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use pounds or kilograms, so being fluent in both systems makes cooking simpler. This particular weight is common for family-sized meals or meal prep, making it a useful number to keep in mind. Understanding this conversion helps you avoid overloading your air fryer basket and guarantees even cooking.</p>

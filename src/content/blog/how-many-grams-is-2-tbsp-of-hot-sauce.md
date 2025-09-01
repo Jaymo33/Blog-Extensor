@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of hot sauce weigh approximately 30 grams. This measurement is essential for air fryer recipes where precision ensures the perfect balance of flavour. Whether you’re marinating chicken or spicing up vegetables, knowing the exact grams in 2 tbsp of hot sauce helps avoid over-seasoning. For more conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

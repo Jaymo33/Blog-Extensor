@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of honey is roughly equal to 0.042 cups. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re whipping up a glaze or sweetening a marinade, knowing how to convert 10 ml of honey to cups ensures your dish turns out perfectly.</p>  

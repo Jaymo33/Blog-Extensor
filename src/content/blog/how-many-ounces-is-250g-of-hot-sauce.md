@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of hot sauce is approximately 8.82 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams or ounces. Whether you're whipping up spicy wings or a tangy marinade, knowing how to convert measurements ensures your dish turns out just right.</p>  

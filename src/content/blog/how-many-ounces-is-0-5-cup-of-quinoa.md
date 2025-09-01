@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of quinoa equals approximately 3.5 ounces (100 grams). This measurement is essential for air fryer recipes, ensuring your quinoa cooks evenly and absorbs flavours perfectly. Whether you're preparing a protein-packed salad or a hearty side dish, knowing the exact weight helps achieve consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

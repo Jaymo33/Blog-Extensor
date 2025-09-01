@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 kg equals approximately 2.20462 pounds, which is the fundamental conversion you need for air fryer cooking. This conversion is crucial when following recipes that use imperial measurements or when you're working with pre-packaged ingredients that list weights differently. Getting this conversion right ensures your cooking times and temperatures work perfectly in your air fryer. Many British cooks find themselves needing to make this conversion regularly, especially when using international recipes. Understanding this basic conversion will transform your air fryer cooking experience.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of tomato ketchup equals approximately 0.35 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're making crispy chicken wings or loaded fries, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of desiccated coconut equals approximately 5.6 ounces (or 160 grams). This conversion is essential for air fryer recipes where precision matters, especially in baking or dessert prep. Whether you're making coconut macaroons or adding texture to a dish, knowing the exact weight ensures consistency.</p>  

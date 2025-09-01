@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of granulated sugar equals approximately 31.25 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re baking cookies or preparing a glaze, knowing the exact weight ensures consistent results every time.</p>

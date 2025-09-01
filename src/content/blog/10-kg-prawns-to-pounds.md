@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 kg of prawns converts to approximately 22.046 pounds, making it essential knowledge for anyone preparing seafood in their air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dishes, accurate measurements ensure perfect results every time. Understanding this conversion helps you portion correctly, avoid overcrowding your air fryer basket, and achieve that delicious crispy texture we all love. This is particularly important when working with larger quantities for family meals or entertaining. Getting your weights right from the start makes the entire cooking process smoother and more enjoyable.</p>

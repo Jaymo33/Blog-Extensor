@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of apple cider vinegar equals approximately 1.06 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can impact results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing how to convert 30g of apple cider vinegar to ounces ensures perfect results every time.</p>

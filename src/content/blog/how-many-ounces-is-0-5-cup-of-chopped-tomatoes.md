@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of chopped tomatoes equals approximately 4 ounces (113 grams) in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make all the difference. Whether you're making a salsa, pasta sauce, or a roasted tomato dish, knowing the exact weight ensures consistent results every time.</p>

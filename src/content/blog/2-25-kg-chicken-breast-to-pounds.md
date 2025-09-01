@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 kg of chicken breast converts to approximately 4.96 pounds, making it just under 5 pounds of poultry perfect for family meals and meal prep. This conversion is essential for British cooks using recipes with imperial measurements or when shopping for specific quantities. Understanding this measurement helps you plan your air fryer cooking sessions more effectively, ensuring you have the right amount of chicken for your recipes. Whether you're meal prepping or cooking for a gathering, knowing this conversion takes the guesswork out of portion planning. Many fantastic chicken recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use pound measurements, making this conversion particularly useful.</p>

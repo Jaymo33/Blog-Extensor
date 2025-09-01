@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of heavy cream is approximately 1.42 cups in the UK and 1.41 cups in the US. This conversion is essential for precision in baking and cooking, especially when using an air fryer for recipes like custards or sauces. Whether you're following a British or American recipe, knowing the exact measurement ensures perfect results every time.</p>  

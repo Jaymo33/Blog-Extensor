@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of rice is roughly equivalent to 2.5 cups in the UK and 2.1 cups in the US. The exact measurement can vary slightly depending on the type of rice and how it's packed. Whether you're using an air fryer or a stovetop, getting the right rice-to-liquid ratio is crucial for perfect results. For more conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our air fryer conversion chart</a>.</p>  

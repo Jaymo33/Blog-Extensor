@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of chicken broth equals approximately 2.58 cups in the US measurement system and 2.15 cups in the UK system. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer for soups, stews, or sauces. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or improvising, knowing how to convert 610 ml of chicken broth to cups ensures consistency.</p>

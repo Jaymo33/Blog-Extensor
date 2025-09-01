@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of pesto equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making pesto chicken or a veggie bake, knowing the weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you nail every meal. Let’s dive deeper into why this conversion matters.</p>

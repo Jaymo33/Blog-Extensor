@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of balsamic vinegar equals approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you’re marinating chicken or glazing vegetables, knowing the exact weight helps maintain consistency in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of rolled oats weigh approximately 24 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results. Whether you're making breakfast or baking, knowing the exact weight helps avoid guesswork. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

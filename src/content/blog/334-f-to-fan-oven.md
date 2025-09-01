@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>334 F converts to approximately 167 C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures without overcooking your food. Whether you're adapting an American recipe or fine-tuning your air fryer settings, knowing this conversion is essential for UK kitchens.</p>

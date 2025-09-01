@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of Nutella equals approximately 0.88 ounces. Whether you’re whipping up a dessert in your air fryer or measuring ingredients for baking, knowing this conversion ensures precision. Nutella’s rich, creamy texture makes it a favourite for recipes, but getting the measurements right is key to perfect results.</p>  

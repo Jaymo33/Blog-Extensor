@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>326 F converts to approximately 163 C in a fan oven. This is a common temperature for baking and roasting, offering even heat distribution for consistent results. Whether you're using a traditional fan oven or an air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

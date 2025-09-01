@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat dumplings in an air fryer, set the temperature to 160°C (320°F) and cook for 3–5 minutes until piping hot. This method restores crispiness while keeping the filling moist – far better than microwaving. Whether you’ve got leftover takeaway dumplings or homemade ones from the fridge, your air fryer’s circulating heat works wonders.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of rolled oats equals approximately 5 cups. This conversion is essential for air fryer recipes, ensuring accuracy for baking, meal prep, or breakfast dishes. Whether you're making granola, oat bars, or using oats as a coating, knowing this measurement helps achieve consistent results.</p>  

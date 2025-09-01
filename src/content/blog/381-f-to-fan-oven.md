@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>381°F converts to approximately 190°C in a fan oven, making it ideal for air fryer cooking. This temperature works perfectly for crispy roasts, baked goods, and even reheating leftovers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of vegetable oil equals approximately 24 fluid ounces (fl oz) or 21.6 ounces (oz) by weight. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're frying, baking, or roasting, knowing how to convert cups to ounces ensures consistent results every time.</p>  

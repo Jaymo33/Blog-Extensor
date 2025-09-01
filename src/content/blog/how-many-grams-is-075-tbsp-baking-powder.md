@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of baking powder equals approximately 11.25 grams. This conversion is essential for air fryer baking, where precision ensures perfect texture and rise. Whether you're making cakes, muffins, or batters, getting the measurement right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for air fryer success.</p>  

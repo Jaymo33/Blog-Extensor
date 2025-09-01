@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of half and half equals approximately 1.73 cups. This conversion is essential for baking, cooking, or even making your favourite coffee creamer at home. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or improvising, knowing how to convert 410 ml of half and half to cups ensures accuracy.</p>

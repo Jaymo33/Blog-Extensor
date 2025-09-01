@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of evaporated milk equals 591.47 millilitres (ml). This precise conversion ensures your air fryer recipes turn out perfectly every time. Whether you’re making creamy desserts or savoury dishes, knowing the exact ml measurement helps avoid guesswork. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

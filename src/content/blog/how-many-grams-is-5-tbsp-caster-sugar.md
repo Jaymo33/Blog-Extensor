@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of caster sugar equals approximately 62.5 grams (g). This conversion is essential for precise baking, especially when using an air fryer where measurements can impact cooking times and textures. Whether you're making cakes, cookies, or other sweet treats, knowing the exact weight ensures consistent results every time.</p>

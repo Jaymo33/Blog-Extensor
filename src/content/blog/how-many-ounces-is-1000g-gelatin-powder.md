@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of gelatin powder equals approximately 35.27 ounces. This conversion is essential for anyone using gelatin in air fryer recipes or baking, where precise measurements can make all the difference. Whether you're making desserts, jellies, or even savoury dishes, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>

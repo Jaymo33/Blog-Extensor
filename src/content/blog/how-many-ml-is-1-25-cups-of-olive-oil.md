@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of olive oil is equivalent to approximately 295.74 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking, frying, or drizzling, knowing the exact ml for 1.25 cups of olive oil ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of yeast equals approximately 2.5 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're making bread, pizza dough, or cakes, knowing the exact weight ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of double cream equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s break this down further.</p>  

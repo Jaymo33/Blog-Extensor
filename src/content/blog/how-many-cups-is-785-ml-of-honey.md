@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of honey is approximately 3.3 cups, though this can vary slightly depending on the honey's density. Whether you're baking, cooking, or prepping an air fryer recipe, getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when working with sticky ingredients like honey.</p>

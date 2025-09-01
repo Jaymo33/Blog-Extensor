@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of olive oil is approximately 2.79 cups in the US measurement system and 2.32 cups in the UK. Whether you're baking or frying in your air fryer, getting the right amount of olive oil is crucial for perfect results. This guide will help you convert 660 ml of olive oil to cups accurately, so you never have to guess again.</p>

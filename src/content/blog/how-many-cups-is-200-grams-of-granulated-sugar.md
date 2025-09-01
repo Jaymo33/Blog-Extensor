@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of granulated sugar equals approximately 1 cup in US measurements or 0.8 cups in UK measurements. Whether you're baking a cake or whipping up a dessert in your air fryer, getting the sugar measurement right is crucial for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, so let’s dive into the details.</p>  

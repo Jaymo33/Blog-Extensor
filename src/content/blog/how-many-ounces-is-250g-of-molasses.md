@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of molasses equals approximately 8.82 ounces. This conversion is essential for anyone using molasses in baking or air fryer recipes, where precision can make or break a dish. Whether you're whipping up gingerbread cookies or a sticky glaze for meats, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with thick, dense ingredients like molasses.</p>  

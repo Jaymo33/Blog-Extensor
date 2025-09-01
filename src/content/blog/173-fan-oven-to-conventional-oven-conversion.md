@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>173°C in a fan oven converts to approximately 190°C in a conventional oven. This adjustment accounts for the more efficient heat distribution in fan-assisted ovens. Whether you're baking cakes or roasting vegetables, getting this conversion right ensures your dishes turn out perfectly every time.</p>

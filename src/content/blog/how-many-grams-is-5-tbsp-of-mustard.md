@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of mustard weigh approximately 75 grams. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you’re preparing a marinade, glaze, or sauce, knowing the exact weight ensures consistency in flavour and texture.</p>  

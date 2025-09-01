@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of olive oil equals approximately 675 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're baking, frying, or drizzling, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking.</p>  

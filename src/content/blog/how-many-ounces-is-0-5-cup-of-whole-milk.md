@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of whole milk equals approximately 4.23 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can affect texture and cooking times. Whether you're whipping up a creamy sauce or baking a fluffy cake, knowing how many ounces are in 0.5 cup of whole milk ensures consistent results every time.</p>  

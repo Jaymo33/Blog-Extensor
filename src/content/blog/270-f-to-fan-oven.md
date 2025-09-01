@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>270 F converts to approximately 132 C in a fan oven. This is a common temperature for slow roasting, dehydrating, or keeping dishes warm in an air fryer. Understanding this conversion helps when adapting recipes between traditional ovens and modern air fryers.</p>

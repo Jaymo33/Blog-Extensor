@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of apple cider vinegar is approximately 0.46 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you're marinating chicken or whipping up a tangy sauce, knowing how to convert 110 ml of apple cider vinegar to cups ensures consistency in your recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of bbq sauce equals approximately 4 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re marinating chicken or glazing ribs, knowing how many ounces are in 0.5 cup of bbq sauce helps avoid over or under-seasoning. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of water equals exactly 2 fluid ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting portions, knowing this conversion ensures accuracy.</p>  

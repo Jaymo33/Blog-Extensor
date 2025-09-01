@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of vinegar equals approximately 2.26 cups in the US measurement system and roughly 2.11 cups in the UK metric system. Whether you're preparing a tangy marinade or a zesty dressing, getting the vinegar measurement right is crucial for balanced flavours. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer.</p>  

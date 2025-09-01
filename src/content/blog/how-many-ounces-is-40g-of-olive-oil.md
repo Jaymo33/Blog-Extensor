@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of olive oil equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're drizzling olive oil over vegetables or using it to coat chicken, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when it comes to oils and fats.</p>

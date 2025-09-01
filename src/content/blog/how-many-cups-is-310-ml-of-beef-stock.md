@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of beef stock equals approximately 1.31 cups in the US or 1.23 cups in the UK. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer. Whether you're making a rich gravy or a flavourful stew, knowing how to convert 310 ml of beef stock to cups ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>89 fan oven converts to approximately 70°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, ensuring your dishes cook evenly and thoroughly. Whether you're baking, roasting, or reheating, understanding this temperature adjustment will help you achieve perfect results every time.</p>

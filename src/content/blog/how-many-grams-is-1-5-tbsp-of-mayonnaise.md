@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of mayonnaise weighs approximately 22.5 grams in the UK. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you’re whipping up a quick sauce or coating chicken for a crispy finish, knowing the exact weight ensures consistent results every time.</p>  

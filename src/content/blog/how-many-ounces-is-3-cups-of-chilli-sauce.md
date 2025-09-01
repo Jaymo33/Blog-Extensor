@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chilli sauce equals approximately 24 fluid ounces (or 24 oz) in the UK. This conversion is essential for air fryer recipes, where precise measurements ensure the best results. Whether you're making a spicy glaze or a hearty chilli, knowing how to convert cups to ounces helps streamline your cooking process. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

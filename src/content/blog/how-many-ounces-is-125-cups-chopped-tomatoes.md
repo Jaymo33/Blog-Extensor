@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of chopped tomatoes equals approximately 10 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a quick salsa or adding tomatoes to a casserole, knowing this conversion ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when working with fresh ingredients like tomatoes.</p>  

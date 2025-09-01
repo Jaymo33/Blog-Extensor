@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of diced peppers equals approximately 1 ounce (28 grams) in weight. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you’re prepping a stir-fry or adding peppers to a frittata, knowing the exact weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make your cooking effortless.</p>  

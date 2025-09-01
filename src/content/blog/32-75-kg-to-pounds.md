@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>32.75 kg is equal to approximately 72.2 pounds, a conversion that comes in handy when you're working with larger quantities of ingredients or planning meals for a crowd. Whether you're preparing a big batch of marinated chicken or portioning out potatoes for a family feast, understanding how to convert 32.75 kg to pounds ensures you get your measurements spot on. This is especially useful for air fryer users who often deal with pre-packaged or bulk items labelled in kilograms. Getting your weights right means your cooking times and temperatures will be accurate, leading to perfectly crispy and delicious results every time. For more handy conversion tips and charts, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat an English muffin in an air fryer, set the temperature to 160°C (320°F) and cook for 2-3 minutes. This method restores the muffin’s crisp exterior while keeping the interior soft and fluffy. Whether you’re working with a fresh muffin or one from the fridge, your air fryer can revive it beautifully. For those who love kitchen gadgets, this technique beats using a toaster or microwave hands down. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more brilliant air fryer hacks.</p>

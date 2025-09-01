@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of apple juice equals 1 fluid ounce (oz). This precise measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking, marinating, or creating sauces, knowing how to convert 0.125 cup of apple juice to ounces helps maintain consistency in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>487 F converts to approximately 253 C in a fan oven. This high-temperature conversion is particularly useful for air fryer cooking, where precise heat settings can make all the difference to your results. Whether you're adapting an American recipe or troubleshooting your air fryer settings, understanding this conversion is key to culinary success.</p>

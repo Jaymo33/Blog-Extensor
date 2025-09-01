@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 fan oven equals approximately 200°C in a conventional oven. This 25°C reduction accounts for the fan oven's efficient heat distribution. Whether you're baking cakes or roasting veggies, knowing this conversion ensures your dishes turn out perfectly every time.</p>

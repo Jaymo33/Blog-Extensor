@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of flaxseed equals approximately 4.5 ounces. This conversion is essential for air fryer recipes, baking, or meal prep where precise measurements matter. Flaxseed is a versatile ingredient, often used in healthy dishes, and knowing its weight ensures consistency in your cooking. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting, accurate measurements lead to better results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of coconut milk equals approximately 4.16 cups (using the standard UK metric cup measurement of 236.588 ml per cup). Whether you're preparing a creamy curry or a decadent dessert in your air fryer, getting the measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precision, especially when working with rich ingredients like coconut milk.</p>  

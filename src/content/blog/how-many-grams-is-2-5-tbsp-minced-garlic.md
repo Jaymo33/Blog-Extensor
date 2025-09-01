@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of minced garlic equals approximately 35 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up garlic-infused chicken or a flavourful vegetable stir-fry, knowing the exact weight ensures consistent results every time.</p>

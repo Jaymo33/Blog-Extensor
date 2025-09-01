@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of hoisin sauce equals approximately 20 fluid ounces (or 20 oz). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re marinating chicken or glazing salmon, knowing how many ounces are in 2.5 cups of hoisin sauce helps you nail the flavour every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of yogurt equals approximately 240 ml in the US measurement system and 284 ml in the UK system. If you're using an air fryer for baking or cooking, precise measurements ensure your recipes turn out just right. Whether you're whipping up a cake, marinating chicken, or preparing a creamy dessert, knowing how to convert cups to ml is essential.</p>  

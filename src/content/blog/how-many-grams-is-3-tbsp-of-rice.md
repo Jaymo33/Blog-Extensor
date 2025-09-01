@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of rice weigh approximately 45 grams. This measurement is essential for air fryer cooking, where precision ensures even results. Whether you’re meal prepping or cooking a quick side dish, knowing the exact weight helps avoid under or overcooking. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

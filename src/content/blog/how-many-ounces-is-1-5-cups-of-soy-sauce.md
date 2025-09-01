@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of soy sauce equals 12 ounces, making it easy to measure for your air fryer recipes. Whether you're marinating chicken, beef, or tofu, getting the right amount of soy sauce ensures balanced flavours. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements are key to perfect cooking. This conversion is especially useful for UK cooks who need accurate ounce measurements for their air fryer dishes.</p>  

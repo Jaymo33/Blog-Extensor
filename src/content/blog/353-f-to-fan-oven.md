@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>353 F converts to approximately 160 C in a fan oven. This moderate temperature works well for baking, roasting, and air frying various dishes. When using an air fryer, you'll often find recipes calling for 353 F, which is why understanding this conversion matters.</p>

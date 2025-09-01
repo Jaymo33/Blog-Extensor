@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of water equals 710 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you’re preparing a sauce, baking, or adjusting liquid quantities, knowing how many ml is 3.0 cups of water ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless so you can focus on creating delicious meals.</p>  

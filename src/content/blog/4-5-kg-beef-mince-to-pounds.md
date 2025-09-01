@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.5 kg of beef mince equals approximately 9.92 pounds, making it essential knowledge for anyone preparing large batches of meals in their air fryer. This conversion is particularly useful when following recipes from different sources or when buying mince in bulk for family gatherings. Understanding this measurement ensures you use the right amount of ingredients for perfect results every time. Whether you're making burgers, meatballs, or shepherd's pie, accurate measurements lead to better cooking outcomes. Visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> for more conversion tips and recipe ideas.</p>

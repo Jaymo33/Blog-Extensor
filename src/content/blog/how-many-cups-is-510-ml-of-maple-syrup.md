@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of maple syrup is approximately 2.15 cups in the US measurement system and roughly 1.8 cups in the UK. Whether you're baking or preparing a glaze for your air fryer dishes, knowing this conversion ensures accuracy. Maple syrup is a staple in many recipes, from pancakes to marinades, and getting the measurement right can make all the difference.</p>

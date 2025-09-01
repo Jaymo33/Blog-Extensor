@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of cheddar cheese is roughly equivalent to 4.5 cups when grated. This conversion is essential for recipes where precision matters, especially in air fryer cooking. Whether you're making a cheesy bake or a crispy topping, knowing how many cups is 450 grams of cheddar cheese ensures consistent results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of rice equals approximately 5.29 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference. Whether you’re meal prepping or whipping up a quick dinner, knowing how to convert grams to ounces ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, and accurate measurements are a big part of that.</p>  

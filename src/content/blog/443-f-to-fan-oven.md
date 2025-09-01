@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>443 F converts to approximately 228 C in a fan oven, which is the standard setting for many high-heat recipes like roasting or crispy baking. This conversion is essential for UK kitchens where fan ovens dominate, ensuring your dishes cook evenly without burning. Whether you're using a conventional oven or an air fryer, getting the temperature right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we specialise in helping you nail these conversions for flawless results every time.</p>

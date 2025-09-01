@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of icing sugar equals approximately 1.41 ounces. This precise conversion is essential for UK bakers who need accurate measurements for air fryer recipes. Whether you're dusting desserts or making frosting, knowing this conversion ensures perfect results every time.</p>

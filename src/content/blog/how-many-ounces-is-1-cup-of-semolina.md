@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One cup of semolina weighs approximately 5.3 ounces (150 grams). Whether you're preparing air fryer recipes or traditional dishes, knowing this conversion ensures perfect results every time. Semolina, a coarse flour made from durum wheat, is a staple in many cuisines, from pasta to desserts. Accurate measurements are key, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

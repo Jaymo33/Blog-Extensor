@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of apple juice equals 24 fluid ounces (fl oz) in both US and UK measurements. This conversion is essential for air fryer recipes, ensuring precise liquid measurements for sauces, marinades, or baked goods. Whether you're whipping up a glaze or a fruity dessert, knowing this conversion helps maintain consistency in your cooking. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of orange juice equals approximately 2.47 UK cups or 2.48 US cups. This conversion is essential for accurate baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're whipping up a citrusy cake or a tangy marinade, knowing how to convert 585 ml of orange juice to cups ensures your recipes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>359°F converts to Gas Mark 4.5, a common setting for baking and roasting in traditional ovens. When using an air fryer, this temperature ensures even cooking for dishes like cookies, roasted vegetables, or small cuts of meat. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your air fryer’s manual for precise adjustments, as fan-assisted cooking may require slight tweaks.</p>

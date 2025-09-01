@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of milk is approximately 3.63 cups when using standard US measurements. This conversion is handy for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're whipping up a cake or a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out just right. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of protein powder equals approximately 17.64 ounces. This conversion is essential for anyone using protein powder in recipes, meal prep, or even air fryer cooking. Whether you're baking protein bars or adding powder to smoothies, knowing the exact weight ensures consistency and perfect results every time.</p>

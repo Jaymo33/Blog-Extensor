@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of vegetable oil is approximately 0.36 cups in the US measurement system and 0.30 cups in the UK system. Whether you're following a recipe for your air fryer or baking, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results.</p>

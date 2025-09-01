@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of granulated sugar is approximately 1/4 cup. This conversion is essential for baking and cooking, especially when using an air fryer for desserts or sweet treats. Whether you're whipping up a cake or making cookies, knowing how many cups is 50 grams of granulated sugar ensures your recipes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 3 kg turkey crown equals approximately 6.61 pounds. This conversion is essential for air fryer users who need to calculate cooking times accurately, as most air fryer recipes and guidelines use pounds as the standard measurement. Knowing the exact weight in pounds helps you achieve perfectly cooked, juicy turkey every time. Whether you're preparing a Sunday roast or a special holiday meal, this conversion ensures your turkey crown cooks evenly. For more helpful conversion tools, visit our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

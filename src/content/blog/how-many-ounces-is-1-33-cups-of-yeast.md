@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of yeast equals approximately 4.25 ounces (oz). This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like bread or pizza dough. Accurate measurements ensure consistent results, whether you're following a traditional oven recipe or adapting it for your air fryer.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of whipping cream equals approximately 35.27 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you’re whipping up a dessert or adding cream to a savoury dish, knowing the exact measurement ensures perfect results every time.</p>

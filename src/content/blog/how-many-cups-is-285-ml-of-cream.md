@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of cream is approximately 1.2 cups. This conversion is essential for anyone who loves baking or cooking, especially when using an air fryer. Whether you're whipping up a dessert or adding cream to a sauce, knowing the exact measurement ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking simpler with precise conversions and delicious recipes.</p>

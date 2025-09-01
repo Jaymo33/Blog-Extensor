@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>472 F converts to approximately 245 C in a fan oven. This high-temperature setting is ideal for achieving crispy results in your air fryer, similar to professional convection ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for perfect cooking every time.</p>

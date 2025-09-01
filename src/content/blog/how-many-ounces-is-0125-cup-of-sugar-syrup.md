@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of sugar syrup equals approximately 1 fluid ounce (oz) in the UK. This measurement is essential for precision in air fryer recipes, especially when making glazes, marinades, or desserts. Whether you’re whipping up a batch of sticky wings or a sweet drizzle for cakes, knowing how many ounces are in 0.125 cup of sugar syrup ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect measurements for flawless cooking every time.</p>

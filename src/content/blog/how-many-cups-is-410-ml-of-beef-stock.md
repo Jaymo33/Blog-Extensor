@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of beef stock equals approximately 1.73 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're preparing a rich gravy or a savoury casserole, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

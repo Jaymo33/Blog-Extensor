@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of beef stock is approximately 2.26 cups. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you’re whipping up a hearty stew or a flavourful sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

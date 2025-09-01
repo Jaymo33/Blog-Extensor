@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating steak in an air fryer at 160°C for 3-4 minutes delivers perfectly warmed meat with a crisp exterior while keeping the inside tender. This method beats microwaving hands-down, preventing that dreaded rubbery texture while adding delicious caramelisation.</p>

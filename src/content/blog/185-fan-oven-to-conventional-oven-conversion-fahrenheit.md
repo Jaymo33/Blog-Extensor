@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185°F in a fan oven equals approximately 350°F in a conventional oven. This conversion is essential for adapting recipes between different cooking appliances, especially when using an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate temperature conversions are for perfect results every time.</p>

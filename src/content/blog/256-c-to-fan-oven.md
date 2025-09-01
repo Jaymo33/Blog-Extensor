@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>256°C converts to approximately 230°C in a fan oven. This 10% reduction is standard for most fan-assisted ovens in the UK. When using an air fryer, which works similarly to a fan oven, you'll typically follow the same conversion rule. Whether you're baking, roasting, or air frying, understanding this temperature adjustment is key to perfect results.</p>

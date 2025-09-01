@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating apple pie in an air fryer is simple: set it to 160°C (320°F) for 3-5 minutes. This method keeps the crust crispy while warming the filling evenly, making it taste freshly baked. Whether you’re using leftovers or a chilled pie, your air fryer delivers better results than a microwave.</p>

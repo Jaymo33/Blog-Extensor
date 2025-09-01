@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of cornflour equals approximately 5.6 grams. This precise measurement is essential for air fryer recipes where accuracy can make or break your dish. Whether you're coating chicken or thickening a sauce, knowing the exact grams in 0.75 tbsp of cornflour ensures consistent results every time.</p>

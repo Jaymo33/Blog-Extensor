@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of vinegar equals approximately 0.57 cups (just over half a cup). This conversion is essential for precise cooking and baking, especially when using an air fryer where exact measurements can impact texture and flavour. Whether you're making marinades, dressings, or pickling, knowing how to convert 135 ml of vinegar to cups ensures your recipes turn out perfectly every time.</p>  

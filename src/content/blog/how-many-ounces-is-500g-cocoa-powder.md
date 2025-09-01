@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of cocoa powder equals approximately 17.64 ounces. This conversion is essential for anyone using an air fryer to bake cakes, cookies, or other cocoa-based treats. Whether you're following a British recipe or adapting an international one, getting the measurements right ensures your desserts turn out perfectly every time.</p>

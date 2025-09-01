@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>16.25 kg is equal to 35.82 pounds, a conversion that comes in handy when scaling recipes or understanding food packaging weights, especially for air fryer cooking. Whether you're meal prepping, buying in bulk, or following an international recipe, knowing how to convert 16.25 kg to pounds ensures you use the right ingredient quantities. This is particularly useful for air fryer users who need precise portions to avoid overcrowding the basket and achieve even cooking. Getting your weights right means better texture, crispiness, and overall results from your appliance. For more handy conversion tools, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

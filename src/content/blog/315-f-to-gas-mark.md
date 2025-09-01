@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>315°F converts to Gas Mark 3 in UK ovens and air fryers. This medium-low temperature is perfect for slow baking, roasting vegetables, or cooking delicate dishes that require gentle heat. Whether you're using a traditional oven or a modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

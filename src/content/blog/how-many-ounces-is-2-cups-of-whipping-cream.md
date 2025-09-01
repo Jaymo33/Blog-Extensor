@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of whipping cream equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making a creamy dessert or a rich sauce, knowing how many ounces are in 2 cups of whipping cream ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

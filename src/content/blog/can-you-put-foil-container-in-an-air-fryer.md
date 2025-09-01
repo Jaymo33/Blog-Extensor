@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put a foil container in an air fryer, but with precautions. Foil containers are generally safe if used correctly, but improper placement or excessive heat can cause issues like melting or blocking airflow. At airfryerrecipe.co.uk, we recommend checking your air fryer's manual first, as some models explicitly warn against foil use.</p>

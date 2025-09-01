@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>212 fan oven equals approximately 200°C in a conventional oven. This conversion is essential for achieving consistent baking results when switching between oven types. Many modern recipes, especially those from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, use fan oven temperatures, so knowing how to convert them is crucial.</p>

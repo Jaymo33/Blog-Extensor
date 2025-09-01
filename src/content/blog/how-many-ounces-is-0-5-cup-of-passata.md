@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of passata equals approximately 4.23 ounces (120 grams). This conversion is essential for air fryer recipes, ensuring precise measurements for the best results. Whether you're making a rich tomato sauce or a hearty stew, knowing how many ounces are in 0.5 cup of passata helps you follow recipes accurately.</p>  

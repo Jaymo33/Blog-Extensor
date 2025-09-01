@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>479 F converts to approximately 220 C in a fan oven. This temperature is ideal for roasting meats, baking crispy dishes, or even air frying. Understanding this conversion ensures your recipes turn out perfectly every time, especially when using an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions effortlessly.</p>  

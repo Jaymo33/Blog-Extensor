@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of vegetable oil equals approximately 4.16 cups. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're baking or frying, knowing how to convert millilitres to cups can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re here to help you master these conversions effortlessly.</p>

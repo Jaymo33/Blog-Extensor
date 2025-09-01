@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of water equals exactly 60 grams (g) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking, steaming, or adjusting liquid ingredients, knowing this measurement can make all the difference.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>474 F converts to approximately 246 C in a fan oven. This high-temperature conversion is particularly useful when adapting air fryer recipes to conventional ovens or comparing cooking methods. At airfryerrecipe.co.uk, we specialise in helping you navigate these temperature conversions for flawless results every time.</p>

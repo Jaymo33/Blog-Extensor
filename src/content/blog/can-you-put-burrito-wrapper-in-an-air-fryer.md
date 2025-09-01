@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put a standard burrito wrapper in an air fryer as most wrappers will melt, burn, or release harmful chemicals. The high heat and rapid air circulation in an air fryer make it unsuitable for typical paper or foil wrappers. Instead, remove the wrapper before cooking or use air fryer-safe alternatives like parchment liners.</p>

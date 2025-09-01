@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of oat milk equals approximately 2.26 cups. This conversion is essential for anyone using oat milk in recipes, especially when cooking or baking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing how many cups 535 ml of oat milk is can make all the difference.</p>

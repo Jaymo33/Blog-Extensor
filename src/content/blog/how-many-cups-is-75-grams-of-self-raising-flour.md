@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of self-raising flour equals approximately 0.6 cups (or just over half a cup). This conversion is essential for bakers who prefer using cups instead of scales, especially when preparing air fryer recipes. Whether you're making fluffy cakes or crispy batters, getting the measurement right ensures perfect results every time.</p>

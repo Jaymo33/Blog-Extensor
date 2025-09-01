@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of cocoa powder equals approximately 0.42 cups in the UK and 0.5 cups in the US. This conversion is essential for baking, especially when using an air fryer for cakes or desserts. Getting the measurement right ensures your recipes turn out perfectly every time.</p>

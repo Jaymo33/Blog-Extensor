@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>226 fan oven converts to approximately 250°F in a conventional oven. This conversion ensures your recipes turn out perfectly, whether you're using a traditional oven or an air fryer. Understanding these temperature adjustments is crucial for achieving consistent results in your cooking and baking.</p>

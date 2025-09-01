@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of chicken broth equals approximately 2.79 cups in the US or 2.34 cups in the UK. This conversion is essential for air fryer recipes where precise liquid measurements matter. Whether you're making a creamy soup or a saucy dish, knowing how to convert millilitres to cups ensures perfect results every time.</p>

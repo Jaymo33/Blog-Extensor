@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of rice equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're cooking jasmine, basmati, or long-grain rice, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>  

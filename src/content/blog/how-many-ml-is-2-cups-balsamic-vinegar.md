@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of balsamic vinegar is equivalent to 473 ml. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're making a glaze, marinade, or dressing, knowing how many ml is 2.0 cups of balsamic vinegar helps avoid guesswork. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

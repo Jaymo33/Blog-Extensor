@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 3.5 kg beef joint is equivalent to approximately 7.72 pounds. This conversion is essential for anyone preparing a roast, especially when using an air fryer, as many recipes and cooking guidelines use imperial measurements. Knowing the weight in pounds helps you determine cooking times, adjust seasoning quantities, and ensure even cooking throughout. Whether you’re planning a Sunday dinner or a special occasion meal, this conversion makes everything simpler. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

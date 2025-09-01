@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 327 fan oven to conventional oven temperature in Fahrenheit is straightforward: 327°F in a fan oven equals approximately 300°F in a conventional oven. This adjustment accounts for the more efficient heat distribution in fan-assisted ovens, which cook food faster and more evenly. If you're using an air fryer, this conversion is especially useful, as air fryers operate similarly to fan ovens. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

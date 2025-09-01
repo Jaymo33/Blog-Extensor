@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of yeast equals approximately 18 grams (g). This conversion is essential for precise baking, especially when using an air fryer for recipes like bread or pizza dough. Getting the measurement right ensures your dough rises perfectly every time.</p>  

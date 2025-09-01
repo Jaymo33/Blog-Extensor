@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>203°C in a conventional oven converts to approximately 180°C in a fan oven. This 20-25°C reduction is standard for fan-assisted cooking, ensuring even heat distribution without overcooking. Whether you're baking, roasting, or using an air fryer, this conversion keeps your dishes perfectly cooked.</p>

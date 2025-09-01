@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of marmalade equals approximately 1.06 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re glazing meats or baking desserts, knowing how many ounces 30g of marmalade is ensures perfect results every time.</p>

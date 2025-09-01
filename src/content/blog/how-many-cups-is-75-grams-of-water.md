@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of water equals approximately 0.32 cups (or just under 1/3 cup). This conversion is essential for accurate baking, cooking, and air frying, where precise liquid measurements can make or break a dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting measurements for your air fryer, knowing this conversion ensures consistency.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of semi skimmed milk equals approximately 16.9 ounces (or 480 millilitres). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can impact texture and consistency. Whether you’re whipping up a creamy sauce or a fluffy cake, knowing the exact weight ensures perfect results every time.</p>  

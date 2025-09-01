@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of gelatin powder equals approximately 8.82 ounces. This conversion is essential for anyone using gelatin in air fryer recipes, where precise measurements can make all the difference. Whether you're making desserts or savoury dishes, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>

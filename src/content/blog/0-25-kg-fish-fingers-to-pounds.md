@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 kg of fish fingers is equal to approximately 0.55 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging instructions might use imperial measurements. Knowing how to convert 0.25 kg fish fingers to pounds ensures you portion your food correctly for even cooking. Whether you are meal prepping or cooking for the family, accurate measurements lead to better results. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

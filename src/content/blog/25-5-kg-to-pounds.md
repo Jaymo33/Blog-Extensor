@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25.5 kg is equal to approximately 56.22 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk ingredients, or prepping family-sized meals. Understanding weight conversions ensures you follow recipes accurately and achieve perfect cooking results every time. Whether you're portioning a whole chicken or dividing a big batch of potatoes, getting the weight right matters. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

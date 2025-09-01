@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of cocoa powder equals approximately 24 ounces. This conversion is essential for accurate baking, especially when using an air fryer where precise measurements can make or break your recipe. Whether you're making brownies, cakes, or chocolate desserts, knowing how to convert cups to ounces ensures consistency and perfect results every time.</p>  

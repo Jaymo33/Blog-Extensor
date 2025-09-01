@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of maple syrup equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, baking, or any cooking where precision matters. Whether you're drizzling it over air-fried pancakes or using it in a glaze, knowing the exact weight ensures perfect results every time. Maple syrup’s thick consistency means volume measurements can be tricky, so grams to ounces is the most reliable method. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurement swaps.</p>  

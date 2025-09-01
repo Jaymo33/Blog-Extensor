@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of tomato paste equals approximately 10.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making a rich pasta sauce or a hearty stew, knowing the exact weight helps maintain consistency. Tomato paste is a staple in many dishes, and getting the measurements right can make all the difference. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

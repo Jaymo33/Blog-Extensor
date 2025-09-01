@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of coconut milk is approximately 2.26 cups, making it easy to measure for your air fryer recipes. Whether you're whipping up a curry, baking a cake, or preparing a creamy sauce, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how precise measurements can elevate your cooking, especially when using an air fryer.</p>  

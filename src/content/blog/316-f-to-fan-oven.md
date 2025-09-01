@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>316°F converts to approximately 157°C in a fan oven. This temperature is commonly used for slow roasting, baking delicate pastries, or cooking casseroles in both conventional ovens and air fryers. Understanding this conversion is crucial for UK cooks who follow American recipes or use appliances with Fahrenheit settings.</p>

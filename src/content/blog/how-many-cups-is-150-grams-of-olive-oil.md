@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of olive oil is approximately 0.66 cups (UK) or 0.63 cups (US). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making crispy roast potatoes or a moist cake, knowing how many cups is 150 grams of olive oil ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking conversions simple and accurate.</p>

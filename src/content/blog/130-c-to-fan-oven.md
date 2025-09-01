@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>130 C in a fan oven is equivalent to approximately 110 C in a conventional oven without the fan. This conversion is crucial for baking delicate items like cakes or biscuits where precise temperature control matters. When using an air fryer, you might need to adjust cooking times slightly as the rapid air circulation works similarly to a fan oven.</p>

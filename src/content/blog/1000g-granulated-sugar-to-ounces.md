@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of granulated sugar equals approximately 35.27 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re making cakes, cookies, or desserts, knowing how many ounces are in 1000g of granulated sugar ensures consistency and perfect results.</p>

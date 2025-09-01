@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of self-raising flour equals approximately 5.29 ounces. This conversion is essential for anyone using UK recipes or air fryer baking, where precision matters. Whether you're whipping up cakes, cookies, or savoury dishes, getting the measurements right ensures perfect results every time.</p>

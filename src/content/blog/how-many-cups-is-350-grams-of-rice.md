@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of rice is roughly equivalent to 1.75 cups in standard US measurements or 1.5 cups in UK measurements. This conversion is essential for air fryer cooking, where precise measurements ensure even cooking and perfect texture. Whether you're preparing a quick rice dish or meal prepping, knowing how to convert grams to cups saves time and avoids guesswork.</p>  

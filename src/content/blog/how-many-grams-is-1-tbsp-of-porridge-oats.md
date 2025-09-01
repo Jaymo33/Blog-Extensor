@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of porridge oats weighs approximately 8 grams in the UK. This measurement is essential for precise cooking, especially when using an air fryer for breakfast recipes. Whether you're making overnight oats or a quick porridge, knowing the exact weight ensures consistency. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of margarine equals 4 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up cookies, cakes, or savoury dishes, knowing the exact weight ensures consistency. Margarine, a common baking staple, behaves differently than butter, so accurate measurements matter. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

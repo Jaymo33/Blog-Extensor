@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>409°F converts to Gas Mark 6, a common setting for roasting and baking in both traditional ovens and air fryers. This temperature is ideal for achieving crispy textures while keeping food moist inside. Whether you're adapting an oven recipe for your air fryer or checking your appliance's settings, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for effortless cooking.</p>

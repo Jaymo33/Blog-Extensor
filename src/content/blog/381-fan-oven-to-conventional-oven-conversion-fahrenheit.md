@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>381°F in a fan oven converts to approximately 350°F in a conventional oven. This 31-degree difference accounts for the fan oven's efficient heat circulation. Whether you're baking cakes or roasting meats, understanding this conversion ensures perfect results every time.</p>

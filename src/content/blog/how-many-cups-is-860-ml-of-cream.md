@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of cream is roughly equivalent to 3.63 cups. This conversion is essential for anyone using recipes that call for precise measurements, especially when preparing dishes in an air fryer. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

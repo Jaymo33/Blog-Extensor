@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tablespoons (tbsp) of rice equals approximately 9 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re cooking a small portion or scaling up, knowing how to convert 0.75 tbsp of rice into grams ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you master air fryer cooking.</p>

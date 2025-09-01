@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of corn syrup is approximately 1.94 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a dessert or a glaze, knowing how to convert 460 ml of corn syrup to cups ensures consistency and perfect results every time.</p>  

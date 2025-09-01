@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of chicken broth equals approximately 3.2 cups in the US or 3.3 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a hearty soup or a flavourful risotto, knowing how to convert 760 ml of chicken broth to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple for home chefs.</p>

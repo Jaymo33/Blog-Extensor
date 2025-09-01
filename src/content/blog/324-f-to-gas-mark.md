@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>324°F converts to Gas Mark 3, the standard UK measurement for moderate oven temperatures. This temperature is perfect for slow roasting, baking cookies, or gently cooking casseroles in both traditional ovens and air fryers. If you're adapting a recipe from Fahrenheit to Gas Mark, this conversion ensures your dishes cook evenly without burning.</p>

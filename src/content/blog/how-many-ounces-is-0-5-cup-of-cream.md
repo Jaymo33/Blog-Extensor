@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of cream equals approximately 4 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're making a creamy sauce or a decadent dessert, knowing how many ounces are in 0.5 cup of cream ensures your dish turns out perfectly.</p>

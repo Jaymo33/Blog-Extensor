@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of protein powder equals approximately 10 ounces (oz). This conversion is essential for air fryer recipes, especially when precision matters for meal prep or baking. Whether you're making protein pancakes or adding powder to air-fried desserts, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

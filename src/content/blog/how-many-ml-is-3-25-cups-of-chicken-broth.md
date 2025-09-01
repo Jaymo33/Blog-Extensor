@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of chicken broth equals approximately 768.91 millilitres (ml). This conversion is essential for air fryer recipes where precise liquid measurements can make or break a dish. Whether you're making soups, stews, or marinades, knowing how many ml 3.25 cups of chicken broth is ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide accurate conversions to help you nail your recipes.</p>

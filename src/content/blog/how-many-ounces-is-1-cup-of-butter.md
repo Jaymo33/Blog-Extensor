@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of butter equals 8 ounces (or 227 grams). This measurement is standard in both UK and US baking, making it easy to follow recipes for your air fryer or oven. Whether you're whipping up cookies, cakes, or savoury dishes, knowing this conversion ensures accuracy and delicious results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 9.75 kg whole chicken to pounds gives you approximately 21.5 pounds, which is essential for calculating the correct air fryer cooking time and temperature. A chicken of this size is quite large and less common for home cooking, often seen in catering or for big family gatherings. Knowing the weight in pounds helps you use standard cooking charts and ensures your chicken is cooked through without drying out. Whether you're using a traditional oven or an air fryer, accurate measurements are key. For more handy conversion tools, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

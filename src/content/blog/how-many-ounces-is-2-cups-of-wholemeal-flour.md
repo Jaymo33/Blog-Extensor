@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of wholemeal flour equals approximately 9.6 ounces (or 272 grams). This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break your recipe. Whether you're whipping up air fryer cakes or bread, knowing the exact weight ensures consistency. Wholemeal flour, being denser than plain flour, requires careful measuring for the best results. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

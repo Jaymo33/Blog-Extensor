@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of quinoa equals approximately 7.5 ounces (213 grams). This conversion is essential for air fryer cooking, where precise measurements can make all the difference in your results. Whether you're meal prepping or following a specific recipe, knowing this conversion ensures your quinoa dishes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of lemonade equals 16 fluid ounces in the UK. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're preparing a refreshing drink or incorporating lemonade into a marinade, knowing the exact ounces helps maintain consistency.</p>

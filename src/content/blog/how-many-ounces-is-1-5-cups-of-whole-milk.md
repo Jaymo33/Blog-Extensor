@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of whole milk equals 12 ounces (oz). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re whipping up a creamy sauce or baking a moist cake, knowing how many ounces are in 1.5 cups of whole milk makes all the difference.</p>  

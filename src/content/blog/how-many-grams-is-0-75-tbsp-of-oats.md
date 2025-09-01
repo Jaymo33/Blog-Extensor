@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of oats equals approximately 5.6 grams. This measurement is crucial for air fryer recipes where precision ensures perfect texture and consistency. Whether you're making granola, oat bars, or coating for chicken, knowing how many grams are in 0.75 tbsp of oats helps you nail the recipe every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

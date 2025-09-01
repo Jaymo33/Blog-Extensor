@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of chicken broth equals approximately 3 cups in US measurements or 2.5 cups in UK measurements. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making soups, stews, or marinades, knowing how many cups is 710 ml of chicken broth helps streamline your cooking process. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your air fryer game.</p>

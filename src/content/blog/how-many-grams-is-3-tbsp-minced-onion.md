@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of minced onion equals approximately 30 grams. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you're preparing a quick stir-fry or a slow-cooked dish, knowing the exact weight helps avoid over or under-seasoning. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

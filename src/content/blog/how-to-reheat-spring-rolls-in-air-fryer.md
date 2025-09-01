@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat spring rolls in an air fryer, set the temperature to 180°C (350°F) and cook for 3-5 minutes until crispy and heated through. This method works brilliantly for both fresh and leftover spring rolls, giving them that just-fried texture without the extra oil. Whether you're using frozen spring rolls or refrigerated leftovers, your air fryer can bring them back to life with minimal effort.</p>

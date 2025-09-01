@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 kg of beef mince is equal to approximately 3.31 pounds. This conversion is essential for anyone using an air fryer, as many recipes, especially those from American sources, use pounds instead of kilograms. Getting your measurements right from the start ensures your dishes cook evenly and turn out perfectly. Whether you're making burgers, meatballs, or a hearty chilli, knowing how to convert 1.5 kg beef mince to pounds is a fundamental kitchen skill. It removes the guesswork and helps you follow recipes with confidence and precision.</p>

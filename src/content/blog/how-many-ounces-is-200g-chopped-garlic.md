@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of chopped garlic equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're preparing a garlic-infused dish or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion ensures accuracy.</p>

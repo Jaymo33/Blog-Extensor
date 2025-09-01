@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350°F in a fan oven is equivalent to approximately 375°F in a conventional oven. This conversion is essential for accurate baking and cooking, especially when using an air fryer, which often mimics fan oven settings. Understanding this difference ensures your recipes turn out perfectly every time.</p>

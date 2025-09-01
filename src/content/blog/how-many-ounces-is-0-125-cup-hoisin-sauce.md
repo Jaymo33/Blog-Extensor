@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of hoisin sauce equals 1 ounce (oz) in UK measurements. This precise conversion ensures your air fryer recipes turn out perfectly every time, whether you're marinating chicken or glazing tofu. Hoisin sauce, a staple in many Asian-inspired dishes, adds depth and sweetness, making it a favourite for air fryer enthusiasts. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

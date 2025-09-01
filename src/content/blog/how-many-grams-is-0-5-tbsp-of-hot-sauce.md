@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of hot sauce weighs approximately 7.5 grams. This measurement is handy for air fryer recipes where precision matters, especially when balancing flavours or adjusting spice levels. Whether you're whipping up a quick marinade or adding a kick to your favourite dish, knowing the exact weight ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

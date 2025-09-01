@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>344°F converts to Gas Mark 4 in UK ovens and air fryers. This medium heat setting is perfect for everything from cakes to casseroles, giving you consistent results whether you're using traditional or modern cooking methods.</p>

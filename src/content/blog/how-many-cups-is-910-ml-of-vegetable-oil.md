@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of vegetable oil equals approximately 3.85 cups. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you’re whipping up crispy chips or a moist cake, knowing how to measure 910 ml of vegetable oil in cups is a game-changer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of apple cider vinegar equals approximately 3.75 grams. This measurement is handy for air fryer recipes where precision matters, especially when marinating or dressing ingredients. Whether you’re whipping up a tangy glaze or a light dressing, knowing the exact weight ensures consistent results every time.</p>

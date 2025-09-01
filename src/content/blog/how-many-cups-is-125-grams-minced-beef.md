@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of minced beef equals approximately ½ cup, though this can vary slightly based on the beef's density and how tightly it's packed. Whether you're making air fryer burgers, meatballs, or a hearty bolognese, getting the measurement right ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer.</p>

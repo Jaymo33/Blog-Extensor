@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of milk is approximately 2.79 cups. This conversion is essential for anyone using recipes that require precise measurements, especially when cooking or baking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

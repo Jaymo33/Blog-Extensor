@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of coconut milk equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a curry, baking a cake, or making a creamy sauce, knowing how to convert 60 ml of coconut milk to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple for home chefs.</p>  

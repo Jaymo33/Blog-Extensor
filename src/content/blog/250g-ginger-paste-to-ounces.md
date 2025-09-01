@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of ginger paste equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a marinade or adding a punch of flavour to your dish, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

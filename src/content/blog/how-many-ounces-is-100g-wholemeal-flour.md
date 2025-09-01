@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of wholemeal flour equals approximately 3.53 ounces. This conversion is essential for bakers using recipes with imperial measurements or adjusting quantities for air fryer cooking. Whether you're making bread, cakes, or coatings for air-fried dishes, getting the flour measurement right ensures consistent results every time.</p>

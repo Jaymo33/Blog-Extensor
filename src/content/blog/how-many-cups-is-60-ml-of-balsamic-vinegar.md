@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of balsamic vinegar equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes where precision ensures perfect results every time. Whether you’re whipping up a glaze or a marinade, knowing how to measure balsamic vinegar accurately can elevate your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and stress-free.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>124 fan oven converts to approximately 140°C in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, ensuring your dishes cook evenly without drying out. Whether you're baking cakes or roasting vegetables, understanding this conversion is key to perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>353°F is equivalent to Gas Mark 4 in UK ovens and air fryers. This temperature is commonly used for baking cakes, cookies, and roasting vegetables, making it a handy conversion to know for home cooks. Whether you're using a traditional oven or a modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

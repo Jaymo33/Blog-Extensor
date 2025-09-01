@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of Nutella equals approximately 2.8 ounces. This conversion is handy when preparing air fryer recipes that require precise measurements for the best results. Whether you’re baking cookies or making a decadent dessert, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

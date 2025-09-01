@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of oats weigh approximately 6.35 ounces (180 grams). This measurement is key for air fryer recipes, ensuring accuracy whether you're making granola, oat bars, or crispy toppings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in texture and cook time. Let’s break down the conversion and how to use it in your air fryer.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>311°F converts to Gas Mark 2 in UK ovens and air fryers. This moderate temperature is perfect for slow baking, roasting vegetables, or cooking delicate dishes that need gentle heat. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperature conversion makes all the difference between undercooked and perfectly golden results.</p>

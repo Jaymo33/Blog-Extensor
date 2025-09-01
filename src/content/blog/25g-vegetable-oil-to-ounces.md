@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25 grams of vegetable oil equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes, especially those from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, where precise measurements matter. Whether you're frying, roasting, or baking, knowing the exact weight ensures perfect results every time.</p>  

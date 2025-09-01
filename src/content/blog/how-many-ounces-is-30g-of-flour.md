@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of flour equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking a cake or coating chicken, knowing how to convert grams to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when using an air fryer.</p>  

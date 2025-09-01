@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of soy milk equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're making a creamy sauce or a dairy-free batter, knowing how many ounces are in 1.5 cups of soy milk helps you nail the recipe every time.</p>  

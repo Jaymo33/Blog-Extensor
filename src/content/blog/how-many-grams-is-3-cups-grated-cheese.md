@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of grated cheese equals approximately 340 grams, though this can vary slightly depending on cheese density and grating size. Whether you're making a gooey air fryer quesadilla or a crispy cheese-topped casserole, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for air fryer cooking, where even small differences can affect texture and cooking times.</p>

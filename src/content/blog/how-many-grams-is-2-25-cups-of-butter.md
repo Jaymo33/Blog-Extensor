@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of butter is equivalent to approximately 510 grams. This conversion is essential for baking and air frying, where precision ensures perfect results. Whether you're making cookies, cakes, or crispy air-fried treats, knowing how to convert cups to grams is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of sesame seeds equals approximately 1.6 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you're making sesame-crusted chicken or adding seeds to a stir-fry, knowing the exact weight ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

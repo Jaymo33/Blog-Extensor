@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of molasses equals approximately 24 ounces (or 680 grams) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking gingerbread or glazing meats, knowing how many ounces are in 2 cups of molasses ensures consistency and delicious results.</p>  

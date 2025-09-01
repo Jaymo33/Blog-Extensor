@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Grams Is 1.75 Cups of Minced Beef?</h2>

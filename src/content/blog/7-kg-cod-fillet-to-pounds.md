@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>7 kg of cod fillet converts to approximately 15.43 pounds, which is essential knowledge for portioning your air fryer meals correctly. Whether you're meal prepping, cooking for a crowd, or just want to understand your ingredients better, this conversion helps you plan effectively. Using accurate measurements ensures your air fryer cooks evenly and delivers that perfect, flaky texture every time. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>. Trust us, getting your weights right makes all the difference in achieving restaurant-quality results at home.</p>

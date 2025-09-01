@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams (100g) of molasses equals approximately 3.53 ounces (oz). This conversion is essential for air fryer recipes, especially when precision matters for baking or glazing. Whether you’re making sticky gingerbread or a marinade, knowing the exact weight ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of potatoes equals approximately 175 grams, making it easy to measure for air fryer recipes. Whether you're preparing crispy roast potatoes or a hearty potato bake, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that precision matters when cooking with an air fryer, so let’s break down the conversion in detail.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of self-raising flour equals approximately 60 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're whipping up cakes or bread, knowing the exact gram equivalent ensures consistent results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

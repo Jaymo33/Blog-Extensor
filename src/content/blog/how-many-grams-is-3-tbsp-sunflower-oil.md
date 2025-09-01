@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of sunflower oil weigh approximately 41 grams. This conversion is essential for precise air fryer cooking, ensuring your recipes turn out perfectly every time. Whether you're frying, roasting, or baking, knowing the exact weight helps maintain consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

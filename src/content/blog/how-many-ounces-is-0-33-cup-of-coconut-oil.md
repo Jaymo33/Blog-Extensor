@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of coconut oil equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can affect texture and cooking times. Whether you’re making crispy roasted vegetables or a decadent cake, knowing how to convert 0.33 cup of coconut oil to ounces ensures consistent results every time.</p>  

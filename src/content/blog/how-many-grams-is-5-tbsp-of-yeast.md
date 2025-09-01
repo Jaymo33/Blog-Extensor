@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of yeast equals approximately 45 grams (g). This conversion is essential for baking, especially when using an air fryer for recipes like doughnuts or bread rolls. Accurate measurements ensure your dough rises perfectly every time.</p>  

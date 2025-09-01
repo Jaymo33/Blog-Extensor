@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of soft cheese equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're making a creamy dip or a rich cheesecake, knowing how to convert 100g of soft cheese to ounces helps streamline your cooking process.</p>  

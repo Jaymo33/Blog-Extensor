@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of ginger paste equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re preparing a marinade, curry, or stir-fry, knowing how to convert grams to ounces ensures consistency and flavour balance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with potent ingredients like ginger paste.</p>  

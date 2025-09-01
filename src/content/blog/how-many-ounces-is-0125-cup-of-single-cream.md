@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of single cream equals approximately 1 fluid ounce (oz). This measurement is essential for precision in air fryer recipes, ensuring your dishes have the right consistency and flavour. Whether you’re making a creamy sauce or a dessert, knowing this conversion helps avoid kitchen mishaps.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of yogurt equals approximately 1 cup (0.99 cups to be precise). This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're whipping up a cake or marinating chicken for the air fryer, knowing how to convert millilitres to cups ensures your dish turns out perfectly.</p>  

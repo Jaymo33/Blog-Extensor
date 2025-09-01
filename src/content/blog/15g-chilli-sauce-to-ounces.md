@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of chilli sauce equals approximately 0.53 ounces. This conversion is handy when following air fryer recipes that require precise measurements for the best results. Whether you're whipping up a spicy marinade or adding a kick to your dishes, knowing how to convert grams to ounces ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of sunflower oil equals approximately 4 ounces (or 113 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying chicken, roasting vegetables, or baking, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you master air frying. Keep reading to learn more about measuring sunflower oil and its role in air fryer cooking.</p>  

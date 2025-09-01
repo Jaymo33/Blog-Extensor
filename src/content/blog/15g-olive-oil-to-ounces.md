@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of olive oil is approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re drizzling oil over chips or coating chicken, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

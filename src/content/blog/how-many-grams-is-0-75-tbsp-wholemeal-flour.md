@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of wholemeal flour equals approximately 5.6 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up air fryer muffins or coating chicken, knowing the exact weight ensures consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of golden syrup equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precision matters. Golden syrup, a staple in British baking, adds a rich sweetness to dishes like flapjacks or glazes. Whether you're using an air fryer for desserts or savoury meals, knowing this measurement ensures perfect results every time.</p>  

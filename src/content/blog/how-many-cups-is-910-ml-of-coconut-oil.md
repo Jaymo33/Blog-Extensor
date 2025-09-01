@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of coconut oil is equivalent to approximately 3.85 cups. This conversion is essential for anyone using coconut oil in baking, frying, or air frying, ensuring your recipes turn out perfectly every time. Whether you're following a British or American recipe, knowing how to convert millilitres to cups can make all the difference.</p>  

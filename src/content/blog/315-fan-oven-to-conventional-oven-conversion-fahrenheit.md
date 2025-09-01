@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>315 fan oven equals approximately 350°F in a conventional oven. This conversion is essential for baking and cooking, especially when switching between fan-assisted and traditional ovens. Understanding this difference ensures your recipes turn out perfectly every time. Whether you're using an oven or an air fryer, knowing the right temperature is key. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more details.</p>

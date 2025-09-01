@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of cottage cheese weigh approximately 45 grams in the UK. This measurement is essential for air fryer recipes, ensuring consistency and perfect results every time. Whether you’re making a cheesy bake or a protein-packed snack, knowing the exact weight helps avoid guesswork. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

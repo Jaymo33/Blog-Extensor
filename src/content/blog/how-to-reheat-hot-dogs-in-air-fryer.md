@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat hot dogs in an air fryer, set the temperature to 160°C (320°F) and cook for 3-5 minutes until piping hot. This method restores that signature snap while preventing the sausages from drying out – far superior to microwaving. Whether you’ve got leftover barbecue hot dogs or fridge-stored frankfurters, your air fryer can revive them better than any other appliance.</p>

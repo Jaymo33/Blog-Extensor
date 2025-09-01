@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How many ounces is 50g of sunflower oil?</h2>  

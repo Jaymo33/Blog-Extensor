@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of milk is equivalent to 710 ml. This conversion is essential for anyone using recipes that require precise liquid measurements, especially when cooking or baking with an air fryer. Whether you're whipping up a cake, preparing a creamy sauce, or making a batch of pancakes, knowing how many ml are in 3.0 cups of milk ensures your dish turns out perfectly every time.</p>

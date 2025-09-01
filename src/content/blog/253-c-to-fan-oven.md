@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>253°C in a conventional oven converts to approximately 230°C in a fan oven. This 20-25°C reduction is standard when switching between conventional and fan-assisted cooking. Fan ovens circulate hot air more efficiently, so lowering the temperature prevents overcooking while maintaining perfect results.</p>

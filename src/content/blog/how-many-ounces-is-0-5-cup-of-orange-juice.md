@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of orange juice equals 4 fluid ounces (fl oz) in UK measurements. This conversion is essential for air fryer recipes, ensuring your marinades, glazes, and sauces have the perfect consistency. Whether you’re preparing a citrusy chicken dish or a tangy dessert, knowing how many ounces are in 0.5 cup of orange juice helps you achieve consistent results every time.</p>

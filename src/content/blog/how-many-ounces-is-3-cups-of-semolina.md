@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of semolina equals approximately 15 ounces (oz). This conversion is essential for precise measurements, especially when preparing air fryer recipes that rely on accurate ingredient weights. Semolina, a coarse flour made from durum wheat, is commonly used in dishes like pasta, porridge, and even air-fried breads. Getting the measurement right ensures your recipes turn out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

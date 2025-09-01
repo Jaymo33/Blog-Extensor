@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>231 C converts to approximately 210 C in a fan oven. This adjustment accounts for the efficient heat circulation in fan-assisted ovens, which cook food faster and more evenly. Whether you're baking cakes or roasting vegetables, this conversion ensures your dishes turn out perfectly every time. For air fryer users, this temperature is ideal for achieving crispy results without overcooking. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips.</p>

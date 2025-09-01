@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of ground almonds equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precision matters, especially in baking or coating ingredients. Whether you're making almond-crusted chicken or a gluten-free cake, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to help you achieve perfect results every time.</p>

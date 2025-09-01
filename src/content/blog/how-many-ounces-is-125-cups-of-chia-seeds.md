@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of chia seeds equals approximately 5.3 ounces (150 grams). This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you’re making chia pudding, energy bars, or using chia as a binder, knowing the exact weight helps avoid mishaps. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

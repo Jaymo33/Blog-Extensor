@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of powdered milk equals approximately 8.8 ounces (or 250 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake or preparing a creamy sauce, knowing how many ounces are in 2 cups of powdered milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you master air fryer cooking.</p>

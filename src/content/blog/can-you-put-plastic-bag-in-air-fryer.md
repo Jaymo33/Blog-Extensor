@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should never put a plastic bag in an air fryer. Plastic melts at temperatures as low as 120°C, while air fryers typically operate between 160°C and 200°C, making it a serious fire hazard. Using plastic bags can also release toxic fumes and damage your appliance permanently. At airfryerrecipe.co.uk, we always recommend safer alternatives like parchment paper or silicone liners for hassle-free air frying.</p>

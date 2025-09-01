@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of grated cheese is roughly equivalent to 3 cups, though this can vary slightly depending on the cheese type and how finely it’s grated. Whether you’re making a cheesy air fryer dish or prepping ingredients for a bake, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for air fryer cooking, so let’s break it down.</p>  

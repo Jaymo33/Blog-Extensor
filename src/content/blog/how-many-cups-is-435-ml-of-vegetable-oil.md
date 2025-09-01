@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of vegetable oil is approximately 1.84 cups. This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or crisping chips in your air fryer, knowing how to measure oil correctly makes all the difference.</p>  

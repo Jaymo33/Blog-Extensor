@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of cooked rice equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're meal prepping or cooking a quick dinner, knowing this conversion helps streamline your process. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

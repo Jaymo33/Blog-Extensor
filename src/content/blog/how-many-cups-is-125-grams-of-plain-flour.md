@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of plain flour equals approximately 1 cup in the UK and just under 1 cup (around 0.98 cups) in the US. This slight difference is due to varying cup sizes between regions, so it's always best to weigh flour for accuracy, especially when using an air fryer for baking.</p>  

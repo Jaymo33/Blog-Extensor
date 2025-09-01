@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of plain flour equals approximately 7.05 ounces. This conversion is essential for UK bakers who need precise measurements for air fryer recipes. Whether you’re making cakes, cookies, or bread, getting the flour weight right ensures perfect results every time. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

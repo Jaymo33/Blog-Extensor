@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of condensed milk is equivalent to 710 ml. This conversion is essential for air fryer recipes that require precise measurements to achieve the perfect texture and flavour. Whether you're making a creamy dessert or a rich sauce, knowing how many ml is 3.0 cups of condensed milk ensures your dish turns out just right.</p>

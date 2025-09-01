@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of soy cream equals approximately 4.23 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing how many ounces are in 0.5 cup of soy cream helps you get it right.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of frozen peas equals approximately 7 ounces (198 grams) in weight. This conversion is essential for air fryer cooking, where precise measurements ensure even cooking and perfect results. Whether you're preparing a quick side dish or adding peas to a larger recipe, knowing the exact weight helps streamline your cooking process. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

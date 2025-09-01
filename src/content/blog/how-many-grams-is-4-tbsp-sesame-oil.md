@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of sesame oil weigh approximately 54 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're marinating, frying, or drizzling, knowing the exact weight helps avoid guesswork.</p>

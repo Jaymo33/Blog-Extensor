@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>17.0 kg is equal to approximately 37.48 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk meal prep, or following recipes that use imperial measurements. Getting your weights right ensures even cooking and perfect results every time. Whether you're portioning a whole chicken or prepping vegetables, accurate conversions make all the difference. Trust us, your air fryer will thank you for the precision.</p>

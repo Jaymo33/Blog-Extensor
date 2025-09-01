@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 458°F in a fan oven to a conventional oven temperature is straightforward: it equates to approximately 428°F in a standard oven. This 30°F reduction accounts for the fan oven's efficient heat distribution. Whether you're baking, roasting, or adapting recipes for an air fryer, understanding this conversion ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making temperature conversions hassle-free for home cooks.</p>

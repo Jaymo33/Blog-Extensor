@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of water equals 6 fluid ounces. This conversion is essential for precise measurements in air fryer recipes, where accuracy can make all the difference. Whether you're preparing a sauce, marinade, or baking, knowing how many ounces are in 0.75 cup of water ensures your dish turns out perfectly every time.</p>

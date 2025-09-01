@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of sesame oil equals approximately 10.5 grams. This conversion is essential for precise measurements in air fryer cooking, where accuracy can make or break a dish. Whether you're preparing marinades, dressings, or stir-fries, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements spot-on for perfect air fryer meals.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of raisins equals approximately 1.5 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a quick dessert or adding raisins to a savoury meal, knowing the exact weight ensures consistency.</p>

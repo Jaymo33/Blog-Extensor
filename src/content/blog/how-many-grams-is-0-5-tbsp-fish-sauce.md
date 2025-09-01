@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tablespoon of fish sauce equals approximately 7.5 grams. This precise measurement is essential when preparing Asian-inspired dishes in your air fryer, where balanced flavours make all the difference. Whether you're making Thai-style chicken wings or Vietnamese dipping sauces, knowing this conversion ensures consistent results every time.</p>

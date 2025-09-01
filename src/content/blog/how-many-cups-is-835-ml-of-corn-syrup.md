@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of corn syrup is approximately 3.5 cups. This conversion is essential for baking and cooking, especially when using precise measurements for air fryer recipes. Whether you're making desserts or sauces, knowing the exact cup equivalent ensures consistent results every time.</p>

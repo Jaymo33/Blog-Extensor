@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of almond milk equals approximately 0.68 cups. This conversion is essential for anyone using almond milk in recipes, especially when baking or cooking with an air fryer. Precise measurements ensure your dishes turn out perfectly every time, whether you're whipping up a cake or a creamy sauce.</p>

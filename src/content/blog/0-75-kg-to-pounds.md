@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 kg is equal to approximately 1.65 pounds, a conversion that comes in handy when preparing ingredients for your air fryer. Whether you're measuring meat, vegetables, or frozen goods, knowing how to convert 0.75 kg to pounds ensures you use the right quantities for even cooking and perfect results. This is especially useful for air fryer recipes that often specify weights to achieve the ideal crispness and texture. Getting your measurements spot-on means your meals will turn out delicious every time, and you can avoid under or overloading your appliance. For more handy conversion tips, check out the comprehensive guides available at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

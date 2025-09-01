@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of tomato sauce equals approximately 946 ml, making it easy to measure for your air fryer recipes. Whether you’re whipping up a pasta sauce or a hearty stew, precise conversions ensure your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate measurements are for cooking success.</p>

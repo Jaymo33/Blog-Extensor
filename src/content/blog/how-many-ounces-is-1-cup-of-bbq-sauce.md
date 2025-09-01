@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of BBQ sauce equals approximately 8 ounces. This measurement is standard for most thick, store-bought or homemade BBQ sauces, making it easy to portion for air fryer recipes. Whether you're marinating chicken, glazing ribs, or whipping up a quick dip, knowing this conversion ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

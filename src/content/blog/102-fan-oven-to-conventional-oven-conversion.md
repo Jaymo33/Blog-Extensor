@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>102 fan oven converts to approximately 85°C in a conventional oven. This conversion is essential for precise cooking, especially when adapting recipes for air fryers. Understanding this temperature shift ensures your dishes come out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of lime juice equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're making zesty marinades or tangy sauces, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

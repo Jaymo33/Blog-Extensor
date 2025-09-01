@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of sunflower oil equals approximately 2 ounces (or 59 ml). This measurement is essential for air fryer recipes, where precise oil quantities ensure crispy, evenly cooked results without excess grease. Whether you’re making roasted veggies or crispy chicken, knowing this conversion helps you nail the recipe every time.</p>

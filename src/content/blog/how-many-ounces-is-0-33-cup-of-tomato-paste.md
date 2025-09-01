@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of tomato paste equals approximately 2.64 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a rich pasta sauce or a flavourful marinade, knowing how many ounces are in 0.33 cup of tomato paste ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right for perfect results every time.</p>  

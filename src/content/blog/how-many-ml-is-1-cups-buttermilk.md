@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of buttermilk equals 240 millilitres (ml). This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up pancakes, marinades, or cakes in your air fryer, knowing this measurement helps avoid kitchen mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

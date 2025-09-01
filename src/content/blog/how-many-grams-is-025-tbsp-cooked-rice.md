@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of cooked rice weighs approximately 3.75 grams. This measurement is useful for precise portion control, especially when preparing meals in an air fryer. Whether you're meal prepping or following a recipe, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

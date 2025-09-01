@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One tablespoon (1 tbsp) of worcestershire sauce weighs approximately 15 grams. This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you're marinating chicken or adding depth to a beef dish, knowing this conversion ensures consistency in your recipes.</p>

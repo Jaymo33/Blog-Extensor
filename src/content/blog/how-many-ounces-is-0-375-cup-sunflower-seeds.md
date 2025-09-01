@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of sunflower seeds equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making snacks or adding crunch to dishes, knowing the weight helps avoid over or under-seasoning. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of buttermilk equals approximately 2.8 cups in the UK or 2.79 cups in the US. This conversion is essential for baking and cooking, especially when using precise measurements for air fryer recipes. Whether you're making fluffy pancakes or tender fried chicken, knowing how to convert 660 ml of buttermilk to cups ensures consistent results every time.</p>

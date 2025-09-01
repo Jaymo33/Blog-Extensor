@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of icing sugar is roughly equivalent to 1 cup in both UK and US measurements. However, slight variations can occur due to how the sugar is packed. For precise baking, especially in air fryer recipes, measuring by weight is always best.</p>

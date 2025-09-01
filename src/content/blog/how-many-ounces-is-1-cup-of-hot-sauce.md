@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of hot sauce equals approximately 8 fluid ounces (oz) in volume. This measurement is standard for most liquid ingredients, including hot sauce, making it easy to follow recipes for your air fryer. Whether you're marinating chicken wings or adding a kick to roasted vegetables, knowing this conversion ensures your dishes turn out perfectly spiced every time.</p>  

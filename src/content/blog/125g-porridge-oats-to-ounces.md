@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of porridge oats equals approximately 4.41 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're meal prepping or whipping up a quick breakfast, knowing how to convert grams to ounces can make cooking easier. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with precise measurements.</p>  

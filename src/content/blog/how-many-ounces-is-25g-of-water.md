@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25 grams of water equals approximately 0.88 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and taste. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert 25g of water to ounces ensures consistency.</p>  

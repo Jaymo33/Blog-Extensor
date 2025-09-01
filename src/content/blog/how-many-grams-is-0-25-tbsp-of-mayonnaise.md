@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of mayonnaise weighs approximately 3.75 grams. This measurement is crucial for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're whipping up a quick sauce or adjusting a recipe, knowing the exact weight ensures consistent results every time.</p>

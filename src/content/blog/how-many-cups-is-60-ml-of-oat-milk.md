@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of oat milk equals approximately 0.25 cups in both UK and US measurements. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up pancakes or a creamy sauce, knowing how to convert 60 ml of oat milk to cups ensures your recipes turn out perfectly every time.</p>

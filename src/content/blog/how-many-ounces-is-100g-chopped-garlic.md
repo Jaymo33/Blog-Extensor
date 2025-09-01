@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of chopped garlic equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a garlic-infused dish or adjusting a recipe, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these small but crucial details for flawless cooking.</p>

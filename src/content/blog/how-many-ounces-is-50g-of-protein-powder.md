@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of protein powder equals approximately 1.76 ounces. This conversion is essential for anyone using protein powder in air fryer recipes, ensuring accurate measurements for the best results. Whether you're baking protein-packed treats or adding it to shakes, knowing how many ounces 50g translates to can make all the difference.</p>

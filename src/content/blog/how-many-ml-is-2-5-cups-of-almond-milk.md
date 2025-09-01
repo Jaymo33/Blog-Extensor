@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of almond milk equals 591.47 millilitres (ml). This precise conversion ensures your air fryer recipes turn out perfectly every time. Whether you're whipping up a creamy dessert or a savoury dish, knowing the exact ml measurement for 2.5 cups of almond milk is essential for consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can focus on cooking.</p>  

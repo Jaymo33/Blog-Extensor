@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of porridge oats equals approximately 12 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're making overnight oats or crispy granola, knowing the weight helps streamline your cooking process. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

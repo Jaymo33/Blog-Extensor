@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>432°F converts to Gas Mark 8, the ideal setting for high-temperature baking and roasting in both air fryers and conventional ovens. This temperature is commonly used for dishes that require a crisp exterior and tender interior, such as roasted meats or artisan bread. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless results every time. Whether you're using an air fryer or a traditional oven, knowing your Gas Mark equivalents ensures consistent cooking. This guide will walk you through everything from conversions to practical applications.</p>

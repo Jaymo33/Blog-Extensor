@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of plain flour equals approximately 1.06 ounces (30 grams). This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or coating chicken for the air fryer, knowing the exact weight of your flour makes all the difference.</p>  

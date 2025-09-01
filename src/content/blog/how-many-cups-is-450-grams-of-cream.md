@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of cream is approximately 1.9 cups, though this can vary slightly depending on the cream's thickness and density. Whether you're whipping up a dessert or preparing a creamy sauce, accurate measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for air fryer cooking, where every gram counts.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 fan oven equals approximately 190°C in a conventional oven. This conversion is essential for achieving perfect results when switching between oven types. Fan ovens circulate hot air, cooking food faster and more evenly, while conventional ovens rely on radiant heat. Understanding this difference helps prevent overcooking or undercooking your favourite dishes. For more oven conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

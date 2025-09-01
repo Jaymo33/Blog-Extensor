@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of soy sauce equals approximately 118 ml. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re marinating chicken, seasoning tofu, or adding depth to a stir-fry, knowing the exact ml equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of chicken breast equals approximately 1.5 cups when diced or shredded. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're meal prepping or cooking a quick dinner, knowing how many cups 175 grams of chicken breast is can save time and ensure consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

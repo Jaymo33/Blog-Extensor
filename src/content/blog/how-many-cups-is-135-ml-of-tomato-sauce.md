@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of tomato sauce equals approximately 0.57 cups in the US measurement system or 0.48 cups in the UK. This conversion is essential for air fryer recipes where precision matters. Whether you're making a pasta sauce or a marinade, knowing the exact measurement ensures your dish turns out perfectly every time.</p>  

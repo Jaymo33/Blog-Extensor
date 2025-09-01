@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of goat milk equals approximately 8.45 ounces. This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can make or break a dish. Whether you're preparing a creamy sauce or a baked treat, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of lemonade equals 24 fluid ounces (fl oz) in the UK. This conversion is essential for accurate measurements, especially when preparing recipes for your air fryer. Whether you're making a refreshing drink or incorporating lemonade into a dish, knowing the exact ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking. Let’s dive deeper into why this measurement matters.</p>

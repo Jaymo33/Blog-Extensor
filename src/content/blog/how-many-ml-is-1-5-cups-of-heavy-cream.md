@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of heavy cream is equivalent to 355 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing the exact ml for 1.5 cups of heavy cream ensures consistency.</p>

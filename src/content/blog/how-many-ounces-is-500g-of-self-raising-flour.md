@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of self-raising flour equals approximately 17.64 ounces. This conversion is essential for bakers who prefer using imperial measurements or follow recipes with ounce-based instructions. Whether you're baking cakes, bread, or other treats in your air fryer, knowing this conversion ensures consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

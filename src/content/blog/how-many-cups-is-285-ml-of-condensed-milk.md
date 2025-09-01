@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of condensed milk is approximately 1.2 cups in standard US measurements or 1.14 cups in UK metric cups. This conversion is essential for baking and air fryer recipes where precision matters. Whether you're making a creamy dessert or a rich sauce, knowing the exact measurement ensures perfect results every time.</p>  

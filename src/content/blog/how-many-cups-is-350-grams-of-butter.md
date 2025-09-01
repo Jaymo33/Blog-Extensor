@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of butter is roughly 1.5 cups in the UK and 1.6 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're making cookies, cakes, or even savoury dishes, knowing how to convert grams to cups ensures consistent results every time.</p>

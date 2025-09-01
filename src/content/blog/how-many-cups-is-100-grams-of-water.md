@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of water equals approximately 0.42 cups in the UK and 0.4 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking, steaming, or reheating, knowing how many cups is 100 grams of water ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you master these conversions for flawless cooking.</p>

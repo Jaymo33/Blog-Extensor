@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of tomato sauce is roughly 2.26 cups, making it easy to measure for your air fryer recipes. Whether you're whipping up a pasta bake or a rich tomato-based dish, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking measurements so you can focus on flavour.</p>  

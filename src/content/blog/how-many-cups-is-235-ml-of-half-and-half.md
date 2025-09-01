@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of half and half is approximately 0.99 cups in the US measurement system and roughly 0.83 cups in the UK. Whether you're baking, cooking, or preparing an air fryer recipe, knowing this conversion ensures accuracy in your dishes. Half and half, a blend of milk and cream, is commonly used in recipes for its rich texture. Getting the measurement right can make all the difference in achieving the perfect consistency.</p>

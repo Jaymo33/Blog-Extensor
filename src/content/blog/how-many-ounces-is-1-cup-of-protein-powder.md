@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of protein powder typically equals around 3.5 to 4.5 ounces, depending on the brand and how tightly it’s packed. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up protein-packed snacks or meal prepping, knowing how many ounces are in 1 cup of protein powder ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

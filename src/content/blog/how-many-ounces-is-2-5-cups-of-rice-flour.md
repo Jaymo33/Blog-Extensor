@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of rice flour equals approximately 10.6 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking gluten-free treats or coating ingredients for crispy results, knowing how many ounces are in 2.5 cups of rice flour ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you master air fryer cooking.</p>  

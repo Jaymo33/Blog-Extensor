@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of fish sauce equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or adding depth to a stir-fry, knowing the exact weight ensures consistency. Fish sauce, a staple in many Asian-inspired dishes, can be tricky to measure by volume due to its viscosity. That’s why converting cups to ounces is so helpful for accuracy.</p>  

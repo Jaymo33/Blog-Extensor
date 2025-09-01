@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of olive oil is approximately 0.46 cups (just under half a cup). This conversion is essential for air fryer recipes, where precise measurements ensure perfectly crispy results every time. Whether you're drizzling oil over chips or mixing it into a marinade, knowing the exact amount helps avoid soggy or overly dry dishes.</p>  

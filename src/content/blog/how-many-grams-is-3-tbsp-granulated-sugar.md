@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of granulated sugar equals approximately 38 grams in the UK. This conversion is essential for precise baking, especially when using an air fryer where measurements can affect texture and browning. Whether you're whipping up cakes, cookies, or even glazes, knowing the exact weight ensures consistent results every time.</p>  

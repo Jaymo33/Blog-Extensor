@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of butter equals approximately 57 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re baking cookies or preparing a savoury dish, knowing how many grams 0.25 cups of butter is can make or break your meal. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about helping you get the measurements spot on.</p>

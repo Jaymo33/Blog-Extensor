@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of powdered milk equals approximately 12 ounces (340 grams) when measured correctly. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you’re whipping up a cake or preparing a creamy sauce, knowing the exact weight of powdered milk helps avoid kitchen mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

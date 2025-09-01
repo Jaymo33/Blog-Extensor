@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of shredded coconut weighs approximately 1.5 ounces (42.5 grams). This measurement is crucial for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're making coconut shrimp, crispy chicken tenders, or tropical desserts, knowing the exact weight helps avoid overloading or underfilling your air fryer basket.</p>

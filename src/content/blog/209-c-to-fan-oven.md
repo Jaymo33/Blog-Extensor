@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>209 C converts to approximately 185 C in a fan oven. This 20-25 degree reduction is standard when switching from conventional to fan-assisted cooking. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures your dishes cook evenly without drying out.</p>

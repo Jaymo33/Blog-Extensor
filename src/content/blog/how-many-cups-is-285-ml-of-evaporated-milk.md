@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of evaporated milk is roughly 1.2 cups, making it easy to measure for recipes. Whether you're baking a cake or preparing a creamy sauce in your air fryer, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish.</p>

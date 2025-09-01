@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of whipping cream equals approximately 45 grams (g). This conversion is essential for precision in recipes, especially when using an air fryer where exact measurements can impact texture and consistency. Whether you're making a creamy sauce, a fluffy dessert, or a rich topping, knowing how to convert tablespoons to grams ensures perfect results every time.</p>  

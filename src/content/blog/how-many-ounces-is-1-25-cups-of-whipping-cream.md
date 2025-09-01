@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of whipping cream equals approximately 10 UK fluid ounces (or 10.14 oz to be precise). This conversion is essential for accurate baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe.</p>

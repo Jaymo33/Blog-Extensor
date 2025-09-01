@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of self-raising flour is roughly equivalent to 2.4 cups in the UK or 2.5 cups in the US. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up cakes, muffins, or bread, knowing how to convert grams to cups ensures consistent results every time.</p>

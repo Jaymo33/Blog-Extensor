@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of gelatin powder equals approximately 6 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Gelatin powder is often used in desserts like mousses or even savoury dishes, and knowing the exact weight ensures consistency. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting, this measurement will help.</p>

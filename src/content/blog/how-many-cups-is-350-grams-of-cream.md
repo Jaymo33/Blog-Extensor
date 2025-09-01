@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of cream is roughly equivalent to 1.48 cups in standard US measurements, or 1.23 cups in UK metric measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to measure cream accurately can make all the difference.</p>

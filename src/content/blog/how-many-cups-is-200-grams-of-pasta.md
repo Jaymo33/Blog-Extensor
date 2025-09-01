@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of pasta is roughly equivalent to 2 cups when measured uncooked. This conversion is essential for air fryer recipes, ensuring you get the perfect portion size every time. Whether you’re making a quick pasta bake or crispy air-fried noodles, knowing how many cups 200 grams of pasta equals can save you from under or overcooking. For more precise measurements, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

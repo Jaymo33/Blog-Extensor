@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of oats equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you’re making granola, oat bars, or a hearty breakfast, knowing how to convert 500g of oats to ounces simplifies your cooking process. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide easy-to-follow guides to make your air fryer adventures effortless.</p>  

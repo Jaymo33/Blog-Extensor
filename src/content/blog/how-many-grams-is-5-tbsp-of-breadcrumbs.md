@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of breadcrumbs weigh approximately 35 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfectly crispy results. Whether you're coating chicken, fish, or veggies, knowing the exact weight helps avoid soggy or overly dry textures. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>  

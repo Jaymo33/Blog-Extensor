@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of butter is roughly 2/3 cup (0.66 cups) in both UK and US measurements. Whether you're baking a cake or preparing a savoury dish in your air fryer, getting the butter measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking.</p>

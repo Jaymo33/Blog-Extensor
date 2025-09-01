@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of balsamic vinegar equals approximately 3.3 cups in US measurements or 3.1 cups in UK measurements. Whether you're whipping up a marinade or a glaze for your air fryer dishes, precise measurements ensure the best results. Balsamic vinegar adds depth to recipes, so getting the conversion right matters. This guide will help you nail the measurement every time, whether you're using a UK or US cup standard.</p>  

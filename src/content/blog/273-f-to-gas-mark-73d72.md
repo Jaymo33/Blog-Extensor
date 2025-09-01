@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>273 F is equivalent to Gas Mark 1. This is a common temperature for slow cooking, baking, and reheating in both ovens and air fryers. Knowing this conversion is essential for adapting recipes between different cooking appliances. Whether you're using an air fryer or a traditional oven, getting the temperature right ensures your food cooks evenly and perfectly. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

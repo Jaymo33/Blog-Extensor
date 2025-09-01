@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of minced onion equals approximately 40 grams (g) in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you’re following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> or improvising, knowing the exact weight ensures consistent results every time.</p>  

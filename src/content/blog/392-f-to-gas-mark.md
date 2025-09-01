@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>392°F converts to Gas Mark 6 in UK ovens and air fryers. This is a crucial conversion for anyone adapting recipes between conventional ovens and modern air fryers. At airfryerrecipe.co.uk, we specialise in helping you make these transitions seamlessly. Whether you're baking cakes or roasting vegetables, knowing your Gas Mark equivalents ensures perfect results every time.</p>

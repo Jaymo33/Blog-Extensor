@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>215 C in a fan oven is equivalent to 190 C with the fan setting on. This adjustment accounts for the efficient heat distribution in fan-assisted ovens, ensuring even cooking. Whether you're baking, roasting, or using an air fryer, this conversion is key to perfect results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>189 fan oven converts to approximately 170°C in a conventional oven. This conversion is essential for achieving perfect results when baking or roasting in a standard oven. Understanding these differences ensures your recipes turn out just right every time.</p>

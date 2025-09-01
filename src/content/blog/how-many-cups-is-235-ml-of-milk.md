@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of milk is approximately 1 cup in UK measurements and just under 1 cup (about 0.99 cups) in US measurements. Whether you're baking a cake or whipping up a creamy sauce in your air fryer, getting the milk measurement right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important precise measurements are for air fryer cooking, so let’s break it down.</p>

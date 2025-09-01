@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of apple juice equals exactly 14 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a glaze, marinade, or a refreshing drink, knowing this conversion helps streamline your cooking process.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of treacle equals approximately 3.53 ounces. This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Whether you're whipping up a sticky toffee pudding or a treacle tart in your air fryer, knowing this conversion ensures perfect results every time.</p>

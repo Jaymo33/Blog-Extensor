@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of chilli sauce equals approximately 14 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a spicy marinade or a saucy glaze, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify measurements so you can focus on creating delicious meals.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of rapeseed oil equals approximately 3.53 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference. Whether you’re following a recipe or experimenting with your own creations, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking.</p>

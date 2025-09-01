@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of milk is roughly equivalent to 1 cup in US measurements or just under 1 cup (0.98 cups) in UK measurements. Getting this conversion right is essential for air fryer recipes, where precise liquid ratios can affect texture and cooking times. Whether you're whipping up a cake, custard, or a creamy sauce, knowing how many cups 250 grams of milk translates to ensures consistency in your dishes.</p>  

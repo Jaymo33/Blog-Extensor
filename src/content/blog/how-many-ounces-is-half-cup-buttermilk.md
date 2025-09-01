@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of buttermilk equals 4 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up fluffy pancakes or crispy fried chicken, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for air fryer cooking. Let’s break down everything you need to know about converting 0.5 cup of buttermilk to ounces.</p>  

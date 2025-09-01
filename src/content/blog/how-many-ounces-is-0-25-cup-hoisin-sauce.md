@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of hoisin sauce equals approximately 2 ounces (or 56 grams). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Hoisin sauce is a thick, sticky condiment, so measuring it accurately can make a big difference in your dish.</p>  

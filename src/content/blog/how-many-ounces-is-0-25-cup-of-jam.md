@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of jam equals approximately 2 ounces in weight. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a glaze for air-fried chicken or a filling for pastries, knowing how many ounces are in 0.25 cup of jam ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of sugar syrup equals approximately 14 fluid ounces (or 14 oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making glazes, marinades, or desserts, knowing the exact weight of sugar syrup helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of accurate measurements for the best results.</p>  

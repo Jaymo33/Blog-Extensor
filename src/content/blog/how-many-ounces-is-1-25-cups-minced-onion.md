@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of minced onion equals approximately 4.5 ounces (or 4.5 oz) in weight. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour. Whether you're making onion rings, fritters, or a savoury topping, knowing the weight helps avoid over or under-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

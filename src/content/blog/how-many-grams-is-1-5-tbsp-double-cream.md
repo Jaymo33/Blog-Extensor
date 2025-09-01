@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of double cream weighs approximately 22.5 grams. This conversion is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you’re making a creamy pasta sauce or a decadent dessert, knowing the exact weight helps avoid kitchen mishaps.</p>  

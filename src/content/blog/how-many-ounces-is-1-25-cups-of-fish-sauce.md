@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of fish sauce equals approximately 10 fluid ounces (oz). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, sauces, and glazes. Whether you’re cooking salmon, chicken, or tofu, accurate quantities make all the difference in flavour.</p>  

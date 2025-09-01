@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of pesto equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making pesto chicken or a delicious pasta dish, knowing the exact weight ensures consistent results every time.</p>

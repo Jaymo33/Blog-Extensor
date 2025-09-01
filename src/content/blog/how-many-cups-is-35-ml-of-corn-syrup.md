@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of corn syrup equals approximately 0.15 cups (or roughly 1/8 cup plus a teaspoon). This conversion is handy when adapting recipes for your air fryer, ensuring precise measurements for perfect results every time. Whether you’re baking or glazing, knowing how to convert 35 ml of corn syrup to cups can save you from guesswork.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Ounces Are in 1.66 Cups of Lemon Juice?</h2>  

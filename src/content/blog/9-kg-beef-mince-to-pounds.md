@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9 kg of beef mince is equal to approximately 19.84 pounds. This conversion is essential when preparing large batches of recipes, especially if you're using an air fryer to cook multiple servings of burgers, meatballs, or other mince-based dishes. Knowing how to convert 9 kg beef mince to pounds ensures you follow recipes accurately and achieve consistent results. Whether you're cooking for a family gathering or doing weekly meal prep, getting the measurement right makes all the difference. You can find more useful conversion guides and tips at <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> to make your air frying experience even better.</p>

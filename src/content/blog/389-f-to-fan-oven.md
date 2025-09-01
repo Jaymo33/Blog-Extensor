@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>389 F converts to approximately 175 C in a fan oven. This temperature is ideal for many air frying and baking recipes, ensuring even cooking and crisp results. Whether you're adjusting an American recipe or fine-tuning your air fryer settings, knowing this conversion is essential.</p>

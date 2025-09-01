@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of caster sugar equals approximately 5.3 ounces (150 grams). This conversion is essential for precise baking, especially when using an air fryer for desserts. Whether you're whipping up cakes, cookies, or meringues, getting the sugar measurement right ensures perfect texture and sweetness.</p>  

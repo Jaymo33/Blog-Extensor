@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of crushed garlic equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour. Whether you’re making garlic bread, roasted vegetables, or a marinade, knowing the weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you nail every dish.</p>  

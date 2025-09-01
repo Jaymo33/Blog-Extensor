@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of sesame oil equals approximately 12 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you’re whipping up a marinade or drizzling oil over veggies, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these details for flawless results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of gram flour equals approximately 2.64 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're making crispy bhajis or gluten-free snacks, knowing the exact weight helps avoid soggy or overly dense results. Gram flour, also known as besan, is a staple in many cuisines, and accurate measurements make all the difference. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of olive oil equals approximately 4 ounces. This measurement is crucial for air fryer recipes, where precision ensures perfect results every time. Whether you’re drizzling oil over chips or coating chicken, knowing the exact conversion helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accurate measurements for flawless dishes. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>

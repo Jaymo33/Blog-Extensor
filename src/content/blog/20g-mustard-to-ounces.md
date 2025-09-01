@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of mustard equals approximately 0.705 ounces. Whether you’re whipping up a marinade or adding a tangy kick to your air fryer dishes, knowing this conversion ensures your recipes turn out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for flawless cooking every time.</p>

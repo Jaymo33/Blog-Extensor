@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of peanut butter equals approximately 2.65 ounces. This conversion is handy when following air fryer recipes that use imperial measurements. Whether you're whipping up peanut butter cookies or a satay sauce, getting the quantities right ensures perfect results every time.</p>

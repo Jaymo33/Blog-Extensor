@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of lemon juice equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for air fryer recipes, ensuring accurate measurements for marinades, dressings, or baked goods. Whether you’re preparing a zesty lemon drizzle cake or a tangy chicken marinade, knowing how many ounces are in 3 cups of lemon juice helps you achieve consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of raisins weigh approximately 15 ounces (425 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a batch of air-fried oatmeal raisin cookies or a fruity granola, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

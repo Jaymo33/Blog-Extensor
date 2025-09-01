@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of gram flour equals approximately 7.05 ounces (200 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy pakoras or gluten-free bread, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you master air frying with confidence.</p>  

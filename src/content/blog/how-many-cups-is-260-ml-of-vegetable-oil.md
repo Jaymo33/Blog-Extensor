@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of vegetable oil is approximately 1.1 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up crispy chips or a moist cake, knowing how to measure oil correctly ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple so you can focus on creating delicious meals.</p>

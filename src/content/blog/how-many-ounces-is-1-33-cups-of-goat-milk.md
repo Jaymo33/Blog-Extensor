@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of goat milk equals approximately 10.64 ounces. Whether you're preparing a creamy sauce or a baked dish in your air fryer, precise measurements ensure perfect results every time. Goat milk is a fantastic ingredient for air fryer recipes, offering a rich, tangy flavour that enhances both sweet and savoury dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail those measurements for flawless cooking.</p>  

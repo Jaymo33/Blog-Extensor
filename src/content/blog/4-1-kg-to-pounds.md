@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.1 kilograms is equal to approximately 9.04 pounds, a conversion that becomes particularly useful when preparing larger cuts of meat or batch-cooking in your air fryer. Whether you are roasting a whole chicken, a joint of beef, or a large tray of vegetables, knowing the exact weight in pounds helps you determine the correct cooking time and temperature. Many popular air fryer recipes, especially those designed for family meals or meal prep, specify weights in pounds, making this conversion a handy piece of kitchen knowledge. For a wide range of recipes that utilise these measurements, be sure to explore <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>. Getting this conversion right is the first step to a perfectly cooked, delicious meal.</p>

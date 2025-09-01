@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of olive oil weighs approximately 13.5 grams in the UK. This measurement is essential for air fryer recipes where precise ingredient quantities can make or break a dish. Whether you're preparing crispy vegetables or marinating chicken, knowing the exact weight ensures consistent results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of pesto equals approximately 4 ounces (113 grams). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're making pesto chicken or a quick pasta dish, knowing the exact weight helps balance flavours perfectly.</p>  

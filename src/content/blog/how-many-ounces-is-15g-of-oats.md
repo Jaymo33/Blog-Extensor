@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of oats equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precision matters, whether you’re making granola, oat bars, or adding oats to baked goods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating it can be to juggle measurements, so we’ve simplified it for you.</p>

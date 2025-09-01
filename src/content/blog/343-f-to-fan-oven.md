@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>343 F converts to approximately 170 C in a fan oven. This is a common temperature for baking and roasting in both conventional ovens and air fryers. Understanding this conversion helps ensure your recipes turn out perfectly when switching between appliances.</p>

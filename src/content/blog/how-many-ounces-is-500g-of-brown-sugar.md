@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of brown sugar equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking cookies or preparing a glaze, knowing the exact weight ensures consistent results every time.</p>

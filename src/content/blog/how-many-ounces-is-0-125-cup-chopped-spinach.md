@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of chopped spinach equals approximately 0.4 ounces (or roughly 10 grams). This measurement is handy when preparing air fryer recipes that require precise amounts of spinach, such as omelettes, stuffed mushrooms, or healthy side dishes. Getting the right quantity ensures your dish turns out perfectly every time.</p>

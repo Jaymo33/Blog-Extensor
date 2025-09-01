@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of jam is approximately 37.5 grams. This conversion is essential for air fryer recipes where precision matters, especially when making glazes, fillings, or sweet toppings. Whether you're baking pastries or preparing a fruity glaze for meats, knowing the exact weight ensures consistency. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

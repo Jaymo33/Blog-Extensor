@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat empanadas in an air fryer, set the temperature to 160°C (320°F) and cook for 3–5 minutes until crispy and heated through. This method ensures the pastry stays flaky while the filling warms evenly, making it the best way to enjoy leftover empanadas. Whether you’re reheating from the fridge or freezer, the air fryer delivers superior results compared to a microwave or oven.</p>

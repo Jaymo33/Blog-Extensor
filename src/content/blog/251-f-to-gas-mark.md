@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 251 F to Gas Mark Conversion</h2>

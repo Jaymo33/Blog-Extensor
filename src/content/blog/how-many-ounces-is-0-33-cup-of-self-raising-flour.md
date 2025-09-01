@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of self-raising flour equals approximately 1.5 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your baked goods rise perfectly. Whether you're whipping up cakes, muffins, or scones, knowing the exact weight of your ingredients can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you master air fryer cooking with confidence.</p>  

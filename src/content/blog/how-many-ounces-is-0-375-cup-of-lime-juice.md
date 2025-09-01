@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of lime juice equals exactly 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or adding zest to a dessert, knowing this conversion ensures perfect results every time.</p>  

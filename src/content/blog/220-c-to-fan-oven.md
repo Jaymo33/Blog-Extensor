@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>220 C in a fan oven is equivalent to 200 C, as fan ovens circulate hot air for even cooking, allowing you to reduce the temperature by 20 degrees. This adjustment ensures your food cooks evenly without drying out or burning. Whether you're baking, roasting, or air frying, understanding this conversion is key to perfect results. For more detailed guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

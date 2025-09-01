@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of granulated sugar equals approximately 0.75 cups (¾ cup) when measured using standard UK cup measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your baked goods. Whether you’re making cakes, cookies, or desserts in your air fryer, knowing how to convert grams to cups ensures consistent results every time.</p>

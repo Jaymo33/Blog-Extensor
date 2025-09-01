@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>327 F converts to approximately 164 C in a fan oven. This conversion is essential when adapting recipes between traditional ovens and modern air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping home cooks navigate these temperature conversions with ease.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of condensed milk is approximately 3.42 cups. This conversion is essential for baking, cooking, or using your air fryer to ensure precise measurements. Whether you're making a creamy dessert or a savoury dish, knowing how many cups 810 ml of condensed milk equals can make all the difference.</p>  

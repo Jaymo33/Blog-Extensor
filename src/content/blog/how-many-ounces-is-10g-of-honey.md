@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of honey equals approximately 0.35 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for sticky ingredients like honey. Whether you're whipping up a glaze or sweetening a marinade, knowing how to convert 10g honey to ounces ensures your dish turns out perfectly.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of butter equals approximately 17.64 ounces. Whether you're prepping ingredients for an air fryer recipe or baking, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results. Let’s dive deeper into butter conversions and how they apply to your cooking.</p>  

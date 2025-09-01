@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of brown sugar equals approximately 3.125 grams. This precise conversion ensures your air fryer recipes turn out perfectly every time, whether you’re baking cookies or whipping up a dessert. Accurate measurements are crucial for consistent results, especially when using an air fryer, where even small deviations can affect texture and taste.</p>  

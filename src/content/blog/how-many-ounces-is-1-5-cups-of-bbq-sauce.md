@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of bbq sauce equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken wings or glazing ribs, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for air fryer cooking. Let's dive deeper into why this conversion matters and how to use it effectively.</p>

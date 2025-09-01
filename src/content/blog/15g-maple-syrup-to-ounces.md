@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of maple syrup equals approximately 0.53 ounces. This conversion is essential when following air fryer recipes that require precise measurements, especially for sticky ingredients like maple syrup that can affect texture and cooking times.</p>

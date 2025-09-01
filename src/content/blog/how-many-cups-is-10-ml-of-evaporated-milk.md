@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of evaporated milk is equal to approximately 0.042 cups. This small but precise measurement is essential for recipes where accuracy matters, especially when using an air fryer. Whether you're making custards, cakes, or creamy sauces, knowing how to convert 10 ml of evaporated milk to cups ensures your dish turns out perfectly.</p>

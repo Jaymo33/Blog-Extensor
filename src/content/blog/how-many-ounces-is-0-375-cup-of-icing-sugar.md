@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of icing sugar equals approximately 1.5 ounces (oz). This conversion is essential for precise baking, especially when using an air fryer for cakes, cookies, or desserts. Getting the measurement right ensures your recipes turn out perfectly every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or creating your own, knowing the weight of icing sugar is key. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>  

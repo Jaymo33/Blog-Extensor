@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of condensed milk is approximately 0.68 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're making a cake, fudge, or a creamy dessert, knowing how to convert 160 ml of condensed milk to cups ensures your recipe turns out just right.</p>

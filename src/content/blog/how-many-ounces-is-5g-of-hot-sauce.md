@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of hot sauce equals approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements for the perfect balance of flavour. Whether you’re whipping up spicy wings or a zesty marinade, knowing how to convert grams to ounces ensures your dish turns out just right.</p>  

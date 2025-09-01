@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 141 C in Fan Ovens</h2>

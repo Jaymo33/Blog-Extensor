@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>269 F converts to approximately 132 C in a fan oven. This is a common temperature for slow-cooking meats or baking delicate desserts in an air fryer. Understanding this conversion ensures your recipes turn out perfectly every time. Whether you're using a Ninja, Philips, or another brand, this guide will help. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more conversion tips.</p>

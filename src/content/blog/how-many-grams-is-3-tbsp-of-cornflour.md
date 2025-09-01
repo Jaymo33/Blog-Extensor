@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of cornflour equals approximately 24 grams. This conversion is essential for air fryer recipes where precision matters, whether you're coating chicken, thickening sauces, or baking. Getting the measurement right ensures your dishes have the perfect texture and consistency every time.</p>

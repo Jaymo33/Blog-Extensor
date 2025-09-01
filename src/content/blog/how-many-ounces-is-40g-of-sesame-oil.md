@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of sesame oil equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a marinade or drizzling sesame oil over veggies, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, and this simple conversion is just one way we help.</p>

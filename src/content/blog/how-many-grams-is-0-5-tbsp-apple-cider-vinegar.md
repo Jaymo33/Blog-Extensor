@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of apple cider vinegar equals approximately 7.5 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're marinating chicken or adding a tangy twist to roasted vegetables, knowing the exact weight of 0.5 tbsp apple cider vinegar in grams makes cooking easier.</p>

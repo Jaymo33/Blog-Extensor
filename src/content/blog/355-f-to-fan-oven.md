@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>355°F converts to approximately 160°C in a fan oven. This is the standard equivalent for most UK fan-assisted ovens, making it easy to adapt recipes from Fahrenheit to Celsius. Whether you're baking, roasting, or air frying, this temperature works beautifully for everything from crispy chicken to golden cakes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you nail these conversions for flawless cooking.</p>

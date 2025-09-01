@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of icing sugar equals approximately 312.5 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re making cakes, cookies, or frosting, knowing the exact gram equivalent ensures consistency. For more air fryer baking tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

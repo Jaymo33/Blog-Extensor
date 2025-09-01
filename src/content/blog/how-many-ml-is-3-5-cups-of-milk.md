@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of milk is equivalent to 828 ml. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you’re whipping up a cake or a creamy sauce, knowing how many ml is 3.5 cups of milk ensures consistency and delicious results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when adapting traditional recipes for air fryers.</p>

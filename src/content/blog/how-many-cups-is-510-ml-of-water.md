@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of water equals approximately 2.15 cups in the US and 2.13 cups in the UK. Precise measurements are crucial when using an air fryer, as even small discrepancies can affect cooking times and results. Whether you're preparing a sauce, batter, or simply adding moisture to a dish, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for flawless recipes.</p>

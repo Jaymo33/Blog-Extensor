@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of onion equals approximately 5 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re making crispy onion rings or adding onions to a stir-fry, knowing the weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate conversions and delicious recipes.</p>  

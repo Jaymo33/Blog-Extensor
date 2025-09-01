@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of half and half equals approximately 0.042 cups. This small measurement is often used in recipes where precision matters, especially in baking or air fryer cooking. Whether you're making a creamy sauce or a rich dessert, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>  

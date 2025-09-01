@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of honey is approximately 2.57 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking honey-glazed chicken or whipping up a dessert, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into the details.</p>

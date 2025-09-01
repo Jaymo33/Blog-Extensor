@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of rice weighs approximately 2.65 ounces. This precise measurement is essential for anyone looking to cook perfect portions, especially when using an air fryer for quick and even cooking. Knowing exactly how many ounces is 0.375 cup of rice helps avoid over or undercooking, ensuring your meals turn out just right every single time. Whether you are meal prepping or cooking for one, this conversion is a handy piece of kitchen knowledge. For more helpful guides like this, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

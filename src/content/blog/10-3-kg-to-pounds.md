@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10.3 kg is equal to 22.7076 pounds, which is the standard conversion you need for any kitchen measurement. This conversion is particularly useful when you are preparing ingredients for your air fryer, ensuring you have the right quantities for perfect results every time. Whether you are portioning meat, vegetables, or other ingredients, knowing how to convert 10.3 kg to pounds can make your cooking process smoother and more accurate. Many recipes, especially those from international sources, use kilograms, so being able to quickly convert to pounds is a valuable skill. For more handy conversion tips, check out the comprehensive guide available at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

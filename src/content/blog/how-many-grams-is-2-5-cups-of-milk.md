@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of milk is equivalent to approximately 600 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you’re whipping up a cake or a creamy sauce, knowing the exact gram measurement ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of potatoes equals approximately 1.25 US cups or 1.5 UK cups when chopped. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and cooking time. Whether you're making crispy roast potatoes or a potato-based air fryer dish, knowing how to convert grams to cups ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of protein powder equals approximately 12 ounces. This conversion is essential for accurately measuring ingredients, especially when preparing air fryer recipes or meal prep. Protein powder can vary slightly in density, but this measurement is a reliable standard for most brands.</p>  

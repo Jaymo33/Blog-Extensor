@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of vinegar equals approximately 0.46 cups (just under half a cup). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're marinating chicken, making a tangy glaze, or whipping up a quick sauce, knowing how to convert 110 ml of vinegar to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can focus on flavour.</p>  

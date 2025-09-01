@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of quinoa is approximately 1.41 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you’re meal prepping or cooking a quick side dish, knowing how to convert 40g of quinoa to ounces ensures accuracy.</p>

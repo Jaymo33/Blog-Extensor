@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating a sandwich in an air fryer takes just 3–5 minutes at 160°C (320°F), giving it a crispy exterior without drying out the fillings. Unlike microwaving, which can leave bread soggy, air frying revives sandwiches with even heat circulation. Whether it’s a leftover panini, a cold sub, or a grilled cheese, your air fryer can restore its texture and warmth in minutes.</p>  

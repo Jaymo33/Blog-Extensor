@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of lime juice equals approximately 1.06 ounces. This precise conversion is essential when preparing air fryer recipes that require the perfect balance of citrus flavours. Whether you're marinating chicken or adding zest to desserts, accurate measurements ensure consistent results every time.</p>

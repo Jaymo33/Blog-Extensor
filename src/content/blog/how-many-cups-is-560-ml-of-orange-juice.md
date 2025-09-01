@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of orange juice equals approximately 2.37 cups. This conversion is essential for baking, cooking, or preparing recipes in your air fryer. Whether you're making a glaze, marinade, or a citrus-infused dish, knowing the exact measurement ensures perfect results every time.</p>

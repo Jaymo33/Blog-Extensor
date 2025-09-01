@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>253 fan oven converts to approximately 482°F in a conventional oven. This temperature adjustment is crucial when switching between fan-assisted and traditional ovens or when using an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking times and results.</p>

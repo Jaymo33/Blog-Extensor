@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of beef stock equals approximately 16 fluid ounces (or 16 oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making a rich gravy, a hearty stew, or marinating meat, knowing how many ounces are in 2 cups of beef stock ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when adapting traditional recipes for air fryers.</p>  

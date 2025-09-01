@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of oat milk is approximately 3.42 cups. This conversion is essential for baking, cooking, or preparing recipes in your air fryer. Whether you're whipping up a cake or a creamy sauce, knowing this measurement ensures precision. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions for effortless cooking.</p>  

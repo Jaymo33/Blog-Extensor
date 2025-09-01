@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put baking parchment in an air fryer if you use it correctly. The key is ensuring it doesn’t obstruct airflow or come into contact with heating elements. When positioned properly, baking parchment makes air frying mess-free and prevents food from sticking to the basket.</p>

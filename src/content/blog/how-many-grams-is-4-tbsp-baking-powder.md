@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of baking powder equals approximately 48 grams (g). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and rise. Whether you're baking cakes, bread, or even savoury dishes in your air fryer, getting the right amount of baking powder is crucial. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

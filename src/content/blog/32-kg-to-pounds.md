@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>32 kg equals approximately 70.55 pounds, making it a substantial weight that might come up when dealing with larger cuts of meat or bulk ingredients for your air fryer. Understanding this conversion is particularly useful when you're working with recipes from different measurement systems or when purchasing ingredients in larger quantities. Many air fryer enthusiasts find themselves needing to convert weights when meal prepping or adjusting portion sizes for their appliances. Whether you're cooking for a family or preparing multiple batches, knowing how to convert 32 kg to pounds ensures you get the right amounts every time. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

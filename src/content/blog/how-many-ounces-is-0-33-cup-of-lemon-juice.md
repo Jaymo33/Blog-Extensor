@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of lemon juice equals approximately 2.64 fluid ounces (fl oz). Whether you're preparing a zesty marinade or a tangy glaze for air fryer dishes, precise measurements matter. This conversion ensures your recipes turn out perfectly every time.</p>  

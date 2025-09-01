@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you've found yourself with a 2.25 kg whole chicken and need to know its weight in pounds for an air fryer recipe, you're in the right place. A 2.25 kg whole chicken is equivalent to approximately 4.96 pounds, which we can comfortably round to 5 pounds for most practical cooking purposes. This conversion is essential when following recipes, especially those designed for air fryers, where precise sizing can impact cooking time and results. Knowing this measurement helps ensure your chicken cooks evenly and reaches the perfect level of crispiness. Whether you're planning a Sunday roast or a quick weekday dinner, understanding this conversion is the first step to air frying success.</p>

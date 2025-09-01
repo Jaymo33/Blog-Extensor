@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of minced garlic equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a garlic-infused chicken or a flavourful vegetable stir-fry, knowing how to convert 10g minced garlic to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>

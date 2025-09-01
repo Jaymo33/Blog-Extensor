@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of semi skimmed milk equals approximately 2 ounces (2.02 oz to be precise) in UK measurements. This conversion is essential for air fryer recipes where precise liquid measurements can affect cooking times and textures. Whether you're making batter for air-fried onion rings or a creamy sauce for chicken, knowing how many ounces are in 0.25 cup of semi skimmed milk ensures consistent results every time.</p>

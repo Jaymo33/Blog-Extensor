@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of gelatin powder equals approximately 21 grams. This conversion is essential for precise cooking, especially when using an air fryer for desserts like panna cotta or jelly-based treats. Accurate measurements ensure your recipes turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of coconut oil equals approximately 20 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking, frying, or roasting, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can cook with confidence.</p>  

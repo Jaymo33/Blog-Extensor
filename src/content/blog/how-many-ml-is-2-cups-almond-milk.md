@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of almond milk equals 473 ml, making it easy to measure for air fryer recipes and baking. Whether you're whipping up a dairy-free dessert or a savoury dish, precise conversions ensure your cooking turns out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate measurements are for perfect air fryer results every time.</p>  

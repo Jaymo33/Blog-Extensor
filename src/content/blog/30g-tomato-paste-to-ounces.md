@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of tomato paste equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re making a rich pasta sauce or a flavourful marinade, knowing how to convert 30g tomato paste to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

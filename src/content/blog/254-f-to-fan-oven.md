@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>254 F converts to approximately 123 C in a fan oven. This is a common temperature used for roasting vegetables, baking, and air frying. Understanding this conversion helps you adapt recipes seamlessly between appliances. Whether you're using an air fryer or fan oven, getting the temperature right ensures perfect results every time. Bookmark this guide for quick reference when cooking at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

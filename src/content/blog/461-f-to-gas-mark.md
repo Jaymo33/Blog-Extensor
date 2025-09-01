@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>461°F converts to Gas Mark 9, the standard equivalent for high-temperature baking and roasting. This temperature is ideal for achieving crispy textures in air fryers or traditional ovens, especially for dishes like roasted meats or baked goods. Whether you're using an air fryer or oven, knowing this conversion ensures your recipes turn out perfectly every time.</p>

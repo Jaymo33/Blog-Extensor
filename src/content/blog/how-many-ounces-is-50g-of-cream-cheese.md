@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of cream cheese equals approximately 1.76 ounces. Whether you're whipping up a cheesecake in your air fryer or measuring ingredients for a creamy dip, knowing this conversion ensures precision. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

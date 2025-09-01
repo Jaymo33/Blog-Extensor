@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of mayonnaise is equivalent to approximately 1.41 ounces. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you’re preparing a creamy dip or coating chicken for a crispy finish, knowing how to convert grams to ounces ensures your dish turns out perfectly. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

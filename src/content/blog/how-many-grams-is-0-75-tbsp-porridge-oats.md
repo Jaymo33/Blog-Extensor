@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of porridge oats equals approximately 5.6 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you’re making overnight oats, granola, or baked goods, knowing the exact weight helps avoid under or over-measuring. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

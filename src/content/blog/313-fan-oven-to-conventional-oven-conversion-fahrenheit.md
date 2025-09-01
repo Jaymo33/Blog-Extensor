@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 313 fan oven to conventional oven in Fahrenheit is straightforward: 313°F in a fan oven is roughly equivalent to 325°F in a conventional oven. This adjustment accounts for the even heat distribution of fan-assisted ovens, which cook faster and more efficiently. Whether you're baking a cake or roasting vegetables, knowing this conversion ensures your dishes turn out just right. For more detailed guides, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

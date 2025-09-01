@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of minced garlic weighs approximately 3.75 grams in UK measurements. This conversion is essential for air fryer recipes where precise seasoning makes all the difference. Whether you’re whipping up garlic-infused chicken or roasted vegetables, knowing the exact weight ensures consistent flavour. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we prioritise accuracy to help you nail every dish. No more eyeballing—just reliable measurements for perfect results.</p>  

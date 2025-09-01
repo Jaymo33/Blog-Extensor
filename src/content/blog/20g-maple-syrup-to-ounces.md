@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of maple syrup equals approximately 0.71 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling it over air-fried pancakes or using it as a glaze for salmon, knowing how many ounces is 20g of maple syrup ensures perfect results every time.</p>

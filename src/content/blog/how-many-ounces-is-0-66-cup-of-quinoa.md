@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of quinoa equals approximately 5.28 ounces. This conversion is essential for air fryer recipes, ensuring accurate portions for perfectly cooked meals. Whether you're meal prepping or whipping up a quick dish, knowing the weight of quinoa helps achieve consistent results. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking experience. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>

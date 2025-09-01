@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of vegetable oil is approximately 1.31 cups. This conversion is essential for accurate cooking, especially when using an air fryer where precise measurements can affect texture and crispiness. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert 310 ml of vegetable oil to cups ensures consistent results every time.</p>

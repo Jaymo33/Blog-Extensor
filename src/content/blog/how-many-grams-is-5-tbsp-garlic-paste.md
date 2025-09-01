@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of garlic paste equals approximately 75 grams (g). This conversion is essential for precision in cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you’re whipping up a marinade or a sauce, knowing the exact weight ensures consistent results every time.</p>  

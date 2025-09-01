@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of apple cider vinegar is approximately 0.15 cups. This conversion is handy for recipes that require precise measurements, especially when using an air fryer. Whether you're whipping up a marinade or baking a cake, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

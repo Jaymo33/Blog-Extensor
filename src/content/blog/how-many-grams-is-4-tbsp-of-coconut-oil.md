@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of coconut oil equals approximately 54 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes cook evenly and taste perfect. Whether you’re making crispy roast potatoes or a moist cake, knowing the exact weight of coconut oil helps avoid guesswork.</p>  

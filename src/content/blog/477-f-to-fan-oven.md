@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>477 F converts to approximately 247 C in a fan oven. This high-temperature conversion is crucial for air fryer users adapting American recipes or adjusting conventional oven settings. At airfryerrecipe.co.uk, we specialise in making these conversions simple for home cooks.</p>

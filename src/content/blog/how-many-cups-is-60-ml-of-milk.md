@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of milk equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake, a creamy sauce, or a batter, knowing how to convert 60 ml of milk to cups ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat Danish pastries in an air fryer, set the temperature to 160°C (320°F) and warm them for 3–4 minutes. This method ensures they stay flaky on the outside while heating evenly inside. Whether you have leftover pastries from breakfast or stored them overnight, an air fryer brings them back to life better than a microwave, which can make them soggy.</p>  

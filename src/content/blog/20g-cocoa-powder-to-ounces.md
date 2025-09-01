@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of cocoa powder equals approximately 0.71 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're whipping up a chocolate cake or a batch of brownies, knowing how to convert 20g cocoa powder to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into why this measurement matters and how to use it in your air fryer.</p>  

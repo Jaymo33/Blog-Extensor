@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of corn syrup is approximately 1.84 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making sticky desserts or glazes, knowing how to convert 435 ml of corn syrup to cups ensures your recipes turn out perfectly every time.</p>  

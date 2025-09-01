@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of apple cider vinegar equals approximately 0.89 cups. This conversion is essential for anyone using recipes that require precise measurements, especially when baking or preparing dressings. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or creating your own, knowing this conversion ensures accuracy.</p>  

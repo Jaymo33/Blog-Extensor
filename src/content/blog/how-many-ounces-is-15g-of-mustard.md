@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of mustard equals approximately 0.53 ounces. Whether you're preparing a glaze for air-fried chicken or mixing a marinade, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for cooking success, especially when using an air fryer.</p>  

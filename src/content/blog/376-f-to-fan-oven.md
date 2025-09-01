@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>376°F converts to approximately 190°C in a fan oven. This precise conversion helps you achieve perfect cooking results whether using conventional ovens or adapting recipes for air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these temperature transitions seamless for home cooks.</p>

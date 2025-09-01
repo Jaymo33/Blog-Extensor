@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of granulated sugar equals approximately 5.29 ounces (150 grams). This measurement is essential for air fryer baking, where precision ensures perfect results. Whether you’re whipping up cookies or cakes, knowing the exact weight helps avoid dry or overly sweet treats. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make your cooking effortless.</p>  

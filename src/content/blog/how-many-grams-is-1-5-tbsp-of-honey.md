@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of honey equals approximately 31.5 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling honey over roasted vegetables or using it in a marinade, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of almond milk equals approximately 0.042 cups. This small measurement is often used in precise recipes, especially when working with air fryers where exact quantities matter. Whether you're baking, making sauces, or preparing a light dressing, knowing how to convert 10 ml of almond milk to cups ensures your dish turns out perfectly.</p>  

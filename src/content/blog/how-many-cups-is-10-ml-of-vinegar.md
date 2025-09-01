@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of vinegar is equal to approximately 0.042 cups (US) or 0.035 cups (UK). This small measurement is often used in marinades, dressings, or air fryer recipes where precision matters. Whether you're whipping up a quick sauce or adjusting a recipe, knowing how to convert millilitres to cups ensures perfect results every time.</p>  

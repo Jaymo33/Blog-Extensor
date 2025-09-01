@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of peanut butter equals approximately 10.64 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results. Whether you're making cookies, sauces, or marinades, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Keep reading to learn more about measuring peanut butter and other handy tips.</p>  

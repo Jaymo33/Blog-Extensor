@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 F converts to approximately 160 C in a fan oven. This is the standard equivalent for most air fryer and fan oven recipes, ensuring your dishes cook evenly and efficiently. Whether you're adapting an American recipe or fine-tuning your air fryer settings, this conversion is essential for perfect results every time.</p>

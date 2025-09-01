@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of cream equals approximately 0.25 cups (1/4 cup) in both UK and US measurements. Whether you're whipping up a dessert or adding cream to a savoury dish, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is, especially when adapting recipes for your air fryer. Let’s break down the conversion and explore how to measure cream effortlessly.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of apple cider vinegar equals approximately 3.5 cups in the US measurement system and roughly 3.3 cups in the UK. Whether you're preparing a marinade, salad dressing, or an air fryer recipe, knowing this conversion ensures accuracy. Apple cider vinegar is a versatile ingredient, often used in sauces, pickling, and even baking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>  

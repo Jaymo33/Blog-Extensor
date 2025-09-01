@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of whipping cream equals approximately 4 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're making a creamy dessert or a rich sauce, knowing the exact weight ensures perfect results every time.</p>

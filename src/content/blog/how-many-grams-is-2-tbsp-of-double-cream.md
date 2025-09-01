@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of double cream weigh approximately 30 grams in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing the exact weight ensures consistent results every time.</p>

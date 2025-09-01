@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of vegetable oil equals 1 fluid ounce (oz). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re frying, baking, or roasting, getting the right amount of oil is crucial for texture and flavour.</p>  

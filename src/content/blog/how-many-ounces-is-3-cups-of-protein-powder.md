@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of protein powder equals approximately 24 ounces, making it easier to measure for recipes or meal prep. Whether you're using an air fryer or blending shakes, accurate measurements ensure consistency in texture and nutrition. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to help you nail every dish.</p>

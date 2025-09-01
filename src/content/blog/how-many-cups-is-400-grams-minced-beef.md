@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of minced beef equals approximately 1.7 to 2 cups, depending on how tightly packed it is. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making burgers, meatballs, or a hearty chilli, knowing how many cups 400 grams of minced beef translates to ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

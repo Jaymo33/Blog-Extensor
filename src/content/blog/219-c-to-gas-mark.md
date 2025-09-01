@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>219 degrees Celsius converts to Gas Mark 7 in UK ovens. This is a common baking temperature used for everything from cakes to roasted vegetables in both conventional ovens and air fryers. Understanding this conversion is essential when following recipes that use different temperature scales.</p>

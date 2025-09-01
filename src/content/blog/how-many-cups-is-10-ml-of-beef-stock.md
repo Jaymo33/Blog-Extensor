@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of beef stock is approximately 0.042 cups. This small measurement is often used in air fryer recipes to add rich flavour without overwhelming the dish. Whether you're making a sauce or marinating meat, knowing how to convert 10 ml of beef stock to cups ensures accuracy in your cooking. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

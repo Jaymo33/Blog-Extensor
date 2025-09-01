@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of baking powder equals approximately 1.76 ounces. This conversion is essential for anyone using air fryer recipes, especially when precision matters. Whether you’re whipping up cakes or crispy treats in your air fryer, knowing how to convert grams to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make these conversions simple so you can focus on cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of baking soda weighs approximately 14 grams. This measurement is essential for precise baking, especially when using an air fryer where exact quantities can affect texture and rise. Whether you’re whipping up cakes, cookies, or even savoury dishes, knowing this conversion ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>265 F converts to approximately 130 C in a fan oven. This is a common temperature for slow-cooking dishes like casseroles or roasting vegetables in an air fryer. If you're using a fan-assisted oven or air fryer, this conversion ensures your food cooks evenly without drying out. For more precise adjustments, always refer to your appliance's manual or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

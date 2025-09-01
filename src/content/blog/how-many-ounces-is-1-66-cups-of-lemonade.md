@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of lemonade equals approximately 13.28 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require exact liquid quantities. Whether you're making a marinade, glaze, or refreshing drink, knowing how to convert cups to ounces ensures perfect results every time.</p>

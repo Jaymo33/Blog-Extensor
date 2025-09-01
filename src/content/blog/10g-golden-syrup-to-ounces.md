@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of golden syrup equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a sticky dessert or a glaze for meats, knowing how many ounces 10g of golden syrup is ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Golden syrup’s thick consistency means every gram counts, so measuring correctly matters.</p>  

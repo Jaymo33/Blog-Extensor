@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>292°F converts to Gas Mark 1.5 for conventional ovens and air fryers. This moderate temperature is perfect for slow baking, gentle roasting, and maintaining warmth without over-browning. Whether you're adapting recipes between appliances or checking your air fryer settings, understanding this conversion ensures consistent cooking results.</p>

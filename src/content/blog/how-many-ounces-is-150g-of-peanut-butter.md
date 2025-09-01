@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of peanut butter equals approximately 5.29 ounces. This conversion is essential for anyone using recipes that require precise measurements, especially when working with air fryers or baking. Whether you're making peanut butter cookies or a savoury satay sauce, knowing the exact weight ensures perfect results every time.</p>  

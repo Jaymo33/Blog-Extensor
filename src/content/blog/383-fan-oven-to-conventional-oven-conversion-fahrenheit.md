@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 383°F in a fan oven to a conventional oven temperature is straightforward: it equals approximately 400°F in a standard oven. Fan ovens circulate hot air, cooking food faster and more evenly, so you’ll need to adjust the temperature when using a conventional oven. This guide will help you make the switch effortlessly, whether you’re baking, roasting, or air frying.</p>

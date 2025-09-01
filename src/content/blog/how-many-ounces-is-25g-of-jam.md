@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of jam equals approximately 0.88 ounces. This conversion is handy for air fryer recipes where precise measurements matter, ensuring your desserts or glazes turn out perfectly every time. Whether you're making a quick jam-filled pastry or a sticky glaze for meats, knowing this conversion helps streamline your cooking process.</p>  

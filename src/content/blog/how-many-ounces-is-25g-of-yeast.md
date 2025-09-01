@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of yeast equals approximately 0.88 ounces. This conversion is essential for bakers who need precise measurements, especially when adapting recipes for air fryer baking. Whether you're making bread, pizza dough, or sweet treats, knowing how to convert grams to ounces ensures consistent results every time.</p>  

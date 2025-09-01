@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of rapeseed oil equals approximately 4 ounces (or 113 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying, roasting, or baking, knowing the exact weight ensures consistent results every time.</p>  

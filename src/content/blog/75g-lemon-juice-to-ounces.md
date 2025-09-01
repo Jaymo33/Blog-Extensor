@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of lemon juice equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements matter. Whether you’re marinating chicken or whipping up a zesty dessert, knowing how to convert grams to ounces ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions easy so you can focus on cooking.</p>  

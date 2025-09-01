@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of cream equals approximately 4.06 cups in the UK or 4.23 cups in the US. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking creamy dishes. Whether you're making a rich dessert or a savoury sauce, knowing how to convert millilitres to cups ensures perfect results every time.</p>

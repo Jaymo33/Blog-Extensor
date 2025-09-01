@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 kg equals approximately 11.023 pounds, which is a crucial conversion for anyone using an air fryer to prepare meals with precision. Whether you're weighing ingredients for a recipe or portioning out meat and vegetables, understanding this conversion ensures your cooking times and results are spot on. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use metric or imperial measurements, so being able to switch between them is a handy skill. This is especially useful when you're cooking for a crowd or meal prepping in larger quantities. Getting your measurements right means your food will cook evenly and come out perfectly every time.</p>

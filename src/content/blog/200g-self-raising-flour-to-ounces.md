@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of self-raising flour equals approximately 7.05 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making fluffy cakes or crispy batters, knowing how to convert grams to ounces ensures consistent results every time.</p>  

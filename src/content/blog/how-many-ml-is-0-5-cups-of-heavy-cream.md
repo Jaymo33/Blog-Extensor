@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of heavy cream equals approximately 120 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing how to convert cups to millilitres ensures consistent results every time.</p>

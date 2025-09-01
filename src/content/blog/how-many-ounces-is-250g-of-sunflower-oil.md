@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of sunflower oil equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying, baking, or roasting, getting the right amount of oil ensures even cooking and delicious results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is, especially when working with oils like sunflower oil, which is a staple in many air fryer recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of molasses weigh approximately 85 grams (g). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter for perfect results. Whether you're making sticky gingerbread or a savoury glaze, knowing the exact weight ensures consistency.</p>  

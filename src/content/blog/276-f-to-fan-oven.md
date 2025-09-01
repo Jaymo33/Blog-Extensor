@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>276 F converts to approximately 140 C in a fan oven. This temperature is commonly used for slow roasting, baking delicate pastries, or cooking certain air fryer recipes that require gentle heat. Understanding this conversion helps ensure your dishes turn out perfectly whether you're using a conventional oven or an air fryer.</p>

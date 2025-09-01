@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of water equals exactly 12 ounces. This straightforward conversion is essential for anyone using an air fryer, where precise measurements can make or break a recipe. Whether you’re preparing a marinade, steaming vegetables, or making a sauce, knowing how many ounces are in 1.5 cups of water ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right for perfect results every time.</p>

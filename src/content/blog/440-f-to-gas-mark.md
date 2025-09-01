@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>440°F converts to Gas Mark 8, which is the standard equivalent for most ovens and air fryers. This high temperature is perfect for roasting vegetables, baking pastries, or achieving crispy textures in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting traditional oven instructions, knowing this conversion is essential.</p>

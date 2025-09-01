@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of whipping cream equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up desserts or savoury sauces, knowing the exact weight ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of plain yogurt equals approximately 20 ounces. This conversion is essential for anyone using precise measurements in their air fryer recipes, ensuring consistent results every time. Whether you're making dips, marinades, or baked goods, knowing the exact weight of your ingredients can make all the difference.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of cocoa powder weighs approximately 7 grams in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like brownies or cakes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or converting a traditional oven recipe, knowing the exact weight ensures consistency.</p>  

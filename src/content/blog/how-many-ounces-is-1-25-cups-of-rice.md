@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you are wondering how many ounces is 1.25 cups of rice, the straightforward answer is that 1.25 cups of uncooked, long-grain white rice typically weighs around 9.4 ounces. This conversion is essential for anyone using an air fryer to achieve perfectly cooked rice dishes without any guesswork. Accurate measurements ensure your rice cooks evenly, absorbs the right amount of liquid, and delivers that ideal fluffy texture every time. Whether you are meal prepping or cooking for the family, knowing this conversion makes your time in the kitchen much smoother. For more handy measurement guides, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

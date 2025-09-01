@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of single cream is approximately 2.57 cups in the UK or 2.58 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for creamy desserts or sauces. Precise measurements ensure your dishes turn out perfectly every time.</p>

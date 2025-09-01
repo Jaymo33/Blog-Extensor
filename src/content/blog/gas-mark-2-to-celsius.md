@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>What is Gas Mark 2 in Celsius?</h2>

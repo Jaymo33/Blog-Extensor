@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 6.75 kg lamb leg converts to approximately 14.88 pounds. This conversion is essential for anyone preparing a large roast, especially when using an air fryer where precise weight impacts cooking time and temperature. Knowing the exact weight in pounds helps you follow recipes accurately and achieve perfectly cooked, succulent meat. Whether you’re hosting a Sunday roast or a special family dinner, getting the conversion right is the first step to success. For more handy conversion tips, check out the air fryer conversion chart on <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a>.</p>

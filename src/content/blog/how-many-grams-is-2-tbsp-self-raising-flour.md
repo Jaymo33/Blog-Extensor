@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of self-raising flour weigh approximately 18 grams in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your baking results. Whether you're whipping up cakes, muffins, or bread in your air fryer, knowing this conversion ensures perfect texture every time.</p>

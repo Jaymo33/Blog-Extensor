@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of rice equals approximately 1.5 ounces. This measurement is crucial for precise cooking, especially when using an air fryer, where portion control can affect texture and cooking time. Whether you're meal prepping or following a specific recipe, knowing how to convert 0.25 cup of rice to ounces ensures consistency in your dishes.</p>

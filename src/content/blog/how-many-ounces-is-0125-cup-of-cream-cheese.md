@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of cream cheese equals 1 ounce (oz). This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios matter. Whether you’re whipping up a cheesecake or a creamy dip, knowing this conversion ensures your dish turns out perfectly every time.</p>  

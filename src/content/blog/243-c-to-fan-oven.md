@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>243 C converts to approximately 220 C in a fan oven. This is because fan ovens circulate hot air, allowing you to reduce the temperature by about 20 C compared to conventional ovens. If you're using an air fryer, which works similarly to a fan oven, you'll want to set it to 220 C for best results. This conversion ensures your food cooks evenly without burning. Whether you're baking cakes or roasting vegetables, this adjustment is essential.</p>

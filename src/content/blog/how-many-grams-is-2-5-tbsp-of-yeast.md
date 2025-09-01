@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of yeast equals approximately 21 grams. This conversion is essential for precise baking, especially when using an air fryer for recipes like bread or pizza dough. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that accurate measurements can make or break your dish.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of baking powder equals approximately 42 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make or break your baked goods. Whether you're whipping up cakes, muffins, or even savoury dishes, knowing how to convert 3 tbsp of baking powder to grams ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time.</p>  

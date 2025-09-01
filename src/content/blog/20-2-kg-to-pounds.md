@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20.2 kg is equal to approximately 44.53 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat or bulk ingredients that require precise measurements for perfect cooking results. Whether you're meal prepping for the week or cooking a family feast, knowing how to convert 20.2 kg to pounds ensures your recipes turn out just right. Accurate measurements help you avoid under or overcooking, which is crucial for getting that crispy, golden finish we all love from our air fryers. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

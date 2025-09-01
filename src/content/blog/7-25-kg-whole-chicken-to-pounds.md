@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 7.25 kg whole chicken converts to approximately 15.98 pounds. This conversion is essential for anyone using an air fryer, as most recipes and cooking guidelines are provided in pounds rather than kilograms. Knowing the exact weight in pounds helps you determine the correct cooking time and temperature for a perfectly roasted chicken. Whether you're preparing a family dinner or meal prepping for the week, accurate measurements ensure delicious results. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

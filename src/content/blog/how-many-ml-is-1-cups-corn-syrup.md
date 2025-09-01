@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of corn syrup equals approximately 240 ml, making it easy to measure for air fryer recipes. Whether you're whipping up a glaze for sticky buns or adding sweetness to baked goods, knowing this conversion ensures accuracy. Corn syrup is a staple in many desserts, and precise measurements help achieve the perfect texture. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

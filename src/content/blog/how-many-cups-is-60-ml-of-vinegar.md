@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of vinegar equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a marinade or adding a tangy twist to your cooking, knowing how to convert 60 ml of vinegar to cups ensures consistency and flavour balance.</p>

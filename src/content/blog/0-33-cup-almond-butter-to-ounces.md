@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of almond butter equals approximately 2.64 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and consistency. Whether you’re whipping up cookies, energy bars, or a savoury glaze, knowing how many ounces are in 0.33 cup of almond butter makes baking effortless.</p>  

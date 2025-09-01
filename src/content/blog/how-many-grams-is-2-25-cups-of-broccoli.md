@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of broccoli equals approximately 180 grams, making it easy to measure for air fryer recipes. Whether you're roasting, steaming, or crisping broccoli in your air fryer, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise conversions help you nail every dish, from crispy florets to tender stems.</p>  

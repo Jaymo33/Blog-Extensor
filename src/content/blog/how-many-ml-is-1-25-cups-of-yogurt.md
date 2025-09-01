@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of yogurt is equivalent to approximately 295.7 ml. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a cake, marinating chicken, or preparing a creamy dessert, knowing how to convert cups to millilitres ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with yogurt-based recipes.</p>  

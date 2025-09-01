@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of olive oil is approximately 1 cup, but exact measurements can vary slightly based on density and temperature. This conversion is essential for air fryer recipes, where precision ensures perfect cooking results. Whether you’re whipping up crispy chips or a moist cake, knowing how many cups is 225 grams of olive oil makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on creating delicious meals.</p>

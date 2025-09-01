@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of pasta is roughly equivalent to 4.75 to 5 cups, depending on the pasta shape and density. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you’re making a quick pasta bake or crispy air-fried noodles, knowing how many cups 475 grams of pasta equals can save time and hassle. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

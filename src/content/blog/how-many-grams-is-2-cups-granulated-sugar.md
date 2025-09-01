@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of granulated sugar equals approximately 400 grams. This conversion is essential for air fryer baking, where precision ensures perfect texture and consistency. Whether you’re making cakes, cookies, or desserts, knowing the exact gram measurement helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

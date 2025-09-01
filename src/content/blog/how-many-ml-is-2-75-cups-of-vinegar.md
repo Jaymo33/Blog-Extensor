@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of vinegar is equivalent to approximately 650 ml. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're marinating chicken, pickling vegetables, or whipping up a tangy sauce, knowing how to convert cups to millilitres ensures consistent results every time.</p>

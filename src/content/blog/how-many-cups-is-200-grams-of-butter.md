@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of butter is roughly equivalent to 0.88 cups (just under 1 cup) in standard US measurements. If you're using UK measurements, it's closer to 0.85 cups due to slight differences in cup sizes. Getting this conversion right is especially important for air fryer recipes, where precise measurements can make or break your dish.</p>

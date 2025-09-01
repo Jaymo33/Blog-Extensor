@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of goat milk equals approximately 2 ounces. This conversion is handy when you're measuring ingredients for air fryer recipes or any other cooking needs. Goat milk is a popular alternative to cow's milk, especially in recipes where its unique flavour shines. Whether you're making a creamy sauce or a baked good, knowing this conversion ensures accuracy.</p>

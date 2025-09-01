@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of apple cider vinegar equals approximately 8.82 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer. Whether you're marinating chicken or preparing a salad dressing, knowing the exact weight ensures your dish turns out perfectly every time.</p>

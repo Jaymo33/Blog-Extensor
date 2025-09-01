@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of double cream is approximately 3.2 cups in the UK or 3.1 cups in the US. This conversion is essential for baking, cooking, or whipping up creamy desserts in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting measurements, knowing this conversion ensures accuracy.</p>  

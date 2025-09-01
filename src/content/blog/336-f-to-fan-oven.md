@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>336°F converts to approximately 170°C in a fan oven. This is the standard equivalent used when adapting American recipes or air fryer settings for UK fan ovens. The conversion accounts for the more efficient heat distribution in fan-assisted cooking, which is similar to how air fryers circulate hot air.</p>

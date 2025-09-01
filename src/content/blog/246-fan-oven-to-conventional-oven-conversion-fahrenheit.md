@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>246 fan oven equals approximately 482°F in a conventional oven. This conversion is essential for baking and roasting, especially when using recipes designed for fan ovens in a standard electric or gas oven. Understanding this temperature shift ensures your dishes cook evenly and come out perfectly every time.</p>

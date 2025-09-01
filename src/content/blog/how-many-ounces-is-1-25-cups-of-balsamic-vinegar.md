@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of balsamic vinegar equals approximately 10.14 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken, glazing vegetables, or whipping up a dressing, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

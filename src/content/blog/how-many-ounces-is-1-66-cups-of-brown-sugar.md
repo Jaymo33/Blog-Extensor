@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of brown sugar equals approximately 13.28 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cookies or a cake, knowing how many ounces are in 1.66 cups of brown sugar ensures your dish turns out perfectly every time.</p>

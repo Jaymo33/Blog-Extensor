@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of gluten-free flour typically weighs around 4.5 to 5 ounces (128 to 142 grams). This conversion is essential for air fryer baking, where precision ensures even cooking and perfect texture. Unlike regular flour, gluten-free blends vary in density, so weighing ingredients guarantees consistency. For more air fryer baking tips, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

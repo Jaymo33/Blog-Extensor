@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of onion equals approximately 3 ounces. This conversion is handy when preparing air fryer recipes that require precise measurements for the best results. Whether you're making crispy onion rings or adding onions to a stir-fry, knowing the exact weight ensures consistency.</p>  

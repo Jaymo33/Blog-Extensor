@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of cream cheese equals approximately 16 ounces. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're making cheesecake, dips, or creamy sauces, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

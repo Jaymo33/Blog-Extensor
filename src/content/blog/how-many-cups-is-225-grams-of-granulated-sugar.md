@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of granulated sugar is approximately 1.13 cups in the UK or 1.06 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for desserts. Whether you're making cookies, cakes, or sweet treats, getting the measurement right ensures perfect results every time.</p>  

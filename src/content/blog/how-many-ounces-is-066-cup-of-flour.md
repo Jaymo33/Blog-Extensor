@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of flour equals approximately 2.64 ounces (oz) in the UK. This conversion is essential for air fryer baking, where precision ensures perfect texture and consistency. Whether you’re making cakes, cookies, or bread, knowing how to convert 0.66 cup of flour to ounces helps avoid kitchen mishaps.</p>  

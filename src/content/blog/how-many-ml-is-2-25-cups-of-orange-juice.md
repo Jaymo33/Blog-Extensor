@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of orange juice equals approximately 532.32 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re making a glaze, marinade, or baking a citrus-infused dessert, knowing how many ml is 2.25 cups of orange juice helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Keep reading for tips on measuring liquids and adapting recipes for your air fryer.</p>  

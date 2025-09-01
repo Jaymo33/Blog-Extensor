@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of honey is roughly equivalent to 3.5 cups. This conversion is essential for anyone using honey in baking or air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're whipping up a glaze or sweetening a dessert, knowing how to convert millilitres to cups is a game-changer in the kitchen.</p>  

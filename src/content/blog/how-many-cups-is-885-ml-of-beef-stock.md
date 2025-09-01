@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of beef stock equals approximately 3.74 cups in US measurements or 3.5 cups in UK measurements. This conversion is essential for air fryer recipes, where precise liquid measurements can make or break a dish. Whether you're making a rich gravy, a hearty stew, or a flavourful sauce, knowing how to convert 885 ml of beef stock to cups ensures consistency. For more air fryer conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

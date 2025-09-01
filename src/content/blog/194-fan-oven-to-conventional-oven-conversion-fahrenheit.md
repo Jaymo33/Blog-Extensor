@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>194 fan oven equals approximately 374°F in a conventional oven. This conversion is essential for baking and roasting, especially when using recipes designed for fan ovens in standard ovens or air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate temperatures are for perfect results.</p>

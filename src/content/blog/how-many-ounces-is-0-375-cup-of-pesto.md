@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of pesto equals 3 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re whipping up a quick pasta dish or a flavourful chicken recipe, knowing how many ounces are in 0.375 cup of pesto ensures your meal turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, and this simple conversion is just one of the many tips we offer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>238 fan oven converts to approximately 464°F in a conventional oven. This conversion ensures your recipes bake evenly without the fan-assisted circulation. Whether you're using a traditional oven or adapting for an air fryer, getting the temperature right is crucial for perfect results.</p>

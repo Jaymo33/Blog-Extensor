@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of vegetable oil equals approximately 3.63 cups. This conversion is essential for air fryer recipes, ensuring you use the right amount of oil for perfect results every time. Whether you're baking, frying, or roasting, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly. Keep reading to learn more about measuring vegetable oil for your air fryer.</p>

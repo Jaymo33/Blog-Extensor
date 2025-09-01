@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of brown sugar equals approximately 3 ounces (84 grams) in UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you're whipping up cookies or a glaze, knowing how many ounces are in 0.375 cup of brown sugar ensures perfect results every time. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

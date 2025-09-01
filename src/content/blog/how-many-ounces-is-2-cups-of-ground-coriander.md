@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of ground coriander equals approximately 3.5 ounces (or 100 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect flavour and texture. Whether you're making spiced chicken, roasted vegetables, or a fragrant curry, knowing how many ounces 2 cups of ground coriander weighs helps avoid over- or under-seasoning.</p>  

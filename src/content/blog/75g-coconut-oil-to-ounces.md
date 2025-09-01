@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of coconut oil equals approximately 2.65 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re baking, frying, or roasting, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you master your air fryer with accurate measurements and delicious recipes.</p>

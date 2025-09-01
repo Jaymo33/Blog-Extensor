@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of maple syrup is approximately 1.5 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer for recipes like glazes or sweet treats. Whether you’re in the UK or the US, understanding this measurement ensures your dishes turn out perfectly every time.</p>

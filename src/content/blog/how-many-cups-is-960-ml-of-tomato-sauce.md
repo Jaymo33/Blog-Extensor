@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of tomato sauce equals approximately 4 cups. This conversion is essential for anyone cooking or baking, especially when using an air fryer where precise measurements can make or break a dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or improvising, knowing this conversion ensures consistency.</p>

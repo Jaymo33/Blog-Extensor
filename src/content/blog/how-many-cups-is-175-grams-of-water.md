@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of water equals approximately 0.74 cups (or just under 3/4 cup) in standard US measurements. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're making a cake, sauces, or even reheating meals in your air fryer, knowing how to convert grams to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions simple so you can cook with confidence.</p>

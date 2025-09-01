@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of golden syrup equals approximately 24 ounces (680 grams). This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re whipping up a sticky pudding or glazing meats, knowing how many ounces are in 2 cups of golden syrup ensures perfect results every time.</p>  

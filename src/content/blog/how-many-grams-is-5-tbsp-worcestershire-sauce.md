@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of worcestershire sauce equals approximately 75 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're marinating chicken or adding depth to a beef dish, knowing the exact weight ensures consistent results every time.</p>

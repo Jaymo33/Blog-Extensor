@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of minced onion equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re prepping a savoury stir-fry or a flavourful topping, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and accurate. No more guesswork—just precise measurements for delicious results.</p>  

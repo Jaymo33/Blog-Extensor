@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of water equals 946.35 millilitres (ml) in the US measurement system. If you're using UK metric cups, 4.0 cups converts to 1136.52 ml. This conversion is essential for air fryer recipes, where precise liquid measurements can make or break a dish.</p>  

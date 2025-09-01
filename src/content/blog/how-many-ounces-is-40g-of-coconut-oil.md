@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of coconut oil equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making crispy roast potatoes or baking a cake, knowing how to convert grams to ounces ensures consistent results every time.</p>

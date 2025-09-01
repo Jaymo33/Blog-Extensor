@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 8 converts to 450°F (232°C), making it one of the hottest standard oven settings perfect for roasting meats and baking pizzas in your air fryer. This high temperature creates that desirable crispy exterior while keeping interiors juicy - something air fryers excel at with their rapid air circulation. Whether you're converting a traditional recipe or adjusting cook times, understanding Gas Mark 8 to Fahrenheit is essential for UK home cooks using modern appliances.</p>

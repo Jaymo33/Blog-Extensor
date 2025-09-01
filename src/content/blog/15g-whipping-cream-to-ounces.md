@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of whipping cream equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're making desserts or savoury dishes in your air fryer, knowing how to convert grams to ounces ensures accuracy in your recipes.</p>

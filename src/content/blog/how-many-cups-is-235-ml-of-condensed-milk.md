@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of condensed milk is roughly equivalent to 1 cup in both UK and US measurements. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can affect texture and taste. Whether you're whipping up a dessert or a savoury dish, knowing how to convert ml to cups ensures consistency in your recipes.</p>  

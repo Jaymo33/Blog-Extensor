@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of granulated sugar equals 200 grams. This conversion is essential for baking and cooking, especially when using an air fryer where precision matters. Whether you’re whipping up cakes, cookies, or desserts, knowing the exact gram measurement ensures consistent results every time.</p>

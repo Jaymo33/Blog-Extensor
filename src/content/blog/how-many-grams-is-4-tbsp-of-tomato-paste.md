@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons of tomato paste equals approximately 60 grams. This conversion is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. Whether you're making a rich pasta sauce or a marinade, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

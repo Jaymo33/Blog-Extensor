@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>293°F converts to Gas Mark 1.5 for oven cooking, though most air fryers don't use Gas Mark settings directly. When adapting traditional oven recipes for your air fryer, this conversion helps maintain cooking accuracy.</p>

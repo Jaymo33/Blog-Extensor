@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of orange juice equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise measurements in recipes, especially when using an air fryer where ingredient ratios matter. Whether you're baking a citrus-infused cake or marinating chicken, knowing how to convert 60 ml of orange juice to cups ensures consistency and great results.</p>

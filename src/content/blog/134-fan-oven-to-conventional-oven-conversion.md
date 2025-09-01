@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>134 fan oven equals approximately 118°C in a conventional oven. This conversion is essential for ensuring your recipes turn out perfectly, especially when using an air fryer or traditional oven. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperature matters for everything from crispy roast potatoes to delicate cakes.</p>

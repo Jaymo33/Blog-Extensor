@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of wholemeal flour equals approximately 2.65 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you're whipping up air fryer cakes or bread, knowing the exact weight ensures perfect results every time. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

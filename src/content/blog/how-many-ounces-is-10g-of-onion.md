@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of onion equals approximately 0.35 ounces. This conversion is handy when preparing air fryer recipes, especially if you’re working with UK measurements. Whether you’re dicing onions for a stir-fry or caramelising them for a topping, knowing the exact weight ensures your dish turns out perfectly every time.</p>  

@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>239 C is equivalent to Gas Mark 9. This high temperature is perfect for roasting, baking, and achieving crispy results in both ovens and air fryers. Whether you're following a recipe or adjusting cooking times, knowing this conversion ensures your dishes turn out just right.</p>

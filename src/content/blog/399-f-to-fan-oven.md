@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>399 F converts to approximately 204 C in a fan oven. This precise conversion is crucial when adapting recipes between traditional ovens and air fryers, especially for those who love experimenting with different cooking methods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how temperature conversions can make or break your cooking results.</p>

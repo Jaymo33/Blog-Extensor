@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 kg to pounds equals exactly 22.046 pounds, a conversion that's incredibly useful when preparing ingredients for your air fryer. Whether you're portioning meat, vegetables, or frozen foods, knowing how to convert 10 kg to pounds ensures you use the right amounts for recipes. This is particularly handy when you're working with larger packages or bulk buys that use metric measurements. Getting your quantities spot-on means your air fryer meals will cook evenly and taste fantastic every single time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

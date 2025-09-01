@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of blueberries is roughly equivalent to 0.25 cups (or 1/4 cup) when measured loosely. This conversion is essential for air frying, baking, or any recipe requiring precise measurements. Whether you're following a British or American recipe, knowing how to convert grams to cups ensures your dishes turn out perfectly every time.</p>  

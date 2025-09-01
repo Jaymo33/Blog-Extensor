@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of lemonade equals 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making glazes, marinades, or sauces, knowing how to convert 0.375 cup of lemonade to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>

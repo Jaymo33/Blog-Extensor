@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of gram flour equals approximately 5.3 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up crispy pakoras or fluffy besan chilla, knowing the exact weight ensures consistent results every time. Gram flour, also known as besan, is a staple in many cuisines, and getting the measurements right is key to nailing the texture and flavour. For more air fryer recipe ideas, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of corn syrup is approximately 4.17 cups. This conversion is essential for baking and cooking, especially when using precise measurements for air fryer recipes. Whether you're making sticky buns or a glaze for meats, knowing how to convert 985 ml of corn syrup to cups ensures your dish turns out perfectly every time.</p>

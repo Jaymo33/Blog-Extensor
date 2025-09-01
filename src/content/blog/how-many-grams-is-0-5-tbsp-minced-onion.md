@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of minced onion weighs approximately 3 grams. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect seasoning. Whether you’re making crispy onion toppings or flavourful marinades, knowing the exact gram equivalent helps avoid over or under-seasoning. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of Nutella equals approximately 38 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your desserts and baked goods turn out perfectly every time. Whether you’re making cookies, cakes, or even a quick Nutella drizzle, knowing the exact weight helps avoid kitchen mishaps.</p>  

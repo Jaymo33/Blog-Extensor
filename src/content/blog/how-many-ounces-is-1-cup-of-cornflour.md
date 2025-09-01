@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cornflour equals approximately 4.4 ounces (125 grams). This conversion is essential for air fryer recipes where precision matters. Whether you're coating chicken or baking gluten-free treats, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accurate measurements for flawless cooking. Let’s dive deeper into why this matters and how to apply it.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of chopped garlic equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a garlic-infused dish or adjusting a recipe, knowing this weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so you can focus on cooking delicious meals. Let’s dive deeper into why accurate measurements matter and how to use them effectively.</p>

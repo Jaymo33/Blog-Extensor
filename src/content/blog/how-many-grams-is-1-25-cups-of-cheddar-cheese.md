@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of cheddar cheese equals approximately 142 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy cheese bites or a cheesy topping for baked potatoes, knowing the exact gram equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>

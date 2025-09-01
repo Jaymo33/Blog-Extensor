@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chopped tomatoes weigh approximately 24 ounces (680 grams). This conversion is essential for air fryer recipes, ensuring accurate measurements for consistent results. Whether you're making sauces, stews, or roasted tomatoes, knowing the weight helps streamline your cooking process. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of porridge oats weigh approximately 32 grams (g). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can affect texture and cooking times. Whether you're preparing breakfast or baking, knowing the exact weight ensures consistency in your recipes.</p>  

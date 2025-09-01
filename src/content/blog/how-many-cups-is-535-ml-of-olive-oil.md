@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of olive oil equals approximately 2.26 cups. This conversion is essential for precise cooking, especially when using an air fryer, where measurements can affect texture and crispiness. Whether you’re preparing a marinade, dressing, or frying, knowing the exact cup equivalent ensures consistent results every time.</p>  

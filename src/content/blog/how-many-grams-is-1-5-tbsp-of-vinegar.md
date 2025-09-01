@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of vinegar weighs approximately 22.5 grams. This conversion is handy when precision matters in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re marinating chicken or adding a tangy kick to roasted vegetables, knowing the exact weight helps avoid guesswork.</p>  

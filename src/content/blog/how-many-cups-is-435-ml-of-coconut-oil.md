@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of coconut oil equals approximately 1.84 cups. This conversion is essential for baking and air frying, where precise measurements can make or break a recipe. Whether you're whipping up a cake or crisping some veggies in your air fryer, knowing how to convert millilitres to cups ensures consistent results every time.</p>

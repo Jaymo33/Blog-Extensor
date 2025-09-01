@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of protein powder equals approximately 3.53 ounces. This conversion is essential for anyone using protein powder in their air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're meal prepping or baking protein-rich treats, knowing how to convert grams to ounces is a game-changer.</p>

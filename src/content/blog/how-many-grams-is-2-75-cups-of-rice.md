@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of rice equals approximately 550 grams, depending on the type of rice. This conversion is essential for precise cooking, especially when using an air fryer for perfect results. Whether you're meal prepping or whipping up a quick dinner, knowing how many grams 2.75 cups of rice translates to can make all the difference.</p>  

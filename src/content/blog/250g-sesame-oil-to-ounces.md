@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of sesame oil equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a marinade or drizzling oil over veggies, knowing how to convert grams to ounces ensures perfect results every time.</p>

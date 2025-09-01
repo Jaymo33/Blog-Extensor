@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of maple syrup equals approximately 887.21 millilitres (ml). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making glazes, marinades, or sweet treats, knowing how many ml is 3.75 cups of maple syrup ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of porridge oats equals approximately 1.41 ounces. This conversion is handy for anyone using air fryer recipes or preparing breakfast dishes that require precise measurements. Whether you're making overnight oats or a crispy granola topping, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

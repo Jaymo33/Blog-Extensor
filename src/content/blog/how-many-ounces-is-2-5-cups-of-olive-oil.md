@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of olive oil equals approximately 20 fluid ounces (or 19.7 oz for precise UK measurements). Whether you’re preparing a crispy batch of air-fried vegetables or marinating chicken for your air fryer, accurate measurements are key to perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how important precise conversions are for cooking success.</p>  

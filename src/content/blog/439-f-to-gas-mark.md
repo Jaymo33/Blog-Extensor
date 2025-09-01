@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>439 F converts to Gas Mark 8. This high temperature is ideal for roasting meats, baking pastries, or creating crispy textures in your air fryer. Whether you're adapting oven recipes or fine-tuning air fryer settings, knowing this conversion ensures consistent results.</p>

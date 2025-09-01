@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of cottage cheese equals approximately 0.35 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re making a healthy snack or adding cottage cheese to a dish, knowing the weight in ounces helps ensure accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love simplifying measurements for your cooking convenience. Keep reading for more tips on using cottage cheese in your air fryer.</p>

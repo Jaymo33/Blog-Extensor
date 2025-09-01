@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of fish sauce equals approximately 37.5 grams. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or seasoning seafood, knowing the exact weight ensures consistent flavour. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

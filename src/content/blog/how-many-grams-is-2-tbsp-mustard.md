@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of mustard weigh approximately 30 grams (g). This conversion is essential for precise cooking, especially when using an air fryer where accurate measurements can make or break a dish. Whether you're whipping up a marinade, sauce, or coating for meats, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

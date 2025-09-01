@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 1 converts to 275°F (135°C) in Fahrenheit - the perfect temperature for slow cooking in your air fryer. This gentle heat setting is ideal for dehydrating fruits, proofing dough, or keeping dishes warm without overcooking. Whether you're adapting traditional oven recipes or experimenting with air fryer techniques, understanding this conversion opens up new culinary possibilities.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>12.3 kg is equal to approximately 27.12 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger quantities of ingredients or planning meals for a family or gathering. Accurate measurements ensure your food cooks evenly and turns out perfectly crispy every time. Whether you are preparing a big batch of chicken or a large roast, knowing how to convert 12.3 kg to pounds can make your cooking process much smoother. For more handy conversion tips, check out the comprehensive guides available at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

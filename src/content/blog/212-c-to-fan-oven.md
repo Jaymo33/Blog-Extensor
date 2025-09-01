@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>212 C in a fan oven is equivalent to approximately 190 C. This 20-degree reduction is standard when converting conventional oven temperatures to fan-assisted settings. Whether you're using an air fryer or fan oven, this conversion ensures your food cooks evenly without drying out.</p>

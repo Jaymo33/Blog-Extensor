@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of shredded carrot equals approximately 8 ounces in weight. This measurement is essential for air fryer recipes where precision can affect cooking times and results. Whether you’re making carrot fries, adding shredded carrot to a stir-fry, or prepping ingredients for meal prep, knowing this conversion ensures consistency.</p>

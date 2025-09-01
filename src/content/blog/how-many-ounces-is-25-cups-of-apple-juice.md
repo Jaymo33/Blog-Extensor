@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of apple juice equals 20 fluid ounces (fl oz). Whether you're prepping for an air fryer recipe or just need precise measurements, this conversion ensures accuracy in your cooking.</p>  

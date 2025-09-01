@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of margarine equals approximately 7 grams, making it easy to measure for your air fryer recipes. Whether you're preparing a quick breakfast or a delicious dessert, knowing this conversion ensures your dishes turn out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you get precise measurements for perfect cooking every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of marmalade equals approximately 20 ounces. This conversion is essential for precise measurements in recipes, especially when using an air fryer. Whether you’re making glazes, desserts, or sauces, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into how this measurement works and why it matters.</p>

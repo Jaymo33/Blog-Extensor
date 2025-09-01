@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>398°F converts to Gas Mark 6 in UK ovens and air fryers. This medium-high temperature is ideal for roasting meats, baking casseroles, or crisping vegetables in your air fryer. Whether you're following an American recipe or adjusting your air fryer settings, knowing this conversion ensures perfect results every time.</p>

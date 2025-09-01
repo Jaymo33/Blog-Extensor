@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of chicken broth equals approximately 1.73 cups. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making soups, stews, or marinades, knowing how to convert 410 ml of chicken broth to cups saves time and avoids kitchen mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

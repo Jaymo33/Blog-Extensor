@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>164 C in a fan oven is equivalent to approximately 145 C in a conventional oven without the fan. This conversion is crucial when using air fryers, which work similarly to fan ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperatures make all the difference in cooking.</p>

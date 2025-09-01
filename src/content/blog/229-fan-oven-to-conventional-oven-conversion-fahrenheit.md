@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>229 fan oven converts to approximately 210°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, ensuring your recipes turn out just right. Whether you’re using an air fryer or a traditional oven, understanding this conversion is key to perfect cooking.</p>

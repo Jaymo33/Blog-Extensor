@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of potatoes is roughly equivalent to 0.25 cups when diced or sliced. This measurement can vary slightly depending on how finely the potatoes are chopped, but it’s a reliable starting point for air fryer recipes. Whether you’re making crispy roast potatoes or a quick hash, knowing this conversion ensures your dish turns out just right.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of vegetable broth equals approximately 8 fluid ounces (oz) in both US and UK measurements. This conversion is essential for air fryer recipes, where precise liquid measurements can affect cooking times and results. Whether you're making soups, sauces, or marinades, knowing this conversion ensures your dish turns out perfectly every time.</p>  

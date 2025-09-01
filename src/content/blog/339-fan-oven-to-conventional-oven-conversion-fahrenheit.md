@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 339 fan oven to Fahrenheit for a conventional oven is straightforward: it equals approximately 325°F. This adjustment ensures your recipes turn out just right, whether you're using a fan-assisted oven, traditional oven, or even an air fryer. Understanding this conversion is key for baking, roasting, or reheating dishes accurately.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of rolled oats weigh approximately 40 grams. This conversion is essential for precise measurements in recipes, especially when using an air fryer. Whether you're making granola, oat bars, or a healthy breakfast, knowing the exact weight ensures consistency. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a>.</p>  

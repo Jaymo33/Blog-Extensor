@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 kg of salmon fillet is equal to 22.046 pounds, which is a substantial amount perfect for large gatherings or batch cooking in your air fryer. Whether you're planning a family feast or prepping meals for the week, knowing this conversion helps you shop and cook with confidence. This weight is ideal for those who love hosting or want to make the most of their air fryer's capacity. You can find plenty of inspiration for such large cuts on <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>, especially in the <a href=https://www.airfryerrecipe.co.uk/recipe-category/salmon>salmon category</a>. Understanding how to handle a 10 kg salmon fillet to pounds conversion ensures you get the right portions and avoid waste.</p>

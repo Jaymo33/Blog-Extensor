@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of molasses equals approximately 15 grams, making it easy to measure for your air fryer recipes. Whether you're baking or glazing, knowing this conversion ensures precision in your cooking. Molasses adds a rich, deep flavour to dishes, and getting the measurement right is key to perfect results.</p>

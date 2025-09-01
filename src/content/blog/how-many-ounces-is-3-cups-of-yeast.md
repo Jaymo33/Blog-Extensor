@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of yeast equals approximately 24 ounces. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break your recipe. Whether you're making dough for air fryer bread or prepping ingredients for other baked goods, knowing how to convert cups to ounces ensures consistency.</p>

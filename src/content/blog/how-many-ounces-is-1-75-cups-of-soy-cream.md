@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of soy cream equals approximately 14 fluid ounces (or 14 oz). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re making creamy sauces, desserts, or plant-based dishes, knowing this conversion helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

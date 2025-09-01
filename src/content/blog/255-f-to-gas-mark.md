@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>255°F converts to Gas Mark 1/4 (one-quarter) in UK ovens. This low-temperature setting is perfect for slow cooking, dehydrating, or keeping food warm in both conventional ovens and air fryers. When using your air fryer at 255 F (Gas Mark 1/4), you'll achieve gentle heating ideal for certain recipes.</p>

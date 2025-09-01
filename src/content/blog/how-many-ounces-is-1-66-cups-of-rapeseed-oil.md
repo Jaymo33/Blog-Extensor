@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of rapeseed oil equals approximately 13.28 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're frying, baking, or roasting, knowing the exact weight ensures consistent results every time. Rapeseed oil, a staple in many kitchens, is often used in air fryers due to its high smoke point and neutral flavour. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

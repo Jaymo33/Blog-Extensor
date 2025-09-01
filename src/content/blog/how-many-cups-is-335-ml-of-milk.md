@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of milk is roughly equivalent to 1.42 cups in standard US measurements. This conversion is handy for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a cake or a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>  

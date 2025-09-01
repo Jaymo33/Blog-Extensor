@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of cottage cheese equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can impact texture and cooking times. Whether you’re making a creamy dip or a protein-packed snack, knowing the exact weight ensures consistent results every time.</p>  

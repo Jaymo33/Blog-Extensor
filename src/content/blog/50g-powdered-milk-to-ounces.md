@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of powdered milk equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert grams to ounces ensures consistency in your cooking.</p>  

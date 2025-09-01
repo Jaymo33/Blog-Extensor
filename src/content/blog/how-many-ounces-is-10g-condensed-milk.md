@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of condensed milk is equal to approximately 0.35 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when dealing with sweet treats or sauces. Whether you're making a dessert or a glaze, knowing this conversion ensures your dish turns out perfectly every time.</p>

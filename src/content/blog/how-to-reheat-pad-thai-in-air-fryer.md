@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat Pad Thai in an air fryer, set the temperature to 160°C (320°F) and cook for 3-5 minutes, stirring halfway. This gentle heat revives the noodles without overcooking them, while the air circulation keeps everything crispy. Whether you’re working with leftovers from the fridge or last night’s takeaway, your air fryer can bring back that fresh-cooked texture.</p>

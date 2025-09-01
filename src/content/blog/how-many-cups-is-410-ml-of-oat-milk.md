@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of oat milk is approximately 1.73 cups. This conversion is essential for anyone using oat milk in recipes, especially when preparing dishes in an air fryer. Whether you're baking, cooking, or making a creamy sauce, knowing the exact measurement ensures perfect results every time.</p>

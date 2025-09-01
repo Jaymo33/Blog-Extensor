@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of chopped garlic equals approximately 35.27 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially when working with ingredients like garlic that can significantly impact flavour. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or creating your own, knowing how to convert grams to ounces ensures accuracy.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of cream is approximately 660 grams. This conversion is essential for precision in baking and cooking, especially when using an air fryer where exact measurements can impact texture and consistency. Whether you're whipping up a dessert or a creamy sauce, knowing how to convert cups to grams ensures your dish turns out perfectly every time.</p>

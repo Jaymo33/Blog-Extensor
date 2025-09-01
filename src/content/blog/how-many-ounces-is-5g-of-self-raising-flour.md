@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of self-raising flour equals approximately 0.18 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're whipping up cakes, cookies, or bread, getting the flour ratio right ensures perfect results every time. For more air fryer baking tips, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

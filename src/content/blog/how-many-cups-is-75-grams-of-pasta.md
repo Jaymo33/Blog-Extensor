@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of pasta is roughly equivalent to 0.75 cups, though this can vary slightly depending on the pasta shape. Whether you're prepping for an air fryer meal or a stovetop dish, accurate measurements ensure perfect portions every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for cooking success.</p>

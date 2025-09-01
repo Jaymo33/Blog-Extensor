@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of bbq sauce equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re glazing chicken wings or marinating ribs, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you cook with confidence. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>

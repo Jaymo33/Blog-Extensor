@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of almond butter equals approximately 10.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making energy bites, sauces, or baked goods, knowing the exact weight helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking experience.</p>  

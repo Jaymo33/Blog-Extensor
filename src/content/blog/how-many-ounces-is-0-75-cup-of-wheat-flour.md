@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of wheat flour equals approximately 3.17 ounces (oz) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer, where accurate ingredient weights can make or break your recipe. Whether you're making cakes, bread, or other baked goods, knowing how to convert cups to ounces ensures consistent results every time.</p>  

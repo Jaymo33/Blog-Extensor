@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of maple syrup equals approximately 414 ml, making it easy to measure for air fryer recipes and baking. Whether you're drizzling it over air-fried pancakes or using it as a glaze for roasted vegetables, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is when converting cups to millilitres, especially for sticky ingredients like maple syrup.</p>  

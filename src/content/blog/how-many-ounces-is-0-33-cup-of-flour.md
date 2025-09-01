@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of flour equals approximately 1.4 ounces (oz) in weight. This conversion is essential for air fryer recipes where precision matters. Whether you're baking air fryer cookies or coating chicken, getting your flour measurements right ensures perfect results every time.</p>

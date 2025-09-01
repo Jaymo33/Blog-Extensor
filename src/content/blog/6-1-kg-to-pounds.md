@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>6.1 kilograms is equal to approximately 13.448 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with recipes or packaging that use different measurement systems. Getting your weights right is the first step to perfect air frying, ensuring everything cooks evenly and to the correct doneness. Whether you're preparing a large joint of meat or a big batch of vegetables, this knowledge is incredibly useful. You can find more handy conversion tools on our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

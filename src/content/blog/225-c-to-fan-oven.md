@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 C in a fan oven is the same as 225 C - no conversion needed. Fan ovens circulate hot air, so they cook at the temperature you set without requiring adjustment. This makes them wonderfully straightforward compared to conventional ovens.</p>

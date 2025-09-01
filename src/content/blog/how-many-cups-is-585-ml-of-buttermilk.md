@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of buttermilk equals approximately 2.47 cups in the UK and 2.48 cups in the US. This conversion is essential for bakers and cooks who rely on precise measurements for perfect results. Whether you're whipping up pancakes, scones, or a moist cake, knowing how to convert 585 ml of buttermilk to cups ensures consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when using an air fryer for baking.</p>  

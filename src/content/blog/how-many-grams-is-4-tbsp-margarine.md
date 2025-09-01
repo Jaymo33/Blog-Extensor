@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of margarine equals approximately 56 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're baking, frying, or making sauces, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of Greek yogurt equals approximately 5.29 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re whipping up a creamy dip or a healthy dessert, knowing how many ounces 150g of Greek yogurt is can make all the difference.</p>

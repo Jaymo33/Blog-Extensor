@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of plain yogurt weighs approximately 15 grams. This measurement is standard for UK recipes, ensuring accuracy whether you're baking, cooking, or preparing dips for your air fryer. Knowing the exact weight helps maintain consistency, especially when following recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting portion sizes.</p>  

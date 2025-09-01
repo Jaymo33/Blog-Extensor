@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of milk equals approximately 11.25 grams. This measurement is essential for air fryer recipes where precision matters. Whether you’re baking, marinating, or making sauces, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you cook with confidence.</p>

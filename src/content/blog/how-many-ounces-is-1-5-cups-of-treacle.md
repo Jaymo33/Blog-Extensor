@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of treacle equals approximately 12 ounces (oz). This conversion is essential for accurate baking and cooking, especially when using an air fryer for sticky, sweet treats. Whether you're making gingerbread, flapjacks, or treacle tart, knowing the exact weight ensures consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you nail those measurements for flawless results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of garlic paste equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a marinade or seasoning your dish, knowing how many ounces are in 50g of garlic paste ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly.</p>

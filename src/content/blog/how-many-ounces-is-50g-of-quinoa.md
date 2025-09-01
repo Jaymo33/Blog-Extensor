@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of quinoa equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're meal prepping or cooking a quick dish, knowing how to convert grams to ounces can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

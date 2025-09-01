@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of almond milk equals approximately 1.63 cups in the US measurement system and 1.52 cups in the UK measurement system. Whether you're baking a cake or whipping up a creamy sauce, knowing this conversion ensures your recipes turn out perfectly. Almond milk is a popular dairy-free alternative, and accurate measurements are key to achieving the right consistency in your dishes. If you're using an air fryer for recipes like vegan muffins or dairy-free casseroles, precise liquid measurements matter even more. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more air fryer-friendly recipes that use almond milk.</p>  

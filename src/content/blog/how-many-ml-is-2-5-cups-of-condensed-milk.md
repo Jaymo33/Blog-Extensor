@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of condensed milk equals 600 millilitres (ml). This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you’re baking a cake or whipping up a dessert, knowing how many ml is 2.5 cups of condensed milk helps streamline your cooking process. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

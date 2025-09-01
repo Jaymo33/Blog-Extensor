@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of vegetable broth equals exactly 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're making soups, stews, or marinades, knowing how to convert 0.375 cup of vegetable broth to ounces ensures accuracy in your cooking.</p>

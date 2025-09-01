@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of olive oil weighs approximately 6.5 grams. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make all the difference. Whether you’re drizzling oil over vegetables or coating chicken wings, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

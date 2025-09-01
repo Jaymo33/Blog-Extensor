@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>324 fan oven is equivalent to approximately 350°F in a conventional oven. This conversion is essential for anyone switching between fan-assisted and traditional ovens, especially when using an air fryer. Understanding this difference ensures your recipes turn out perfectly every time.</p>

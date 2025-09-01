@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of chicken broth equals 6 fluid ounces (fl oz) in the UK. This measurement is essential for precise cooking, especially when using an air fryer where accurate liquid quantities can affect texture and flavour. Whether you’re preparing soups, stews, or marinades, knowing this conversion ensures your dish turns out perfectly every time.</p>  

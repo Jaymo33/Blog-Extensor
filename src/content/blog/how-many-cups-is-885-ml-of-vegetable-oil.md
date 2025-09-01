@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of vegetable oil is approximately 3.75 cups. This conversion is essential for air fryer cooking and baking, ensuring your recipes turn out perfectly every time. Whether you're frying, roasting, or baking, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly. Let’s dive deeper into how this measurement works and why it matters.</p>

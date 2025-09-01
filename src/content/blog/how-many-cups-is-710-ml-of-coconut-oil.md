@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of coconut oil equals approximately 3 cups. This conversion is essential for baking and air frying, where precision ensures perfect results every time. Whether you're whipping up a cake or crisping veggies in your air fryer, knowing this measurement saves hassle.</p>

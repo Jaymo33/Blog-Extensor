@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of cottage cheese equals approximately 7.5 grams. This measurement is useful for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making a quick breakfast or a hearty meal, knowing this conversion can streamline your cooking process. For more air fryer tips and recipes, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

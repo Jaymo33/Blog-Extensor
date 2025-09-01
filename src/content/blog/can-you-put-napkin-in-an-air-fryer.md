@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put a napkin in an air fryer. Napkins are flammable and can catch fire due to the intense heat and airflow inside the appliance. While it might seem like a quick fix for catching crumbs or grease, the risks far outweigh the convenience. Instead, opt for air fryer-safe liners or parchment paper designed for high temperatures. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always prioritise safety alongside great cooking results.</p>

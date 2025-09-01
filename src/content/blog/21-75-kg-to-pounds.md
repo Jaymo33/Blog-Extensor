@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>21.75 kg is equal to approximately 47.95 pounds. This conversion is essential when you're working with recipes or food packaging that use different measurement systems, especially if you're using an air fryer. Accurate weight conversions ensure your cooking times and temperatures are spot on, leading to perfectly cooked meals every time. Whether you're preparing a large batch of food or just want to be precise, knowing how to convert 21.75 kg to pounds is a handy skill. You'll find this particularly useful when browsing recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> that might use imperial or metric measurements.</p>

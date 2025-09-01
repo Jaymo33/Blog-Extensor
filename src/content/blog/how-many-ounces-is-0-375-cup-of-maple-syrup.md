@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of maple syrup equals 3 ounces, making it easy to measure for air fryer recipes. Whether you're drizzling it over air-fried pancakes or using it as a glaze for salmon, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for cooking, especially when working with sticky ingredients like maple syrup.</p>  

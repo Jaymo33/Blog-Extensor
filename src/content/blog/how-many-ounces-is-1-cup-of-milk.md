@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of milk equals approximately 8.45 ounces (or 8.45 oz) in the UK. This measurement is crucial for air fryer recipes, where precision ensures even cooking and perfect textures. Whether you're baking, making sauces, or preparing custards, knowing this conversion helps avoid kitchen mishaps.</p>

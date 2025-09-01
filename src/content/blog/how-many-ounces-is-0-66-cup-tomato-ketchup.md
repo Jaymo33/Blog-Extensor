@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of tomato ketchup equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a batch of air-fried chicken wings or a tangy glaze, knowing how many ounces are in 0.66 cup of tomato ketchup ensures your dish turns out perfectly. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

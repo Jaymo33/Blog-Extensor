@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of single cream is approximately 3.2 cups. This conversion is essential for baking, cooking, or preparing recipes in your air fryer. Whether you're whipping up a creamy sauce or a decadent dessert, knowing the exact measurement ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating breaded chicken in an air fryer is simple: set it to 160°C (320°F) for 3-5 minutes. This method restores crispiness while keeping the interior moist, making it far superior to microwaving. Whether you’ve got leftover fried chicken, schnitzel, or nuggets, your air fryer can revive them like new.</p>

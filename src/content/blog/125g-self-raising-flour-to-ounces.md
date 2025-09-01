@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of self-raising flour equals approximately 4.41 ounces. This conversion is essential for anyone using UK recipes or working with air fryer baking, where precision matters. Whether you're making cakes, muffins, or bread in your air fryer, knowing the exact weight ensures consistent results every time.</p>

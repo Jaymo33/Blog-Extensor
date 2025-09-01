@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of condensed milk is approximately 3 cups in both UK and US measurements. This conversion is essential for baking and dessert recipes, ensuring accuracy for perfect results every time. Whether you're making fudge, caramel, or a creamy filling, knowing how to measure condensed milk correctly is key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide detailed guides to make cooking conversions effortless. Keep reading for more tips on using condensed milk in your air fryer recipes.</p>  

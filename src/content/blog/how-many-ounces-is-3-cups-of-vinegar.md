@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of vinegar equals 24 fluid ounces (fl oz) in the UK and US measurement systems. This conversion is essential for air fryer recipes, where precise liquid measurements can impact texture and flavour. Whether you’re making a marinade, pickling vegetables, or whipping up a sauce, knowing how to convert cups to ounces ensures consistency. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

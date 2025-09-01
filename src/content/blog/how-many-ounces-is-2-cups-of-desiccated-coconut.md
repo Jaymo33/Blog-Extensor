@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of desiccated coconut equals approximately 5.3 ounces (150 grams). This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making coconut macaroons or adding texture to a dish, knowing the exact weight helps avoid mishaps.</p>  

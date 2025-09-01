@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of caster sugar weigh approximately 38 grams in the UK. This measurement is essential for baking, especially when using an air fryer, where precision can make or break your recipe. Whether you're whipping up cakes, cookies, or desserts, knowing the exact weight ensures consistent results every time.</p>  

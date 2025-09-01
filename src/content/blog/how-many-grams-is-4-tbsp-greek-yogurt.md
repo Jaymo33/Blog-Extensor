@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons of greek yogurt equals approximately 60 grams. This measurement is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making marinades, dips, or baked goods, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to elevate your cooking. Keep reading for more details on measuring greek yogurt and its uses in air fryer recipes.</p>

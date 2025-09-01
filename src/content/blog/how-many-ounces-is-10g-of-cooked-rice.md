@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of cooked rice equals approximately 0.35 ounces. This conversion is handy when preparing air fryer meals, especially if you’re following recipes that use ounces instead of grams. Whether you’re meal prepping or cooking a single portion, knowing this measurement ensures accuracy and consistency in your dishes.</p>

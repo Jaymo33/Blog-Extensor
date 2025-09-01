@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of chopped garlic equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're preparing a garlic-infused roast or a quick stir-fry, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. No more guesswork—just accurate, easy-to-follow measurements.</p>  

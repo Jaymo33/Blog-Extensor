@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of butter is equivalent to 454 grams, making it easier to measure for air fryer recipes. Whether you're baking cookies or preparing a buttery dish, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results. This guide will help you convert 2.0 cups of butter to grams effortlessly, so you never have to second-guess your ingredients again.</p>

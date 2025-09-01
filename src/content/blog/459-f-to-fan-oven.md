@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>459 F converts to approximately 237 C in a fan oven. This is the standard conversion used across most modern fan-assisted ovens in the UK. When using an air fryer, which operates similarly to a convection oven, you'll typically need to reduce the temperature by about 20 C from conventional oven settings.</p>

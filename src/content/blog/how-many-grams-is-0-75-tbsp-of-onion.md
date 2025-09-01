@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of onion equals approximately 7 grams. This conversion is essential for air fryer recipes where precision can make all the difference. Whether you’re prepping a stir-fry or adding onions to a marinade, knowing the exact weight ensures consistent flavour and texture. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking measurements simple and accurate. Keep reading to learn more about converting tablespoons to grams and why it matters for your air fryer meals.</p>  

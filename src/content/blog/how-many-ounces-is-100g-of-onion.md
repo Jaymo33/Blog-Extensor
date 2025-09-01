@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of onion equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're preparing a delicious stir-fry or a crispy onion topping, knowing the exact weight ensures consistent results. For more air fryer conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

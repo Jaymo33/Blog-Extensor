@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of wholemeal flour equals approximately 7.7 ounces (or 220 grams) in UK measurements. This conversion is essential for bakers who prefer weighing ingredients for accuracy, especially when using an air fryer for recipes like bread or muffins. Wholemeal flour has a slightly different density compared to plain flour, so measuring by weight ensures consistent results every time.</p>  

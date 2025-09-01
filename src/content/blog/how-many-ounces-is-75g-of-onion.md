@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of onion equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're prepping ingredients for a stir-fry or a casserole, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate conversions and tips.</p>

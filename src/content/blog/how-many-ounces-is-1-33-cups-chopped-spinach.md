@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of chopped spinach equals approximately 3.2 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're preparing a spinach-filled quiche or a crispy air-fried side, knowing the exact weight saves time and guarantees consistency.</p>  

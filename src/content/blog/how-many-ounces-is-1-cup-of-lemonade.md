@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of lemonade equals approximately 8.45 ounces in the UK. This conversion is essential for anyone using an air fryer to create refreshing drinks or recipes that include lemonade as an ingredient. Whether you're making a glaze for chicken or a dessert sauce, precise measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is for perfect cooking. Let’s dive deeper into why this measurement matters and how to use it in your air fryer recipes.</p>  

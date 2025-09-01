@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of water weighs exactly 240 grams. This measurement is standard for both UK and US cup measurements, making it easy to convert for recipes. Whether you’re using an air fryer or a conventional oven, knowing this conversion ensures precision in cooking and baking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of cottage cheese equals approximately 14 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a quick breakfast or a hearty meal, knowing how to convert cups to ounces ensures your dish turns out perfectly every time.</p>

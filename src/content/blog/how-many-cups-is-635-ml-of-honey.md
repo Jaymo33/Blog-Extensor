@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of honey is approximately 2.68 cups in standard US measurements. If you're working with UK metric cups, it's roughly 2.54 cups. Honey's thick consistency means measuring it accurately is crucial for recipes, especially when using an air fryer where precision affects cooking times.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of olive oil is approximately 1.76 ounces. This conversion is essential when preparing air fryer recipes that require precise measurements for the best results. Whether you're drizzling oil over vegetables or coating chicken, knowing the exact weight ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for UK home chefs.</p>  

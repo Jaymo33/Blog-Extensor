@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of cocoa powder equals approximately 3.5 cups when using the standard UK metric cup (250ml). For US measurements, it’s closer to 3.75 cups due to the slight difference in cup sizes. Whether you're baking a chocolate cake or whipping up air fryer brownies, accurate measurements ensure perfect results every time.</p>  

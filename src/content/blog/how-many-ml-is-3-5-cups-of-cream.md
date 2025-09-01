@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of cream equals 828 ml in the UK and 830 ml in the US. Whether you're whipping up a dessert or adding richness to a sauce, precise measurements ensure perfect results. Converting cups to millilitres can be tricky, especially when recipes call for exact quantities. Here’s everything you need to know about measuring 3.5 cups of cream in ml for both UK and US standards.</p>

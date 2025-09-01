@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 fan oven converts to approximately 150°C in a conventional oven. This simple conversion ensures your recipes turn out perfectly, whether you're baking cakes or roasting vegetables. Understanding this difference is crucial for achieving consistent results in your kitchen.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of gluten-free flour equals approximately 5.3 ounces (150 grams) in UK measurements. This conversion is essential for accurate baking, especially when using an air fryer for gluten-free recipes. Whether you're whipping up cakes, cookies, or bread, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial it is to get the ratios right for gluten-free cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of brown sugar equals approximately 6.25 grams. This measurement is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking cookies or glazing meats, knowing the exact weight of brown sugar can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you achieve the best results. Keep reading for more tips on measuring brown sugar and other ingredients for your air fryer.</p>  

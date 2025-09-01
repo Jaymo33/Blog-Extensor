@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of half and half equals approximately 296 ml. This conversion is essential for air fryer recipes, baking, and cooking where precision matters. Whether you’re whipping up a creamy sauce or a decadent dessert, knowing the exact ml measurement ensures consistent results every time.</p>

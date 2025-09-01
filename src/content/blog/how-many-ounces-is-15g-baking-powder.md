@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of baking powder is approximately 0.53 ounces. This conversion is essential for air fryer recipes, especially when precision matters for baking. Whether you’re whipping up cakes, muffins, or savoury dishes, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of olive oil equals approximately 2.65 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're drizzling oil over chips or marinating chicken, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so you can focus on cooking delicious meals.</p>  

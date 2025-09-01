@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>284°F converts to Gas Mark 1 in UK ovens and air fryers. This precise temperature conversion is essential for baking, roasting, and air frying recipes that require low heat. Whether you're adapting an American recipe or adjusting your air fryer settings, knowing this conversion ensures your dishes cook perfectly every time.</p>

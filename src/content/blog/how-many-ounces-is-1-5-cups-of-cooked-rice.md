@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of cooked rice equals approximately 12 ounces (340 grams). This conversion is handy for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re meal prepping or scaling a dish, knowing the weight of cooked rice helps maintain consistency.</p>

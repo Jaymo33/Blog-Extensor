@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of lime juice equals 12 fluid ounces (or approximately 340 grams). This conversion is essential for air fryer recipes where precision ensures the perfect balance of flavours. Whether you’re making a tangy marinade or a refreshing dessert, knowing how to convert cups to ounces is a game-changer.</p>

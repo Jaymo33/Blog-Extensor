@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of granulated sugar equals approximately 18.75 grams in UK measurements. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can affect texture and browning. Whether you're whipping up cakes, cookies, or glazes, knowing this conversion helps achieve consistent results every time.</p>

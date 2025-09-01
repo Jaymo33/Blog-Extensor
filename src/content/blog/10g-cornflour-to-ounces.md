@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of cornflour equals approximately 0.35 ounces. This conversion is essential for UK cooks who need precise measurements for air fryer recipes or baking. Whether you’re thickening a sauce or coating chicken, knowing how to convert 10g cornflour to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making kitchen conversions simple and stress-free.</p>

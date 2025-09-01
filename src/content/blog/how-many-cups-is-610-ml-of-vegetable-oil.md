@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of vegetable oil equals approximately 2.57 cups in the US measurement system and 2.15 cups in the UK system. Whether you're preparing a crispy batch of air-fried chicken or baking a moist cake, getting the oil measurement right is crucial. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking.</p>

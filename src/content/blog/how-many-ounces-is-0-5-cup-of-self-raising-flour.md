@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of self-raising flour equals approximately 2.1 ounces (59 grams). This measurement is essential for precise baking, especially when using an air fryer where accurate ingredient ratios can make or break your recipe. Whether you're whipping up a quick cake or perfecting fluffy scones, knowing this conversion ensures consistent results every time.</p>

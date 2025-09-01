@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 fan oven equals approximately 140°C in a conventional oven. This 10°C difference is crucial for perfect baking and roasting. Whether you're using an air fryer or traditional oven, understanding this conversion ensures your dishes turn out just right every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of oat milk is approximately 0.78 cups (or just under 3/4 cup). This conversion is handy for air fryer recipes, baking, or any cooking where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

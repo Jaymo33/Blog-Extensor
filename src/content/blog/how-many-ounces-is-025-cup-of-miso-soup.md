@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of miso soup equals approximately 2 ounces. This conversion is handy when you need precise measurements for air fryer recipes or meal prep. Miso soup, a staple in Japanese cuisine, has a slightly thicker consistency than water, so its weight can vary slightly. For most cooking purposes, however, 0.25 cup translates neatly to 2 ounces.</p>

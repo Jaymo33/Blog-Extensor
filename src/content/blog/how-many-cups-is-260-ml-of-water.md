@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of water equals approximately 1.1 cups. This conversion is essential for air fryer recipes, where precise measurements can affect cooking times and results. Whether you're baking a cake or preparing a savoury dish, knowing how to convert millilitres to cups ensures accuracy. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

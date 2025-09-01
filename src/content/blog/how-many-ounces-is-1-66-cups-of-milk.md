@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of milk equals approximately 13.28 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a creamy sauce or baking a cake, knowing the exact weight ensures consistency. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of double cream equals 710 ml, making it easy to measure for your recipes. Whether you're baking a rich dessert or preparing a creamy sauce for your air fryer dishes, knowing this conversion ensures precision. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate measurements.</p>

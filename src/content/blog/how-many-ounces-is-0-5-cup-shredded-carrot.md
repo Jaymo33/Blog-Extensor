@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of shredded carrot weighs approximately 1.5 ounces (42.5 grams). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making carrot fries, adding shredded carrot to a stir-fry, or prepping veggies for a meal, knowing the exact weight helps with consistency.</p>

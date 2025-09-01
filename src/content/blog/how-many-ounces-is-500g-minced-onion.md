@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of minced onion equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, where precision ensures even cooking and perfect flavour. Whether you're making onion bhajis, soups, or casseroles, knowing how to convert grams to ounces can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>  

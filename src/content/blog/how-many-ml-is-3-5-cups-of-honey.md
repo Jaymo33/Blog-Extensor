@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of honey equals approximately 828 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a glaze or a sweet marinade, precise measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for perfect dishes every time.</p>

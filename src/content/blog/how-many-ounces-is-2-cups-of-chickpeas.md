@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chickpeas weigh approximately 12 ounces (340 grams) when measured in standard UK or US cups. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re roasting chickpeas for a crunchy snack or adding them to a hearty meal, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail these details for flawless cooking.</p>

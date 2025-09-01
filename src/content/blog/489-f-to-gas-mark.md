@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>489°F converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is perfect for professional-style baking, pizza cooking, or achieving crispy finishes in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making temperature conversions simple for home cooks.</p>

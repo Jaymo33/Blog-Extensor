@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of beef stock equals 240 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re preparing a rich gravy or a savoury stew, knowing how many ml are in 1.0 cups of beef stock ensures consistency in your dishes.</p>

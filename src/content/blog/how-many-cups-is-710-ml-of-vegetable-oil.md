@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of vegetable oil is approximately 3 cups in US measurements or 2.8 cups in UK measurements. Getting this conversion right is essential for air frying and baking, where precision can make or break a dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting measurements on the fly, knowing how to convert ml to cups ensures consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How many ounces is 1.75 cups of hot sauce?</h2>  

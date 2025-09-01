@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of maple syrup equals approximately 4.23 ounces (or 4.2 oz for simplicity). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're glazing salmon or sweetening desserts, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you nail every recipe. Keep reading for detailed tips and conversions.</p>  

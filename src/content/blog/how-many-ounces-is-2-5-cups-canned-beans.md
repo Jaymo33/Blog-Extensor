@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of canned beans equals approximately 20 ounces. This measurement is handy when preparing air fryer recipes, ensuring you use the right amount for consistent results. Whether you're making chilli, salads, or protein-packed sides, knowing this conversion saves time and hassle. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

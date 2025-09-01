@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of mustard weigh approximately 60 grams (g) in the UK. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re preparing a marinade, glaze, or sauce, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>471 F converts to approximately 243 C in a fan oven. This high-temperature setting is often used for searing meats or achieving crispy textures in air fryers. Understanding this conversion helps when adapting recipes between appliances.</p>

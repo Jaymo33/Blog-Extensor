@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of skimmed milk equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a creamy sauce or a light batter, knowing the exact weight ensures consistent results every time.</p>

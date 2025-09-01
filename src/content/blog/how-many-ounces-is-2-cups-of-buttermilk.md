@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of buttermilk equals approximately 16 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up fluffy pancakes or marinating chicken, knowing how to convert 2 cups of buttermilk to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking simpler, so you spend less time measuring and more time enjoying your meals.</p>

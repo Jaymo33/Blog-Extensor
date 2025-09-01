@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of blueberries is roughly equivalent to 1.5 to 2 cups, depending on the size and packing of the berries. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect results. Whether you're making blueberry muffins or a fruity topping, knowing the exact measurement helps avoid over or under-measuring.</p>  

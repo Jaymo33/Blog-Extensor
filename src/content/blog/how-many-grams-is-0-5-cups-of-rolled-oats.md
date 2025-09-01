@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of rolled oats equals approximately 45 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're making granola, oatmeal, or baked goods, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect dishes every time.</p>

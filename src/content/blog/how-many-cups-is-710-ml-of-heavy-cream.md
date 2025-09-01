@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of heavy cream is approximately 3 cups. This conversion is essential for baking, cooking, or even whipping up a delicious dessert in your air fryer. Accurate measurements ensure your recipes turn out perfectly every time, whether you're following a British or American recipe. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

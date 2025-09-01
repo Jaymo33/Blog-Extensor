@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of BBQ sauce equals approximately 1.76 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can impact results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting portion sizes, knowing this conversion ensures consistency.</p>  

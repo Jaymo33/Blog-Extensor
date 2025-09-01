@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of buttermilk equals approximately 2.26 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precision matters. Whether you're whipping up pancakes, cakes, or marinades, knowing how many cups 535 ml of buttermilk translates to ensures your recipes turn out perfectly every time.</p>  

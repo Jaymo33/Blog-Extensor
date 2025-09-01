@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of plain yogurt equals approximately 60 grams (g). This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you’re whipping up a marinade, baking, or preparing a healthy snack, knowing the exact weight helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and easy-to-follow guides.</p>

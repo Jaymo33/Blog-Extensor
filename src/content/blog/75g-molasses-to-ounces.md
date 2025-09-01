@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of molasses equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or glazing. Whether you're making sticky toffee pudding or a savoury glaze, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Let’s dive deeper into why accurate measurements matter and how to adapt recipes.</p>  

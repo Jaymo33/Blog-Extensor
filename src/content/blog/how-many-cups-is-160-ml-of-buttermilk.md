@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of buttermilk equals approximately 0.68 cups in the UK or 0.67 cups in the US. This conversion is essential for air fryer recipes where precision ensures the perfect texture and rise. Whether you’re baking fluffy pancakes or tender fried chicken, knowing how many cups is 160 ml of buttermilk makes all the difference.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of oats equals approximately 0.35 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you’re making overnight oats, granola, or oat-based coatings for chicken, knowing how many ounces 10g of oats is ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with every meal.</p>

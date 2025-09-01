@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of wholemeal flour weigh approximately 16 grams (g). This conversion is essential for air fryer recipes where precision matters, especially when baking or coating ingredients. Wholemeal flour, being denser than white flour, requires accurate measuring to avoid dry or dense results. If you’re using an air fryer for baking, this measurement ensures your recipes turn out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of cottage cheese equals approximately 2 ounces (56.7 grams). This measurement is essential for precise cooking, especially when preparing air fryer recipes where ingredient ratios matter. Whether you're making a cheesy breakfast bake or a protein-packed snack, knowing how many ounces are in 0.25 cup of cottage cheese ensures consistency.</p>  

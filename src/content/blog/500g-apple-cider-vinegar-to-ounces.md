@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of apple cider vinegar equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or whipping up a tangy glaze, knowing how many ounces 500g of apple cider vinegar is ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. No more second-guessing—just perfect results every time.</p>  

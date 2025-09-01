@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of cheddar cheese is roughly equivalent to 2 cups when grated, but this can vary slightly depending on how finely you shred it. If you're using an air fryer for cheesy dishes like nachos or stuffed mushrooms, getting this measurement right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>88 fan oven converts to approximately 110°C in a conventional oven. This conversion is essential for ensuring your recipes turn out perfectly, whether you're baking in a traditional oven or using an air fryer. At airfryerrecipe.co.uk, we specialise in helping you navigate these temperature conversions with ease.</p>

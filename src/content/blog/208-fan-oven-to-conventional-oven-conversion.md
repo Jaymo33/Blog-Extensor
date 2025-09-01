@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>208 fan oven equals approximately 190°C in a conventional oven. This conversion is essential for baking and cooking, especially when using an air fryer. Understanding the difference between fan and conventional ovens can make all the difference in your cooking results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you navigate these conversions with ease. Let's dive deeper into why this matters and how to apply it.</p>

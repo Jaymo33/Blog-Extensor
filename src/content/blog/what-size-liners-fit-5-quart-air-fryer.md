@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Liners for a 5 quart air fryer typically measure 7.5 to 8 inches in diameter for round liners or 7.5 x 7.5 inches for square ones. Getting the right fit ensures your food cooks evenly and makes cleanup a breeze. Whether you’re using parchment paper, silicone, or reusable liners, the size matters to avoid blocking airflow. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your air fryer’s basket dimensions before buying liners.</p>

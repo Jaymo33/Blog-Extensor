@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of coconut oil is approximately 2.57 cups. Whether you're baking or using your air fryer, precise measurements ensure the best results. Coconut oil is a staple in many recipes, from crispy roasted vegetables to moist cakes. Knowing how to convert millilitres to cups can save time and avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking.</p>

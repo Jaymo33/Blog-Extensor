@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>90 fan oven converts to approximately 70°C in a conventional oven. This lower temperature accounts for the efficient heat distribution of fan-assisted ovens. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures your dishes turn out perfectly every time.</p>

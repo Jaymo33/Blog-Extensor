@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of chopped garlic weighs approximately 8.5 grams. This measurement is essential for precision in cooking, especially when using an air fryer, where ingredient ratios can affect texture and flavour. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing the exact weight ensures consistency.</p>  

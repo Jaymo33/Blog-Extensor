@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of sesame oil equals approximately 8.45 ounces (or 8.5 oz for simplicity). This conversion is essential for air fryer recipes where precision matters. Whether you're making crispy tofu or marinating chicken, knowing the exact weight ensures consistent results every time.</p>  

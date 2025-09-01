@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating rotisserie chicken in an air fryer is simple—set it to 160°C (320°F) and cook for 3–5 minutes until heated through. This method locks in moisture while crisping the skin, making it taste freshly cooked. Whether you’ve stored it in the fridge or have leftovers from last night, your air fryer is the best tool for the job. For more tips on air fryer cooking, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

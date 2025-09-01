@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of yogurt is approximately 0.63 cups in US measurements or 0.53 cups in UK measurements. This conversion is essential when preparing air fryer recipes that require precise yogurt quantities, whether you're making marinades, dips, or baked goods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements make all the difference in air fryer cooking.</p>

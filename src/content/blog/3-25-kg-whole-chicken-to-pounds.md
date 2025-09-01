@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 3.25 kg whole chicken and need to know its weight in pounds, the answer is straightforward: 3.25 kg is approximately 7.17 pounds. This conversion is essential for air fryer users, as cooking times and temperatures are often based on pound measurements. Knowing the exact weight helps you achieve perfectly cooked, juicy chicken with a crispy skin. Whether you're following a recipe or experimenting on your own, this conversion ensures your meal turns out just right. For more handy conversion tips, check out the guides on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

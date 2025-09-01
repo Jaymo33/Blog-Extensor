@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of rolled oats equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making granola, oat bars, or a crispy topping, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for perfect results every time. Let’s dive deeper into why this conversion matters.</p>  

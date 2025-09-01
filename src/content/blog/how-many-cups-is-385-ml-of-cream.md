@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of cream is approximately 1.63 cups in the UK or 1.62 cups in the US. This conversion is essential for accurate baking and cooking, especially when using an air fryer. Whether you're whipping up a dessert or preparing a creamy sauce, knowing the exact measurement ensures perfect results every time. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

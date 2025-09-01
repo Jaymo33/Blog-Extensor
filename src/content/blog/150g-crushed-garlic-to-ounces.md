@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of crushed garlic equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up garlic-infused chicken or roasted vegetables, knowing the exact weight ensures consistent flavour. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

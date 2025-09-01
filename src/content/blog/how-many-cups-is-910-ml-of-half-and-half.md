@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of half and half is approximately 3.85 cups in the US measurement system and roughly 3.6 cups in the UK. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer for creamy dishes or baking. Whether you're making a rich sauce, a custard, or a cake batter, knowing how to convert millilitres to cups ensures consistency in your cooking. For more air fryer-friendly conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

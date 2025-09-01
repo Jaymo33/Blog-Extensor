@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of apple cider vinegar equals approximately 0.57 cups in US measurements or 0.48 cups in UK measurements. This conversion is essential for air fryer recipes where precision matters, whether you're marinating chicken, baking cakes, or preparing dressings. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

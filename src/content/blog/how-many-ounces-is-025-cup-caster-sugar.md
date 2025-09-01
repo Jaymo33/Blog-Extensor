@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of caster sugar equals approximately 1.76 ounces (50 grams) in UK measurements. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re whipping up cakes, cookies, or desserts, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on creating delicious treats without the guesswork.</p>

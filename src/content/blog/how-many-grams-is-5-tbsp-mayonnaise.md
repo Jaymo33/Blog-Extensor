@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of mayonnaise weigh approximately 70 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes cook evenly and taste perfect. Whether you're whipping up a quick sauce or coating chicken for a crispy finish, knowing the exact weight saves time and guarantees consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

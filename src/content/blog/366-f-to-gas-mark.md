@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>366 F to Gas Mark Conversion Explained</h2>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of coconut milk is approximately ⅔ cup, making it a handy measurement for air fryer recipes. Whether you're whipping up a curry or baking a dessert, getting the right amount ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements are key to delicious meals. Let’s dive deeper into conversions and tips for using coconut milk in your air fryer.</p>  

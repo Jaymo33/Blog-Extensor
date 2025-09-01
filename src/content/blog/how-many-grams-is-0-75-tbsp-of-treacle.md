@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of treacle equals approximately 15 grams. This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or glazing meats. Treacle, a thick and sticky syrup, can be tricky to measure, so knowing the gram equivalent helps avoid messy spills and ensures consistent results.</p>  

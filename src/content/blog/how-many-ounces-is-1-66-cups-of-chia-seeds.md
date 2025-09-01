@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of chia seeds equals approximately 8.8 ounces. This conversion is essential for anyone using chia seeds in air fryer recipes or meal prep. Whether you're making chia puddings, energy bars, or adding them to baked goods, accurate measurements ensure perfect results every time.</p>

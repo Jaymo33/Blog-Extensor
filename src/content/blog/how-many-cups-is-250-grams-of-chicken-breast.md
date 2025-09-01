@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of chicken breast equals approximately 1.5 cups when diced or shredded. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you’re meal prepping or following a specific dish, knowing how to convert grams to cups saves time and avoids guesswork. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

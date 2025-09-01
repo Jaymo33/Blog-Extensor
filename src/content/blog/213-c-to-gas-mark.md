@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>213 C converts to Gas Mark 7, which is a common setting for baking and roasting in traditional ovens. This temperature works perfectly for everything from crispy roast potatoes to golden cakes, and it's equally important when adapting recipes for your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate temperature conversion is for cooking success.</p>

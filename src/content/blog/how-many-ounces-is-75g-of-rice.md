@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of rice equals approximately 2.65 ounces, making it a handy measurement for air fryer recipes. Whether you're meal prepping or cooking a single portion, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with precise measurements.</p>  

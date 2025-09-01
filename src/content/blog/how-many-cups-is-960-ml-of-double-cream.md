@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of double cream is roughly equivalent to 4 cups in UK measurements or just over 4 cups in US measurements. This conversion is essential for anyone using an air fryer to whip up creamy desserts, sauces, or indulgent dishes. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, getting the measurement right ensures perfect results every time.</p>  

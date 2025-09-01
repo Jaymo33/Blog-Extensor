@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of coconut oil equals approximately 2 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can affect texture and cooking times. Whether you’re making crispy roasted vegetables or a moist cake, knowing how many ounces are in 0.25 cup of coconut oil ensures consistent results.</p>

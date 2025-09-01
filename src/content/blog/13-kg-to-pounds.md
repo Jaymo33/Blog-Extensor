@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>13 kg equals approximately 28.66 pounds, which is essential knowledge for anyone using an air fryer for meal preparation. Whether you're converting recipe quantities or portioning ingredients, understanding this conversion ensures accurate cooking results. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use metric measurements that need converting for imperial users. Getting your weights right means perfectly cooked food every time, avoiding under or overcooking. This conversion is particularly useful when working with larger cuts of meat or bulk ingredients.</p>

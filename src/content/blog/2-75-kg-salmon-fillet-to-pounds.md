@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 2.75 kg salmon fillet equals approximately 6.06 pounds. This conversion is essential for British cooks who need to work with imperial measurements or follow recipes that use pounds rather than kilograms. Whether you're meal prepping, hosting a dinner party, or simply cooking for the family, knowing how to convert 2.75 kg salmon fillet to pounds ensures you get the right portion sizes and cooking times. This is particularly useful when using your air fryer, as accurate weight measurements lead to perfectly cooked salmon. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

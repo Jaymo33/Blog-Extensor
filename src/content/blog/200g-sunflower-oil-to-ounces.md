@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of sunflower oil equals approximately 7.05 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact the outcome of your recipes. Whether you're frying, baking, or roasting, knowing the exact weight ensures consistency and perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of oats equal approximately 9 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up breakfast or baking, knowing this conversion ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for perfect dishes.</p>

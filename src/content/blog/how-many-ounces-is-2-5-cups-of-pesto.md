@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of pesto equals approximately 20 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re making pesto chicken or a veggie bake, knowing the exact weight helps maintain consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

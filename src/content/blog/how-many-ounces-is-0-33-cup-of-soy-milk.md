@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of soy milk equals approximately 2.64 fluid ounces (UK). If you're preparing an air fryer recipe and need precise measurements, this conversion ensures your dish turns out perfectly every time. Whether you're making a creamy dessert or a savoury breakfast, knowing how to convert cups to ounces is essential for accuracy.</p>  

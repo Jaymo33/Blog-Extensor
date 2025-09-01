@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of vinegar is approximately 0.36 cups in the UK or 0.35 cups in the US. This small but crucial measurement is often needed for marinades, dressings, or pickling in air fryer recipes. Whether you're whipping up a tangy glaze for chicken or balancing flavours in a salad dressing, knowing this conversion ensures precision in your cooking.</p>  

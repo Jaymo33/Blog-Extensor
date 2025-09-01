@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10.2 kg is equal to 22.49 pounds. This conversion is incredibly useful for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk meal prep, or frozen food packages that list their weight in kilograms. Getting your weights right ensures your cooking times and temperatures are spot on, leading to perfectly crispy and delicious results every single time. Whether you're portioning out a big batch of chicken or calculating the right amount of potatoes for a family feast, knowing this conversion is a key kitchen skill. For more handy conversion tools, be sure to bookmark our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

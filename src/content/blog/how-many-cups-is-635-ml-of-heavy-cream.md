@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of heavy cream is approximately 2.68 cups. This conversion is essential for anyone using heavy cream in baking, cooking, or air fryer recipes where precise measurements matter. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

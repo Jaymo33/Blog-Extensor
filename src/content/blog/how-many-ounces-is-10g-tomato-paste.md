@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of tomato paste equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a quick pasta sauce or marinating chicken, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless so you can focus on flavour.</p>  

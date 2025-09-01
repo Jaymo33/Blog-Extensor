@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 kg of chicken wings is equal to approximately 1.1 pounds, making it a perfect portion for a family-sized air fryer meal. This conversion is essential for anyone following recipes or buying ingredients in different measurement systems. Whether you're meal prepping or cooking for a crowd, knowing this conversion ensures you get the right amount every time. Using an air fryer for chicken wings guarantees a crispy exterior and juicy interior with minimal oil. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

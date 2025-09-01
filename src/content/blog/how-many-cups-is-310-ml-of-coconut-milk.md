@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of coconut milk is roughly 1.31 cups in the UK or 1.25 cups in the US. This conversion is essential for air fryer recipes, baking, or cooking where precision matters. Whether you're whipping up a curry, baking a cake, or making a creamy sauce, knowing how to measure coconut milk correctly ensures perfect results every time.</p>

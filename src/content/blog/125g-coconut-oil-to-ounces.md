@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of coconut oil equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re making crispy roasted vegetables or a decadent dessert, knowing how to convert grams to ounces can save time and hassle.</p>  

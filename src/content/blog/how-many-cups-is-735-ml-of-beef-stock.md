@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>735 ml of beef stock equals approximately 3.1 cups in the UK or 3.1 cups in the US. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're making a hearty stew or a rich gravy, knowing how to convert 735 ml of beef stock to cups ensures consistency in your cooking.</p>

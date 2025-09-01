@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chopped spinach equals approximately 6 ounces. This measurement is key for air fryer recipes, ensuring your dishes turn out perfectly balanced. Whether you're making a spinach-stuffed chicken or a crispy veggie side, knowing the weight helps with consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

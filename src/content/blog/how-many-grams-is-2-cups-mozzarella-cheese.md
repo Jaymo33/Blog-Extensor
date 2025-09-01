@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of shredded mozzarella cheese equals approximately 226 grams. This measurement is crucial for air fryer recipes where precision ensures even melting and perfect texture. Whether you're making a crispy air fryer pizza or gooey mozzarella sticks, knowing the exact gram equivalent of 2.0 cups helps avoid recipe mishaps.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of rolled oats equals approximately 0.18 ounces. Whether you're meal prepping or whipping up a quick breakfast in your air fryer, getting the measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting grams to ounces for UK measurements.</p>  

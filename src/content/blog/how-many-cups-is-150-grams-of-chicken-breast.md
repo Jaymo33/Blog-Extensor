@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of chicken breast equals approximately 0.75 cups when chopped or diced. This conversion is essential for air fryer recipes where precise measurements can affect cooking times and results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that getting your chicken portions right makes all the difference between juicy perfection and dry disappointment.</p>

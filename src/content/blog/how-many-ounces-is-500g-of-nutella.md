@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of Nutella equals approximately 17.64 ounces. This conversion is handy for recipes, especially when using an air fryer where precise measurements can make all the difference. Whether you're baking a cake or whipping up a quick dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>

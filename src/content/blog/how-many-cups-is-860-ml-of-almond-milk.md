@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of almond milk is roughly 3.63 cups. Whether you're whipping up a dairy-free cake or a creamy sauce in your air fryer, knowing this conversion ensures your recipe turns out perfectly. Almond milk is a popular alternative in many dishes, and getting the measurements right is key to nailing the texture and flavour. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you master these small but crucial details for flawless cooking.</p>

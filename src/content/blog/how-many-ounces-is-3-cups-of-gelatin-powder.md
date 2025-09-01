@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of gelatin powder equals approximately 24 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can affect texture and consistency. Whether you're making jelly, marshmallows, or a savoury glaze, knowing the weight ensures perfect results every time.</p>  

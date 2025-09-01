@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Gas Mark 2 to Fahrenheit Conversion</h2>

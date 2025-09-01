@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of rolled oats equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making overnight oats, granola, or baked goods, knowing how to convert grams to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping UK cooks adapt recipes for their air fryers with accurate measurements.</p>

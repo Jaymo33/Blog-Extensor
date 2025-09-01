@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating pizza in an air fryer at 160°C for 3-5 minutes restores its crispy base and gooey cheese perfectly. This method beats microwaving, which often leaves slices soggy, and is quicker than using a conventional oven. Whether you’re dealing with leftover delivery or homemade slices, your air fryer can bring them back to life with minimal effort.</p>

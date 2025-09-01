@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of plain flour equals approximately 7.3 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you're whipping up cakes, cookies, or bread, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple for hassle-free cooking.</p>

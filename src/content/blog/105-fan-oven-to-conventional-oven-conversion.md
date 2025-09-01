@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>105°C in a fan oven converts to approximately 120°C in a conventional oven. This slight increase ensures your dishes cook evenly without drying out. Understanding this conversion is crucial for perfect baking, especially when using recipes designed for fan ovens in a traditional oven.</p>

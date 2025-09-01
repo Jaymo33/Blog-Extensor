@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of sliced mushrooms weighs approximately 2.5 to 3 ounces (70 to 85 grams). This measurement is essential for air fryer recipes, ensuring accurate portions and perfect results every time. Whether you’re prepping a mushroom stir-fry or adding them to a casserole, knowing the weight helps with consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

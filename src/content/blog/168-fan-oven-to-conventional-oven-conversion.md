@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>168°C in a fan oven equals approximately 150°C in a conventional oven. This 10-20°C reduction is standard when converting fan-assisted temperatures to traditional oven settings. Whether you're using an air fryer or conventional oven, understanding this conversion ensures perfectly cooked meals every time.</p>

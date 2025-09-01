@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>347°F converts to Gas Mark 4 in UK ovens - a medium heat perfect for baking and roasting in both conventional ovens and air fryers. This temperature works particularly well for items that need gentle cooking with crisp finishing, from cakes to roasted vegetables.</p>

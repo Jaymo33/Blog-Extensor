@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>181 C in a fan oven is equivalent to approximately 160 C in a conventional oven. This 20-degree reduction is standard for fan-assisted cooking, ensuring even heat distribution without overcooking. Whether you're using an air fryer or fan oven, this conversion is essential for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend always checking your appliance manual for specific guidance. Many modern air fryers automatically adjust for fan oven settings, making conversions effortless.</p>

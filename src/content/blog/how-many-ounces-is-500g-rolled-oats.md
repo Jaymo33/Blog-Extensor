@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of rolled oats equals approximately 17.64 ounces. This conversion is essential for anyone using an air fryer to create perfectly portioned breakfasts or snacks. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing the exact weight ensures consistent results every time.</p>  

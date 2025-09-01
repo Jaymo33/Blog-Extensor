@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of turmeric equals approximately 1.6 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precise spice quantities can make or break a dish. Whether you’re making a curry, roasted vegetables, or a marinade, knowing how many ounces are in 0.33 cup of turmeric ensures consistent flavour. Turmeric’s vibrant colour and earthy taste are staples in many dishes, so getting the measurement right matters. For more air fryer conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

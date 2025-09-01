@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of vegetable broth equals approximately 14 fluid ounces (or 14 oz). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re making soups, stews, or marinades, knowing this conversion helps you follow recipes accurately.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of brown sugar equals approximately 50 grams. This conversion is essential for precise baking, especially when using an air fryer, where measurements can impact texture and cooking time. Whether you're whipping up cookies or a cake, knowing how many grams 0.25 cups of brown sugar is ensures consistent results every time.</p>  

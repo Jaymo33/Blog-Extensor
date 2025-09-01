@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>What is 204 C to Gas Mark?</h2>

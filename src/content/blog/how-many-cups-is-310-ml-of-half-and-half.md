@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of half and half equals approximately 1.31 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert 310 ml of half and half to cups ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless results.</p>  

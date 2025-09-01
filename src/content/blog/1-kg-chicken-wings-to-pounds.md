@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 kg of chicken wings equals approximately 2.20462 pounds, making it easy to convert between metric and imperial measurements for your cooking needs. This conversion is particularly useful when preparing air fryer recipes that might use different measurement systems. Whether you're following a British recipe or an American one, knowing how to convert 1 kg chicken wings to pounds ensures perfect portions every time. Many fantastic chicken wing recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use metric measurements, so this conversion knowledge is invaluable. Understanding this basic conversion will make your cooking experience much smoother and more enjoyable.</p>

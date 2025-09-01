@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of tomato sauce equals approximately 3.2 cups. This conversion is essential for air fryer recipes, ensuring you get the right consistency and flavour. Whether you're making pasta sauces, casseroles, or marinades, accurate measurements make all the difference. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

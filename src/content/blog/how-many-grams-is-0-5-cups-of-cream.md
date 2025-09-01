@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of cream is equivalent to approximately 120 grams. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing how many grams 0.5 cups of cream weighs ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

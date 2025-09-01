@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of broccoli is roughly equivalent to 2.5 to 3 cups when chopped, depending on the size of the florets. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you’re meal prepping or whipping up a quick side dish, knowing how many cups is 275 grams of broccoli ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of desiccated coconut equals approximately 3.5 ounces (or 100 grams) in the UK. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re baking coconut cookies or adding a crunchy topping to a dish, knowing the exact weight ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

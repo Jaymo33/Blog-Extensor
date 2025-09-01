@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of baking soda equals approximately 13.28 ounces (oz). This conversion is essential for air fryer recipes, ensuring your measurements are spot-on for perfect results every time. Whether you're whipping up crispy treats or fluffy cakes, precise quantities make all the difference.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of wholemeal flour equals approximately 0.18 ounces. This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making bread, cakes, or coating for fried foods, knowing how to convert grams to ounces is a game-changer.</p>

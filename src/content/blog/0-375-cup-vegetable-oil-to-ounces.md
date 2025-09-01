@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How many ounces is 0.375 cup of vegetable oil?</h2>  

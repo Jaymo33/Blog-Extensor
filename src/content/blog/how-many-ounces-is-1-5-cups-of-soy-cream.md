@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of soy cream equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're making a creamy sauce or a dairy-free dessert, knowing the exact weight ensures perfect results every time.</p>

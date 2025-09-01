@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of protein powder equals approximately 11.25 grams. This conversion is based on the standard UK measurement where 1 tablespoon of protein powder weighs around 15 grams. If you're using an air fryer to cook protein-rich meals or snacks, knowing this conversion ensures you get the right portion every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>382 fan oven equals approximately 350°F in a conventional oven. This conversion ensures your recipes turn out just right, whether you're baking, roasting, or using an air fryer. Understanding these differences is key to avoiding undercooked or overcooked dishes.</p>

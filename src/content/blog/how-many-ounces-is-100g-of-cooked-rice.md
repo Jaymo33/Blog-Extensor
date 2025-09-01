@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of cooked rice equals approximately 3.53 ounces. Whether you're meal prepping or following a recipe, knowing this conversion ensures accurate portions for your air fryer dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify measurements so you can focus on cooking delicious meals effortlessly.</p>  

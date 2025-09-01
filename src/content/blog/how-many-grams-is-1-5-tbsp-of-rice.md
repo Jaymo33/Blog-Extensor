@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of rice is approximately 18 grams, though this can vary slightly depending on the type of rice. Whether you're using an air fryer or preparing a stovetop dish, knowing this conversion ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for consistent results.</p>

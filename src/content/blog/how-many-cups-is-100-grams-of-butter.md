@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of butter is roughly equivalent to 0.44 cups (or just under half a cup) in both UK and US measurements. This conversion is essential for baking and air frying, where precision can make or break a recipe. Whether you're whipping up cakes or crisping potatoes, knowing how to measure butter correctly ensures consistent results every time.</p>

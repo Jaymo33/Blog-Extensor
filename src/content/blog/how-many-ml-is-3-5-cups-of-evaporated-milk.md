@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of evaporated milk equals 828 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy dessert or a savoury dish, getting the quantities right ensures consistency and flavour.</p>

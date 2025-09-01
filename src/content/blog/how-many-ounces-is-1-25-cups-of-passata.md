@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of passata equals approximately 10 ounces (UK). This conversion is essential for air fryer recipes where precise measurements ensure consistent results. Whether you’re making a rich tomato sauce or a hearty stew, knowing the exact weight of passata helps achieve the perfect texture and flavour. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and easy-to-follow guides.</p>  

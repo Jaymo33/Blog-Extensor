@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of butter equals 10 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or preparing a savoury dish, knowing how to convert cups to ounces ensures consistency and perfect results every time.</p>

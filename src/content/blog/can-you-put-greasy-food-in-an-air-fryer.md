@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put greasy food in an air fryer, but moderation and preparation are key. While air fryers excel at crisping foods with minimal oil, excessively greasy items need special attention to prevent smoke, splattering, or potential fire risks. At airfryerrecipe.co.uk, we recommend patting down oily foods with kitchen paper before cooking to remove excess grease.</p>

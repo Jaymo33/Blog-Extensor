@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of yogurt is approximately 2 cups. This conversion is handy whether you're baking, cooking, or meal prepping with your air fryer. Getting measurements right ensures your recipes turn out perfectly every time.</p>

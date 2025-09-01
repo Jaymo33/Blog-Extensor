@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of margarine equals approximately 42 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up crispy roast potatoes or a batch of air-fried cookies, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate conversions and delicious recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of half and half equals approximately 2.68 cups. Whether you're baking a cake or preparing a creamy sauce in your air fryer, knowing this conversion ensures your recipe turns out perfectly. Half and half, a blend of milk and cream, is commonly used in both sweet and savoury dishes, so getting the measurement right is key.</p>  

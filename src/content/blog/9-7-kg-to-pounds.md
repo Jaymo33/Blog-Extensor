@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9.7 kg is equal to 21.3848 pounds, a conversion that's incredibly useful for anyone using an air fryer to cook larger cuts of meat or batch-prepare meals. Getting your weights right is the first step to nailing cooking times and temperatures in your appliance. Whether you're roasting a joint or prepping freezer-friendly portions, knowing how to convert 9.7 kg to pounds ensures you never have to guess. This guide will walk you through the simple maths and its practical applications in your kitchen. For a comprehensive list of conversions, our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> is an invaluable resource.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of plain flour is approximately 2.8 cups when measured correctly. This conversion is essential for baking and air frying, where precise measurements can make or break your recipe. Whether you're whipping up a cake or coating chicken for the air fryer, knowing how to convert grams to cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect dishes every time.</p>

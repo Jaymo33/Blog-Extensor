@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of gelatin powder equals approximately 2.5 ounces (70 grams). This conversion is essential for air fryer recipes, especially when making desserts or jellies that require precise measurements. Whether you're whipping up a quick mousse or a layered dessert, knowing the exact weight ensures perfect results every time.</p>

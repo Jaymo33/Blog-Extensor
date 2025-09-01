@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of cocoa powder equals approximately 150 grams, making it easy to measure for your baking needs. Whether you're whipping up brownies, cakes, or hot chocolate in your air fryer, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for air fryer recipes, so let’s break down the conversion in detail.</p>  

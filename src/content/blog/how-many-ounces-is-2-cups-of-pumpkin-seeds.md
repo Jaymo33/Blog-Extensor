@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of pumpkin seeds weigh approximately 10 ounces (283 grams). This measurement is key for air fryer recipes, ensuring accurate portions for roasting or baking. Whether you're prepping a snack or adding crunch to salads, knowing this conversion helps avoid guesswork.</p>  

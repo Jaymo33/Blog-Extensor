@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of vinegar equals approximately 1.42 cups (US) or 1.18 cups (UK). Whether you're marinating chicken or whipping up a tangy glaze for air-fried veggies, getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters—especially when balancing acidity in recipes like air-fryer pulled pork or quick-pickled onions.</p>  

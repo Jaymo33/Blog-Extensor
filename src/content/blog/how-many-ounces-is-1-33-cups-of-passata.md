@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of passata equals approximately 10.64 ounces, making it easy to measure for air fryer recipes. Whether you're whipping up a quick pasta sauce or a rich tomato base for dishes, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking measurements so you can focus on flavour.</p>  

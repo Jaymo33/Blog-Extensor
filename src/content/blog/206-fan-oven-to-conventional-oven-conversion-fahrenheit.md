@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>206 fan oven converts to approximately 392°F in a conventional oven. This conversion is essential for baking and roasting when switching between fan-assisted and traditional ovens. Understanding this temperature adjustment ensures your dishes cook evenly and come out perfectly every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a> or adapting your own, getting the temperature right is crucial. For air fryer users, this conversion also helps when translating oven recipes to your appliance.</p>

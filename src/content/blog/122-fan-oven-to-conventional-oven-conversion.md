@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>122 fan oven converts to approximately 150°C in a conventional oven. This conversion is essential for achieving the same cooking results when switching between oven types. Fan ovens circulate hot air, cooking food faster and more evenly, while conventional ovens rely on radiant heat. Understanding this difference helps prevent under or overcooking your dishes.</p>

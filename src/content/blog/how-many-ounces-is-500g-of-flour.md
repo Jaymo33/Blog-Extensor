@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of flour equals approximately 17.64 ounces. Whether you're baking in an air fryer or using a traditional oven, accurate measurements are key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important precise conversions are for recipes, especially when working with air fryers where ingredient ratios matter.</p>  

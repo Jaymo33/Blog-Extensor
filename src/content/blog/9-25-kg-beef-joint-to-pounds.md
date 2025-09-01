@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9.25 kg is equal to approximately 20.39 pounds, making it a substantial cut perfect for feeding a crowd or meal prepping. Whether you're roasting in a conventional oven or using your air fryer, knowing the exact weight in pounds helps you calculate cooking time accurately. This conversion is essential for following recipes, especially those from American sources that commonly use pounds. At airfryerrecipe.co.uk, we understand the importance of precise measurements for perfect results. Converting 9.25 kg beef joint to pounds ensures your roast is cooked to juicy perfection every time.</p>

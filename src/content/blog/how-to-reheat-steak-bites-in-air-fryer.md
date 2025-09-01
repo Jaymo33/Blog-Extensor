@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat steak bites in an air fryer, preheat to 180°C (350°F) and cook for 2–3 minutes until warmed through. This method restores crispiness while keeping the centre tender – far better than microwaving. Whether you’re reheating leftovers from last night’s dinner or meal-prepped steak bites, your air fryer delivers restaurant-quality results in minutes.</p>

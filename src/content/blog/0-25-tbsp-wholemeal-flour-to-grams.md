@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of wholemeal flour equals approximately 1.9 grams. This precise conversion ensures your air fryer recipes turn out perfectly every time. Whether you're baking air fryer cakes or coating chicken, accurate measurements matter. Wholemeal flour, being denser than plain flour, requires careful weighing for consistency. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference.</p>  

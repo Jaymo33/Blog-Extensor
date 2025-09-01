@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>317°F converts to Gas Mark 3 for conventional ovens and air fryers. This medium heat setting is perfect for slow baking, roasting vegetables, or cooking delicate items that need gentle heat. Whether you're adapting an oven recipe for your air fryer or checking temperature equivalents, this conversion will help you achieve consistent results.</p>

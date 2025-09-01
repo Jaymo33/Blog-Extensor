@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How many ounces is 250g of self-raising flour?</h2>  

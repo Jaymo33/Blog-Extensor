@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of marmalade is approximately 0.88 ounces. This conversion is essential for anyone using an air fryer to cook or bake with marmalade, as precise measurements can make all the difference in your recipes. Whether you're making a glaze for ham or a sweet topping for cakes, knowing how many ounces 25g of marmalade equals ensures accuracy and consistency.</p>

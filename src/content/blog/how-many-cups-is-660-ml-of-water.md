@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of water equals approximately 2.79 cups in the UK or 2.8 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're cooking, baking, or just need to measure liquids, knowing how to convert millilitres to cups is a kitchen must-have.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000 grams (g) of crushed garlic equals approximately 35.27 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re meal prepping or following a specific dish, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify cooking conversions for hassle-free air frying.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25 grams of breadcrumbs equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re coating chicken, fish, or vegetables, knowing how to convert 25g breadcrumbs to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions and tips.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of tikka paste equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're marinating chicken or preparing a quick curry, knowing the exact weight helps avoid over-seasoning or underwhelming results. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

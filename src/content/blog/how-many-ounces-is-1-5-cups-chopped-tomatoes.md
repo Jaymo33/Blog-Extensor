@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of chopped tomatoes equals approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a hearty stew or a fresh salsa, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to help you cook with confidence. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

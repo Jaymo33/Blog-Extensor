@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9 kg of chicken breast converts to approximately 19.84 pounds, making it essential knowledge for bulk cooking and accurate meal planning. This conversion is particularly useful when working with large quantities of chicken breast, whether you're preparing family meals or stocking up for the week. Understanding this 9 kg chicken breast to pounds conversion ensures you can follow recipes precisely and portion your meals correctly. For air fryer users, knowing the exact weight helps in determining cooking times and temperatures for perfect results. You can find more helpful conversion guides at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your cooking experience seamless.</p>

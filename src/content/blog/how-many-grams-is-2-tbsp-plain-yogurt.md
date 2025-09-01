@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of plain yogurt weigh approximately 30 grams. This measurement is handy for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making marinades, dips, or baked goods, knowing this conversion helps streamline your cooking process.</p>  

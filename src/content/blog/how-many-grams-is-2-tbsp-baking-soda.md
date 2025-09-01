@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of baking soda equals approximately 28 grams (g). This conversion is essential for precise baking or cleaning, especially when using an air fryer. Whether you're whipping up a cake or deep-cleaning your appliance, knowing the exact weight ensures consistent results.</p>  

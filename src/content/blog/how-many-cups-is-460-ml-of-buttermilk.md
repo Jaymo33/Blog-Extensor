@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of buttermilk is approximately 1.94 cups in the US measurement system and roughly 1.62 cups in the UK system. Whether you're baking or cooking in your air fryer, getting the right measurement is crucial for perfect results. This guide will help you convert 460 ml of buttermilk to cups accurately, ensuring your recipes turn out just right every time.</p>

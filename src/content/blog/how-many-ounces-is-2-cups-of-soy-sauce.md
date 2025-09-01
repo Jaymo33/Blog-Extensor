@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of soy sauce equals approximately 16 fluid ounces (or 16 oz) in the UK. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you’re marinating chicken or whipping up a stir-fry, knowing how many ounces are in 2 cups of soy sauce helps you nail the recipe every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

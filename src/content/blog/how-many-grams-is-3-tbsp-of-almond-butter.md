@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of almond butter weigh approximately 48 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you're making energy bites, sauces, or baked goods, knowing the exact weight helps avoid guesswork. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

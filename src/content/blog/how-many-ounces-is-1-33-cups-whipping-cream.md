@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of whipping cream equals approximately 10.64 ounces. This conversion is essential for anyone using precise measurements in baking or air fryer recipes. Whether you're whipping up a dessert or adding cream to a savoury dish, knowing the exact weight ensures perfect results every time.</p>

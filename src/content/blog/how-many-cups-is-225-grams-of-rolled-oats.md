@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of rolled oats is approximately 2.5 cups when measured using standard UK or US cup measurements. This conversion is essential for recipes where precision matters, especially in air frying where ingredient ratios can affect texture and cooking times. Whether you're making overnight oats, granola, or baking, knowing how to convert 225 grams of rolled oats to cups ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>352°F converts to Gas Mark 4, the perfect setting for baking, roasting, and air frying in the UK. Whether you're adjusting an oven recipe for your air fryer or checking temperatures for a classic British bake, this conversion is essential for consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple, so you can focus on cooking delicious meals without the guesswork.</p>

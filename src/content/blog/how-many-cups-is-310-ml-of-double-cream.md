@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of double cream equals approximately 1.31 cups. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a dessert or preparing a creamy sauce, knowing how to convert millilitres to cups ensures consistency and success.</p>

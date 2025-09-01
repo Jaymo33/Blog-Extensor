@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of sugar syrup equals approximately 11.5 ounces. This measurement is essential for precision in recipes, especially when using an air fryer where exact quantities can affect texture and cooking times. Whether you're making glazes, desserts, or marinades, knowing how to convert 1 cup of sugar syrup to ounces ensures consistency in your dishes. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

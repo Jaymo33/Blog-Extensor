@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of buttermilk equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re whipping up pancakes, fried chicken, or a moist cake, knowing how to convert 3 cups of buttermilk to ounces is a game-changer.</p>  

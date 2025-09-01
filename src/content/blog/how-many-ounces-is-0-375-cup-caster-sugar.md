@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of caster sugar equals approximately 2.65 ounces. This conversion is essential for baking, especially when using an air fryer, where precise measurements can affect texture and taste. Whether you're making cakes, cookies, or desserts, knowing how to convert 0.375 cup of caster sugar to ounces ensures consistency in your recipes.</p>

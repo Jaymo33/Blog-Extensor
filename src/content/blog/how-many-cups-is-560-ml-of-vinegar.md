@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of vinegar is approximately 2.37 cups in the US measurement system and 2.46 cups in the UK. This conversion is essential for precise cooking, especially when using an air fryer for marinating or baking. Whether you're preparing a tangy glaze for chicken or a zesty dressing for vegetables, knowing the exact measurement ensures consistency in your dishes.</p>  

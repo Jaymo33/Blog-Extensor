@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>453 F converts to Gas Mark 8, making it a high-heat setting ideal for roasting, baking, and air frying. This temperature is perfect for achieving crispy textures and even cooking in your air fryer. Whether you’re preparing a Sunday roast or baking pastries, knowing this conversion ensures your dishes turn out perfectly every time. For more air fryer temperature guides, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a>.</p>

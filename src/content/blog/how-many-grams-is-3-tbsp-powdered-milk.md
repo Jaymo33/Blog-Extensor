@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of powdered milk equals approximately 21 grams. This conversion is essential for air fryer recipes where precision matters, whether you're baking, making sauces, or preparing meals. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements can make or break a dish, especially when using powdered milk in air fryer-friendly recipes like cakes or creamy sauces.</p>

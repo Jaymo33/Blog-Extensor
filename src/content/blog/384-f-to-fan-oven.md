@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>384°F converts to approximately 196°C in a fan oven. This temperature is ideal for many air fryer recipes that need a crisp finish without drying out your food. Understanding this conversion helps when adapting recipes between appliances.</p>

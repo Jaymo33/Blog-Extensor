@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>455 F converts to approximately 220 C in a fan oven. This is the standard equivalent for most air fryer recipes requiring high heat. Whether you're cooking crispy chips or roasting vegetables, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions effortless for home cooks.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of garlic paste equals approximately 45 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect flavour balance. Whether you're whipping up a marinade or seasoning meats, knowing the exact weight helps avoid over or under-seasoning. Garlic paste is a staple in many dishes, from curries to roasted vegetables, and getting the measurement right can elevate your cooking. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

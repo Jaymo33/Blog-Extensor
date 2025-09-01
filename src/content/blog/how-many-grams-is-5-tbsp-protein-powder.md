@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of protein powder typically equals around 40 grams, though this can vary slightly depending on the brand and density of the powder. If you're using an air fryer for protein-packed recipes, accurate measurements ensure perfect results every time. Whether you're meal prepping or whipping up a quick post-workout snack, knowing how to convert 5 tbsp protein powder to grams is essential. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of peanut butter equals approximately 20 ounces (UK). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and consistency. Whether you're whipping up peanut butter cookies or a satay sauce, knowing the exact weight helps avoid kitchen mishaps.</p>  

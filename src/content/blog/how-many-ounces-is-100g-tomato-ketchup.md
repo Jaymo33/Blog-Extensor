@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of tomato ketchup equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can impact texture and flavour. Whether you’re making crispy chicken wings or loaded potato skins, getting the right amount of ketchup ensures your dish turns out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

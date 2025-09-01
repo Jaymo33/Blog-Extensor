@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of vegetable oil equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying, baking, or roasting, knowing how many ounces are in 2 cups of vegetable oil ensures consistent results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

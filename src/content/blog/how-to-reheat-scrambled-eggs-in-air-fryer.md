@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating scrambled eggs in an air fryer at 150°C for 2-3 minutes gives you perfectly warm, fluffy results without drying them out. This method beats microwaving, which often leaves eggs rubbery, and saves time compared to stovetop reheating. Whether you’ve got leftovers from breakfast or meal-prepped eggs, your air fryer can revive them beautifully. For more air fryer breakfast ideas, check out our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a>.</p>

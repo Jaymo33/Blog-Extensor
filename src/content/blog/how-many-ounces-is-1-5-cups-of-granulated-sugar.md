@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of granulated sugar equals approximately 10.58 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you're whipping up cakes, cookies, or desserts, knowing the exact weight helps avoid baking mishaps. For more air fryer-friendly measurements, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

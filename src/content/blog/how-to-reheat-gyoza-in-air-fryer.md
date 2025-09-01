@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat gyoza in an air fryer, preheat to 180°C (350°F) and cook for 3-4 minutes until crispy. This method restores the perfect texture far better than microwaving, giving you golden-brown results that taste freshly made. Whether you're working with fridge-cold leftovers or frozen gyoza, your air fryer is the ideal tool for revival. At airfryerrecipe.co.uk, we've tested this technique extensively across multiple air fryer models for consistent perfection.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of shredded coconut equals approximately 12 ounces. This measurement is crucial for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making coconut shrimp or a tropical dessert, knowing this conversion helps avoid kitchen mishaps.</p>

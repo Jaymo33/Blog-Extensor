@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of olive oil equals approximately 0.71 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're drizzling oil over vegetables or coating chicken wings, knowing the exact weight ensures perfect results every time.</p>  

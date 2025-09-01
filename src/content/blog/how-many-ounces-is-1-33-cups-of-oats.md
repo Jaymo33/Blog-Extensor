@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of oats equals approximately 4.25 ounces. This conversion is essential for air fryer recipes, ensuring you get the perfect texture and consistency every time. Whether you’re making granola, oat bars, or a crunchy topping, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for air fryer success.</p>  

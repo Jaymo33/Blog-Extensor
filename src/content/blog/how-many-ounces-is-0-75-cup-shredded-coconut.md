@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of shredded coconut equals approximately 2.25 ounces (64 grams) in UK measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're making coconut-crusted chicken or a tropical dessert, knowing the exact weight helps avoid dry or overly dense results.</p>

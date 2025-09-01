@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of heavy cream is approximately 1 cup in US measurements or just under 1 cup (0.99 cups) in UK metric conversions. This small difference matters in baking, so knowing the exact conversion ensures your recipes turn out perfectly every time. Whether you're whipping up a creamy dessert or adding richness to a sauce, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precision, especially when using an air fryer for delicate dishes.</p>  

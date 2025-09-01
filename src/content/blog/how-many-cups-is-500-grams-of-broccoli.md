@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of broccoli roughly equals 4 to 5 cups when chopped, depending on how finely it’s cut. This conversion is handy for air fryer recipes where precision ensures even cooking. Whether you’re making crispy broccoli bites or a healthy side dish, knowing the right measurement helps avoid overloading your air fryer basket. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

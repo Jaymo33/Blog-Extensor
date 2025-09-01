@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 kg equals approximately 66.14 pounds, making it essential knowledge for anyone working with larger quantities in the kitchen, especially when using an air fryer. Whether you're meal prepping, buying ingredients in bulk, or scaling recipes, understanding how to convert 30 kg to pounds ensures accuracy and consistency. This conversion becomes particularly useful when dealing with meat, vegetables, or frozen foods that often come in kilogram measurements but require pound-based portioning for air frying. At airfryerrecipe.co.uk, we believe precise measurements lead to perfectly cooked meals every time. Knowing that 30 kg to pounds translates to about 66.14 lbs helps you plan better and avoid overloading your air fryer basket.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of chicken broth equals approximately 0.78 cups. This conversion is handy when following recipes that list ingredients in millilitres but require cup measurements. Whether you're preparing a soup, stew, or an air fryer dish, knowing this conversion ensures accuracy and perfect results every time.</p>

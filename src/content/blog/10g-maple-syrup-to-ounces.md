@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of maple syrup equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling it over air-fried pancakes or using it as a glaze for chicken, knowing the exact weight ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

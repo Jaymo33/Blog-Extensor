@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of ground cinnamon equals approximately 2.64 ounces (oz). This conversion is essential for precise measurements in baking and air fryer recipes, ensuring consistent results every time.</p>  

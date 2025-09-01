@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of molasses equals approximately 0.71 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a sticky glaze or a rich dessert, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>  

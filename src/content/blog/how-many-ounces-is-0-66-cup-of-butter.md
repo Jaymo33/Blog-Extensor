@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of butter equals approximately 5.28 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're baking or preparing a savoury dish, knowing the exact weight ensures consistent results every time.</p>

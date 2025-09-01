@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of flaxseed equals approximately 4.8 ounces (or 136 grams) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're baking flaxseed muffins or adding it to granola, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

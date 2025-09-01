@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of sunflower oil equals approximately 5.28 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying, roasting, or baking, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly. Let’s dive deeper into why this measurement matters and how to use it in your cooking.</p>  

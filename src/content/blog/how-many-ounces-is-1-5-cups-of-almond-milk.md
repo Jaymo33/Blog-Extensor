@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of almond milk equals 12 fluid ounces (fl oz) in the UK and US measurement systems. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're whipping up a creamy sauce or baking a dairy-free dessert, knowing how to measure almond milk accurately is key.</p>

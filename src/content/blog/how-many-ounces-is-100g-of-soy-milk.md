@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of soy milk equals approximately 3.53 ounces. This conversion is essential for anyone using precise measurements in cooking, especially when preparing air fryer recipes. Whether you're whipping up a creamy sauce or baking a dairy-free dessert, knowing the exact weight ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of flour equals approximately 8.82 ounces. This conversion is essential for anyone baking in an air fryer, where precise measurements can make or break a recipe. Whether you’re whipping up cakes, cookies, or bread, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate measurements and easy-to-follow guides.</p>  

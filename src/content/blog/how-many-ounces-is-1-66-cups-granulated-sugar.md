@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of granulated sugar equals approximately 13.28 ounces (or 13 ¼ oz for practical measuring). This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or sweet treats. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that getting measurements right makes all the difference between a perfect bake and a kitchen disaster.</p>

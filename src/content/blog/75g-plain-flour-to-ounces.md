@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of plain flour equals approximately 2.65 ounces. This conversion is essential for air fryer recipes, where precise measurements can affect texture and cooking times. Whether you're whipping up cakes, cookies, or breaded dishes in your air fryer, knowing how to convert grams to ounces ensures consistent results every time.</p>

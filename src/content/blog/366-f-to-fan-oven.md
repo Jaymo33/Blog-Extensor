@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>366 F converts to approximately 170 C in a fan oven. This temperature is ideal for baking, roasting, and air frying, offering even heat distribution for consistent results. Whether you're adapting recipes or comparing appliances, understanding this conversion is key to kitchen success.</p>

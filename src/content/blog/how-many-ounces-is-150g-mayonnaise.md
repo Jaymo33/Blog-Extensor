@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of mayonnaise is approximately 5.29 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're preparing a creamy dip or a rich sauce, knowing the exact weight ensures your dish turns out perfectly.</p>

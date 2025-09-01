@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>373 F is equivalent to Gas Mark 5, a common setting for roasting and baking in both ovens and air fryers. This temperature is perfect for cooking dishes like roasted vegetables, cakes, and even some meats. If you're using an air fryer, knowing this conversion helps you adapt traditional oven recipes effortlessly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Whether you're baking or roasting, Gas Mark 5 (373 F) delivers consistent, reliable results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>144 fan oven converts to approximately 160°C in a conventional oven. This 16-degree difference accounts for the more efficient heat distribution in fan-assisted ovens. Whether you're adapting recipes or troubleshooting baked goods, understanding this conversion is essential for air fryer users who often need to translate oven temperatures.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of honey is roughly equivalent to 0.8 cups in the UK and 0.9 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making glazes, marinades, or desserts, knowing how to convert grams to cups ensures your dish turns out perfectly every time.</p>

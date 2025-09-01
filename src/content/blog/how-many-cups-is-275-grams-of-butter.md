@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of butter is roughly equivalent to 1.2 cups in the UK or 1.16 cups in the US. Whether you're baking a cake or preparing a savoury dish in your air fryer, accurate measurements are key to perfect results. This guide will help you convert 275 grams of butter to cups effortlessly, ensuring your recipes turn out just right every time.</p>  

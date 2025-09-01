@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put a butter wrapper in an air fryer. The thin paper can melt, catch fire, or release harmful chemicals when exposed to high heat. At airfryerrecipe.co.uk, we always prioritise safety alongside convenience in the kitchen.</p>

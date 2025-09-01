@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of porridge oats equals approximately 1.5 ounces (42 grams). This measurement is essential for air fryer recipes, ensuring consistent texture and cooking times. Whether you’re making overnight oats or crispy granola, knowing the exact weight helps achieve perfect results every time.</p>  

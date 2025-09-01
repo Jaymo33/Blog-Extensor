@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5.25 kilograms is equal to approximately 11.57 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when buying ingredients in bulk. Knowing how to convert 5.25 kg to pounds can help you portion meals accurately and avoid overloading your appliance. It also ensures you get cooking times and temperatures just right for perfect results every time. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

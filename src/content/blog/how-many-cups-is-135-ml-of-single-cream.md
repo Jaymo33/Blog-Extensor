@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of single cream is approximately 0.57 cups. This conversion is essential for anyone using recipes that require precise measurements, especially when working with air fryers where ingredient ratios can affect cooking times and textures. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert millilitres to cups ensures consistency in your dishes.</p>

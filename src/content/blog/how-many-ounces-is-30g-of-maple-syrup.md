@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of maple syrup is approximately 1.06 ounces. If you're using an air fryer and need precise measurements for recipes, this conversion is essential. Whether you're drizzling it over roasted vegetables or glazing chicken, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

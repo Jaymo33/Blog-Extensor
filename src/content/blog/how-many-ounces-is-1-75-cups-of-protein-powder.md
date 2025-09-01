@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of protein powder equals approximately 14 ounces (oz) in UK measurements. This conversion is essential for precise cooking, especially when preparing protein-rich meals in your air fryer. Whether you're baking protein cookies or making high-protein snacks, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

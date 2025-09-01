@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of jam equals approximately 5.29 ounces. This conversion is handy for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're making jam-filled pastries or glazing meats, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love simplifying kitchen maths so you can focus on cooking. Let’s dive deeper into jam measurements and conversions.</p>

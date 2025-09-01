@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of baking soda equals approximately 60 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making fluffy cakes or crispy snacks, knowing the exact weight ensures consistent results every time.</p>  

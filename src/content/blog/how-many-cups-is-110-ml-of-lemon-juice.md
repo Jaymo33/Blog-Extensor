@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of lemon juice is approximately 0.46 cups (just under half a cup). If you're preparing a zesty marinade or a tangy dessert in your air fryer, this conversion ensures accuracy for perfect results every time. Whether you're following a British or American recipe, knowing how to measure lemon juice correctly can make all the difference.</p>  

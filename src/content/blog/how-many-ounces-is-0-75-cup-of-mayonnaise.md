@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of mayonnaise equals approximately 6 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a batch of crispy chicken or a creamy dip, knowing how many ounces are in 0.75 cup of mayonnaise ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of accurate measurements for perfect results every time.</p>

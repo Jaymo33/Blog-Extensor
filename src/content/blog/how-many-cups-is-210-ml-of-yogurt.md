@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of yogurt is approximately 0.89 cups, making it just under a full cup. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a cake or marinating chicken, knowing how many cups 210 ml of yogurt equals ensures your dish turns out perfectly.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of maple syrup equals approximately 3.2 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes that require precise measurements. Whether you're making glazes, marinades, or sweet treats, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>  

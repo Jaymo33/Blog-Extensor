@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of single cream equals approximately 10 fluid ounces (fl oz) in the UK. This conversion is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you're making a rich dessert or a savoury sauce, knowing the exact measurement helps avoid kitchen mishaps.</p>  

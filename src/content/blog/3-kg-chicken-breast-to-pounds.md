@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 kg of chicken breast converts to approximately 6.614 pounds, making it easier to portion and cook in your air fryer. This conversion is essential for following recipes accurately, especially when dealing with larger quantities for meal prep or family dinners. Whether you're using fresh or frozen chicken, knowing the weight in pounds helps you adjust cooking times and temperatures perfectly. Many air fryer recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use pound measurements, so this conversion is incredibly handy. Understanding how to convert 3 kg chicken breast to pounds ensures your meals turn out delicious every time.</p>

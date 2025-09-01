@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of half and half equals approximately 0.89 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert 210 ml of half and half to cups ensures accuracy.</p>

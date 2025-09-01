@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of wholemeal flour equals approximately 0.5 ounces (oz). This conversion is essential for air fryer baking, where precision ensures perfect results every time. Whether you're making muffins, bread, or cookies, knowing the exact weight of your ingredients can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless air fryer recipes.</p>  

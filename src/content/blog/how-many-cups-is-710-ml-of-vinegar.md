@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of vinegar equals approximately 3 cups in both UK and US measurements. This conversion is essential for precise cooking, especially when using an air fryer where exact liquid measurements can impact texture and flavour. Whether you're marinating chicken or preparing a tangy glaze, knowing how many cups is 710 ml of vinegar ensures your dish turns out perfectly.</p>  

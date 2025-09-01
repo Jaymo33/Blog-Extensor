@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of broccoli equals approximately 1.25 cups when chopped. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a quick side dish or adding broccoli to a main course, knowing how many cups is 125 grams of broccoli ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for UK home cooks.</p>

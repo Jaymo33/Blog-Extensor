@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>217 C converts to approximately 190 C in a fan oven. This is because fan ovens circulate hot air, allowing you to reduce the temperature by around 20-25 degrees while maintaining the same cooking results. Whether you're using a traditional fan oven or an air fryer (which works similarly to a convection oven), this conversion ensures your food cooks evenly without drying out.</p>

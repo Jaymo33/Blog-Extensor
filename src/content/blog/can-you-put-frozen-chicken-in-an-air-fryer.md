@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can absolutely put frozen chicken in an air fryer. In fact, air frying frozen chicken is one of the most convenient ways to prepare it, eliminating the need for lengthy defrosting while delivering crispy, evenly cooked results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we regularly test frozen chicken in various air fryer models to provide reliable guidance.</p>

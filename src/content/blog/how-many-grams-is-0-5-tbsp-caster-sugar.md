@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of caster sugar equals approximately 6.25 grams in UK measurements. This conversion is essential for accurate baking, especially when using an air fryer where precision matters. Whether you're whipping up cakes, cookies, or desserts, knowing the exact weight ensures perfect results every time.</p>

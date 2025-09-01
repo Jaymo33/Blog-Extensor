@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9.6 kg is equal to approximately 21.164 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when dealing with food packaging from different regions. Knowing how to convert 9.6 kg to pounds ensures you use the correct ingredient amounts, leading to better cooking results. Whether you're preparing a large batch of chicken or weighing potatoes for roasting, accurate measurements matter. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of milk equals approximately 2.15 cups in the UK or 2.16 cups in the US. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 510 ml of milk to cups ensures consistency in your dishes.</p>

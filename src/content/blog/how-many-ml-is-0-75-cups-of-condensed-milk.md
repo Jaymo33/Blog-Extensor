@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of condensed milk equals approximately 177 ml. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you're making a creamy dessert or a savoury dish, knowing the exact ml equivalent ensures consistency.</p>

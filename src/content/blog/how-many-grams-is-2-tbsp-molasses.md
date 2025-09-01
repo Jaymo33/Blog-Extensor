@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of molasses weigh approximately 40 grams in the UK. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making sticky glazes, marinades, or baked goods, knowing the exact weight helps avoid guesswork. Molasses adds depth and sweetness, so getting the measurement right is key. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

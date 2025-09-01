@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of olive oil equals approximately 224 grams. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're whipping up crispy roast potatoes or a moist cake, knowing the exact weight ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put certain oven-safe dishes in an air fryer, but with important caveats. The key factors are material composition, size, and temperature limits. At airfryerrecipe.co.uk, we always recommend checking manufacturer guidelines first.</p>

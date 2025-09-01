@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of milk equals approximately 59 ml, making it easy to measure for air fryer recipes. Whether you're whipping up a cake or a creamy sauce, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking measurements so you can focus on perfecting your dishes.</p>

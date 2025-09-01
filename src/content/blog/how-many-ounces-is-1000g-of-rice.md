@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of rice equals approximately 35.27 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you're meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing how to convert grams to ounces ensures accuracy. Let’s dive deeper into why this matters and how to apply it in your kitchen.</p>  

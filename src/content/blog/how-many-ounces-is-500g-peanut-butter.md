@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of peanut butter is approximately 17.64 ounces. Whether you're whipping up a batch of cookies or prepping a savoury sauce, knowing this conversion ensures your air fryer recipes turn out just right. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when working with ingredients like peanut butter, which can vary in density.</p>  

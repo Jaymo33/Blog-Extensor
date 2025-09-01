@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of baking soda equals approximately 8.82 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements. Whether you’re baking or cleaning your air fryer, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you get the measurements right every time.</p>  

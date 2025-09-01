@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of mayonnaise equals approximately 8.82 ounces. This conversion is essential when following air fryer recipes that require precise measurements for perfect results. Whether you're making crispy coatings or creamy dips, knowing your conversions ensures your dish turns out just right.</p>

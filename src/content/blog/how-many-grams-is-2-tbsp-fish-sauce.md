@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of fish sauce weigh approximately 30 grams (g). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or dipping sauces. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion helps maintain consistency.</p>  

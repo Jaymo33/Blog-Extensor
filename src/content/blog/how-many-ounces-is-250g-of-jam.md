@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of jam equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a glaze for air-fried pastries or a sweet topping for desserts, knowing how many ounces 250g of jam is ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements spot-on for flawless cooking. Keep reading to learn more about converting grams to ounces and why it matters for your air fryer creations.</p>  

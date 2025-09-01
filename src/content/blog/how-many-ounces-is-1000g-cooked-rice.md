@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of cooked rice equals approximately 35.27 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing meals in an air fryer. Whether you're meal prepping or cooking a quick dinner, knowing this measurement ensures accuracy and consistency.</p>

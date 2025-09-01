@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>146 C converts to approximately 130 C in a fan oven. This 20-degree reduction is standard when adapting conventional oven recipes for fan-assisted cooking. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures perfect results every time.</p>

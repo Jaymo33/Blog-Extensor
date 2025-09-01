@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of pineapple juice equals 20 fluid ounces (or approximately 20 oz). Whether you're prepping a marinade or crafting a tropical glaze for air fryer dishes, accurate measurements ensure perfect results every time.</p>  

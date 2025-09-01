@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of honey weigh approximately 42 grams (g). This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're glazing chicken or sweetening desserts, knowing the exact weight helps avoid over or under-measuring.</p>

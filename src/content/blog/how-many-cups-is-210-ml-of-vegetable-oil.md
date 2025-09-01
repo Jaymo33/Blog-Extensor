@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of vegetable oil equals approximately 0.89 cups (just under 1 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're frying, baking, or roasting, knowing how to convert ml to cups ensures consistent results every time.</p>

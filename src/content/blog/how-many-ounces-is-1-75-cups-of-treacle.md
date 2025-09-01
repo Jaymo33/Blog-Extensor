@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of treacle equals approximately 14 fluid ounces (or 14 oz) in the UK. This conversion is essential for baking, especially when using an air fryer for desserts like sticky toffee pudding or treacle tart. Whether you're scaling a recipe or adjusting measurements, knowing the exact weight ensures perfect results every time.</p>  

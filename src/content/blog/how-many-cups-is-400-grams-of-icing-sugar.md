@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of icing sugar is roughly equivalent to 3.2 cups in the UK and 3.3 cups in the US. This conversion is essential for bakers who rely on precise measurements for perfect results. Whether you're making frosting, dusting desserts, or preparing a cake batter, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements in baking, especially when using an air fryer for desserts.</p>

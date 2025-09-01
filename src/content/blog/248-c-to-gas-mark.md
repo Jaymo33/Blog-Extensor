@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>248°C converts to Gas Mark 9. This is the standard equivalent used in UK ovens and applies to most air fryer conversions too. Whether you're baking, roasting or air frying, knowing this conversion helps achieve perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making temperature conversions simple for home cooks.</p>

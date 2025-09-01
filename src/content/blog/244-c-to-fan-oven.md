@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>244°C in a fan oven is equivalent to approximately 220°C when using the convection setting. This slight reduction accounts for the efficient heat circulation in fan-assisted ovens and air fryers. Whether you're baking, roasting, or using your air fryer, this conversion ensures perfect results every time.</p>

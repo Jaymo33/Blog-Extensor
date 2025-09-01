@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of icing sugar is equal to approximately 0.18 ounces. This conversion is essential for precision in baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're dusting desserts or whipping up a cake, knowing the exact weight ensures consistency. For more air fryer baking tips, visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

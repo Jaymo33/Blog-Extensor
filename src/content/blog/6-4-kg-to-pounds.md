@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>6.4 kg is equal to 14.1096 pounds, which is typically rounded to 14.1 pounds for most practical kitchen purposes. This conversion is essential when you're dealing with larger quantities of ingredients, especially for meal prepping or cooking for a crowd using your air fryer. Whether you're portioning out chicken breasts, weighing potatoes for a big batch of fries, or dividing a large cut of meat, knowing how to convert 6.4 kg to pounds accurately ensures your recipes turn out perfectly. Getting your measurements right from the start helps you avoid under or over-seasoning and guarantees even cooking throughout. For more handy conversion tips and charts, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> as your go-to resource.</p>

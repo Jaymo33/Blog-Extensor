@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>349°F converts to Gas Mark 4 in UK ovens and air fryers. This medium heat setting is ideal for baking, roasting, and reheating dishes evenly. Whether you're using a traditional oven or modern air fryer, understanding this temperature conversion ensures your recipes turn out perfectly every time.</p>

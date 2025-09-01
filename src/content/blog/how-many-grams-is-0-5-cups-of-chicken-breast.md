@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of chicken breast weighs approximately 70 grams, though this can vary slightly based on how finely the chicken is chopped or shredded. If you're using an air fryer, precise measurements help ensure even cooking and perfect results every time. Whether you're making a stir-fry, salad, or a protein-packed meal, knowing this conversion saves time and hassle. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> to streamline your cooking process.</p>

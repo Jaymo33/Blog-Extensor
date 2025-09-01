@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of yogurt equals approximately 946 ml, making it easy to measure for recipes. Whether you're using a UK or US cup measurement, this conversion ensures accuracy in your cooking or baking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements are key, especially when adapting recipes for air fryers.</p>

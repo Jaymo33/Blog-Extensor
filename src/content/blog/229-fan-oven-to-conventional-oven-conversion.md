@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>229°C in a fan oven equals approximately 200°C in a conventional oven. This conversion is essential for perfect baking results when switching between oven types. The difference occurs because fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures.</p>

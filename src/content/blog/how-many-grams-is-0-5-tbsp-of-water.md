@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of water equals approximately 7.39 grams. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're adjusting liquid ingredients or scaling portions, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you master air fryer cooking with reliable measurements.</p>  

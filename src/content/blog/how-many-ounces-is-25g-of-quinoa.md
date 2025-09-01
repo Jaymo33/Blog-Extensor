@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of quinoa equals approximately 0.88 ounces. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you're meal prepping or trying a new dish, knowing how to convert grams to ounces ensures your quinoa turns out perfectly every time.</p>

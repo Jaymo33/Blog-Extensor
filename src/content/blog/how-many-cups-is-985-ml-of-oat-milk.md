@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of oat milk is roughly 4.16 cups in the US measurement system and 3.46 cups in the UK. Whether you're whipping up a cake, preparing a creamy sauce, or experimenting with air fryer recipes, knowing this conversion ensures accuracy. Oat milk is a popular dairy-free alternative, and measuring it correctly can make or break your dish. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

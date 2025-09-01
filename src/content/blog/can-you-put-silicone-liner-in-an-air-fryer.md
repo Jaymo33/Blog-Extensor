@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can safely use a silicone liner in your air fryer, provided it’s heat-resistant and fits properly. Most silicone liners are designed to withstand temperatures up to 220°C, making them suitable for air frying. However, always check the manufacturer’s guidelines for both your air fryer and the liner to ensure compatibility.</p>

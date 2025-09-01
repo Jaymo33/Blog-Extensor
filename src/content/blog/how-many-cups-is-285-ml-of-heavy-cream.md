@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of heavy cream is approximately 1.2 cups in the UK and 1.19 cups in the US. This conversion is essential for anyone using recipes that switch between metric and imperial measurements, especially when preparing dishes in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of crushed garlic equals approximately 2.64 ounces. This measurement is essential for air fryer recipes where precise quantities can make or break a dish. Whether you’re preparing a garlic-infused marinade or seasoning vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these conversions for perfect meals every time.</p>  

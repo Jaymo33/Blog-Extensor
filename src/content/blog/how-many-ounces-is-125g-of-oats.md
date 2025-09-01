@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of oats equals approximately 4.41 ounces. This conversion is essential for UK cooks using air fryer recipes that require precise measurements. Whether you're making overnight oats or oat-based coatings for air-fried chicken, getting the quantities right ensures perfect results every time.</p>

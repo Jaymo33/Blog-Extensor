@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of cream equals approximately 16 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce or a decadent dessert, knowing how many ounces are in 2 cups of cream ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

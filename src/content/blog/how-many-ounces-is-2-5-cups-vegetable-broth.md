@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of vegetable broth equals 20 fluid ounces (or approximately 20 oz by weight for most broths). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re making soups, stews, or marinades, knowing how to convert cups to ounces ensures your meals turn out perfectly every time.</p>

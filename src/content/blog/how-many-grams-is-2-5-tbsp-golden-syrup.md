@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of golden syrup equals approximately 53 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're baking sticky toffee pudding or glazing roasted vegetables, knowing the exact weight of golden syrup makes all the difference.</p>  

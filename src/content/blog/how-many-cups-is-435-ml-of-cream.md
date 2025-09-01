@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of cream is approximately 1.84 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a dessert or a savoury dish, knowing how to convert ml to cups ensures consistency and success.</p>

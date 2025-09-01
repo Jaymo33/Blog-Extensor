@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating quiche in an air fryer takes just 3-5 minutes at 160°C, giving you a crispy crust and warm filling without drying out. This method beats microwaving hands down, as the circulating hot air revives the pastry beautifully while gently warming the egg mixture. Whether you’ve got leftover shop-bought quiche or homemade slices from yesterday’s brunch, your air fryer delivers deli-fresh results in minutes.</p>

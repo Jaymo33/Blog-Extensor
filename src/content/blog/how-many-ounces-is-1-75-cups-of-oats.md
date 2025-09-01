@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of oats equals approximately 5.6 ounces (or 160 grams) when measured using standard UK cup sizes. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're preparing overnight oats, granola, or oat-based coatings for chicken, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for hassle-free cooking. Keep reading for detailed tips on measuring oats accurately in your air fryer recipes.</p>

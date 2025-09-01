@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>216 C converts to Gas Mark 7, a common setting for baking and roasting in both ovens and air fryers. This temperature is ideal for achieving crispy yet tender results, whether you're cooking meats, pastries, or vegetables. If you're using an air fryer, you'll find that many recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> recommend this temperature for even cooking. Understanding 216 C to Gas Mark ensures your dishes turn out perfectly every time.</p>

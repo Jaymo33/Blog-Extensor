@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of condensed milk equals approximately 2.65 ounces. Whether you're whipping up a dessert in your air fryer or following a precise baking recipe, knowing this conversion ensures perfect results every time. Condensed milk is a staple in many sweet dishes, and accurate measurements can make or break your creation. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you nail those measurements for flawless cooking.</p>  

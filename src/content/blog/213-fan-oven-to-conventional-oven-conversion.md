@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>213°C in a fan oven is equivalent to approximately 200°C in a conventional oven. This conversion is essential for ensuring your recipes turn out perfectly, whether you're baking in a traditional oven or using an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate temperature conversions for delicious results.</p>

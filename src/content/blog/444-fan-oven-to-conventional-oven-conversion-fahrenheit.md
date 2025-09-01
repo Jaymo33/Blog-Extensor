@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>444 fan oven converts to approximately 428°F in a conventional oven. This adjustment ensures your baked goods or dishes cook evenly without burning. Fan ovens circulate hot air, allowing for lower temperatures compared to conventional ovens. Understanding this conversion is crucial for adapting recipes, especially when using an air fryer, which operates similarly to a fan oven.</p>

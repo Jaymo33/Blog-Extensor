@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of shredded coconut equals approximately 0.7 ounces (20 grams). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making coconut-crusted shrimp or a tropical dessert, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions.</p>  

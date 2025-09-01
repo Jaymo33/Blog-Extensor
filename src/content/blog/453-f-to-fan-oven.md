@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>453 F converts to approximately 234 C in a fan oven. This high-temperature setting is ideal for achieving crispy results in air fryers and convection ovens. At airfryerrecipe.co.uk, we specialise in helping home cooks master these conversions for perfect dishes every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 kg is equal to approximately 1.1023 pounds, a conversion that comes in handy when preparing ingredients for your air fryer. Many recipes, especially those from American sources or older cookbooks, use pounds and ounces rather than metric measurements. Getting this conversion right ensures you use the correct amount of meat, vegetables, or other ingredients, leading to perfectly cooked meals every time. Whether you're meal prepping or following a specific dish, knowing how to convert 0.5 kg to pounds removes guesswork. This is especially useful for air fryer users who value precision for even cooking and excellent results.</p>

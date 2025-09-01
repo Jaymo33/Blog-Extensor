@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of crushed garlic equals approximately 11.25 grams. This conversion is essential for precision in cooking, especially when using an air fryer where ingredient ratios can impact texture and flavour. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or improvising, knowing exact measurements ensures consistent results.</p>  

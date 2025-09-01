@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of soft cheese equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements matter. Whether you're making a creamy dip or a cheesy bake, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so you can focus on cooking. No more guessing—just accurate measurements for delicious dishes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of lentils equals approximately 350 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're cooking a hearty lentil stew or baking lentil-based snacks, knowing the exact gram measurement ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect air frying.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of cream is equivalent to approximately 3.42 cups. This conversion is essential for anyone using an air fryer or oven to create creamy dishes, ensuring precision in every recipe. Whether you're making a rich dessert or a savoury sauce, knowing how to measure 810 ml of cream in cups can make all the difference.</p>

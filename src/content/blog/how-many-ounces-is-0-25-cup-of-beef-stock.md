@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of beef stock equals 2 fluid ounces (oz). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're preparing a rich gravy or a savoury marinade, knowing the exact weight ensures consistent results every time.</p>

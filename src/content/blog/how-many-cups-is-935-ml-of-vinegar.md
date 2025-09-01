@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of vinegar equals approximately 3.95 cups (using the US cup measurement) or 3.3 cups (using the UK metric cup). This conversion is essential for air fryer recipes, marinades, and baking where precision matters. Whether you're whipping up a tangy glaze or a pickling solution, knowing how to measure vinegar correctly ensures your dish turns out perfectly.</p>  

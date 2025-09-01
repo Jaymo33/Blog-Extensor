@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of half and half equals approximately 1.5 cups. This conversion is essential for air fryer recipes, baking, or any cooking where precise measurements matter. Whether you're in the UK or the US, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>

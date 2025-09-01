@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat ham slices in an air fryer, set the temperature to 160°C (320°F) and cook for 3-4 minutes. This gentle heat warms the ham through without drying it out, while the air circulation adds a light crispness to the edges. Whether you're using leftover holiday ham or deli slices, your air fryer delivers better results than a microwave.</p>

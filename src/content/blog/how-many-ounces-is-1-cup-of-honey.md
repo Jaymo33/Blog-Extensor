@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of honey equals approximately 12 ounces (340 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring precise sweetness and texture. Whether you're baking honey-glazed salmon or whipping up a batch of air-fried cookies, accurate measurements make all the difference. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

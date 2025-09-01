@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of milk equals approximately 1.84 cups in the UK or 1.83 cups in the US. This conversion is essential when following recipes, especially for air fryer cooking where precise measurements matter. Whether you're making cakes, sauces, or custards in your air fryer, knowing how to convert millilitres to cups ensures consistent results every time.</p>

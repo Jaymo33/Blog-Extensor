@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of olive oil equals approximately 0.68 cups. This conversion is essential for accurate cooking and baking, especially when using an air fryer where precise measurements can make or break a dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or improvising, knowing this conversion ensures consistent results.</p>

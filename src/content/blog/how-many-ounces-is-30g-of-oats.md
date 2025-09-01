@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of oats equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re making granola, oat bars, or coating for chicken, getting the measurements right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for air fryer success. Let’s dive deeper into why this matters and how to use it in your cooking.</p>

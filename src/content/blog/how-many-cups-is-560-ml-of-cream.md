@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of cream is approximately 2.37 cups in US measurements or 2.46 cups in UK measurements. Whether you're whipping up a dessert or preparing a creamy sauce for your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for flawless cooking.</p>  

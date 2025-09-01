@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of breadcrumbs weigh approximately 28 grams. This measurement is essential for air fryer recipes, ensuring your coatings and toppings are perfectly portioned. Whether you're making crispy chicken or a golden fish fillet, knowing the exact weight helps achieve consistent results every time.</p>  

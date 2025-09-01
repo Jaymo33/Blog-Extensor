@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of olive oil equals approximately 40.5 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re drizzling oil over veggies or marinating chicken, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you cook like a pro. Keep reading to learn why grams matter and how to measure olive oil perfectly every time.</p>  

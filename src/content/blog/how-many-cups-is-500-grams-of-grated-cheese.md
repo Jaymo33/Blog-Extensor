@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of grated cheese equals approximately 4.5 to 5 cups, depending on how tightly it's packed. This conversion is essential for air fryer recipes, where precise measurements can make or melt your dish. Whether you're making cheesy nachos, crispy gratins, or gooey melts, knowing how many cups 500 grams of grated cheese yields ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

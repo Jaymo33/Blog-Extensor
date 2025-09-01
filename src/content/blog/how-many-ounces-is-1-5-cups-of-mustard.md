@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of mustard equals approximately 12 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up a tangy glaze or a marinade, knowing this conversion ensures accuracy in your cooking. Mustard’s density can vary slightly, but this measurement works for most standard recipes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

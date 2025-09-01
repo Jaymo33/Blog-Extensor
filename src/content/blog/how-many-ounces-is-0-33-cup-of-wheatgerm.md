@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of wheatgerm equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you're baking or coating ingredients, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements for perfect dishes every time. Let’s dive deeper into why this conversion matters.</p>

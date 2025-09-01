@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>183°C in a fan oven equals approximately 160°C in a conventional oven. This conversion is essential for achieving perfect results when baking or roasting in different oven types. Whether you're using a fan-assisted oven, conventional oven, or even an air fryer, understanding these temperature differences can make or break your dish.</p>

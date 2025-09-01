@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of soy sauce equals approximately 2.05 cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or whipping up a stir-fry, knowing how to convert 485 ml of soy sauce to cups ensures consistency and flavour balance. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every measurement for perfect results every time.</p>

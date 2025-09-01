@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chickpeas equals approximately 24 ounces (or 680 grams). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making crispy roasted chickpeas or adding them to a hearty meal, knowing the exact weight helps with consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to make cooking effortless. Keep reading for more details on measuring chickpeas and air fryer tips.</p>  

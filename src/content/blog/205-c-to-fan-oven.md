@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>205 C converts to approximately 180 C in a fan oven. This 25-degree reduction is standard when switching from conventional to fan-assisted cooking. Whether you're using an oven or an air fryer, understanding this conversion ensures perfectly cooked meals every time.</p>

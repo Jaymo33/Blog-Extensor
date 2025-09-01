@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of icing sugar equals approximately 1.2 cups when lightly spooned into a measuring cup. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for perfect cakes, cookies, and desserts every time.</p>

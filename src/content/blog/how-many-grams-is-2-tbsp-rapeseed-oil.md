@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of rapeseed oil weigh approximately 28 grams. This conversion is essential for air fryer cooking, where precise measurements can make all the difference in texture and flavour. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing the exact weight ensures consistent results.</p>

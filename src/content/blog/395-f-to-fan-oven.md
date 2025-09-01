@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>395 F converts to approximately 180 C in a fan oven. This is the standard equivalent for most recipes requiring a moderate-high heat. Whether you're using an air fryer or a conventional fan oven, getting the temperature right ensures perfectly cooked dishes every time.</p>

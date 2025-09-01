@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of chopped onion weigh approximately 40 grams. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results. Whether you’re making crispy onion toppings or adding flavour to dishes, knowing the weight helps streamline your prep.</p>  

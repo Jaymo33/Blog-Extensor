@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of yogurt is equivalent to approximately 650 ml. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a creamy dessert or a savoury marinade, knowing how many ml is 2.75 cups of yogurt ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple, so you can focus on creating delicious meals.</p>  

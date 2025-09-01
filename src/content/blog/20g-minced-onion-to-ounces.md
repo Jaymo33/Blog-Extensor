@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams (20g) of minced onion equals approximately 0.71 ounces (0.71 oz). This conversion is handy when following air fryer recipes that list ingredients in grams but require ounces for precise measuring. Whether you're preparing a quick stir-fry or a slow-cooked dish, knowing this conversion ensures your meals turn out perfectly seasoned every time.</p>  

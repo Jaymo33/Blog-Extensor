@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of cottage cheese equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a cheesy breakfast bake or a light snack, knowing the exact weight helps achieve consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to simplify your cooking process. No more guessing—just perfect results every time.</p>  

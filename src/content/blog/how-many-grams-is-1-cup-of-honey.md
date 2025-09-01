@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of honey equals approximately 340 grams. This conversion is essential for precise baking, cooking, and air frying, ensuring your recipes turn out perfectly every time. Whether you're making a glaze for chicken or a sweet drizzle for desserts, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial conversions are for air fryer success.</p>

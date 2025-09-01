@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of whole milk equals approximately 2.64 ounces (oz) in the UK. This conversion is essential for precise measurements, especially when using an air fryer for recipes that require accuracy. Whether you're making a creamy sauce or a fluffy cake, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with clear conversions and easy-to-follow guides.</p>  

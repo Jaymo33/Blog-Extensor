@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 448 Fan Oven to Fahrenheit for a conventional oven is straightforward: 448°F in a fan oven is roughly equivalent to 428°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, which cook food faster and more evenly. If you're using an air fryer, you might need to tweak the temperature further, as air fryers also rely on rapid air circulation. For precise conversions, refer to our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

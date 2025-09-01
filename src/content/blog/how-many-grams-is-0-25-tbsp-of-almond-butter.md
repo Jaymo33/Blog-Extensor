@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of almond butter equals approximately 3.75 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making energy balls, sauces, or baked goods, knowing the exact weight helps maintain consistency. Almond butter is a popular ingredient for its rich flavour and nutritional benefits, often used in healthy snacks and desserts. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

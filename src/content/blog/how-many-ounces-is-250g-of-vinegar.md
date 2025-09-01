@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of vinegar equals approximately 8.82 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're whipping up a marinade or a glaze, knowing how to convert 250g vinegar to ounces ensures your dishes turn out perfectly every time.</p>

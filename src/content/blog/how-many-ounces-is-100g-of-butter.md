@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of butter equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're baking cookies or preparing a savoury dish, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking.</p>

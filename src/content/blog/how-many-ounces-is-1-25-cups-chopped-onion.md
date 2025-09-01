@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of chopped onion equals approximately 5 ounces (or 142 grams). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect flavour balance. Whether you’re making crispy onion rings or adding onions to a stir-fry, knowing this conversion helps you nail the recipe every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of milk equals approximately 2 ounces. This simple conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake, a creamy sauce, or a breakfast bake, knowing how many ounces are in 0.25 cup of milk ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right for perfect results every time.</p>  

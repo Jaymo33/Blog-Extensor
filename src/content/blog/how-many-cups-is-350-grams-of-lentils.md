@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of lentils equals approximately 1.75 cups when measured using standard UK or US cup measurements. This conversion ensures accuracy whether you're preparing a hearty lentil stew or a crispy air fryer snack. Getting the right measurement is key for perfect texture and cooking times, especially when using an air fryer. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

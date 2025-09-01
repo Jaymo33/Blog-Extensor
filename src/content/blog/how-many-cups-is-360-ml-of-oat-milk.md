@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of oat milk is approximately 1.52 cups in the US and 1.27 cups in the UK. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're baking or cooking, knowing how to convert 360 ml of oat milk to cups ensures consistency and perfect results every time.</p>

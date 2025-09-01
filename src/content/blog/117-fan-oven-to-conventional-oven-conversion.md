@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 117 fan oven to conventional oven is straightforward: 117°C in a fan oven equals approximately 100°C in a conventional oven. This conversion is essential for precise cooking, especially when using appliances like air fryers that mimic fan oven settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for perfect results every time.</p>

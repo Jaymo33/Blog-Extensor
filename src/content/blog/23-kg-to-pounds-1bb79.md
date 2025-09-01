@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>23 kg equals approximately 50.7063 pounds, which is essential knowledge for anyone using an air fryer and working with recipes that use different measurement systems. This conversion becomes particularly important when you're dealing with larger quantities of ingredients or planning meals for multiple people. Many air fryer recipes from American sources use pounds rather than kilograms, making this conversion crucial for British cooks. Whether you're preparing a large batch of <a href="https://www.airfryerrecipe.co.uk/recipe-category/chicken">chicken</a> or portioning out ingredients for meal prep, knowing that 23 kg to pounds is roughly 50.7 pounds will ensure accurate measurements. This knowledge helps prevent overfilling your air fryer basket and ensures even cooking results every time.</p>

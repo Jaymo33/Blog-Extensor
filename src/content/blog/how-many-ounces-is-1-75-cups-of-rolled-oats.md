@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of rolled oats equals approximately 5.6 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're making granola, oatmeal, or baked goods, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

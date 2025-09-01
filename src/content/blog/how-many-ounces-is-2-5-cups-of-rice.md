@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of rice is equivalent to approximately 18.75 ounces, but this can vary slightly depending on the type of rice you are using. This conversion is essential for anyone using an air fryer to prepare rice-based dishes, as accurate measurements lead to consistent cooking results. Whether you are making a pilaf, a rice pudding, or simply steaming rice to accompany a main, knowing this weight helps you use your appliance effectively. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk. Getting this measurement right is the first step to a perfectly cooked meal.</p>

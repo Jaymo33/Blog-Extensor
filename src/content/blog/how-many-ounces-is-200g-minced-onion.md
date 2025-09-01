@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of minced onion equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and flavour. Whether you’re preparing a savoury dish or a hearty meal, knowing how to convert grams to ounces ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

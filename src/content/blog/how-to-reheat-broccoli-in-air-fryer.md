@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat broccoli in an air fryer, preheat to 160°C (320°F) and cook for 3–4 minutes, shaking halfway. This method restores crispness without drying out the florets, making it far superior to microwaving. Whether you’re reheating leftovers or meal-prepped veggies, your air fryer delivers restaurant-quality texture every time. For more air fryer vegetable tips, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/vegetables>vegetable recipes</a>.</p>  

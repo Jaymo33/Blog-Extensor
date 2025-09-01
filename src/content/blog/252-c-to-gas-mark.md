@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>252°C converts to Gas Mark 9, which is the highest standard setting on most UK ovens and ideal for high-heat roasting or baking in an air fryer. This temperature is perfect for achieving crispy textures while ensuring even cooking. Whether you're using an oven or an air fryer, knowing this conversion helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Let’s dive deeper into how this temperature works across different appliances.</p>

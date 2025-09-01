@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of tomato ketchup weigh approximately 45 grams (g). This measurement is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making glazed meats, saucy wings, or even ketchup-infused snacks, knowing this conversion helps streamline your cooking process.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of caster sugar equals approximately 4.41 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially in baking where accuracy matters. Whether you’re making cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your treats turn out perfectly every time.</p>

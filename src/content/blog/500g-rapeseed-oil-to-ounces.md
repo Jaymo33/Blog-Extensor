@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of rapeseed oil equals approximately 17.64 ounces. This conversion is essential for UK cooks using air fryers, where precise measurements can make all the difference in recipe success. Whether you're adapting a family favourite or trying a new dish from <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>, knowing your conversions ensures perfect results every time.</p>

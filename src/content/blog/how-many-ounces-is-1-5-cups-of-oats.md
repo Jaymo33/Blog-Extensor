@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of oats equals approximately 12 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results every time. Whether you're making granola, oat bars, or a crunchy topping, knowing the weight in ounces helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for air fryer cooking.</p>

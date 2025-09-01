@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of almond milk equals approximately 1.41 ounces. Whether you're preparing a creamy sauce or baking a light dessert in your air fryer, getting the measurements right is key. Almond milk is a popular dairy-free alternative, and knowing how to convert grams to ounces ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail these conversions effortlessly.</p>  

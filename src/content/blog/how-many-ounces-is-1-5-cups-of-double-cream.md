@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of double cream equals approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect textures and results. Whether you're making a rich dessert or a creamy sauce, knowing how to convert cups to ounces helps avoid kitchen mishaps.</p>

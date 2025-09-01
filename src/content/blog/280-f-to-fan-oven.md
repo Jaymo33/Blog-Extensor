@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>280°F converts to approximately 140°C in a fan oven. This is the standard conversion for most recipes, whether you're using an air fryer or a conventional fan-assisted oven. Understanding this conversion ensures your dishes cook evenly and avoid burning or undercooking. For precise results, always refer to your appliance's manual or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

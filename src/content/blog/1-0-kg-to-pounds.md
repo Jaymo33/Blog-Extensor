@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 kg is equal to approximately 2.20462 pounds. This conversion is crucial when using your air fryer, as many recipes and packaging use different measurement systems. Getting your quantities right ensures everything cooks evenly and comes out perfectly crispy. Whether you're weighing ingredients for a homemade recipe or portioning out frozen goods, knowing how to convert 1.0 kg to pounds is a fundamental kitchen skill. For more handy conversions, check out our comprehensive <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of maple syrup equals approximately 16 ounces (or 1 pound). This conversion is essential for precise baking and cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you're drizzling it over air-fried pancakes or incorporating it into a glaze, knowing the exact weight ensures consistent results.</p>  

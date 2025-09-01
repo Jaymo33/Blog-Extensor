@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>268°F converts to approximately 130°C in a fan oven. This temperature is ideal for slow-cooking dishes or gently reheating meals in your air fryer. Whether you're adapting a recipe or troubleshooting your appliance, knowing this conversion ensures consistent results every time.</p>

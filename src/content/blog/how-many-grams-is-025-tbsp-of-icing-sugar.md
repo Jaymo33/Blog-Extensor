@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of icing sugar equals approximately 3.125 grams. This conversion is essential for precise baking, especially when using an air fryer where exact measurements can make or break a recipe. Whether you're dusting desserts or making air fryer-friendly cakes, knowing this conversion ensures perfect results every time.</p>  

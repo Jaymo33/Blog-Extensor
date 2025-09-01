@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of soy sauce is approximately 3 cups. This conversion is handy for air fryer recipes, marinades, or any dish requiring precise liquid measurements. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing this conversion ensures perfect results every time.</p>

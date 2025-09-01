@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 3.25 kg lamb leg to pounds gives you approximately 7.17 pounds, which is essential for planning cooking times and portions in your air fryer. This conversion helps you follow recipes accurately, whether you're roasting a whole leg or preparing smaller cuts. Understanding the weight in pounds ensures your lamb cooks evenly and comes out perfectly juicy. For more handy conversion tips, visit our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>. Keep this guide bookmarked for all your lamb and air frying needs.</p>

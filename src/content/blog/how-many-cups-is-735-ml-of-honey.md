@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>735 ml of honey equals approximately 3.1 cups in standard US measurements or 3.3 cups in UK imperial measurements. Whether you're baking a cake, whipping up a glaze, or preparing a marinade for your air fryer, knowing this conversion ensures accuracy. Honey's thick consistency means measuring it precisely is key for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of half and half equals approximately 3.42 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you’re baking, cooking, or making sauces, knowing how to convert 810 ml of half and half to cups ensures perfect results every time.</p>

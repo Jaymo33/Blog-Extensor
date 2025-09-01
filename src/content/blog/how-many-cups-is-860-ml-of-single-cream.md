@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of single cream is approximately 3.63 cups in the UK and 3.64 cups in the US. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking creamy dishes. Whether you're making a rich sauce or a decadent dessert, knowing the exact cup equivalent ensures perfect results every time.</p>  

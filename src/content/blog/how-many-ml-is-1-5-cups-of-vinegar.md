@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of vinegar equals 355 millilitres (ml). This conversion is essential for air fryer recipes, marinades, or even cleaning solutions. Whether you're following a British or American recipe, knowing this measurement ensures precision in your cooking.</p>

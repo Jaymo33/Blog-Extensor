@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of maple syrup equals 10 fluid ounces (fl oz) or approximately 10.6 ounces (oz) by weight. Whether you’re drizzling it over air-fried pancakes or glazing salmon, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for nailing air fryer recipes.</p>  

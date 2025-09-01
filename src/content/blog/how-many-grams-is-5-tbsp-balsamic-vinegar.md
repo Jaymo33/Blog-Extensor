@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of balsamic vinegar equals approximately 75 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or drizzling over roasted vegetables, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

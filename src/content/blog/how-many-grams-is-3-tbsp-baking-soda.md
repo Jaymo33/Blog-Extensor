@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of baking soda equals approximately 42 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can impact texture and rise. Whether you’re whipping up cakes or cleaning your appliance, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>  

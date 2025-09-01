@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating nuggets in an air fryer at 180°C for 3-5 minutes restores their crispiness better than a microwave. The hot circulating air revives the coating while keeping the inside tender, making it the best way to reheat nuggets in an air fryer. Whether you’ve got leftover takeaway nuggets or homemade batches from the fridge, this method beats soggy microwave results every time.</p>

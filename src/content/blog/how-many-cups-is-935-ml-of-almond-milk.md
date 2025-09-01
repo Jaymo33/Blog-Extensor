@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of almond milk equals approximately 3.95 cups in the US measurement system or 3.3 cups in the UK metric cup system. Whether you're whipping up a cake or preparing a creamy sauce in your air fryer, getting the measurement right is key. Almond milk is a popular dairy-free alternative, and knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

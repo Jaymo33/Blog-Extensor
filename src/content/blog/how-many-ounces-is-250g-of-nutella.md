@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of Nutella equals approximately 8.82 ounces. This conversion is handy for anyone using air fryer recipes or baking, where precise measurements matter. Whether you're whipping up a dessert or adjusting a recipe, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often see questions about ingredient conversions, especially for popular items like Nutella.</p>  

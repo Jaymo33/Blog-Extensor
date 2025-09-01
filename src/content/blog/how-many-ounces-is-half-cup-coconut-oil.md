@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of coconut oil equals approximately 4 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking, frying, or roasting, knowing the exact weight ensures consistent results every time. Coconut oil is a popular choice for air frying due to its high smoke point and rich flavour. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

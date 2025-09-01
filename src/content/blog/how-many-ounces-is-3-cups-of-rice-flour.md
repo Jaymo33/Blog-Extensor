@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of rice flour equals approximately 12 ounces (340 grams) when measured correctly. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making gluten-free treats or crispy coatings, knowing how many ounces 3 cups of rice flour weighs ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the most out of your air fryer with accurate conversions and foolproof recipes.</p>

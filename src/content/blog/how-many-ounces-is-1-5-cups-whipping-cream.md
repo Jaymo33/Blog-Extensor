@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of whipping cream equals approximately 12 ounces (UK). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce or a light dessert, knowing how many ounces are in 1.5 cups of whipping cream ensures consistency and perfection.</p>

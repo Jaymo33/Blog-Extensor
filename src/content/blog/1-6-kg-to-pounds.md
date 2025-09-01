@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.6 kg is equal to 3.5274 pounds, or approximately 3 pounds and 8.4 ounces. This conversion is essential for anyone using an air fryer, as many recipes and packaging use different measurement systems. Getting this right ensures your food cooks evenly and for the correct amount of time. Whether you're preparing a family meal or a quick snack, accurate weight conversion is the first step to success. Trusted resources like <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> always emphasise the importance of precise measurements for the best air frying results.</p>

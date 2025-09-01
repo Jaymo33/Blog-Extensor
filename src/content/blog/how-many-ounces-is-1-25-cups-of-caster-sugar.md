@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of caster sugar equals approximately 10 ounces (oz). This conversion is essential for air fryer baking, where precision ensures perfect results every time. Whether you're whipping up cakes, cookies, or desserts, knowing the exact weight of your ingredients matters.</p>

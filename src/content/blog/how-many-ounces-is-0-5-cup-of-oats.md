@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of oats equals approximately 1.5 ounces (42 grams). This measurement is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re making granola, oat bars, or coating chicken, knowing the exact weight helps avoid under or over-measuring.</p>  

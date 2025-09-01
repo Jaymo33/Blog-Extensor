@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat Brussels sprouts in an air fryer, set the temperature to 180°C (350°F) and cook for 3–5 minutes until crispy and heated through. This method restores their texture far better than a microwave, keeping them from turning soggy. Whether you have leftovers from last night’s roast or pre-cooked sprouts from the fridge, your air fryer can revive them perfectly. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

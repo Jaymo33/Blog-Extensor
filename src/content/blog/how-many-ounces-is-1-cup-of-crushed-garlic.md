@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of crushed garlic weighs approximately 4.8 ounces (136 grams). This measurement is essential for air fryer recipes where precise ingredient quantities can make or break a dish. Whether you’re whipping up garlic-infused chicken or a flavourful vegetable stir-fry, knowing this conversion ensures consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

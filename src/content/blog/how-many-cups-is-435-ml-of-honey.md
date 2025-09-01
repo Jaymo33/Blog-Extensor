@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of honey is roughly 1.84 cups. This conversion is essential for precise baking and air fryer cooking, ensuring your recipes turn out perfectly every time. Honey’s thickness can vary, so measuring accurately is key to avoiding overly sweet or sticky results. Whether you’re making glazes, marinades, or desserts, knowing this conversion simplifies your cooking process. For more handy conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

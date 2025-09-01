@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of yeast equals approximately 36 grams in the UK. This conversion is essential for air fryer baking, where precision ensures perfect rises and textures. Whether you're making bread, pizza dough, or sweet bakes, knowing the exact weight of yeast guarantees consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate measurements.</p>

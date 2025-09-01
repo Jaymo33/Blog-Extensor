@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>318 F converts to approximately 160 C in a fan oven. This is a common temperature for baking and roasting in air fryers and fan-assisted ovens. Understanding this conversion is crucial for achieving perfect results when following recipes across different cooking appliances.</p>

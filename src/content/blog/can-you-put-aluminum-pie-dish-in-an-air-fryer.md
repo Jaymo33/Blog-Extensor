@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can safely use an aluminum pie dish in most air fryers, provided it fits properly and you follow basic safety guidelines. Aluminum conducts heat efficiently and withstands air fryer temperatures up to 200°C, making it suitable for baking pies, quiches, or reheating leftovers. However, there are crucial considerations regarding size, positioning, and food types to ensure safe operation.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of honey is roughly 1.63 cups. This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a glaze or sweetening a dessert, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

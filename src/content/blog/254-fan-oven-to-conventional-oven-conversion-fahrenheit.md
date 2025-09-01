@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 254 fan oven to conventional oven in Fahrenheit is straightforward: 254°F in a fan oven is equivalent to approximately 284°F in a conventional oven. This adjustment accounts for the fan oven's efficient heat distribution, which cooks food faster and more evenly. Whether you're baking, roasting, or reheating, understanding this conversion ensures your dishes turn out perfectly every time. For more detailed guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

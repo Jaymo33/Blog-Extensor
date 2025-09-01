@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35.25 kg is equal to approximately 77.71 pounds. This conversion is particularly useful when you're preparing larger quantities of food in your air fryer, such as a whole chicken or a big batch of roasted vegetables. Knowing how to convert 35.25 kg to pounds ensures you can follow recipes accurately and achieve perfect results every time. Whether you're meal prepping or cooking for a crowd, this measurement helps you portion correctly. For more handy conversion tips, check out the guides available at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

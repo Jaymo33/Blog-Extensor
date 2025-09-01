@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>157°C in a fan oven converts to approximately 175°C in a conventional oven. This 10-20°C difference accounts for the fan oven's efficient heat distribution. When using an air fryer, which operates similarly to a fan oven, you'll often need to adjust temperatures from traditional recipes.</p>

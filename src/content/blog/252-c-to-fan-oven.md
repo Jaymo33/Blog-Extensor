@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>252°C in a conventional oven converts to approximately 220°C in a fan oven. This 15% reduction is standard for convection cooking, whether you're using a built-in fan oven or an air fryer. The circulating hot air in fan-assisted appliances cooks food more efficiently, so lower temperatures yield identical results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always recommend adjusting temperatures when adapting recipes between appliance types.</p>

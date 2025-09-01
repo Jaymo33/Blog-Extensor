@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>195°F in a fan oven converts to approximately 175°F in a conventional oven. This 20°F difference is crucial for achieving perfect results when baking or roasting. Whether you're using a traditional oven or adapting recipes for your air fryer, understanding this conversion ensures your dishes turn out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these temperature conversions with ease.</p>

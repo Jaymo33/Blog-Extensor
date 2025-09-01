@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of olive oil equals approximately 2 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're drizzling oil over vegetables or using it in marinades, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

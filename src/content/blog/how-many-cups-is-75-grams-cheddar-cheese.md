@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of cheddar cheese is roughly equivalent to 0.75 cups when grated. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making cheesy nachos, stuffed mushrooms, or a gooey grilled cheese in your air fryer, knowing how many cups 75 grams of cheddar cheese equals will save you time and hassle.</p>  

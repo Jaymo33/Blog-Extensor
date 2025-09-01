@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of butter is roughly 3/4 cup (0.77 cups to be precise) in both UK and US measurements. Whether you're baking cakes or preparing savoury dishes in your air fryer, getting the butter measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in air fryer cooking.</p>

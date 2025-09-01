@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of buttermilk equals approximately 2.89 cups in the US measurement system and roughly 2.42 cups in the UK metric cup system. This conversion is essential for baking and cooking, especially when using precise recipes in your air fryer. Whether you're whipping up fluffy pancakes or tender fried chicken, getting the buttermilk measurement right makes all the difference.</p>

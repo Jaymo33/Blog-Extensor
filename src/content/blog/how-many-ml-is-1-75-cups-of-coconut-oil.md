@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of coconut oil equals approximately 414 ml, making it easy to measure for air fryer recipes. Whether you're preparing crispy fried dishes or moist baked goods, precise measurements ensure perfect results every time. Coconut oil is a versatile ingredient, and knowing its exact ml equivalent helps streamline your cooking process. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on simplifying conversions so you can focus on delicious meals.</p>  

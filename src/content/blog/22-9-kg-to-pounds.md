@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>22.9 kg is equal to 50.485 pounds, a conversion that becomes incredibly useful when you are portioning ingredients for your air fryer. Whether you are preparing a large family meal or meal prepping for the week, knowing how to switch between metric and imperial measurements ensures your recipes turn out perfectly every single time. This specific weight might correspond to a large joint of meat, a big batch of potatoes, or a substantial quantity of frozen goods you want to cook from frozen. Getting the weight right is the first step to nailing the cooking time and temperature in your appliance. For more fantastic recipes and guides, be sure to visit <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>

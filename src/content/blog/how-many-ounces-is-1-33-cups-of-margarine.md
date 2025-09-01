@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of margarine equals approximately 10.64 ounces (oz) in UK measurements. Whether you're preparing a buttery cake or crispy air fryer potatoes, getting the right amount of margarine is crucial for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when adapting recipes for your air fryer.</p>  

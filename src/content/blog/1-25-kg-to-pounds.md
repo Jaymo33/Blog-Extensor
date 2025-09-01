@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 kg equals approximately 2.76 pounds, a conversion that's particularly useful when preparing ingredients for your air fryer. Whether you're portioning chicken breasts, vegetables, or frozen foods, understanding this 1.25 kg to pounds conversion ensures you get the cooking times and temperatures just right. Many air fryer recipes use metric measurements, so being able to quickly convert 1.25 kg to pounds helps you follow instructions accurately. This knowledge prevents overloading your air fryer basket, which could lead to uneven cooking. Getting your quantities spot-on means perfectly crispy results every time you cook.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.1 kg is equal to 6.8343 pounds, or approximately 6 pounds and 13.35 ounces. This conversion is essential for anyone using an air fryer, especially when following recipes that list ingredients in different measurement systems. Knowing how to accurately convert 3.1 kg to pounds ensures you use the correct amount of food, leading to better cooking results and perfectly portioned meals. Whether you're preparing a large batch of chicken or a family-sized portion of vegetables, this knowledge is a game-changer. For more handy conversions, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

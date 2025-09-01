@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of dry pasta typically equals approximately 340 grams, though this can vary slightly depending on pasta shape and density. Getting this measurement right is especially important for air fryer cooking, where precise quantities ensure even crisping and perfect results every time. Whether you're making a family-sized portion or meal prepping for the week, knowing how to convert cups to grams takes the guesswork out of cooking.</p>

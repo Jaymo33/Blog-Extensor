@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 kg prawns equals approximately 8.267 pounds, making it easy to portion for air fryer cooking. Whether you're following a British recipe or adapting an international one, this conversion ensures you get the quantities just right. Cooking prawns in the air fryer gives them a deliciously crisp texture without the need for excessive oil. At airfryerrecipe.co.uk, we love helping you make the most of your appliance with accurate measurements and great recipes. Getting your weights spot-on is the first step to a fantastic seafood meal.</p>

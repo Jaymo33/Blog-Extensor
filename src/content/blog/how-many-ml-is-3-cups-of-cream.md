@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of cream is equivalent to 710 ml, making it easy to measure for your air fryer recipes. Whether you’re whipping up a dessert or adding richness to a savoury dish, precise measurements are key to perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accuracy is when converting cups to millilitres, especially for creamy ingredients.</p>

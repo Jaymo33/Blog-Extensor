@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of worcestershire sauce is approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements for the best results. Whether you're marinating chicken or adding a splash to a beef dish, knowing how to convert grams to ounces ensures your cooking is spot on every time.</p>

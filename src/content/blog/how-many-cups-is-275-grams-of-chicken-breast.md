@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of chicken breast equals approximately 1.5 cups when diced or shredded. This conversion helps ensure accurate portioning for air fryer recipes, whether you're meal prepping or cooking a single serving. If you're using our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>, you'll find this measurement handy for consistent results.</p>  

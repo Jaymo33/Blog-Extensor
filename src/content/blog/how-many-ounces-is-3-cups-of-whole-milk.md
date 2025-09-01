@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of whole milk equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a creamy sauce or baking a cake, knowing how to convert cups to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of chicken broth equals 828 ml, making it easy to measure for your air fryer recipes. Whether you're preparing soups, sauces, or marinades, knowing this conversion ensures accuracy in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen measurements so you can focus on creating delicious meals.</p>

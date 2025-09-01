@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of evaporated milk is approximately 1.63 cups. Whether you're baking a cake or whipping up a creamy sauce, knowing this conversion ensures your recipe turns out just right. Evaporated milk is a staple in many dishes, from desserts to savoury meals, and getting the measurement spot-on matters. If you're using an air fryer for recipes requiring evaporated milk, precise measurements help avoid soggy or dry results. Head over to <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurement guides.</p>

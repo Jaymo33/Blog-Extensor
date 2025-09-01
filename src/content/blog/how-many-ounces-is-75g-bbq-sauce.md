@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of bbq sauce equals approximately 2.65 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re marinating chicken or glazing ribs, knowing how many ounces 75g of bbq sauce is ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking.</p>

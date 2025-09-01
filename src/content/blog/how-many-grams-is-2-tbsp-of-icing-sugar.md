@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of icing sugar equals approximately 16 grams (g) in the UK. This conversion is essential for precise baking, especially when using an air fryer, where accurate measurements can make or break your recipe. Whether you’re whipping up a quick cake or dusting desserts, knowing how many grams are in 2 tbsp of icing sugar ensures consistency.</p>  

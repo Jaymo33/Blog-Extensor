@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of milk equals approximately 17.64 ounces. Whether you're preparing a creamy sauce or baking a cake in your air fryer, knowing this conversion ensures accuracy in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>  

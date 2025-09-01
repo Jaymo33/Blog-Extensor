@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of maple syrup equals approximately 0.88 ounces. Whether you're whipping up a glaze for air-fried salmon or sweetening a dessert, knowing this conversion ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for flawless cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>452 F converts to approximately 233 C in a fan oven, which is the standard setting for high-temperature roasting or baking. This conversion is essential for air fryer users who need to replicate recipes designed for conventional ovens. At airfryerrecipe.co.uk, we specialise in making these conversions simple and accurate for home cooks.</p>

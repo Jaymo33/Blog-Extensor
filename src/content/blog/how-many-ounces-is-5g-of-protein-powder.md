@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of protein powder equals approximately 0.176 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up protein-packed snacks or meal prepping, knowing how to convert grams to ounces ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

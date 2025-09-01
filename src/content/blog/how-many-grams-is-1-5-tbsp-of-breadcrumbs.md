@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of breadcrumbs equals approximately 11 grams. This conversion is essential for air fryer recipes where precision ensures perfectly crispy coatings. Whether you’re making chicken tenders or fish fillets, knowing the exact weight helps avoid soggy or overly dry results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

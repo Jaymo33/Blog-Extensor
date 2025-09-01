@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of hot sauce is approximately 1.76 ounces. This conversion is essential for anyone using hot sauce in their air fryer recipes, ensuring precise measurements for the perfect balance of heat and flavour. Whether you’re marinating chicken or spicing up vegetables, knowing how to convert 50g hot sauce to ounces makes cooking easier. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for delicious results every time.</p>

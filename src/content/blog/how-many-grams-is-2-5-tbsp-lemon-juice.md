@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of lemon juice equals approximately 37 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're marinating chicken or adding zest to a dessert, knowing the exact weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking.</p>  

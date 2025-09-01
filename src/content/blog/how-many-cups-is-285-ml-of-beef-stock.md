@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of beef stock is approximately 1.2 cups in the US measurement system and 1.14 cups in the UK. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer for dishes like stews or gravies. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a traditional dish, knowing this conversion ensures consistency.</p>  

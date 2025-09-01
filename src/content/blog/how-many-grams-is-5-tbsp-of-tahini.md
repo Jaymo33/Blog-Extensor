@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of tahini equals approximately 75 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out just right. Whether you're making hummus, dressings, or baking, knowing the exact weight helps avoid guesswork.</p>  

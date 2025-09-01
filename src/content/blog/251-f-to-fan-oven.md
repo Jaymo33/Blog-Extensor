@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>251 F converts to approximately 120 C in a fan oven. This is a common temperature for slow roasting or gentle baking, especially when adapting recipes for air fryers. Understanding this conversion ensures your dishes turn out perfectly every time, whether you're using a traditional fan oven or a modern air fryer.</p>

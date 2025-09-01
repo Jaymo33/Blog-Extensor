@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of rolled oats equals approximately 1.5 ounces (42.5 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring accuracy whether you’re making granola, oat bars, or breakfast bakes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfect texture and consistency.</p>  

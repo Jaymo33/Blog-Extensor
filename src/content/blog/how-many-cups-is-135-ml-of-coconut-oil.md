@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of coconut oil is roughly 0.57 cups (just over half a cup). This conversion is essential for baking, frying, or air frying, where precise measurements matter. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting quantities, knowing this conversion ensures your dishes turn out perfectly.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of soft cheese equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're making a creamy dip or a cheesy topping, knowing the exact weight helps avoid over or under-measuring. Soft cheeses like cream cheese, ricotta, or mascarpone vary slightly in density, but this measurement is a reliable standard. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference.</p>  

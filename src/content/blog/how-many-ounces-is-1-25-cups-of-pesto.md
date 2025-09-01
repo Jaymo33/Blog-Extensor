@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of pesto equals approximately 10 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a quick pasta dish or adding flavour to chicken, knowing this conversion ensures accuracy. Pesto’s thick consistency means volume-to-weight conversions are essential for precision, especially in air frying where even distribution matters. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

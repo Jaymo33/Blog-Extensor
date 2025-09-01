@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 kg salmon fillet equals approximately 6.61 pounds. This conversion is essential for anyone preparing a large salmon fillet in their air fryer, ensuring accurate cooking times and perfect results. Whether you're meal prepping for the week or cooking for a crowd, knowing this measurement helps you follow recipes precisely. At airfryerrecipe.co.uk, we understand the importance of getting these details right for delicious meals every time. Converting 3 kg salmon fillet to pounds is the first step toward a perfectly cooked dish.</p>

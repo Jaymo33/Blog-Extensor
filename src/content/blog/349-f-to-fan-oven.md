@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>349°F converts to approximately 175°C in a fan oven. This is the standard conversion used in the UK for adapting recipes between conventional ovens and air fryers. Whether you're cooking crispy chicken wings or baking a cake, knowing this conversion ensures your dishes turn out perfectly every time.</p>

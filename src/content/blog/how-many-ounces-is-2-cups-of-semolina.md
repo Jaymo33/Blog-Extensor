@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of semolina equals approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and consistency. Whether you're making crispy semolina-coated chicken or a fluffy semolina cake, knowing the exact weight helps avoid under or over-measuring. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve the best results every time.</p>  

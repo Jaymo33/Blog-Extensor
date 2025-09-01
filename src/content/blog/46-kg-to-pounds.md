@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>46 kilograms equals approximately 101.41 pounds, making it a useful conversion for those working with larger quantities in the kitchen. This conversion is particularly valuable when using an air fryer, as many recipes and packaging use different measurement systems. Whether you're preparing a large family meal or portioning ingredients for meal prep, understanding weight conversions ensures consistent results. Many air fryer enthusiasts find this knowledge essential for adapting recipes from various sources. The team at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> frequently emphasizes the importance of accurate measurements for perfect air frying.</p>

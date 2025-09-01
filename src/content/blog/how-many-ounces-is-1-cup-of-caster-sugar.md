@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of caster sugar equals approximately 7.05 ounces. This measurement is crucial for baking, especially when using an air fryer where precise ingredient ratios can make or break a recipe. Whether you're whipping up cakes, cookies, or desserts, knowing how many ounces are in 1 cup of caster sugar ensures consistent results every time.</p>

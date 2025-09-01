@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of grated cheese equals approximately 200 grams, though this can vary slightly depending on the cheese type and packing density. Whether you’re prepping for an air fryer recipe or baking, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for perfect dishes.</p>  

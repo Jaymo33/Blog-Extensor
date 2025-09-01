@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of mustard is approximately 1.06 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a marinade or a dipping sauce, knowing how to convert grams to ounces ensures your dish turns out perfectly.</p>

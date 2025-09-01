@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of water equals approximately 1.9 cups (US) or 1.8 cups (UK). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking, meal prepping, or experimenting with new dishes, knowing how to convert grams to cups is a game-changer.</p>  

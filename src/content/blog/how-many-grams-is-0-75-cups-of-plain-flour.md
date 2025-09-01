@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of plain flour equals approximately 94 grams. This conversion is essential for baking, especially when using an air fryer, where precision ensures perfect results every time. Whether you're making cakes, cookies, or bread, knowing how to convert cups to grams takes the guesswork out of your recipes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless dishes.</p>

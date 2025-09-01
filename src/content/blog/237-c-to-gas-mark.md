@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>237 degrees Celsius converts to Gas Mark 9. This high-temperature setting is ideal for professional-style baking, intense roasting, or achieving crispy results in your air fryer. Whether you're adapting oven recipes for your air fryer or checking your cooker's settings, this conversion is essential for UK kitchens.</p>

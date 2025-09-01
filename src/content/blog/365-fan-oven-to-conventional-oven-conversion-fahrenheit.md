@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 365 fan oven to conventional oven temperatures in Fahrenheit is straightforward: 365°F in a fan oven equals approximately 340°F in a conventional oven. This 25°F reduction accounts for the fan oven's efficient heat distribution. Whether you're baking cakes or roasting meats, understanding this conversion ensures perfect results every time.</p>

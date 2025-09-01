@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.2 kilograms is equal to 7.05479 pounds, a conversion that's incredibly useful for anyone using an air fryer to cook family-sized meals or meal prep. Whether you're portioning out ingredients for a big batch of air fryer chicken or ensuring you don't overfill your basket, knowing how to convert 3.2 kg to pounds is a fundamental kitchen skill. This guide will walk you through the exact conversion, why it matters for air frying, and how to apply it to your favourite recipes from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>. We'll also cover how to break this weight down into pounds and ounces for even more precision, ensuring your cooking is always spot-on. Let's demystify the numbers and get you cooking with confidence.</p>

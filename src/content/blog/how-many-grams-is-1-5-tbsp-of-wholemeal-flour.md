@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of wholemeal flour equals approximately 12 grams (g). This conversion is essential for precise baking, especially when using an air fryer where accurate measurements can make or break a recipe. Whether you're whipping up air-fried muffins or wholemeal bread, knowing this conversion ensures consistency.</p>  

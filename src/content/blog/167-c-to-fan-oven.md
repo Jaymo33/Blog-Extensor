@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>167 C in a fan oven is equivalent to approximately 147 C when using conventional oven settings. This 20-degree reduction is standard for fan-assisted cooking, where circulating hot air cooks food more efficiently. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures perfect results every time.</p>

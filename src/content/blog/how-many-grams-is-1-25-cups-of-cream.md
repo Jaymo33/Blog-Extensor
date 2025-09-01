@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of cream equals approximately 300 grams in the UK and 284 grams in the US. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing the exact gram measurement helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking game.</p>

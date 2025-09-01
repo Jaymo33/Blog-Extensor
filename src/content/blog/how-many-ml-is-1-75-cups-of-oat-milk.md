@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of oat milk equals approximately 414 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a creamy dessert or a savoury dish, precise measurements ensure perfect results every time. Oat milk is a fantastic dairy-free alternative, and knowing how to convert cups to ml is essential for consistent cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you get the most out of your air fryer with accurate conversions and delicious recipes.</p>

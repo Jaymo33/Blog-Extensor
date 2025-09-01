@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of orange juice equals 12 fluid ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're marinating chicken or baking a citrus-infused dessert, knowing this conversion helps streamline your cooking process.</p>

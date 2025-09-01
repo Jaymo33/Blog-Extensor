@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of treacle equals approximately 8.5 ounces. This measurement is crucial for air fryer recipes where precision can make or break your dish. Treacle, a thick syrup, is often used in British baking, and knowing its weight ensures your recipes turn out perfectly. Whether you're making sticky toffee pudding or treacle tart, accurate measurements matter. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for more inspiration.</p>

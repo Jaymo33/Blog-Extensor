@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>48 kilograms equals approximately 105.82 pounds, making it a crucial conversion for anyone using an air fryer and working with larger quantities of ingredients. Whether you're meal prepping, buying in bulk, or scaling up recipes, understanding how to convert 48 kg to pounds ensures you get your measurements spot on. This is particularly useful when dealing with meat, vegetables, or frozen foods that often come in kilogram weights but need portioning for air frying. Getting this conversion right means your cooking times and results will be consistent every time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

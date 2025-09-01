@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of honey is roughly equivalent to 1.1 cups, though this can vary slightly based on honey density. If you're using an air fryer for baking or glazing, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making conversions simple for home cooks.</p>  

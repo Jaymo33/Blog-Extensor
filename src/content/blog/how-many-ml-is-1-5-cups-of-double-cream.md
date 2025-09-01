@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of double cream equals approximately 355 millilitres (ml). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a creamy sauce or baking a decadent dessert, knowing how to convert cups to millilitres ensures consistency and delicious results every time.</p>  

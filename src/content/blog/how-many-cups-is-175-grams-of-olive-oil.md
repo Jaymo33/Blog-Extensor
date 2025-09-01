@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of olive oil equals approximately 0.77 cups (or just under ¾ cup plus 1 tablespoon). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate conversions help achieve perfect results every time.</p>

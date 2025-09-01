@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of tartar sauce equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're preparing a batch of fish fillets or crispy shrimp, knowing the exact weight ensures consistent results every time.</p>

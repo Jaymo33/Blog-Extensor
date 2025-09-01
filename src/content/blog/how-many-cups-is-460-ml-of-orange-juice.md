@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of orange juice equals approximately 1.94 cups in the US measurement system or 1.62 cups in the UK metric system. Whether you're baking, cooking, or preparing a refreshing drink, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when using an air fryer for consistent results.</p>

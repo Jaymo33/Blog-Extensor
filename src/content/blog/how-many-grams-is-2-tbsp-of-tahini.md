@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of tahini weigh approximately 30 grams (g). This conversion is useful for precise measurements, especially when preparing air fryer recipes where consistency matters. Whether you're making hummus, dressings, or marinades, knowing the weight ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

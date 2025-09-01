@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>428 F converts to approximately 220 C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy results without overcooking your food. Whether you're using an air fryer or a conventional fan oven, understanding this conversion ensures your dishes turn out perfectly every time.</p>

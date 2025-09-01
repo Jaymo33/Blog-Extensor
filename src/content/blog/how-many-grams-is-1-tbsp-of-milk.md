@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of milk weighs approximately 15 grams in the UK. This measurement is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight of 1 tbsp of milk ensures consistency in your recipes.</p>  

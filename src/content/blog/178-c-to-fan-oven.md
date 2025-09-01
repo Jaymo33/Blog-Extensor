@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>178 C in a fan oven is equivalent to 160 C in a conventional oven with the fan setting turned on. This 20-degree reduction is standard for fan-assisted cooking, whether you're using an air fryer or traditional oven. The circulating hot air in fan ovens cooks food more efficiently, allowing for lower temperature settings.</p>

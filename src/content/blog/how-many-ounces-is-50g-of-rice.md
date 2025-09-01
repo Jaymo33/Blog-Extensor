@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of rice equals approximately 1.76 ounces. This conversion is essential for precise air fryer cooking, ensuring your recipes turn out perfectly every time. Whether you're meal prepping or cooking a quick side dish, knowing how many ounces 50g of rice is can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re here to help you master these conversions for effortless cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>274 F converts to approximately 134 C in a fan oven. This temperature is crucial for air fryer cooking, as it ensures even heat distribution and crispy results. Whether you're adapting recipes or troubleshooting, knowing this conversion helps you master your appliance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these calculations simple for home cooks.</p>

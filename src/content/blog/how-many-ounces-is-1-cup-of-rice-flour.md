@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of rice flour weighs approximately 4.5 ounces (128 grams) in UK measurements. This conversion is essential for baking and air frying, where precision matters. Whether you're making gluten-free treats or crispy coatings, knowing how many ounces are in 1 cup of rice flour ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to help you master air fryer cooking.</p>  

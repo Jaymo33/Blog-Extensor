@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of plain yogurt equals approximately 0.7 ounces. This conversion is essential for air fryer recipes where precise measurements can impact texture and taste. Whether you’re whipping up a breakfast dish or a dessert, knowing how to convert grams to ounces ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

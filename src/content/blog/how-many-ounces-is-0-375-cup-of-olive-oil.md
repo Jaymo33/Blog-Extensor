@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of olive oil equals 3 ounces, making it easy to measure for your air fryer recipes. Whether you're preparing crispy vegetables or marinating chicken, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions help you cook like a pro.</p>  

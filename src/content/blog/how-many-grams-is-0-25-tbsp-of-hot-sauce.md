@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of hot sauce weighs approximately 3.75 grams. This measurement is essential for precision in air fryer cooking, where exact quantities can make or break a recipe. Whether you're spicing up chicken wings or adding a kick to your vegetables, knowing this conversion ensures consistent results every time.</p>

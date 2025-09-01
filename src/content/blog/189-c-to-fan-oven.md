@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>189 C converts to approximately 170 C in a fan oven. This is because fan ovens circulate hot air, allowing you to reduce the temperature by around 10-20% for even cooking. Whether you're baking a cake or roasting vegetables, this conversion ensures your dishes come out perfectly every time.</p>

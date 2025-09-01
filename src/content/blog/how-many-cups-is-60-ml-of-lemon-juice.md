@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of lemon juice equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making lemon drizzle cake or zesty chicken marinades, getting the lemon juice quantity right ensures perfect results every time.</p>

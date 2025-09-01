@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of gram flour equals approximately 2.5 ounces (oz). This conversion is essential for precise measurements, especially when preparing air fryer recipes where accuracy impacts texture and cooking times. Gram flour, also known as besan, is a staple in many dishes, from crispy snacks to gluten-free baking. Understanding how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>  

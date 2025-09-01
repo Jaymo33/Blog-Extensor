@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of margarine weigh approximately 28 grams in the UK. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking, frying, or roasting, knowing the exact weight ensures consistent results every time.</p>  

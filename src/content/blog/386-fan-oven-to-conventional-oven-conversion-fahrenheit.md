@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>386°F in a fan oven converts to approximately 356°F in a conventional oven. This adjustment accounts for the efficient heat distribution in fan-assisted ovens, ensuring your dishes cook evenly without burning. Whether you're baking a cake or roasting vegetables, understanding this conversion is key to perfect results. For air fryer users, this knowledge is especially useful when adapting recipes from traditional ovens. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips.</p>

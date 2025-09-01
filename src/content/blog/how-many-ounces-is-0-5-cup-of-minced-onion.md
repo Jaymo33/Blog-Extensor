@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of minced onion equals approximately 2 ounces, making it easy to measure for your air fryer recipes. Whether you're prepping a stir-fry or adding flavour to a casserole, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify cooking measurements so you can focus on creating tasty dishes.</p>  

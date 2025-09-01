@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of plain flour equals approximately 40 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up cakes, cookies, or breaded dishes, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfection in every dish. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>  

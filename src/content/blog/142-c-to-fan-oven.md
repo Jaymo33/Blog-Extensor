@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>142 C converts to approximately 125 C in a fan oven. This 15-20°C reduction is standard when switching from conventional to fan-assisted cooking. Whether you're baking, roasting, or using your air fryer, understanding this conversion ensures perfect results every time.</p>

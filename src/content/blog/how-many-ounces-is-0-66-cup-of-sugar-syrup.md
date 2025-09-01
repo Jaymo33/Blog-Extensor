@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of sugar syrup equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you’re making glazes, desserts, or marinades, knowing the exact weight of sugar syrup helps avoid overly sweet or runny results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking game. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

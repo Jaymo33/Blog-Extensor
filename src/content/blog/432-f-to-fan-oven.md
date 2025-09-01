@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>432 F converts to approximately 220 C in a fan oven. This is the standard equivalent for most UK fan-assisted ovens and air fryers, ensuring your recipes cook evenly without overheating. Whether you’re adapting an American recipe or fine-tuning your air fryer settings, this conversion is essential for perfect results.</p>

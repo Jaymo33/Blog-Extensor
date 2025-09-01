@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of lemon juice equals approximately 3.63 cups in the UK or 3.64 cups in the US. This slight difference comes from the variation in cup sizes between the two measurement systems. Whether you're whipping up a zesty marinade or a tangy dessert in your air fryer, getting the conversion right ensures your dish turns out perfectly balanced.</p>  

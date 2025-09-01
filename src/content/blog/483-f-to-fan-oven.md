@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>483 F converts to approximately 250 C in a fan oven. This temperature is ideal for achieving crispy, evenly cooked results in both air fryers and conventional fan ovens. Understanding this conversion is crucial for anyone looking to replicate recipes accurately across different cooking appliances.</p>

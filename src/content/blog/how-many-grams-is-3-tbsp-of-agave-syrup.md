@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of agave syrup weigh approximately 63 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a glaze for salmon or sweetening a dessert, knowing the exact weight ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

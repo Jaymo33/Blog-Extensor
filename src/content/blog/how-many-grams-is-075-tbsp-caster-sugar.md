@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of caster sugar equals approximately 9.4 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you’re whipping up cakes, cookies, or desserts, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so your recipes turn out perfectly every time.</p>  

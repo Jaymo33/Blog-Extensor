@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of cheddar cheese is roughly equivalent to 4 cups when grated. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making cheesy air fryer nachos or a gooey cheddar melt, knowing how to convert grams to cups ensures perfect results every time.</p>

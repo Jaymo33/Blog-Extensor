@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of rice equals approximately 0.176 ounces. This conversion is essential for precise cooking, especially when using an air fryer where accurate measurements can make all the difference. Whether you’re meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, knowing how to convert grams to ounces ensures perfect results every time.</p>

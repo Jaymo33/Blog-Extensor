@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of baking soda equals approximately 20 ounces. This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a batch of cookies or preparing a savoury dish, knowing the exact weight of your ingredients is key.</p>  

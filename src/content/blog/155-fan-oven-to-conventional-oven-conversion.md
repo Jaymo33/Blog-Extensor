@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>155°C in a fan oven equals approximately 170°C in a conventional oven. This simple conversion ensures your recipes maintain their intended cooking results when switching between oven types. Understanding these differences is crucial for achieving perfect bakes, roasts, and more in your kitchen.</p>

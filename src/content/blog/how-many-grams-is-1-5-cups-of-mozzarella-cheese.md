@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of mozzarella cheese equals approximately 170 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy mozzarella sticks, a cheesy pizza, or a gooey pasta bake, knowing the exact weight ensures consistent results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

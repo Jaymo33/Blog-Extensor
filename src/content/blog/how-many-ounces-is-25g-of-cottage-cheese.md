@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of cottage cheese equals approximately 0.88 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're meal prepping or following a specific dish, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can cook with confidence.</p>  

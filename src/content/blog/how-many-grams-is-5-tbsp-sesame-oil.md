@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of sesame oil is approximately 68 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're frying, roasting, or baking, knowing the exact weight helps maintain consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One cup of canned beans weighs approximately 8 ounces (or 225 grams). This measurement is essential for air fryer recipes, ensuring accurate portions and perfect results every time. Whether you're making chilli, salads, or crispy bean snacks, knowing this conversion helps streamline your cooking process.</p>  

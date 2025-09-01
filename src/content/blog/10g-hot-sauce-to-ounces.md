@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of hot sauce equals approximately 0.35 ounces. Whether you’re prepping a spicy marinade or drizzling sauce over air-fried wings, knowing this conversion ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify measurements so you can focus on flavour.</p>  

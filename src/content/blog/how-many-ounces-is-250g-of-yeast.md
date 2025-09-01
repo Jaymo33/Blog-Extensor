@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of yeast equals approximately 8.82 ounces. This conversion is essential for bakers and home cooks who use air fryers to create delicious baked goods. Whether you're making bread, pizza dough, or cakes, knowing how to convert grams to ounces ensures accuracy in your recipes.</p>

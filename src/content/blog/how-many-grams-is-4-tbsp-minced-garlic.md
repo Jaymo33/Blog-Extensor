@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of minced garlic equals approximately 48 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting portions, knowing the gram equivalent ensures accuracy.</p>  

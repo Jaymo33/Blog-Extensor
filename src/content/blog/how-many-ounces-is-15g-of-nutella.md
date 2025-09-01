@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of Nutella equals approximately 0.53 ounces. If you're working on an air fryer recipe that calls for Nutella, getting the measurement right is key for perfect results. Whether you're making Nutella-stuffed pastries or drizzling it over desserts, this conversion ensures accuracy.</p>  

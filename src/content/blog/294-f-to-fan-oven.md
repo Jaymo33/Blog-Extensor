@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>294 F converts to approximately 140 C in a fan oven. This temperature is ideal for slow-cooking meats, baking delicate desserts, or dehydrating fruits in your air fryer. Understanding this conversion helps you adapt recipes from American cookbooks or older appliances to modern fan-assisted cooking.</p>

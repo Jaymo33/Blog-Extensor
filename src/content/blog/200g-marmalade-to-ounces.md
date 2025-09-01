@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of marmalade equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making glazes, desserts, or sauces, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

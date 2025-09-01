@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of gelatin powder equals approximately 17.64 ounces. This conversion is essential for precise baking, especially when using an air fryer for desserts or jellies. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing the exact weight ensures perfect results every time.</p>  

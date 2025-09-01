@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of single cream equals approximately 10.64 ounces. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re making a creamy pasta sauce or a decadent dessert, knowing the exact weight helps avoid mishaps. Single cream, a staple in British cooking, is lighter than double cream but still rich enough for many dishes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

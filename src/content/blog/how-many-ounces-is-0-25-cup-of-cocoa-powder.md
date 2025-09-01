@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of cocoa powder equals approximately 0.75 ounces (or ¾ oz). This conversion is essential for precise baking, especially when using an air fryer for desserts like brownies or cakes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or improvising, knowing the exact weight ensures perfect results every time.</p>  

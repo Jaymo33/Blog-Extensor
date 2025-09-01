@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can use Reynolds foil in an air fryer, but it requires careful placement to avoid blocking airflow or causing fire hazards. The key is to use small pieces that don't cover the entire basket and to secure them properly to prevent contact with heating elements.</p>

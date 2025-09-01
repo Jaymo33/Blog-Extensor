@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of rolled barley weighs approximately 0.88 ounces (25 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring accurate portions for perfect results every time. Whether you're meal prepping or experimenting with new dishes, knowing the exact weight helps maintain consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

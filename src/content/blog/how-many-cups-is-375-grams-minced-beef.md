@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of minced beef is roughly equivalent to 1.5 to 1.75 cups, depending on how tightly packed it is. This measurement is essential for air fryer recipes, where precision ensures even cooking. Whether you're prepping burgers, meatballs, or a hearty bolognese, knowing how to convert grams to cups saves time and hassle. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making cooking conversions simple for home chefs. Let’s dive deeper into how to measure minced beef accurately for your air fryer dishes.</p>

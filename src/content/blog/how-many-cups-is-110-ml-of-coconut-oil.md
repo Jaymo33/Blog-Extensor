@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of coconut oil is roughly 0.46 cups (US) or 0.44 cups (UK). Whether you're baking a cake or preparing a crispy air fryer dish, getting measurements right is key. Coconut oil is a staple in many kitchens, especially for those who love healthier cooking alternatives. If you're using an air fryer, precise measurements ensure your recipes turn out perfectly every time. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for more inspiration.</p>  

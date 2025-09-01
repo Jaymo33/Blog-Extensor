@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>176°C in a fan oven converts to approximately 160°C in a conventional oven. This 16°C reduction accounts for the circulating hot air in fan-assisted ovens that cooks food more efficiently. Understanding this conversion is crucial when adapting recipes between oven types or using appliances like air fryers that mimic fan oven behaviour.</p>

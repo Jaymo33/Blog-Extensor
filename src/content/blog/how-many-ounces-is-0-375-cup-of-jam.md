@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of jam equals approximately 3 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a glaze for air-fried chicken or a sweet topping for desserts, knowing how many ounces are in 0.375 cup of jam ensures accuracy. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

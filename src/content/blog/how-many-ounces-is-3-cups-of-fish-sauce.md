@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of fish sauce equals approximately 24 fluid ounces (fl oz). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken, seasoning shrimp, or whipping up a dipping sauce, knowing how to convert 3 cups of fish sauce to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>393°F converts to approximately 200°C in a fan oven. This is a common temperature for roasting meats, baking, and air frying crispy dishes. Understanding this conversion helps you achieve perfect results when using your fan oven or air fryer.</p>

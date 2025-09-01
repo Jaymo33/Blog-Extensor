@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>217 fan oven equals approximately 190°C in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens, including when using your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperature conversions make all the difference in cooking results.</p>

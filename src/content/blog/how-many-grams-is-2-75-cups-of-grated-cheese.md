@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of grated cheese equals approximately 275 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making cheesy air fryer nachos or a gooey gratin, knowing the gram equivalent ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

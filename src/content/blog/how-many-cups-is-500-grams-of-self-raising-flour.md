@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of self-raising flour equals approximately 3.5 cups in UK measurements or 4 cups in US measurements. Getting this conversion right is crucial for baking, especially when using an air fryer where precise ingredient ratios affect texture and rise. Whether you're making cakes, muffins, or even air fryer-friendly doughs, knowing how to measure 500g of self-raising flour in cups ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of vegetable oil equals approximately 34 grams. This conversion is essential for air fryer cooking, where precise measurements can impact texture and crispiness. Whether you’re making chips, roasting vegetables, or baking, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you master air fryer recipes effortlessly.</p>

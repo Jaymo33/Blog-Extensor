@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of quinoa equals approximately 4.41 ounces. This conversion is essential for anyone using precise measurements in their cooking, especially when preparing air fryer recipes. Whether you're meal prepping or following a specific dish, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>  

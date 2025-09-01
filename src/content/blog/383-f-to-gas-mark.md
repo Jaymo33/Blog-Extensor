@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>383°F converts to Gas Mark 5, making it a moderate oven temperature ideal for roasting and baking in both conventional ovens and air fryers. This temperature is commonly used for cooking meats, vegetables, and baked goods where you want thorough cooking without excessive browning. When using your air fryer at this temperature, you'll typically need to reduce cooking times by about 20% compared to conventional oven recipes.</p>

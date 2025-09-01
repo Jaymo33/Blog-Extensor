@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 388 fan oven to Fahrenheit for a conventional oven is straightforward: 388°F in a fan oven equals approximately 350°F in a conventional oven. This adjustment accounts for the fan oven's efficient heat distribution, which cooks food faster and more evenly. Whether you're baking, roasting, or reheating, understanding this conversion ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions with ease. Let's dive deeper into why this matters and how to apply it.</p>

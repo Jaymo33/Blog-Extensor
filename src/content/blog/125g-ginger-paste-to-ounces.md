@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of ginger paste equals approximately 4.41 ounces. This conversion is essential for air fryer recipes, ensuring you get the right flavour balance in your dishes. Whether you’re making marinades, sauces, or stir-fries, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

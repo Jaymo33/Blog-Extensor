@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of flour equals approximately 0.71 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or coating ingredients. Whether you're whipping up air fryer cookies or breaded chicken, knowing how many ounces 20g of flour is can make all the difference.</p>

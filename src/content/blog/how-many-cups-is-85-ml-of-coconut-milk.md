@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of coconut milk equals approximately 0.36 cups (just over 1/3 cup). This conversion is essential for air fryer recipes where precision matters, especially when working with rich ingredients like coconut milk. Whether you’re whipping up a curry or baking a dessert, knowing this measurement ensures consistent results every time.</p>

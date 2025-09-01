@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of ground cumin equals approximately 2.64 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precise spice quantities can make or break a dish. Whether you’re whipping up a fragrant curry or seasoning meats, knowing the exact weight ensures consistent flavour every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

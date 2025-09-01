@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of lemon juice is approximately 1.84 cups in US measurements or 1.53 cups in UK measurements. This conversion is essential for air fryer recipes that require precise liquid measurements to ensure perfect results. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert millilitres to cups will save you time and hassle.</p>  

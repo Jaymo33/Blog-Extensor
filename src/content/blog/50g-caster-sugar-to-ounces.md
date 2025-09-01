@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of caster sugar equals approximately 1.76 ounces. This conversion is essential for anyone using an air fryer, especially when following British recipes that require precise measurements. Whether you're baking cakes or whipping up desserts, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

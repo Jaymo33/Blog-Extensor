@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>288 fan oven equals approximately 320°F in a conventional oven. This conversion ensures your recipes turn out just right, whether you're baking, roasting, or air frying. Understanding this temperature shift is key to avoiding undercooked or overcooked dishes.</p>

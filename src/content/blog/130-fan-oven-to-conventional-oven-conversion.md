@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>130°C in a fan oven equals approximately 110°C in a conventional oven. This 20-degree difference is crucial for perfect baking results when switching between oven types. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate temperature conversions are for home cooks.</p>

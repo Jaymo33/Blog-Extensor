@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>432 fan oven converts to approximately 400°F in a conventional oven. This adjustment accounts for the efficiency of fan-assisted cooking, which circulates hot air evenly. If you're using an air fryer, you might need to tweak temperatures further. For precise conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

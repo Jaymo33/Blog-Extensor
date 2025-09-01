@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of broccoli is roughly equivalent to 2.5 cups when chopped, though this can vary slightly depending on how finely it's cut. If you're using an air fryer, getting the right measurement ensures even cooking and perfect texture. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing this conversion helps avoid over or underfilling your air fryer basket.</p>  

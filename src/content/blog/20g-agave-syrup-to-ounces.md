@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of agave syrup is approximately 0.705 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're drizzling it over desserts or using it in marinades, knowing the exact weight ensures perfect results every time.</p>  

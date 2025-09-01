@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of breadcrumbs equals approximately 2.65 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure even coating and perfect crispiness. Whether you’re making crispy chicken tenders or golden fish fillets, knowing how to convert grams to ounces helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless so you can focus on cooking delicious meals.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put wet batter directly into an air fryer. The high-speed airflow can cause dripping, uneven cooking, or even fire hazards. Instead, pre-cook battered items like fish or onion rings in a pan before finishing them in the air fryer for crispiness. For safer alternatives, check out <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer-friendly recipes</a> that skip the mess.</p>  

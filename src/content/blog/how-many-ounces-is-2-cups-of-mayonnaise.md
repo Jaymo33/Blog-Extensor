@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of mayonnaise equals approximately 16 ounces. This conversion is essential for accurate measurements, especially when preparing air fryer recipes that require precise ingredient quantities. Whether you're whipping up a creamy dip or a crispy coating, knowing how many ounces are in 2 cups of mayonnaise ensures your dish turns out perfectly every time.</p>

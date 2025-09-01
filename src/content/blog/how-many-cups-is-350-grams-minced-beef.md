@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of minced beef is roughly equivalent to 1.5 to 1.75 cups, depending on how tightly packed the meat is. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making juicy burgers, meatballs, or a hearty bolognese, knowing how many cups is 350 grams of minced beef ensures consistent results.</p>  

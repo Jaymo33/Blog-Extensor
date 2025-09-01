@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>233 fan oven equals approximately 225°F in a conventional oven. This conversion ensures your recipes turn out perfectly, whether you're baking cakes or roasting meats. Understanding this temperature shift is crucial for achieving consistent results in your kitchen.</p>

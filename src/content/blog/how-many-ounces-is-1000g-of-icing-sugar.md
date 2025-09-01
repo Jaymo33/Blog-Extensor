@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of icing sugar equals approximately 35.27 ounces. This conversion is essential for bakers who need precise measurements, especially when working with air fryer recipes. Whether you’re dusting desserts or making frosting, knowing the exact weight ensures perfect results every time.</p>

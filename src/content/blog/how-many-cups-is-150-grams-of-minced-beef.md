@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of minced beef is roughly equivalent to 0.63 cups when lightly packed. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up burgers, meatballs, or a hearty bolognese, knowing how many cups 150 grams of minced beef equals ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks.</p>

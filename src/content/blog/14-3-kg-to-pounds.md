@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>14.3 kg is equal to 31.526 pounds, a conversion that comes in handy for air fryer cooking and meal preparation. Whether you are weighing ingredients for a large batch of chips or checking the weight of a whole chicken, knowing how to convert 14.3 kg to pounds ensures accuracy in your recipes. This conversion is particularly useful for those following British or American recipes that use different measurement systems. At airfryerrecipe.co.uk, we understand the importance of precise measurements for perfect results every time. Getting your quantities right can make all the difference between a soggy mess and crispy perfection.</p>

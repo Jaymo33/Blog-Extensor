@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of powdered milk equals approximately 24 ounces. This conversion is essential for air fryer recipes, ensuring accuracy in measurements for consistent results. Whether you're whipping up a cake or preparing a creamy sauce, knowing the weight of powdered milk helps avoid mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

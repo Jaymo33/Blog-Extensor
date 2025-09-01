@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you're wondering how many ounces is 2.5 cups of soft cheese, the answer is approximately 20 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially when working with ingredients like cream cheese, ricotta, or mascarpone. Getting this measurement right can make the difference between a perfectly set cheesecake and a runny disaster. Many fantastic recipes on <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> rely on accurate soft cheese quantities for success. Understanding this conversion will help you master everything from dips to desserts in your air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>315°F converts to approximately 157°C in a fan oven, which is the standard setting for many baked goods and air fryer recipes. This temperature is ideal for achieving even cooking and crispy textures, whether you're using a conventional fan oven or an air fryer. Understanding this conversion helps you adapt recipes from American cookbooks or online sources to UK appliances. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks.</p>

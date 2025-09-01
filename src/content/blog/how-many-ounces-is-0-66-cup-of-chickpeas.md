@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of chickpeas equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect texture. Whether you’re meal prepping or following a specific recipe, knowing the exact weight helps avoid under or over-seasoning. Chickpeas are a staple in many air fryer dishes, from crispy snacks to hearty mains, so accuracy matters. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>389°F converts to Gas Mark 5, which is a moderate oven temperature ideal for baking and roasting. This temperature works perfectly in both conventional ovens and air fryers, ensuring even cooking for a variety of dishes. Whether you’re preparing cakes, casseroles, or roasted vegetables, knowing the Gas Mark equivalent of 389°F helps you achieve consistent results. For more air fryer temperature conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

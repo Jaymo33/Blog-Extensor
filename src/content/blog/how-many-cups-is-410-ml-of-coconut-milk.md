@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of coconut milk equals approximately 1.73 cups. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a creamy curry or a decadent dessert, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>

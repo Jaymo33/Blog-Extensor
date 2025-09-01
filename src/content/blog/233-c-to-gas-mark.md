@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>233 C converts to Gas Mark 8, which is a common setting for baking and roasting in both ovens and air fryers. Whether you're preparing a cake, roasting vegetables, or cooking meat, this temperature is ideal for achieving a golden-brown finish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for perfect results every time.</p>

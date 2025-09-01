@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of chopped onion equals approximately 2.5 grams. This measurement is crucial for air fryer recipes where precision matters, especially when working with small quantities of aromatic ingredients like onions.</p>

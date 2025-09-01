@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of butter equals 4 ounces (113 grams). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a batch of cookies or preparing a savoury dish, knowing how to convert 0.5 cup of butter to ounces ensures consistency and perfect results.</p>  

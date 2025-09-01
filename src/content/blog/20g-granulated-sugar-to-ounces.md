@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of granulated sugar equals approximately 0.705 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and taste. Whether you're making cakes, cookies, or even savoury dishes, knowing how to convert grams to ounces ensures consistency in your recipes.</p>  

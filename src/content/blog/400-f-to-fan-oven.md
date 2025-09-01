@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400°F converts to approximately 200°C in a fan oven. This is the standard conversion for most recipes, ensuring your dishes cook evenly whether you're using an air fryer or a conventional fan oven. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions effortlessly.</p>

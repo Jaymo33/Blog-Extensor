@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of sunflower seeds weigh approximately 12.5 ounces (354 grams) in the UK. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're roasting sunflower seeds for a snack or incorporating them into a dish, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking experience.</p>  

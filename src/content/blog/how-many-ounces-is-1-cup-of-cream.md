@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cream equals approximately 8 ounces in weight. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making a creamy sauce or a decadent dessert, knowing how many ounces are in 1 cup of cream ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time. Let’s dive deeper into why this measurement matters and how to use it in your cooking.</p>

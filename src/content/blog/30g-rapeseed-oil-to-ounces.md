@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of rapeseed oil equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're frying, roasting, or baking, knowing how to convert 30g of rapeseed oil to ounces ensures your dishes turn out perfectly every time.</p>

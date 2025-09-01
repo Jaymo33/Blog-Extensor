@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of lime juice is approximately 0.7 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken, dressing a salad, or adding a zesty kick to desserts, knowing how many ounces 20g of lime juice equals ensures consistency in your cooking.</p>  

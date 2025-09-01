@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Ounces is 1.5 Cups of Rolled Oats?</h2>  

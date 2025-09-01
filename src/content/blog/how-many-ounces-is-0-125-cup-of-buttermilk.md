@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of buttermilk equals exactly 1 fluid ounce (oz). This measurement is crucial for precision in baking and air fryer recipes, where accurate liquid quantities can make or break your dish. Whether you're whipping up fluffy pancakes or a tangy marinade for chicken, knowing this conversion ensures consistency. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

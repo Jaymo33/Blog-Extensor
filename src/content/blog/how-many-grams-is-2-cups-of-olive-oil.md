@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of olive oil is equivalent to approximately 480 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making crispy roast potatoes or a moist cake, knowing how many grams are in 2.0 cups of olive oil helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide reliable conversions to make your cooking seamless. Keep reading for more details on measuring olive oil and tips for air fryer success.</p>  

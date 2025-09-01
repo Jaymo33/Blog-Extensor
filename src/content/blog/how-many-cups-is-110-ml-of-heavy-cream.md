@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of heavy cream is approximately 0.46 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy sauce or a decadent dessert, getting the right amount of heavy cream ensures perfect results every time.</p>

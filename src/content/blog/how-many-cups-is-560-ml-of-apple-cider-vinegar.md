@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of apple cider vinegar equals approximately 2.37 cups. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of acidity and flavour. Whether you're marinating chicken or whipping up a tangy glaze, knowing how many cups is 560 ml of apple cider vinegar makes all the difference.</p>

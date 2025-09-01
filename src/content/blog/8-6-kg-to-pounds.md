@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>8.6 kg is equal to approximately 18.96 pounds. This conversion is essential when working with air fryer recipes, especially those that use larger cuts of meat or batch cooking where precise weight matters for even cooking and perfect results. Whether you’re preparing a family feast or meal prepping for the week, knowing how to convert 8.6 kg to pounds ensures you follow recipes accurately and avoid under or overcooking. Many fantastic resources at <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> provide detailed guides and recipes where such conversions come in handy. Getting your measurements right from the start makes all the difference in air frying success.</p>

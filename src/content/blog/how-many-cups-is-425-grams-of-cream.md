@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of cream is roughly equivalent to 1.8 cups in the UK or 1.75 cups in the US. This conversion is essential for baking, cooking, or even whipping up air fryer recipes where precision matters. Whether you're making a creamy sauce or a decadent dessert, knowing how to measure cream accurately ensures perfect results every time.</p>

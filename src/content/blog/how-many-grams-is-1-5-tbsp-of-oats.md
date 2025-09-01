@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of oats equals approximately 12 grams in UK measurements. This conversion is essential for air fryer recipes, ensuring consistency whether you’re making granola, oat bars, or crumbles. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in cooking.</p>  

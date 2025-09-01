@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chopped tomatoes weigh approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes where precise measurements can impact cooking times and results. Whether you're making a fresh salsa or a roasted tomato dish in your air fryer, knowing this conversion ensures consistency.</p>

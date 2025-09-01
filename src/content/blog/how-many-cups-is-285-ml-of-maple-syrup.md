@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of maple syrup is approximately 1.2 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're making glazes, marinades, or sweet treats, knowing how to convert millilitres to cups ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of tomato sauce equals approximately ¼ cup. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a quick pasta sauce or a marinade, knowing how to convert 60 ml of tomato sauce to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>6 kg of beef mince is equal to approximately 13.2277 pounds. This conversion is essential for anyone cooking with larger quantities, especially when using an air fryer where precise measurements can affect cooking times and results. Whether you're preparing a big batch of burgers, meatballs, or a hearty bolognese, knowing how to convert 6 kg beef mince to pounds ensures you follow recipes accurately. It's a handy skill for home cooks and meal preppers alike. For more conversion tips and air fryer inspiration, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

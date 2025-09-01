@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of lime juice equals 4 fluid ounces (oz). This measurement is essential for air fryer recipes where precise liquid quantities can make or break your dish. Whether you’re marinating chicken or adding zest to a dessert, knowing this conversion ensures consistency.</p>

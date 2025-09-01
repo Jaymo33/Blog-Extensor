@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of agave syrup equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a dessert or glazing meats, knowing how to convert grams to ounces ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

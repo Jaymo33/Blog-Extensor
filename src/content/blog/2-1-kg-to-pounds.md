@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.1 kilograms is equal to approximately 4.63 pounds. This conversion is incredibly useful for air fryer enthusiasts who often work with recipes that list ingredients in pounds or need to portion meals correctly. Getting your weights right ensures your food cooks evenly and comes out perfectly crispy every time. Whether you're preparing a family dinner or meal prepping for the week, this simple conversion can make all the difference. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

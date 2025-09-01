@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of balsamic vinegar is approximately 0.89 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken or drizzling over roasted vegetables, knowing how many cups 210 ml of balsamic vinegar equals ensures perfect results every time.</p>  

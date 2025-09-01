@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of water equals approximately 0.21 cups (or roughly 1/5 of a cup). This conversion is essential for air fryer recipes where precise liquid measurements can make or break your dish. Whether you're baking, steaming, or adjusting moisture levels, knowing how to convert grams to cups ensures consistency.</p>

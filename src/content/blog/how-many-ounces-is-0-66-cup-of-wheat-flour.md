@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of wheat flour equals approximately 3.17 ounces (oz). This conversion is essential for air fryer baking, where precision ensures perfect texture and rise. Whether you’re making cakes, bread, or cookies, knowing the exact weight of your flour can make or break a recipe. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate measurements.</p>  

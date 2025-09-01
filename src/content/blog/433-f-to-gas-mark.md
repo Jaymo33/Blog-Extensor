@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>433 degrees Fahrenheit converts to Gas Mark 8 in UK ovens. This high temperature is perfect for roasting meats, baking pizzas, or creating crispy textures in traditional ovens. When using an air fryer, you'll typically need to reduce both the temperature and cooking time compared to conventional oven settings.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>364°F in a fan oven is equivalent to approximately 400°F in a conventional oven. This conversion ensures your recipes bake evenly, whether you're using a traditional oven or an air fryer. Understanding this temperature adjustment is key to achieving perfect results every time.</p>

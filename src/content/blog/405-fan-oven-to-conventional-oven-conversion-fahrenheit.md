@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 405 fan oven to Fahrenheit for a conventional oven is straightforward: 405°F in a fan oven equals approximately 375°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted cooking. Whether you're baking a cake or roasting vegetables, understanding this conversion ensures consistent results. For more detailed guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

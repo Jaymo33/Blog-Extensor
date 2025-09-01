@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of mayonnaise equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy dip or coating chicken for a crispy finish, knowing this measurement ensures perfect results every time.</p>

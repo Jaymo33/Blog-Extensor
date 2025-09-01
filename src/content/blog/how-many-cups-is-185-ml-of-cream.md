@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of cream equals approximately 0.78 cups (just under ¾ cup) in standard US measurements. If you're using UK measurements, it's roughly 0.65 cups due to the slight difference in cup sizes. Knowing this conversion is essential for air fryer recipes, where precise measurements can make or break your dish.</p>

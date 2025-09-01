@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>424 F converts to approximately 218 C in a fan oven. This conversion is essential when adapting American recipes or air fryer instructions for UK fan ovens. The difference between Fahrenheit and Celsius scales, plus the unique way fan ovens circulate heat, makes accurate conversion crucial for cooking success.</p>

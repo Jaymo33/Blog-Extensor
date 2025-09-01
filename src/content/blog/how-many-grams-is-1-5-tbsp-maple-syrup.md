@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of maple syrup equals approximately 30 grams (g). This conversion is essential for air fryer recipes where precision ensures the perfect balance of sweetness and texture. Whether you’re glazing salmon or drizzling over air-fried desserts, knowing the exact weight helps avoid overly sticky or dry results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

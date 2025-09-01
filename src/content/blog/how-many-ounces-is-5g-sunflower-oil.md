@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of sunflower oil equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re frying, baking, or roasting, knowing how to convert grams to ounces ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

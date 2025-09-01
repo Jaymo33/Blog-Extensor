@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>267°F converts to approximately Gas Mark 1 on the UK gas scale. This low temperature is ideal for slow roasting, dehydrating, or keeping dishes warm in both air fryers and conventional ovens. Understanding this conversion helps when adapting recipes between appliances or using older cookbooks with gas mark measurements.</p>

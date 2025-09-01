@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of lemonade equals 20 fluid ounces (fl oz). This conversion is essential for precise measurements, especially when preparing recipes for your air fryer. Whether you're making a refreshing drink or incorporating lemonade into a dish, knowing the exact ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right every time.</p>  

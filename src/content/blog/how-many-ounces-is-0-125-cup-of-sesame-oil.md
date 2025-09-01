@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of sesame oil equals 1 fluid ounce (oz). This measurement is crucial for precise cooking, especially when using an air fryer, where accurate ingredient quantities can make or break a recipe.</p>

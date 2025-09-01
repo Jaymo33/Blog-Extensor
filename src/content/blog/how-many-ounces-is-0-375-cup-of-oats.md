@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of oats equals approximately 1.5 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring perfect texture and consistency every time.</p>

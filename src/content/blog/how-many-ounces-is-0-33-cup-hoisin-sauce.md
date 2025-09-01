@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of hoisin sauce equals approximately 2.64 ounces. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you're marinating chicken or glazing salmon, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with precise conversions. Keep reading to master hoisin sauce measurements for your air fryer.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One cup of maple syrup equals approximately 11.5 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making glazes, marinades, or desserts, knowing the exact weight helps maintain consistency. Maple syrup’s thick, sticky nature means volume-to-weight conversions are crucial for accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide reliable conversions to make cooking effortless.</p>  

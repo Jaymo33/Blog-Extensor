@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of orange juice is approximately 3.5 cups in the UK and 3.52 cups in the US. Knowing this conversion is essential for air fryer recipes, where precise measurements can affect texture and flavour. Whether you're making a glaze, marinade, or baking a cake, getting the liquid quantities right ensures consistent results.</p>  

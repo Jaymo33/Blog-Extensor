@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 6 kg whole chicken converts to approximately 13.23 pounds, making it essential knowledge for air fryer cooking where space and timing are crucial. This conversion helps you determine if your chicken will fit in your air fryer basket and allows for accurate cooking time calculations. Many British recipes use metric measurements, while some air fryer manuals might use imperial, so knowing how to convert 6 kg whole chicken to pounds becomes practically useful. Whether you're meal prepping or cooking for a family dinner, getting this conversion right ensures your chicken cooks evenly and thoroughly. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

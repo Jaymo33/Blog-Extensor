@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of skimmed milk equals approximately 4.23 ounces (or 4.2 oz for simplicity). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re whipping up a creamy sauce or baking a light dessert, knowing how many ounces are in 0.5 cup of skimmed milk helps you nail the recipe every time.</p>  

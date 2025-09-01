@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of apple juice equals approximately 8.45 ounces. This measurement is standard for liquid ingredients like apple juice, making it easy to convert for recipes. Whether you’re using an air fryer or traditional oven, knowing this conversion ensures your dishes turn out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

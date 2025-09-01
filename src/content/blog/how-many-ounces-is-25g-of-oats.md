@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25 grams of oats equals approximately 0.88 ounces. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you're making granola, oat bars, or using oats as a coating, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when using an air fryer.</p>

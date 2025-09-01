@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of cooked rice equals approximately 4.41 ounces. This conversion is handy for air fryer recipes, ensuring you get the right portion sizes for meal prep or side dishes. Whether you're cooking for one or scaling up, knowing how to convert grams to ounces helps keep your meals consistent. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

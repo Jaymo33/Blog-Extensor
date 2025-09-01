@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of vegetable oil is approximately 2.37 cups in the US measurement system and roughly 2.46 cups in the UK. This conversion is essential for precise cooking, especially when using an air fryer where exact measurements can impact texture and crispiness. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a family favourite, knowing how to convert millilitres to cups ensures consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of butter equals approximately 42.5 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a batch of cookies or preparing a savoury dish, knowing the exact weight ensures consistency. For more air fryer tips and conversions, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our handy conversion chart</a>.</p>

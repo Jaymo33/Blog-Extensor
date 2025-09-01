@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of vinegar is approximately 2.79 cups in the US measurement system and 2.32 cups in the UK measurement system. Whether you're preparing a marinade, pickling vegetables, or whipping up a sauce for your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when working with strong ingredients like vinegar.</p>

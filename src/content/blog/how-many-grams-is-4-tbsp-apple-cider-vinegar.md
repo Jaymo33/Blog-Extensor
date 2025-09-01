@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of apple cider vinegar equals approximately 60 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistency.</p>

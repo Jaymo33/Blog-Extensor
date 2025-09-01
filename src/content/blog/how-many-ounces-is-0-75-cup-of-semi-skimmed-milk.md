@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of semi skimmed milk equals 6 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking, making sauces, or preparing batters, knowing how many ounces are in 0.75 cup of semi skimmed milk ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect dishes every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of vinegar equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision can make or break your dish. Whether you're preparing a tangy marinade or a light dressing, knowing the exact weight ensures consistent results every time.</p>

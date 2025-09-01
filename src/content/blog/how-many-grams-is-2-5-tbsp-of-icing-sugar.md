@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of icing sugar equals approximately 31 grams. This conversion is essential for precise baking, especially when using an air fryer, where measurements can make or break a recipe. Whether you’re whipping up a cake or dusting desserts, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions.</p>  

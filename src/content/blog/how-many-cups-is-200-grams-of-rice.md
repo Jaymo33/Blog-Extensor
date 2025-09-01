@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of rice equals approximately 1 cup in the US and 0.88 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you're meal prepping or whipping up a quick side dish, knowing how much rice to use makes all the difference.</p>  

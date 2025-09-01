@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of mayonnaise equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re making a sauce or coating ingredients, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 F converts to approximately 154 C in a fan oven. This temperature is commonly used for baking, roasting, and air frying, ensuring even heat distribution for consistent results. Whether you're using an air fryer or a conventional fan oven, understanding this conversion is key to perfect cooking.</p>

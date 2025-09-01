@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of jam equals approximately 4 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're glazing meats or baking desserts, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time.</p>

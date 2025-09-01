@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>173 C converts to approximately 150 C in a fan oven. This 20-25°C reduction is standard when adapting conventional oven temperatures for fan-assisted cooking. Whether you're using an air fryer or convection oven, understanding this conversion ensures your recipes turn out perfectly every time.</p>

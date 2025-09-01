@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of condensed milk equals approximately 24 ounces. This conversion is essential for air fryer recipes, ensuring accuracy and consistency in your cooking. Whether you’re making a creamy dessert or a rich sauce, knowing the exact weight helps achieve the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your air fryer cooking.</p>  

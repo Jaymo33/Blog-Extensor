@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>378 F converts to approximately 190 C in a fan oven. This is a common temperature for roasting vegetables, baking cakes, or crisping up air fryer favourites. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using a conventional oven or an air fryer.</p>

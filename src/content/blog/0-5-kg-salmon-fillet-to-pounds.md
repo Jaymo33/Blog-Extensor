@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 0.5 kg salmon fillet and need to know its weight in pounds, the answer is straightforward: 0.5 kg is approximately 1.102 pounds. This conversion is essential when following air fryer recipes that use imperial measurements, ensuring your cooking times and temperatures are spot on. Whether you're meal prepping or cooking for a family dinner, getting the weight right makes all the difference. You can find more handy conversion tips on our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk. Knowing how to convert 0.5 kg salmon fillet to pounds helps you use your air fryer more effectively and achieve delicious results every time.</p>

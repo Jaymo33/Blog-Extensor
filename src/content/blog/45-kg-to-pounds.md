@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>45 kg equals exactly 99.208 pounds, making it a crucial conversion for anyone using imperial measurements in their kitchen. This conversion becomes particularly important when working with air fryer recipes that often specify weights in pounds rather than kilograms. Whether you're preparing a large batch of chicken wings or portioning vegetables for roasting, knowing how to convert 45 kg to pounds ensures your cooking measurements remain accurate. Many British cooks find themselves needing this conversion when following international recipes or using older cookbooks. Getting this conversion right can make the difference between perfectly cooked food and disappointing results in your air fryer.</p>

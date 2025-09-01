@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>370°F converts to approximately 170°C in a fan oven. This is the standard conversion used in UK kitchens when adapting American recipes or adjusting air fryer temperatures. The fan oven's circulating air means you'll typically need to reduce temperatures by about 20°C compared to conventional ovens.</p>

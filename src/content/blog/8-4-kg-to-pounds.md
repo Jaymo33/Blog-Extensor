@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>8.4 kg is equal to approximately 18.52 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger quantities of ingredients or checking the maximum capacity of your appliance. Whether you're meal prepping, following a recipe from another country, or simply curious, knowing how to convert 8.4 kg to pounds can make your cooking experience much smoother. At airfryerrecipe.co.uk, we understand the importance of accurate measurements for perfect results every time. Let's dive into the details of this conversion and how it applies to your air frying adventures.</p>

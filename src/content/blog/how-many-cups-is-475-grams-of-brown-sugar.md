@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of brown sugar is roughly equivalent to 2.25 cups when lightly packed. This conversion is essential for baking and air frying, where precision ensures perfect texture and flavour. Whether you're whipping up cookies or a sticky glaze for air-fried chicken, getting the measurement right makes all the difference.</p>

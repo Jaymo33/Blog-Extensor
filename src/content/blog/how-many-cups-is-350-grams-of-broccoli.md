@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of broccoli is roughly equivalent to 3.5 to 4 cups when chopped. This measurement can vary slightly depending on how finely you chop the broccoli, but it’s a reliable starting point for air fryer recipes. Whether you’re making roasted broccoli or adding it to a stir-fry, knowing this conversion ensures consistent results every time.</p>

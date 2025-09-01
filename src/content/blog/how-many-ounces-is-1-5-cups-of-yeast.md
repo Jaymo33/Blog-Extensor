@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of yeast equals approximately 12 ounces. Whether you're baking bread or prepping an air fryer recipe, getting measurements right is crucial for perfect results. Yeast is a key ingredient in many dishes, and even a small miscalculation can affect texture and rise. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, so let’s dive into the details.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of whipping cream equals approximately 20 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require accuracy. Whether you're making a creamy dessert or a rich sauce, knowing the exact weight ensures perfect results every time.</p>

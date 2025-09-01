@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of soy sauce equals roughly 0.15 cups (or just under 1/6 of a cup). This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you're marinating chicken or whipping up a stir-fry, knowing this conversion ensures your meals turn out perfectly every time.</p>  

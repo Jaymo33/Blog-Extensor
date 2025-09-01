@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 275 fan oven to conventional oven in Fahrenheit is straightforward: 275°F in a fan oven is roughly equivalent to 300°F in a conventional oven. This adjustment accounts for the fan oven's efficient heat distribution, which cooks food faster and more evenly. Whether you're baking a cake or roasting vegetables, understanding this conversion ensures perfect results every time. For more detailed guides, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

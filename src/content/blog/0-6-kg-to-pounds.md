@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.6 kilograms is equal to approximately 1.32277 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging use different measurement systems. Knowing how to convert 0.6 kg to pounds ensures you portion ingredients correctly for even cooking and fantastic results. Whether you are preparing fresh vegetables or frozen foods, accurate measurements lead to better meals. Bookmark this guide for quick reference whenever you need to convert 0.6 kg to pounds.</p>

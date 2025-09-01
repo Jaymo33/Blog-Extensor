@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of cornflour equals approximately 10.6 ounces (or 300 grams). Getting this conversion right is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you're coating chicken or thickening a sauce, knowing the exact weight saves time and avoids kitchen mishaps.</p>  

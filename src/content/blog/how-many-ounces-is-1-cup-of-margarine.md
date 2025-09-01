@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of margarine equals 8 ounces in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking or frying, knowing how many ounces are in 1 cup of margarine ensures your recipes turn out perfectly every time.</p>

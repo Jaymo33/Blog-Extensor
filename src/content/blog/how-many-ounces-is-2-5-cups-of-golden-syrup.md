@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of golden syrup equals approximately 20 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer. Golden syrup, a staple in British baking, requires accurate measurements to ensure your recipes turn out perfectly. Whether you're making flapjacks or sticky toffee pudding, knowing how many ounces are in 2.5 cups of golden syrup can make all the difference.</p>

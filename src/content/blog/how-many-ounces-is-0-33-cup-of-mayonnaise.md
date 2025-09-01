@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of mayonnaise equals approximately 2.64 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re preparing a creamy dip or a savoury coating, knowing the exact weight ensures consistent results every time.</p>

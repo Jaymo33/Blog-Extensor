@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of honey equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re glazing chicken or sweetening a dessert, knowing how to convert grams to ounces ensures perfect results every time.</p>

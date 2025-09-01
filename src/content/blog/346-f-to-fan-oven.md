@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>346°F converts to approximately 175°C in a fan oven. This is a common temperature for roasting vegetables, baking cakes, or crisping up frozen foods in both air fryers and fan-assisted ovens. If you're adapting recipes between these appliances, knowing this conversion ensures consistent results every time.</p>

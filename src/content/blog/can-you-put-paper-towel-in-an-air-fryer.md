@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put paper towel in an air fryer as it poses a significant fire risk. The high-speed circulating heat in air fryers can easily cause paper products to ignite, especially when they come into contact with heating elements or get blown around by the fan.</p>

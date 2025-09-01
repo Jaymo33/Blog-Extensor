@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of peanut butter equals approximately 8.5 ounces (240 grams). This conversion is essential for air fryer recipes, ensuring accurate ingredient ratios for perfect results every time. Whether you're making peanut butter cookies or satay sauce, knowing this measurement helps avoid kitchen mishaps.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of olive oil is approximately 0.33 cups (or 1/3 cup) when measured for cooking or baking. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're drizzling oil over vegetables or mixing it into a batter, knowing how many cups is 75 grams of olive oil ensures consistent results every time.</p>

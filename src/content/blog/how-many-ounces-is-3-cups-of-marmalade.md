@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of marmalade equals approximately 24 ounces. This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're making glazes, desserts, or sauces, knowing the exact weight ensures consistency in your recipes.</p>  

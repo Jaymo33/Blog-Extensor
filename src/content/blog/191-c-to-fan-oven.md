@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>191°C in a conventional oven converts to approximately 170°C in a fan oven. This 20-degree reduction is standard when adapting recipes for convection cooking. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures perfect results every time.</p>

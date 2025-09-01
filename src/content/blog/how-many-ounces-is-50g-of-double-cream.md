@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of double cream equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy dessert or a rich sauce, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with indulgent ingredients like double cream.</p>  

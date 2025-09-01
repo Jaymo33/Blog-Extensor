@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of mayonnaise is approximately 0.705 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for sauces or dressings. Whether you're making crispy chicken or a quick snack, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  

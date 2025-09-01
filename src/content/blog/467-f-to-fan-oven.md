@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>467 F converts to approximately 241 C in a fan oven. This high-temperature setting is ideal for professional-style baking, pizza, or achieving ultra-crispy results in both fan ovens and air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for perfect cooking every time.</p>

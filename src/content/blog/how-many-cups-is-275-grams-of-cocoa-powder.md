@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of cocoa powder equals approximately 2.75 cups in the UK or 2.2 cups in the US. This conversion is essential when adapting recipes for your air fryer, especially when baking cakes or desserts. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in air fryer cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of beef stock equals approximately 768.91 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making a rich gravy, a hearty stew, or a flavourful sauce, knowing how many ml is 3.25 cups of beef stock ensures accuracy in your cooking.</p>

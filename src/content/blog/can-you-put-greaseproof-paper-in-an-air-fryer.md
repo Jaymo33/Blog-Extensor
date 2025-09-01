@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can use greaseproof paper in an air fryer, but it must be heat-resistant and properly secured to prevent fire hazards. Greaseproof paper designed for high temperatures (usually up to 220°C) works best in air fryers, preventing food from sticking while allowing proper air circulation.</p>

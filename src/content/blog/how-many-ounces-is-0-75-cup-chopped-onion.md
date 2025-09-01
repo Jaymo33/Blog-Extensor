@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of chopped onion equals approximately 3 ounces. This measurement is crucial when preparing air fryer recipes that require precise ingredient quantities for perfect results. Whether you're making onion rings, fajitas, or a savoury stir-fry, knowing this conversion helps maintain consistency in your cooking.</p>

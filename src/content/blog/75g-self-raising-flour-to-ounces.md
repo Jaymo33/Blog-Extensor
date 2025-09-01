@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of self-raising flour equals approximately 2.65 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break your baked goods. Whether you're making scones, cakes or batter-based treats in your air fryer, getting the flour quantity right ensures perfect results every time.</p>

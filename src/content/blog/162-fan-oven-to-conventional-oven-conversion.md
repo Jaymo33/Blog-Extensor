@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>162°C in a fan oven converts to approximately 180°C in a conventional oven. This adjustment is crucial for baking and roasting, especially when using an air fryer. Understanding these conversions ensures your recipes turn out perfectly every time.</p>

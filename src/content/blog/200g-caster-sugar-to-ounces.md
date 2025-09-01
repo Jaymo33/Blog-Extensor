@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of caster sugar is approximately 7.05 ounces. This conversion is essential for anyone using an air fryer to bake, as precise measurements can make or break your recipe. Whether you’re making cakes, cookies, or other sweet treats, knowing how many ounces are in 200g of caster sugar ensures consistency and delicious results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

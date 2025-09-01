@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of cottage cheese equals approximately 1.76 ounces. This conversion is handy for air fryer recipes, ensuring you get the right texture and consistency every time. Whether you're making a cheesy breakfast bake or a light snack, knowing how to convert grams to ounces helps streamline your cooking process.</p>  

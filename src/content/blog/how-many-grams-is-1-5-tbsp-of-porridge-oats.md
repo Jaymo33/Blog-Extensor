@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of porridge oats equals approximately 12 grams. This conversion is essential for getting your air fryer breakfast recipes just right, whether you're making porridge, oat bars or using oats as a coating.</p>

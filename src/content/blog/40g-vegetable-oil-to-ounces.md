@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of vegetable oil equals approximately 1.41 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re whipping up crispy chips or a succulent roast, knowing how to convert 40g of vegetable oil to ounces ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cranberries equals approximately 4 ounces (113 grams). This measurement is key for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making cranberry sauce, muffins, or a festive side, knowing the exact weight helps with consistency.</p>  

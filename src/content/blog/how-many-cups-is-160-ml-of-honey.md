@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of honey is approximately 0.68 cups in the US or 0.56 cups in the UK. This conversion is essential for accurate baking and cooking, especially when using an air fryer. Whether you're whipping up a glaze or sweetening a dessert, knowing how many cups is 160 ml of honey ensures perfect results every time.</p>  

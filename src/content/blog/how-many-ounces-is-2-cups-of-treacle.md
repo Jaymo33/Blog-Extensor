@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of treacle equals approximately 24 ounces. This measurement is essential for precise baking and cooking, especially when using an air fryer. Whether you’re whipping up a sticky pudding or a glaze for meats, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get measurements spot-on for flawless dishes.</p>

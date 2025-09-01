@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of gelatin powder equals approximately 10.64 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a dessert or a savoury dish, knowing the exact weight of your ingredients is crucial. Gelatin powder is a common ingredient in many recipes, and accurate measurements can make or break your dish. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for inspiration on how to use gelatin powder in your air fryer.</p>

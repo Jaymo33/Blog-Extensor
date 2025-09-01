@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of apple cider vinegar equals approximately 0.78 cups. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're whipping up a marinade or baking, knowing how to convert 185 ml of apple cider vinegar to cups ensures consistency and great results every time.</p>

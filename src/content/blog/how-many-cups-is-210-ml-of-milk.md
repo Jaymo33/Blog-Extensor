@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of milk equals approximately 0.89 cups in the UK or 0.88 cups in the US. This small difference matters in baking and air fryer recipes where precision is key. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 210 ml of milk to cups ensures perfect results every time.</p>

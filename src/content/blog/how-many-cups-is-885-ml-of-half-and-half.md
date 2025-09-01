@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of half and half is equivalent to approximately 3.75 cups. This conversion is essential for anyone using half and half in recipes, especially when working with air fryer dishes that require precise measurements. Whether you're making creamy sauces, desserts, or even rich mashed potatoes, knowing how to convert 885 ml of half and half to cups ensures your dishes turn out perfectly every time.</p>

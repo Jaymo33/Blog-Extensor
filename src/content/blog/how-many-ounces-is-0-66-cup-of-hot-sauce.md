@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of hot sauce equals approximately 5.28 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up spicy wings or a tangy marinade, knowing how many ounces are in 0.66 cup of hot sauce ensures consistent flavour every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we believe accuracy is key to delicious results. Let’s dive deeper into conversions and tips for using hot sauce in your air fryer.</p>  

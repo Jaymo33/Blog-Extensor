@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of water equals approximately 2.11 cups in the UK or 2.1 cups in the US. This conversion is essential for air fryer recipes where precise measurements matter. Whether you’re baking a cake or preparing a savoury dish, knowing how to convert grams to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make these conversions easy so you can focus on cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of almonds equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making almond-crusted chicken or a healthy snack, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for the best results. Let’s dive deeper into why this measurement matters.</p>

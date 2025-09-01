@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>17.25 kg is equal to approximately 38.03 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or following recipes that use imperial measurements. Knowing how to convert 17.25 kg to pounds accurately ensures your cooking times and temperatures are spot on, leading to perfectly cooked meals every time. Whether you're preparing a big family feast or meal prepping for the week, this conversion will come in handy. For more helpful conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

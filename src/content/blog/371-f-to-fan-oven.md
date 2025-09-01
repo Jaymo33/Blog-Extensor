@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>371°F converts to approximately 188°C in a fan oven. This temperature is commonly used for roasting vegetables, baking cakes, or crisping up meats in both fan ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using traditional appliances or modern air fryers.</p>

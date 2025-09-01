@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of yeast equals approximately 1.06 ounces. This conversion is essential for bakers who need precise measurements, especially when adapting recipes for air fryers. Whether you're making bread, pizza dough, or sweet treats, knowing how to convert grams to ounces ensures consistency in your results.</p>  

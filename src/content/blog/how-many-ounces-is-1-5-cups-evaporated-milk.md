@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of evaporated milk equals 12 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a creamy dessert or a savoury dish, knowing this conversion ensures accuracy. Evaporated milk is a staple in many recipes, and getting the measurements right can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you cook with confidence. Keep reading for more details and handy tips.</p>  

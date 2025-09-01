@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of chilli sauce equals approximately 22.5 grams (g) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes have the perfect balance of heat and flavour. Whether you’re whipping up a spicy marinade or adding a kick to your air-fried wings, knowing the exact weight helps avoid over or under-seasoning. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

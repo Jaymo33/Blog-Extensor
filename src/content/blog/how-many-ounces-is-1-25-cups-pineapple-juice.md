@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of pineapple juice equals 10 fluid ounces (UK measurement). This conversion is essential for air fryer recipes, marinades, or cocktails where precision matters. Pineapple juice adds a sweet, tangy flavour to dishes, and knowing the exact weight ensures consistency in your cooking.</p>

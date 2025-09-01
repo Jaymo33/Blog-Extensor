@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of chicken breast weighs approximately 330 grams. This conversion is essential for precise cooking, especially when using an air fryer, where ingredient measurements can affect texture and doneness. Whether you're preparing a family meal or meal prepping for the week, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

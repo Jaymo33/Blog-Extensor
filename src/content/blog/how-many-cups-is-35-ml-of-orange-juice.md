@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of orange juice equals approximately 0.15 cups (or roughly 1/6 of a cup). This conversion is handy for air fryer recipes where precise measurements matter, whether you're baking, marinating, or making sauces. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for perfect results every time.</p>

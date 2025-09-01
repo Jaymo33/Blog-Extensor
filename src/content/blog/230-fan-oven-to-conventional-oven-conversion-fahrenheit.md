@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>230 fan oven equals approximately 446°F in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens, especially when using an air fryer. Understanding this temperature shift ensures your dishes cook evenly and perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of porridge oats equals approximately 10 ounces (oz). This conversion is essential for precise measurements in recipes, especially when using an air fryer for perfectly cooked oats or baked goods. Whether you're making overnight oats, flapjacks, or granola, knowing the exact weight ensures consistency in texture and taste.</p>  

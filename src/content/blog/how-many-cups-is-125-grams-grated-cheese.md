@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of grated cheese is roughly equivalent to 1.25 cups when lightly packed. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re making cheesy nachos or a crispy topping, knowing how many cups is 125 grams of grated cheese helps avoid guesswork. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

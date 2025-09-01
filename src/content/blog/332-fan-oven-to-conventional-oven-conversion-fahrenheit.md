@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>332 fan oven is equivalent to approximately 350°F in a conventional oven. This conversion is essential for baking and cooking, especially when using recipes designed for fan ovens in a standard oven or air fryer. Understanding this conversion ensures your dishes turn out perfectly every time. Whether you're baking cakes or roasting vegetables, getting the temperature right is crucial. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

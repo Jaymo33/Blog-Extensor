@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of mozzarella cheese equals approximately 2.25 cups when shredded or grated. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making a gooey cheese pull on a homemade pizza or a crispy topping for garlic bread, knowing how many cups 225 grams of mozzarella cheese translates to will save you time and hassle.</p>

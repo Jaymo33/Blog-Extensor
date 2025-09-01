@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of almonds equals approximately 10.5 ounces. This conversion is essential for accurate measurements in air fryer recipes, baking, or meal prep. Whether you're whipping up a batch of almond-crusted chicken or a healthy snack, knowing the exact weight ensures perfect results every time.</p>

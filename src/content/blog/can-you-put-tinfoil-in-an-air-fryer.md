@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put tinfoil in an air fryer, but with important precautions. The key is ensuring the foil doesn’t block airflow or touch heating elements. When used correctly, tinfoil can make cleaning easier and help with even cooking.</p>

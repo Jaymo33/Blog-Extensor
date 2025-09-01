@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>294°F converts to Gas Mark 2 in UK ovens and air fryers. This temperature is ideal for slow roasting, baking delicate cakes, or gently reheating dishes without drying them out. Whether you're using a traditional oven or a modern air fryer, knowing this conversion ensures your recipes turn out perfectly every time.</p>

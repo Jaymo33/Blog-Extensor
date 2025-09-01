@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of baking powder equals approximately 20 ounces. This conversion is essential for precise baking, especially when using an air fryer for cakes, cookies, or other treats. Accurate measurements ensure your recipes turn out perfectly every time, whether you’re following a classic cake recipe or experimenting with new air fryer creations.</p>

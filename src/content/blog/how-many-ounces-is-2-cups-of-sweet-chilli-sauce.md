@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of sweet chilli sauce equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re marinating chicken wings or glazing shrimp, knowing how many ounces are in 2 cups of sweet chilli sauce ensures consistency and flavour balance. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

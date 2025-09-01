@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of cocoa powder equals approximately 1.25 UK cups or 1.5 US cups. This conversion is essential for air fryer baking, where precise measurements can make or break your chocolatey creations. Whether you're whipping up brownies, cakes, or hot cocoa in your air fryer, getting the cocoa powder measurement right ensures consistent results every time.</p>

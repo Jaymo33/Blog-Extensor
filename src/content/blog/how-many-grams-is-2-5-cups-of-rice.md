@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of rice is equivalent to approximately 500 grams, depending on the type of rice. This conversion is essential for air fryer recipes, where precise measurements can affect cooking times and textures. Whether you're using basmati, jasmine, or long-grain rice, knowing the gram weight ensures consistency in your dishes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

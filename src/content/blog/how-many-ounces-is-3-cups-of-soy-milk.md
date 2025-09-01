@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of soy milk equals approximately 24 fluid ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or a dairy-free batter, knowing how many ounces are in 3 cups of soy milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>

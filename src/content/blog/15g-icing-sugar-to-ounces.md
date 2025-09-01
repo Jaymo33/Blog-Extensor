@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of icing sugar equals approximately 0.53 ounces. This conversion is essential for bakers and home cooks who need precise measurements, especially when using an air fryer for delicate desserts. Whether you’re dusting a cake or making air fryer cookies, knowing how to convert grams to ounces ensures perfect results every time.</p>  

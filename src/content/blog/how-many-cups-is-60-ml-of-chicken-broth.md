@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of chicken broth equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a sauce, soup, or marinade, knowing how to convert 60 ml of chicken broth to cups ensures consistency and flavour balance.</p>

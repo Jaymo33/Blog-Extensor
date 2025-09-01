@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 F converts to approximately 180 C in a fan oven. This is the standard equivalent for most recipes requiring 360 F, whether you're using an air fryer or conventional oven. The conversion ensures your dishes cook evenly without burning or undercooking.</p>

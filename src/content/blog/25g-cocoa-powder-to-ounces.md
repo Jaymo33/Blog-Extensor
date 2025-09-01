@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of cocoa powder equals approximately 0.88 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up brownies or a chocolate cake in your air fryer, knowing how to convert 25g cocoa powder to ounces ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

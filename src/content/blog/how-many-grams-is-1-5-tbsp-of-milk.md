@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of milk is approximately 22.5 grams (g). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking, cooking, or preparing a sauce, knowing the exact weight of milk can make all the difference.</p>

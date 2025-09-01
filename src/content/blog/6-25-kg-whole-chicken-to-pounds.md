@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 6.25 kg whole chicken is equivalent to approximately 13.78 pounds. This conversion is essential for anyone preparing a large bird in their air fryer, as cooking times and temperatures are often given in pounds rather than kilograms. Knowing the exact weight ensures your chicken cooks evenly, stays juicy, and reaches a safe internal temperature. Whether you're following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> or adapting your own, this conversion is your first step to success. Getting it right means no more guesswork and perfectly cooked meals every time.</p>

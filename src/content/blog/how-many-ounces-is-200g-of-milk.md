@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of milk equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a creamy sauce or baking a cake, knowing how to convert grams to ounces ensures consistent results every time.</p>

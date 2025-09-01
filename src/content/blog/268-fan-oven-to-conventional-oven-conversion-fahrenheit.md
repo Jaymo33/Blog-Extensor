@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>268°F in a fan oven converts to approximately 248°F in a conventional oven. This difference is crucial for baking and air frying, as fan ovens circulate heat more efficiently. Understanding this conversion ensures your recipes turn out perfectly, whether you're using an oven or an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt recipes for any cooking method. Let’s dive deeper into why this conversion matters.</p>

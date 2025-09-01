@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of self-raising flour equals approximately 23 grams (g). This conversion is essential for UK bakers who need precise measurements, especially when using an air fryer for cakes, muffins, or other baked goods. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a traditional recipe, knowing this conversion ensures consistent results every time.</p>

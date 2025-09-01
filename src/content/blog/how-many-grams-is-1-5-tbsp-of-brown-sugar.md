@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of brown sugar equals approximately 22.5 grams in UK measurements. This conversion is essential for precise baking, especially when using an air fryer where accuracy impacts texture and browning. Whether you’re whipping up cookies or glazing meats, knowing this measurement ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of almond butter equals approximately 1.76 ounces. If you're using an air fryer to create delicious nut butter-based treats, knowing this conversion ensures your recipes turn out just right. Whether you're baking almond butter cookies or drizzling it over air-fried bananas, accurate measurements matter.</p>  

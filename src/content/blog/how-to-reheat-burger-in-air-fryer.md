@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating a burger in an air fryer is simple: preheat to 160°C (320°F), place the burger in the basket, and cook for 3–4 minutes. This method ensures a crispy exterior while keeping the patty juicy inside. Whether you’re reheating a leftover homemade burger or a takeaway, the air fryer brings it back to life better than a microwave. For best results, avoid overcrowding and consider lightly toasting the bun separately. Check out more tips at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for perfect burger revivals.</p>  

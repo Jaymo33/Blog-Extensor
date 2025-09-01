@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of flour equals approximately 0.55 ounces (or roughly half an ounce). This measurement is crucial for air fryer recipes where precision ensures the perfect texture, whether you’re baking cookies or coating chicken. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know that accurate conversions make all the difference in air frying success.</p>  

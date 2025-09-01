@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>214 C converts to approximately 190 C in a fan oven. This 20-25 degree reduction is standard when switching from conventional to convection cooking. Fan ovens circulate hot air more efficiently, so you'll achieve the same results at slightly lower temperatures.</p>

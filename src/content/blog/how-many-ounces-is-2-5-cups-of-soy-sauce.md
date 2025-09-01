@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of soy sauce equals approximately 20 fluid ounces (or 20 oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re marinating chicken, preparing a stir-fry, or experimenting with new flavours, knowing how many ounces are in 2.5 cups of soy sauce ensures accuracy.</p>  

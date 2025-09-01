@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of apple cider vinegar is roughly 0.042 cups. Whether you're preparing a marinade for your air fryer chicken or whipping up a salad dressing, knowing this conversion ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>

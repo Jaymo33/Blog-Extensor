@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of onion equals approximately 20 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making onion rings, fajitas, or a stir-fry, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect cooking.</p>

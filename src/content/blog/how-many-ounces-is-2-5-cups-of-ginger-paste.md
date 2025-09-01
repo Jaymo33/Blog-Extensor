@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of ginger paste equals approximately 20 ounces (or 567 grams) in UK measurements. This conversion is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you’re making marinades, sauces, or stir-fries, knowing the exact weight of ginger paste helps avoid over or under-seasoning. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

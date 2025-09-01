@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of water equals 540 grams. This conversion is essential for precision in cooking, especially when using an air fryer where exact measurements can impact texture and cooking times. Whether you're baking, steaming, or preparing sauces, knowing how to convert cups to grams ensures consistency in your recipes.</p>  

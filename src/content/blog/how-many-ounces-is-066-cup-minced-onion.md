@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of minced onion equals approximately 2.64 ounces (oz). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you're preparing a savoury dish or a quick stir-fry, knowing the exact weight of minced onion helps maintain consistency. For more air fryer measurement conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

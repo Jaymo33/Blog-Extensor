@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of baking powder equals approximately 2.5 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up fluffy cakes or crispy batters, knowing the exact weight ensures consistency.</p>

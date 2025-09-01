@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of cottage cheese equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re making a cheesy bake or a protein-packed snack, knowing how to convert grams to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>  

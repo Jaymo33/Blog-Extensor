@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of vegetable oil equals approximately 1.94 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up crispy chips or a moist cake, knowing how to convert 460 ml of vegetable oil to cups ensures consistent results every time.</p>

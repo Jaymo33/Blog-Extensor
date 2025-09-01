@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of potatoes is roughly equivalent to 1.5 cups when diced or sliced, though this can vary slightly based on potato type and cut size. If you're using an air fryer, precise measurements help ensure even cooking and perfect results every time. Whether you're making crispy roast potatoes or a hearty air fryer hash, knowing how to convert grams to cups is essential. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

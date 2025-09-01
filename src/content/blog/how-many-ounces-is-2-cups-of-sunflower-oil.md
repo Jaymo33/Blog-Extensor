@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of sunflower oil equals approximately 16 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re frying, baking, or roasting, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about helping you cook with confidence. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>

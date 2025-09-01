@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating paneer tikka in an air fryer is simple—set it to 160°C for 3-5 minutes to restore its crispiness without drying it out. This method works brilliantly for leftovers or refrigerated paneer tikka, giving it that just-cooked texture. If you love Indian cuisine, you’ll appreciate how the air fryer revives the smoky flavours while keeping the paneer soft inside.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of cream cheese equals approximately 13.28 ounces. This conversion is essential for air fryer recipes, ensuring accuracy when preparing dishes like cheesecakes, dips, or stuffed pastries. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing the exact weight helps achieve consistent results.</p>  

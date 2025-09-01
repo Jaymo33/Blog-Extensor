@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of vinegar equals 3 ounces, making it easy to measure for your air fryer recipes. Whether you’re marinating chicken or whipping up a tangy glaze, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is when cooking, so let’s break down this conversion in detail.</p>

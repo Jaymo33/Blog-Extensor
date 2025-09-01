@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of condensed milk is approximately 2.68 cups in the US measurement system and roughly 2.23 cups in the UK metric cup system. Whether you're baking a cake or whipping up a dessert in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when working with rich ingredients like condensed milk.</p>

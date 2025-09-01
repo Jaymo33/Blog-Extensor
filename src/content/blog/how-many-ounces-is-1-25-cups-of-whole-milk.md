@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of whole milk equals approximately 10 ounces (9.96 oz to be precise). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or baking a moist cake, knowing the exact weight ensures consistent results every time.</p>  

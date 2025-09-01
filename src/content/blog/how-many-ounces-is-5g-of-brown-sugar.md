@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of brown sugar equals approximately 0.18 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up a dessert or a savoury dish, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>

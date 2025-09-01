@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of broccoli is approximately 1 cup when chopped, making it easy to measure for air fryer recipes. Whether you're prepping a quick side dish or adding broccoli to a main meal, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you cook with confidence.</p>

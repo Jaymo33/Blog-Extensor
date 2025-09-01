@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of coconut milk is approximately 2.15 cups in the US measurement system and 1.8 cups in the UK. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're whipping up a curry or baking a cake, knowing how to convert 510 ml of coconut milk to cups ensures consistent results every time.</p>

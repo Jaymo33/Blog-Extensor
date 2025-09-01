@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of paprika equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're spicing up chicken or adding depth to roasted vegetables, knowing the weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for perfect results every time.</p>

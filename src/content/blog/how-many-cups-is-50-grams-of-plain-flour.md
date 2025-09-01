@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of plain flour is roughly equivalent to 0.4 cups (or just under half a cup) when measured using the standard UK cup measurement. This conversion is essential for air fryer baking, where precision ensures perfect textures and rise. Whether you're whipping up cakes, cookies, or bread, knowing how many cups is 50 grams of plain flour saves time and avoids kitchen mishaps. For more air fryer-friendly conversions, explore our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

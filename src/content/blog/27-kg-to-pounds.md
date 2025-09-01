@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>27 kilograms equals approximately 59.52 pounds, making it a useful conversion for larger air fryer cooking projects. Whether you're preparing a big batch of chicken or portioning out vegetables for meal prep, understanding this conversion helps you work with recipes from around the world. Many air fryer recipes use metric measurements, so knowing how to convert 27 kg to pounds ensures you get the right quantities every time. This is particularly handy when you're cooking for a crowd or stocking up your freezer. You can find more helpful conversion tips at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your kitchen life easier.</p>

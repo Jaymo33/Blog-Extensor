@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.9 kg is equal to 10.80265 pounds, a conversion that's incredibly useful for air fryer enthusiasts who work with recipes from both metric and imperial sources. Whether you're weighing ingredients for a family feast or portioning out frozen goods, knowing how to convert 4.9 kg to pounds ensures accuracy and perfect results every time. This conversion is particularly handy when you're meal prepping or scaling recipes up or down to suit your needs. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk. Getting your measurements spot-on means your air fried dishes will turn out crispy, golden, and delicious.</p>

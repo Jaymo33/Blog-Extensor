@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of soy milk weigh approximately 75 grams (g). This conversion is essential for accurate measurements in air fryer recipes, ensuring perfect consistency every time. Whether you're whipping up a batter or adjusting liquid quantities, knowing the exact weight helps avoid kitchen mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

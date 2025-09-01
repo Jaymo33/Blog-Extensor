@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of peanut butter is approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a batch of peanut butter cookies or adding a dollop to your air-fried desserts, knowing this conversion ensures accuracy.</p>

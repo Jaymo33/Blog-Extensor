@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of honey equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference between sticky success and a messy disaster. Whether you're glazing chicken wings or sweetening baked goods, knowing how to convert 40g honey to ounces ensures consistent results every time.</p>

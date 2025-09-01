@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>437 F converts to approximately 225 C in a fan oven. This is a common temperature for roasting meats, baking pastries, or air frying crispy dishes. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out perfectly every time.</p>

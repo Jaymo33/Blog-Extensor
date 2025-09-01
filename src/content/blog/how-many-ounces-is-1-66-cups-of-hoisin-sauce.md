@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of hoisin sauce equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or glazing tofu, knowing the exact weight ensures consistent results every time. Hoisin sauce, a staple in many Asian-inspired dishes, adds depth and richness, so getting the amount right matters. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of hot sauce equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re preparing a spicy marinade or a bold glaze, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking simpler, especially when it comes to conversions like this.</p>  

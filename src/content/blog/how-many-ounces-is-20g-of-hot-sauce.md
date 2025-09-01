@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of hot sauce equals approximately 0.71 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re drizzling hot sauce over wings or mixing it into a marinade, knowing the exact weight ensures consistent flavour. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

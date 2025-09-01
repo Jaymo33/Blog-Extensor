@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of tahini equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re making a tahini-based sauce or incorporating it into a marinade, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

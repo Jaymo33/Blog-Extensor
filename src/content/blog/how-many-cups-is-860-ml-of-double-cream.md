@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of double cream is approximately 3.6 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you’re whipping up a dessert or adding richness to a savoury dish, knowing the exact measurement ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

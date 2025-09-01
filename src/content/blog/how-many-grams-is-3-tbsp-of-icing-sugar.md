@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of icing sugar equals approximately 36 grams in the UK. This conversion is essential for precise baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're whipping up a quick treat or following a detailed recipe, knowing the exact weight ensures perfect results every time.</p>  

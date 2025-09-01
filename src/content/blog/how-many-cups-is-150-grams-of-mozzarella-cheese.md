@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of mozzarella cheese equals approximately 1.5 cups when loosely packed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making cheesy garlic bread, stuffed mushrooms, or a quick pizza, knowing how to convert grams to cups ensures consistent results every time.</p>

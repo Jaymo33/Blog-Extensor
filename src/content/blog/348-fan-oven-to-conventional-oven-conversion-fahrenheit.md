@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>348 fan oven is equivalent to approximately 325°F in a conventional oven. This conversion ensures your recipes bake evenly without overheating. Fan ovens circulate hot air, allowing lower temperatures than traditional ovens. Understanding this difference is key to perfect results, especially when using an air fryer, which operates similarly to a fan oven.</p>

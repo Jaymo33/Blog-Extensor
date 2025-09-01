@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 kg of prawns is equal to approximately 7.72 pounds. This conversion is essential for anyone using recipes that list ingredients in pounds, especially when preparing seafood dishes in an air fryer. Knowing how to convert 3.5 kg prawns to pounds ensures you use the correct amount for perfect results every time. Whether you're meal prepping or cooking for a crowd, accurate measurements make all the difference. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of golden syrup equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up sticky puddings or glazing meats, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler, and this guide will help you nail every recipe.</p>  

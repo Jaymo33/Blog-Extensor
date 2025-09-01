@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of vegetable oil equals approximately 1.42 cups in US measurements or 1.18 cups in UK measurements. Whether you're using an air fryer or baking, getting the right amount of oil is crucial for perfect results. This guide will help you convert 335 ml of vegetable oil to cups accurately, so your recipes turn out just right every time.</p>  

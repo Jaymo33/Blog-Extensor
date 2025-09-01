@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tablespoon of porridge oats equals approximately 4 grams. This precise measurement is essential when preparing air fryer recipes where ingredient ratios matter. Whether you're making overnight oats or crunchy granola clusters in your air fryer, getting the quantities right ensures perfect results every time.</p>

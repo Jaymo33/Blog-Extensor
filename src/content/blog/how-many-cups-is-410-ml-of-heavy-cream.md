@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of heavy cream is approximately 1.73 cups (or 1 and 3/4 cups). This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing how to convert 410 ml of heavy cream to cups ensures consistency and delicious results every time.</p>

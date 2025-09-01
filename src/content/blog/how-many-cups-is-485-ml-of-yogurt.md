@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of yogurt equals approximately 2.05 cups in the UK or 2.06 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re baking a cake or preparing a marinade, knowing how to convert 485 ml of yogurt to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Keep reading for detailed tips and common pitfalls.</p>

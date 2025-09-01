@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of treacle equals approximately 50 grams (g). This conversion is essential for precision in air fryer recipes, where accurate measurements can make or break your dish. Whether you're whipping up sticky toffee pudding or a glaze for meats, knowing how to convert 2.5 tbsp of treacle to grams ensures consistent results every time.</p>  

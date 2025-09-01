@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of half and half equals approximately 1.42 cups. This conversion is essential for baking, cooking, or following recipes that require precise measurements. Whether you're using an air fryer or a traditional oven, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>  

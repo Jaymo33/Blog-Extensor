@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of hot sauce equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a spicy marinade or adding a kick to your dishes, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you get the measurements spot on every time.</p>  

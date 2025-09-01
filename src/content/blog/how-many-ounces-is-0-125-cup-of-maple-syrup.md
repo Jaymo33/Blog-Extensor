@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of maple syrup equals approximately 1 ounce (1 oz). This conversion is handy for air fryer recipes where precise measurements matter. Whether you're drizzling syrup over air-fried pancakes or using it as a glaze, knowing the exact weight ensures perfect results every time.</p>  

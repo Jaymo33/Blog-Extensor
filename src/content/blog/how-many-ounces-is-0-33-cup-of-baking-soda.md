@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of baking soda equals approximately 2.64 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you're baking, cleaning, or prepping ingredients, knowing the exact weight saves time and avoids mistakes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

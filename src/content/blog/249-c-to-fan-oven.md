@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>249°C in a conventional oven converts to approximately 220°C in a fan oven. This 20-30°C reduction is standard when switching between conventional and convection cooking methods. Fan ovens circulate hot air more efficiently, so they require lower temperatures to achieve similar results. This principle applies whether you're using a built-in oven or an air fryer, which essentially functions as a mini convection oven.</p>

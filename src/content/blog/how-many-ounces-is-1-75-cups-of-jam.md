@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of jam equals approximately 14 ounces. This conversion is handy when you're preparing recipes, especially for air fryer desserts or breakfast dishes where precise measurements matter. Whether you're making a jam-filled pastry or a glaze for meats, knowing this conversion ensures your dish turns out perfectly every time.</p>

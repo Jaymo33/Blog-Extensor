@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of almond butter equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up almond butter cookies or a savoury glaze, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

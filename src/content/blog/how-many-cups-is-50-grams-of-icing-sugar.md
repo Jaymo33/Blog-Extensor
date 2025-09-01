@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of icing sugar is roughly equivalent to 0.4 cups (or just under half a cup). This conversion is essential for precise baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, accurate measurements ensure perfect results every time.</p>  

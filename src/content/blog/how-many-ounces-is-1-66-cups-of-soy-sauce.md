@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of soy sauce equals approximately 13.28 ounces. Whether you’re preparing a marinade or seasoning a dish, knowing this conversion ensures your air fryer recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make cooking conversions effortless, so you can spend less time measuring and more time enjoying your meals.</p>  

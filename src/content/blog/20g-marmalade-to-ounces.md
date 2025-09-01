@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of marmalade equals approximately 0.7 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're glazing meats or baking desserts, knowing the exact weight ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions.</p>  

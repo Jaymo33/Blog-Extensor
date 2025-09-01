@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>221°F in a fan oven converts to approximately 221°F in a conventional oven, as fan ovens and conventional ovens use the same Fahrenheit scale. However, the key difference lies in how the heat is distributed, which can affect cooking times and results. Understanding this conversion is essential for anyone switching between appliances, especially when using an air fryer, which often mimics fan oven settings.</p>

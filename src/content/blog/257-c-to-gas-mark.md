@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 257 C to Gas Mark Conversion</h2>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>416°F converts to Gas Mark 8 in UK ovens and air fryers. This high-temperature setting is ideal for achieving crispy skins on meats or perfectly risen baked goods. Whether you're using a standalone air fryer or a combination oven, knowing this conversion ensures consistent results every time.</p>

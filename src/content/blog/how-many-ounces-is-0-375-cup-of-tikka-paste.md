@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of tikka paste equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're marinating chicken, tofu, or vegetables, knowing how many ounces are in 0.375 cup of tikka paste helps you nail the recipe every time.</p>

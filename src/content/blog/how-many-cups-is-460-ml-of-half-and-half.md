@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of half and half is approximately 1.94 cups in the US measurement system and 1.62 cups in the UK measurement system. Whether you're baking a cake or preparing a creamy sauce in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. Half and half, a blend of equal parts milk and cream, is a common ingredient in many dishes, so getting the measurement right is crucial. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

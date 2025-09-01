@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of cream is roughly 0.74 cups (or just under 3/4 cup). This conversion is handy for baking, cooking, or whipping up air fryer recipes where precision matters. Whether you're following a UK or US recipe, knowing how to convert grams to cups ensures your dishes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of cottage cheese weigh approximately 30 grams. This measurement is essential for air fryer recipes where precision ensures the best texture and consistency. Whether you're making a cheesy bake or a protein-packed snack, knowing the exact conversion helps avoid guesswork.</p>  

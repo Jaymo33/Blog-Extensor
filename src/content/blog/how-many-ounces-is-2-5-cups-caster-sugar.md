@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of caster sugar equals approximately 17.64 ounces (oz) in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect texture and sweetness. Whether you’re making cakes, cookies, or desserts, knowing the exact weight of 2.5 cups of caster sugar in ounces helps avoid mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

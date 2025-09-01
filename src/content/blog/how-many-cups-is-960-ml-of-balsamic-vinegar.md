@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of balsamic vinegar equals approximately 4.06 cups. This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, glazes, or dressings. Whether you're cooking a <a href=https://www.airfryerrecipe.co.uk/recipes>balsamic-glazed salmon</a> or a tangy chicken dish, knowing how many cups 960 ml of balsamic vinegar translates to can make all the difference.</p>  

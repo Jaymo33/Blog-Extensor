@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of olive oil equals 591.47 ml. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up crispy chips or a succulent roast, knowing how many ml is 2.5 cups of olive oil ensures consistency and flavour.</p>

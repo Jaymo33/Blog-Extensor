@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of brown sugar equals approximately 550 grams in UK measurements or 586 grams in US cups. This conversion is essential for air fryer baking, where precision ensures perfect texture and consistency. Whether you're making cookies, cakes, or glazes, knowing the exact gram measurement helps avoid kitchen disasters.</p>

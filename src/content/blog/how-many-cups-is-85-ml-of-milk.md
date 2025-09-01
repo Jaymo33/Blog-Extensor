@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of milk is approximately 0.36 cups (US) or 0.34 cups (UK). This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a cake or a creamy sauce, knowing how to measure liquids correctly ensures perfect results every time.</p>  

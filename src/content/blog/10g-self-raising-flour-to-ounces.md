@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of self-raising flour equals approximately 0.35 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for cakes or bread. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a traditional bake, knowing how to convert grams to ounces ensures consistent results.</p>

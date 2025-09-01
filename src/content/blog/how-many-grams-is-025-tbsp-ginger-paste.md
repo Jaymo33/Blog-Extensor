@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of ginger paste equals approximately 3.75 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a marinade or adding a punch of flavour to your dish, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

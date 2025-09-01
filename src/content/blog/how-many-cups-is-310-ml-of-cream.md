@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of cream equals approximately 1.31 cups in the UK or 1.28 cups in the US. This conversion is essential for baking, cooking, or preparing recipes in your air fryer. Whether you're whipping up a dessert or adding cream to a sauce, knowing the exact measurement ensures perfect results every time.</p>

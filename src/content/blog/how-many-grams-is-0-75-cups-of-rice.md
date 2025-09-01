@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of rice equals approximately 150 grams. This conversion is essential for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're making crispy rice cakes or a fluffy side dish, knowing the exact weight helps avoid under or over-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

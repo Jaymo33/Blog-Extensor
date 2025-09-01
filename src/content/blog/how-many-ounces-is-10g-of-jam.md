@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of jam equals approximately 0.35 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a glaze for air fryer salmon or adding a sweet touch to air fryer cakes, knowing the exact weight helps.</p>

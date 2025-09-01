@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of baking soda equals approximately 8 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you're whipping up crispy snacks or fluffy cakes, knowing this conversion helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for flawless cooking every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>401°F converts to Gas Mark 6 in UK ovens and air fryers. This temperature is commonly used for baking, roasting, and air frying recipes that require moderate-high heat. Whether you're using a traditional oven or modern air fryer, understanding this conversion ensures your dishes cook perfectly every time.</p>

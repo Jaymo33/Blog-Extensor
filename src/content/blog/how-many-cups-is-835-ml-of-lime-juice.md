@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of lime juice is approximately 3.5 cups in the UK and 3.52 cups in the US. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're making marinades, dressings, or desserts, knowing how to convert ml to cups ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide handy conversions to simplify your cooking process.</p>

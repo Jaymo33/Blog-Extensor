@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of milk is equivalent to approximately 295.74 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or a creamy sauce, knowing the exact ml for 1.25 cups of milk ensures consistency and delicious results every time.</p>  

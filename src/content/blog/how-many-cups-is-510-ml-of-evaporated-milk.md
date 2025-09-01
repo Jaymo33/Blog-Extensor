@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of evaporated milk is approximately 2.15 cups. If you're working with an air fryer recipe or any baking project, knowing this conversion ensures accuracy. Whether you're in the UK or the USA, this measurement remains consistent, making it easy to follow any recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> without hassle.</p>  

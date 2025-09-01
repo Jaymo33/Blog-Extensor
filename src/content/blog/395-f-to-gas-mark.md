@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>395°F converts to Gas Mark 6 in UK ovens and air fryers. This temperature is commonly used for baking cakes, cookies, and roasting vegetables. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out perfectly every time.</p>

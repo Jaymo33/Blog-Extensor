@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of cream cheese equals approximately 24 ounces. This conversion is essential for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're making a creamy dip or a decadent cheesecake, knowing the exact weight ensures perfect results every time.</p>

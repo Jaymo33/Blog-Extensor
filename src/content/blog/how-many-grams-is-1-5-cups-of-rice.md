@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of rice is approximately 300 grams if using standard US measuring cups, or 270 grams for UK metric cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re cooking jasmine, basmati, or long-grain rice, knowing the gram equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve restaurant-quality results at home. Let’s dive deeper into rice measurements and how they impact air fryer cooking.</p>  

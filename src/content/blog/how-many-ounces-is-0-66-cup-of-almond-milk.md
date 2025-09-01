@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of almond milk equals approximately 5.28 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can affect texture and cooking times. Whether you’re whipping up a breakfast smoothie or a creamy dessert, knowing how many ounces are in 0.66 cup of almond milk ensures consistency in your recipes.</p>  

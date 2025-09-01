@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating mini tacos in an air fryer is simple: preheat to 180°C (350°F) and cook for 3–4 minutes until crispy. This method ensures your tacos stay delicious without drying out, making it the best way to reheat mini tacos in an air fryer. Whether they’re from the fridge or leftovers, the air fryer brings back that perfect crunch.</p>  

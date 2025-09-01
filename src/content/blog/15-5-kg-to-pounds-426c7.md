@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15.5 kg is equal to approximately 34.17 pounds, a conversion that becomes particularly useful when preparing larger quantities of food in your air fryer. Whether you're cooking a big batch of chicken, potatoes, or even a joint of meat, understanding weight conversions ensures your cooking times and temperatures are spot on. Many air fryer recipes, especially those designed for families or gatherings, might list ingredients in kilograms, while your kitchen scales measure in pounds. Getting this conversion right means your food will cook evenly, retain moisture, and come out perfectly crispy every time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

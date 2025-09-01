@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put a silicone mat in an air fryer if it's specifically designed for high heat cooking (typically up to 220°C/428°F). Food-grade silicone mats won't melt or catch fire under normal air frying conditions, making them a popular choice for easy cleanup and preventing food from sticking. However, there are important safety considerations to keep in mind when using silicone mats in your air fryer.</p>

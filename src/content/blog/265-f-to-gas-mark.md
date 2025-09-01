@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>265°F converts to Gas Mark 1 in UK ovens and air fryers. This moderate temperature is ideal for slow baking, dehydrating, or keeping dishes warm without overcooking. Whether you're using a traditional oven or a modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

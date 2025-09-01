@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of diced or chopped potatoes weigh approximately 300 grams, though this can vary slightly based on potato type and how finely they’re cut. Whether you’re preparing crispy air fryer potatoes or a hearty potato bake, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking.</p>

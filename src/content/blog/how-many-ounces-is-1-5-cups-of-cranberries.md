@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of cranberries equals approximately 6 ounces, making it easy to measure for air fryer recipes. Whether you're whipping up a cranberry sauce or adding them to baked goods, knowing this conversion ensures consistent results. Cranberries are a versatile ingredient, and their tart flavour works brilliantly in both sweet and savoury dishes. If you're using an air fryer, precise measurements help avoid overloading the basket or undercooking. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

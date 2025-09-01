@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>304 F converts to Gas Mark 2 for oven cooking. This temperature conversion is particularly useful when adapting recipes between conventional ovens and air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we frequently encounter questions about converting Fahrenheit to Gas Mark, especially for British cooks using older oven models.</p>

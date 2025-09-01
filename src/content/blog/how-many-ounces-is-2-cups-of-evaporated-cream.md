@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of evaporated cream equals approximately 16 ounces. This conversion is essential for accurate measurements, especially when preparing air fryer recipes that require precision. Whether you're making a creamy dessert or a rich sauce, knowing the exact weight ensures consistent results every time. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

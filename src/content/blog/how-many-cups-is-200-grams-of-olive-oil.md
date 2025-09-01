@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of olive oil equals approximately 0.85 cups (just under 7/8 of a cup). This conversion is essential for air fryer recipes, where precise measurements can affect texture and cooking times. Whether you’re making crispy roast potatoes or a moist cake, knowing how many cups is 200 grams of olive oil ensures consistent results every time.</p>

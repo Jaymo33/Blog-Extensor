@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 fan oven equals approximately 350°F in a conventional oven. This conversion is essential for baking and cooking, especially when using appliances like air fryers that often rely on fan-assisted settings. Understanding this temperature shift ensures your recipes turn out perfectly every time.</p>

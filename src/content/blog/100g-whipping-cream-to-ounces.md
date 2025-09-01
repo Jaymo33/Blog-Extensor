@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of whipping cream is approximately 3.53 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up desserts or creamy sauces, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>  

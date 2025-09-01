@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of vegetable oil equals approximately 20 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying chicken, roasting vegetables, or baking cakes, knowing the exact weight ensures consistent results every time.</p>  

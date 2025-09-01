@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of wholemeal flour equals approximately 20 grams. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're coating chicken, baking cakes, or making crispy snacks, knowing exact measurements makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions.</p>

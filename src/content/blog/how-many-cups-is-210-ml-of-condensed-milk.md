@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of condensed milk is approximately 0.89 cups in the US and 0.88 cups in the UK. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making a cake, fudge, or a creamy dessert, knowing how to convert 210 ml of condensed milk to cups ensures consistency in your results.</p>  

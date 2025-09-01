@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of yogurt is approximately 1.35 cups. This conversion is essential for accurate baking and cooking, especially when using an air fryer. Whether you're making a creamy dessert or a savoury marinade, knowing how to measure yogurt correctly ensures perfect results every time.</p>  

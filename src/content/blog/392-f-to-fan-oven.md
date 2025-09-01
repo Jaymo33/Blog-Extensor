@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>392°F converts to approximately 200°C in a fan oven. This is a crucial conversion for air fryer users, as most modern air fryers operate similarly to fan-assisted ovens. Understanding this temperature equivalence helps you adapt recipes perfectly between different cooking appliances.</p>

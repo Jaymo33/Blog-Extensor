@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of lemon juice is approximately 1.5 cups in the UK or 1.52 cups in the US. Whether you're whipping up a zesty marinade or baking a tangy dessert, knowing this conversion ensures your recipe turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>  

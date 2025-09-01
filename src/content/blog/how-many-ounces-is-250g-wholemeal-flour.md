@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of wholemeal flour equals approximately 8.82 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're whipping up air fryer cakes or bread, getting your flour quantities spot-on ensures perfect results every time.</p>

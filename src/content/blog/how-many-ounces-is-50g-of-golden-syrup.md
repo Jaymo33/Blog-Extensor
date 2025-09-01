@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of golden syrup equals approximately 1.76 ounces. This conversion is essential for anyone using an air fryer to ensure precise measurements in recipes. Golden syrup’s thick, sticky consistency makes accurate weighing crucial, especially when adapting traditional recipes for air frying. Whether you’re making sticky toffee pudding or glazing roasted vegetables, knowing how to convert 50g golden syrup to ounces guarantees consistent results. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of raisins equals approximately 7.5 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making a raisin-studded cake or a savoury dish, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

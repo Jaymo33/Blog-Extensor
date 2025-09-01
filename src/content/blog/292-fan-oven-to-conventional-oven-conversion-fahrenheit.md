@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>292 fan oven equals approximately 325°F in a conventional oven. This conversion ensures your recipes turn out just right, whether you're using a traditional oven or an air fryer. Understanding these temperature adjustments is key to achieving perfect results every time.</p>

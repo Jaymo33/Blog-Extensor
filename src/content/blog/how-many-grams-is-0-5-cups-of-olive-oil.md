@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of olive oil equals approximately 112 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up crispy chips or a moist cake, knowing the exact gram equivalent ensures consistent results every time.</p>

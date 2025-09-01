@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of cream cheese equals approximately 3.53 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing dishes in an air fryer. Whether you're making a cheesecake or a creamy dip, knowing the exact weight ensures perfect results every time.</p>

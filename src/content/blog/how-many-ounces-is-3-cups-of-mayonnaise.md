@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of mayonnaise equals approximately 24 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a batch of crispy chicken or a creamy dip, knowing how to convert 3 cups of mayonnaise to ounces ensures consistency and perfect results every time.</p>  

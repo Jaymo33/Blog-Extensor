@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of half and half equals approximately 2.05 cups. This conversion is handy for recipes requiring precise measurements, especially when using an air fryer. Whether you're baking a cake or making a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>  

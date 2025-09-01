@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of breadcrumbs equals approximately 5.29 ounces. Whether you're coating chicken, fish, or veggies for your air fryer, getting the measurement right ensures perfect texture and flavour. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting grams to ounces for UK kitchens.</p>  

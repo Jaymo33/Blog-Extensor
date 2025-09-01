@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of buttermilk is roughly 1.31 cups in the UK and 1.25 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a dish. Whether you're whipping up fluffy pancakes or a moist cake, knowing how to convert 310 ml of buttermilk to cups ensures consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

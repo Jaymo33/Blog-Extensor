@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>424°F converts to Gas Mark 7, a common setting for roasting meats, baking cakes, and air frying crispy dishes. This temperature is a staple in British kitchens, whether you're using a conventional oven or an air fryer. Understanding this conversion ensures your recipes turn out perfectly every time, especially when following instructions from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

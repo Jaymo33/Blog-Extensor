@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of butter is approximately 1.32 cups (or 1 and 1/3 cups) when measured in standard US cup sizes. This conversion is essential for baking and air fryer recipes where precision matters. Whether you're whipping up a cake or preparing a buttery dish in your air fryer, knowing how to convert grams to cups ensures perfect results every time.</p>  

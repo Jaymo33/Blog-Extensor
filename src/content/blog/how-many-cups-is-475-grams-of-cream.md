@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of cream is roughly equivalent to 2 cups in both UK and US measurements. However, slight variations can occur depending on the cream's density and fat content. For precise baking or cooking, especially in an air fryer, accurate conversions ensure perfect results every time.</p>

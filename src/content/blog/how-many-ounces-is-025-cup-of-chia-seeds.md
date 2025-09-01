@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you're wondering how many ounces is 0.25 cup of chia seeds, the answer is approximately 1.2 ounces (34 grams). This measurement is essential for air fryer recipes, ensuring accuracy for baking, smoothies, or meal prep. Whether you're using chia seeds for a crunchy topping or a binding agent, knowing the exact weight helps achieve perfect results every time.</p>  

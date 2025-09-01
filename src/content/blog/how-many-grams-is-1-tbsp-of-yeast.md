@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of yeast weighs approximately 8 grams in the UK. This measurement is crucial for baking, especially when using an air fryer for recipes like bread or dough-based dishes. Precise yeast quantities ensure your dough rises perfectly every time.</p>  

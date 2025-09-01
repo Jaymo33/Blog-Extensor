@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of Nutella equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a dessert or adding Nutella to a breakfast dish, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with accurate conversions and delicious recipes.</p>

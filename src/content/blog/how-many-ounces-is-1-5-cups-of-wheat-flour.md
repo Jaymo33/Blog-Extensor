@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of wheat flour equals approximately 6.35 ounces (180 grams). This conversion is essential for air fryer baking, where precise measurements ensure consistent results. Whether you're whipping up cakes, cookies, or bread in your air fryer, knowing the exact weight of your flour helps avoid dry or dense outcomes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for flawless recipes every time.</p>  

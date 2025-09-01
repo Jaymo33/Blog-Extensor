@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat jalapeño poppers in an air fryer, set the temperature to 180°C (350°F) and cook for 3–5 minutes until crispy and heated through. This method ensures the filling stays creamy while the outer coating regains its crunch. Unlike microwaving, which can make them soggy, air frying revives leftover poppers perfectly. Whether you’re reheating from the fridge or after a day out, this technique works every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you are wondering how many ounces is 1.75 cups of rice, the answer is approximately 12.25 ounces. This conversion is essential for anyone using an air fryer to prepare rice-based dishes, as accurate measurements ensure consistent cooking results. Whether you are making a savoury pilaf or a sweet rice pudding, knowing the weight helps you follow recipes precisely. Using a kitchen scale takes the guesswork out of measuring and guarantees your meals turn out perfectly every time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

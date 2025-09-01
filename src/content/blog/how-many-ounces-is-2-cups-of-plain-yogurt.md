@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of plain yogurt equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re making marinades, dips, or baked goods, knowing how many ounces are in 2 cups of plain yogurt ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

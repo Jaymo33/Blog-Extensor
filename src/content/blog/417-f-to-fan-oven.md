@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>417 F converts to approximately 200 C in a fan oven, making it a versatile temperature for air frying. This setting is ideal for achieving crispy textures while ensuring even cooking. Whether you're adapting recipes or experimenting with new dishes, knowing this conversion is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these adjustments. Let’s dive deeper into how this temperature works in your air fryer.</p>

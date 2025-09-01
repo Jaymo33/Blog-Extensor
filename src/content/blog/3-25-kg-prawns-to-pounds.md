@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 kg of prawns is equal to approximately 7.17 pounds. This conversion is essential for anyone cooking with prawns, especially when using an air fryer, as many recipes and appliance guidelines use imperial measurements. Getting the weight right ensures your prawns cook evenly and come out perfectly succulent every time. Whether you're meal prepping or cooking for a crowd, knowing how to convert 3.25 kg prawns to pounds is a handy kitchen skill. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

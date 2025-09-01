@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>148 C in a fan oven is equivalent to approximately 130 C when using the convection setting. This adjustment accounts for the efficient heat circulation in fan-assisted ovens, which cook food faster and more evenly. If you're using an air fryer, which operates similarly to a fan oven, you can often use the same temperature or slightly lower it by 10-20 degrees for optimal results. For more precise conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

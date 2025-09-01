@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of grated cheese equals approximately 1.5 cups when lightly packed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be when you're mid-recipe.</p>

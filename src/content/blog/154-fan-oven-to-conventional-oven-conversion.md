@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>154°C in a fan oven converts to approximately 170°C in a conventional oven. This simple conversion ensures your recipes turn out perfectly whether you're using a fan-assisted or traditional oven. Understanding these differences is especially useful when adapting recipes for air fryers, as they often mimic fan oven settings.</p>

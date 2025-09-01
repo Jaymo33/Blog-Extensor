@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of buttermilk equals 20 fluid ounces (or approximately 20 oz by weight for most practical purposes). Whether you’re whipping up a batch of air fryer fried chicken or a fluffy pancake batter, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when using an air fryer where consistency is key.</p>

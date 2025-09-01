@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.75 kg of chicken wings is equal to approximately 10.47 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes or preparing large batches for gatherings. Whether you're cooking for a family dinner or a party, knowing how to convert 4.75 kg chicken wings to pounds ensures you use the right amount for perfect results. Accurate measurements help avoid overcrowding your air fryer basket, which is key for crispy, evenly cooked wings. Trusted resources like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> often emphasise the importance of correct quantities for the best air frying outcomes.</p>

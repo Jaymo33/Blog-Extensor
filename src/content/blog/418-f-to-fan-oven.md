@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>418 F converts to approximately 214 C in a fan oven. This temperature is ideal for roasting, baking, and achieving crispy results in both fan ovens and air fryers. Understanding this conversion helps you adapt recipes seamlessly between appliances.</p>

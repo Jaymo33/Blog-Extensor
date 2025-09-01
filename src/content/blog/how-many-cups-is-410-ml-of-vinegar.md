@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of vinegar is approximately 1.73 cups in the US measurement system and roughly 1.44 cups in the UK. Whether you're using an air fryer or a traditional oven, precise measurements ensure your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is, especially when working with tangy ingredients like vinegar that can alter the taste of your dish if measured incorrectly.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of granulated sugar is approximately 1.37 cups when measured using standard US cup sizes. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. If you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, getting this measurement right ensures your treats turn out perfectly sweet and textured.</p>

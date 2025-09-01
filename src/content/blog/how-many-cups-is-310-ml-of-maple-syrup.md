@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of maple syrup is approximately 1.31 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're whipping up a glaze or sweetening a dessert, knowing how to convert 310 ml of maple syrup to cups ensures consistency and delicious results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>236 fan oven equals approximately 450°F in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens, especially when using air fryer recipes that often rely on fan settings. Understanding this conversion ensures your dishes cook evenly and to perfection.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of plain flour equals approximately 13.23 ounces (oz). This conversion is essential for precise baking, especially when using an air fryer, where accurate measurements can make or break your recipe. Whether you're whipping up cakes, cookies, or bread, knowing the weight of your flour ensures consistent results every time.</p>  

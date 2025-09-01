@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of yeast equals approximately 5.29 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like doughnuts or bread. Whether you're following a UK recipe or adapting an international one, knowing how to convert grams to ounces ensures your baked goods turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>82 fan oven converts to approximately 100°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, especially when using an air fryer. Understanding this temperature shift ensures your dishes cook evenly and perfectly every time.</p>

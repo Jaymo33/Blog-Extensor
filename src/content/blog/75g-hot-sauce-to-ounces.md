@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of hot sauce equals approximately 2.65 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you're marinating chicken or adding a spicy kick to vegetables, knowing the exact weight in ounces helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

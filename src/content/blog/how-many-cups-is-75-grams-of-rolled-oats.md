@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of rolled oats equals approximately 0.75 cups (¾ cup) when measured correctly. This conversion is essential for air fryer recipes, ensuring your breakfasts, snacks, and baked goods turn out perfectly every time. Whether you're making granola, oat bars, or a crunchy topping, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate conversions can be, so we’ve simplified it for you.</p>  

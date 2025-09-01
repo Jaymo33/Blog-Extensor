@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of beef stock equals approximately 2.15 cups in the UK or 2.16 cups in the US. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you're making a rich gravy or a hearty stew, knowing how to convert 510 ml of beef stock to cups ensures your dish turns out perfectly every time.</p>

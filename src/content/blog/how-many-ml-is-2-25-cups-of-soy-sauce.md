@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of soy sauce equals approximately 532.32 millilitres (ml). This conversion is essential for air fryer recipes, ensuring your marinades and sauces have the perfect consistency. Whether you're whipping up a quick stir-fry or marinating chicken for the air fryer, precise measurements make all the difference.</p>  

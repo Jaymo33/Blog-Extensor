@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>11.5 kg is equal to 25.353 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or following recipes that use imperial measurements. Knowing how to convert 11.5 kilograms to pounds accurately ensures your cooking times and temperatures are spot on. It also helps you understand your air fryer's capacity and avoid overloading it. Getting this right means perfectly cooked meals every time you use your appliance.</p>

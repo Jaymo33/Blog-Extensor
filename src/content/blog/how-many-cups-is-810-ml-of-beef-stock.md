@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of beef stock equals approximately 3.42 cups in US measurements or 3.5 cups in UK measurements. This conversion is essential for recipes requiring precise liquid quantities, especially when using an air fryer for dishes like stews or gravies. Whether you're following a British or American recipe, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

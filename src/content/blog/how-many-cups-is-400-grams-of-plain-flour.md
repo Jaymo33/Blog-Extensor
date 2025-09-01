@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of plain flour is roughly equivalent to 3.2 cups in the UK and 3.3 cups in the US. Measuring flour by weight ensures accuracy, especially when baking or preparing air fryer recipes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise precision for the best results.</p>  

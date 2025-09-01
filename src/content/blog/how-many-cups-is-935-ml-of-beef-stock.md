@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of beef stock equals approximately 3.95 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're making a rich gravy, a hearty stew, or a flavourful sauce, knowing the exact cup measurement ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

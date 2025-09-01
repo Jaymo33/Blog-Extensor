@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>133 fan oven converts to approximately 150°C in a conventional oven. This simple conversion ensures your recipes turn out perfectly whether you're using a fan-assisted or traditional oven. Understanding these differences is key for anyone who loves baking or cooking at home.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of cream is equivalent to approximately 480 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a dessert or a savoury dish, knowing how many grams are in 2.0 cups of cream ensures your recipes turn out perfectly every time.</p>

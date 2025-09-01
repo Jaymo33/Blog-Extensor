@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of onion weighs approximately 3 grams. This conversion is handy when preparing air fryer recipes that require precise measurements for the best results. Whether you’re making a stir-fry, seasoning meat, or adding onions to a dish, knowing the exact weight ensures consistency.</p>  

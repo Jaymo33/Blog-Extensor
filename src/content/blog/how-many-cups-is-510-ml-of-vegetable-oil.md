@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of vegetable oil equals approximately 2.15 cups in the UK or 2.16 cups in the US. This conversion is essential for air frying and baking, where accuracy ensures perfect results. Whether you're whipping up crispy chips or a moist cake, knowing how to measure 510 ml of vegetable oil in cups makes all the difference.</p>

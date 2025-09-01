@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of rice weighs approximately 60 grams. This measurement is essential for air fryer recipes, ensuring consistent results whether you're cooking rice dishes or using rice as an ingredient. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions help you nail every meal.</p>  

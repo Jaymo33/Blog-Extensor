@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of almond butter equals approximately 3 ounces (or 85 grams) in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make all the difference. Whether you’re whipping up a batch of almond butter cookies or a savoury glaze, knowing the exact weight ensures consistent results every time.</p>

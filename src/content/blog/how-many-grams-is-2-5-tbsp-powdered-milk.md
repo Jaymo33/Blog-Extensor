@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of powdered milk equals approximately 18.75 grams. This conversion is essential for precise measurements in baking, cooking, or preparing air fryer recipes. Whether you’re whipping up a cake or thickening a sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on providing accurate conversions to make your cooking effortless. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

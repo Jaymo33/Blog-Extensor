@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of lentils equals approximately 200 grams. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re meal prepping or experimenting with new dishes, knowing the exact gram measurement for 1.0 cups of lentils makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you achieve the best results. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>  

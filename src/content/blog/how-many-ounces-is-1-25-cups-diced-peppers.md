@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of diced peppers equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're preparing a stir-fry, stuffed peppers, or a vibrant veggie mix, knowing the weight ensures consistent results every time.</p>

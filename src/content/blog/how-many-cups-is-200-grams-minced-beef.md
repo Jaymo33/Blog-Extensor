@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of minced beef is roughly equivalent to 1 cup when lightly packed. This measurement can vary slightly depending on the fat content and how tightly the beef is packed into the cup. For air fryer recipes, precise measurements ensure even cooking and perfect results every time.</p>  

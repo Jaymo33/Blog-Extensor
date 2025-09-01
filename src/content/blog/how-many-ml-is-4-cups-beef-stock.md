@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of beef stock equals 946 ml, making it easy to measure for recipes. Whether you're using an air fryer or cooking traditionally, precise measurements ensure the best results. Converting cups to millilitres is straightforward once you know the ratio, and we’ll break it down for you.</p>  

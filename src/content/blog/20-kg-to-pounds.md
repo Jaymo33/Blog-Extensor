@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20.0 kg is equal to 44.092 pounds, a conversion that's incredibly useful for anyone using an air fryer for meal prep or following recipes with precision. Whether you're portioning out ingredients for a big batch of air fryer chips or checking the weight of a whole chicken, getting your measurements spot on is key to perfect results. Many air fryer recipes, especially those from trusted sources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, provide weights in both metric and imperial units to cater to all cooks. Understanding how to convert 20.0 kg to pounds ensures you never have to guess or approximate, leading to consistently delicious meals. This is particularly important for air frying, where exact weights can affect cooking times and texture.</p>

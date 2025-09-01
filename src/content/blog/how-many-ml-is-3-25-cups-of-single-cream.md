@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of single cream is equivalent to approximately 768 ml. This conversion is essential for anyone using an air fryer, as precise measurements ensure perfect results in recipes. Whether you're whipping up a creamy sauce or baking a dessert, knowing the exact ml for 3.25 cups of single cream makes all the difference.</p>

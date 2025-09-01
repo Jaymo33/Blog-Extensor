@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of chicken breast is roughly equivalent to 1.5 to 2 cups when diced or shredded, depending on the size of the pieces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're cooking a family meal or prepping ingredients for the week, knowing how to convert grams to cups ensures consistency and perfect results every time.</p>

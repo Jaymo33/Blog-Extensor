@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of Nutella weighs approximately 9.5 ounces (or 270 grams). This measurement is essential for air fryer recipes where precision ensures perfect results. Whether you're making Nutella-stuffed cookies or a decadent chocolate spread for desserts, knowing the exact weight helps avoid mishaps.</p>

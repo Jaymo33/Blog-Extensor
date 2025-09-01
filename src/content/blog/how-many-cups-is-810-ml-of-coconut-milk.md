@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of coconut milk is approximately 3.42 cups in the UK or 3.38 cups in the US. Whether you're whipping up a curry or baking a cake in your air fryer, getting the measurements right is key. Coconut milk is a staple in many recipes, and knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

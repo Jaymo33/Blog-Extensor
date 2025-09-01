@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 1.5 kg whole chicken and need to know its weight in pounds, the answer is approximately 3.3 pounds. This conversion is essential for air fryer cooking, as most recipes and cooking guides use pounds to determine the correct temperature and timing. Knowing the exact weight helps you avoid undercooking or drying out your chicken, ensuring a juicy and perfectly cooked meal every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, this conversion is a handy piece of knowledge. Keep reading to learn more about converting 1.5 kg whole chicken to pounds and how to use it in your air fryer.</p>

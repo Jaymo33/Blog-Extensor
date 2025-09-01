@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of tomato ketchup equals approximately 2 ounces (oz). This measurement is essential for air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you’re making glazes, sauces, or marinades, knowing this conversion helps streamline your cooking process. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

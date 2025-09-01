@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of potatoes is roughly 35 grams, but this can vary slightly depending on how finely the potatoes are chopped. Whether you’re prepping for a crispy air fryer side dish or a hearty main, getting the measurement right ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting cups to grams for recipes like roast potatoes or hash browns.</p>

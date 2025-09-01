@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of quinoa equals approximately 1.06 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re meal prepping or cooking a quick quinoa salad, knowing this conversion ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen maths so you can focus on delicious results.</p>  

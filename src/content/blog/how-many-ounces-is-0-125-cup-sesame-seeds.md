@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of sesame seeds equals approximately 0.6 ounces (or roughly 17 grams). This measurement is essential for air fryer recipes where precision ensures perfect results. Whether you're sprinkling sesame seeds over salmon or mixing them into a crispy coating, knowing the exact weight helps avoid over or under-seasoning.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of cream cheese equals approximately 1.06 ounces. This conversion is essential for air fryer recipes, baking, or any dish requiring precise measurements. Whether you're whipping up a cheesecake or adding cream cheese to a savoury dish, knowing this conversion ensures perfect results every time.</p>

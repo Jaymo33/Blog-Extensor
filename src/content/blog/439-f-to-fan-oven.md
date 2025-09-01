@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>439 F converts to approximately 226 C in a fan oven. This is the standard equivalent for UK fan-assisted ovens and air fryers, ensuring your recipes cook evenly and efficiently. Whether you’re baking, roasting, or air frying, knowing this conversion is key to perfect results.</p>

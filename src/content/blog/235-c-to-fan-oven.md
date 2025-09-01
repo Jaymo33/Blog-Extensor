@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235°C in a conventional oven converts to approximately 215°C in a fan oven. This 20°C reduction is standard when switching between conventional and fan-assisted cooking. Fan ovens circulate hot air more efficiently, so lowering the temperature prevents overcooking. Whether you're baking a cake or roasting vegetables, this conversion ensures perfect results. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference during cooking.</p>

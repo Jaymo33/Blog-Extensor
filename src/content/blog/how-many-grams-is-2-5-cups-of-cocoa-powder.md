@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of cocoa powder equals approximately 250 grams, though this can vary slightly depending on how tightly packed the powder is. For air fryer recipes, precise measurements ensure consistent texture and flavour, whether you're making brownies or chocolate cakes. If you're using a UK or US cup measurement, the difference is minimal, but weighing ingredients removes any guesswork. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend using a kitchen scale for accuracy, especially when baking. Cocoa powder can settle or fluff up, so weighing eliminates inconsistencies.</p>  

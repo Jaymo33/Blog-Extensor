@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 308 fan oven to Fahrenheit for a conventional oven is simple: 308°F in a fan oven is roughly equivalent to 338°F in a conventional oven. This adjustment accounts for the fan oven's efficient heat distribution, which cooks food faster and more evenly. Understanding this conversion ensures your recipes turn out perfectly, whether you're baking cakes or roasting meats. For more detailed conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of self-raising flour is roughly equivalent to 3.2 cups. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re whipping up a cake or a batch of scones, knowing how to convert grams to cups ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>

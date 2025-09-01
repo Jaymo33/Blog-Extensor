@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of tomato paste equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re making a rich pasta sauce or a flavourful marinade, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of greek yogurt equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision matters, especially when baking or marinating. Whether you're whipping up a quick breakfast or a creamy dessert, knowing the exact weight ensures consistent results every time.</p>  

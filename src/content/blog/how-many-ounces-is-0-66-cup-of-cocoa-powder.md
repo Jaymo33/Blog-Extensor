@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of cocoa powder equals approximately 2.64 ounces (oz). This conversion is essential for air fryer baking, where precision ensures perfect texture and flavour. Whether you’re making brownies, cakes, or hot chocolate, knowing the exact weight of cocoa powder helps avoid dry or overly dense results. For more air fryer-friendly conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

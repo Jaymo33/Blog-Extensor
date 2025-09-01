@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of peanut butter equals approximately 75 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up peanut butter cookies or a savoury satay sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>

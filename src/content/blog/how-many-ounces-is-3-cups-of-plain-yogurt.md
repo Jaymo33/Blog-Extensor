@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of plain yogurt equals approximately 24 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re whipping up a creamy dip or a fluffy cake, knowing how many ounces are in 3 cups of plain yogurt makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the best out of your air fryer with accurate measurements and delicious recipes.</p>

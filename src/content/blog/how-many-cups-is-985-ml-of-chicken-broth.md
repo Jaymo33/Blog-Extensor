@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of chicken broth equals approximately 4.16 cups in the US measurement system or 3.46 cups in the UK system. Whether you're preparing a hearty soup or a flavourful risotto in your air fryer, accurate measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precision is for air fryer cooking, so let’s break this down.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of evaporated milk is approximately 1.73 cups in the UK or 1.73 US cups. This conversion is essential for baking and cooking, ensuring your recipes turn out just right. Whether you're whipping up a dessert or a savoury dish, accurate measurements make all the difference. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

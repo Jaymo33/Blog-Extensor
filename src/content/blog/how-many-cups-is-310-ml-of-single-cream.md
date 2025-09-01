@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of single cream is approximately 1.31 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to convert millilitres to cups ensures consistency every time.</p>

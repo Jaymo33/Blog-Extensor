@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of cream cheese equals approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're whipping up a cheesecake or adding cream cheese to a savoury dish, knowing the exact weight ensures perfect results every time.</p>  

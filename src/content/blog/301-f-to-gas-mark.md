@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>301 F converts to Gas Mark 2 in UK ovens and air fryers. This moderate temperature is perfect for slow baking, roasting vegetables, or cooking delicate dishes that need gentle heat. When using your air fryer at 301 F (Gas Mark 2), you'll achieve even cooking without burning the exterior.</p>

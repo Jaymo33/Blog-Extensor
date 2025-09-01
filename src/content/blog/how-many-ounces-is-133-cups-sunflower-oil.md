@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of sunflower oil equals approximately 10.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying, baking, or roasting, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

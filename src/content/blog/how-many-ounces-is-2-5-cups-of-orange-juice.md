@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of orange juice equals 20 fluid ounces (fl oz) in the UK and US measurement systems. Whether you're making a marinade, glaze, or a refreshing drink, knowing this conversion ensures accuracy in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot-on for perfect air fryer dishes every time.</p>  

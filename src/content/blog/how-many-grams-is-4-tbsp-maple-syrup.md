@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of maple syrup equals approximately 80 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling it over air-fried pancakes or using it as a glaze for salmon, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements spot-on for flawless results every time.</p>  

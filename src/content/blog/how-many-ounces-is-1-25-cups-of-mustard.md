@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of mustard equals approximately 10 ounces in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make or break a dish. Whether you’re preparing a marinade, sauce, or glaze, knowing the exact weight ensures consistent results every time. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

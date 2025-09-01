@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of turmeric equals approximately 14 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Turmeric, a staple in many kitchens, requires accurate weighing to ensure the right flavour balance.</p>

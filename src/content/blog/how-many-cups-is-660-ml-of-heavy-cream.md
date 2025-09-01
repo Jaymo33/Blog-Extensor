@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of heavy cream is approximately 2.79 cups in the US measurement system and 2.32 cups in the UK measurement system. Whether you're baking a cake, making a creamy sauce, or preparing a dessert in your air fryer, knowing this conversion ensures accuracy. Heavy cream is a versatile ingredient, and getting the measurement right can make or break your recipe.</p>

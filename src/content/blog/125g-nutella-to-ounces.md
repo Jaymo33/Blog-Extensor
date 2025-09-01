@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of Nutella equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dessert. Whether you’re baking brownies, cookies, or drizzling Nutella over pancakes, knowing the exact weight ensures consistent results every time.</p>

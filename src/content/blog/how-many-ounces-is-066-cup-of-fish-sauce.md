@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of fish sauce equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or preparing a dipping sauce, knowing the exact weight ensures consistency. Fish sauce, a staple in many Asian-inspired dishes, adds depth and umami to your cooking. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

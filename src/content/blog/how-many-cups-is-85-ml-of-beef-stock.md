@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of beef stock is approximately 0.36 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're making a rich gravy or a savoury stew, knowing how to convert 85 ml of beef stock to cups ensures consistency. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

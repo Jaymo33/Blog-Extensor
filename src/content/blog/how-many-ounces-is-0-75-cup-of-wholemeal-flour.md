@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of wholemeal flour equals approximately 3.3 ounces (94 grams). This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up air fryer cakes or bread, knowing the exact weight ensures consistent results every time.</p>

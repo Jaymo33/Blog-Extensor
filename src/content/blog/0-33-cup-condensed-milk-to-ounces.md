@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of condensed milk equals approximately 2.93 ounces (oz) in UK measurements. This conversion is essential for precise baking or cooking, especially when using an air fryer where ingredient ratios matter. Whether you're making desserts or sauces, knowing the exact weight ensures consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

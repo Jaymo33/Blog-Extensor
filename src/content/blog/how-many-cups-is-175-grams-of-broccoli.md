@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of broccoli is roughly equivalent to 2 cups when chopped. This conversion is handy for air fryer recipes where precise measurements ensure even cooking. Whether you're making crispy roasted broccoli or adding it to a stir-fry, knowing the cup equivalent helps streamline prep. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

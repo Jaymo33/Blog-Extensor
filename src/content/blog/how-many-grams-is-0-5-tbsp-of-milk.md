@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of milk weighs approximately 7.5 grams. This conversion is essential for precise measurements in air fryer recipes, where accuracy can make or break your dish. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

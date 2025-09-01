@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of tomato sauce equals approximately 2.15 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for dishes like lasagna or stuffed peppers. Whether you're cooking for a family or meal prepping, knowing how to convert millilitres to cups ensures consistency in flavour and texture.</p>  

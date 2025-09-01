@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you're wondering what 34.75 kg is in pounds, the answer is approximately 76.61 pounds. This conversion is especially handy when you're preparing larger batches of food in your air fryer, ensuring you get the portions and cooking times just right. Whether you're meal prepping for the family or scaling up a favourite recipe, knowing how to convert 34.75 kg to pounds can make all the difference. Accurate measurements help you avoid under or overcooking, which is key to getting the most out of your appliance. For more handy conversion tips, check out the guides available at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

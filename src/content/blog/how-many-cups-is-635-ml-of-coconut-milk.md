@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of coconut milk is approximately 2.68 cups in the US measurement system and 2.23 cups in the UK measurement system. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're baking, cooking, or preparing a creamy curry, knowing how to convert 635 ml of coconut milk to cups ensures consistency and delicious results every time.</p>

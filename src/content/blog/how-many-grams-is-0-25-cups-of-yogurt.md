@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of yogurt is approximately 60 grams, though this can vary slightly depending on the yogurt's thickness and whether you're using UK or US measurements. Getting this conversion right is essential for air fryer recipes, where precision ensures perfect texture and flavour. Whether you're whipping up a cake or marinating chicken, knowing how many grams 0.25 cups of yogurt equals will help you nail every dish. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

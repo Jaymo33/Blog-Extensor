@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of water equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking, steaming, or preparing sauces, knowing how to convert grams to ounces ensures perfect results every time.</p>

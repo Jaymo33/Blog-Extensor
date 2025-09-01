@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of margarine equals approximately 7.05 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're baking or frying, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

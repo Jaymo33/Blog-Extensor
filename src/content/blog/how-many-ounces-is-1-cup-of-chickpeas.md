@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of chickpeas equals approximately 6.5 ounces (184 grams) in the UK. This measurement is crucial for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're roasting chickpeas for a crunchy snack or adding them to a hearty meal, knowing the exact weight saves time and avoids guesswork.</p>

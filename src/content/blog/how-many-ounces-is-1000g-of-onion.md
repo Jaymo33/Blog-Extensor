@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of onion equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re prepping a batch of caramelised onions or adding them to a hearty stew, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with fresh ingredients like onions.</p>

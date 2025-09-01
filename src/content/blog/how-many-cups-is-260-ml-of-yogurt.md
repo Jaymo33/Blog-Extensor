@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of yogurt equals approximately 1.1 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a cake or a savoury dish, knowing exact measurements ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>305°F converts to approximately 150°C in a fan oven. This is a crucial conversion for air fryer users adapting American recipes, as most UK fan ovens use Celsius. Getting this temperature right ensures your food cooks evenly without burning or drying out.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of coconut milk is approximately 2.57 cups in the UK or 2.58 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a curry, baking a cake, or making a creamy sauce, knowing how to convert 610 ml of coconut milk to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can focus on cooking.</p>  

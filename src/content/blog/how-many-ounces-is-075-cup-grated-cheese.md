@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of grated cheese equals approximately 3 ounces (85 grams) in weight. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect texture. Whether you’re making cheesy garlic bread, stuffed mushrooms, or a quick melt, knowing how many ounces are in 0.75 cup of grated cheese helps avoid over- or under-seasoning.</p>  

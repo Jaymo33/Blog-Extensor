@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of lime juice equals approximately 7.5 grams. This measurement is essential for air fryer recipes where precision matters, especially when marinating meats or adding zest to dishes. Whether you're preparing a tangy chicken marinade or a refreshing dessert, knowing the exact weight ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of balsamic vinegar is approximately 0.042 cups. This small but precise measurement is essential for recipes where accuracy matters, especially in air fryer cooking. Whether you're marinating chicken or drizzling over roasted vegetables, knowing this conversion ensures perfect results every time.</p>  

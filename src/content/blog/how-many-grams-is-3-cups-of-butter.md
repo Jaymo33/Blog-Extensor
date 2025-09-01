@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of butter equals approximately 680 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you’re whipping up cookies or a buttery cake, knowing how many grams 3.0 cups of butter is ensures consistent results every time.</p>

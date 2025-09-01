@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of lemon juice is approximately 2.05 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're making a tangy lemon drizzle cake or marinating chicken, knowing the exact cup equivalent ensures your dish turns out perfectly.</p>

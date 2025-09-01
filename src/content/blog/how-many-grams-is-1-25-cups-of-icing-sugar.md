@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of icing sugar is approximately 150 grams. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Precise measurements ensure your recipes turn out perfectly every time.</p>  

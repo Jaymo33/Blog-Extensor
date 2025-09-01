@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>379°F converts to approximately 193°C in a fan oven. This temperature is ideal for roasting meats, baking crispy vegetables, or even making air fryer-friendly desserts. Fan ovens circulate hot air evenly, so you’ll often need to adjust temperatures compared to conventional ovens or air fryers.</p>

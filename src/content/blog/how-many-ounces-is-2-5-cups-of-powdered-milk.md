@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of powdered milk equals approximately 20 ounces (oz). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making a creamy sauce or a fluffy cake, knowing how to convert cups to ounces ensures consistency in your recipes.</p>  

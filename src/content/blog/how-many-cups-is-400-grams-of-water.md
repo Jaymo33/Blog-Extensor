@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of water equals approximately 1.69 cups in the UK and 1.67 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking, steaming, or preparing sauces, knowing how to convert grams to cups ensures consistent results every time.</p>

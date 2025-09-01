@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>237 fan oven converts to 220°C in a conventional oven. This is because fan ovens circulate hot air more efficiently, allowing you to reduce the temperature by about 10-20°C compared to traditional ovens. Understanding this conversion is crucial when adapting recipes between different oven types, especially when using an air fryer which often follows fan oven principles.</p>

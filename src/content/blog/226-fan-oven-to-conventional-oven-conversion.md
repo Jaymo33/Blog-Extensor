@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>226°C in a fan oven equals approximately 200°C in a conventional oven. This conversion is essential knowledge for anyone moving between different cooking appliances or adapting recipes. At airfryerrecipe.co.uk, we understand how crucial accurate temperatures are for perfect results every time.</p>

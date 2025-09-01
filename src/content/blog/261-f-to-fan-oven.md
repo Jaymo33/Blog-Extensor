@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>261 F converts to approximately 127 C in a fan oven. This conversion is essential for air fryer users who want to replicate recipes designed for conventional ovens. Whether you're cooking crispy chicken wings or baking desserts, knowing the right fan oven equivalent ensures consistent results.</p>

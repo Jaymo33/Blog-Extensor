@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of quinoa equals approximately 6.35 ounces (180 grams) when measured uncooked. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're preparing a protein-packed salad or a crispy quinoa patty in your air fryer, knowing the exact weight helps avoid under or over-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

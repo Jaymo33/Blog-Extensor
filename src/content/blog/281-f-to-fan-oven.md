@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>281 F converts to approximately 140 C in a fan oven. This is the standard equivalent used across most modern fan-assisted ovens and air fryers in the UK. Understanding this conversion is crucial when following recipes designed for conventional ovens or when using your air fryer as a substitute.</p>

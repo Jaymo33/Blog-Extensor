@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>129 fan oven converts to approximately 150°C in a conventional oven. This conversion is essential for accurate cooking, especially when adapting recipes for air fryers or traditional ovens. Understanding the difference between fan and conventional ovens ensures your dishes turn out perfectly every time.</p>

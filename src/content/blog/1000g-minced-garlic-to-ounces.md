@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of minced garlic equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for consistent results. Whether you're meal prepping or following a specific dish, knowing how to convert grams to ounces can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

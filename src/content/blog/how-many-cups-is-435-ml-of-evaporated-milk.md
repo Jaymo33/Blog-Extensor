@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of evaporated milk is approximately 1.84 cups in the UK or 1.83 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures your recipe turns out perfectly every time.</p>  

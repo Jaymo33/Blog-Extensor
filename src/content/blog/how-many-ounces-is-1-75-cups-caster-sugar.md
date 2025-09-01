@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of caster sugar equals approximately 12.25 ounces (oz) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer where accurate measurements can make or break your recipe. Whether you're making cakes, cookies, or desserts, knowing how many ounces are in 1.75 cups of caster sugar ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

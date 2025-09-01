@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of chicken broth equals approximately 8 ounces. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making soups, stews, or marinades, knowing this conversion helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide detailed guides to make cooking effortless.</p>

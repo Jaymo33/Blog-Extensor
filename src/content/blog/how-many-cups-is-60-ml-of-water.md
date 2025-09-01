@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of water equals approximately 0.25 cups (or 1/4 cup) in both UK and US measurements. This conversion is essential for precise cooking, especially when using an air fryer where accurate liquid measurements can affect texture and cooking times. Whether you’re baking, making sauces, or prepping ingredients, knowing how to convert 60 ml of water to cups ensures consistency in your recipes.</p>

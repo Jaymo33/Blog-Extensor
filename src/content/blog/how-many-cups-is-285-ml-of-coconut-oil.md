@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of coconut oil is approximately 1.2 cups. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you’re whipping up a batch of cookies or frying chicken in your air fryer, knowing how to measure coconut oil accurately makes all the difference.</p>  

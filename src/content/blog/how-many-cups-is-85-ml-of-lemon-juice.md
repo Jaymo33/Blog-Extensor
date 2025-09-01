@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of lemon juice equals approximately 0.36 cups (US) or 0.34 cups (UK). Whether you're baking a lemon drizzle cake or marinating chicken for your air fryer, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in recipes, especially when working with tangy ingredients like lemon juice.</p>  

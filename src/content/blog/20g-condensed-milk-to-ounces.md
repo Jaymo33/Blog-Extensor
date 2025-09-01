@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of condensed milk equals approximately 0.71 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re baking a cake or making a glaze, knowing the exact weight ensures perfect results every time.</p>

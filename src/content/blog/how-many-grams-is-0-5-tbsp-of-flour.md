@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of flour equals approximately 4 grams in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking air fryer cookies or coating chicken, knowing the exact weight of 0.5 tbsp of flour helps avoid mishaps.</p>  

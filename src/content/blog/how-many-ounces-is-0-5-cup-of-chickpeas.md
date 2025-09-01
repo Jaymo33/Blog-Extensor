@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of chickpeas equals approximately 3.5 ounces (or 100 grams). This measurement is handy for air fryer recipes, ensuring you get the perfect portion every time. Whether you're making crispy chickpeas or adding them to a dish, knowing this conversion helps streamline your cooking process.</p>

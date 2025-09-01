@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of granulated sugar equals approximately 0.63 cups in the UK and 0.6 cups in the US. Getting this conversion right is essential for baking, especially when using an air fryer for cakes, cookies, or desserts. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting measurements, knowing how to convert grams to cups ensures consistent results.</p>  

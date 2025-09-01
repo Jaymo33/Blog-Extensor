@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>176 fan oven is equivalent to approximately 350°F in a conventional oven. This conversion is essential for baking and cooking, especially if you're using an air fryer or transitioning between appliances. Understanding this temperature conversion ensures your recipes turn out perfectly every time.</p>

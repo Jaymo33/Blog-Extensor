@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of sliced mushrooms equal approximately 5.3 ounces (150 grams). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making crispy mushrooms or adding them to a dish, knowing the weight helps avoid over or under-seasoning.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of coconut oil weighs approximately 42 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re baking, frying, or roasting, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you nail every dish.</p>  

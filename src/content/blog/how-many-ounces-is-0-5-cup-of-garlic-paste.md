@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of garlic paste equals approximately 4.5 ounces (or 4.5 oz) in weight. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a marinade or seasoning meats, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate conversions.</p>  

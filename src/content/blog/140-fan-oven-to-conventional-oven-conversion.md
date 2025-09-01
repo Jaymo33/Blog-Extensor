@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>140°C in a fan oven converts to approximately 160°C in a conventional oven. This simple adjustment ensures your dishes cook evenly without burning or undercooking. Fan ovens circulate hot air for faster, more efficient cooking, while conventional ovens rely on radiant heat. Understanding this conversion is key for adapting recipes, especially when using an air fryer, which operates similarly to a fan oven.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of soy cream equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're preparing a vegan dessert or a creamy sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so your cooking is always spot-on.</p>  

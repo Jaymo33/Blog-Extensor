@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of minced onion equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a quick stir-fry or a flavourful casserole, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

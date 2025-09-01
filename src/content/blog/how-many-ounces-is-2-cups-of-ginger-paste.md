@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of ginger paste equals approximately 16 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make all the difference in flavour and texture. Whether you’re making marinades, sauces, or spiced dishes, knowing how many ounces are in 2 cups of ginger paste ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with easy-to-follow conversions and recipes.</p>  

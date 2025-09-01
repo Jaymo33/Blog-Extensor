@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of vegetable oil equals approximately 41 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're frying, roasting, or baking, knowing the exact weight ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000 grams of honey equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a honey-glazed salmon or a batch of air-fried cookies, knowing how to convert grams to ounces ensures perfect results every time.</p>

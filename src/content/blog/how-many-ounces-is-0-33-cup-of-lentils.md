@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of lentils equals approximately 2.64 ounces (75 grams). This conversion is essential for air fryer cooking, where precise measurements can make all the difference in your recipes. Whether you're making lentil patties, air-fried falafel, or a hearty lentil stew, knowing this measurement ensures consistent results every time.</p>

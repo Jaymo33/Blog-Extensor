@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5.75 kg of cod fillet is equal to approximately 12.68 pounds. This conversion is essential when you're preparing a large batch of fish, especially if you're using an air fryer and need to portion it correctly or adjust cooking times based on weight. Whether you're meal prepping, cooking for a crowd, or just found a great deal on a big fillet, knowing the exact weight in pounds helps ensure everything cooks evenly. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk. It's a fantastic resource for all your kitchen measurement needs.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of soy milk is approximately 45 grams. This conversion is handy for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're baking, marinating, or creating a sauce, knowing the exact weight of 3 tbsp of soy milk can make all the difference.</p>

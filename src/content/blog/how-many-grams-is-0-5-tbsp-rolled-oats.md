@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of rolled oats equals approximately 4 grams. This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're making granola, oat bars, or adding oats to a recipe, knowing this conversion ensures consistency.</p>

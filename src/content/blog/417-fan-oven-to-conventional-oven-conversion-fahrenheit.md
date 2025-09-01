@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>417 Fan Oven converts to approximately 400°F in a conventional oven. This adjustment ensures your recipes cook evenly, whether you're using a fan-assisted oven or a traditional one. Understanding this conversion is especially useful when adapting recipes for air fryers, which often follow conventional oven temperatures. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

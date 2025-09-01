@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of rice equals approximately 400 grams, though this can vary slightly depending on the type of rice and how it’s packed. Whether you're cooking in an air fryer or preparing a stovetop dish, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial conversions are for hassle-free cooking.</p>

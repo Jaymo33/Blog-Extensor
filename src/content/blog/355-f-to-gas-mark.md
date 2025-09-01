@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>355°F converts to Gas Mark 4.5 in UK ovens and air fryers. This temperature is commonly used for baking cakes, roasting vegetables, and cooking poultry. Whether you're using a conventional oven or an air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

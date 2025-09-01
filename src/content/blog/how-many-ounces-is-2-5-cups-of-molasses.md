@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of molasses equals approximately 30 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Molasses, a thick and sticky sweetener, is often used in baking and glazes, so getting the right amount is crucial. Whether you’re making gingerbread or a sticky marinade for your air fryer, knowing this conversion saves time and hassle. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

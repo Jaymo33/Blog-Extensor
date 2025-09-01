@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of rolled oats equals approximately 240 grams. This conversion is essential for precise baking or air fryer recipes, ensuring consistent texture and flavour. Whether you're making overnight oats, granola, or energy bars, knowing the exact weight helps avoid kitchen mishaps. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

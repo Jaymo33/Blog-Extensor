@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of milk is approximately 180 grams. This conversion is essential for precision in baking and cooking, especially when using an air fryer where measurements matter. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a family favourite, knowing the exact weight ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of olive oil equals approximately 11.25 grams. This conversion is essential for air fryer cooking, where precise measurements can make all the difference. Whether you’re drizzling oil over vegetables or coating chicken, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these small but crucial details for perfect dishes every time.</p>

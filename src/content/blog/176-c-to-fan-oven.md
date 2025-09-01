@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>176 C in a fan oven is equivalent to approximately 160 C in a conventional oven. This 16-degree difference is crucial for perfect baking results when using convection heat. Whether you're preparing cakes, roasting vegetables, or cooking meats, understanding this conversion ensures your dishes turn out just right.</p>

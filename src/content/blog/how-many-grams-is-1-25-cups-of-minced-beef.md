@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of minced beef equals approximately 283 grams, making it easy to measure for air fryer recipes. This conversion ensures accuracy, whether you’re cooking burgers, meatballs, or a hearty bolognese. Precise measurements are key to achieving consistent results, especially when using an air fryer, where ingredient ratios can affect cooking times and textures. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

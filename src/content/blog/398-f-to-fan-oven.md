@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>398 F converts to approximately 180 C in a fan oven. This is a common temperature for baking, roasting, and air frying, offering even heat distribution for consistent results. If you're using an air fryer, this conversion ensures your recipes turn out perfectly every time.</p>

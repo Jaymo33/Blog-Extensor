@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of soy sauce is approximately 0.78 cups. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or adding flavour to stir-fried vegetables, knowing how to convert millilitres to cups ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions effortless, so you can spend less time measuring and more time enjoying delicious meals.</p>  

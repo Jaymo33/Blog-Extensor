@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of pasta is roughly 330 grams, but this can vary slightly depending on the pasta shape and density. Whether you’re meal prepping or cooking a family dinner, knowing this conversion ensures perfect portions every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer, and accurate measurements are key to delicious results.</p>  

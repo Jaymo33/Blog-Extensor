@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of crushed garlic equals approximately 0.35 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact the final dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion ensures accuracy.</p>  

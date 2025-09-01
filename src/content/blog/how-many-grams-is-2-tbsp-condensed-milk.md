@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of condensed milk weigh approximately 40 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re making desserts or glazes, knowing the exact weight helps avoid kitchen mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

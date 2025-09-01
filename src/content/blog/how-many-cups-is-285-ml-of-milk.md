@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of milk equals approximately 1.2 cups in the UK or 1.2 cups in the US (though cup sizes differ slightly). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 285 ml of milk to cups makes cooking effortless.</p>  

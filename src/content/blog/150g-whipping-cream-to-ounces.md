@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of whipping cream is approximately 5.29 ounces. This conversion is essential for anyone using UK recipes or working with air fryers, where precise measurements can make all the difference. Whether you're making a creamy dessert or a rich sauce, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of condensed milk equals approximately 1.41 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a dessert or adding a sweet touch to a dish, knowing how to convert grams to ounces ensures accuracy. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

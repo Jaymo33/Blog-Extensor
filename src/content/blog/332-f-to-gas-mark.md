@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>332°F converts to Gas Mark 3, which is a moderate oven temperature ideal for baking and roasting in both traditional ovens and air fryers. This temperature is commonly used for cookies, cakes, and certain meats, ensuring even cooking without burning. If you're adapting a recipe from a conventional oven to an air fryer, knowing this conversion is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for other common temperature adjustments.</p>

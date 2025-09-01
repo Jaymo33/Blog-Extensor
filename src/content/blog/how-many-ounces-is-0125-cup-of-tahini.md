@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of tahini equals approximately 1 ounce. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making dips, dressings, or marinades, knowing how many ounces are in 0.125 cup of tahini ensures your dishes turn out perfectly every time.</p>  

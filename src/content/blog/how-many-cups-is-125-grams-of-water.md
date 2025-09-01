@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of water equals approximately 0.53 cups in the UK or 0.5 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking, cooking, or prepping meals, knowing how many cups is 125 grams of water ensures consistent results every time.</p>

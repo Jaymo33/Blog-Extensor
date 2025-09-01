@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of balsamic vinegar equals approximately 1.73 cups in the UK or 1.73 US cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or drizzling over roasted vegetables, knowing how many cups 410 ml of balsamic vinegar is ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>  

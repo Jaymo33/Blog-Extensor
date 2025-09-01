@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of soy milk equals approximately 2 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're preparing a creamy tofu scramble or a vegan dessert, knowing how to convert 0.25 cup of soy milk to ounces ensures consistency and perfect results every time.</p>  

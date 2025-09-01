@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of wholemeal flour equals approximately 0.35 ounces. This conversion is essential for air fryer recipes, where precision can make or break your dish. Whether you’re baking air fryer cakes or preparing a savoury crust, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making measurements effortless for home cooks. Let’s dive deeper into why this conversion matters and how to apply it.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of tomato paste equals approximately 2 ounces. This measurement is crucial for air fryer recipes, where precise ingredient quantities can make or break a dish. Whether you’re making a rich pasta sauce or a flavourful marinade, knowing this conversion ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

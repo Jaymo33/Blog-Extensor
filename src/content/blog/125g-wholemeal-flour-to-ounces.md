@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of wholemeal flour equals approximately 4.41 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up air fryer cakes or bread, knowing how to convert grams to ounces ensures perfect results every time.</p>  

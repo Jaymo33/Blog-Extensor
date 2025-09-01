@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of mayonnaise equals approximately 20 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you’re whipping up a dip, dressing, or a creamy sauce, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

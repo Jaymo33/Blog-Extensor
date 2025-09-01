@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of maple syrup is approximately 1.73 cups. This conversion is essential for baking, cooking, or air frying, where precise measurements can make or break a recipe. Whether you're whipping up pancakes, glazing meats, or creating desserts in your air fryer, knowing how to convert 410 ml of maple syrup to cups ensures consistency and delicious results.</p>

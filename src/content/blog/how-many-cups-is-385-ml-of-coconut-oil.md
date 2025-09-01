@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of coconut oil is approximately 1.63 cups. This conversion is essential for baking and air frying, where precise measurements can make or break your recipe. Whether you're whipping up a cake or crisping some veggies, knowing how to convert 385 ml of coconut oil to cups ensures consistent results every time.</p>

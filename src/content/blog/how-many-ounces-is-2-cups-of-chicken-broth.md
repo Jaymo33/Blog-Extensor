@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chicken broth equals approximately 16 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making soups, stews, or marinades, knowing how many ounces are in 2 cups of chicken broth ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate measurements.</p>  

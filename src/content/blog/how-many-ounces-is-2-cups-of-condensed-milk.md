@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of condensed milk equals approximately 20 ounces. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re making a creamy dessert or a rich sauce, knowing the exact weight helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions easy for home cooks. Keep reading to learn more about measuring condensed milk accurately.</p>

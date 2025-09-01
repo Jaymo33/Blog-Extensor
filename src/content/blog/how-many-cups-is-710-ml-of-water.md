@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of water equals approximately 3 cups, but precise measurements can vary slightly depending on the cup standard used. Whether you're preparing a sauce, marinating ingredients, or adjusting liquid levels for air fryer recipes, getting this conversion right ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for perfect dishes every time.</p>

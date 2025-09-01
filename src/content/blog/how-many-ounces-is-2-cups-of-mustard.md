@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of mustard equals approximately 16 ounces (or 1 pound) in weight. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a glaze or a dipping sauce, knowing how many ounces are in 2 cups of mustard ensures your dish turns out perfectly.</p>

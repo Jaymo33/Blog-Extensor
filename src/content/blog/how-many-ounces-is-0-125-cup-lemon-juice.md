@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of lemon juice equals exactly 1 fluid ounce (oz). This measurement is crucial for air fryer recipes where precision ensures perfect results. Whether you’re whipping up a marinade or adding a tangy twist to dishes, knowing this conversion saves time and hassle.</p>

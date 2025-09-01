@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of jam equals approximately 20 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a glaze, filling, or sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions.</p>  

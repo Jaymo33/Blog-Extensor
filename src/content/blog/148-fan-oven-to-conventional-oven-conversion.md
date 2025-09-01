@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>148 fan oven converts to approximately 130°C in a conventional oven. This conversion is essential for recipes that require precise temperatures, especially when using an air fryer. Understanding this conversion ensures your dishes come out perfectly every time.</p>

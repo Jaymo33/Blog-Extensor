@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of Nutella equals approximately 3.75 grams. This measurement is handy when you need precise amounts for air fryer recipes or baking. Nutella’s thick, sticky consistency means volume measurements like tablespoons can vary slightly, so weighing it ensures accuracy. Whether you’re making air fryer cookies or a Nutella drizzle, knowing the gram equivalent helps avoid guesswork. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat macaroni in an air fryer, set it to 160°C (320°F) and cook for 3-5 minutes until piping hot. This method restores crispiness to baked macaroni while preventing drying. Whether you’ve got leftover mac and cheese or a pasta bake, your air fryer can revive it better than a microwave.</p>

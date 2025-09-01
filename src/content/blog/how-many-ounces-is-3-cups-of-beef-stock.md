@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of beef stock equals 24 fluid ounces (fl oz). This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're making a rich gravy, a hearty stew, or a flavourful sauce, knowing how many ounces are in 3 cups of beef stock helps streamline your cooking process.</p>

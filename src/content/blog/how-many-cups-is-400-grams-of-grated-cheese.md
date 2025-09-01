@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of grated cheese equals approximately 4 cups, though this can vary slightly depending on the cheese type and how finely it's grated. If you're using an air fryer for cheesy dishes like nachos, melts, or stuffed peppers, getting the measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in cooking.</p>  

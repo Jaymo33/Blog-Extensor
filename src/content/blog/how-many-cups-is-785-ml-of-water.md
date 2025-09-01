@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of water equals approximately 3.32 cups. This conversion is essential for precise measurements in air fryer cooking, where accuracy can make or break a recipe. Whether you’re preparing a sauce, batter, or steaming vegetables, knowing how to convert 785 ml of water to cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can cook with confidence.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of pasta is roughly equivalent to 5 cups when measured uncooked, though this can vary slightly depending on the pasta shape. Whether you're using an air fryer for crispy pasta bakes or meal prepping for the week, getting the measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, so let’s break down how to convert 500 grams of pasta to cups accurately.</p>

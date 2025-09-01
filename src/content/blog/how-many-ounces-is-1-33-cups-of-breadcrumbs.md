@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of breadcrumbs equals approximately 5.3 ounces (or 150 grams) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re breading chicken, fish, or creating a crispy topping, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

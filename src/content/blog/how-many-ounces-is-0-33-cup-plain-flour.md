@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of plain flour equals approximately 1.4 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking air fryer cookies or whipping up a quick cake, knowing how to convert 0.33 cup of plain flour to ounces ensures consistency.</p>

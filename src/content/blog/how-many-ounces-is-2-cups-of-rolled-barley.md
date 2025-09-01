@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of rolled barley equals approximately 6.35 ounces. This conversion is essential for air fryer recipes, ensuring you get the right texture and consistency every time. Whether you're making a hearty breakfast or a wholesome side dish, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important precision is for perfect results. Let’s dive deeper into how to measure rolled barley for your air fryer.</p>

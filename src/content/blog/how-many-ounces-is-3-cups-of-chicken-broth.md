@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chicken broth equals approximately 24 fluid ounces. This conversion is essential for air fryer recipes where precise liquid measurements can impact cooking times and textures. Whether you're making soups, stews, or marinades, knowing how to convert cups to ounces ensures consistency in your dishes. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

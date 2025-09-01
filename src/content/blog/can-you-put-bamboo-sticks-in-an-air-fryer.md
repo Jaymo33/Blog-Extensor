@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put bamboo sticks in an air fryer, but they require careful handling to prevent burning or drying out. Bamboo skewers are commonly used for kebabs and small food items in air fryers across the UK. However, their porous nature makes them susceptible to high heat, so proper preparation is crucial for safety.</p>

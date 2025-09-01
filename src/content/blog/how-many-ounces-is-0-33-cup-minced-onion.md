@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of minced onion equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour. Whether you're making a savoury stir-fry or a hearty casserole, knowing how many ounces are in 0.33 cup of minced onion helps you nail the recipe every time.</p>  

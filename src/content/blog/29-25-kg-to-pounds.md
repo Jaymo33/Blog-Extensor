@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>29.25 kg is equal to approximately 64.48 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat or bulk ingredients that require precise measurements for perfect cooking. Understanding how to convert kilograms to pounds ensures your recipes turn out exactly as intended, whether you're preparing a family feast or meal prepping for the week. Accurate measurements help maintain cooking times and temperatures, which is crucial for achieving that desirable crispy texture without overcooking. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

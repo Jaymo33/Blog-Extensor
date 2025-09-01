@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>348 F converts to approximately 175 C in a fan oven. This is a common temperature for baking and roasting in both traditional ovens and air fryers. Understanding this conversion helps ensure your recipes turn out perfectly every time.</p>

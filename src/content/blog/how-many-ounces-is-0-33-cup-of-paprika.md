@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of paprika equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise seasoning can make or break a dish. Whether you’re whipping up a spicy rub or adding depth to a marinade, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify measurements so you can focus on cooking. Let’s dive deeper into converting 0.33 cup of paprika to ounces and why it matters.</p>  

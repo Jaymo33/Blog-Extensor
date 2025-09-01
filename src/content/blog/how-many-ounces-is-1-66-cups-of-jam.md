@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of jam equals approximately 13.28 ounces. This conversion is essential for precise measurements in baking and cooking, especially when using an air fryer. Whether you're making a glaze for air-fried pastries or a sauce for meats, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you get these measurements right every time.</p>

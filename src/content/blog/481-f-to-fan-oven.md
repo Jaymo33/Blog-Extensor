@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>481 F converts to approximately 250 C in a fan oven. This high-temperature setting is ideal for achieving crispy textures in air fryers, mimicking professional convection ovens. At airfryerrecipe.co.uk, we specialise in helping home cooks master these conversions for perfect results.</p>

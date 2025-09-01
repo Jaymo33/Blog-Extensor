@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of olive oil equals approximately 414 ml, making it easy to measure for your air fryer recipes. Whether you're preparing a marinade, dressing, or frying, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on simplifying kitchen measurements so you can focus on creating delicious meals.</p>  

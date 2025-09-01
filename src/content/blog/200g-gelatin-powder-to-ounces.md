@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of gelatin powder equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, baking, or any cooking that requires precise measurements. Whether you're making a creamy dessert or a savoury dish, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

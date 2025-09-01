@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of sesame oil equals 3 ounces (oz). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing exact quantities ensures consistent results.</p>  

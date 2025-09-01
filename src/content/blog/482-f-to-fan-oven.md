@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>482 F converts to approximately 250 C in a fan oven. This is the standard conversion for most air fryer recipes requiring high-heat cooking. Whether you're making crispy chips or roasting vegetables, knowing this conversion ensures perfect results every time.</p>

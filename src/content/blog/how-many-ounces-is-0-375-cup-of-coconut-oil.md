@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of coconut oil equals 3 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking, frying, or roasting, knowing how to convert cups to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly. Keep reading to learn more about measuring coconut oil for your air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of porridge oats equals approximately 2.65 ounces. This conversion is essential for UK cooks who need precise measurements for their air fryer recipes. Whether you're preparing overnight oats or baking oat-based treats in your air fryer, getting the quantities right makes all the difference.</p>

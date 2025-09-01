@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of passata equals approximately 8.45 ounces (240 grams). This measurement is essential for air fryer recipes, ensuring your sauces and dishes have the right consistency. Whether you're prepping a homemade pizza sauce or a rich tomato base, knowing the exact weight saves time and guarantees perfect results every time.</p>

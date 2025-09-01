@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Ounces Are in 3 Cups of Hot Sauce?</h2>  

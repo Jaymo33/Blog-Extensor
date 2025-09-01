@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of plain flour equals approximately 8.8 ounces (250 grams) in the UK. This conversion is essential for precise baking, especially when using an air fryer where measurements matter for perfect texture and consistency. Whether you’re whipping up air fryer cakes or crispy coatings, knowing the exact weight ensures your recipes turn out just right. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of half and half equals approximately 4.06 cups. This conversion is essential for recipes that require precise measurements, especially when using an air fryer. Whether you're whipping up creamy sauces or baking indulgent desserts, knowing how to convert ml to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make cooking conversions effortless so you can focus on creating delicious meals.</p>  

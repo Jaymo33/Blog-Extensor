@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of milk weighs approximately 75 grams in the UK. This conversion is essential for air fryer recipes where precision ensures perfect results every time. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight helps avoid kitchen mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

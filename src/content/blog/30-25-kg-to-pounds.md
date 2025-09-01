@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30.25 kilograms is equal to approximately 66.69 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat or bulk ingredients. Many recipes, particularly those from international sources or professional kitchens, use metric measurements. Knowing how to quickly convert 30.25 kg to pounds ensures you use the correct amount of food for your appliance, preventing overcrowding and promoting even cooking. Getting your quantities right is the first step to a perfect air fryer meal every time.</p>

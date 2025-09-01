@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.25 kilograms is equal to approximately 9.37 pounds. This conversion is essential for air fryer users who follow recipes using imperial measurements or need to portion ingredients accurately. Whether you're preparing a large batch of chicken, weighing potatoes for roasting, or portioning frozen foods, knowing how to convert 4.25 kg to pounds ensures your meals cook evenly and turn out perfectly. Many air fryer recipes, especially those from American sources, use pounds, so this conversion is a handy tool to have at your fingertips. Bookmark this page for quick reference next time you're cooking up a storm with your air fryer.</p>

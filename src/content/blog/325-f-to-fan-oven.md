@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 F converts to approximately 160 C in a fan oven. This temperature is commonly used for baking, roasting, and air frying delicate foods that require gentle, even heat distribution. When using an air fryer, understanding this conversion helps achieve consistent results across different cooking methods.</p>

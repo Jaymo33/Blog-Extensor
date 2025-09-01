@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of baking powder equals approximately 10 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making fluffy cakes or crispy treats, knowing the exact weight ensures consistent results every time.</p>  

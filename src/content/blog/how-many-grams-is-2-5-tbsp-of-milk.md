@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of milk equals approximately 37 grams. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you’re whipping up a cake or a creamy sauce, knowing how many grams 2.5 tbsp of milk is ensures consistency and perfect results.</p>  

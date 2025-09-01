@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of evaporated milk equals approximately 2.8 cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how many cups is 660 ml of evaporated milk ensures consistency and perfect results every time.</p>

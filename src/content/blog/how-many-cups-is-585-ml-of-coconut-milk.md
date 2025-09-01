@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of coconut milk is roughly 2.47 cups in the US or 2.06 cups in the UK. This conversion is essential for air fryer recipes where accuracy ensures the best texture and flavour. Whether you're making curries, desserts, or sauces, knowing how to measure coconut milk correctly can make all the difference.</p>  

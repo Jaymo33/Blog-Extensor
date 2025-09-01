@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of half and half equals approximately 236.59 ml. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re whipping up a creamy sauce or baking a delicious dessert, knowing the exact ml equivalent of 1.0 cups of half and half can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you achieve culinary perfection with accurate conversions and expert tips.</p>

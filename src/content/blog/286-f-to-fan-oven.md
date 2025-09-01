@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>286°F converts to approximately 140°C in a fan oven. This is a common temperature for slow-cooking dishes or baking delicate items in your air fryer. Understanding these conversions ensures your recipes turn out perfectly every time.</p>

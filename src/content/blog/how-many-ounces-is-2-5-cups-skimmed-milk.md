@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of skimmed milk equals approximately 20 fluid ounces (or 20 oz). This conversion is essential for accurate measurements, especially when preparing recipes for your air fryer. Whether you're whipping up a creamy dessert or a savoury dish, knowing the exact weight ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of water equals approximately 22.5 grams (g). This conversion is essential for precise measurements in air fryer recipes, where accuracy can make or break your dish. Whether you’re preparing a marinade, batter, or sauce, knowing the exact weight of water ensures consistency.</p>  

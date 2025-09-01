@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of cheddar cheese is roughly equivalent to 0.42 cups when grated or 0.25 cups when cubed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a cheesy bake or a crispy snack, knowing how many cups 50 grams of cheddar cheese equals ensures perfect results every time.</p>

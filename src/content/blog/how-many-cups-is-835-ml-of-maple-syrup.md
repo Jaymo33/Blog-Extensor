@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of maple syrup is approximately 3.5 cups. This conversion is essential for baking, cooking, or using your air fryer to ensure recipes turn out perfectly. Whether you're making glazes, marinades, or sweet treats, knowing how to measure maple syrup accurately saves time and avoids kitchen mishaps.</p>

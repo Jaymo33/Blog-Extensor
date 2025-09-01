@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of rolled oats equals approximately 3.5 ounces (99 grams). This conversion is essential for air fryer recipes, ensuring your breakfast bakes, granolas, or oat-based dishes turn out perfectly every time. Whether you’re meal prepping or whipping up a quick snack, accurate measurements make all the difference.</p>  

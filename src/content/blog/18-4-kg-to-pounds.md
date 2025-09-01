@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>18.4 kg is equal to approximately 40.565 pounds. This conversion is essential for air fryer users who need to accurately portion ingredients, especially when dealing with larger cuts of meat or bulk purchases. Getting the weight right ensures your air fryer cooks everything evenly and to perfection. Whether you are meal prepping or following a specific recipe, knowing how to convert 18.4 kg to pounds can make all the difference. Trusted resources like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> often provide handy conversion charts to simplify your cooking process.</p>

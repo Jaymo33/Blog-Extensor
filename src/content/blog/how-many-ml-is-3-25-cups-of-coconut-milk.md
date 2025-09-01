@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of coconut milk is equivalent to approximately 768 ml. This conversion is essential for air fryer recipes, ensuring accuracy whether you're baking, frying, or making sauces. Precise measurements help maintain the right consistency and flavour in dishes like curries, desserts, or marinades. If you're using an air fryer, knowing exact liquid quantities prevents under or overcooking. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

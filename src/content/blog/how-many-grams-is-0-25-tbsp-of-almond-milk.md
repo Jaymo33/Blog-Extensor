@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of almond milk equals approximately 3.75 grams. This measurement is essential for air fryer recipes where precision ensures the best results. Whether you're making cakes, sauces, or marinades, knowing the exact weight helps avoid mishaps. Almond milk is a popular dairy-free alternative, and its lightweight nature means small amounts can make a big difference. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

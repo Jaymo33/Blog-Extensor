@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of porridge oats weigh approximately 5.6 ounces (160 grams). This measurement is essential for air fryer recipes, ensuring your breakfast dishes turn out perfectly every time. Whether you're making granola, oat bars, or baked oats, knowing the exact weight helps maintain consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of almond milk equals approximately 0.57 cups. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert ml to cups ensures your dish turns out just right.</p>  

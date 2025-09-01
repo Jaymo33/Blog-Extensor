@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 kg of prawns equals approximately 2.20462 pounds, making it easy to convert between metric and imperial measurements for your air fryer recipes. This conversion is essential when following international recipes or when your kitchen scale uses different units. Whether you're cooking fresh or frozen prawns, knowing this exact measurement helps you achieve perfectly cooked seafood every time. Accurate measurements prevent over or undercooking, ensuring your prawns come out juicy and flavourful. For more helpful conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

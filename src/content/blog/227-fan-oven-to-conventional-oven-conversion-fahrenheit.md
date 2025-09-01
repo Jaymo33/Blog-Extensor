@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 227°F Fan Oven to Conventional Oven Conversion</h2>

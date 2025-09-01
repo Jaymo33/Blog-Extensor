@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of icing sugar equals approximately 10 ounces (oz) in the UK. This conversion is essential for precise baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, accurate measurements ensure perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of double cream is approximately 0.88 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up a dessert or adding richness to a savoury dish, knowing the exact weight ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can use aluminium trays in most air fryers, but with important precautions. The key concern isn't melting (aluminium's melting point is 660°C, far above air fryer temperatures) but rather airflow disruption and potential scratching of non-stick surfaces. At airfryerrecipe.co.uk, we recommend following manufacturer guidelines for your specific model.</p>

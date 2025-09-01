@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of ginger paste equals approximately 3 ounces. This conversion is essential for precise cooking, especially when using an air fryer where ingredient measurements can impact texture and flavour. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own dishes, knowing the exact weight ensures consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of vinegar weigh approximately 30 grams. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you're marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistency in your dishes.</p>  

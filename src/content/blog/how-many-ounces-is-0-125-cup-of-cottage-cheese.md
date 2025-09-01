@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of cottage cheese equals approximately 1 ounce (oz) in weight. This conversion is handy when preparing air fryer recipes that require precise measurements for the best results. Whether you’re making a cheesy breakfast bake or a light snack, knowing how many ounces are in 0.125 cup of cottage cheese ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>  

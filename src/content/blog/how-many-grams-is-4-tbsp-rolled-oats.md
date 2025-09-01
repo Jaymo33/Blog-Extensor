@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of rolled oats weigh approximately 30 grams (g). This conversion is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times.</p>  

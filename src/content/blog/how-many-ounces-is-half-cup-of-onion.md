@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of chopped onion weighs approximately 2 ounces (56 grams). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect results. Whether you're making crispy onion rings or adding flavour to a dish, knowing the exact weight helps avoid over or under-seasoning.</p>  

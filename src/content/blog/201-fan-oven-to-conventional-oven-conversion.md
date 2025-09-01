@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>201 fan oven converts to approximately 180°C in a conventional oven. This is because fan ovens circulate hot air more efficiently, allowing you to cook at slightly lower temperatures. Understanding this conversion is crucial for adapting recipes, especially when using an air fryer, which operates similarly to a fan oven.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of plain yogurt equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a creamy dip or a fluffy cake, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking simpler, so let’s dive deeper into why this conversion matters.</p>

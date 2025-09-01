@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of porridge oats equals approximately 1.76 ounces. This conversion is essential for anyone using an air fryer to make breakfast recipes, ensuring precise measurements for perfect results every time. Whether you’re meal prepping or whipping up a quick morning dish, knowing how to convert grams to ounces is a game-changer.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of sugar syrup equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making glazes, desserts, or marinades, knowing this conversion ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

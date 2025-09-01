@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of honey equals approximately 4.15 cups in the US measurement system and 3.46 cups in the UK system. Whether you're baking a cake or preparing a glaze for your air fryer chicken, accurate measurements are key. Honey's thick consistency makes it tricky to measure, but this guide simplifies the process for you.</p>

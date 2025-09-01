@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chopped garlic equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour balance. Whether you're making garlic butter shrimp or roasted garlic potatoes, knowing the exact weight helps avoid over or under-seasoning. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

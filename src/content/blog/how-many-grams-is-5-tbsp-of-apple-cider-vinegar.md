@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of apple cider vinegar equals approximately 75 grams. This conversion is essential for precise cooking, especially when using an air fryer where accurate measurements can make all the difference. Whether you're marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistency in your dishes.</p>  

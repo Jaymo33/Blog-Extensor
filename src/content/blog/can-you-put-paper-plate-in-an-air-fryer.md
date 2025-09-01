@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put a paper plate in an air fryer. Most paper plates aren’t heat-resistant enough to withstand the high temperatures of an air fryer, which can reach up to 200°C. This can lead to melting, burning, or even a fire hazard. For safe air frying, always use materials specifically designed for high heat, like silicone or metal baskets.</p>  

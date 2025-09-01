@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of agave syrup equals approximately 50 grams (g). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking, glazing, or sweetening, knowing the exact weight helps maintain consistency.</p>  

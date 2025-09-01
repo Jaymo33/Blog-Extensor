@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of evaporated milk is roughly 2/3 of a standard UK cup (240 ml) or just over 1/2 of a US cup (237 ml). This conversion is essential for baking and cooking, especially when using air fryers, where precise measurements can affect texture and taste. Whether you're making a creamy sauce or a rich dessert, knowing how to convert 160 ml of evaporated milk to cups ensures consistency in your recipes.</p>  

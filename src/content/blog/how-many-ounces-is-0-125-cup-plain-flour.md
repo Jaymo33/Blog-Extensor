@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of plain flour equals approximately 0.56 ounces (or roughly half an ounce). This measurement is crucial for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re whipping up air fryer cookies or coating chicken, knowing how to convert 0.125 cup of plain flour to ounces saves time and avoids kitchen mishaps.</p>  

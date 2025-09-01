@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of buttermilk is approximately 1.1 cups in the US and 1.04 cups in the UK. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making fluffy pancakes or a moist cake, knowing how to convert millilitres to cups ensures your dish turns out perfectly.</p>  

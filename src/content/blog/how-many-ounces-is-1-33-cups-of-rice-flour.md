@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of rice flour equals approximately 5.3 ounces (or 150 grams) when measured accurately. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy coatings or gluten-free baked goods, knowing how many ounces are in 1.33 cups of rice flour ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

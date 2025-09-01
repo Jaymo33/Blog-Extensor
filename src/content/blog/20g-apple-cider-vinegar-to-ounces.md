@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of apple cider vinegar equals approximately 0.71 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making a tangy marinade or a light dressing, knowing how many ounces 20g of apple cider vinegar is ensures consistency in flavour and texture.</p>  

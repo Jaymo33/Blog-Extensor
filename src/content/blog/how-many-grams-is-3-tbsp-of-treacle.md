@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of treacle weigh approximately 63 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking sticky toffee pudding or glazing ham, knowing the exact weight helps avoid guesswork.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of buttermilk is approximately 1.84 cups in US measurements or 1.53 cups in UK measurements. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break your dish. Whether you're whipping up pancakes, cakes, or marinades, knowing how to convert 435 ml of buttermilk to cups ensures consistency and delicious results every time.</p>  

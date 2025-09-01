@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of lentils equals approximately 0.63 UK cups or 0.53 US cups. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're meal prepping or trying a new dish, knowing how many cups is 125 grams of lentils ensures consistent results every time.</p>

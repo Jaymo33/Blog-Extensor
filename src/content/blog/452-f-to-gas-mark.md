@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>452°F is equivalent to Gas Mark 8, making it ideal for high-temperature air fryer cooking. This conversion is particularly useful for British recipes that specify Gas Mark settings. Whether you're roasting, baking, or crisping, knowing this conversion ensures your air fryer delivers consistent results.</p>

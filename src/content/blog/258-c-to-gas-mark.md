@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>258°C converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is ideal for roasting meats, baking pastries, or achieving crispy textures in your air fryer. Whether you're following a recipe or adjusting cooking times, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks.</p>

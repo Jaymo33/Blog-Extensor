@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 kg is equal to approximately 6.0625 pounds, a conversion that becomes incredibly useful when working with air fryer recipes and portion sizes. Many fantastic recipes from across the globe use metric measurements, and knowing how to quickly convert them ensures your cooking results are spot on every single time. This specific weight often appears with larger cuts of meat or when preparing family-sized portions in your appliance. Getting this conversion right means your food will cook evenly and reach the perfect level of crispiness. Bookmarking a reliable resource like <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> can save you from any kitchen maths headaches.</p>

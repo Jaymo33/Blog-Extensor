@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of cream cheese equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making cheesecakes, dips, or stuffed dishes, knowing how to convert grams to ounces helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can cook with confidence.</p>  

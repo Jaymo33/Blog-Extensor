@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of milk equals approximately 2.57 cups in the UK or 2.58 cups in the US. This conversion is essential for recipes, especially when using an air fryer for baking or cooking. Whether you're whipping up a cake or a creamy sauce, knowing how to measure 610 ml of milk in cups ensures accuracy. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

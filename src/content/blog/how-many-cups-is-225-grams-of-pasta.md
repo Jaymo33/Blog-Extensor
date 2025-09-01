@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of pasta is roughly equivalent to 2.25 cups when measured uncooked. This conversion is essential for air fryer recipes, ensuring you get the perfect portion every time. Whether you're making a creamy pasta bake or a crispy air-fried noodle dish, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision is key to delicious results. Let’s break down how to measure 225 grams of pasta in cups for both UK and US standards.</p>  

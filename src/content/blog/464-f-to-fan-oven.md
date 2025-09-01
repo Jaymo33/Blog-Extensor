@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>464 F converts to approximately 240 C in a fan oven. This high-temperature conversion is essential for air fryer users who need to replicate recipes designed for conventional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt cooking temperatures for perfect results every time.</p>

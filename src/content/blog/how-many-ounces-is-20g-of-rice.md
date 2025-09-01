@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of rice equals approximately 0.71 ounces. This conversion is handy when preparing air fryer recipes that require precise measurements for perfect results. Whether you're meal prepping or cooking a quick side dish, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs. Let’s dive deeper into why this measurement matters for air fryer cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of blueberries is roughly equivalent to 1.5 cups, though this can vary slightly based on berry size and packing density. If you're using an air fryer, accurate measurements ensure even cooking and delicious results. Whether you're whipping up a blueberry crumble or adding them to pancakes, knowing this conversion helps streamline your recipe prep. For more handy air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

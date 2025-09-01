@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of yeast equals approximately 0.18 ounces. This conversion is essential for bakers who need precise measurements, especially when working with air fryer recipes where accuracy can make or break your dish.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of plain flour equals approximately 3.4 cups in UK measurements or 3.5 cups in US measurements. This conversion is essential for air fryer baking, where precision ensures perfect textures and consistent results. Whether you're whipping up cakes, cookies, or bread in your air fryer, knowing how to measure flour correctly can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide detailed guides to help you master air fryer cooking, including accurate measurement conversions.</p>  

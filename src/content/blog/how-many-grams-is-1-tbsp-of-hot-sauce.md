@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of hot sauce weighs approximately 15 grams. This measurement is essential for air fryer recipes where precision ensures the perfect balance of flavour and texture. Whether you’re marinating chicken or spicing up vegetables, knowing the exact weight helps avoid over-seasoning.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of maple syrup is approximately 0.68 cups. This conversion is essential for baking, cooking, or air frying recipes that require precise measurements. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting a family favourite, knowing how to convert millilitres to cups ensures consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of mustard weighs approximately 22 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a marinade or adding a tangy kick to your dish, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you cook with confidence.</p>

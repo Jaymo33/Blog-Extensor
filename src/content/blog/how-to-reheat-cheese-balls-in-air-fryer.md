@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat cheese balls in an air fryer, set the temperature to 160°C (320°F) and cook for 3–5 minutes until crispy and heated through. This method ensures the coating stays crunchy while the cheese inside melts perfectly. Whether you’re working with leftovers or refrigerated cheese balls, the air fryer delivers consistent results without the sogginess of microwaving.</p>  

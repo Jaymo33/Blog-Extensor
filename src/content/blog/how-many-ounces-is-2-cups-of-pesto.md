@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of pesto equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making pesto chicken, pasta, or even pesto-coated veggies, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you cook with confidence.</p>  

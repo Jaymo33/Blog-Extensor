@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of lemonade equals approximately 2.64 fluid ounces. This conversion is handy for air fryer recipes where precise measurements matter, ensuring your dishes turn out perfectly every time. Whether you're making glazes, marinades, or refreshing drinks, knowing how to convert 0.33 cup of lemonade to ounces can save time and hassle.</p>

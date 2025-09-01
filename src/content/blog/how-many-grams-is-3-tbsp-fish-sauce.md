@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of fish sauce weighs approximately 45 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or adding depth to a stir-fry, knowing the exact grams in 3 tbsp of fish sauce ensures consistent results every time.</p>

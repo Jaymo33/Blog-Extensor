@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>278°F converts to Gas Mark 1 for oven cooking. This is a gentle heat ideal for slow roasting, proofing dough, or keeping dishes warm. When using an air fryer, you'll typically set the temperature directly rather than converting to Gas Mark, but understanding oven equivalents helps when adapting traditional recipes.</p>

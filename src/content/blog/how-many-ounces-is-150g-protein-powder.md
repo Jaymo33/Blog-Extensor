@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of protein powder equals approximately 5.29 ounces. This conversion is essential for anyone using protein powder in recipes, especially when preparing meals for your air fryer. Whether you're baking protein-packed snacks or adding it to shakes, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>337 F converts to approximately 170 C in a fan oven. This temperature is ideal for roasting vegetables, baking cakes, or cooking poultry in your air fryer or fan-assisted oven. Understanding this conversion ensures your recipes turn out perfectly every time.</p>

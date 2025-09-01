@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of cornflour equals approximately 32 grams (g). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and consistency. Whether you're coating chicken or thickening a sauce, knowing how many grams 4 tbsp of cornflour is can make all the difference.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of golden syrup equals approximately 35.27 ounces. This conversion is essential for anyone using golden syrup in air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re making sticky toffee pudding or glazing meats, knowing how to convert grams to ounces is a game-changer.</p>  

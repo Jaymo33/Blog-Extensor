@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of sesame seeds equals approximately 2.5 ounces (70 grams) in UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you’re making sesame-crusted chicken or sprinkling seeds over roasted vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to help you achieve perfect results every time.</p>  

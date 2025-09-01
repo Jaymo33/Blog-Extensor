@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>222°C in a fan oven converts to approximately 432°F in a conventional oven. This conversion is essential for baking enthusiasts who switch between different oven types. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting family favourites, getting the temperature right makes all the difference.</p>

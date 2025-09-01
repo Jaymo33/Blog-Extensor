@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of chopped onion is approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a quick stir-fry or adding onions to a casserole, knowing the exact weight ensures consistent results every time.</p>

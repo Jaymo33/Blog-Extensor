@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of chicken broth equals approximately 0.89 cups. This conversion is essential for air fryer recipes, ensuring accuracy for soups, stews, and sauces. Whether you're following a British or American recipe, knowing how many cups is 210 ml of chicken broth helps avoid measurement mishaps.</p>

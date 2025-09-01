@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 9.5 kg lamb leg is equivalent to approximately 20.94 pounds. This conversion is essential for anyone preparing a large cut of meat, especially when using an air fryer or planning a traditional roast. Knowing the exact weight in pounds helps you calculate cooking times accurately, ensuring your lamb is perfectly juicy and tender. Whether you're hosting a Sunday dinner or a special celebration, getting the weight right is the first step to culinary success. For more handy conversion tips, check out the resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

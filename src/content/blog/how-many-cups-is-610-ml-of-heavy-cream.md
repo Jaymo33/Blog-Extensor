@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of heavy cream equals approximately 2.57 cups. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to measure heavy cream accurately is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless results.</p>

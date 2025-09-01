@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of mayonnaise equals approximately 1.76 ounces. This conversion is essential for anyone using UK measurements in their cooking, especially when preparing air fryer recipes where precision matters. Whether you're whipping up a quick sauce or measuring ingredients for a dish, knowing how to convert grams to ounces can make all the difference.</p>

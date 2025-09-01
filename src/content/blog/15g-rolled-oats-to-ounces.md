@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of rolled oats equals approximately 0.53 ounces. Whether you’re whipping up a batch of air fryer granola or adding a crunchy topping to baked apples, getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer. Let’s break down the conversion and explore how to use rolled oats in your favourite dishes.</p>  

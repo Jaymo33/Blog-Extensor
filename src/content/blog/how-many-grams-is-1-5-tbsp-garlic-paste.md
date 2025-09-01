@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of garlic paste equals approximately 22.5 grams. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're making marinades, sauces, or rubs, knowing this conversion ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for perfect air frying.</p>

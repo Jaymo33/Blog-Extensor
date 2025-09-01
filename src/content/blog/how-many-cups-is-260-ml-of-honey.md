@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of honey is approximately 1.1 cups. This conversion is essential for baking and cooking, especially when using precise measurements in recipes for air fryers or traditional ovens. Whether you're whipping up a cake or glazing chicken, knowing how 260 ml translates to cups ensures consistent results every time.</p>

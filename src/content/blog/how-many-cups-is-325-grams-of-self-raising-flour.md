@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of self-raising flour is roughly equivalent to 2.6 cups. This conversion is essential for baking, especially when using an air fryer where precise measurements matter. Whether you're whipping up cakes or bread, knowing how to convert grams to cups ensures your recipes turn out perfectly every time.</p>

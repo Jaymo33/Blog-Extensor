@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.25 kg of chicken thighs is equal to approximately 9.37 pounds. This conversion is essential when working with recipes that use imperial measurements or when purchasing chicken in bulk for meal prepping. Knowing how to convert 4.25 kg chicken thighs to pounds ensures you buy the right amount and follow recipes accurately. Whether you're cooking for a family gathering or preparing weekly meals, this conversion makes life simpler. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

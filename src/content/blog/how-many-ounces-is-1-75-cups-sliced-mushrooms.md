@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of sliced mushrooms equals approximately 4.5 ounces (or 128 grams). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a mushroom stir-fry, a hearty stew, or a crispy snack, knowing the exact weight helps with consistency and flavour balance.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of frozen corn equals approximately 12 ounces. This conversion is essential for air fryer recipes, ensuring you get the right portion sizes for perfectly cooked meals. Whether you're making a quick side dish or a full meal, knowing the weight helps with consistency and cooking times.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of yogurt is approximately 1.4 cups in the UK or 1.5 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a creamy dessert or a savoury marinade, knowing how to convert grams to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

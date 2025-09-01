@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of maple syrup equals approximately 12 ounces (340 grams) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're glazing salmon or sweetening desserts, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of treacle equals approximately 7.5 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking a sticky toffee pudding or glazing meats, knowing how many ounces are in 0.66 cup of treacle helps you achieve consistent results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>312 F converts to approximately 155 C in a fan oven. This is the standard conversion for most recipes, ensuring your air fryer dishes cook evenly and efficiently. Whether you're adjusting an American recipe or fine-tuning your air fryer settings, knowing this conversion is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Let’s dive deeper into why this matters for air fryer cooking.</p>

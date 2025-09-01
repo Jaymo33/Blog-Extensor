@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of vinegar equals approximately 75 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every detail for perfect results.</p>

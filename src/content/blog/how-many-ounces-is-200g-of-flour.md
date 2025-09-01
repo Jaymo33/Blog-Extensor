@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of flour equals approximately 7.05 ounces. This conversion is essential for anyone baking or cooking with an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a cake or coating chicken for a crispy finish, knowing how to convert grams to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when adapting recipes for your air fryer.</p>  

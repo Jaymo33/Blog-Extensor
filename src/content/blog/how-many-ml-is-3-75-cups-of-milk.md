@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of milk equals approximately 887.21 millilitres (ml). This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a creamy sauce or a fluffy cake, knowing the exact measurement ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect results. Let’s dive deeper into how this measurement works and why it matters.</p>

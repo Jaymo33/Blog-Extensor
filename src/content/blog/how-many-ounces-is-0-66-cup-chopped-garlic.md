@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of chopped garlic equals approximately 3.17 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour. Whether you’re making garlic butter shrimp or roasted garlic potatoes, knowing the exact weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make your cooking effortless.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of butter is roughly equivalent to 1.76 cups (or 1 and 3/4 cups) in standard US measurements. For UK measurements, it’s slightly different due to varying cup sizes, but the conversion remains close to 1.76 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish.</p>  

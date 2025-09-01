@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of gelatin powder equals approximately 1.41 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making a dessert or a savoury dish, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of self-raising flour equals approximately 360 grams. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break your recipe. Whether you're whipping up cakes, muffins, or bread, knowing the exact gram equivalent ensures consistency and perfect results every time.</p>

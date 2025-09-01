@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of evaporated milk is roughly 0.36 cups in standard US measurements or 0.3 cups in UK imperial measurements. Whether you're baking a cake or whipping up a creamy sauce in your air fryer, getting the measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precision is for perfect results. Let’s dive into the details of converting 85 ml of evaporated milk to cups.</p>  

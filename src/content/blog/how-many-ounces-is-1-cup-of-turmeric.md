@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of turmeric equals approximately 3.5 ounces (or 100 grams) in UK measurements. This conversion is essential for air fryer recipes where accurate spice quantities can make or break a dish. Whether you're marinating chicken or seasoning roasted vegetables, knowing the exact weight ensures consistent flavour. For more air fryer measurement tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

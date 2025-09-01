@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>203 C converts to Gas Mark 6 in UK ovens and air fryers. This medium-high temperature is perfect for baking cakes, roasting vegetables, or cooking poultry in your air fryer. Understanding these conversions helps you adapt recipes between different cooking appliances with confidence.</p>

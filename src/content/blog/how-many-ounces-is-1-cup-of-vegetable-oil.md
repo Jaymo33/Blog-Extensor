@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of vegetable oil equals approximately 8 ounces. This measurement is crucial for air fryer recipes, where precise oil amounts can make or break your dish. Whether you're frying, roasting, or baking, knowing this conversion ensures consistent results every time.</p>

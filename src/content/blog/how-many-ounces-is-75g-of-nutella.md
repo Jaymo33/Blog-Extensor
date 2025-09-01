@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of Nutella equals approximately 2.65 ounces. This conversion is handy when you're preparing air fryer desserts or need precise measurements for baking. Whether you're making Nutella-stuffed cookies or a decadent chocolate spread for pancakes, knowing the exact weight ensures perfect results every time.</p>

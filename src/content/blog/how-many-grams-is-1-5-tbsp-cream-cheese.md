@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of cream cheese equals approximately 21 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy dip or a decadent dessert, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

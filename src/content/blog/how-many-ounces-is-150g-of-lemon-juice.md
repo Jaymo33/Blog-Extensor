@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of lemon juice is approximately 5.29 ounces. This conversion is essential for anyone using UK measurements in their air fryer recipes, ensuring accuracy for the perfect dish. Whether you're marinating chicken or adding a citrusy kick to desserts, knowing how to convert grams to ounces is a kitchen must.</p>

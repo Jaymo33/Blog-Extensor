@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 240 fan oven to conventional oven is straightforward: 240°C in a fan oven equals 220°C in a conventional oven. This 20°C reduction accounts for the fan oven’s efficient heat distribution. Whether you’re baking, roasting, or air frying, understanding this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making temperature conversions simple for home cooks. This guide will help you master oven conversions for any recipe.</p>

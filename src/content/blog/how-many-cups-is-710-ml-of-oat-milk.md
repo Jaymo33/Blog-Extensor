@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of oat milk is approximately 3 cups. This conversion is essential for anyone using oat milk in recipes, especially when baking or cooking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing how many cups 710 ml of oat milk equals ensures your dish turns out perfectly.</p>

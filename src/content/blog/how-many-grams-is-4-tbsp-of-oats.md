@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of oats weigh approximately 30 grams. This measurement is crucial for air fryer recipes, ensuring consistency in texture and cooking times. Whether you're making granola, oat bars, or coating for chicken, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accuracy makes all the difference in air frying. Let’s break down why this conversion matters and how to use it.</p>  

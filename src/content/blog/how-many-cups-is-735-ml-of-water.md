@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>735 ml of water equals approximately 3.1 cups in the UK or 3.1 cups in the US, making it a straightforward conversion for recipes. Whether you're baking, cooking, or preparing ingredients for your air fryer, knowing this measurement ensures precision. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on creating delicious meals without the guesswork.</p>  

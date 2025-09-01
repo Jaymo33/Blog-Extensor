@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of vegetable oil is approximately 3.95 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're frying, baking, or roasting, knowing how to convert ml to cups ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of yogurt is approximately 3.3 cups. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're whipping up a cake or marinating chicken, knowing how to convert ml to cups makes cooking simpler. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

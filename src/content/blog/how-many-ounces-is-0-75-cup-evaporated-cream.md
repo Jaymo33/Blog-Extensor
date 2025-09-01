@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of evaporated cream equals approximately 6 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up a creamy dessert or a savoury dish, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right for flawless results every time.</p>

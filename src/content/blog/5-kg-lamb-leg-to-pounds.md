@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 5 kg lamb leg equals approximately 11.02 pounds, making it a substantial cut perfect for roasting and feeding a crowd. This conversion is essential for air fryer users who need to calculate cooking times and temperatures accurately. Whether you're preparing a special Sunday roast or a festive meal, knowing the exact weight in pounds ensures your lamb cooks evenly and reaches perfect doneness. Many air fryer recipes use imperial measurements, so this conversion becomes particularly valuable. Understanding this measurement helps you achieve restaurant-quality results right in your own kitchen.</p>

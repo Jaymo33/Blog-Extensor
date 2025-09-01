@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of cream is approximately 7.05 ounces. This conversion is essential for anyone using UK recipes or working with an air fryer, where precise measurements can make all the difference. Whether you're making a creamy sauce, baking a dessert, or prepping a dish, knowing how to convert grams to ounces ensures perfect results every time.</p>  

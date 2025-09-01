@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 5 kg whole chicken converts to approximately 11.02 pounds. This conversion is essential for anyone cooking with an air fryer, as most recipes and cooking guidelines use imperial measurements. Knowing the exact weight in pounds helps you determine the correct cooking time and temperature, ensuring your chicken comes out perfectly juicy and thoroughly cooked. Whether you're following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> or adapting your own, this conversion is a handy piece of knowledge. It also makes it easier to compare prices or portion sizes when shopping.</p>

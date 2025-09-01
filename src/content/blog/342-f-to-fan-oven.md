@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>342°F converts to approximately 170°C in a fan oven. This is a common temperature for baking, roasting, and air frying, offering even heat distribution for consistent results. Whether you're using an air fryer or a conventional fan oven, understanding this conversion ensures your dishes cook perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt recipes effortlessly. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>

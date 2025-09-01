@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of single cream is approximately 4.15 cups in the UK or 4.17 cups in the US. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking creamy dishes. Whether you're making a rich dessert or a savoury sauce, knowing the exact cup equivalent ensures perfect results every time.</p>  

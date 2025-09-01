@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of olive oil equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're drizzling olive oil over roasted vegetables or using it as a base for marinades, knowing the exact weight ensures consistent results every time.</p>  

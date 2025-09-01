@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of single cream is approximately 3.74 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a dessert or a savoury sauce, knowing the exact cup equivalent ensures consistency.</p>  

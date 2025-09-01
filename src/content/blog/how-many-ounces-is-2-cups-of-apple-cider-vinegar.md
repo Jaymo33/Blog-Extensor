@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of apple cider vinegar equals approximately 16 ounces. This conversion is handy for air fryer recipes, marinades, or health tonics where precise measurements matter. Whether you're using it for cooking or cleaning, knowing the exact weight ensures consistency in your results.</p>

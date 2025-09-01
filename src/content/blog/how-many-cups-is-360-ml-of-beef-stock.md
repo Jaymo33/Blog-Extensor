@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of beef stock equals approximately 1.5 cups. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect consistency and flavour. Whether you're making a rich gravy or a hearty stew, knowing how to measure beef stock accurately can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these measurements every time.</p>  

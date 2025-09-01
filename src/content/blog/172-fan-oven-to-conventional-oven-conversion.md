@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>172 fan oven converts to approximately 190°C in a conventional oven. This simple conversion ensures your recipes turn out perfectly, whether you're using a fan-assisted oven or a traditional one. Understanding these differences is key to achieving consistent results in your cooking and baking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions effortless for home cooks.</p>

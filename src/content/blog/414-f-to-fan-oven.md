@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>414 F converts to approximately 212 C in a fan oven. This high-temperature setting is ideal for roasting, crisping, and achieving that perfect golden finish on dishes. Whether you're using a conventional fan oven or an air fryer, understanding this conversion ensures your recipes turn out just right.</p>

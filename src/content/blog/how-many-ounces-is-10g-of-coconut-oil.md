@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of coconut oil equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're baking, frying, or roasting, knowing how to convert grams to ounces helps maintain consistency in your dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs. Let’s dive deeper into why this measurement matters.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of flour equals approximately 7.4 ounces (oz) in standard UK measurements. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you’re whipping up cakes, cookies, or breaded dishes, knowing how many ounces are in 1.75 cups of flour helps avoid kitchen mishaps. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

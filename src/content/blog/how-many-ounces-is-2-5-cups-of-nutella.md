@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of Nutella equals approximately 20 ounces. This conversion is essential for anyone using Nutella in recipes, especially when preparing air fryer desserts or baked goods. Whether you're whipping up a batch of cookies or a decadent cake, knowing the exact weight ensures consistency and perfect results every time.</p>

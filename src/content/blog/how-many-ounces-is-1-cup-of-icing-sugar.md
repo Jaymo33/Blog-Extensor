@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of icing sugar equals approximately 4.41 ounces (125 grams) in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Getting the right weight ensures your recipes turn out perfectly every time.</p>  

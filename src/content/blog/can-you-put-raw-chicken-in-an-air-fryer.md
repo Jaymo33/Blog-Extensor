@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can absolutely put raw chicken in an air fryer - it's one of the best ways to achieve crispy skin and juicy meat without excess oil. The circulating hot air cooks chicken thoroughly while creating that desirable golden exterior. At airfryerrecipe.co.uk, we've tested countless methods to perfect air fried chicken.</p>

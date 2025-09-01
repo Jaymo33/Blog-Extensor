@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of oats equals approximately 0.7 ounces (20 grams). This measurement is essential for air fryer recipes, ensuring accuracy for dishes like granola, flapjacks, or oat-crusted chicken. Whether you're meal prepping or whipping up a quick breakfast, knowing how to convert 0.25 cup of oats to ounces guarantees consistent results. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385°F converts to Gas Mark 5, a common setting for roasting and baking in traditional ovens. This temperature works equally well in air fryers, though cooking times may need slight adjustments due to faster heat circulation. Whether you're adapting a family recipe or experimenting with new dishes, knowing this conversion ensures consistent results across appliances.</p>

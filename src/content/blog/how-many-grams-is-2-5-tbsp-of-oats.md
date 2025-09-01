@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of oats equals approximately 20 grams. This conversion is essential for air fryer recipes where precision matters, especially when making granolas, oat bars, or crumble toppings. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a> or creating your own, knowing this measurement ensures consistent results every time.</p>

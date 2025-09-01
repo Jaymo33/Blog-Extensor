@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of pumpkin seeds equals approximately 1 ounce (28 grams). This conversion is essential for air fryer recipes, ensuring you get the right texture and flavour every time. Whether you're roasting them for a snack or adding them to a dish, accurate measurements make all the difference.</p>  

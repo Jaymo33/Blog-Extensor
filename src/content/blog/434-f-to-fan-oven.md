@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>434 F converts to approximately 223 C in a fan oven. This is a common temperature for roasting meats or baking crispy dishes. Fan ovens circulate hot air, so they cook faster than conventional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often help readers adapt recipes between appliances.</p>

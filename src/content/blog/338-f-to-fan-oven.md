@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>338°F converts to approximately 170°C in a fan oven. This is a common temperature for baking and roasting, making it essential to get right for air fryer cooking. Whether you're adapting a recipe or troubleshooting, knowing this conversion ensures your dishes turn out perfectly every time.</p>

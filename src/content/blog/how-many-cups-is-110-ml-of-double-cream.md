@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of double cream is approximately 0.46 cups (just under half a cup). This conversion is essential for baking and cooking, especially when using an air fryer for creamy desserts or sauces. Whether you're whipping up a cake or a rich pasta dish, knowing this measurement ensures consistency in your recipes.</p>

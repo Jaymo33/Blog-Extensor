@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of oats is approximately 40 grams (g). This conversion is essential for anyone using an air fryer, as precise measurements ensure consistent results. Whether you're making granola, oat bars, or coating for chicken, knowing the exact weight helps avoid under or over-measuring. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to make your cooking effortless.</p>  

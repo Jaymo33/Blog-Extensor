@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of chopped onion is approximately 7.05 ounces. This conversion is handy for air fryer recipes, ensuring you get the right balance of flavours and textures. Whether you're making crispy onion rings or a savoury stir-fry, knowing the exact weight helps achieve consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love simplifying measurements so you can focus on cooking.</p>  

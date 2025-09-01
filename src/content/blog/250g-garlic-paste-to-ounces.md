@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of garlic paste equals approximately 8.82 ounces. This conversion is handy for air fryer recipes, ensuring you get the right flavour balance in your dishes. Whether you’re whipping up a marinade or adding a punch to your meal prep, knowing this measurement saves time and hassle.</p>  

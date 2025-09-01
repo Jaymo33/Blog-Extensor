@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of beef stock equals approximately 4 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you're making a rich gravy or a flavourful marinade, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

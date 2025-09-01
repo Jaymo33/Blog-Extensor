@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat garlic knots in an air fryer, set the temperature to 160°C (320°F) and cook for 3–4 minutes until warmed through and crispy. This method restores their texture far better than a microwave, keeping them soft inside with a perfectly crisp exterior. Whether your garlic knots are from yesterday’s takeaway or homemade, your air fryer is the best tool for the job.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>312°F in a fan oven converts to approximately 350°F in a conventional oven. This adjustment ensures your baked goods cook evenly without drying out or burning. Fan ovens circulate hot air, which speeds up cooking, so reducing the temperature prevents overcooking. Whether you're baking cakes or roasting meats, this conversion is essential for perfect results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

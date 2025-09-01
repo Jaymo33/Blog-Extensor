@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of mayonnaise equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a batch of crispy chicken or a creamy dip, knowing how to convert 0.375 cup of mayonnaise to ounces ensures consistency and delicious results.</p>

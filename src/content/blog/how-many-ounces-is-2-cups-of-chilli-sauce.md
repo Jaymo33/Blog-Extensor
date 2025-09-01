@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chilli sauce equals approximately 16 ounces (or 1 pound) in weight. This conversion is handy when preparing air fryer recipes that require precise measurements for the best results. Whether you’re making a batch of spicy wings or a saucy chilli dish, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

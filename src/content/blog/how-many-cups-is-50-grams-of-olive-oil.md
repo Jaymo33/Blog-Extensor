@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of olive oil is approximately 0.22 cups (or just under 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're baking, frying, or drizzling, knowing how to convert grams to cups ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating mini quiche in an air fryer is simple: preheat to 160°C (320°F) and warm for 3–5 minutes until crispy. This method ensures even heating without drying out the pastry or filling, making it the best way to reheat mini quiche in an air fryer.</p>  

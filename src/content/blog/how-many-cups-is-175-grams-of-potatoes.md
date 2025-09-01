@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of potatoes is roughly equivalent to 1.25 cups when diced or sliced. This measurement can vary slightly depending on the potato type and how finely they're chopped. If you're using an air fryer, getting the right amount ensures even cooking and delicious results every time.</p>  

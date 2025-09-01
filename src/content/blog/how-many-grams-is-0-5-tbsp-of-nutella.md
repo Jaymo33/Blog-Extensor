@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of Nutella weighs approximately 9 grams. This measurement is handy for air fryer recipes where precision matters, ensuring your desserts or snacks turn out perfectly every time. Whether you’re making Nutella-filled pastries or a quick chocolate dip, knowing the exact weight helps avoid guesswork.</p>

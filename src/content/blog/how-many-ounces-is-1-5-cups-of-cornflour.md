@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of cornflour equals approximately 6.35 ounces (oz) in the UK. This measurement is essential for precision in baking, especially when using an air fryer where ingredient ratios can make or break a recipe. Whether you’re whipping up crispy coatings or light batters, knowing this conversion ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate measurements and foolproof techniques.</p>  

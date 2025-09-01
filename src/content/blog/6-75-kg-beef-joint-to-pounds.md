@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you're looking to convert 6.75 kg beef joint to pounds, the answer is approximately 14.88 pounds. This conversion is essential for anyone preparing a large roast, especially when using an air fryer, as cooking times and temperatures often rely on imperial measurements. Knowing the exact weight in pounds helps you follow recipes accurately and achieve that perfect, juicy result. Whether you're cooking for a special occasion or a Sunday dinner, getting the conversion right is the first step to success. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

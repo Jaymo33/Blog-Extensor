@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of lime juice equals approximately 75 grams. This conversion is essential for air fryer recipes where precision matters, whether you're marinating chicken, dressing a salad, or whipping up a zesty sauce. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that accurate measurements can make or break a dish, so let’s dive into the details.</p>  

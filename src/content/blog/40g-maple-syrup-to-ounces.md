@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of maple syrup equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're glazing salmon, sweetening desserts, or drizzling over breakfast treats, knowing the exact weight ensures perfect results every time.</p>

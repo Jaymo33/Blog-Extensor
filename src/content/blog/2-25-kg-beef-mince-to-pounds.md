@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 kg of beef mince is equal to approximately 4.96 pounds, making it just shy of 5 pounds in weight. This conversion is essential when following recipes that use imperial measurements, especially if you're using an air fryer where precise quantities can affect cooking times and results. Whether you're making burgers, meatballs, or a hearty bolognese, getting the weight right ensures your dish turns out perfectly every time. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide measurements in both metric and imperial, but it's handy to know how to make the switch yourself. Understanding this conversion can save you from guesswork and help you adapt recipes to suit your needs.</p>

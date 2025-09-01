@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of beef stock equals approximately 3 cups. This conversion is essential for anyone using an air fryer, as precise measurements ensure your dishes turn out perfectly every time. Whether you're making a rich gravy or a hearty stew, knowing how to convert 710 ml of beef stock to cups can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve culinary perfection with clear, easy-to-follow guides.</p>

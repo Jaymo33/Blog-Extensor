@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of olive oil is approximately 2.27 cups in standard US measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking, frying, or drizzling, knowing how many cups 500 grams of olive oil equals ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals.</p>  

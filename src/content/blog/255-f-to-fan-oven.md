@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>255°F converts to approximately 120°C in a fan oven. This is a common temperature for slow roasting or dehydrating foods in both air fryers and conventional fan ovens. Understanding this conversion is crucial when following recipes from different sources, especially American recipes that use Fahrenheit.</p>

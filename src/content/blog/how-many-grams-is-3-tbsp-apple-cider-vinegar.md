@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of apple cider vinegar weigh approximately 45 grams (g). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistent results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

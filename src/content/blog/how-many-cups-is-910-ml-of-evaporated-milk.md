@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of evaporated milk equals approximately 3.85 cups. This conversion is essential for recipes requiring precise measurements, especially in baking where accuracy matters. Whether you're using an air fryer or a conventional oven, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>

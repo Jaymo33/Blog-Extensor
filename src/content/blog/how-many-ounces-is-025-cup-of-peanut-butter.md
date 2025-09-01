@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of peanut butter equals approximately 2 ounces (56.7 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you're making peanut butter cookies, satay sauce, or energy bites, knowing how many ounces are in 0.25 cup of peanut butter helps avoid kitchen mishaps.</p>  

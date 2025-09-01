@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating tortilla chips in an air fryer takes just 2-3 minutes at 160°C (320°F), restoring their crunch without overcooking. This method outperforms microwaving, which often leaves chips soggy, and is quicker than using a conventional oven. Whether you’ve got leftover restaurant chips, a half-eaten bag, or fridge-stored nachos, your air fryer delivers consistent results.</p>

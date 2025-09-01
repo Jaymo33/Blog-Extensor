@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of yogurt is approximately 540 grams, making it easy to measure for air fryer recipes. Whether you’re whipping up a creamy dessert or a savoury marinade, knowing this conversion ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when working with air fryers where ingredient ratios can affect texture and cooking times.</p>  

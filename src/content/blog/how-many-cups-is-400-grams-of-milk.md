@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of milk is roughly equivalent to 1.69 cups (US) or 1.42 cups (UK). This conversion is essential for air fryer recipes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert grams to cups ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions.</p>  

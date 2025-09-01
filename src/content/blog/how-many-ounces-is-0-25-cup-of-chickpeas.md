@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of chickpeas equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect texture. Whether you're meal prepping or whipping up a quick snack, knowing how many ounces are in 0.25 cup of chickpeas can make all the difference.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of yogurt is approximately 0.78 cups in the US measurement system and roughly 0.65 cups in the UK. Whether you're baking a cake or preparing a marinade for your air fryer, getting the measurements right ensures perfect results every time. This guide will help you convert 185 ml of yogurt to cups accurately, so you never have to second-guess your recipes again.</p>  

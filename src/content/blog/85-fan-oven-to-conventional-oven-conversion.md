@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 fan oven converts to approximately 100°C in a conventional oven. This 15-20°C difference accounts for the efficient heat distribution in fan-assisted ovens. Whether you're baking cakes or roasting vegetables, understanding this conversion is key to perfect results in your air fryer or traditional oven.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of breadcrumbs equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're coating chicken, fish, or vegetables, knowing how many ounces is 1000g of breadcrumbs ensures your dishes turn out perfectly crispy every time.</p>

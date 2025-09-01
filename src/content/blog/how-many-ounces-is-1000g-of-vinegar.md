@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000 grams of vinegar equals approximately 35.27 ounces. This conversion is essential for anyone using vinegar in air fryer recipes or other cooking methods where precise measurements matter. Whether you're marinating chicken or whipping up a tangy sauce, knowing how to convert 1000g vinegar to ounces ensures your dish turns out perfectly.</p>

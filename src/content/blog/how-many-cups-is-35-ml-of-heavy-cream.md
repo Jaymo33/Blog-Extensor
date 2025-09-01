@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Cups Is 35 ml of Heavy Cream?</h2>

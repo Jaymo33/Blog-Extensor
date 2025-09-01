@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>12.1 kilograms is equal to approximately 26.68 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging use different measurement systems. Knowing how to quickly convert between metric and imperial units ensures you use the correct ingredient amounts every time. Accurate measurements are the foundation of successful cooking, especially with precision appliances like air fryers. Getting your weights right means your food will cook evenly and turn out perfectly.</p>

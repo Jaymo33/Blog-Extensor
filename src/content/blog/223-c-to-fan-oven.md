@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>223 C converts to approximately 200 C in a fan oven. This 20-degree reduction is standard for fan-assisted cooking, as the circulating air distributes heat more efficiently. Whether you're baking cakes or roasting vegetables, this conversion ensures even cooking without over-browning.</p>

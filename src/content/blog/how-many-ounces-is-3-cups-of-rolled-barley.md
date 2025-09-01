@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of rolled barley equals approximately 24 ounces (680 grams). This conversion is essential for air fryer recipes, ensuring you get the perfect texture and consistency every time. Whether you're making a hearty breakfast or a wholesome side dish, knowing the exact weight helps avoid under or over-measuring.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of buttermilk is approximately 2.57 cups. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making fluffy pancakes or tender fried chicken, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>

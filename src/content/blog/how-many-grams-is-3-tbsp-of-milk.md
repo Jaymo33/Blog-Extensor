@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of milk weigh approximately 45 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking, making sauces, or preparing batters, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve the best results every time.</p>  

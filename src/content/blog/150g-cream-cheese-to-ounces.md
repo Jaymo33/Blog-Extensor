@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of cream cheese equals approximately 5.29 ounces. This conversion is essential for air fryer recipes, baking, or any dish requiring precise measurements. Whether you’re whipping up a cheesecake or a creamy dip, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can spend less time measuring and more time enjoying your meals.</p>  

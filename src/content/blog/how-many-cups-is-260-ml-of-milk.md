@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of milk is approximately 1.1 cups in standard US measurements or 1.04 cups in UK metric measurements. This conversion is essential for precise baking, cooking, or air fryer recipes where accuracy matters. Whether you're whipping up a cake or a creamy sauce, knowing how to measure 260 ml of milk in cups ensures your dish turns out perfectly every time.</p>

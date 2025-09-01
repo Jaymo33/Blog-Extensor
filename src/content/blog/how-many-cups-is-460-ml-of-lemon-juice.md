@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of lemon juice is approximately 1.94 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of condensed milk is approximately 3.75 cups. This conversion is essential for baking, especially when using an air fryer for desserts like fudge or cheesecake. Whether you're following a UK or US recipe, knowing how to measure condensed milk accurately ensures perfect results every time.</p>  

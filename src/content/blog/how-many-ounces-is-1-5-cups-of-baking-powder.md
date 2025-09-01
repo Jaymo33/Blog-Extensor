@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of baking powder equals approximately 12 ounces (oz) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer where ingredient ratios can make or break a recipe. Whether you’re whipping up cakes or savoury dishes, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you master measurements for flawless cooking.</p>  

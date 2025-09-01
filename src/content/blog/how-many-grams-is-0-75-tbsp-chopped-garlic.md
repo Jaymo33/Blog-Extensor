@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of chopped garlic equals approximately 11 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a quick garlic-infused dish or meal prepping for the week, knowing the exact weight ensures consistent flavour and texture. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how small details like this can elevate your cooking. Let's dive deeper into why this measurement matters and how to use it effectively.</p>

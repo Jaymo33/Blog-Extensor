@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of baking powder equals approximately 21 grams in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up fluffy cakes or crispy batters, knowing the exact weight ensures consistent results every time.</p>  

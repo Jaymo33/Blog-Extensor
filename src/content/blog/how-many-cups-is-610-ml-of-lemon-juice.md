@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of lemon juice is approximately 2.58 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're baking a lemon drizzle cake or preparing a tangy marinade, knowing the exact cup equivalent ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs.</p>  

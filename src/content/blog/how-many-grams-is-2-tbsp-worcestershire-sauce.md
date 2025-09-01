@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of worcestershire sauce weigh approximately 30 grams (g) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re marinating chicken, seasoning beef, or adding depth to vegetables, knowing the exact weight helps you achieve consistent results.</p>

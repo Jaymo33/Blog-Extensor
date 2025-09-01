@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of single cream is equivalent to approximately 414 ml. This conversion is essential for precise measurements in recipes, especially when using an air fryer where accuracy can impact cooking results. Whether you're whipping up a creamy sauce or baking a dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>  

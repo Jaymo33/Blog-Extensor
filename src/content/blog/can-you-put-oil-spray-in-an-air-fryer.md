@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can use oil spray in an air fryer, but it must be the right type and applied correctly. Standard cooking oil sprays often contain propellants like lecithin that can build up on your air fryer basket, potentially damaging the non-stick coating over time. For air fryer use, opt for pure oil sprays without additives or simply use a refillable mister bottle with your preferred oil.</p>

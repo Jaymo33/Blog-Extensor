@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of condensed milk equals approximately 12 ounces. This conversion is essential for anyone using condensed milk in recipes, especially when preparing air fryer desserts or baked goods. Accurate measurements ensure your dishes turn out perfectly every time.</p>

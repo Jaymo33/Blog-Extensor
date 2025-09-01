@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of flour equals approximately 19.5 grams (g). This conversion is essential for precise baking, especially when using an air fryer for recipes that require exact measurements. Whether you're whipping up cakes, cookies, or bread, knowing how to convert 2.5 tbsp of flour into grams ensures consistent results every time.</p>  

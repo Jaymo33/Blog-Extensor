@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of coconut oil is approximately 0.68 cups. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break your dish. Whether you're baking or frying, knowing how to convert millilitres to cups ensures consistent results every time.</p>

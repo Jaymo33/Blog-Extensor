@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>12 kg equals approximately 26.46 pounds, a conversion that's particularly useful when working with larger quantities of ingredients for your air fryer. Whether you're meal prepping, buying in bulk, or scaling up a favourite recipe, understanding this 12 kg to pounds relationship ensures you get your portions just right. Many air fryer recipes, especially those designed for families or batch cooking, might list ingredients in kilograms, while your kitchen scale or local shop uses pounds. Getting this 12 kg to pounds conversion correct means your cooking times and results will be consistent and reliable. For more handy measurement guides, check out the conversion resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

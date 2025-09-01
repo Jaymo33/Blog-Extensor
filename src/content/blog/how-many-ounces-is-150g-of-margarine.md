@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of margarine equals approximately 5.29 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake or frying crispy treats, getting the quantities right ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking every time.</p>  

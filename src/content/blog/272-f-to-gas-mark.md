@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>272°F converts to approximately Gas Mark 1, making it ideal for gentle cooking in both air fryers and conventional ovens. This temperature is perfect for slow-roasting vegetables, proofing dough, or keeping dishes warm without overcooking. Whether you're using an air fryer or a gas oven, understanding this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt recipes effortlessly. Let’s dive deeper into why 272 F to Gas Mark matters and how to use it.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of jam equals approximately 4.41 ounces. This conversion is handy when following air fryer recipes that use imperial measurements or when scaling ingredients for smaller batches. Whether you're making a glaze for air-fried chicken or a sweet topping for desserts, knowing how to convert grams to ounces ensures accuracy in your cooking.</p>

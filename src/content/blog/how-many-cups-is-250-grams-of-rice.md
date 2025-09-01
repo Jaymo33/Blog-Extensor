@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of rice is roughly equivalent to 1.25 cups in the UK and 1.3 cups in the US. This conversion is essential for air fryer recipes, where precise measurements ensure perfectly cooked rice every time. Whether you're meal prepping or whipping up a quick side dish, knowing how many cups 250 grams of rice equals can save you from under or overcooking. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

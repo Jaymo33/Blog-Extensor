@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of whipping cream equals approximately 1.76 ounces. This precise conversion is essential for air fryer recipes where accurate measurements can make all the difference between success and disappointment. Whether you're making air fryer desserts or creamy sauces, knowing how to convert grams to ounces ensures consistent results.</p>

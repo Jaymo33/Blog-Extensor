@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of jam is equal to approximately 17.64 ounces. This conversion is essential for anyone using an air fryer or baking, where precise measurements can make all the difference. Whether you're making a jam-filled pastry or glazing meats, knowing this conversion ensures your recipes turn out perfectly every time.</p>

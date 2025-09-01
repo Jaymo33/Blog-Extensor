@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating bread rolls in an air fryer takes just 3-5 minutes at 160°C (320°F), giving them a freshly baked texture with minimal effort. Unlike microwaving which leaves rolls rubbery, air frying circulates hot air to crisp the crust while keeping the inside soft – just like your local bakery. Whether you’ve got leftover dinner rolls, ciabatta, or brioche buns, this method works wonders for next-day bread.</p>

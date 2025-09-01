@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of half and half equals approximately 0.46 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to measure 110 ml of half and half in cups ensures your recipe turns out perfectly every time.</p>

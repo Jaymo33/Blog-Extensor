@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>379°F converts to Gas Mark 5, the ideal setting for roasting meats, baking casseroles, or air frying hearty dishes. This medium-high temperature delivers even cooking without excessive browning, making it a versatile setting for both traditional ovens and modern air fryers.</p>

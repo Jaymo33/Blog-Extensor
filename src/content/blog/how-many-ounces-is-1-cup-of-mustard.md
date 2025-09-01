@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of mustard equals approximately 8.5 ounces (240 grams) in standard UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making a glaze for chicken or a dipping sauce for air-fried snacks, knowing how many ounces are in 1 cup of mustard ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

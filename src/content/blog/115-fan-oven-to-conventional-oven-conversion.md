@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>115 fan oven converts to approximately 135°C in a conventional oven. This simple conversion ensures your recipes turn out perfectly, whether you're using a fan-assisted oven or a traditional one. Understanding these differences is key, especially when adapting recipes for air fryers or other cooking appliances.</p>

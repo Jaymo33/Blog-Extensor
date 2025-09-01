@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of soy sauce equals approximately 1.5 cups in the US measurement system and 1.27 cups in the UK system. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're marinating chicken, preparing a stir-fry, or experimenting with new flavours, knowing how to convert 360 ml of soy sauce to cups ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>  

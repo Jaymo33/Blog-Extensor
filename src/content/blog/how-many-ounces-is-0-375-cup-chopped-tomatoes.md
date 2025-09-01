@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of chopped tomatoes equals approximately 3 ounces. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making sauces, stews, or roasted tomatoes, knowing this conversion helps streamline your cooking process.</p>  

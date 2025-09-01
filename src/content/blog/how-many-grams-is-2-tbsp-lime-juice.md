@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of lime juice weigh approximately 30 grams. This conversion is essential for precision in cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re marinating chicken or adding zest to a dessert, knowing the exact weight ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

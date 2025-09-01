@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of buttermilk equals approximately 118 ml, making it easy to measure for your air fryer recipes. Whether you’re baking fluffy pancakes or marinating chicken, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in cooking, especially when using an air fryer. This guide will help you convert cups to millilitres effortlessly, so you never have to second-guess your measurements again.</p>

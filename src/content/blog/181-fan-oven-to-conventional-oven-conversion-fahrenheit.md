@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>181 fan oven converts to approximately 350°F in a conventional oven. This conversion ensures your recipes bake perfectly even if you're switching between oven types. Whether you're using a fan-assisted oven or a traditional one, getting the temperature right is key to delicious results.</p>

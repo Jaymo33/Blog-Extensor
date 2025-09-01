@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of milk is approximately 1.94 cups in the UK or 1.95 cups in the US. This conversion is essential for recipes, especially when using an air fryer for baking or cooking. Whether you're whipping up a cake or a creamy sauce, getting the measurement right ensures perfect results every time.</p>  

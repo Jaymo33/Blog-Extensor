@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>143 C converts to approximately 125 C in a fan oven. This 15-20 degree reduction accounts for the efficient heat circulation in convection cooking. Whether you're using an air fryer or traditional fan oven, understanding this conversion ensures perfectly cooked meals every time.</p>

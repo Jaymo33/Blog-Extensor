@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of honey is approximately 1.5 cups. This conversion is essential for baking, cooking, or using your air fryer to ensure recipes turn out perfectly every time. Honey’s thickness can make measuring tricky, but with this simple conversion, you’ll never go wrong.</p>

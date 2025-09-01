@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of water equals 4 fluid ounces (fl oz) in standard US measurements. This conversion is essential for precise cooking, especially when using an air fryer, where accurate liquid measurements can affect texture and cooking times. Whether you're preparing sauces, marinades, or baking, knowing how to convert 0.5 cup of water to ounces ensures consistency in your recipes.</p>

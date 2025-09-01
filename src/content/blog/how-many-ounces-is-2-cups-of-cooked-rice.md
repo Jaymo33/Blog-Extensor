@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of cooked rice weigh approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes, ensuring accurate portioning and perfect results every time. Whether you’re meal prepping or cooking a quick dinner, knowing this measurement helps streamline your process.</p>  

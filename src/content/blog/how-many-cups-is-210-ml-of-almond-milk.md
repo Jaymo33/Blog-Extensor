@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of almond milk is roughly 0.89 cups in the US or 0.88 cups in the UK. This conversion is essential for air fryer recipes where precision matters. Whether you're whipping up a cake or a creamy sauce, knowing the exact measurement ensures perfect results every time.</p>

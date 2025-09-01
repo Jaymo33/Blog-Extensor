@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of self-raising flour equals approximately 0.56 ounces (or roughly half an ounce). This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break your recipe. Whether you're whipping up cakes, cookies, or savoury dishes, knowing this conversion ensures consistent results every time.</p>

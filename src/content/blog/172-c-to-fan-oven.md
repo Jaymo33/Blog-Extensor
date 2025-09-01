@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>172 C in a fan oven is equivalent to approximately 150 C in a conventional oven without a fan. This 20-degree reduction accounts for the efficient heat distribution of fan-assisted cooking, which circulates hot air evenly around your food. Whether you're baking cakes or roasting vegetables, this conversion ensures consistent results. For air fryer users, 172 C translates directly since air fryers operate similarly to fan ovens. Bookmark <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more precise temperature guides.</p>

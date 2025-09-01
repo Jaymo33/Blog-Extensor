@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of buttermilk is equivalent to approximately 4 cups in the US measurement system and roughly 3.4 cups in the UK metric system. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you're whipping up a cake or marinating chicken, knowing how to convert 960 ml of buttermilk to cups ensures your dishes turn out perfectly every time.</p>

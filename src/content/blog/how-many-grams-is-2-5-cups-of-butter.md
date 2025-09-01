@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of butter equals approximately 567 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking cookies or preparing a buttery sauce, knowing how many grams is 2.5 cups of butter ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into butter measurements and their role in air fryer cooking.</p>

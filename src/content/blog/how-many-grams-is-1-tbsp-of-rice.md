@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of rice weighs approximately 12 grams, though this can vary slightly depending on the type and packing of the rice. Whether you're using an air fryer or traditional cooking methods, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know that getting measurements right is key to perfect dishes every time.</p>

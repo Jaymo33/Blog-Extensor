@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>192 fan oven equals approximately 170°C in a conventional oven. This conversion is essential for baking and roasting in different oven types, especially when using recipes designed for fan-assisted ovens. Whether you're cooking in a traditional oven or adapting recipes for your air fryer, understanding this temperature conversion will help you achieve perfect results every time.</p>

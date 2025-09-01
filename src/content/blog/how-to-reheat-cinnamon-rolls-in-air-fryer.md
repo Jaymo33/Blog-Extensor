@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating cinnamon rolls in an air fryer takes just 3–5 minutes at 160°C (320°F), giving you that fresh-from-the-oven taste with a lightly crisp exterior. This method beats microwaving, which often leaves them soggy, or conventional ovens that dry them out. Whether you’ve got day-old bakery treats or homemade leftovers, your air fryer can revive them beautifully.</p>

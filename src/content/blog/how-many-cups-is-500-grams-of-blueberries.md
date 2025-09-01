@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of blueberries is roughly equivalent to 3.5 to 4 cups, depending on their size and how tightly they're packed. This conversion is essential for air frying, baking, or any recipe requiring precise measurements. Whether you're making blueberry muffins or a fruity air fryer dessert, knowing how many cups 500 grams of blueberries equals ensures consistency in your cooking.</p>  

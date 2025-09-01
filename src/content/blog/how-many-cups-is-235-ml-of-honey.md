@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of honey is roughly equivalent to 1 cup (240 ml) when measured in standard US cups. However, due to honey’s thick consistency, slight variations can occur depending on how you pour or scoop it. For precise baking or air fryer recipes, using a measuring jug or kitchen scales ensures accuracy.</p>

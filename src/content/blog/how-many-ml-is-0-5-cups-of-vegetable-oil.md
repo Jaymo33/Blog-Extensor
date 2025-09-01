@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of vegetable oil equals 118.29 ml. This conversion is essential for air fryer cooking, where precise measurements can make or break your dish. Whether you’re whipping up crispy chips or a moist cake, knowing how many ml is 0.5 cups of vegetable oil ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you master these conversions for hassle-free cooking.</p>

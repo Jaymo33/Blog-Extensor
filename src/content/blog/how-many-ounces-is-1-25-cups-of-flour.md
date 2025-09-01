@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of flour equals approximately 5.3 ounces (150 grams) when measured correctly. This conversion is essential for air fryer baking, where precision ensures perfect texture and consistency. Whether you’re making cookies, cakes, or bread, knowing how to convert cups to ounces helps avoid kitchen mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

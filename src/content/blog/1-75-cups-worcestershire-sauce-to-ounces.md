@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of worcestershire sauce equals approximately 14 fluid ounces (or 14 oz) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly balanced every time. Whether you’re marinating chicken, seasoning beef, or adding depth to vegetables, knowing how many ounces are in 1.75 cups of worcestershire sauce helps you stay on track.</p>

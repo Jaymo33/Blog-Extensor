@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of minced garlic equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for the best results. Whether you're whipping up a garlic-infused dish or meal prepping, knowing this conversion saves time and avoids guesswork. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

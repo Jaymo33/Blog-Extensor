@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of flour equals approximately 5.6 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or coating chicken, knowing how many grams are in 0.75 tbsp of flour ensures consistency and perfect results every time.</p>

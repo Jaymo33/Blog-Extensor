@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of protein powder equals approximately 0.35 ounces. This conversion is handy for anyone tracking their protein intake or following recipes that use ounces as the standard measurement. Whether you’re meal prepping or adding protein to your air fryer creations, knowing this conversion ensures accuracy.</p>  

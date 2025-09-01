@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>So, how many ounces is 2 cups of rice? Two cups of uncooked, long-grain white rice typically weigh around 14 ounces, but this can vary slightly depending on the type and how you fill your cup. Getting this measurement right is absolutely crucial when you are preparing rice in your air fryer, as accurate quantities ensure even cooking and perfect texture every single time. Whether you are meal prepping for the week or cooking a family dinner, knowing your conversions takes the guesswork out of the process. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk. This simple question of how many ounces is 2 cups of rice is one we get asked all the time, and it is a fundamental building block for countless recipes.</p>

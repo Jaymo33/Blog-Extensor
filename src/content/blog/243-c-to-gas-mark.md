@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>243 C converts to Gas Mark 9, the standard equivalent for this temperature in UK ovens and air fryers. This high heat is ideal for baking, roasting, and achieving crispy results in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or converting oven instructions, knowing 243 C to Gas Mark ensures perfect cooking every time.</p>

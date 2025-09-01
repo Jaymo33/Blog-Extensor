@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of beef stock equals approximately 0.68 cups in the US or 0.56 cups in the UK. This conversion is essential for anyone using an air fryer to prepare soups, stews, or sauces, ensuring your dish turns out perfectly every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing how to measure liquids accurately is key.</p>  

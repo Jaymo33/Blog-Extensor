@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of coconut oil equals approximately 2.68 cups in standard US measurements. If you're using UK metric cups, it's roughly 2.54 cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up crispy treats or baking moist cakes, knowing how to convert 635 ml of coconut oil to cups ensures perfect results every time.</p>  

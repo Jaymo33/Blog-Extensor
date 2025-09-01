@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 3.5 kg whole chicken is equivalent to approximately 7.7 pounds. This conversion is essential for anyone looking to cook a whole chicken in their air fryer, as most recipes and cooking guides use pounds or imperial measurements. Knowing the exact weight in pounds helps you determine the correct cooking time and temperature, ensuring your chicken is cooked through and beautifully crispy. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting your own, this conversion is the first step to success. Getting this right means perfectly juicy meat and golden skin every time you use your air fryer.</p>

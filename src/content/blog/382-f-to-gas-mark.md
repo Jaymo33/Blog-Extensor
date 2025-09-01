@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>382°F converts to Gas Mark 5 in UK ovens and air fryers. This medium-high temperature is ideal for baking cookies, roasting vegetables, or cooking poultry in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting traditional oven instructions, knowing this conversion ensures perfect results every time.</p>

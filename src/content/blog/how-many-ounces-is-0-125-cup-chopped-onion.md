@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of chopped onion equals approximately 0.5 ounces (oz). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you're prepping a stir-fry, casserole, or seasoning blend, knowing the exact weight helps avoid over or under-seasoning. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

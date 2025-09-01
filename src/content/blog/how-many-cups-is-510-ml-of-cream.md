@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of cream is approximately 2.15 cups in the UK or 2.16 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making a creamy pasta sauce or a fluffy cake, knowing how to convert millilitres to cups ensures consistent results every time.</p>

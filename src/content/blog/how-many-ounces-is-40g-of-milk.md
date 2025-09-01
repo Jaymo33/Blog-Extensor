@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of milk equals approximately 1.41 ounces. Whether you're following a precise air fryer recipe or scaling ingredients, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless cooking. Let’s dive deeper into why this conversion matters and how to apply it in your kitchen.</p>  

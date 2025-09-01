@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of beef stock equals 3 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up a hearty stew or a flavourful gravy, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accuracy is when cooking, especially with liquids like beef stock.</p>  

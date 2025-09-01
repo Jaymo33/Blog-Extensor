@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of lentils weigh approximately 550 grams, making it easy to measure for air fryer recipes. Whether you're cooking a hearty lentil stew or baking lentil-based snacks, accurate measurements ensure perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting cups to grams for consistent cooking.</p>  

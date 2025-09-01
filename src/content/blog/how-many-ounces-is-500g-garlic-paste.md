@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of garlic paste equals approximately 17.64 ounces. Whether you're using an air fryer or prepping ingredients for a recipe, knowing this conversion ensures accuracy in your cooking. Garlic paste is a staple in many dishes, from marinades to sauces, and getting the measurement right can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>  

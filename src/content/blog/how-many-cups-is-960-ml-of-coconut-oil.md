@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of coconut oil equals approximately 4 cups in both UK and US measurements. This conversion is essential for baking, frying, or air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a batch of cookies or crisping chicken in your air fryer, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions straightforward so you can focus on cooking. Let’s dive deeper into how this measurement works and why it’s useful for air fryer recipes.</p>  

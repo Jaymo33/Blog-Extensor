@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of granulated sugar is roughly equivalent to 2.25 cups in the UK and 2.12 cups in the US. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Precise measurements ensure your recipes turn out perfectly every time. Whether you're following a British or American recipe, knowing how to convert grams to cups is a game-changer. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

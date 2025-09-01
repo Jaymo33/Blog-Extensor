@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of cream cheese equals approximately 8.82 ounces. Whether you're baking a cheesecake or whipping up a creamy dip, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping home cooks nail their measurements, especially when using an air fryer for delicious results.</p>  

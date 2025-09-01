@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of beef stock equals 6 fluid ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re making a rich gravy or a flavourful stew, knowing how many ounces are in 0.75 cup of beef stock helps you nail the recipe every time.</p>  

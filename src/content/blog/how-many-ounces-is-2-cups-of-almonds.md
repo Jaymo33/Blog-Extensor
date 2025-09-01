@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of almonds weigh approximately 10 ounces (283 grams). This measurement is essential for air fryer recipes, ensuring perfect texture and consistency every time. Whether you're making almond-crusted chicken or a batch of roasted almonds, knowing the exact weight helps avoid over or undercooking. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

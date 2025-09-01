@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of water equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're baking, steaming, or reheating, knowing how to convert grams to ounces helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for delicious meals.</p>  

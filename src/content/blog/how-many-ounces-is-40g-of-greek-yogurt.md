@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of greek yogurt is approximately 1.41 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams or ounces. Whether you’re meal prepping or whipping up a quick snack, knowing how to convert 40g of greek yogurt to ounces ensures accuracy in your cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 kg to pounds equals approximately 6.61 pounds, a conversion that's incredibly useful when preparing ingredients for your air fryer. Whether you're portioning chicken breasts, weighing potatoes for roasting, or dividing a large batch of frozen foods, knowing how to convert 3 kg to pounds ensures you use the right amount for even cooking. Many British recipes use metric measurements, but if you're using an older cookbook or a US-based website, you might need to make this switch. Getting your quantities right is key to air fryer success, preventing overcrowding and promoting that perfect crispness we all love. Bookmark this page or visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> for more handy tools.</p>

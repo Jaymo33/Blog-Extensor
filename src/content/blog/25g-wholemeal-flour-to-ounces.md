@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of wholemeal flour equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or breads. Whether you're using a digital scale or measuring cups, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of ginger paste equals approximately 7.5 grams. This measurement is essential for air fryer recipes where precise ingredient quantities can make or break your dish. Whether you're whipping up a marinade or adding a kick to your stir-fry, knowing the exact grams in 0.5 tbsp of ginger paste ensures consistent results every time.</p>  

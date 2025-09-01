@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of fish sauce equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or seasoning seafood, knowing the exact weight ensures consistent results every time. Fish sauce adds a rich umami flavour, and getting the quantity right is key. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for more inspiration.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>374°F converts to Gas Mark 5, which is a common setting for roasting and baking in both ovens and air fryers. This temperature is perfect for dishes like roasted vegetables, cakes, and casseroles. If you're using an air fryer, you might need to adjust cooking times slightly compared to a conventional oven. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we have plenty of recipes tailored for this temperature.</p>

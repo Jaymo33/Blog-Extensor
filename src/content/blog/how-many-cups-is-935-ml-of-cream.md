@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of cream is equivalent to approximately 3.95 cups in the UK or 3.86 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a dessert or adding cream to a savoury dish, knowing how to convert millilitres to cups ensures consistency and perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of heavy cream is approximately 3.2 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes that require precise measurements. Whether you're whipping up a dessert or a creamy sauce, knowing the exact cup equivalent ensures perfect results every time.</p>  

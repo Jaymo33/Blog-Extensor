@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of golden syrup equals approximately 5.29 ounces. This conversion is essential for anyone using British recipes or working with an air fryer, where precise measurements can make or break a dish. Whether you’re whipping up a sticky pudding or glazing roasted vegetables, knowing how to convert grams to ounces ensures consistency in your cooking.</p>  

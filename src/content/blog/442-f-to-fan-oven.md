@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>442°F converts to approximately 227°C in a fan oven. This high-temperature setting is ideal for roasting meats, baking pizzas, or achieving crispy textures in dishes like air-fried chicken or roasted vegetables. Understanding this conversion ensures your recipes turn out perfectly, whether you're using a conventional fan oven or an air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating cauliflower in an air fryer takes just 3–5 minutes at 180°C (350°F), restoring crispiness without drying it out. This method beats microwaving, which often leaves florets soggy, and is quicker than using a conventional oven. Whether you’re working with roasted, steamed, or breaded cauliflower, your air fryer can revive it like new. For more air fryer reheating hacks, explore <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>

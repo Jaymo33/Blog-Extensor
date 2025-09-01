@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of yeast equals approximately 10.58 ounces (oz) in UK measurements. This conversion is essential for bakers who need precise measurements to ensure their dough rises perfectly. Whether you're using an air fryer for quick bread recipes or a conventional oven, knowing the exact weight of yeast guarantees consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of tomato paste equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a quick pasta sauce or a flavourful marinade, knowing how to convert grams to ounces ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>  

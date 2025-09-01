@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of single cream equals approximately 3.95 cups in the UK or 4.2 cups in the US. This conversion is essential for air fryer recipes, baking, or cooking where precision matters. Whether you're whipping up a creamy sauce or a dessert, knowing the exact measurement ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

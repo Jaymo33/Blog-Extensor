@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put kitchen roll directly in an air fryer as it can catch fire or block airflow. While some air fryer models may tolerate it under specific conditions, the risks generally outweigh any convenience. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always prioritise safety alongside great cooking results.</p>

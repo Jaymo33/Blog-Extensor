@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of water equals approximately 4.16 cups in the UK or 4.17 cups in the US. This conversion is essential for air fryer recipes where precise liquid measurements can make or break your dish. Whether you're preparing a sauce, batter, or marinade, knowing how to convert millilitres to cups ensures consistency and success. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking every time.</p>

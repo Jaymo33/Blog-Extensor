@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of garlic paste equals approximately 2.65 ounces. This conversion is handy when following air fryer recipes that use imperial measurements. Whether you're whipping up a marinade or seasoning your dish, knowing the exact weight ensures perfect results every time.</p>  

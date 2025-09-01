@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of BBQ sauce equals approximately 1.41 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're marinating chicken or glazing ribs, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for UK home chefs.</p>

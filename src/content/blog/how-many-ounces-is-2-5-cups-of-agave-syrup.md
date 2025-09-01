@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of agave syrup equals approximately 20 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer. Agave syrup is a popular sweetener, but its thick consistency means measurements must be spot-on for the best results. Whether you’re making desserts or glazes, knowing how many ounces are in 2.5 cups of agave syrup ensures your recipes turn out perfectly. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

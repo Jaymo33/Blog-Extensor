@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of vinegar equals approximately 2 fluid ounces (oz). This measurement is essential for air fryer recipes, where precise quantities can affect the outcome of your dish. Whether you’re making a tangy marinade or a light dressing, knowing this conversion ensures your recipe turns out perfectly every time.</p>  

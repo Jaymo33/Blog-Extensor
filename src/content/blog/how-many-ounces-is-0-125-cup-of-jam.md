@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of jam equals approximately 1 ounce. This conversion is handy when you're preparing small batches of desserts or sauces for your air fryer. Whether you're making a glaze for air-fried pastries or a topping for pancakes, precise measurements ensure perfect results every time. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

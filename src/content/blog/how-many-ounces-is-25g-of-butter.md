@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of butter equals approximately 0.88 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're whipping up a batch of cookies or preparing a savoury dish, knowing how many ounces 25g of butter is ensures your recipes turn out perfectly every time.</p>

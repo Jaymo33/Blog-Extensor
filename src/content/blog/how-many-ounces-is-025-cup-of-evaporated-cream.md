@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of evaporated cream equals approximately 2 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making a creamy sauce or a dessert, knowing how to convert 0.25 cup of evaporated cream to ounces will help you nail the recipe every time.</p>  

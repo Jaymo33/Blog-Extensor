@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of hot sauce equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or adding a kick to roasted vegetables, knowing the exact weight ensures consistent results every time.</p>  

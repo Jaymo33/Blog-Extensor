@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of jam is approximately 80 grams (g). This conversion is handy when you're following air fryer recipes that require precise measurements, especially for desserts or glazes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate measurements are for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>364°F converts to Gas Mark 4.5, making it a moderate oven temperature perfect for baking and air frying. This conversion is essential for UK cooks using recipes with Fahrenheit measurements or when adapting air fryer recipes between different heating methods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these temperature conversions for flawless results every time.</p>

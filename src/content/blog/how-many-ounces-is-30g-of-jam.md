@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of jam is approximately 1.06 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you’re making a glaze for air-fried pastries or adding a sweet touch to desserts, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for perfect results every time.</p>

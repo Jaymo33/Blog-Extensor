@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>257°F converts to approximately 125°C in a fan oven. This conversion is essential when adapting American recipes or air fryer settings for UK fan ovens. Whether you're baking, roasting, or air frying, getting the temperature right ensures perfect results every time.</p>

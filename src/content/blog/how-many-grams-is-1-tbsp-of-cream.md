@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of cream typically weighs around 15 grams, though this can vary slightly depending on the cream's thickness and fat content. Whether you're whipping up a sauce or baking a dessert in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for delicious results.</p>  

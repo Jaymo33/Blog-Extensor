@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>223°F in a fan oven converts to approximately 200°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted cooking. Whether you're using recipes from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> or adapting family favourites, understanding this conversion ensures consistent results.</p>

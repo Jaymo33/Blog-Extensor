@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of milk is roughly equivalent to 1.8 cups in the UK and 1.75 cups in the US. This conversion is essential for recipes where precision matters, especially when using an air fryer for baking or cooking. Whether you’re whipping up a cake or a creamy sauce, knowing how to convert grams to cups ensures consistent results every time.</p>  

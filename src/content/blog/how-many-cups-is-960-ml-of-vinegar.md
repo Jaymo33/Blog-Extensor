@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of vinegar equals approximately 4.06 US cups or 3.38 UK cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements matter. Whether you're marinating chicken or preparing a tangy glaze, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>  

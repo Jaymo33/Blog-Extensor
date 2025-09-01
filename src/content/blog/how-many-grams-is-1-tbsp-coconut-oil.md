@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of coconut oil weighs approximately 13.6 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re frying, baking, or roasting, knowing the exact weight ensures consistent results every time. Coconut oil is a popular choice for air frying due to its high smoke point and rich flavour. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

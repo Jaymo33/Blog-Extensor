@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of apple cider vinegar equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re marinating chicken or whipping up a tangy glaze, knowing how many ounces 125g of apple cider vinegar is ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you cook with confidence, and accurate conversions are a big part of that.</p>  

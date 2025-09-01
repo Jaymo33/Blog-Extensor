@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of treacle equals approximately 11.5 ounces (or 11.5 oz) in the UK. This measurement is essential for air fryer recipes, ensuring your bakes and desserts turn out perfectly every time. Whether you’re making sticky toffee pudding or treacle tart, knowing this conversion helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

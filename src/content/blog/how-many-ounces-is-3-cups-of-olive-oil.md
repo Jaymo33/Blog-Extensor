@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of olive oil equals approximately 24 ounces (or 24 oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect results every time. Whether you're drizzling over veggies or marinating chicken, knowing how to convert cups to ounces makes cooking effortless.</p>  

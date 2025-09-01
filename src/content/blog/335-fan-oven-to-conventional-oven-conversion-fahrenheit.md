@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335°F in a fan oven converts to approximately 300°F in a conventional oven. This adjustment is crucial for achieving consistent baking results, especially when switching between appliances like air fryers and traditional ovens. Understanding these conversions ensures your recipes turn out just right, whether you’re baking a cake or roasting vegetables.</p>  

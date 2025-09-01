@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of butter equals approximately 4.41 ounces. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or preparing a savoury dish in your air fryer, knowing how to convert grams to ounces can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with butter in air fryer recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 F converts to approximately 250 C in a fan oven. This is a common temperature for roasting meats, baking pizzas, or crisping up vegetables in your air fryer. Understanding this conversion ensures your dishes come out perfectly cooked every time.</p>

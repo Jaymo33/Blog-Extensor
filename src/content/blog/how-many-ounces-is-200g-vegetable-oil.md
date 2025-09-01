@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of vegetable oil equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're frying, baking, or roasting, knowing how to convert grams to ounces ensures consistent results every time.</p>

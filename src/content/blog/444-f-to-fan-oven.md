@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>444 F converts to approximately 229 C in a fan oven. This is the standard conversion used for baking, roasting, and air frying in UK kitchens. Fan ovens circulate hot air evenly, allowing for lower temperatures compared to conventional ovens. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we recommend this conversion for consistent results whether you're cooking meats, vegetables, or baked goods.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of marmalade equals approximately 2.93 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making glazes, sauces, or desserts, knowing how many ounces are in 0.33 cup of marmalade ensures your dish turns out perfectly every time.</p>

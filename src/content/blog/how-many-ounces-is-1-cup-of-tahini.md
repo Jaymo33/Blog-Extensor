@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of tahini equals approximately 8.5 ounces (240 grams) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up hummus or a tahini-based dressing, knowing the exact weight ensures consistency.</p>

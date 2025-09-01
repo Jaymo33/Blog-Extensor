@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of milk is equivalent to 355 millilitres (ml). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a dish. Whether you’re whipping up a cake or a creamy sauce, knowing how many ml is 1.5 cups of milk ensures consistency and delicious results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of ginger paste equals approximately 17.64 ounces. This conversion is essential when following air fryer recipes that use imperial measurements, especially if you're working with pre-packaged ginger paste from UK supermarkets. Whether you're making Asian-inspired dishes or adding zing to your marinades, knowing this conversion will help you measure ingredients accurately.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of granulated sugar equals approximately 1.41 ounces. This conversion is essential for anyone using UK recipes or working with air fryer measurements, where precision can make or break a dish. Whether you're baking a cake or whipping up a dessert in your air fryer, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

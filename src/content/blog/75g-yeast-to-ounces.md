@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of yeast equals approximately 2.65 ounces. This conversion is essential for bakers who prefer using imperial measurements or follow recipes with ounce-based quantities. Whether you're making dough in your air fryer or prepping ingredients for a traditional oven, accurate measurements ensure perfect results every time.</p>  

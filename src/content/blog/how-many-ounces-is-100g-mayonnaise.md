@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of mayonnaise equals approximately 3.53 ounces. If you're preparing a recipe in your air fryer and need to convert 100g of mayonnaise to ounces, this simple conversion ensures your measurements are spot on. Whether you're making a creamy dip, a rich sauce, or a marinade, knowing this conversion helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love making cooking easier with precise measurements and handy tips.</p>

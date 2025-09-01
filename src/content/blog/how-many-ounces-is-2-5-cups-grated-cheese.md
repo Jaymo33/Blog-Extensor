@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of grated cheese equals approximately 10 ounces, making it easy to measure for air fryer recipes. Whether you're making cheesy nachos, a gooey melt, or a crispy topping, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for delicious meals.</p>  

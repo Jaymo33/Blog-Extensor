@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>109°C in a fan oven equals approximately 120°C in a conventional oven. This slight temperature difference matters when adapting recipes between oven types, especially for air fryer cooking where precision counts.</p>

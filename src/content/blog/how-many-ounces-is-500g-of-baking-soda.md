@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams (500g) of baking soda equals approximately 17.64 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and rise. Whether you're making crispy batters or fluffy cakes, knowing how to convert 500g baking soda to ounces guarantees consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions.</p>  

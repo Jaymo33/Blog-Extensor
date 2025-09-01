@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>252 F converts to approximately 120 C in a fan oven. This is a common temperature for slow roasting, baking, or dehydrating in both fan ovens and air fryers. Understanding this conversion helps achieve consistent results when following recipes from different sources.</p>

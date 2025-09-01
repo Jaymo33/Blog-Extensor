@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of oats equals approximately 2.65 ounces. Whether you're preparing breakfast or baking in your air fryer, getting the measurements right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important precision is for air fryer cooking, especially when dealing with ingredients like oats.</p>

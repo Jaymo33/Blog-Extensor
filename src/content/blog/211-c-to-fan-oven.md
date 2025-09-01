@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>211 C converts to approximately 190 C in a fan oven. This 20-degree reduction is standard when adapting conventional oven temperatures for fan-assisted cooking. Whether you're baking, roasting, or using your air fryer, understanding this conversion ensures perfect results every time.</p>

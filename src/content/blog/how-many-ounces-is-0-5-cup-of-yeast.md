@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of yeast equals approximately 2.5 ounces (oz). This conversion is essential for bakers who need precise measurements for their air fryer recipes. Whether you're making bread, pizza dough, or sweet treats, knowing how many ounces 0.5 cup of yeast weighs ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions and expert tips.</p>  

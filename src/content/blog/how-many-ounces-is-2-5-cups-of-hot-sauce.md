@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of hot sauce equals approximately 20 ounces. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of heat and flavour. Whether you're whipping up wings or marinating meats, knowing how many ounces are in 2.5 cups of hot sauce helps streamline your cooking process.</p>

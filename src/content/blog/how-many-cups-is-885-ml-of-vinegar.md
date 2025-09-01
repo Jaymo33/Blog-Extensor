@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of vinegar is roughly 3.7 cups in the US or 3.5 cups in the UK. Whether you're prepping a marinade, pickling vegetables, or cleaning your air fryer, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how frustrating it can be when conversions don’t add up. That’s why we’ve broken it down for you—no guesswork needed.</p>  

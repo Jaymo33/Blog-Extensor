@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of Greek yogurt equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making marinades, dips, or baked goods, knowing how many ounces 25g of Greek yogurt is ensures perfect results every time.</p>

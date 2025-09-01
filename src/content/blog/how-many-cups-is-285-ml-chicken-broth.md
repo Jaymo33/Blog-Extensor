@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of chicken broth equals approximately 1.2 cups in the US or 1.14 cups in the UK. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer. Whether you're making soups, stews, or sauces, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

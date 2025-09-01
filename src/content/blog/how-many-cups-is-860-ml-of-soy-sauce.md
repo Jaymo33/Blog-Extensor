@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of soy sauce is roughly 3.63 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're marinating chicken or whipping up a stir-fry, knowing how to convert millilitres to cups ensures consistency in your dishes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 301 fan oven to Fahrenheit for a conventional oven is straightforward: 301°F in a fan oven equals approximately 325°F in a standard oven. This adjustment accounts for the efficient heat distribution of fan-assisted cooking. Whether you're baking, roasting, or air frying, understanding this conversion ensures your dishes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.5 kg is equal to 9.9208 pounds, or roughly 9 pounds and 14.7 ounces when rounded for practical use. This conversion is essential for air fryer users who often deal with recipes specifying weights in different units. Whether you're portioning meat, vegetables, or frozen goods, getting this right ensures even cooking and perfect results. Many air fryer recipes, especially those from international sources, use metric measurements. Converting 4.5 kg to pounds accurately helps you follow these recipes without guesswork, making your cooking experience smoother and more reliable.</p>

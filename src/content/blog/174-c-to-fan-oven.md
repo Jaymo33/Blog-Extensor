@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>174°C in a conventional oven converts to approximately 154°C in a fan oven. This 20°C reduction is standard when switching between conventional and fan-assisted cooking. For air fryer users, this means adjusting your appliance to 154°C for recipes originally designed for conventional ovens.</p>

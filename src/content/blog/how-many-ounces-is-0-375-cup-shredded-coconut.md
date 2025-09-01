@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of shredded coconut equals approximately 1.5 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re making coconut shrimp or a tropical dessert, knowing the weight ensures perfect results every time. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

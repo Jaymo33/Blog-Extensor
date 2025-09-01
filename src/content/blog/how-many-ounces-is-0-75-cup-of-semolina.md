@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of semolina equals approximately 4.5 ounces (or 128 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making crispy semolina-coated chicken or a light semolina cake, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to help you nail every recipe.</p>

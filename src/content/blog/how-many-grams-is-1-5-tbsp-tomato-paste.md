@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of tomato paste equals approximately 23 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you're making a rich pasta sauce or a flavourful marinade, knowing the exact weight ensures consistent results every time.</p>

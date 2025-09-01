@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of beef stock equals approximately 4.06 cups. This conversion is essential for recipes that require precise measurements, especially when using an air fryer for dishes like stews or casseroles. Whether you're following a British or American recipe, knowing this conversion ensures your dish turns out perfectly every time.</p>  

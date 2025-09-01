@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of marmalade weigh approximately 40 grams in the UK. This measurement is essential for air fryer recipes where precision matters. Whether you’re making glazes, sauces, or desserts, knowing the exact weight ensures consistent results every time.</p>

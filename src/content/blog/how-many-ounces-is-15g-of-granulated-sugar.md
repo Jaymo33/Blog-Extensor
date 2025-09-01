@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of granulated sugar equals approximately 0.53 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you’re whipping up a cake or sweetening your morning oats, knowing how to convert grams to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get measurements spot-on for delicious dishes.</p>

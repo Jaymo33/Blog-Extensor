@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of ground almonds equals approximately 1.2 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're baking almond flour cookies or coating chicken, knowing the exact weight saves time and avoids kitchen mishaps.</p>  

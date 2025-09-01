@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of ginger paste equals approximately 45 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or spicing up vegetables, knowing the exact weight ensures consistent results every time.</p>  

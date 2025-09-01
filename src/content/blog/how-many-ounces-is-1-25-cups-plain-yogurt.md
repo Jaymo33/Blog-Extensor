@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of plain yogurt equals approximately 10 ounces (284 grams). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy dip or a marinade, knowing the exact weight ensures consistency.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of single cream equals approximately 240 ml. This conversion is essential for air fryer recipes, ensuring accurate measurements for creamy sauces, desserts, or baked goods. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adapting a traditional dish, knowing this measurement helps achieve consistent results.</p>  

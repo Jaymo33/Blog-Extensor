@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of coconut milk equals approximately 2.79 cups. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a curry or baking a dessert, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate conversions can be, so we’ve simplified it for you.</p>  

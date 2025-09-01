@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of lentils is roughly equivalent to 1 cup, but this can vary slightly depending on the type and how they’re packed. If you’re using an air fryer for recipes like crispy lentil snacks or lentil patties, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for perfect cooking every time.</p>  

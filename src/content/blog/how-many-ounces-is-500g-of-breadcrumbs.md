@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of breadcrumbs equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're coating chicken, making crispy fish, or preparing a vegetarian delight, knowing the exact weight ensures perfect results every time.</p>  

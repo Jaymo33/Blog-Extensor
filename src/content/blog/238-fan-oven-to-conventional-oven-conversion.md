@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>238°C in a fan oven converts to approximately 220°C in a conventional oven. This 20°C reduction is standard when converting between fan and traditional ovens. Understanding this conversion is crucial when using recipes designed for different oven types, especially when cooking with an air fryer.</p>

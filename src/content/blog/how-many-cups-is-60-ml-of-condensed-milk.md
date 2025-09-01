@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of condensed milk equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for baking and air fryer recipes where precision ensures perfect results. Whether you're whipping up a dessert or adjusting a recipe, knowing how to measure condensed milk accurately saves time and avoids mishaps.</p>  

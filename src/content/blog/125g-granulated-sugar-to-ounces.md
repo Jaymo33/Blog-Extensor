@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of granulated sugar equals approximately 4.41 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making cookies, cakes, or other sweet treats in your air fryer, knowing how to convert grams to ounces ensures perfect results every time.</p>

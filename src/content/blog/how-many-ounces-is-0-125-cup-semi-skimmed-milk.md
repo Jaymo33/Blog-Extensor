@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of semi skimmed milk equals 1 fluid ounce (oz). This measurement is essential for air fryer recipes where precision matters, whether you're baking, making sauces, or preparing meals. Getting the right amount ensures your dishes turn out perfectly every time.</p>  

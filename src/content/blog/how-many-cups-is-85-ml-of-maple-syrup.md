@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of maple syrup is roughly 0.36 cups (just over 1/3 cup). If you're using an air fryer for baking or glazing, this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in air fryer cooking.</p>  

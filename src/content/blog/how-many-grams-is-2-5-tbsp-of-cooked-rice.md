@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of cooked rice weighs approximately 37.5 grams. This measurement is handy when portioning rice for air fryer recipes or meal prep. Whether you're making fried rice or a rice-based casserole, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of double cream equals approximately 13.28 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce, a decadent dessert, or a rich topping, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for perfect air fryer results.</p>  

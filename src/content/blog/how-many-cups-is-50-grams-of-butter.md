@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of butter equals approximately 0.22 cups (or just under 1/4 cup). This conversion is essential for baking, cooking, and air frying, where precise measurements can make or break a recipe. Whether you're whipping up cakes, cookies, or savoury dishes in your air fryer, knowing how to convert grams to cups ensures consistent results every time.</p>

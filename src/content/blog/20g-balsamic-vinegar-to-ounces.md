@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of balsamic vinegar equals approximately 0.71 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams or ounces. Whether you're whipping up a glaze or marinade, knowing how to convert 20g of balsamic vinegar to ounces ensures your dish turns out perfectly.</p>

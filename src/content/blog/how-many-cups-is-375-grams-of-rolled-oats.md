@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of rolled oats equals approximately 4.5 cups. This conversion is essential for baking, air frying, or meal prepping with accuracy. Whether you're making granola, oatmeal cookies, or a hearty breakfast, knowing the exact measurement ensures perfect results every time.</p>  

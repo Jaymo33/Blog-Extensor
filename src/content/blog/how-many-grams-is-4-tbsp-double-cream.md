@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of double cream weighs approximately 60 grams. This conversion is essential for air fryer recipes where precision ensures the perfect texture and consistency. Whether you’re making a creamy sauce, dessert, or indulgent topping, knowing the exact weight helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making measurements simple for hassle-free cooking. Keep reading for more details on conversions and recipe ideas.</p>

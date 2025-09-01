@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of broccoli weighs approximately 135 grams. This measurement is based on chopped, raw broccoli, which is the most common way to prepare it for air fryer recipes. If you're using florets or stems, the weight may vary slightly, but 135 grams is a reliable benchmark for most cooking needs.</p>

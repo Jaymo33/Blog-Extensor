@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of chopped tomatoes equals approximately 5.28 ounces (or 150 grams). This measurement is handy for air fryer recipes, ensuring accurate ingredient portions for perfect results every time. Whether you’re prepping a fresh salsa or a tomato-based sauce, knowing this conversion saves time and hassle.</p>  

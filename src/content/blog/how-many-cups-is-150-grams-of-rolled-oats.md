@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of rolled oats equals approximately 1.7 UK cups or 1.5 US cups. This conversion is essential when preparing air fryer recipes that require precise measurements for the best texture and consistency. Whether you're making crunchy granola clusters or wholesome oat bars in your air fryer, getting the measurement right makes all the difference.</p>

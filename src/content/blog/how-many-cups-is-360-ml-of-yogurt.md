@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of yogurt is approximately 1.5 cups, making it a handy measurement for air fryer recipes. Whether you're whipping up a creamy dessert or a savoury marinade, knowing this conversion ensures accuracy in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can elevate your dishes, especially when using an air fryer.</p>  

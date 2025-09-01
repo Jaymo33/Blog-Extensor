@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of corn syrup is equivalent to approximately 59 ml. This measurement is crucial for precision in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a glaze, sauce, or dessert, knowing how many ml 0.25 cups of corn syrup is can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about helping you get the best results from your air fryer.</p>

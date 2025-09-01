@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of harissa paste equals approximately 6 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a spicy marinade or adding a kick to roasted vegetables, knowing this conversion ensures precision. Harissa paste, a staple in North African cuisine, packs a punch, so accurate measurements matter. For more air fryer-friendly conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

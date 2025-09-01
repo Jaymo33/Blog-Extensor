@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of almond milk equals approximately 240 ml, whether you're using UK or US measurements. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking, cooking, or meal prepping, knowing this measurement helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to elevate your air fryer experience.</p>

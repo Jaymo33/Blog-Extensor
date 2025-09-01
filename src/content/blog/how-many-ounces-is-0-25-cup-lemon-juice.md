@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of lemon juice equals 2 fluid ounces (oz). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or glazes. Whether you're cooking chicken, vegetables, or seafood in your air fryer, getting the right amount of lemon juice can make all the difference.</p>  

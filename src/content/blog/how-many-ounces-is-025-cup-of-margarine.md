@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of margarine equals 2 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you’re whipping up cakes, cookies, or savoury dishes, knowing how many ounces are in 0.25 cup of margarine helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for hassle-free cooking. Keep reading for more tips on measuring margarine and using it in your air fryer.</p>  

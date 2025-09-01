@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of jam equals approximately 24 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require accuracy. Whether you're making a glaze or a filling, knowing the weight ensures consistent results every time.</p>

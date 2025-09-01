@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of single cream is equivalent to approximately 4 cups. This conversion is essential for anyone preparing recipes that require precise measurements, especially when using an air fryer. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

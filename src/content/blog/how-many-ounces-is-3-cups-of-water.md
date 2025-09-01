@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of water equals 24 fluid ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re preparing a sauce, marinade, or baking, knowing how many ounces are in 3 cups of water ensures accuracy.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of apple cider vinegar is approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or whipping up a tangy glaze, knowing how to convert grams to ounces ensures perfect results every time.</p>  

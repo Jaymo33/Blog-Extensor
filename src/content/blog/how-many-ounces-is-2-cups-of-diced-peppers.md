@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of diced peppers weigh approximately 10 ounces (283 grams). This conversion is essential for air fryer recipes, ensuring accurate measurements for consistent cooking results. Whether you're making stuffed peppers or a veggie stir-fry, knowing the weight helps avoid over or under-seasoning.</p>

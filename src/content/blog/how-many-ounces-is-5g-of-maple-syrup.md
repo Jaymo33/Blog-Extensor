@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of maple syrup equals approximately 0.18 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're drizzling it over air-fried pancakes or using it as a glaze for chicken, knowing the exact weight helps avoid guesswork.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of soft cheese equals approximately 0.35 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making a creamy dip or a cheesy topping, knowing how to convert 10g of soft cheese to ounces ensures perfect results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

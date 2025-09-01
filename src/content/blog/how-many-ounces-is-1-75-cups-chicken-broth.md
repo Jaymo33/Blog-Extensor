@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of chicken broth equals 14 fluid ounces (or approximately 14 oz by weight for most standard broths). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re making soups, stews, or marinades, knowing how to convert 1.75 cups of chicken broth to ounces ensures consistency in your dishes.</p>  

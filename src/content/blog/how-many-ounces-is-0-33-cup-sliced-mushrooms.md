@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of sliced mushrooms equals approximately 1.5 ounces. This measurement is key for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're preparing a mushroom stir-fry or adding them to a casserole, knowing the exact weight helps avoid over or under-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

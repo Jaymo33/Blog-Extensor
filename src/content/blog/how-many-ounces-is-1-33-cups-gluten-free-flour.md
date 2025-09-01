@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of gluten-free flour equals approximately 5.6 ounces (oz). This conversion is crucial for air fryer baking, where precise measurements can make or break your recipe. Whether you’re making gluten-free cakes, cookies, or bread in your air fryer, knowing the exact weight ensures consistency and perfect texture every time.</p>  

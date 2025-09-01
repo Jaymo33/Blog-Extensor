@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of tomato ketchup equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you’re whipping up crispy fries or saucy wings, getting the right amount of ketchup ensures perfect flavour balance.</p>

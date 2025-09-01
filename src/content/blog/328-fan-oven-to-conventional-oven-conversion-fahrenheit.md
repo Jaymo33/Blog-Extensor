@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>328 fan oven equals approximately 300°F in a conventional oven. This conversion is essential for baking and cooking, especially when using recipes designed for fan ovens in a standard oven or air fryer. Understanding this conversion ensures your dishes come out perfectly cooked every time.</p>

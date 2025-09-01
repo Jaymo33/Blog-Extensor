@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of mozzarella cheese equals approximately 0.4 cups when shredded or grated. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making crispy mozzarella sticks or a cheesy pizza, knowing how many cups is 100 grams of mozzarella cheese ensures consistent results every time.</p>

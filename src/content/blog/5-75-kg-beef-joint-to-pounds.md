@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 5.75 kg beef joint and need to know its weight in pounds, the answer is straightforward: 5.75 kilograms is equal to approximately 12.68 pounds. This conversion is essential when following recipes or adjusting cooking times, especially if you're using an air fryer for a succulent roast. Knowing the exact weight helps you plan your meal prep and ensures even cooking throughout. Whether you're cooking for a family dinner or a festive gathering, accurate measurements make all the difference. For more handy conversion tips, check out the guides on <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>

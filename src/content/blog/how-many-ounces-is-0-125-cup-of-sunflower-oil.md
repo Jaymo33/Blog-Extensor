@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of sunflower oil equals 1 fluid ounce (oz) in UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you’re making crispy chips or baking a cake, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to help you cook with confidence. Sunflower oil is a popular choice for air frying due to its high smoke point and neutral flavour.</p>

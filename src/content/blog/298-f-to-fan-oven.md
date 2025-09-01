@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>298 F converts to approximately 148 C in a fan oven. This moderate temperature is perfect for gentle baking and roasting in both fan ovens and air fryers. Whether you're adapting a recipe or troubleshooting your cooking, understanding this conversion is key.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of brown sugar equals approximately 1.41 ounces. This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for perfect results. Whether you’re whipping up cookies, cakes, or savoury dishes in your air fryer, knowing how to convert grams to ounces ensures consistency.</p>  

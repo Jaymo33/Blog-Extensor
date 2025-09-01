@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of chicken broth equals approximately 2.68 cups in US measurements or 2.23 cups in UK imperial measurements. Whether you're prepping a soup, stew, or an air fryer recipe, getting your liquid measurements right is key. This conversion ensures your dishes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of maple syrup equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're drizzling it over air-fried pancakes or using it as a glaze for roasted vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of plain flour equals approximately 2.1 ounces (or 60 grams). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect texture. Whether you’re baking air fryer cookies or whipping up a quick cake, knowing the exact weight of your flour can make all the difference.</p>  

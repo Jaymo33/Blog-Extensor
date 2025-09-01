@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of protein powder equals approximately 20 ounces (oz) in weight. This conversion is essential for air fryer recipes where precise measurements affect texture and cooking times. Whether you're making protein cookies or high-protein muffins, knowing this conversion ensures consistent results every time.</p>  

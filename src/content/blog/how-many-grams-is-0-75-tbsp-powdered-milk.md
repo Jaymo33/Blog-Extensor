@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of powdered milk equals approximately 5.6 grams. This conversion is essential for air fryer recipes where precision matters, whether you're baking cakes or preparing sauces. Powdered milk is a versatile ingredient, and knowing its weight ensures consistent results every time.</p>

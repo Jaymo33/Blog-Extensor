@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>204 C converts to approximately 180 C in a fan oven - simply reduce the temperature by 20-25 degrees when using convection settings. This conversion works for most standard recipes, though some dishes may need slight adjustments for perfect results in your fan-assisted oven or air fryer.</p>

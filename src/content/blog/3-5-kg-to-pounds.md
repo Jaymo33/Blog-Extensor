@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 kg is equal to 7.71618 pounds, or roughly 7 pounds and 11.5 ounces. This conversion is incredibly useful when you're working with air fryer recipes, especially if you're dealing with larger cuts of meat, batch cooking, or following international recipes that use metric measurements. Knowing how to convert 3.5 kg to pounds ensures you use the correct amount of ingredients, which is crucial for cooking times and even results in your air fryer. Whether you're meal prepping for the week or trying a new dish, getting the weight right is the first step to success. You can find more handy conversions on our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

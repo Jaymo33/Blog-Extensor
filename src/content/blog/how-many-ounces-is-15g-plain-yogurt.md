@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of plain yogurt equals approximately 0.53 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're whipping up a marinade or a healthy dip, knowing the exact weight ensures perfect results every time.</p>

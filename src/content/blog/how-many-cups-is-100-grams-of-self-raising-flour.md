@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of self-raising flour equals approximately 0.8 cups (UK) or 0.75 cups (US). This conversion ensures your baking measurements are spot-on, whether you're whipping up cakes, muffins, or air fryer-friendly treats. Getting the right amount of self-raising flour is crucial for achieving the perfect rise and texture in your baked goods.</p>  

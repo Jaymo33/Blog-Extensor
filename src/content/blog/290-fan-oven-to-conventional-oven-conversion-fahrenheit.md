@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 290°F in a fan oven to a conventional oven temperature is straightforward: it’s approximately 320°F. Fan ovens circulate hot air, cooking food faster and more evenly, so conventional ovens need a slightly higher temperature to match. This guide will help you adapt recipes effortlessly, whether you’re using an air fryer, traditional oven, or combi microwave.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>21.5 kg is equal to approximately 47.399 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger batches of food, meal prepping for the family, or following recipes that use imperial measurements. Getting your weights right ensures everything cooks evenly and comes out perfectly crispy. Whether you're portioning out chicken breasts or a big bag of potatoes, knowing how to convert 21.5 kilograms to pounds takes the guesswork out of cooking. It’s a fundamental skill that makes using your air fryer even more straightforward and enjoyable.</p>

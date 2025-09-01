@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of mayonnaise equals approximately 37.5 grams. This conversion is handy when following air fryer recipes that require precise measurements for perfect results. Whether you’re making crispy chicken or a quick snack, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with accurate conversions.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of chopped onion equals approximately 20 grams. This conversion is essential for air fryer recipes where precision matters. Whether you’re making crispy onion toppings or flavourful bases, knowing the exact weight ensures consistency. For more air fryer measurement guides, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

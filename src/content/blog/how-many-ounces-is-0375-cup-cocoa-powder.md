@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of cocoa powder equals approximately 1.5 ounces (oz) in the UK. This measurement is essential for air fryer recipes, where precision ensures perfect texture and flavour. Whether you're baking brownies or dusting desserts, knowing the exact weight helps avoid mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

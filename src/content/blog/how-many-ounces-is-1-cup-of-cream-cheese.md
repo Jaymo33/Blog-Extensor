@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cream cheese equals 8 ounces, making it easy to measure for recipes. Whether you're baking a cheesecake or whipping up a creamy dip for your air fryer, knowing this conversion ensures perfect results every time. Cream cheese is a staple in many dishes, from desserts to savoury meals, so getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you nail every recipe with precision. Keep reading to learn more about measuring cream cheese and how it fits into your air fryer cooking.</p>  

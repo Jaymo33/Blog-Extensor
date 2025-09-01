@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 5 converts to 375°F (190°C) in Fahrenheit - a medium heat perfect for most air fryer recipes. This temperature works beautifully for roasting vegetables, baking cookies, or cooking chicken breasts to juicy perfection. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this as one of the most versatile temperatures for everyday air frying.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tablespoons (tbsp) of icing sugar equals approximately 5.6 grams. This precise measurement ensures your air fryer desserts and baked goods turn out perfectly every time. Whether you're dusting doughnuts or sweetening a cake, knowing this conversion is essential for UK bakers.</p>

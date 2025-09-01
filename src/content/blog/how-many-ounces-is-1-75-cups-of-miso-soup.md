@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of miso soup equals approximately 14 fluid ounces. This conversion is essential for precise cooking, especially when using an air fryer for recipes that require accurate liquid measurements. Whether you're meal prepping or following a specific recipe, knowing how to convert cups to ounces ensures consistency in flavour and texture.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of water equals 355 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re baking, steaming, or preparing sauces, knowing how many ml is 1.5 cups of water ensures consistency and perfect results every time.</p>

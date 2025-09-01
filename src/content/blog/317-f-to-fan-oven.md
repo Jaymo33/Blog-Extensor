@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>317 F converts to approximately 158 C in a fan oven. This temperature is crucial for air fryer users who need to adapt recipes designed for conventional ovens. Fan ovens circulate hot air, cooking food faster and more evenly than traditional methods.</p>

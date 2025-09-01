@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of cream equals approximately 887.21 millilitres (ml). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact ml equivalent ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of fish sauce equals approximately 20 fluid ounces (UK). This conversion is essential for air fryer recipes where precise measurements ensure the perfect balance of flavours. Fish sauce, a staple in many Asian-inspired dishes, can make or break a recipe if not measured correctly. Whether you’re marinating chicken or preparing a dipping sauce, knowing how many ounces are in 2.5 cups of fish sauce is crucial. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

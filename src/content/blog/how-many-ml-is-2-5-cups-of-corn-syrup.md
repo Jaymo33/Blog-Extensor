@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of corn syrup equals 591.47 millilitres (ml). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making sticky buns or glazing meats, knowing how many ml is 2.5 cups of corn syrup ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the details right for perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of apple cider vinegar equals approximately 2.57 cups. This conversion is essential for recipes where precision matters, especially when using an air fryer. Whether you’re marinating chicken or baking a cake, knowing how many cups is 610 ml of apple cider vinegar ensures your dish turns out perfectly.</p>

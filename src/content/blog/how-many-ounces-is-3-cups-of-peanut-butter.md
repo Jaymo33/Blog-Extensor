@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of peanut butter equals approximately 24 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you're making cookies, sauces, or energy bites, knowing how many ounces are in 3 cups of peanut butter helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can cook with confidence.</p>  

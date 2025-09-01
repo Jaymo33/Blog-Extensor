@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of hoisin sauce equals approximately 10 ounces. This conversion is essential for air fryer recipes, ensuring your marinades and glazes have the perfect consistency. Whether you’re whipping up a quick stir-fry or marinating chicken, accurate measurements make all the difference. Hoisin sauce is a staple in many Asian-inspired dishes, and knowing how to convert cups to ounces helps streamline your cooking process. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

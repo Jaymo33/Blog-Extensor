@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of treacle equals approximately 13.28 ounces. This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements matter. Treacle, a thick syrup, can vary slightly in weight, but this standard conversion ensures accuracy for your recipes.</p>  

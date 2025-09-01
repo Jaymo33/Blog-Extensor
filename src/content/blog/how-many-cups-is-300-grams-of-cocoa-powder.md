@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of cocoa powder equals approximately 2.5 cups in standard US measurements, or roughly 2.4 cups in UK measurements. This conversion is essential for precise baking, especially when using an air fryer for desserts. Whether you're whipping up brownies or a chocolate cake, getting the measurement right ensures perfect texture and flavour. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

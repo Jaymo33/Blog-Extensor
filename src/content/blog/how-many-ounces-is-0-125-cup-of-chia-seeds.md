@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of chia seeds equals approximately 0.5 ounces. This measurement is crucial for air fryer recipes where precision can make all the difference. Whether you're making chia seed pudding or adding them to baked goods, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of golden syrup equals approximately 7.05 ounces. This conversion is essential for anyone using UK recipes or working with air fryer measurements. Golden syrup’s thick consistency makes precise weighing crucial, especially when adapting recipes for smaller batches or adjusting sweetness levels. Whether you’re making flapjacks or glazing meats in your air fryer, knowing this conversion ensures perfect results every time.</p>  

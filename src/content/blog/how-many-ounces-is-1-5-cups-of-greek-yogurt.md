@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of greek yogurt equals approximately 12 ounces. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a creamy dip or a fluffy cake, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with precise conversions and tips.</p>  

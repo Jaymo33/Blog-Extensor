@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tbsp of bbq sauce weighs approximately 22.5 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or glazing ribs, knowing the exact weight ensures consistent results. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements to simplify your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of cream is approximately 1.4 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a dish. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to convert millilitres to cups ensures consistent results every time.</p>

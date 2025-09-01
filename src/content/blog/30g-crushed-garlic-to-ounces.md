@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of crushed garlic equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're preparing a garlic-infused roast or a quick stir-fry, knowing the exact weight ensures perfect seasoning. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

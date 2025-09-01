@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of buttermilk is approximately 1.63 cups in the US measurement system and roughly 1.35 cups in the UK measurement system. This conversion is essential for anyone using recipes that switch between metric and imperial measurements, especially when baking with an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break your air fryer creations.</p>

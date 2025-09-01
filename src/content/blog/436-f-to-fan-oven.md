@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>436 F converts to approximately 224 C in a fan oven. This is a common temperature for roasting meats, baking bread, or crisping up dishes in an air fryer. Understanding this conversion ensures your recipes turn out perfectly every time.</p>

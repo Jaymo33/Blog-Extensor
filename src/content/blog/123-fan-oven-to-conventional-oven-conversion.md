@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>123 fan oven converts to approximately 150°C in a conventional oven. This conversion is essential for achieving perfect results when baking or roasting in a standard oven. Whether you're following a recipe designed for a fan oven or adjusting cooking times, understanding this conversion ensures your dishes turn out just right.</p>

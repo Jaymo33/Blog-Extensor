@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of onion equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're prepping ingredients for a stir-fry or caramelising onions for a burger topping, knowing the exact weight ensures consistent results. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for hassle-free cooking. Let’s dive deeper into why this matters and how to measure onions perfectly for your air fryer.</p>

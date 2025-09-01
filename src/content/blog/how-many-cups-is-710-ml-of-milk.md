@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of milk is approximately 3 cups. This conversion is essential for baking, cooking, or even preparing recipes in your air fryer. Whether you're whipping up a cake or a creamy sauce, knowing the exact measurement ensures perfect results every time.</p>

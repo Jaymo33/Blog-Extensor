@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of potatoes equals approximately 0.75 cups when diced or chopped. This measurement can vary slightly depending on the potato type and how finely they're cut, but 0.75 cups is a reliable starting point for air fryer recipes.</p>  

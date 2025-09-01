@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of tahini equals approximately 4.23 ounces (oz). This measurement is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're making hummus, dressings, or marinades, knowing how many ounces are in 0.5 cup of tahini helps you nail the recipe every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make your cooking effortless.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of corn syrup equals approximately 710 ml. This conversion is essential for air fryer recipes, where precision ensures the right texture and consistency in your dishes. Whether you’re making sticky buns, glazes, or desserts, knowing how many ml is 3.0 cups of corn syrup guarantees perfect results every time.</p>

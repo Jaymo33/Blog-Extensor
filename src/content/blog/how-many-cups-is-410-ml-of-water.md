@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of water equals approximately 1.73 cups. This conversion is essential for anyone using recipes that require precise measurements, especially when cooking or baking with an air fryer. Whether you're preparing a cake, a savoury dish, or even just measuring liquids for a marinade, knowing how to convert millilitres to cups can save you time and ensure consistency in your cooking.</p>

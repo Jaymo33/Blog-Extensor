@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put wax paper in an air fryer. The wax coating melts at around 200°C (392°F), which is lower than most air fryer cooking temperatures. This creates fire hazards and potential damage to your appliance.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of honey is approximately 0.42 cups (or roughly 1/3 cup plus 1 tablespoon). This conversion is essential for air frying and baking, where precision ensures perfect results. Honey’s thickness and density can vary slightly, but this measurement works for most culinary applications. Whether you’re whipping up a glaze or sweetening a marinade, knowing how many cups is 125 grams of honey keeps your recipes on track. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

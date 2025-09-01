@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of pumpkin seeds equals approximately 6.4 ounces (or 6.4 oz) when measured in the UK. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re roasting pumpkin seeds for a snack or using them in a dish, knowing the exact weight ensures consistent results every time.</p>

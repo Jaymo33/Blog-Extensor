@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of treacle is approximately 1.41 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you’re whipping up a sticky toffee pudding or a glaze for meats, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>  

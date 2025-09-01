@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of tomato ketchup equals approximately 10 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're whipping up a batch of <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer chicken wings</a> or a tangy glaze for ribs, knowing the exact weight ensures consistent results every time.</p>

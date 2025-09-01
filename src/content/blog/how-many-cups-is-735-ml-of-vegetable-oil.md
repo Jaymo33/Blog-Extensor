@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>735 ml of vegetable oil equals approximately 3.1 cups. This conversion is essential for accurate measurements in baking, frying, or air frying. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting quantities, knowing this conversion ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of chicken broth equals 1 fluid ounce (oz). This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect the outcome. Whether you're making soups, sauces, or marinades, knowing this conversion ensures your dishes turn out perfectly every time.</p>

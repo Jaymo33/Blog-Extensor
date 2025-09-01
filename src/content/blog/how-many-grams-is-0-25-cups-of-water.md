@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of water equals 59 grams. This conversion is essential for accurate cooking and baking, especially when using an air fryer where precision can make or break a recipe. Whether you're preparing a cake, a sauce, or even a marinade, knowing the exact weight ensures consistent results every time.</p>

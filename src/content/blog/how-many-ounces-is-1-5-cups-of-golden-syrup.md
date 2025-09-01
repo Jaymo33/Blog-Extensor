@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of golden syrup equals approximately 18 ounces (oz). This conversion is essential for precise baking and cooking, especially when using an air fryer, where accurate measurements can make or break a recipe.</p>  

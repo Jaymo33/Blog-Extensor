@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of BBQ sauce equals approximately 0.18 ounces. This conversion is handy when you're preparing air fryer recipes that require precise measurements. Whether you're marinating chicken or glazing ribs, knowing the exact weight ensures consistent results every time. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

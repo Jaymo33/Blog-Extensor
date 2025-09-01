@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of granulated sugar equals approximately 1.06 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up desserts or adjusting ingredients, knowing how to convert 30g of granulated sugar to ounces ensures consistent results.</p>

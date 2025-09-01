@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of greek yogurt equals approximately 4.41 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when following American or UK recipes that use different measurement systems. Whether you're making a healthy breakfast or a creamy sauce for your air fryer chicken, knowing this conversion will ensure perfect results every time.</p>

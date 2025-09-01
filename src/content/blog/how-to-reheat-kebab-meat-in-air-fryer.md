@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat kebab meat in an air fryer, set it to 160°C for 3-5 minutes until piping hot. This gentle temperature prevents drying while crisping edges perfectly – whether you’re working with leftover lamb doner, chicken shish or mixed grill skewers from last night’s takeaway.</p>

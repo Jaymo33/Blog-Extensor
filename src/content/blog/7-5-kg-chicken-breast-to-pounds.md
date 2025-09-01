@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>7.5 kg of chicken breast is equal to approximately 16.53 pounds. This conversion is essential for anyone using recipes or packaging that lists weights in different units, especially when planning to cook with an air fryer. Whether you're meal prepping, hosting a gathering, or simply stocking your freezer, knowing how to convert 7.5 kg chicken breast to pounds ensures you get your quantities spot on. Accurate measurements lead to better cooking results and more consistent meals. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

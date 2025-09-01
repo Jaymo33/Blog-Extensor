@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of oats equals approximately 7.05 ounces. Whether you're measuring ingredients for an air fryer recipe or simply need to convert grams to ounces, this guide will help you get it right every time. Precise measurements are crucial for perfect results, especially when using an air fryer, where consistency matters. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for delicious meals.</p>

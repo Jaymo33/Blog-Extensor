@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of cream is equivalent to approximately 2.26 cups in the UK or 2.25 cups in the US. This conversion is essential for baking, cooking, or even whipping up air fryer recipes that require precise measurements. Whether you're following a dessert recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or adjusting a sauce, knowing how to convert 535 ml of cream to cups ensures perfect results every time.</p>

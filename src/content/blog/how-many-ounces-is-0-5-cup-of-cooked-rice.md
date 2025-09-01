@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of cooked rice weighs approximately 4 ounces (113 grams). This measurement is essential for portioning meals, especially when using an air fryer for reheating or cooking rice-based dishes. Whether you're meal prepping or following a recipe, knowing this conversion ensures accuracy and consistency in your cooking.</p>  

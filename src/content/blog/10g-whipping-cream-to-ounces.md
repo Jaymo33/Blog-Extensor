@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of whipping cream equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precision matters, especially when working with delicate ingredients like whipping cream. Whether you're making a creamy dessert or a light topping, knowing how to convert 10g whipping cream to ounces ensures perfect results every time.</p>

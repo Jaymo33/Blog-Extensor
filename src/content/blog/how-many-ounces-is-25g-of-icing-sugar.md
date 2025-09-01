@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of icing sugar equals approximately 0.88 ounces. If you're baking in your air fryer and need precise measurements, this conversion ensures your recipes turn out perfectly every time. Whether you're dusting desserts or making frosting, knowing how to convert grams to ounces is essential for accuracy.</p>  

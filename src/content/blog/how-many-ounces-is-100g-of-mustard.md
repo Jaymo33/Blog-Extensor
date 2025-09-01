@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of mustard equals approximately 3.53 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a tangy glaze or a marinade, knowing how to switch between grams and ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail every detail, from measurements to cooking times.</p>  

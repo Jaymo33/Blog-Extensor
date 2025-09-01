@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>406 F converts to approximately 208 C in a fan oven. This high-temperature setting is ideal for roasting meats, baking crispy goods, or achieving that perfect golden finish in your air fryer. Understanding this conversion ensures your recipes turn out just right, whether you're using a conventional oven or an air fryer.</p>

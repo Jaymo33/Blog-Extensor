@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>18 kilograms is equal to approximately 39.6832 pounds, a conversion that becomes incredibly useful when dealing with larger ingredient quantities for your air fryer. Whether you're meal prepping, buying in bulk, or scaling up a favourite recipe, understanding how to convert 18 kg to pounds ensures you get your portions and cooking times just right. This is particularly handy for families or those who love to host, as air fryers are brilliant for cooking larger batches efficiently. Getting your measurements spot-on means your food will cook evenly and come out perfectly every time. For more handy conversion tips, check out the air fryer conversion chart on <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Gas Mark 1 to Celsius Conversion</h2>

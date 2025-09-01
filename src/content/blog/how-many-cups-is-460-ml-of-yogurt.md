@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of yogurt is roughly 1.94 cups in the UK or 1.95 cups in the US. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're making a creamy marinade or a fluffy cake, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of blueberries weigh approximately 216 grams. This conversion is essential for air fryer recipes, baking, or meal prep where precision matters. Whether you're whipping up a blueberry crumble or adding them to your morning oats, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious dishes.</p>

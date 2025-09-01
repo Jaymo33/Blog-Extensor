@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of tomato sauce equals approximately 532.32 millilitres (ml). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a pasta sauce or a hearty stew, knowing how many ml is 2.25 cups of tomato sauce ensures consistency and flavour balance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, and this guide will help you nail every recipe.</p>

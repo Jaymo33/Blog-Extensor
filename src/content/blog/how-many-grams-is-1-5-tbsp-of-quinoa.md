@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of quinoa weighs approximately 15 grams. This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cook time. Whether you’re meal prepping or following a specific recipe, knowing this conversion ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of protein powder equals approximately 16 ounces (oz) in weight. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're making protein bars, pancakes, or shakes, knowing how many ounces are in 2 cups of protein powder helps streamline your cooking process.</p>  

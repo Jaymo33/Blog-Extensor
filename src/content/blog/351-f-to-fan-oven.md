@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>351°F converts to approximately 160°C in a fan oven. This is a crucial conversion for air fryer users, as most modern air fryers operate similarly to fan-assisted ovens. Understanding this temperature equivalence ensures your recipes turn out perfectly every time.</p>

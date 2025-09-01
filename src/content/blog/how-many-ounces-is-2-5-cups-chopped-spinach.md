@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of chopped spinach equals approximately 5 ounces (or 142 grams). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're prepping a spinach-heavy dish or just need an accurate weight, knowing this conversion saves time and hassle.</p>  

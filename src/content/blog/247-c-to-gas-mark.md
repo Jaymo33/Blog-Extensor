@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>247 C converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is ideal for professional baking, pizza, or achieving crispy textures in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting traditional oven instructions, knowing this conversion ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of plain flour equals approximately 35.27 ounces. This conversion is essential for anyone using an air fryer to bake, ensuring your recipes turn out perfectly every time. Whether you’re making cakes, cookies, or bread, knowing how to convert grams to ounces helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your air fryer cooking.</p>  

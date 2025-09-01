@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of honey equals approximately 0.16 cups (or roughly 1/6 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe.</p>

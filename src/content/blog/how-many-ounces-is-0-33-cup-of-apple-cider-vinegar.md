@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of apple cider vinegar equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you nail every recipe. Keep reading for tips on measuring liquids and using apple cider vinegar in your air fryer.</p>  

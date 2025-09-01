@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of yogurt is roughly equivalent to 0.42 cups (just under half a cup). This measurement applies to standard plain yogurt with average thickness - though factors like brand, fat content, and temperature can cause slight variations. Whether you're converting grams to cups for an air fryer recipe or adjusting portion sizes, knowing this conversion ensures consistent results every time.</p>

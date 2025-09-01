@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>461°F converts to approximately 240°C in a fan oven - the standard setting for high-heat roasting and baking in the UK. This temperature is ideal for achieving crispy textures in air fryers while ensuring even cooking. Whether you're adapting an American recipe or troubleshooting your appliance settings, understanding this conversion is key to kitchen success.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of apple cider vinegar equals approximately 3.53 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're making marinades or dressings, knowing how to convert 100g apple cider vinegar to ounces ensures your dishes turn out perfectly.</p>

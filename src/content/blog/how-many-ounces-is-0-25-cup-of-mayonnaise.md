@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of mayonnaise equals approximately 2 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a quick sauce or coating chicken for a crispy finish, knowing how many ounces are in 0.25 cup of mayonnaise ensures consistency.</p>  

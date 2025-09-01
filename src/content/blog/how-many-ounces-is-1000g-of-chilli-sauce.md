@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of chilli sauce equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making spicy wings or a saucy stir-fry, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

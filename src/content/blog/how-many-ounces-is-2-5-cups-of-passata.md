@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of passata equals approximately 20 fluid ounces (or 600ml). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re making a rich tomato sauce or a hearty stew, knowing how many ounces are in 2.5 cups of passata ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you nail every recipe. Let’s dive deeper into conversions and cooking tips.</p>  

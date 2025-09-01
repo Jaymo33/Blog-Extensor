@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>91 fan oven converts to approximately 70°C in a conventional oven. This lower temperature is because fan ovens circulate hot air more efficiently, cooking food faster and more evenly. Understanding this conversion is essential for adapting recipes between different oven types, including air fryers.</p>

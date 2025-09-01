@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of whipping cream is approximately 7.05 ounces. This conversion is essential for anyone using recipes that list ingredients in grams but prefer measuring in ounces, especially when preparing dishes in an air fryer. Whether you're making a creamy dessert or a savoury sauce, getting the measurements right ensures perfect results every time.</p>

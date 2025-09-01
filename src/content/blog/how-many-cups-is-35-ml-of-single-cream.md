@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of single cream is approximately 0.15 cups (or roughly 1/6 of a cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter for perfect results.</p>

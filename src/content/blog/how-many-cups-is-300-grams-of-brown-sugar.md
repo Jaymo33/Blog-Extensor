@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of brown sugar equals approximately 1.5 cups when lightly packed. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break your recipe. Whether you’re whipping up cookies, cakes, or even savoury dishes, knowing how to convert grams to cups ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking simpler, so let’s dive into the details.</p>

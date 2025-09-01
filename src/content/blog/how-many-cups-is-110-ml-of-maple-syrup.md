@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of maple syrup equals approximately 0.46 cups (just under half a cup). This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up pancakes, glazes, or desserts, knowing how to measure maple syrup correctly can make all the difference.</p>  

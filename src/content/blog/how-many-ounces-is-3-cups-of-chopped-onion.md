@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of chopped onion equals approximately 12 ounces. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making crispy onion rings or a savoury stir-fry, knowing the exact weight helps with consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Let’s dive deeper into why this conversion matters.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>107 fan oven converts to approximately 127°C in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted cooking. Understanding this conversion is crucial for adapting recipes between oven types, especially when using an air fryer.</p>

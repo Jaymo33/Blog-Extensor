@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>13.4 kg is equal to approximately 29.5419 pounds. Knowing how to convert 13.4 kg to pounds is incredibly useful for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or following international recipes. Accurate measurements ensure your food cooks evenly, your timings are correct, and you avoid overloading your appliance. Whether you're meal prepping for the week or cooking a big family dinner, this conversion is a key piece of kitchen knowledge. Getting your weights right is the first step to air frying success.</p>

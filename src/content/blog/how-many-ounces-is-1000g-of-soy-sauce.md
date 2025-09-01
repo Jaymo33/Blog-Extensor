@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of soy sauce equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, especially when precision matters for marinades or sauces. Whether you're meal prepping or cooking a quick dish, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

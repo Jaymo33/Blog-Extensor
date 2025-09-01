@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of lemon juice equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a citrusy marinade or a tangy dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>

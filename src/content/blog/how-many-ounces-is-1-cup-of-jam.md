@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of jam is approximately 8.5 ounces (240 grams) in the UK. This measurement is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're making pastries, glazes, or sweet treats, knowing how many ounces are in 1 cup of jam helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

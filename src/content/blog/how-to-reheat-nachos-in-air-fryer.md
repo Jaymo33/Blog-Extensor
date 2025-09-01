@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating nachos in an air fryer is simple: set the temperature to 160°C (320°F) and cook for 3–5 minutes. This method ensures your nachos stay crispy while melting the cheese evenly. Unlike microwaving, which can make them soggy, the air fryer’s rapid hot air circulation revives leftovers perfectly. Whether you’re reheating nachos from the fridge or last night’s party platter, this technique delivers restaurant-quality results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

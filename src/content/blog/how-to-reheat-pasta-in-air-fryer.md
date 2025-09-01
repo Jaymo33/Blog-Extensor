@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating pasta in an air fryer takes just 3–5 minutes at 160°C (320°F), keeping it moist while adding a slight crisp. Unlike microwaving, which can leave pasta soggy, air frying circulates heat evenly, reviving leftovers with better texture. Whether you’re reheating spaghetti, lasagne, or macaroni cheese, your air fryer can handle it—just follow these simple steps for perfect results every time.</p>

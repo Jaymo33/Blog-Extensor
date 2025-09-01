@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 fan oven equals approximately 180°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, ensuring your dishes turn out perfectly every time. Whether you're baking cakes or roasting meats, understanding this conversion can make all the difference.</p>

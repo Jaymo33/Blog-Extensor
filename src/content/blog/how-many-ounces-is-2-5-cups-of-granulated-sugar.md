@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of granulated sugar equals approximately 17.64 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making cookies, cakes, or other sweet treats in your air fryer, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

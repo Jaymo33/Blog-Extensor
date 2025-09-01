@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of icing sugar is roughly equivalent to 2.6 cups when lightly spooned and levelled. If you're using an air fryer for baking, precise measurements like this ensure your desserts turn out perfectly every time. Whether you're making cakes, cookies, or frosting, getting the right amount of icing sugar is crucial for texture and sweetness. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for hassle-free baking.</p>  

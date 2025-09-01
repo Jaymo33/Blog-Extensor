@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of lentils equals approximately 10.6 ounces (300 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re cooking a hearty lentil stew or a crispy air-fried snack, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

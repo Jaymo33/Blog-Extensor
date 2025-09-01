@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of condensed milk equals approximately 4 ounces. This measurement is essential for air fryer recipes, ensuring your desserts and baked goods turn out perfectly. Whether you're making a quick cake or a creamy topping, knowing how many ounces are in 0.5 cup of condensed milk saves time and hassle. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you achieve the best results with your air fryer.</p>

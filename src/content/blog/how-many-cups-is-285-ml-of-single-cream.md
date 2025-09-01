@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of single cream equals approximately 1.2 UK cups or 1.19 US cups. This conversion is essential for baking, cooking, and especially when using an air fryer for creamy dishes. Whether you're whipping up a dessert or a savoury sauce, knowing the exact measurement ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>394 F converts to approximately 200 C in a fan oven. This temperature is commonly used for roasting, baking, and air frying various dishes. Understanding this conversion is crucial for achieving perfect results when switching between different cooking appliances.</p>

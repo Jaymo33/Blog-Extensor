@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>19.0 kg is equal to approximately 41.8878 pounds. Whether you're weighing ingredients for a big batch of air fryer recipes or checking the capacity of your appliance, understanding this conversion is incredibly useful in the kitchen. Many modern air fryers have weight limits, and recipes from around the world use different measurement systems. Knowing how to quickly convert 19.0 kg to pounds ensures you never overfill your basket or misunderstand a recipe's requirements. This simple bit of maths can be the difference between perfectly cooked food and a disappointing meal.</p>

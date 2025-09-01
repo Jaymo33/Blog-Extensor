@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of miso soup equals approximately 4 ounces. This measurement is handy when preparing air fryer recipes that require precise amounts of liquid ingredients like miso soup. Whether you're making a marinade or a broth-based dish, knowing this conversion ensures your meals turn out perfectly every time.</p>  

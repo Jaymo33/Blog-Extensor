@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of peanut butter equals approximately 13.28 ounces. This conversion is essential for precise measurements in baking or air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making peanut butter cookies or a savoury satay sauce, knowing the exact weight helps avoid kitchen mishaps.</p>  

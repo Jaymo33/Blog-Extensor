@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of cream is approximately 2.1 cups in the UK and 2.4 cups in the US. This conversion is essential for recipes where precision matters, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a dessert or adding cream to a savoury dish, knowing the exact measurement ensures perfect results every time.</p>

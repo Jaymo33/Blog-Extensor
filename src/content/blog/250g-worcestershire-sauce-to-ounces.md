@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of worcestershire sauce equals approximately 8.82 ounces. This conversion is essential when following air fryer recipes that require precise measurements for perfect results. Whether you're making marinades, glazes, or sauces, knowing how to convert grams to ounces ensures your dish turns out just right.</p>

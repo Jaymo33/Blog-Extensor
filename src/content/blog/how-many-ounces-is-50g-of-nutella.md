@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of Nutella equals approximately 1.76 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when air frying or baking. Whether you're whipping up a dessert or adjusting a recipe, knowing this conversion ensures accuracy. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

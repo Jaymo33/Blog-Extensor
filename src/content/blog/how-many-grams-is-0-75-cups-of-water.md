@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of water equals 177 grams, a crucial measurement for precise cooking and baking in your air fryer. Whether you’re preparing a cake, steamed vegetables, or a savoury sauce, knowing this conversion ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>

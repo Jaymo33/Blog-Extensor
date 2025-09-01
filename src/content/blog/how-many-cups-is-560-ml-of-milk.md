@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of milk is approximately 2.37 cups in the US measurement system and roughly 2.46 cups in the UK system. Knowing this conversion is essential for precision in recipes, especially when using an air fryer where measurements can impact cooking times and textures. Whether you're whipping up a cake or preparing a creamy sauce, getting the milk quantity right ensures consistent results every time.</p>  

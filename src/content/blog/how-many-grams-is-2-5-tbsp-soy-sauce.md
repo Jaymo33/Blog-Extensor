@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of soy sauce equals approximately 37.5 grams. This conversion is essential for air fryer recipes where precise seasoning ensures balanced flavours. Whether you're marinating chicken, glazing salmon, or whipping up a stir-fry, knowing the exact weight helps avoid over-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy for perfect results every time.</p>  

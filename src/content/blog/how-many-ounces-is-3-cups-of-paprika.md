@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of paprika equals approximately 12 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you’re making a spice rub or seasoning a dish, knowing how many ounces are in 3 cups of paprika helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and stress-free. Keep reading for more details on measuring paprika and other handy tips.</p>

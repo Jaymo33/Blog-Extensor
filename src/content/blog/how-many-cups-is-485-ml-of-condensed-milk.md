@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of condensed milk equals approximately 2 cups. This conversion is essential for baking and air fryer recipes where precise measurements matter. Whether you're making fudge, cheesecake, or a creamy sauce, knowing this conversion ensures your dish turns out perfectly every time.</p>  

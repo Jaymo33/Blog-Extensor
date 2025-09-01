@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of water equals approximately 8.82 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you're baking, steaming, or adjusting recipes, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right for perfect results every time.</p>

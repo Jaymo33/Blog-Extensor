@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of wheat flour equals approximately 9 ounces (oz) in weight. This conversion is essential for bakers who rely on precise measurements to achieve perfect textures in cakes, bread, and air fryer recipes. Whether you're using a kitchen scale or measuring cups, knowing this conversion ensures consistency in your baking.</p>  

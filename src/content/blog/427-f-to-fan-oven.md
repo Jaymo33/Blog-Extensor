@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>427 F converts to approximately 220 C in a fan oven. This is the standard conversion used for most air fryer recipes, ensuring your dishes cook evenly and efficiently. Whether you're roasting vegetables or baking chicken, getting the temperature right is crucial for perfect results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of lentils equals approximately 14.1 ounces (400 grams). This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect results.</p>  

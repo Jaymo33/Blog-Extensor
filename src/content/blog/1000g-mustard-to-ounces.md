@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000 grams (g) of mustard equals approximately 35.27 ounces (oz). If you're preparing a recipe for your air fryer and need to convert 1000g of mustard to ounces, this simple conversion ensures accuracy. Whether you're marinating chicken or creating a dipping sauce, knowing the exact weight helps achieve consistent results every time.</p>  

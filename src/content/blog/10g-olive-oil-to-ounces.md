@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of olive oil is approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're drizzling oil over chips or coating chicken wings, knowing the exact amount ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

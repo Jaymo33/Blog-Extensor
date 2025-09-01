@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310°F converts to Gas Mark 2 in UK ovens and air fryers. This moderate temperature works perfectly for slow baking, gentle roasting, and dehydrating foods in your air fryer. Whether you're adapting an oven recipe or fine-tuning your air fryer settings, understanding this conversion ensures consistent cooking results.</p>

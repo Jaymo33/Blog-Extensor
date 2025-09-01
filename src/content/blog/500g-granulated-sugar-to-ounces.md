@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of granulated sugar equals approximately 17.64 ounces. This conversion is essential for anyone baking or cooking with precise measurements, especially when using an air fryer where accuracy can impact texture and cooking times. Whether you're whipping up a cake or caramelising sugar for a dessert, knowing how to convert grams to ounces ensures consistency in your recipes.</p>

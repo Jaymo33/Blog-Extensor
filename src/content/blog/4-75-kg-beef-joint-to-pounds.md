@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 4.75 kg beef joint and need to know its weight in pounds, the conversion is straightforward: 4.75 kilograms equals approximately 10.47 pounds. This conversion is essential for air fryer users who follow recipes or cooking guidelines that use imperial measurements. Knowing the exact weight helps you calculate cooking times accurately, ensuring your beef joint is perfectly cooked through. Whether you're preparing a Sunday roast or a special dinner, getting the weight right is the first step to success. For more handy conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

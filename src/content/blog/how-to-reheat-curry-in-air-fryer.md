@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating curry in an air fryer takes just 3-5 minutes at 160°C, giving it a crispy edge while keeping the centre moist. This method beats microwaving, which often leaves curries soggy or unevenly heated. Whether it’s a creamy korma or a spicy vindaloo, your air fryer can revive leftovers like a pro. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of cottage cheese equals approximately 7.05 ounces. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're meal prepping or whipping up a quick snack, knowing this conversion ensures your dishes turn out just right.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of canned beans equals approximately 2.64 ounces. This measurement is handy when preparing air fryer recipes that require precise quantities for even cooking. Whether you're making a quick snack or a full meal, knowing how to convert cups to ounces ensures your dishes turn out perfectly every time.</p>

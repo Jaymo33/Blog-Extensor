@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>306°F converts to Gas Mark 2. This is a moderately low heat setting, ideal for slow baking or roasting in both ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly, whether you're using a traditional oven or a modern air fryer.</p>

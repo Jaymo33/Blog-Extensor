@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of rolled barley equals approximately 10 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're making breakfast bars or a hearty grain bowl, knowing how to convert cups to ounces is a game-changer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of water equals approximately 1.06 ounces. This conversion is essential for precise measurements in air fryer cooking, where accuracy can make or break a recipe. Whether you're baking a cake or preparing a savoury dish, knowing how to convert 30g of water to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you master these small but crucial details for perfect meals every time.</p>

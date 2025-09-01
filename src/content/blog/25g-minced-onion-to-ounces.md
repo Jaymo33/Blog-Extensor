@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of minced onion equals approximately 0.88 ounces. This conversion is essential for UK cooks using air fryer recipes that require precise measurements. Whether you're following a British recipe or adapting an international dish, getting your minced onion quantities right makes all the difference in flavour.</p>

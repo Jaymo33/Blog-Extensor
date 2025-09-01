@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of rolled oats equals approximately 4.5 cups when measured using standard UK or US cup measurements. This conversion is essential for air frying and baking, ensuring your recipes turn out just right. Whether you're making granola, oat bars, or using oats as a coating, accurate measurements matter.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of caster sugar weighs approximately 12.5 grams in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're converting recipes or need precise sugar quantities, knowing this conversion ensures consistent results every time.</p>  

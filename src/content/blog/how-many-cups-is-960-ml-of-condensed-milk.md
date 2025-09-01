@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of condensed milk is equivalent to approximately 4 cups. This conversion is essential for baking and air fryer recipes, ensuring accuracy for perfect results every time. Whether you're making fudge, cheesecake, or a creamy dessert in your air fryer, knowing this measurement helps streamline your cooking process.</p>  

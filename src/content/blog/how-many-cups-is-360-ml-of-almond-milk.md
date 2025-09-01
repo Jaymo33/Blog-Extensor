@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of almond milk equals approximately 1.52 cups. This conversion is essential for anyone using almond milk in recipes, especially when baking or cooking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing the exact measurement ensures perfect results every time.</p>

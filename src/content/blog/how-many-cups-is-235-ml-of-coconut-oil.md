@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of coconut oil is roughly equivalent to 1 cup. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results every time. Whether you’re baking, frying, or roasting, knowing how to convert millilitres to cups can save you from kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with coconut oil, which can affect texture and flavour.</p>  

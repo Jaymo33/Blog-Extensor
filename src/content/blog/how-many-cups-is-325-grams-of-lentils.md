@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of lentils equals approximately 1.6 cups in the UK and 1.5 cups in the US. Whether you're prepping a hearty lentil stew or a crispy air-fried snack, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for air fryer cooking. Let’s dive into the details of converting 325 grams of lentils to cups and how to use them in your favourite recipes.</p>  

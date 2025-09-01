@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 fan oven converts to approximately 215°C in a conventional oven. This conversion is essential for baking, roasting, and even air frying, ensuring your recipes turn out perfectly every time. Whether you're using a fan-assisted oven or a traditional one, understanding this conversion can make a world of difference in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of honey is roughly 0.78 cups, making it just under 3/4 of a standard US cup. This conversion is essential for air fryer recipes where precise measurements can affect texture and taste. Whether you're whipping up a glaze or sweetening a marinade, knowing how many cups 185 ml of honey equals ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

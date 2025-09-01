@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of vegetable oil equals approximately 1 cup (or 0.99 cups to be precise). Whether you're using an air fryer or baking, accurate measurements ensure your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial conversions like these are for hassle-free cooking.</p>  

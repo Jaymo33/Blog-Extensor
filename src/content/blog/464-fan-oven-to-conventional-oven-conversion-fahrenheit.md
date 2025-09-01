@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>464°F in a fan oven converts to approximately 428°F in a conventional oven. This 36°F difference accounts for the more efficient heat distribution in fan-assisted ovens. When using an air fryer, which operates similarly to a fan oven, you'll typically need to reduce temperatures by about 20°C (36°F) from conventional oven settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions for perfect results.</p>

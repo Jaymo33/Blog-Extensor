@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of maple syrup equals approximately 60 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're glazing salmon, sweetening desserts, or adding a touch of richness to breakfast dishes, knowing the exact weight helps avoid inconsistencies. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking. Keep reading to learn why this conversion matters and how to use it effectively.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of water equals 473 ml. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're baking, steaming, or preparing sauces, knowing the exact ml equivalent of 2.0 cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

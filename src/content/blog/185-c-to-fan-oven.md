@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 C in a fan oven is equivalent to approximately 165 C with the fan setting. This reduction accounts for the fan's efficient heat distribution, ensuring even cooking without over-browning. When using an air fryer, which operates similarly to a fan oven, you'll often find recipes calling for this precise temperature adjustment.</p>

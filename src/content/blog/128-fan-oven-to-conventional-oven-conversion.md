@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>128 fan oven equals approximately 150°C in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens. When using an air fryer, which works similarly to a fan oven, you might need to adjust temperatures further. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these kitchen conversions with ease.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of double cream equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you're whipping up a creamy sauce or baking a rich dessert, knowing how to convert grams to ounces is a game-changer for your kitchen.</p>  

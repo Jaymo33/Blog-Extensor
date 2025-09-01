@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of lemon juice equals 20 fluid ounces (or approximately 20 oz). Whether you’re preparing a zesty marinade or a tangy dessert in your air fryer, knowing this conversion ensures your recipe turns out perfectly every time.</p>  

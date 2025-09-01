@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425°F converts to Gas Mark 7, the ideal setting for roasting meats, baking, and air frying crispy dishes. Whether you're using an oven or an air fryer, this temperature delivers perfect browning and even cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master temperature conversions for foolproof results.</p>

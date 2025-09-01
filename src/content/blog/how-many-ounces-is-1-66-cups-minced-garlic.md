@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of minced garlic equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're preparing garlic-infused dishes or following a specific recipe, knowing this conversion helps avoid guesswork.</p>  

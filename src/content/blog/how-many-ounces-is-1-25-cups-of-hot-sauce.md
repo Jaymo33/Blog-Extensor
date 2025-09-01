@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of hot sauce equals 10 fluid ounces (or approximately 10 oz by weight for most hot sauces). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken wings or adding a kick to your air-fried veggies, knowing this conversion ensures consistency.</p>  

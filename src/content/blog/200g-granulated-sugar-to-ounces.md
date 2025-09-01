@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of granulated sugar equals approximately 7.05 ounces. This conversion is essential for baking, especially when using an air fryer where precise measurements can make or break your recipe. Whether you’re whipping up cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

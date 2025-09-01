@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of cocoa powder equals approximately 0.18 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re making chocolate cakes, brownies, or dusting desserts, knowing how to convert 5g cocoa powder to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious treats.</p>

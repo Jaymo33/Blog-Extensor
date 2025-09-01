@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of treacle equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking sticky toffee pudding or glazing meats, knowing the exact weight ensures consistent results. Treacle, a thick syrup popular in British baking, adds rich flavour but must be measured accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these details for perfect dishes every time.</p>  

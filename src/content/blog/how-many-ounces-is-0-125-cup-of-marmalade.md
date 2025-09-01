@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of marmalade equals approximately 1 ounce (1 oz). This conversion is essential for air fryer recipes where precise measurements ensure the perfect glaze or topping. Whether you're making a sticky marinade or a sweet drizzle, knowing how many ounces are in 0.125 cup of marmalade helps avoid guesswork.</p>  

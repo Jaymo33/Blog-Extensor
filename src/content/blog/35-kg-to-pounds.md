@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 kg equals approximately 77.16 pounds, which is essential knowledge for anyone using an air fryer to prepare properly portioned meals. Understanding weight conversions helps you follow recipes accurately, especially when dealing with larger quantities of ingredients. Whether you're cooking for a family gathering or meal prepping for the week, converting 35 kg to pounds ensures you get the right amount of food for your air fryer basket. Many air fryer recipes from trusted sources like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use imperial measurements, making this conversion particularly valuable. Getting your measurements spot-on means better cooking results and perfectly cooked food every time.</p>

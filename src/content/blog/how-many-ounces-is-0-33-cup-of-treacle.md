@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of treacle equals approximately 2.93 ounces (oz) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer where ingredient ratios matter. Treacle, a thick, sticky syrup, can be tricky to measure, but getting it right ensures your recipes turn out perfectly every time.</p>

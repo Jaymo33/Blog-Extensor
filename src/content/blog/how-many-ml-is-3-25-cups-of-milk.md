@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of milk equals approximately 768.91 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're whipping up a cake or preparing a creamy sauce, knowing how to convert cups to millilitres ensures consistency and delicious results every time.</p>

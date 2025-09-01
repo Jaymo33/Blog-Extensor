@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of pineapple juice equals 24 fluid ounces (or 24 oz). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're marinating chicken or creating a glaze, knowing the exact ounces in 3 cups of pineapple juice ensures your dish turns out perfectly.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of icing sugar is approximately 17.64 ounces. Whether you're baking a cake, making frosting, or preparing a sweet treat in your air fryer, accurate measurements are crucial for perfect results. Understanding how to convert grams to ounces ensures your recipes turn out just right every time.</p>  

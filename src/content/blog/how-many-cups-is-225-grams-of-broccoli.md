@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of broccoli equals approximately 2.5 cups when chopped. This conversion is essential for air fryer recipes where precise measurements can make all the difference in cooking times and results. Whether you're making roasted broccoli or adding it to an air fryer stir fry, knowing this measurement helps ensure consistent outcomes every time.</p>

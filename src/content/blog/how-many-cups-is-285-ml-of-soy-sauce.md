@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of soy sauce is approximately 1.2 cups, making it easy to measure for air fryer recipes. Whether you're marinating chicken, preparing a stir-fry, or adding flavour to tofu, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking measurements so your dishes turn out perfect every time.</p>  

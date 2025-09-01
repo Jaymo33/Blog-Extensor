@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of single cream equals approximately 20 fluid ounces (or 20 oz) in UK measurements. This conversion is essential for air fryer recipes that require precise liquid measurements, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert cups to ounces is a game-changer.</p>

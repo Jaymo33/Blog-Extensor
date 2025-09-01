@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of rolled oats equals approximately 18.75 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you're making granola, oat bars, or adding oats to baked goods, knowing the exact weight helps avoid over or under-measuring. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for perfect cooking.</p>

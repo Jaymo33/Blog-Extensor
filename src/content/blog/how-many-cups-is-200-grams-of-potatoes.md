@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of potatoes equals roughly 1.25 cups when diced or sliced, but this can vary slightly based on potato type and cut size. Whether you're prepping for crispy air fryer roasties or a hearty potato bake, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting grams to cups for UK and US recipes.</p>  

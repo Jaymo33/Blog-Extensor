@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of gelatin powder equals approximately 10 ounces (oz). This conversion is essential for air fryer recipes that require precise measurements to achieve the perfect texture. Whether you're making jelly, mousses, or gummy sweets, knowing the exact weight ensures consistent results every time.</p>

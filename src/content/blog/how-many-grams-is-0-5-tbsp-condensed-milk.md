@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of condensed milk weighs approximately 9 grams in the UK. This measurement is essential for precise baking and cooking, especially when using an air fryer where accuracy impacts texture and consistency. Whether you’re making cakes, desserts, or glazes, knowing the exact gram equivalent of 0.5 tbsp condensed milk ensures perfect results every time. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

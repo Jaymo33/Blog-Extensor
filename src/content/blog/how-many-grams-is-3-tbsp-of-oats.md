@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of oats weigh approximately 24 grams. This conversion is essential for air fryer recipes where precision matters, especially when baking oat-based goods or creating breakfast dishes. Whether you're making granola, oat bars, or coating chicken with oat crumbs, knowing this measurement ensures consistent results every time.</p>

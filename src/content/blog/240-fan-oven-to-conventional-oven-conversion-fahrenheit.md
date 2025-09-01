@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>240 fan oven converts to approximately 220°C or 425°F in a conventional oven. This conversion is essential when adapting recipes between fan-assisted and traditional ovens, especially when using an air fryer which often follows fan oven principles. Understanding these temperature differences ensures your dishes cook perfectly every time.</p>

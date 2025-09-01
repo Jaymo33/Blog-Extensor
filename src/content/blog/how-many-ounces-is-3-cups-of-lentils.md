@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of lentils equal approximately 21 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're cooking a hearty lentil stew or crispy air-fried lentil snacks, knowing the exact weight ensures perfect results every time.</p>

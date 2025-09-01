@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of mozzarella cheese is roughly equivalent to 4 cups when shredded or grated. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making a gooey pizza or a crispy cheese snack, knowing how many cups is 400 grams of mozzarella cheese ensures perfect results every time.</p>

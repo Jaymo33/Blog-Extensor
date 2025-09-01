@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of half and half equals approximately 2.57 cups. This conversion is essential for baking, cooking, or preparing creamy dishes in your air fryer. Whether you're making a rich sauce or a decadent dessert, knowing how to measure 610 ml of half and half in cups ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless results every time.</p>

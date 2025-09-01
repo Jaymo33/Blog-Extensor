@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of wholemeal flour equals approximately 5.29 ounces. This conversion is essential for anyone using an air fryer to bake, ensuring precise measurements for consistent results. Whether you’re making bread, cakes, or muffins, getting the flour weight right is key to perfect texture and rise. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accuracy is for air fryer recipes, so let’s break it down.</p>  

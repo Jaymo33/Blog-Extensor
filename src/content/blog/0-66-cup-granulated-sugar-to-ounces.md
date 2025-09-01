@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of granulated sugar equals approximately 5.28 ounces (oz). This conversion is essential for precise baking, especially when using an air fryer where measurements can impact cooking times and textures. Whether you're making cakes, cookies, or desserts, knowing the exact weight ensures consistent results.</p>  

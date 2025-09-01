@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of vinegar equals approximately 177 ml, making it easy to measure for your air fryer recipes. Whether you’re whipping up a tangy marinade or adding a splash to your baking, knowing this conversion ensures precision. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you get the measurements spot on for perfect results every time.</p>

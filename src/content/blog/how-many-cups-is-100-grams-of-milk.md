@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of milk equals approximately 0.42 cups in the UK or 0.4 cups in the US. This conversion is essential for air fryer recipes where precision matters. Whether you're making cakes, sauces, or batters, knowing how to measure 100 grams of milk in cups ensures consistent results every time.</p>

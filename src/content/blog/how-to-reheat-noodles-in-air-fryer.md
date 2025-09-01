@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat noodles in an air fryer, preheat to 160°C and cook for 3-5 minutes, tossing halfway. This method works brilliantly for leftover takeaway noodles, homemade stir-fries, or even refrigerated pasta dishes. The circulating hot air revives their texture far better than microwaving.</p>

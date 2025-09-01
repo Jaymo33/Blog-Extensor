@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you own a 3 quart air fryer, the correct liner size is typically 6.5 to 7 inches in diameter for round liners or 7x7 inches for square liners. Using the right liner ensures even cooking, prevents sticking, and makes cleanup a breeze. Whether you prefer parchment paper, silicone, or reusable liners, getting the dimensions right is key to hassle-free air frying.</p>  

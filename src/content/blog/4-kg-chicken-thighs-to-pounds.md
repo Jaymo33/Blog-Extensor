@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 kg of chicken thighs equals approximately 8.82 pounds, making it essential knowledge for anyone cooking with an air fryer. Whether you're following a British recipe using metric measurements or an American one using imperial, getting this conversion right ensures your cooking times and temperatures work perfectly. This is particularly important for air fryer cooking, where precise quantities affect how evenly your food cooks. Understanding how to convert 4 kg chicken thighs to pounds means you can confidently tackle any recipe. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

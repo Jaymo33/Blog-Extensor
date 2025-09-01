@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of butter equals approximately 8.82 ounces. Whether you're preparing a delicious air fryer recipe or baking a cake, knowing how to convert grams to ounces ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with butter in air fryer recipes.</p>  

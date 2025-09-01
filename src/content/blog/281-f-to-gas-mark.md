@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>281°F converts to Gas Mark 1 in UK ovens. This temperature is commonly used for slow cooking, keeping food warm, or gentle baking. When using an air fryer, you might need to adjust cooking times as air fryers cook faster than conventional ovens at the same temperature. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your food earlier than the recipe suggests when converting from Gas Mark to air fryer settings.</p>

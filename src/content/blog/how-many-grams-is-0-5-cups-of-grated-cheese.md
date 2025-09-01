@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of grated cheese equals approximately 56 grams, making it easy to measure for air fryer recipes. Whether you’re whipping up a cheesy dish or prepping ingredients, this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements are key to perfect results.</p>

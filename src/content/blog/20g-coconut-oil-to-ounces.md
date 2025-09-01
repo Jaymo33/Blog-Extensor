@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of coconut oil equals approximately 0.71 ounces. This conversion is essential for air fryer cooking where precise measurements can make all the difference to your recipes. Whether you're making crispy roast potatoes or delicious air-fried chicken, knowing exactly how much coconut oil to use ensures perfect results every time.</p>

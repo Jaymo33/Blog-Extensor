@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>84 fan oven converts to approximately 160°C in a conventional oven. This conversion is essential for baking and roasting, especially when using appliances like air fryers that often require precise temperature adjustments. Understanding this conversion ensures your recipes turn out perfectly every time.</p>

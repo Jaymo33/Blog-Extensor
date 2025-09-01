@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of butter equals approximately 14 grams in the UK. This measurement is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking, frying, or making sauces, knowing the exact weight of butter can make all the difference.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of sliced mushrooms weighs approximately 1.5 ounces (42 grams). This measurement is crucial for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making stuffed mushrooms or adding them to a stir-fry, knowing this conversion helps you nail the recipe every time.</p>

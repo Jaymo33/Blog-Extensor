@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of chia seeds weighs approximately 4.5 ounces (128 grams). This measurement is essential for air fryer recipes, ensuring accuracy for baking, coatings, or meal prep. Whether you're making chia pudding or adding a crunchy topping, knowing the weight helps achieve consistent results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of beef stock equals approximately 3.2 cups. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're making a rich gravy or a hearty stew, knowing how to convert 760 ml of beef stock to cups ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with liquids like beef stock. Let’s dive deeper into how this conversion works and why it matters for your cooking.</p>

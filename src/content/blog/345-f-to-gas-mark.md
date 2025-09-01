@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>345 F converts to Gas Mark 4 in UK ovens and air fryers. This medium heat setting is perfect for baking cookies, roasting vegetables, or cooking poultry in your air fryer. Whether you're following an American recipe or adjusting your favourite dishes, knowing this conversion ensures consistent results every time.</p>

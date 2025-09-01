@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460°F converts to approximately 240°C in a fan oven. This high-temperature setting is ideal for achieving crispy textures in air fryers and convection ovens. At airfryerrecipe.co.uk, we specialise in helping you master these conversions for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.9 kg is equal to approximately 6.393 pounds, a conversion that is incredibly useful for anyone using an air fryer with recipes that specify weights in imperial measurements. Whether you're preparing ingredients from a British cookbook or following an international recipe, knowing how to convert 2.9 kg to pounds ensures you use the correct amount of food for optimal cooking. This is particularly important for air fryers, as overcrowding or underfilling the basket can drastically affect cooking times and results. Getting your measurements right from the start leads to perfectly crispy, evenly cooked meals every single time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

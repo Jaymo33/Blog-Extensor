@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of yeast equals approximately 10 ounces. This conversion is essential for bakers who need precise measurements to ensure their dough rises perfectly. Whether you're making bread, pizza, or even air fryer-friendly doughnuts, knowing how to convert cups to ounces can make all the difference. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when using an air fryer for baking.</p>

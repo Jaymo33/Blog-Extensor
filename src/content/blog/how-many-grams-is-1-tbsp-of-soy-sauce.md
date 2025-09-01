@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of soy sauce weighs approximately 15 grams. This measurement is essential for precision in cooking, especially when using an air fryer, where ingredient ratios can affect texture and flavour. Whether you're marinating chicken, seasoning tofu, or preparing a stir-fry, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

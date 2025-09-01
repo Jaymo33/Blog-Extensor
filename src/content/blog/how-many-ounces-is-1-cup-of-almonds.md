@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of almonds equals approximately 5.3 ounces (150 grams). This measurement is key for air fryer recipes, ensuring consistent results every time. Whether you're roasting almonds or using them in dishes, knowing this conversion helps avoid guesswork.</p>  

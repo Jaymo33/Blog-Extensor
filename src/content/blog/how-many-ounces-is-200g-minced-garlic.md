@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of minced garlic equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're whipping up garlic-infused dishes or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion saves time and avoids kitchen mishaps.</p>  

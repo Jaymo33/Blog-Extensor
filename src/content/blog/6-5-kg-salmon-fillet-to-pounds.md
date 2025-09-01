@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 6.5 kg salmon fillet and need to know its weight in pounds, the answer is straightforward: 6.5 kilograms is equal to approximately 14.33 pounds. This conversion is essential for anyone cooking a large piece of fish, especially when using an air fryer where precise weight impacts cooking time and temperature. Whether you're following a recipe from the United States or simply prefer imperial measurements, knowing how to convert 6.5 kg salmon fillet to pounds ensures your dish turns out perfectly. At airfryerrecipe.co.uk, we understand the importance of accurate measurements for consistent results. This guide will help you convert, portion, and cook your salmon with confidence.</p>

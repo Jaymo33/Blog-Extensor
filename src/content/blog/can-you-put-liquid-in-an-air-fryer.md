@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put loose liquid directly into an air fryer basket. The rapid air circulation can cause splattering, uneven cooking, and even electrical hazards. While small amounts of liquid in heatproof containers might work, most air fryer manufacturers explicitly warn against pouring liquids directly into the appliance.</p>

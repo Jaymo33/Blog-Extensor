@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of buttermilk is approximately 3.84 cups. This conversion is essential for anyone using recipes that call for buttermilk, especially when preparing dishes in an air fryer. Whether you're baking fluffy pancakes or marinating chicken, knowing the exact measurement ensures your dish turns out perfectly every time.</p>

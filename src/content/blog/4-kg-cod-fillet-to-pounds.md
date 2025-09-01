@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 4 kg cod fillet to pounds is a straightforward process: 4 kilograms equals approximately 8.82 pounds. This conversion is essential for anyone using an air fryer, as accurate measurements ensure even cooking and perfect results. Whether you're following a specific recipe or adjusting portion sizes, knowing the weight in pounds helps you set the correct temperature and timing. Many air fryer recipes, especially those on resources like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, use imperial measurements, so this knowledge is incredibly useful. Understanding this conversion can make your cooking experience more efficient and enjoyable.</p>

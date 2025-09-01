@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 F converts to approximately 150 C in a fan oven. This is the standard equivalent for most recipes, though slight adjustments may be needed depending on your specific appliance. When using an air fryer, which works similarly to a convection oven, this conversion ensures your dishes cook evenly and thoroughly.</p>

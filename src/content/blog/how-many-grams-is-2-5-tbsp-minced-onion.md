@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of minced onion equals approximately 20 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dish, knowing how to convert tablespoons to grams ensures consistent flavour every time.</p>

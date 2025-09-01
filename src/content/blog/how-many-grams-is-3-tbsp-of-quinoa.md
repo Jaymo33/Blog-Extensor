@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of quinoa weigh approximately 30 grams (g). This conversion is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. Whether you're meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, knowing this measurement ensures consistency.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of olive oil equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes, where precise measurements can affect cooking times and results. Whether you're preparing crispy vegetables or marinating chicken, knowing how many ounces are in 2 cups of olive oil ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect dishes every time.</p>  

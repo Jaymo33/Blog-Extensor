@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of yogurt is roughly 0.85 cups in standard US measurements, or just under 1 cup in UK metric conversions. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake, marinade, or dip, knowing how many cups 200 grams of yogurt equals ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of chilli sauce equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision matters. Whether you’re whipping up a spicy marinade or adding a kick to your dishes, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>

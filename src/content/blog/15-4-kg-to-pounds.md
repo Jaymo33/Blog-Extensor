@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15.4 kg is equal to approximately 33.95 pounds, a conversion that becomes essential when working with larger cuts of meat or bulk ingredients for your air fryer. Whether you're preparing a big family feast or meal prepping for the week, getting your measurements right from the start ensures everything cooks evenly and comes out perfectly. Many fantastic recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide weights in kilograms, so knowing how to convert them is a fundamental kitchen skill. This conversion is particularly useful for those larger Sunday roasts or when buying in bulk from the butcher. Understanding 15.4 kg to pounds helps you follow international recipes with confidence and precision.</p>

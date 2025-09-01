@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of vinegar equals approximately 3.3 cups (using the standard US cup measurement of 240 ml per cup). Whether you're marinating chicken, pickling vegetables, or whipping up a tangy sauce for your air fryer recipes, knowing this conversion ensures accuracy in your cooking.</p>  

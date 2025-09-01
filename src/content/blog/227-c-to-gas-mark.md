@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>227°C converts to Gas Mark 8 in standard UK ovens. This high temperature is perfect for baking, roasting, and achieving crispy results in both conventional ovens and air fryers. Whether you're following a recipe that uses Celsius or Gas Mark, knowing this conversion ensures your dishes cook perfectly every time.</p>

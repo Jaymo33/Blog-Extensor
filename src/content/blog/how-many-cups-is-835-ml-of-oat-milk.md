@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of oat milk is approximately 3.5 cups in the UK or 3.52 cups in the US. If you're using an air fryer for recipes, precise measurements ensure perfect results every time. Whether you're whipping up a cake or a creamy sauce, knowing how to convert millilitres to cups is essential.</p>  

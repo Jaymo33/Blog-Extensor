@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of rice equals approximately 0.88 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you're meal prepping or cooking a quick side, knowing how to convert grams to ounces ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

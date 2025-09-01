@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of icing sugar equals approximately 1.6 cups in the UK or 1.5 cups in the US. This conversion is essential for bakers who rely on precise measurements for perfect results, especially when using an air fryer for cakes or desserts. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adapting a traditional bake, knowing how to convert grams to cups ensures consistency.</p>

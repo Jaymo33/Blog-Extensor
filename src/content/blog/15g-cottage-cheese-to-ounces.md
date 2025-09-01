@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of cottage cheese equals approximately 0.53 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a healthy breakfast or adding cottage cheese to a dish, knowing the exact weight ensures perfect results every time.</p>  

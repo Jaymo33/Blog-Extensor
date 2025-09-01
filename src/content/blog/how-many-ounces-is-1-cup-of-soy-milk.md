@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of soy milk equals approximately 8.45 ounces (240 ml). This measurement is key for air fryer recipes, ensuring consistency in texture and flavour. Whether you're making dairy-free pancakes or a creamy dip, knowing this conversion helps avoid kitchen mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of potatoes weigh approximately 450 grams, making it easy to measure for air fryer recipes. This conversion ensures precision whether you’re roasting, baking, or frying potatoes to crispy perfection. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements are key to delicious results.</p>  

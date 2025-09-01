@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of rolled barley equals approximately 6 ounces (170 grams). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're meal prepping or trying a new dish, knowing this conversion helps avoid under or over-measuring.</p>  

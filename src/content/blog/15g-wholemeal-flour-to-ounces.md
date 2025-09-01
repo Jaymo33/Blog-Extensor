@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of wholemeal flour equals approximately 0.53 ounces. This conversion is crucial for bakers using air fryers, where precise measurements can make or break a recipe. Whether you’re making air fryer bread, muffins, or pancakes, knowing how to convert grams to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with wholemeal flour, which has a slightly different density than plain flour.</p>

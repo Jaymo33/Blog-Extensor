@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of soy milk is approximately 60 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a cake, marinating tofu, or creating a creamy sauce, knowing the exact weight ensures consistency.</p>  

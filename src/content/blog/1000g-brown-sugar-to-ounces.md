@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of brown sugar is equal to approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect baking results every time. Whether you're whipping up cookies, cakes, or even savoury dishes, getting the sugar quantity right makes all the difference.</p>  

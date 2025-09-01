@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of onion equals approximately 5.29 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re preparing a hearty stew or crispy onion rings, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with ingredients like onions that can vary in density.</p>

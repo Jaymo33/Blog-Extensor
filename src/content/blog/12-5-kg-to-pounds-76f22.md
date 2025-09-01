@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>12.5 kg is equal to approximately 27.5578 pounds, a conversion that comes in handy when preparing ingredients for your air fryer. Many recipes, especially those from American sources or older cookbooks, use pounds rather than kilograms, so knowing how to switch between the two is a useful kitchen skill. Whether you're portioning chicken breasts, weighing potatoes for roasting, or dividing a large batch of frozen chips, this conversion ensures you use the right amount for even cooking. Getting your quantities spot-on helps you avoid overloading your air fryer basket, which can lead to uneven results and longer cooking times. For more handy conversion tips, check out the full guide at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

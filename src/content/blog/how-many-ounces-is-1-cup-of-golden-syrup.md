@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of golden syrup equals approximately 11.5 ounces (or 11.5 oz) in the UK. This measurement is crucial for air fryer recipes where precision matters. Golden syrup, a staple in British baking, has a thick, sticky consistency that requires accurate measuring for best results.</p>

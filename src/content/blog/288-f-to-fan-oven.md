@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>288 F converts to approximately 140 C in a fan oven. This conversion is essential when adapting recipes between conventional ovens and modern fan-assisted appliances, especially when using an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these temperature conversions for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of apple cider vinegar equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements matter. Whether you're whipping up a marinade or a tangy glaze, knowing how many cups 60 ml of apple cider vinegar is will ensure your dish turns out perfectly every time.</p>

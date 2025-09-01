@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of honey is approximately 1.94 cups in the US measurement system and 1.62 cups in the UK measurement system. Whether you're baking or cooking in your air fryer, getting the right measurement is crucial for perfect results. Honey's thick consistency can make measuring tricky, but this guide will help you nail it every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of flaxseed equals approximately 1 ounce (28 grams). This measurement is crucial for air fryer recipes, where precision can make or break your dish. Whether you're baking flaxseed crackers or adding it to your morning smoothie, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accurate measurements for perfect results every time. Flaxseed is a versatile ingredient, and getting the right amount can elevate your cooking.</p>

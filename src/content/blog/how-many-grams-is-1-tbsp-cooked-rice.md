@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of cooked rice weighs approximately 12 grams. This measurement is essential for precise portion control, especially when preparing meals in your air fryer. Whether you're meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, knowing this conversion helps maintain consistency.</p>

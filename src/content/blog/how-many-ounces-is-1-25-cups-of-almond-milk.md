@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of almond milk equals approximately 10 fluid ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you're making a dairy-free cake or a creamy sauce, knowing how to convert cups to ounces helps avoid kitchen mishaps.</p>  

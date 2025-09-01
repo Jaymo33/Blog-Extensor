@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of raisins equals approximately 7.5 ounces (or 210 grams). This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and taste. Whether you're making raisin-studded muffins or a savoury tagine, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you nail these measurements for flawless cooking every time.</p>

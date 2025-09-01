@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of cream cheese equals approximately 42 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent texture and flavour. Whether you're whipping up a cheesecake or adding cream cheese to a savoury dish, knowing the exact weight helps avoid guesswork.</p>  

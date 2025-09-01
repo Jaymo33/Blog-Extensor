@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of water equals approximately 3.2 US cups or 3.3 UK cups. This conversion is essential for air fryer recipes, where precise liquid measurements can make or break your dish. Whether you're making sauces, batters, or simply hydrating ingredients, knowing how to convert 760 ml of water to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you master kitchen conversions for flawless results every time.</p>  

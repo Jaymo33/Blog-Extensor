@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of cream is approximately 2.65 ounces. This conversion is essential for anyone using recipes that require precise measurements, especially when working with air fryers. Whether you're making a creamy sauce or a dessert, knowing how to convert grams to ounces ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide easy-to-follow guides to help you master kitchen conversions like this one.</p>

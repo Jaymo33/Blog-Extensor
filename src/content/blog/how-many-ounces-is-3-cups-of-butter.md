@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of butter equals 24 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking cookies or preparing a savoury dish, knowing how many ounces are in 3 cups of butter ensures your recipe turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

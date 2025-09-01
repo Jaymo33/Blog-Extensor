@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of apple cider vinegar equals approximately 1.73 cups. This conversion is essential for recipes that require precise measurements, especially in baking or air frying. Whether you're making dressings, marinades, or sauces, knowing how to convert millilitres to cups ensures your dish turns out perfectly. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

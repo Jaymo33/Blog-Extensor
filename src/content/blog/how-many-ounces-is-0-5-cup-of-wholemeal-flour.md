@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of wholemeal flour equals approximately 2.5 ounces (70 grams) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer for recipes like bread or muffins. Whether you're whipping up a quick loaf or adjusting a family favourite, knowing the exact weight ensures consistent results every time.</p>  

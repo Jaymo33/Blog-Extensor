@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of cooked rice weighs approximately 60 grams. This conversion is essential for precise air fryer cooking, ensuring consistent results every time. Whether you’re meal prepping or following a recipe, knowing this measurement helps avoid guesswork. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

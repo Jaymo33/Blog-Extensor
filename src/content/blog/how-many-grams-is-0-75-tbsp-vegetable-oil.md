@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of vegetable oil equals approximately 10.5 grams. This conversion is essential for air fryer cooking, where precision can make all the difference in texture and taste. Whether you’re whipping up crispy chips or a succulent chicken dish, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you master your air fryer with accurate measurements and delicious recipes.</p>

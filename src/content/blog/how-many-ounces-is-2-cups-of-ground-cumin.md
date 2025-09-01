@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of ground cumin equals approximately 5.3 ounces (150 grams) in UK measurements. This conversion is essential for air fryer recipes where precise spice measurements can make or break a dish. Whether you're preparing a fragrant curry or spicing up roasted vegetables, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

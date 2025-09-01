@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of rapeseed oil equals approximately 20 fluid ounces (or 19.7 oz to be precise). This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re frying, baking, or roasting, knowing how to convert 2.5 cups of rapeseed oil to ounces ensures consistent results. Rapeseed oil, a popular choice for air fryers due to its high smoke point, is often measured in cups, but many recipes—especially those from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>—may list ingredients in ounces. Let’s break down the details to make your cooking seamless.</p>

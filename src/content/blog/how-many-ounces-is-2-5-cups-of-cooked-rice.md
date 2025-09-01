@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of cooked rice equals approximately 20 ounces (oz). This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you’re meal prepping or scaling recipes, knowing how many ounces are in 2.5 cups of cooked rice ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals.</p>  

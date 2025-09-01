@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>258°C in a fan oven is equivalent to approximately 230°C when using the convection setting. This adjustment accounts for the efficient heat distribution of fan-assisted cooking, which is similar to how an air fryer operates. Whether you're baking, roasting, or air frying, understanding this conversion ensures your dishes come out perfectly cooked every time.</p>

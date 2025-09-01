@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of corn syrup is approximately 1.2 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you’re whipping up a dessert or a glaze, knowing how many cups 285 ml of corn syrup equals ensures consistency and perfect results every time.</p>

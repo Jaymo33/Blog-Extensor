@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of self-raising flour equals approximately 1.92 cups in the UK and 2 cups in the US. This conversion is essential for bakers who want to achieve consistent results in their air fryer recipes. Whether you're whipping up scones, cakes, or bread, getting the flour measurement right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters when adapting traditional recipes for air fryers.</p>

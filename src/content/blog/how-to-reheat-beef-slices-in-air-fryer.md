@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat beef slices in an air fryer, set the temperature to 160°C and cook for 3-4 minutes, flipping halfway. This gentle heat revives leftovers without overcooking, keeping your beef juicy while adding a light crispness to the edges.</p>

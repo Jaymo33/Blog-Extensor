@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of mayonnaise is approximately 0.53 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a quick sauce or adjusting a dish, knowing this conversion ensures accuracy.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of quinoa weighs approximately 2.64 ounces (75 grams). This measurement is essential for air fryer recipes, ensuring you get the perfect portion every time. Whether you're meal prepping or cooking a quick side dish, knowing this conversion helps maintain consistency.</p>

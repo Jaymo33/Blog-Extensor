@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>387°F converts to Gas Mark 5, which is the standard setting for many baking recipes in both conventional ovens and air fryers. This temperature is ideal for achieving perfectly cooked goods without burning or undercooking. Whether you're using an air fryer or traditional oven, understanding this conversion ensures your dishes turn out just right every time.</p>

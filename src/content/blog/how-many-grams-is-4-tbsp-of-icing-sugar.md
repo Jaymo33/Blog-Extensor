@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of icing sugar equals approximately 30 grams (g). This conversion is essential for precise baking, especially when using an air fryer, where measurements can make or break a recipe. Whether you’re whipping up a cake or dusting desserts, knowing the exact weight ensures consistency. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

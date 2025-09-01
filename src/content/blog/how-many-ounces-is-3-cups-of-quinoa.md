@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of quinoa equals approximately 24 ounces (680 grams). This conversion is essential for air fryer recipes, ensuring precise portions and perfect results every time. Whether you're meal prepping or cooking a quick quinoa dish, knowing the exact weight helps avoid under or over-seasoning.</p>

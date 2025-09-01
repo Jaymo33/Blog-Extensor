@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of cream cheese equals approximately 0.53 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a dish. Whether you’re whipping up a cheesecake or adding cream cheese to a savoury air fryer recipe, knowing this conversion ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of treacle equals approximately 35.27 ounces. This conversion is essential for bakers and home cooks who use air fryers, as precise measurements can make or break a recipe. Whether you're whipping up a sticky toffee pudding or a treacle tart in your air fryer, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking simpler, so let’s break this down further.</p>  

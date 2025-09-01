@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of harissa paste equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a spicy marinade or adding a kick to roasted vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into how to measure harissa paste accurately.</p>

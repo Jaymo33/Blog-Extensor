@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of condensed milk equals approximately 0.88 ounces. This conversion is essential for air fryer recipes, especially when precision matters for baking or dessert-making. Whether you’re whipping up a cake or a creamy topping, knowing the exact weight ensures perfect results every time.</p>  

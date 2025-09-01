@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of Nutella equals approximately 10.6 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking a decadent chocolate cake or making Nutella-stuffed pastries in your air fryer, knowing the exact weight ensures perfect results every time.</p>

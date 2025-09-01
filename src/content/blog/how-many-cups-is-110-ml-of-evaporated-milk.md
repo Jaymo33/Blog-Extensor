@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of evaporated milk is approximately 0.46 cups (just under half a cup). This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you’re whipping up a creamy dessert or a savoury dish, knowing how to measure evaporated milk accurately can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide reliable conversions to help you nail every recipe.</p>  

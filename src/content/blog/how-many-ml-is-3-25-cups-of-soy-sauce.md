@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of soy sauce equals approximately 768.91 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you're whipping up a marinade or seasoning a stir-fry, knowing how many ml is 3.25 cups of soy sauce ensures your flavours are spot-on.</p>

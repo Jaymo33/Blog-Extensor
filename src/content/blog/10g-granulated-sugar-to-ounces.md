@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of granulated sugar equals approximately 0.35 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're whipping up a cake or adjusting a recipe, knowing how to convert 10g of granulated sugar to ounces ensures consistent results.</p>

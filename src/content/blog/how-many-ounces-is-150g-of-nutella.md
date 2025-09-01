@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of Nutella equals approximately 5.29 ounces. This conversion is essential for anyone using air fryer recipes or baking, where precise measurements matter. Whether you're whipping up a dessert or adjusting a recipe, knowing how to convert grams to ounces ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>326°F converts to Gas Mark 3 in UK ovens and air fryers. This moderate temperature is perfect for baking cookies, roasting vegetables, or cooking delicate proteins in your air fryer. Understanding this conversion helps when following recipes designed for conventional ovens.</p>

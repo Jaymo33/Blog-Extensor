@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>198°C converts to Gas Mark 6 in UK ovens and air fryers. This medium-high temperature is perfect for baking cakes, roasting vegetables, or cooking poultry in your air fryer. Whether you're following a recipe from airfryerrecipe.co.uk or adapting traditional oven instructions, knowing this conversion ensures perfect results every time.</p>

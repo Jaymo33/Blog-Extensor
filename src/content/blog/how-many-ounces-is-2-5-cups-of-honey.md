@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of honey equals approximately 30 ounces (oz). This conversion is essential for air fryer recipes, baking, or meal prep where precision matters. Honey’s thick consistency means volume-to-weight conversions can vary slightly, but 2.5 cups reliably translates to 30 oz in both UK and US measurements.</p>

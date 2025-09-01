@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of honey equals approximately 0.53 cups (or just over half a cup) when measured for air fryer recipes. This conversion is essential for getting your sweet dishes just right, whether you're baking honey-glazed salmon or whipping up air fryer desserts. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters when working with sticky ingredients like honey.</p>

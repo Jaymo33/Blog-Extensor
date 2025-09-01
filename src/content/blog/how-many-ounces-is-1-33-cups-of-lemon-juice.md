@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of lemon juice equals approximately 10.64 ounces (UK). Whether you're whipping up a zesty marinade or a tangy glaze for your air fryer dishes, getting the measurements right is crucial for perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>207 C converts to approximately 190 C in a fan oven. This 17-degree reduction is standard for convection cooking, where circulating hot air cooks food more efficiently. Whether you're baking a Victoria sponge or roasting root vegetables, this conversion ensures even results without burnt edges.</p>

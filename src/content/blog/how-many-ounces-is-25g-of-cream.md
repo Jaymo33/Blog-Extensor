@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of cream is approximately 0.88 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a dessert or adding cream to a savoury dish, knowing this conversion ensures accuracy.</p>

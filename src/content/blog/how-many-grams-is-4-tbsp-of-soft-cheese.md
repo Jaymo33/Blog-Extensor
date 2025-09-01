@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of soft cheese equals approximately 60 grams (g). This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're making a creamy dip, a rich sauce, or a cheesy topping, knowing the exact weight helps avoid over- or under-measuring. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

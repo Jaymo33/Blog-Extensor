@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 kg of chicken thighs is equal to approximately 0.55 pounds. This conversion is essential for anyone using air fryer recipes that specify weights in different measurement systems. Whether you're meal prepping or following a specific recipe, getting the weight right ensures perfect cooking results. Many British cooks find themselves needing to convert between metric and imperial units, especially with popular kitchen appliances like air fryers. Understanding this conversion helps you use your air fryer more effectively and achieve consistently delicious meals.</p>

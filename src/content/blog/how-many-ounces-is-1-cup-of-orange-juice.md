@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of orange juice equals approximately 8.45 ounces (or 8.45 oz) in the UK. This measurement is essential for precision in cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're making glazes, marinades, or desserts, knowing this conversion ensures your dishes turn out perfectly every time.</p>  

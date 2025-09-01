@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of sunflower oil equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you're frying, baking, or making dressings, knowing the exact weight helps maintain consistency in your cooking.</p>  

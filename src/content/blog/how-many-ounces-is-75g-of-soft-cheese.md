@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of soft cheese equals approximately 2.65 ounces. This conversion is handy for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're making a creamy dip or a cheesecake in your air fryer, knowing the exact weight ensures perfect results every time.</p>

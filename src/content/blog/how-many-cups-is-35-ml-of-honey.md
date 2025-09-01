@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of honey equals approximately 0.15 cups (just under 1/6 of a cup). This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you’re whipping up a glaze for chicken or sweetening a cake, knowing how to convert 35 ml of honey to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier with accurate measurements and foolproof recipes.</p>  

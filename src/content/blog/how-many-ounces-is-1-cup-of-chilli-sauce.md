@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of chilli sauce equals approximately 8.45 ounces (240 grams) in the UK. This measurement is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and flavour. Whether you’re making a spicy marinade or a dipping sauce, knowing how many ounces are in 1 cup of chilli sauce ensures consistency in your dishes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of thai curry paste equals approximately 6 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a fragrant curry or marinating meats, knowing the exact weight ensures consistent results every time.</p>

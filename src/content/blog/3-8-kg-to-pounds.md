@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.8 kg is equal to approximately 8.37757 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes or preparing ingredients that use imperial measurements. Whether you're weighing meat, vegetables, or frozen goods, getting the quantity right ensures even cooking and perfect results. Understanding how to convert 3.8 kg to pounds can make your time in the kitchen much smoother. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

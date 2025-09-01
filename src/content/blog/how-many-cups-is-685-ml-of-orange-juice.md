@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of orange juice equals approximately 2.9 cups (just under 3 cups). This conversion is essential for baking, cooking, or preparing drinks where precise measurements matter. Whether you're using an air fryer or a conventional oven, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

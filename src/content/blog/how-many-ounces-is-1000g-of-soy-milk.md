@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of soy milk is approximately 35.27 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements. Whether you're making a creamy sauce or a dairy-free dessert, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

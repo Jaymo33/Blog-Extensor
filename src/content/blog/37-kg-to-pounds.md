@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>37 kilograms converts to exactly 81.57 pounds, which is crucial information when working with larger quantities in your air fryer. Whether you're meal prepping, buying in bulk, or following a recipe that uses metric measurements, this conversion ensures you get your portions just right. Accurate measurements lead to better cooking results, especially when using appliances like air fryers that rely on precise cooking times and temperatures. Understanding this conversion can help you avoid under or overloading your air fryer basket, which affects air circulation and cooking efficiency. For more helpful conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of breadcrumbs equals approximately 5 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're coating chicken, making meatballs, or preparing a crispy topping, knowing the exact weight ensures consistent results every time.</p>

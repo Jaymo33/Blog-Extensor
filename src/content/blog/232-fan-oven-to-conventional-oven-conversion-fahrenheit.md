@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>232 fan oven equals approximately 450°F in a conventional oven. This conversion is essential for baking and roasting, especially when using recipes designed for fan-assisted ovens. Whether you're preparing a Sunday roast or baking a cake, knowing this conversion ensures your dishes turn out perfectly every time.</p>

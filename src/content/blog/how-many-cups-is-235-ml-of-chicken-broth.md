@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of chicken broth equals approximately 1 cup (0.99 cups to be precise). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making soups, casseroles, or marinades, knowing how many cups 235 ml of chicken broth translates to ensures consistent results. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of single cream equals approximately 4.23 ounces (oz). This conversion is essential for air fryer recipes requiring precise measurements, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce or a rich dessert, knowing the exact weight helps avoid guesswork.</p>  

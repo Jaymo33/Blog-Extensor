@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of water equals approximately 0.85 cups in standard UK and US measurements. This conversion is essential for air fryer recipes, where precise liquid measurements can make or break a dish. Whether you're baking, steaming, or adjusting recipes, knowing how many cups is 200 grams of water ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking.</p>

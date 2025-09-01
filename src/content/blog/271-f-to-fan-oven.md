@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>271°F converts to approximately 132°C in a fan oven. This temperature is ideal for slow-roasting vegetables or baking delicate desserts in your air fryer. Understanding these conversions ensures your dishes turn out perfectly every time, whether you're using a conventional oven or an air fryer.</p>

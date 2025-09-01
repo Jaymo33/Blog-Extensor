@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of milk is approximately 0.78 cups in the UK and 0.75 cups in the US. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 185 ml of milk to cups ensures your dish turns out perfectly every time.</p>

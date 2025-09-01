@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of golden syrup equals approximately 2.65 ounces. This conversion is essential for anyone using golden syrup in baking or air fryer recipes, ensuring precise measurements for perfect results. Golden syrup, a staple in British kitchens, is often used in desserts, marinades, and even glazes for air-fried dishes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert grams to ounces is a handy skill.</p>

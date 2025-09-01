@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of skimmed milk equals approximately 10 fluid ounces (fl oz) in the UK. This conversion is essential for precision in cooking, especially when using an air fryer, where exact measurements can impact texture and consistency. Whether you're whipping up a creamy sauce or baking a light dessert, knowing how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>  

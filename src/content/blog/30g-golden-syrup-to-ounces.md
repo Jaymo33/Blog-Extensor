@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of golden syrup equals approximately 1.06 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking a sticky pudding or glazing meats, knowing how to convert 30g golden syrup to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

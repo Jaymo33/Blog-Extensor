@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of sesame seeds equal approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making sesame-crusted chicken or baking sesame seed cookies, knowing the weight helps avoid under or over-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

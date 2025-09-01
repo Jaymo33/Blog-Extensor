@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of milk is approximately 3.3 cups in the UK or 3.1 cups in the US. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a cake or a savoury sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

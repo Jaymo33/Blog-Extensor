@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of vinegar is approximately 1 cup (0.99 cups to be precise). Whether you're preparing a marinade, dressing, or a tangy glaze for your air fryer dishes, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for cooking success.</p>  

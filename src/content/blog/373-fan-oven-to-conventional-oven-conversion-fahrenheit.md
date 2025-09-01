@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 373 fan oven to Fahrenheit for a conventional oven is straightforward: 373°F in a fan oven equals approximately 190°C or 375°F in a conventional oven. This conversion ensures your recipes turn out perfectly, whether you're baking, roasting, or using an air fryer. Understanding these differences is key to avoiding undercooked or overcooked dishes.</p>

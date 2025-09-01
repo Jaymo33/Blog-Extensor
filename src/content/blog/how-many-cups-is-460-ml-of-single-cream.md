@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of single cream equals approximately 1.94 cups in UK measurements or 1.95 cups in US measurements. Whether you're baking, cooking, or prepping an air fryer recipe, getting the right measurement is key. Single cream is a staple in many dishes, from sauces to desserts, and knowing how to convert millilitres to cups ensures consistency.</p>

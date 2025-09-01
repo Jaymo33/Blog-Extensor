@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of wheat flour equals approximately 10.6 ounces (300 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking air fryer cakes or coating chicken for a crispy finish, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

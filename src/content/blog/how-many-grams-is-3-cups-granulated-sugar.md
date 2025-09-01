@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of granulated sugar is equivalent to 600 grams. This conversion is essential for accurate baking, especially when using an air fryer where precise measurements can make or break your recipe. Whether you're whipping up cookies, cakes, or sweet treats, knowing how many grams is 3.0 cups of granulated sugar ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of correct measurements for perfect results every time.</p>  

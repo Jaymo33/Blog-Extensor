@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of grated cheese equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're making cheesy nachos, stuffed mushrooms, or a crispy topping for baked potatoes, knowing the exact weight helps avoid over or under-seasoning. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

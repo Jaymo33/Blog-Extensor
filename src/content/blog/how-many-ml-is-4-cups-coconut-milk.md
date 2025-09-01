@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of coconut milk equals approximately 946 ml, making it easy to measure for air fryer recipes. Whether you’re whipping up a curry or baking a dessert, precise measurements ensure perfect results every time. Coconut milk’s rich, creamy texture works brilliantly in air fryer dishes, from sauces to cakes. For more conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

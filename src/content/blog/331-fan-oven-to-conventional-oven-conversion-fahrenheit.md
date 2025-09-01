@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>331°F in a fan oven is equivalent to approximately 350°F in a conventional oven. This conversion ensures your recipes turn out just as intended, whether you're baking cakes or roasting meats. Understanding these differences is key to achieving consistent results, especially when using appliances like air fryers, which often rely on fan-assisted cooking. For more detailed conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

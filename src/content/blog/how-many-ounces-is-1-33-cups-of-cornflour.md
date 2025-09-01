@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of cornflour equals approximately 5.3 ounces (or 150 grams) in UK measurements. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you're coating chicken or thickening sauces, knowing the exact weight helps avoid kitchen mishaps.</p>  

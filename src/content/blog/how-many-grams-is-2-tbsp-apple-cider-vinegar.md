@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of apple cider vinegar weigh approximately 30 grams. This measurement is essential for precision in cooking, especially when using an air fryer where exact quantities can affect texture and flavour. Whether you're marinating chicken or whipping up a salad dressing, knowing this conversion ensures consistency in your dishes.</p>

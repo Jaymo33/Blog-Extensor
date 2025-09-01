@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of milk equals 12 ounces in both US and UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you’re making a creamy sauce or a fluffy cake, knowing how many ounces are in 1.5 cups of milk ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right for flawless cooking.</p>

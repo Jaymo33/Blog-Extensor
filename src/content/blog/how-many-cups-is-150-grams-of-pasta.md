@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of dry pasta equals approximately 1.5 cups, though this can vary slightly depending on pasta shape and density. Whether you're preparing a quick air fryer pasta bake or meal prepping, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters when adapting recipes for your air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>198 C in a fan oven is equivalent to approximately 175 C with the fan assist. This conversion is crucial for achieving perfect baking results in modern convection ovens and air fryers. The fan circulates hot air more efficiently, allowing you to reduce the temperature while maintaining cooking performance.</p>

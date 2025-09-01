@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>For a 1.5 quart air fryer, the ideal liner size is typically 6 to 7 inches in diameter for round liners or 6x6 inches for square liners. These dimensions ensure a snug fit, preventing food from slipping underneath while allowing proper air circulation. Whether you're using parchment paper, silicone, or reusable liners, getting the right size is key to effortless cooking and cleanup.</p>

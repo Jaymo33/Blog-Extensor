@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of lemon juice equals approximately 2.26 cups. This conversion is essential for recipes where precise measurements matter, especially when using an air fryer for dishes like lemon chicken or citrus-glazed desserts. Whether you're following a British or American recipe, knowing how to convert 535 ml of lemon juice to cups ensures your dish turns out perfectly every time.</p>

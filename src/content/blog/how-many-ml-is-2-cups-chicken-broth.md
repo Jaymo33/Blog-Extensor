@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of chicken broth equals 473 ml, making it easy to measure for air fryer recipes or stovetop cooking. Whether you're preparing a hearty soup or a flavourful sauce, knowing this conversion ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can elevate your cooking, especially when using an air fryer.</p>

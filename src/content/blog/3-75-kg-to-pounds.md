@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 kg is equal to approximately 8.267 pounds. This conversion is especially useful when working with air fryer recipes that might list ingredients in different measurement systems. Whether you're portioning meat, vegetables, or even batter, getting the weight right ensures even cooking and perfect results. Many popular recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide weights in both metric and imperial, but it's handy to know how to convert yourself. Understanding 3.75 kg to pounds helps you shop, prep, and cook with accuracy and ease.</p>

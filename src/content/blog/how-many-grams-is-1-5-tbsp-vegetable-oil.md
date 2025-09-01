@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of vegetable oil equals approximately 20 grams (g) in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer, where accurate oil quantities can affect texture and crispiness. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or improvising, knowing this measurement ensures consistent results every time.</p>  

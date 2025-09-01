@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of rapeseed oil equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're preparing crispy vegetables or succulent meats, knowing how many ounces is 5g of rapeseed oil ensures perfect results every time.</p>

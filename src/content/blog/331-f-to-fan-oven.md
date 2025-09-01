@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>331 F converts to approximately 166 C in a fan oven, making it a moderate heat ideal for roasting and baking. This temperature works beautifully for dishes like crispy chicken thighs or roasted vegetables in both fan ovens and air fryers. If you're adapting recipes between appliances, knowing this conversion ensures consistent results every time.</p>

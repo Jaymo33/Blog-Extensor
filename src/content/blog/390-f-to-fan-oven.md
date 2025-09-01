@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>390 F converts to approximately 175 C in a fan oven. This is a common temperature for roasting vegetables, baking cookies, or crisping up frozen foods in both fan ovens and air fryers. The conversion is essential for UK cooks who follow American recipes or use appliances with Fahrenheit settings.</p>

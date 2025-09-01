@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of hot sauce equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making wings, nachos, or a spicy marinade, knowing how to convert cups to ounces ensures your recipe turns out perfectly every time.</p>

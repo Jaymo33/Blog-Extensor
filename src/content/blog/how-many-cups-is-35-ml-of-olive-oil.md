@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of olive oil is approximately 0.148 cups (or just under 1/7 of a cup). This conversion is essential for precise cooking and baking, especially when using an air fryer where exact measurements can impact texture and crispiness. Whether you're whipping up a quick snack or a full meal, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>  

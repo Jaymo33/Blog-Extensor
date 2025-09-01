@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of yeast equals approximately 7.05 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like bread or dough-based dishes. Whether you're following a UK recipe or adjusting measurements, knowing how to convert grams to ounces ensures consistency in your baking.</p>  

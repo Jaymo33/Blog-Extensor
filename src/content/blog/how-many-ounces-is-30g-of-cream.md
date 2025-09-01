@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of cream is approximately 1.06 ounces. Whether you’re whipping up a dessert or adding a creamy touch to a savoury dish in your air fryer, getting the measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting grams to ounces for UK recipes.</p>

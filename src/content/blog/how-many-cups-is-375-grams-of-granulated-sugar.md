@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of granulated sugar is approximately 1.875 cups in the UK and 1.89 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for desserts or sweet treats. Whether you're whipping up a cake or preparing a glaze, knowing how many cups 375 grams of granulated sugar equals ensures accuracy in your recipes.</p>

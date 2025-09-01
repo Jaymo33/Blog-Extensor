@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of sunflower oil equals approximately 7.7 ounces (oz). This measurement is essential for air fryer recipes, where precise quantities can affect cooking times and results. Whether you're preparing crispy chips or succulent chicken, knowing this conversion ensures consistency. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

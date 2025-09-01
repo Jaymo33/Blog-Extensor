@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of cottage cheese equals approximately 1.41 ounces. This conversion is handy for air fryer recipes, especially if you’re following a UK-based guide or measuring ingredients for a healthy snack. Whether you’re making a cheesy bake or adding cottage cheese to your air fryer breakfast, knowing the exact weight ensures perfect results every time.</p>  

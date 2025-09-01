@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of granulated sugar equals approximately 2.65 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes, where precise ingredient quantities can make or bake your dish. Whether you’re whipping up a batch of cookies or a light sponge cake, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you master air fryer baking. Keep reading for detailed tips and common pitfalls when measuring sugar for your air fryer.</p>  

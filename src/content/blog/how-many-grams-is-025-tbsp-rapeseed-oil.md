@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of rapeseed oil equals approximately 3.7 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up crispy chips or succulent chicken, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of water equals approximately 2.65 ounces. This conversion is essential for air fryer recipes that require precise liquid measurements, ensuring your dishes turn out perfectly every time. Whether you're making sauces, marinades, or even baking in your air fryer, knowing how to convert grams to ounces can make all the difference.</p>

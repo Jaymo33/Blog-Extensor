@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tbsp of crushed garlic equals approximately 35 grams. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect flavour distribution. Whether you’re making garlic bread, marinades, or roasted vegetables, knowing the exact weight helps avoid over or under-seasoning. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

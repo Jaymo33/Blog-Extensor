@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of broccoli equals approximately 45 grams. This conversion is essential for air fryer cooking, where precision ensures even cooking and perfect texture. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing this measurement helps avoid over or under-seasoning.</p>

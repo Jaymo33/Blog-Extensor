@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>363 F converts to Gas Mark 4.5 in UK ovens, though most home cooks round this to Gas Mark 4 for practical cooking purposes. This temperature is ideal for baking cookies, roasting vegetables, or cooking poultry in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your specific model's manual as some air fryers may have slight variations in temperature accuracy.</p>

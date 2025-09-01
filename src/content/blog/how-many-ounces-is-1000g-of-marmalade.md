@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of marmalade equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you’re making glazes, desserts, or sauces, knowing how to convert grams to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

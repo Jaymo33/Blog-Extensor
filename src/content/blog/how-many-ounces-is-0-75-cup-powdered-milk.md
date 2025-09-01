@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of powdered milk equals approximately 3 ounces (3 oz). This conversion is essential for air fryer recipes, where precise measurements ensure the best texture and consistency. Whether you're making cakes, custards, or breaded coatings, knowing how many ounces are in 0.75 cup of powdered milk helps you nail the recipe every time.</p>  

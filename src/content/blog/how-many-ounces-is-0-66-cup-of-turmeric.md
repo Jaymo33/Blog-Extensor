@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of turmeric equals approximately 2.64 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you're preparing a curry, seasoning chicken, or making a spice rub, knowing the exact weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking game.</p>

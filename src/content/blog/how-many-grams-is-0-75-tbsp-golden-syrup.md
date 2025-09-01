@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of golden syrup equals approximately 15 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a sticky dessert or a glaze for meats, knowing the exact weight ensures perfect results every time. Golden syrup’s thick consistency means volume measurements like tablespoons can vary slightly, so grams are far more reliable. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of milk is roughly 2.89 cups in the US measurement system and approximately 2.74 cups in the UK metric system. Whether you're whipping up a cake, preparing a creamy sauce, or using your air fryer for a delicious recipe, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating incorrect conversions can be, so we’ve broken it all down for you.</p>  

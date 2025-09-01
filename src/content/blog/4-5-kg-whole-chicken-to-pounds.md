@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 4.5 kg whole chicken is equal to approximately 9.92 pounds. This conversion is essential for anyone using an air fryer, as many recipes and cooking guides use imperial measurements. Knowing the exact weight in pounds helps you determine the correct cooking time and temperature for a perfectly juicy roast chicken. Whether you're following a British recipe or an American one, getting this conversion right makes all the difference. Trust us, your taste buds will thank you for the precision.</p>

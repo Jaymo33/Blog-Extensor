@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of cream cheese equals approximately 7 grams. This conversion is handy for air fryer recipes where precise measurements matter, ensuring your dishes turn out perfectly every time. Whether you're making a creamy dip or a cheesy topping, knowing the exact weight helps avoid guesswork.</p>

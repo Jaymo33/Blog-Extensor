@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of chopped tomatoes equals approximately 2 ounces (56.7 grams). This measurement is essential for air fryer recipes where precise ingredient quantities ensure perfect results. Whether you’re making sauces, stews, or roasted veggies, knowing this conversion helps streamline your cooking process. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of almond butter equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you’re making energy bites, sauces, or baked goods, knowing how many ounces are in 1.25 cups of almond butter helps avoid kitchen mishaps.</p>  

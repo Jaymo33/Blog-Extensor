@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of Worcestershire sauce equals approximately 10.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken or adding depth to a beef recipe, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we prioritise accuracy to help you achieve restaurant-quality results at home. Keep reading for tips on measuring Worcestershire sauce and other handy conversions.</p>

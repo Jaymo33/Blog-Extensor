@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>98 fan oven converts to approximately 120°C in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted cooking. Whether you're using an air fryer or traditional oven, understanding this conversion ensures consistent results.</p>

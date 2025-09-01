@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>27.75 kg is equal to approximately 61.18 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or understanding your appliance's maximum capacity. Whether you're meal prepping for the week or cooking a family feast, knowing how to convert kilograms to pounds accurately ensures you never overfill your air fryer basket. Getting your measurements right leads to perfectly cooked food and avoids uneven results. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

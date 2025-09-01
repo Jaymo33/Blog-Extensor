@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of frozen corn equals approximately 3.5 ounces (99 grams). This conversion is essential for air fryer recipes where precise measurements ensure even cooking. Whether you're making a quick side dish or adding corn to a larger meal, knowing the weight helps avoid over or under-seasoning. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

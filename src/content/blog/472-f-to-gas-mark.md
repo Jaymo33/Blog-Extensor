@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>472 F converts to Gas Mark 9, the standard equivalent for high-temperature baking and roasting. This conversion is particularly useful when adapting recipes between air fryers and conventional ovens. Whether you're cooking a Sunday roast or baking artisan bread, knowing this temperature match ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions with ease. The 472 F to Gas Mark conversion works perfectly for most air fryer models and traditional ovens.</p>

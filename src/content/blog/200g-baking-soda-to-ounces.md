@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of baking soda equals approximately 7.05 ounces. This conversion is essential for air fryer recipes and cleaning solutions, ensuring precision in measurements. Whether you’re whipping up a batch of air fryer cookies or creating a DIY cleaner, knowing the exact weight saves time and hassle. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat grilled chicken in an air fryer, set it to 160°C (320°F) for 3-5 minutes until piping hot. This method preserves moisture while crisping the skin better than a microwave. Your air fryer circulates hot air around the chicken, reviving its texture without the sogginess or uneven heating of other methods.</p>

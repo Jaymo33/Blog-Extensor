@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of condensed milk weighs approximately 11.25 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you’re whipping up a dessert or adjusting a recipe, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

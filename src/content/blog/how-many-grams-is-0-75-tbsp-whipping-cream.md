@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of whipping cream equals approximately 11.25 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re whipping up a dessert or adding cream to a savoury dish, knowing the exact weight can make all the difference.</p>

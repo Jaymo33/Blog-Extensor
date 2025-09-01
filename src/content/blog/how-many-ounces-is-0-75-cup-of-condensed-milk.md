@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of condensed milk equals approximately 6 ounces (or 6 oz) in UK measurements. Whether you're prepping a dessert or adjusting a recipe for your air fryer, this conversion ensures accuracy. Condensed milk is a staple in many treats, from fudgy brownies to creamy cheesecakes, and getting the measurement right is key to success.</p>  

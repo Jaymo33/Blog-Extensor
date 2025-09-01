@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>251 fan oven equals approximately 482°F in a conventional oven. This conversion ensures your recipes turn out perfectly, whether you're using a traditional oven or an air fryer. Understanding these conversions is key to achieving consistent results in your cooking.</p>

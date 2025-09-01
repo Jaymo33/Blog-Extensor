@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of breadcrumbs equals approximately 3 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re coating chicken, making meatballs, or preparing a crispy topping, knowing how many ounces are in 0.75 cup of breadcrumbs ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail these measurements for flawless results every time.</p>

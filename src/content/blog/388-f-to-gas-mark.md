@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>388°F converts to Gas Mark 5 in conventional ovens and requires slight adjustments for air fryer cooking. This temperature is commonly used for baking cookies, cakes, and some roasted vegetables. Whether you're using a traditional oven or modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

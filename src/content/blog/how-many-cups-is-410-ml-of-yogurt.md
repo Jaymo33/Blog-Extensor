@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of yogurt is approximately 1.73 cups. This conversion is essential for air fryer recipes, ensuring accuracy in baking and cooking. Whether you're making cakes, marinades, or dips, knowing how to convert 410 ml of yogurt to cups helps avoid measurement mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so your dishes turn out perfectly every time.</p>  

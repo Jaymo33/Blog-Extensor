@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of corn syrup is approximately 2.37 cups. This conversion is essential for baking and cooking, especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a dessert or a savoury glaze, knowing how many cups 560 ml of corn syrup equals ensures accuracy. For more air fryer tips and conversions, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

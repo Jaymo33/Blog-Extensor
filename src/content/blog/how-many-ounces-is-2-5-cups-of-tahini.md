@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of tahini equals approximately 20 ounces (or 567 grams) in the UK. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a batch of hummus or a tahini-based dressing, knowing how many ounces are in 2.5 cups of tahini ensures consistency and perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of heavy cream is approximately 1.52 cups in US measurements or 1.27 cups in UK measurements. This conversion is essential for baking, cooking, and air fryer recipes where precision matters. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to measure heavy cream correctly ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless dishes.</p>  

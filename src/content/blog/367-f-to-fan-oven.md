@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>367 F converts to approximately 186 C in a fan oven, which is the standard setting for many air fryer recipes. This temperature works brilliantly for achieving crispy textures without drying out your food. Whether you're adapting an American recipe or fine-tuning your air fryer settings, understanding this conversion is key to kitchen success.</p>

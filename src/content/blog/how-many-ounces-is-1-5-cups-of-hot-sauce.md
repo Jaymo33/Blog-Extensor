@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of hot sauce equals 12 fluid ounces (oz). Whether you’re whipping up a spicy marinade or adding heat to your air fryer favourites, knowing this conversion ensures your recipes turn out perfectly every time.</p>

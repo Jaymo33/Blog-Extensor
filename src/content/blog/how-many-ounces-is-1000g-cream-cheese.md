@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of cream cheese equals approximately 35.27 ounces. This conversion is essential for bakers and cooks who rely on precise measurements, especially when using an air fryer for recipes like cheesecakes or creamy dips. Whether you're following a UK recipe or adapting an international one, knowing how to convert grams to ounces ensures perfect results every time.</p>  

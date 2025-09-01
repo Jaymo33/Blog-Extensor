@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of cottage cheese equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you’re making a cheesy bake or a protein-packed breakfast, knowing the weight of cottage cheese helps avoid recipe mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious ideas.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>245 C in a fan oven is equivalent to approximately 220 C with the fan setting. This 25-degree reduction accounts for the fan's efficient heat circulation, ensuring even cooking without overheating. Whether you're baking, roasting, or using your air fryer, this conversion is key to perfect results.</p>

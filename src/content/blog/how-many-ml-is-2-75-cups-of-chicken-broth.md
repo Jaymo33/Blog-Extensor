@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of chicken broth equals approximately 650 ml. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making soups, stews, or marinades, knowing how many ml is 2.75 cups of chicken broth ensures consistency and flavour balance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you nail these conversions for perfect results every time.</p>

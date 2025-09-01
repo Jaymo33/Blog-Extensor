@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of cream cheese equals approximately 17.64 ounces. This conversion is essential for anyone following recipes, especially when using an air fryer for dishes like cheesecakes or stuffed pastries. Whether you're baking or cooking, knowing how to convert grams to ounces ensures your measurements are spot-on.</p>  

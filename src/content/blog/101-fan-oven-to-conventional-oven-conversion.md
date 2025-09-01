@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 101 fan oven to conventional oven is straightforward: 101°C in a fan oven equals approximately 121°C in a conventional oven. This adjustment ensures your dishes cook evenly, whether you're baking, roasting, or reheating. Understanding these conversions is especially useful when using recipes designed for different oven types.</p>

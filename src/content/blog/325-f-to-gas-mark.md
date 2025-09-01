@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 F converts to Gas Mark 3, the ideal setting for slow baking in air fryers and conventional ovens. This moderate temperature works beautifully for cookies, cakes, and delicate dishes that need gentle heat. At airfryerrecipe.co.uk, we use this conversion daily for foolproof recipes like our <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>vanilla sponge cake</a>.</p>

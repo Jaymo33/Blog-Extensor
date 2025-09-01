@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>262 F converts to approximately 128 C in a fan oven. This temperature is ideal for slow roasting or gentle baking in both fan ovens and air fryers. Whether you're adapting recipes or troubleshooting cooking times, understanding this conversion ensures consistent results.</p>

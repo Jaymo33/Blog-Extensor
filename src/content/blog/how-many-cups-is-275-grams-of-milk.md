@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of milk is roughly 1.1 cups in the UK and 1.15 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how many cups 275 grams of milk equals ensures perfect results every time.</p>

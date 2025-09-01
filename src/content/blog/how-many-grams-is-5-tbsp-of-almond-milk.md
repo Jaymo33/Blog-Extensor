@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of almond milk equals approximately 75 grams. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple so your dishes turn out flawless every time.</p>  

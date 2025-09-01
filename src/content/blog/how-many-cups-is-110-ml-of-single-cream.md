@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of single cream is approximately 0.46 cups (US) or 0.44 cups (UK). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing the exact cup equivalent ensures consistency. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

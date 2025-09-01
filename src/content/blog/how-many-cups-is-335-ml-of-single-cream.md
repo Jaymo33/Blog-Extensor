@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of single cream is approximately 1.42 cups. Whether you're baking a cake or whipping up a creamy sauce, getting the measurements right is key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important precise conversions are for perfect results.</p>  

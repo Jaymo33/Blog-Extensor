@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of milk is approximately 4.16 cups when using the standard UK metric cup (240 ml per cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and cooking times.</p>

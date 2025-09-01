@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of granulated sugar equals approximately 1.25 cups in the UK and 1.2 cups in the US. Getting this measurement right is crucial for baking, especially when using an air fryer where precise ratios affect texture and browning. Whether you're making cookies or a sponge cake, knowing how to convert grams to cups ensures consistent results every time.</p>  

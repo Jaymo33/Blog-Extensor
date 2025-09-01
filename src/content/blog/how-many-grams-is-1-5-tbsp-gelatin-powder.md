@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of gelatin powder equals approximately 10.5 grams. This conversion is essential for air fryer recipes that require precise measurements, especially when making desserts like jellies, mousses, or cheesecakes. Using the correct amount ensures the right texture and consistency, so your treats turn out perfect every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

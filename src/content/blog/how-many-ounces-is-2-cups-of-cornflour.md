@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of cornflour equals approximately 9.6 ounces (or 272 grams) in UK measurements. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you're coating chicken or thickening sauces, knowing the exact weight saves time and avoids mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple for hassle-free cooking.</p>  

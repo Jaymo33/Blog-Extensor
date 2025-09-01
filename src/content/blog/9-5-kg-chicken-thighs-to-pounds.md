@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9.5 kg chicken thighs to pounds equals approximately 20.94 pounds. This conversion is essential for anyone preparing large batches of chicken thighs in their air fryer, whether for meal prepping, family gatherings, or stocking the freezer. Understanding weight conversions helps ensure accurate cooking times and perfect results every time. Our guide makes converting 9.5 kg chicken thighs to pounds simple and stress-free. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips and delicious recipes.</p>

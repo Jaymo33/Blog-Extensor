@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of cornflour equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you’re coating chicken or thickening a sauce, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail those measurements for flawless cooking.</p>  

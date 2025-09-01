@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of granulated sugar equals approximately ½ cup when measured correctly. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're following a British or American recipe, knowing how to convert grams to cups ensures your treats turn out perfectly every time. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for delicious air fryer dessert ideas.</p>

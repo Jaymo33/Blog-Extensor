@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of dry pasta typically weigh around 200 grams, though this can vary slightly depending on the pasta shape. Getting this measurement right is crucial for air fryer recipes, where precise quantities ensure even cooking. If you're using an air fryer for pasta dishes, knowing the exact gram equivalent helps avoid under or overcooking. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

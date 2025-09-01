@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of water equals approximately 1 cup (US) or 0.99 cups (UK). Getting this conversion right is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking cakes or preparing sauces, knowing how to convert millilitres to cups ensures consistency and perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 393 fan oven to conventional oven in Fahrenheit is straightforward: 393°F in a fan oven equals approximately 356°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted cooking. Whether you're baking cakes or roasting meats, understanding this conversion ensures your dishes turn out perfectly every time.</p>

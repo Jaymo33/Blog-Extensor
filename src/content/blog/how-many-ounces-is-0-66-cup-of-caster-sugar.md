@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of caster sugar equals approximately 5.28 ounces in UK measurements. This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or desserts. Whether you're whipping up a quick batch of cookies or a delicate sponge, knowing the exact weight ensures perfect results every time.</p>

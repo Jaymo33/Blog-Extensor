@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of almond milk equals approximately 8.45 ounces. This measurement is essential for air fryer recipes where precision ensures perfect results. Whether you're baking, frying, or making sauces, knowing the exact weight helps avoid kitchen mishaps. Almond milk, a popular dairy-free alternative, is lighter than regular milk, so accurate conversions matter. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

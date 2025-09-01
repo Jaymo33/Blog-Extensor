@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>346 fan oven converts to approximately 374°F in a conventional oven. This adjustment ensures your recipes turn out perfectly, whether you're baking or using an air fryer. Understanding this conversion is key to adapting recipes from fan ovens to traditional ovens or air fryers.</p>

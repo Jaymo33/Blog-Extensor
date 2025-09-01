@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of balsamic vinegar equals 240 millilitres (ml). This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you’re making a glaze for chicken or a marinade for vegetables, knowing how many ml is 1.0 cups of balsamic vinegar helps you achieve consistent results every time.</p>

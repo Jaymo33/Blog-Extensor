@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>169 fan oven converts to approximately 150°C in a conventional oven. This 19°C difference accounts for the fan oven's efficient heat distribution. Whether you're baking, roasting, or air frying, understanding this conversion ensures your dishes cook perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of cocoa powder equals approximately 8.8 ounces (250 grams). This conversion is essential for precise baking, especially when using an air fryer for desserts like brownies or cakes. Getting the measurements right ensures your recipes turn out perfectly every time.</p>  

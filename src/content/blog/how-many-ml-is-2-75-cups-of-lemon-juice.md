@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of lemon juice equals approximately 650 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where exact measurements can affect texture and flavour. Whether you're making a zesty lemon drizzle cake or a tangy marinade, knowing how to convert cups to millilitres ensures consistency in your recipes.</p>

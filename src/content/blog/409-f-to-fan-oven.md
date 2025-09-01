@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>409 F converts to approximately 209 C in a fan oven. This conversion is essential for air fryer users who want to replicate traditional oven recipes with precision. Whether you're cooking frozen snacks or roasting vegetables, getting the temperature right ensures perfect results every time.</p>

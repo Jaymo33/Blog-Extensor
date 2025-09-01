@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of wholemeal flour weighs approximately 4 grams. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're baking muffins, bread, or coating ingredients, knowing the exact weight of your flour can make or break your dish.</p>

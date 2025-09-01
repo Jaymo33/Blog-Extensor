@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of cocoa powder equals approximately 4.5 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking brownies or dusting desserts, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on perfecting your cooking.</p>  

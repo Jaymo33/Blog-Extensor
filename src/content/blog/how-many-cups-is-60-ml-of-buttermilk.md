@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of buttermilk is equal to approximately 1/4 cup. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up pancakes, cakes, or marinades, knowing how to convert 60 ml of buttermilk to cups ensures your dishes turn out perfectly every time.</p>  

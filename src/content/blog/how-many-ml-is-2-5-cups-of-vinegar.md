@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of vinegar equals 591.47 ml, a crucial measurement for air fryer cooking and cleaning. Whether you're marinating chicken, pickling vegetables, or making a homemade air fryer cleaner, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify kitchen maths so you can focus on perfecting your dishes.</p>

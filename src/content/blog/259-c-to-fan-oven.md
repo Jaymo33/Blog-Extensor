@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>259°C converts to approximately 225°C in a fan oven. This reduction accounts for the efficient heat circulation in fan-assisted ovens, which cook food more evenly at lower temperatures. Whether you're baking, roasting, or using an air fryer, understanding this conversion is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt recipes for different cooking methods. Let's explore how to use this conversion for various kitchen appliances.</p>

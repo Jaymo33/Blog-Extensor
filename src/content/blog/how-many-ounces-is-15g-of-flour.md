@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of flour equals approximately 0.53 ounces, a handy conversion for air fryer recipes and baking. Whether you're whipping up cakes, cookies, or breaded dishes in your air fryer, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference, especially when working with small quantities like 15g of flour.</p>

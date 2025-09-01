@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>228 C converts to approximately 200 C in a fan oven. This 20-degree reduction is standard for fan-assisted cooking, ensuring even heat distribution without overcooking. Whether you're baking, roasting, or adapting recipes for your air fryer, this conversion is essential for perfect results every time.</p>

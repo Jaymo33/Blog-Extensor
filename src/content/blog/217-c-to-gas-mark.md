@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>217°C converts to Gas Mark 7, which is a common setting for baking and roasting in conventional ovens. This temperature is ideal for achieving golden-brown results on everything from cakes to roasted vegetables. If you're using an air fryer, you might need to adjust cooking times slightly, as air fryers cook faster than traditional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we've found that reducing the time by 20% usually works well when converting oven recipes to air fryer recipes.</p>

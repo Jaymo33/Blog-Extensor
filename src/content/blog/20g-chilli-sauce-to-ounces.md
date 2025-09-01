@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of chilli sauce equals approximately 0.705 ounces. This conversion is essential when following air fryer recipes that require precise measurements for the perfect balance of flavours. Whether you're making wings, noodles or marinades, knowing how to convert 20g of chilli sauce to ounces ensures consistent results every time.</p>

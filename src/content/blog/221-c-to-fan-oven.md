@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>221°C converts to approximately 200°C in a fan oven. This 20-degree reduction is standard when adapting conventional oven temperatures for fan-assisted cooking. Whether you're using a traditional fan oven or an air fryer (which works similarly to a mini convection oven), this conversion ensures your dishes cook evenly without drying out.</p>

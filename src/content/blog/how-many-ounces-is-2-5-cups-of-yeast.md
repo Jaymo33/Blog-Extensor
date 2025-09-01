@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of yeast equals approximately 20 ounces. This conversion is essential for bakers who need precise measurements for recipes, especially when using an air fryer for smaller batches. Whether you're making dough or experimenting with <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing this conversion ensures consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of vegetable broth equals approximately 10.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're making soups, stews, or marinades, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into how this measurement works and why it matters.</p>  

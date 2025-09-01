@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of cheddar cheese equals approximately 113 grams. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making cheesy air fryer nachos or a gooey casserole, knowing how many grams are in 1.0 cups of cheddar cheese helps you follow recipes accurately. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

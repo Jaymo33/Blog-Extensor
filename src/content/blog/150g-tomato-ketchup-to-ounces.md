@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of tomato ketchup equals approximately 5.29 ounces. This conversion is handy when following air fryer recipes, especially those requiring precise measurements for sauces or marinades. Whether you’re whipping up a quick meal or prepping ingredients in advance, knowing this conversion ensures accuracy. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

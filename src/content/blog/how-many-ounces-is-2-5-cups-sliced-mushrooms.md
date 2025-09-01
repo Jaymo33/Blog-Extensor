@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of sliced mushrooms equals approximately 10 ounces (283 grams). This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're prepping a mushroom stir-fry or adding them to a casserole, accurate measurements make all the difference. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

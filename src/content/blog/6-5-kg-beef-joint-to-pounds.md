@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 6.5 kg beef joint is equivalent to approximately 14.33 pounds. This conversion is essential for anyone using an air fryer, as accurate weight measurements ensure perfect cooking times and results. Whether you're preparing a family feast or meal prepping for the week, knowing how to convert 6.5 kg beef joint to pounds helps you follow recipes accurately. Many air fryer recipes, especially those on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, use imperial measurements, so this knowledge is incredibly useful. Getting the weight right means your beef joint will be juicy, tender, and cooked to perfection every time.</p>

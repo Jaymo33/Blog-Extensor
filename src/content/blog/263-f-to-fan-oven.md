@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>263 F converts to approximately 130 C in a fan oven. This is a common temperature for slow-roasting vegetables or baking delicate items in an air fryer. Understanding this conversion ensures your recipes turn out perfectly crispy without burning. Whether you're using a Ninja, Philips, or another brand, this guide simplifies the process. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for more precise adjustments.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of wholemeal flour equals approximately 1.41 ounces. This conversion is essential for air fryer recipes, especially when precision matters for baking or meal prep. Whether you’re whipping up a cake or preparing a savoury dish, knowing how to convert grams to ounces ensures consistent results every time.</p>

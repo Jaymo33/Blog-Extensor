@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of porridge oats equals approximately 1.06 ounces. This conversion is essential for anyone using an air fryer to whip up a quick, healthy breakfast. Whether you're making oat bars, porridge, or adding oats to baked goods, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get measurements right for flawless results. Keep reading for more tips on using porridge oats in your air fryer.</p>  

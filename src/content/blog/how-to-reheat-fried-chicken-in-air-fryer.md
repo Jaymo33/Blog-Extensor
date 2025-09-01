@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat fried chicken in an air fryer, preheat to 180°C (350°F) and cook for 3-5 minutes until piping hot. This method restores crispiness while keeping the meat juicy – far better than microwaving. Whether you’ve got leftover KFC or homemade fried chicken, your air fryer’s rapid hot air circulation works wonders.</p>

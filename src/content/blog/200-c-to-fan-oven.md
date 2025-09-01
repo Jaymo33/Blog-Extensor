@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200°C in a conventional oven equals 180°C in a fan oven. This 20-degree reduction is standard when converting between these two oven types. When using an air fryer, which operates similarly to a fan oven, you'll typically follow the same rule.</p>

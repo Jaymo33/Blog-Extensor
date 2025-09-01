@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of frozen peas equals approximately 8.8 ounces. This conversion is essential for air fryer recipes, ensuring you get the right portion size for perfect results every time. Whether you're making a quick side dish or adding peas to a larger meal, accurate measurements matter.</p>  

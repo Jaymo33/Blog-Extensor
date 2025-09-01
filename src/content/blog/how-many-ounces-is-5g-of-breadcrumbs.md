@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams (5g) of breadcrumbs equals approximately 0.18 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and crispiness. Whether you're coating chicken, fish, or vegetables, knowing the exact weight helps achieve consistent results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

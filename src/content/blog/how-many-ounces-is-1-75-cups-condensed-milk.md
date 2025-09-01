@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of condensed milk equals approximately 14 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re making a creamy dessert or a rich sauce, knowing the exact weight helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking experience.</p>  

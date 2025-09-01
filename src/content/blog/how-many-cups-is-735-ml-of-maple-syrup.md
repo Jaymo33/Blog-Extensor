@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>735 ml of maple syrup is roughly equivalent to 3.1 cups. This conversion is essential for baking, cooking, or using your air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a glaze for air-fried salmon or sweetening a dessert, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with sticky ingredients like maple syrup.</p>  

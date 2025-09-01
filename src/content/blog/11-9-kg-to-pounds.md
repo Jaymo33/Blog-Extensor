@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>11.9 kg is equal to approximately 26.24 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that list ingredients in different measurement systems. Whether you're weighing meat, vegetables, or even frozen goods, getting the weight right ensures your meals cook evenly and turn out perfectly. Many air fryer manuals and popular recipes from sites like <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> provide guidance in both metric and imperial units. Knowing how to quickly convert between them will make your cooking experience smoother and more enjoyable.</p>

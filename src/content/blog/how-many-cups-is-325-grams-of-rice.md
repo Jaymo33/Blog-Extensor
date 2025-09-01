@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of rice equals approximately 1.6 cups in the UK or 1.5 cups in the US. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're making fried rice, rice pudding, or a grain bowl, knowing how to convert grams to cups ensures perfect results every time.</p>

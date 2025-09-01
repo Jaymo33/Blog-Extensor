@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of oat milk equals approximately 768.91 ml. This conversion is essential for anyone using an air fryer, where precise measurements can impact cooking times and textures. Whether you're whipping up a creamy dessert or a savoury dish, knowing how many ml is 3.25 cups of oat milk ensures consistency in your recipes.</p>

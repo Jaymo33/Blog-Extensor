@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485°F converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is perfect for achieving crispy textures in air-fried dishes, from roasted vegetables to perfectly seared meats. Understanding this conversion helps you adapt traditional oven recipes for your air fryer with precision.</p>

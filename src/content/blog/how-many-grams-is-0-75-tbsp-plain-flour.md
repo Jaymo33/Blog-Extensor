@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of plain flour equals approximately 5.6 grams. This conversion is essential for air fryer recipes where precision matters. Whether you're baking or coating ingredients, getting the measurement right ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for air fryer success.</p>

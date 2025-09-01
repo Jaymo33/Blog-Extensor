@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of lime juice equals approximately 37.5 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes have the perfect balance of tangy lime flavour. Whether you’re marinating chicken, whipping up a citrusy glaze, or adding a zesty kick to vegetables, knowing how to convert 2.5 tbsp of lime juice to grams will elevate your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making measurements simple so you can focus on creating delicious meals.</p>  

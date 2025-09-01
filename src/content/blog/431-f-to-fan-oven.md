@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>431 F converts to approximately 221 C in a fan oven. This is a common temperature for roasting meats, baking crusty bread, or achieving crispy results in an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. The fan oven setting circulates hot air, meaning you'll often need to adjust temperatures compared to conventional ovens. Let's explore how this conversion works and why it matters for your cooking.</p>

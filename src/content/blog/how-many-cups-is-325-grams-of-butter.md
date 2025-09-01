@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of butter is roughly equivalent to 1.42 cups in the UK or 1.37 cups in the US. This conversion is essential for baking and air frying, where precise measurements can make or break a recipe. Whether you're making cakes, cookies, or even savoury dishes in your air fryer, knowing how to convert grams to cups ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

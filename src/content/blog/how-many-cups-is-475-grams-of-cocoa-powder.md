@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of cocoa powder equals approximately 4.75 cups when measured correctly. This conversion is essential for baking, especially when using air fryers for cakes and desserts. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or experimenting with your own creations, accurate measurements ensure perfect results every time.</p>  

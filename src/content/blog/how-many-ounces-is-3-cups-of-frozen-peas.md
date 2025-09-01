@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of frozen peas weigh approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, ensuring precise cooking times and perfect results every time. Whether you're meal prepping or whipping up a quick side dish, knowing the weight helps streamline your cooking process.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of sesame seeds weigh approximately 10 ounces (283 grams). This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results. Whether you're making sesame-crusted chicken or toasted sesame snacks, knowing the weight helps avoid under or over-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

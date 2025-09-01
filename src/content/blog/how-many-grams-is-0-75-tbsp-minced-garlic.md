@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of minced garlic equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up garlic butter shrimp or a fragrant chicken marinade, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you nail those measurements for flawless cooking.</p>

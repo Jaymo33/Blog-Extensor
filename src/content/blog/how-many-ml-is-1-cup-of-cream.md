@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of cream is equivalent to approximately 237 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact ml equivalent ensures your dish turns out perfectly every time.</p>

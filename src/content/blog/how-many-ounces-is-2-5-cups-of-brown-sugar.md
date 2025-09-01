@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of brown sugar equals approximately 20 ounces in UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you’re baking cookies or preparing a glaze, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly. Keep reading to learn more about measuring brown sugar for your air fryer dishes.</p>

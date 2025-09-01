@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of Greek yogurt equals approximately 0.35 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're whipping up a healthy breakfast or a creamy sauce, knowing how to convert grams to ounces ensures your dish turns out just right.</p>

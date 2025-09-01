@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of ground almonds equals approximately 1.76 ounces (50 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring accuracy for baking or cooking. Whether you’re making almond flour cakes or coating chicken, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with confidence.</p>

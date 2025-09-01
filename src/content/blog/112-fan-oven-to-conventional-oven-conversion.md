@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>112 fan oven equals approximately 100°C in a conventional oven. This conversion is essential for adapting recipes, especially when using an air fryer. Fan ovens circulate hot air, cooking food faster and more evenly, while conventional ovens rely on radiant heat. Understanding this difference ensures your dishes turn out perfectly every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

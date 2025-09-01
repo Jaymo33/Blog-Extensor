@@ -184,7 +184,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of olive oil equals approximately 54 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re drizzling oil over chips or marinating chicken, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

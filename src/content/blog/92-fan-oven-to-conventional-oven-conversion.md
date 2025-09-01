@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>92°C in a fan oven converts to approximately 110°C in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, which cook food faster and more evenly. Understanding this conversion is crucial for adapting recipes, especially when using an air fryer, which operates similarly to a fan oven. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these temperature conversions for perfect results every time.</p>

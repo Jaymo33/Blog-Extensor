@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>23.8 kg is equal to approximately 52.47 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging labels switch between metric and imperial measurements. Knowing how to quickly convert 23.8 kg to pounds ensures you use the correct ingredient amounts, leading to perfectly cooked meals every time. Whether you're meal prepping or trying a new dish, accurate measurements are the foundation of great cooking. For more handy conversion tips, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

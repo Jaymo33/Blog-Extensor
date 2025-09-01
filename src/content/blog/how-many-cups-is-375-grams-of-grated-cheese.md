@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of grated cheese equals approximately 3.75 cups, though this can vary slightly depending on how finely the cheese is grated. Whether you’re prepping for a cheesy air fryer dish or converting a recipe, knowing this measurement ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect air fryer results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of BBQ sauce equals 1 fluid ounce (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re glazing chicken wings or marinating ribs, knowing how many ounces are in 0.125 cup of BBQ sauce ensures perfect results every time.</p>  

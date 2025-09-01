@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>187°C in a fan oven converts to approximately 170°C in a conventional oven. This 10-20°C reduction accounts for the fan oven's efficient heat distribution. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting family favourites, understanding this conversion ensures perfect results every time.</p>

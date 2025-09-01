@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of cocoa powder is roughly equivalent to 4.2 cups in the UK and 4.8 cups in the US, depending on how tightly it's packed. This conversion is essential for baking, especially when using an air fryer for cakes or desserts. Precise measurements ensure your recipes turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of flaxseed equals approximately 10.6 ounces (or 300 grams). This measurement is essential for precise baking or cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're making flaxseed crackers, bread, or adding it to smoothies, knowing the exact weight ensures consistency in your recipes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of peanut butter weigh approximately 64 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making peanut butter cookies, satay sauce, or energy bites, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on delivering accurate conversions to help you nail every recipe.</p>  

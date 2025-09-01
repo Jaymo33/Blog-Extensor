@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of chopped onion equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making crispy onion toppings or adding flavour to dishes, knowing the exact weight ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

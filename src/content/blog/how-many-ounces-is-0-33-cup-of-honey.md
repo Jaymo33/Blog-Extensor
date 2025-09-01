@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of honey equals approximately 3.9 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking, glazing, or sweetening, knowing how many ounces are in 0.33 cup of honey can make all the difference.</p>

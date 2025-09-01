@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>451 degrees Fahrenheit converts to Gas Mark 8 in UK ovens and air fryers. This high-temperature setting is perfect for achieving crispy textures in air-fried foods, from roasted vegetables to perfectly baked goods.</p>

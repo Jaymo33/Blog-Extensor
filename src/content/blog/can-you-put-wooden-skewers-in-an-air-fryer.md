@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can use wooden skewers in an air fryer, but only if you soak them in water for at least 30 minutes first. This prevents them from burning or catching fire during cooking. The high-speed convection heat of air fryers requires extra precautions compared to traditional ovens.</p>

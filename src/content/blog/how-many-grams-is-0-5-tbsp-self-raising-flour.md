@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of self-raising flour equals approximately 4 grams. This precise measurement is essential for air fryer baking, where accuracy ensures light, fluffy results. Whether you’re adjusting a recipe or scaling down ingredients, knowing this conversion saves time and avoids guesswork. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

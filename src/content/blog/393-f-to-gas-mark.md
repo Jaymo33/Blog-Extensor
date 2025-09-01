@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>393°F converts to Gas Mark 6, a common setting for roasting and baking in both ovens and air fryers. This temperature is perfect for achieving crispy yet tender results, whether you're cooking meats, vegetables, or baked goods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless meals every time.</p>

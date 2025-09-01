@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of soy sauce equals approximately 2.79 cups. Whether you're whipping up a marinade or seasoning a dish in your air fryer, getting the measurements right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important precision is when cooking, especially with bold ingredients like soy sauce.</p>

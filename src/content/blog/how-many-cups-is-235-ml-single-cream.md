@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of single cream is approximately 1 cup in UK measurements or just under 1 cup (about 0.99 cups) in US measurements. Whether you're baking, cooking, or preparing a creamy sauce for your air fryer, knowing this conversion ensures your recipes turn out perfectly every time.</p>

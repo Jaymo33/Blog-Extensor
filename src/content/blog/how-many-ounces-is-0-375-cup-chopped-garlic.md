@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of chopped garlic equals approximately 3 ounces (or 85 grams) in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make all the difference. Whether you're preparing a garlic-infused dish or adjusting a recipe, knowing this measurement ensures consistent results every time.</p>  

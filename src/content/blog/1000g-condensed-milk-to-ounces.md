@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of condensed milk equals approximately 35.27 ounces. This conversion is essential for accurate measurements in baking and air fryer recipes. Whether you're making a decadent dessert or a creamy sauce, knowing how to convert grams to ounces ensures perfect results every time.</p>

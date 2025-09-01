@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>313 F converts to approximately 156 C in a fan oven. This is a common temperature for baking and roasting in air fryers, offering even heat distribution for crispy results. Whether you're cooking chicken, vegetables, or desserts, knowing this conversion ensures your dishes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master air fryer temperatures for every recipe.</p>

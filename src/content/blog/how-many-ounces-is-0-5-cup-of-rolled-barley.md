@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of rolled barley equals approximately 1.5 ounces (oz). This conversion ensures your air fryer recipes turn out perfectly every time. Whether you're meal prepping or whipping up a quick breakfast, knowing this measurement helps maintain consistency. Rolled barley is a versatile ingredient, great for adding texture and nutrition to dishes. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

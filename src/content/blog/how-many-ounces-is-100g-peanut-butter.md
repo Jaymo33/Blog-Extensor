@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of peanut butter equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up peanut butter cookies or a savoury satay sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve the best results. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>

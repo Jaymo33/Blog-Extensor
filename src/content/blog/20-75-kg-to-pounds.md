@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20.75 kg is equal to approximately 45.75 pounds, a conversion that becomes incredibly useful when portioning ingredients for your air fryer. Whether you're meal prepping, following a recipe, or buying in bulk, understanding weight conversions ensures you use the right amount for even cooking and perfect results. Many air fryer recipes, especially those from trusted sources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, provide measurements in both metric and imperial units to cater to all home cooks. Getting your weights accurate means your food will cook evenly, crisp up nicely, and avoid being under or overdone. This is particularly important for larger batches or when using your air fryer for family meals.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of chicken broth equals 10 fluid ounces (or approximately 10 oz by weight for most standard broths). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up a creamy soup or a flavourful sauce, getting the liquid quantities right ensures consistency and taste.</p>  

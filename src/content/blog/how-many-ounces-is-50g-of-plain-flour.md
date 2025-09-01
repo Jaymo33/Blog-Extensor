@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of plain flour equals approximately 1.76 ounces. This conversion is essential for anyone using an air fryer, especially when following recipes that require precise measurements. Whether you're baking air fryer cakes or coating chicken for a crispy finish, knowing how to convert grams to ounces ensures perfect results every time.</p>  

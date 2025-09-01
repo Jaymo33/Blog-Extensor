@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of yogurt is roughly equivalent to 1.8 cups, though this can vary slightly depending on the yogurt's thickness. Whether you're using Greek yogurt or a runnier variety, this conversion helps ensure your air fryer recipes turn out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in cooking and baking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of chickpeas equals approximately 1 ounce. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a quick snack or meal prepping, knowing the exact weight ensures consistent results. Chickpeas are a versatile ingredient, perfect for air frying, and this measurement helps you portion them correctly. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

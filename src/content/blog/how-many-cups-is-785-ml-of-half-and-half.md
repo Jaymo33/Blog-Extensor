@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of half and half equals approximately 3.3 cups. This conversion is essential for anyone baking or cooking with half and half, especially when using an air fryer where precise measurements matter. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert 785 ml of half and half to cups ensures your recipe turns out perfectly every time.</p>

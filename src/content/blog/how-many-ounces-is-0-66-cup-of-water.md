@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of water equals 5.28 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're preparing a marinade, sauce, or simply hydrating ingredients, knowing how many ounces are in 0.66 cup of water ensures accuracy.</p>

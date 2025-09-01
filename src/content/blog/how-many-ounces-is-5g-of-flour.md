@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of flour equals approximately 0.18 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up cakes, cookies, or breaded chicken, knowing how to convert grams to ounces ensures consistency. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

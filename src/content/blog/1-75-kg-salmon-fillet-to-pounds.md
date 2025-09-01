@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 kg salmon fillet equals approximately 3.86 pounds, making it a substantial piece perfect for feeding a crowd or meal prepping. This conversion is essential for air fryer users who follow recipes using imperial measurements. Getting the weight right ensures your salmon cooks evenly and reaches the desired doneness. Whether you're using a compact or family-sized air fryer, knowing the pound equivalent helps you adjust cooking times accurately. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

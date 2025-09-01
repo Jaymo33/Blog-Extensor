@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of single cream equals approximately 12 ounces. This conversion is essential for air fryer recipes that require precise measurements to achieve the perfect texture and consistency. Whether you're making a creamy pasta sauce or a rich dessert, knowing this conversion ensures your dish turns out just right.</p>

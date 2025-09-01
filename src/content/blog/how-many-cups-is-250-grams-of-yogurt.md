@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of yogurt is approximately 1 cup in both UK and US measurements, though slight variations can occur based on yogurt thickness. If you're using an air fryer for recipes like cakes or marinades, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on cooking. Whether you're whipping up a dessert or prepping a savoury dish, knowing how many cups 250 grams of yogurt equals is essential.</p>  

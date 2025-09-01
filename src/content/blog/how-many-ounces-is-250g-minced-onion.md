@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of minced onion equals approximately 8.82 ounces. Whether you're prepping for an air fryer recipe or just need precise measurements, this conversion ensures your dish turns out perfectly. Minced onion is a staple in many recipes, from hearty stews to crispy air-fried snacks, so getting the measurement right is key.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of rolled oats equals approximately 35.27 ounces. This conversion is essential for anyone using UK measurements in their air fryer recipes. Whether you're meal prepping or baking, knowing the exact weight ensures perfect results every time.</p>

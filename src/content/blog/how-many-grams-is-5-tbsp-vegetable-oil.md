@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of vegetable oil equals approximately 68 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and crispiness. Whether you're frying, baking, or roasting, knowing the exact weight ensures consistent results every time.</p>

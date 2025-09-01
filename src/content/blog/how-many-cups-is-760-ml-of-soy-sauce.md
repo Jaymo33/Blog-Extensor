@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of soy sauce is approximately 3.2 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can affect texture and flavour. Whether you're marinating chicken or whipping up a stir-fry, knowing the exact cup equivalent ensures your dish turns out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

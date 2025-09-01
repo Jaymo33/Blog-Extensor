@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of mayonnaise is approximately 4.41 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re whipping up a sauce or coating chicken, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

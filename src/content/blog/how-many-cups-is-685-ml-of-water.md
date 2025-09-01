@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of water is approximately 2.89 cups in the UK or 2.9 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re baking a cake or preparing a sauce, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right for perfect results every time.</p>

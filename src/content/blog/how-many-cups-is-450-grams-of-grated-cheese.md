@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of grated cheese equals approximately 4.5 cups, though this can vary slightly depending on how finely the cheese is grated. Whether you're making a cheesy air fryer dish or prepping for a bake, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for cooking success.</p>  

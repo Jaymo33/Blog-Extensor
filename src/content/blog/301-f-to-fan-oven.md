@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>301 F converts to approximately 150 C in a fan oven. This temperature is commonly used for slow roasting, baking delicate items, or dehydrating foods in both fan ovens and air fryers. Understanding this conversion helps when following recipes designed for different cooking appliances.</p>

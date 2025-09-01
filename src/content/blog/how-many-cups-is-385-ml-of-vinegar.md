@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of vinegar equals approximately 1.63 US cups or 1.35 UK cups. This conversion is essential for air fryer recipes, where precise measurements ensure the perfect balance of flavours. Whether you're marinating chicken or whipping up a tangy glaze, knowing how to convert millilitres to cups makes cooking effortless.</p>  

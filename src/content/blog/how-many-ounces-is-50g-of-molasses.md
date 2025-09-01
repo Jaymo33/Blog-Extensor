@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of molasses equals approximately 1.76 ounces, making it easy to measure for your favourite air fryer recipes. Whether you're baking or creating a glaze, this conversion ensures accuracy in your kitchen. Molasses is a staple in many British desserts, and knowing how to convert grams to ounces helps you follow recipes without hassle.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of cocoa powder is roughly equivalent to 2.6 cups in the UK or 2.7 cups in the US. This conversion ensures your baking measurements are spot-on, whether you're making brownies, cakes, or air fryer desserts. Precise measurements are key to perfect results, so let's dive deeper into how to get it right every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 kg of chicken breast converts to exactly 22.046 pounds, which is approximately 22 pounds when rounded for practical cooking purposes. This conversion is essential for anyone using recipes with imperial measurements or shopping for specific quantities. Whether you're preparing a large family meal or batch cooking for the week, knowing how to convert 10 kg chicken breast to pounds ensures you get your portions just right. For air fryer users, accurate measurements help with cooking times and temperature settings, leading to perfectly cooked chicken every time. You can find more helpful conversion guides at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your kitchen life easier.</p>

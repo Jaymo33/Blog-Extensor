@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put battered fish in an air fryer, but it requires careful preparation to prevent mess and ensure even cooking. The circulating hot air mimics deep-frying for crispy coatings while using minimal oil. At airfryerrecipe.co.uk, we've tested dozens of methods to perfect this technique.</p>

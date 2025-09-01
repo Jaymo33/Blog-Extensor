@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of double cream is approximately 1.42 cups. Whether you're baking, cooking, or using your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. Double cream is a staple in many dishes, from rich desserts to creamy sauces, and measuring it accurately is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these conversions so your meals are always spot-on.</p>  

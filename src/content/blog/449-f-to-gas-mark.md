@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>449 F converts to Gas Mark 8, which is a common setting for roasting meats, baking, and air frying. This temperature is ideal for achieving a crispy exterior while keeping the inside tender. Whether you're using an oven or an air fryer, knowing this conversion ensures your dishes cook perfectly every time.</p>

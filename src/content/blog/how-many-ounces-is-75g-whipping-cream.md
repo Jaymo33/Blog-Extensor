@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of whipping cream is approximately 2.65 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up desserts or savoury dishes, knowing how many ounces is 75g of whipping cream ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of broccoli is approximately 175 grams. This measurement is crucial for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making a quick side dish or a main meal, knowing the exact gram equivalent helps you follow recipes accurately.</p>

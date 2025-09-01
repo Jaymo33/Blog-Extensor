@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of pasta typically weighs around 150 grams, though this can vary slightly depending on the pasta shape and density. Getting this measurement right is crucial for air fryer cooking, where precise portions ensure even crisping and perfect results every time. Whether you’re meal prepping or whipping up a quick dinner, knowing how to convert cups to grams takes the guesswork out of cooking. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

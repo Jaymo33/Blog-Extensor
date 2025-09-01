@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of harissa paste equals approximately 14 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're marinating chicken, spicing up vegetables, or creating a bold dip, knowing how to convert cups to ounces helps streamline your cooking process.</p>  

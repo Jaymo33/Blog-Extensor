@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of water equals approximately 2.37 cups in the US measurement system and roughly 2.46 cups in the UK. This conversion is essential for precise cooking, baking, or preparing air fryer recipes where accurate liquid measurements matter. Whether you're whipping up a cake or adjusting a sauce, knowing how to convert millilitres to cups ensures perfect results every time.</p>  

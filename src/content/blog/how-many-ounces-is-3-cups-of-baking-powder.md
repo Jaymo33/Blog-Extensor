@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of baking powder equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're whipping up cakes or savoury dishes, knowing how to convert cups to ounces can make your cooking experience smoother. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurement tips.</p>  

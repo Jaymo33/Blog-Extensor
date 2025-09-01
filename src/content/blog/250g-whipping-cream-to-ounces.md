@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of whipping cream equals approximately 8.82 ounces. This conversion is essential for UK cooks using air fryer recipes that require precise measurements of dairy ingredients. Whether you're making air fryer chocolate mousse or whipped cream toppings, getting the quantities right makes all the difference.</p>

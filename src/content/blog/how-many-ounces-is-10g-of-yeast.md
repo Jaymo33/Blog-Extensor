@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of yeast equals approximately 0.35 ounces. This conversion is essential for bakers who prefer using ounces over grams, especially when following UK recipes. Whether you're preparing dough for bread, pizza, or even air fryer-friendly pastries, getting the yeast measurement right is crucial for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of granulated sugar equals approximately 25 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you’re whipping up cakes or sweetening desserts, knowing the exact weight ensures consistency. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

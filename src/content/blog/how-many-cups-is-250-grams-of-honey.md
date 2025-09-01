@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of honey is roughly equivalent to 0.75 cups (¾ cup) in both UK and US measurements. However, honey’s thickness and density can slightly affect this conversion, so using a kitchen scale is always best for precision. Whether you’re baking a cake or glazing chicken in your air fryer, knowing exact measurements ensures perfect results every time. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

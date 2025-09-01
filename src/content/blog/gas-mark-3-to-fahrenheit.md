@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 3 converts to 325°F (163°C), making it a moderate oven temperature ideal for baking and slow roasting in both conventional ovens and air fryers. This temperature is perfect for recipes requiring gentle, even heat without excessive browning. Whether you're converting a family recipe or adapting cooking times for your air fryer, understanding Gas Mark 3 to Fahrenheit conversions ensures consistent results.</p>

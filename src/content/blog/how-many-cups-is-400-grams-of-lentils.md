@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of lentils is roughly equivalent to 2 US cups or 1.6 UK cups. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making a hearty lentil stew or crispy air-fried lentil bites, knowing how to convert grams to cups saves time and avoids kitchen mishaps.</p>  

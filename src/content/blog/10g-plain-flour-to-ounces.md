@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of plain flour equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're whipping up a batch of air-fried cookies or coating chicken for a crispy finish, knowing how to convert grams to ounces is a game-changer.</p>

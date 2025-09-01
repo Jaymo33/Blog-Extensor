@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of butter equals approximately 7 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking, frying, or roasting, knowing the exact weight ensures consistent results every time.</p>  

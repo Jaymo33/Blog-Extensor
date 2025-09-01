@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of maple syrup equals approximately 14.8 fluid ounces (or 14.8 oz) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're drizzling it over air-fried pancakes or using it as a glaze for roasted vegetables, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

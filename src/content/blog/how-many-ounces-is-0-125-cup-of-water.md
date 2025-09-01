@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of water equals exactly 1 fluid ounce. This conversion is essential for air fryer recipes where precision matters, whether you’re baking, steaming, or adjusting ingredient ratios. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that small measurements like 0.125 cup can make a big difference in cooking outcomes.</p>  

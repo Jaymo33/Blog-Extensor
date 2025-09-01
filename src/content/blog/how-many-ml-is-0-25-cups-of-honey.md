@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of honey equals approximately 59 ml, making it easy to measure for precise cooking and baking. Whether you're using an air fryer or a traditional oven, accurate measurements ensure your recipes turn out perfectly every time. Honey’s thickness can vary, but this conversion works for most culinary applications. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

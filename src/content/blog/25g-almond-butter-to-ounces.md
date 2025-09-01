@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of almond butter equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or preparing nut-based dishes. Whether you're whipping up almond butter cookies or adding a nutty drizzle to your air-fried desserts, knowing this measurement ensures perfect results every time.</p>  

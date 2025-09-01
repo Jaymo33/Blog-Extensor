@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of vinegar equals approximately 3.5 cups in both UK and US measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're marinating chicken, pickling vegetables, or whipping up a tangy sauce, knowing how to convert millilitres to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of turmeric equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're preparing a marinade, spice rub, or seasoning blend, knowing the exact weight ensures consistency. Turmeric’s earthy flavour works wonders in everything from roasted vegetables to crispy chicken. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

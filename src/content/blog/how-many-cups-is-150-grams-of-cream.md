@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of cream is roughly equivalent to 0.63 cups (or just over half a cup) in standard UK and US measurements. This conversion is essential for air fryer recipes where precision matters, especially in baking or creamy sauces. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be, so we’ve broken it down for you.</p>  

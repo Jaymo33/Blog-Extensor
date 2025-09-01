@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating falafel in an air fryer is simple: preheat to 180°C (350°F), cook for 3-4 minutes, and enjoy crispy results. This method beats microwaving, as it revives the texture without making the falafel soggy or dry. Whether you have leftover homemade falafel or store-bought, your air fryer can bring it back to life effortlessly.</p>

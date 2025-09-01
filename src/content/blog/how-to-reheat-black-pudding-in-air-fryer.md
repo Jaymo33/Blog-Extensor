@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat black pudding in an air fryer, preheat to 160°C and cook for 3-4 minutes until piping hot. This method preserves moisture while crisping the exterior better than microwaving. Black pudding reheats beautifully in air fryers when done correctly, making it ideal for breakfast leftovers or meal prep.</p>

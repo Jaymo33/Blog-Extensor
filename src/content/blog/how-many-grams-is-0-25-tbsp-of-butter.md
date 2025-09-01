@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of butter equals approximately 3.55 grams in the UK. This conversion is essential for precision in air fryer recipes, where accurate measurements can make or break a dish. Whether you’re whipping up a batch of cookies or preparing a savoury dish, knowing the exact weight of butter ensures consistent results every time.</p>

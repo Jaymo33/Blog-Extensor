@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>132 fan oven converts to approximately 150°C in a conventional oven. This adjustment ensures your dishes cook evenly without drying out or burning. Fan ovens circulate hot air, allowing them to cook food faster and at lower temperatures than conventional ovens. Understanding this conversion is crucial when following recipes designed for different oven types, especially when using your air fryer which often follows fan oven principles.</p>

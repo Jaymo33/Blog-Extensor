@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of cheddar cheese equals approximately 340 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making crispy cheese bites, loaded nachos, or a cheesy bake, knowing the exact gram equivalent ensures consistency and perfection.</p>

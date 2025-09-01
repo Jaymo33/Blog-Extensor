@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of soy sauce equals approximately 75 grams (g). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're marinating chicken or seasoning tofu, knowing the exact weight helps avoid overly salty or bland dishes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of porridge oats equals approximately 7.05 ounces. Whether you're prepping breakfast in your air fryer or following a recipe, this conversion ensures accuracy. Porridge oats are a staple in many UK kitchens, especially for quick and healthy air fryer meals. Knowing how to convert grams to ounces helps when using older recipes or scales that only display imperial measurements. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

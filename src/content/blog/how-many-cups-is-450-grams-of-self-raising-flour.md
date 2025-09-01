@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of self-raising flour equals approximately 3.6 cups in the UK and 3.75 cups in the US. This conversion is essential for bakers using air fryers or traditional ovens to ensure perfect results every time. Whether you're whipping up cakes, cookies, or bread, getting your measurements right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters when converting grams to cups for self-raising flour.</p>

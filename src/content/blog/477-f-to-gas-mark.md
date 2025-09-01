@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>477°F converts to Gas Mark 9, which is the highest standard setting on most UK ovens. This high temperature is ideal for achieving perfect crispiness in air fryer recipes, especially when cooking roasted vegetables or crispy chicken wings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your specific air fryer model as some may have slightly different temperature ranges.</p>

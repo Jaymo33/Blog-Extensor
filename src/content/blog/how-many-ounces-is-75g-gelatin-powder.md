@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of gelatin powder equals approximately 2.65 ounces. This conversion is essential for precise measurements in recipes, especially when using an air fryer for desserts or savoury dishes. Whether you're making marshmallows, panna cotta, or a gelatin-based glaze, knowing the exact weight ensures perfect results every time.</p>  

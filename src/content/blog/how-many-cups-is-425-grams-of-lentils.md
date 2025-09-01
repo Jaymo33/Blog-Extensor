@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of lentils is roughly equivalent to 2.1 cups, though this can vary slightly depending on the type and packing of the lentils. Whether you're using an air fryer or a traditional oven, accurate measurements are key to perfecting your dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precise conversions are for hassle-free cooking.</p>  

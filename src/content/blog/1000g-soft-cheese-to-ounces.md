@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of soft cheese equals approximately 35.27 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when baking or preparing creamy dishes. Whether you’re making cheesecake, dips, or stuffed mushrooms, knowing how to convert grams to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Let’s dive deeper into why this measurement matters and how to use it in your kitchen.</p>  

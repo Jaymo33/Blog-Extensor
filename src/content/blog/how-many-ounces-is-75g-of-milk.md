@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of milk equals approximately 2.65 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making a creamy sauce or a light batter, knowing the exact weight ensures perfect results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

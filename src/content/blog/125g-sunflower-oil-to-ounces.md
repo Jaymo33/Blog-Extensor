@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of sunflower oil equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're frying, baking, or roasting, knowing how to convert grams to ounces ensures your meals turn out perfectly every time.</p>

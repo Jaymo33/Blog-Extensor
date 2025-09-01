@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of cooked rice equals approximately 2.64 ounces (74.8 grams). This measurement is essential for precise air fryer cooking, ensuring your portions are spot-on for recipes and meal prep.</p>  

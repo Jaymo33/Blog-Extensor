@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of coconut oil equals approximately 21 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making crispy vegetables or baking a cake, knowing the exact weight helps avoid guesswork.</p>  

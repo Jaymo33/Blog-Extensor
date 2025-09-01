@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of yogurt is roughly equivalent to 1.1 cups in standard US measurements or 1.2 cups in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake or marinating chicken, knowing how many cups 275 grams of yogurt equals ensures perfect results every time.</p>

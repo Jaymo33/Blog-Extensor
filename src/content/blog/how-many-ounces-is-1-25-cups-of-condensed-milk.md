@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of condensed milk equals approximately 10.6 ounces (or 10.58 oz to be precise). This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Whether you're making a creamy dessert or a rich sauce, knowing the exact weight ensures perfect results every time.</p>

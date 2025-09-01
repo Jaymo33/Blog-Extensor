@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of buttermilk equals approximately 887.21 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up fluffy pancakes or tender fried chicken, knowing how many ml is 3.75 cups of buttermilk ensures consistency and perfection.</p>  

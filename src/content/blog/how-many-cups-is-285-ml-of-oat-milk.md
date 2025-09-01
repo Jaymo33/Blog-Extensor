@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of oat milk equals approximately 1.2 cups in the UK and 1.2 cups in the US. This measurement is essential for baking, cooking, or even making your morning coffee in an air fryer-friendly recipe. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or converting a family favourite, knowing this conversion ensures accuracy.</p>  

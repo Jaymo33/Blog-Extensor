@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of granulated sugar equals approximately 350 grams. This conversion is essential for precise baking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you’re whipping up cakes, cookies, or desserts, knowing the exact gram equivalent ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of half and half is approximately 0.68 cups in US measurements or 0.56 cups in UK measurements. This conversion is essential for air fryer recipes that require precise liquid measurements to achieve the best texture and flavour. Whether you’re whipping up a creamy sauce or baking a moist cake, knowing how to convert 160 ml of half and half to cups ensures consistency in your cooking. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

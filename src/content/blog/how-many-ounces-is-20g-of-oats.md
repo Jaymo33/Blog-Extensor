@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of oats equals approximately 0.705 ounces. Whether you're prepping breakfast or baking in your air fryer, knowing this conversion ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for consistent results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of protein powder equals approximately 10.64 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require accurate portions. Whether you're meal prepping or following a specific diet, knowing this conversion ensures consistency in your cooking.</p>  

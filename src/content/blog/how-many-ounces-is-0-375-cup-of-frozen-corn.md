@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of frozen corn equals approximately 3 ounces, making it easy to measure for air fryer recipes. Whether you’re prepping a quick side dish or adding corn to a hearty meal, accurate measurements ensure consistent results. Frozen corn is a versatile ingredient, and knowing its weight in ounces helps streamline your cooking process. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

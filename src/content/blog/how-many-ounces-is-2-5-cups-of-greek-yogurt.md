@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of greek yogurt equals approximately 20 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results. Whether you’re making dips, marinades, or baked goods, knowing the exact weight helps maintain consistency. Greek yogurt is denser than regular yogurt, so volume-to-weight conversions matter. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

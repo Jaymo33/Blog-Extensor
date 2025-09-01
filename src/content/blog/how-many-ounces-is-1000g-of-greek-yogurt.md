@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of Greek yogurt equals approximately 35.27 ounces. This conversion is handy for anyone using air fryer recipes that require precise measurements. Whether you're whipping up a breakfast dish or a creamy dessert, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious ideas.</p>

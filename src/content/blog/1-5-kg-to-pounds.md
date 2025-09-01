@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 kg is equal to 3.30693 pounds, which is approximately 3 pounds and 5 ounces when rounded for practical kitchen use. This conversion is essential for air fryer enthusiasts who need to measure ingredients accurately to achieve perfect cooking results. Whether you are preparing a family meal or meal prepping for the week, knowing how to convert 1.5 kg to pounds helps you follow recipes precisely and avoid under or overcooking. Many air fryer recipes, especially those found on resources like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, provide weights in metric or imperial units, so being fluent in both systems is a huge advantage. Getting your measurements right from the start ensures that your air fried dishes turn out crispy, juicy, and delicious every single time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of double cream is approximately 1 cup in standard US measurements, or just under 1 cup (0.99 cups) for precise conversions. This measurement is essential for baking, cooking, and especially when using an air fryer to ensure perfect consistency in your recipes. Whether you're whipping up a creamy sauce or a decadent dessert, knowing the exact conversion helps avoid kitchen mishaps.</p>  

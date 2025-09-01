@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of maple syrup equals approximately 0.57 cups (just over half a cup). This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly sweetened every time. Whether you're making glazes, marinades, or baked goods, knowing this measurement helps avoid guesswork. For more precise conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

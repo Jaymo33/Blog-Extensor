@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of lemon juice equals approximately 2.15 cups in standard US measurements. For UK cup measurements, it’s roughly 2.25 cups due to slight variations in cup sizes. Whether you're whipping up a zesty marinade or baking a tangy dessert, knowing this conversion ensures your air fryer recipes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>201 C in a fan oven is equivalent to approximately 180 C with the fan setting. This 20-degree reduction is standard when converting conventional oven temperatures to fan-assisted cooking. Whether you're baking, roasting, or using your air fryer, understanding this conversion ensures perfect results every time.</p>

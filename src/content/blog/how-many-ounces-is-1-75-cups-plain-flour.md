@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of plain flour equals approximately 7.7 ounces (oz) in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect texture and consistency. Whether you’re whipping up cakes, cookies, or bread, knowing the exact weight of your flour makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide reliable conversions to help you master air fryer recipes with ease.</p>  

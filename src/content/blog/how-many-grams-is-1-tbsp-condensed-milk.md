@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of condensed milk weighs approximately 19 grams. This measurement is essential for precise baking and cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're making desserts or glazes, knowing this conversion ensures consistent results every time.</p>  

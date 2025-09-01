@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of apple juice equals 4 fluid ounces (or approximately 4.17 oz for precise measurements). This conversion is essential for air fryer recipes where exact liquid measurements can impact texture and flavour. Whether you’re making a glaze for chicken or a marinade for vegetables, knowing how many ounces are in 0.5 cup of apple juice ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you master these small but crucial details for perfect cooking every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of chopped onion equals approximately 0.7 ounces. This conversion is handy for air fryer recipes where precise measurements ensure the best results. Whether you're prepping a stir-fry or adding onions to a casserole, knowing the exact weight helps maintain consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

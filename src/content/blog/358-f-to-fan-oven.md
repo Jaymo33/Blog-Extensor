@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>358 F converts to approximately 180 C in a fan oven. This is a common temperature for baking, roasting, and air frying, ensuring even cooking without overheating. If you're using an air fryer, this conversion is especially handy for adapting recipes designed for conventional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks.</p>

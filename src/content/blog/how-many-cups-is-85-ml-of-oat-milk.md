@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of oat milk is approximately 0.36 cups (just over 1/3 cup). This conversion is essential for baking, cooking, or preparing recipes in your air fryer. Whether you're whipping up a cake or a creamy sauce, knowing how to measure 85 ml of oat milk in cups ensures precision.</p>

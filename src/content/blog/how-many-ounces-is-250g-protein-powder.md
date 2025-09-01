@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of protein powder equals approximately 8.82 ounces. This conversion is essential for anyone using protein powder in recipes, meal prep, or portion control. Whether you're baking protein-packed treats or mixing post-workout shakes, knowing the exact weight ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>  

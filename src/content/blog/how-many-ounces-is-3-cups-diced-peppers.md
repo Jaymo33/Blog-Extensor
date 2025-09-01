@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of diced peppers weigh approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, ensuring accurate ingredient measurements for consistent results. Whether you're prepping stuffed peppers or a veggie stir-fry, knowing the weight helps balance flavours and cooking times. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

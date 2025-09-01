@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of water equals 650.62 ml. This conversion is essential for accurate cooking, especially when using an air fryer where precision can make or break a recipe. Whether you're baking, preparing sauces, or simply measuring liquids, knowing how to convert cups to millilitres ensures consistent results every time.</p>  

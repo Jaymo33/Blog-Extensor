@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of coconut milk is approximately 1.1 cups in the UK or 1.09 cups in the US. This conversion is essential for air fryer recipes where precise measurements matter. Whether you're making a creamy curry or a dairy-free dessert, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

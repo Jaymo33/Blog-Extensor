@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of beef stock equals approximately 1.42 cups in the UK or 1.41 cups in the US. This conversion is essential for precise cooking, especially when using an air fryer, where measurements can make or break a dish. Whether you're preparing a rich gravy or a hearty stew, knowing how much beef stock to use ensures consistent results every time.</p>  

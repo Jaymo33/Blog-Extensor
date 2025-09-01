@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of chicken broth equals approximately 0.042 cups. This small measurement is often used in air fryer recipes to add flavour without overwhelming the dish. Whether you're making a sauce, marinade, or glaze, knowing this conversion ensures your cooking stays precise.</p>

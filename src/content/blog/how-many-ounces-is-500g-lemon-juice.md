@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of lemon juice equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a zesty marinade or a tangy glaze, knowing the exact weight ensures consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

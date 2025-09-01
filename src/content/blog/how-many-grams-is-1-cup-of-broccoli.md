@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cup of chopped broccoli weighs approximately 91 grams. This measurement is essential for air fryer recipes, ensuring accuracy whether you're roasting, baking, or meal prepping. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfectly cooked dishes.</p>

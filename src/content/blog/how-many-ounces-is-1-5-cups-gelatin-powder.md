@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of gelatin powder equals approximately 12 ounces (340 grams) in weight. This conversion is essential for air fryer recipes, where precision ensures the perfect texture for desserts like panna cotta or jelly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that accurate measurements make all the difference in achieving flawless results.</p>  

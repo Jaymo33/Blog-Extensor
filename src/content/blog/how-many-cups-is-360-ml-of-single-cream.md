@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of single cream is approximately 1.5 cups in UK measurements or 1.52 cups in US measurements. Whether you're whipping up a creamy sauce or baking a delicious dessert, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements, especially when using an air fryer.</p>

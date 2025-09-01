@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of agave syrup equals approximately 1.76 ounces. This conversion is essential for anyone using agave syrup in air fryer recipes, ensuring precise measurements for perfect results. Whether you’re making glazes, marinades, or desserts, knowing how to convert grams to ounces is a handy skill. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

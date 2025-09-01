@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of icing sugar is approximately 0.71 ounces. This conversion is essential for bakers and home cooks who need precise measurements for recipes, especially when using an air fryer for desserts. Whether you’re making frosting, dusting cakes, or preparing air fryer-friendly treats, knowing how to convert grams to ounces ensures accuracy.</p>  

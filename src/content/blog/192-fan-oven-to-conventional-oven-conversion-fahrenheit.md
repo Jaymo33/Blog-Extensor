@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>192 fan oven equals approximately 375°F in a conventional oven. This conversion is essential for baking and roasting, ensuring your dishes come out perfectly cooked. Whether you're using an air fryer or a traditional oven, knowing this conversion can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions with ease.</p>

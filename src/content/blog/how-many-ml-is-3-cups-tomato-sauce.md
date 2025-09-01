@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of tomato sauce equals approximately 710 ml. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making a rich pasta sauce or a hearty casserole, knowing how many ml is 3.0 cups of tomato sauce helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can spend less time measuring and more time enjoying delicious meals.</p>

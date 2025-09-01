@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of treacle weighs approximately 20 grams. This measurement is essential for baking and cooking, especially when using an air fryer, where precision can make all the difference. Whether you're making sticky toffee pudding or glazing meats, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of rolled oats weigh approximately 16 grams. This measurement is essential for air fryer recipes, ensuring consistency in texture and cooking times. Whether you're making granola, oat bars, or a crunchy topping, knowing the exact weight helps achieve perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of half and half equals approximately 2.15 cups in the US measurement system and 2.25 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert ml to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

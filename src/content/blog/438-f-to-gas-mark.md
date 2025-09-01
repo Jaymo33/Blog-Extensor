@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>438 F converts to Gas Mark 8 in UK ovens and air fryers. This high temperature is perfect for roasting meats, baking pastries, or achieving crispy textures in your air fryer. Understanding this conversion helps adapt recipes between conventional ovens and modern appliances like air fryers. Whether you're following an American recipe or adjusting cooking times, knowing 438 F equals Gas Mark 8 ensures consistent results. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more conversion tips.</p>

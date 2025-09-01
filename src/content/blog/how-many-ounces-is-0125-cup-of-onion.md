@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of onion equals approximately 1 ounce (0.99 oz to be precise). This conversion is essential for air fryer recipes where precision ensures perfect results every time. Whether you're making crispy onion toppings or adding flavour to dishes, knowing the exact weight helps balance textures and flavours.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of sunflower oil equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and taste. Whether you're frying, baking, or making dressings, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

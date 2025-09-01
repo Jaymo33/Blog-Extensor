@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat chicken wings in an air fryer, preheat to 180°C (350°F) and cook for 3-5 minutes until piping hot. This method restores crispiness better than microwaving and prevents the rubbery texture oven reheating often creates. Whether you’ve stored wings in the fridge or freezer, your air fryer can revive them with minimal effort. For extra crunch, lightly spritz with oil before reheating – a trick we swear by at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

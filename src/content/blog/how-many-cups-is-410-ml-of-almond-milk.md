@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of almond milk equals approximately 1.73 cups in the US or 1.44 cups in the UK. This conversion is essential for recipes, especially when using an air fryer, where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 410 ml of almond milk to cups ensures perfect results every time.</p>  

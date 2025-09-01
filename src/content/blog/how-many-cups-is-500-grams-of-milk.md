@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of milk is roughly equivalent to 2.1 cups in the UK or 2.11 cups in the US. This conversion is essential for baking, cooking, or even making creamy sauces in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting measurements, knowing how to convert grams to cups ensures accuracy.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>340°F converts to Gas Mark 3 in UK ovens and air fryers. This medium heat setting is ideal for baking cookies, roasting vegetables, or cooking poultry in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or adapting traditional oven instructions, knowing this conversion ensures perfect results.</p>

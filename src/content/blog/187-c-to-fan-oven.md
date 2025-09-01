@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>187 C in a fan oven is equivalent to approximately 170 C with the fan setting. This 17-degree reduction accounts for the fan's efficient heat distribution, ensuring even cooking without over-browning. Whether you're baking cakes or roasting vegetables, this conversion is essential for perfect results in modern ovens and air fryers.</p>

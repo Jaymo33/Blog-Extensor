@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of granulated sugar equals approximately 3.53 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break your recipe. Whether you're whipping up cakes or cookies, getting the sugar quantity right ensures perfect results every time.</p>

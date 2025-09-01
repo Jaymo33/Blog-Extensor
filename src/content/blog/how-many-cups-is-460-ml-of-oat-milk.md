@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of oat milk equals approximately 1.94 cups in the US or 1.61 cups in the UK. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're whipping up pancakes or a creamy sauce, knowing how to convert 460 ml of oat milk to cups ensures consistent results every time.</p>

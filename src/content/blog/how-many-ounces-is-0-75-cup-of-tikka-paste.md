@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of tikka paste equals approximately 6 ounces, making it easy to measure for your air fryer recipes. Whether you're marinating chicken or preparing a quick curry, knowing this conversion ensures accuracy and delicious results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide precise measurements to help you cook with confidence.</p>  

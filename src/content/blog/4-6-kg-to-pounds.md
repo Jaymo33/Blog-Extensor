@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.6 kilograms is equal to approximately 10.141 pounds, a conversion that becomes incredibly useful when portioning ingredients for your air fryer. Whether you're meal prepping, following a recipe from another country, or simply trying to understand your appliance's capacity, knowing how to convert 4.6 kg to pounds is a fundamental kitchen skill. This conversion ensures you use the correct amount of food, leading to even cooking and perfect results every time. Many air fryer recipes, especially those for larger families or batch cooking, specify weights in kilograms or pounds. Getting this conversion right is the first step towards a delicious meal, and resources like <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> are built on providing this crucial information.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of honey is roughly 1/3 cup (0.36 cups to be precise). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking honey-glazed chicken or whipping up a dessert, knowing how to convert 85 ml of honey to cups ensures perfect results every time.</p>  

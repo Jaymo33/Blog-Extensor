@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of olive oil is approximately 3.63 cups. This conversion is essential for air fryer recipes where precise measurements ensure perfect cooking results. Whether you're making crispy chips or baking a cake, knowing how to convert millilitres to cups helps avoid guesswork.</p>

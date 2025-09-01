@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of lemon juice equals approximately 0.148 cups (or roughly 1/7 of a cup). This conversion is handy for recipes, especially when using an air fryer where precise measurements matter. Whether you’re baking a lemon drizzle cake or marinating chicken, knowing this conversion ensures your dish turns out perfectly.</p>

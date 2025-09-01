@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of cream is approximately 0.36 cups in the UK and 0.35 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert 85 ml of cream to cups ensures consistency and perfect results every time.</p>

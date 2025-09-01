@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of brown sugar equals approximately 1.06 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re whipping up a dessert or a savoury dish, knowing how to convert grams to ounces ensures your recipe turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking.</p>  

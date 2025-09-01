@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>405 F converts to approximately 207 C in a fan oven, which is a common setting for crispy roasting and baking. This temperature is ideal for achieving golden-brown results in both traditional ovens and air fryers. Understanding this conversion helps you adapt recipes seamlessly between appliances.</p>

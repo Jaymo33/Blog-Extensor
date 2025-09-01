@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of pumpkin seeds weigh approximately 12 ounces (340 grams). This conversion is handy when preparing air fryer recipes, ensuring you get the perfect crunch every time. Whether you're roasting them as a snack or using them in a dish, accurate measurements matter. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more tips on perfecting your air fryer meals.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25 grams of mayonnaise equals approximately 0.88 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a quick sauce or coating chicken for a crispy finish, knowing how to convert 25g of mayonnaise to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

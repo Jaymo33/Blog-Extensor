@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of beef stock is roughly 0.46 cups (just under half a cup). If you're using an air fryer for soups, stews, or gravies, getting the right measurement ensures your dish turns out perfectly. Whether you're following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> or improvising, knowing this conversion is key.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of water equals approximately 4.06 cups in the UK or 4.06 US cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you’re preparing a sauce, batter, or simply hydrating ingredients, knowing how many cups is 960 ml of water ensures consistency in your dishes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless results every time.</p>  

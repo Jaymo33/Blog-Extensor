@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>421°F converts to Gas Mark 8 in UK ovens and air fryers. This high temperature is perfect for professional baking, pizza cooking, or achieving crispy roast potatoes. Whether you're using a conventional oven or modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

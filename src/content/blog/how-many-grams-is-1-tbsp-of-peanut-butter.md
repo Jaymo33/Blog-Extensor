@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One tablespoon (1 tbsp) of peanut butter weighs approximately 16 grams, though this can vary slightly depending on the brand and consistency. Whether you're whipping up a quick snack or a full meal in your air fryer, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that precision matters, especially when converting between volume and weight for ingredients like peanut butter.</p>  

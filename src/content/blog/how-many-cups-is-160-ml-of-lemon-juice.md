@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of lemon juice equals approximately 2/3 of a standard US cup or just over half a UK metric cup. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you’re whipping up a zesty marinade or a tangy dessert, knowing how to convert 160 ml of lemon juice to cups ensures your dish turns out perfectly every time.</p>

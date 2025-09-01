@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>An 8.5 kg beef joint is equal to approximately 18.74 pounds. This conversion is essential when preparing a large cut of beef for roasting, especially if you're using an air fryer and need to calculate cooking times accurately. Many recipes, particularly those from American sources or older British cookbooks, use pounds rather than kilograms, so knowing how to convert between the two is a handy skill for any home cook. Whether you're planning a family dinner or a festive feast, getting the weight right ensures your meat cooks evenly and comes out perfectly juicy. For more helpful conversion tips, check out the resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

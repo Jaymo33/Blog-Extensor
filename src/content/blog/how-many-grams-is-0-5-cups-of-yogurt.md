@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of yogurt equals approximately 120 grams, making it easy to measure for air fryer recipes and baking. This conversion ensures accuracy, whether you're whipping up a creamy dessert or a savoury marinade. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements are key to perfect results, especially when using an air fryer.</p>  

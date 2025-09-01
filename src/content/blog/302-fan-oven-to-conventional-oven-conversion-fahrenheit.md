@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>302°F in a fan oven equals approximately 275°F in a conventional oven. This conversion is crucial for adapting recipes between different oven types, especially when precision matters for baking or roasting. Fan ovens circulate hot air for faster, more even cooking, which means they often require lower temperatures than traditional ovens. Understanding this difference helps prevent overcooked or underdone dishes when switching between appliances.</p>

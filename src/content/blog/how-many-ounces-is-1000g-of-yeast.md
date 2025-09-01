@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of yeast equals approximately 35.27 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like bread or pizza dough. Whether you're scaling up a recipe or adjusting for different measurements, knowing how to convert grams to ounces ensures consistent results every time.</p>

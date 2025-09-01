@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of sunflower oil weighs approximately 13.6 grams in the UK. This measurement is essential for air fryer cooking, where precise quantities can make all the difference in texture and flavour. Whether you’re frying, roasting, or baking, knowing the exact weight helps you achieve consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

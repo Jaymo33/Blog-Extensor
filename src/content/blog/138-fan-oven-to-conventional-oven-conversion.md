@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 138 Fan Oven to Conventional Oven Conversion</h2>

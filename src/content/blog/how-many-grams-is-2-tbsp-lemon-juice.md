@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of lemon juice weigh approximately 30 grams. This measurement is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you’re marinating chicken or adding zest to desserts, knowing the exact weight helps avoid recipe mishaps.</p>  

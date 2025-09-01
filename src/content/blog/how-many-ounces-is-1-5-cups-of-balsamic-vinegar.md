@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of balsamic vinegar equals 12 fluid ounces (or approximately 354.88 ml). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a glaze for chicken or a marinade for vegetables, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

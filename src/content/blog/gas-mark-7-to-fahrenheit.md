@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 7 converts to 425°F, making it a medium-high heat perfect for air fryer cooking. This temperature works brilliantly for roasting vegetables, baking goods, or crisping up frozen foods. Many traditional oven recipes use Gas Mark 7, which translates directly to your air fryer with minor timing adjustments. At airfryerrecipe.co.uk, we specialise in helping you adapt conventional cooking methods to your air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of baking soda equals approximately 3.75 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up fluffy cakes or crispy snacks, knowing the exact weight ensures consistent results every time.</p>  

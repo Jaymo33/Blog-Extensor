@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of brown sugar equals approximately 4 ounces. This measurement is crucial for achieving the perfect balance of sweetness in your air fryer recipes. Whether you're baking cookies or glazing meats, knowing how many ounces are in 0.5 cup of brown sugar ensures consistent results every time.</p>

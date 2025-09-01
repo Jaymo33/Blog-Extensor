@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of caster sugar equals approximately 5.29 ounces. This precise conversion is essential when adapting recipes for your air fryer, where accurate measurements can make all the difference to your baking results. Whether you're whipping up cakes, cookies or desserts in your air fryer, knowing how to convert 150g caster sugar to ounces ensures perfect sweetness every time.</p>

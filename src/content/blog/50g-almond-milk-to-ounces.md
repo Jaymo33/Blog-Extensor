@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of almond milk equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you're whipping up a breakfast dish or a creamy dessert, knowing how to convert grams to ounces helps streamline your cooking process.</p>  

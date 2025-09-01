@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of balsamic vinegar is approximately 3 cups. This conversion is essential for air fryer recipes, ensuring accuracy in marinades, glazes, or dressings. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing this measurement helps maintain consistency.</p>  

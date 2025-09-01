@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of vegetable oil equals 237 millilitres (ml). This conversion is essential for accurate measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking, frying, or roasting, knowing how many ml are in 1.0 cups of vegetable oil helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to make your cooking effortless.</p>

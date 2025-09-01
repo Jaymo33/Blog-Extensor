@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of tomato ketchup equals approximately 1.06 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making burgers, fries, or marinades, knowing the exact weight ensures consistency. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

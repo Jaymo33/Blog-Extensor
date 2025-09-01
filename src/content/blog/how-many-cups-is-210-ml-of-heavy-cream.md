@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of heavy cream is approximately 0.89 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert millilitres to cups ensures consistent results every time.</p>

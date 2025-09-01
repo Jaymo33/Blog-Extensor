@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>19.7 kg is equal to 43.43 pounds. Getting your weights right is a fundamental part of successful air frying, whether you're portioning out ingredients, following a recipe precisely, or working out how much food your appliance can handle in one go. Accurate conversions ensure everything cooks evenly, crisps up perfectly, and avoids the dreaded overcrowding that leads to soggy results. For all your air frying adventures, from a big family meal prep to a quick snack, knowing how to convert 19.7 kg to pounds is a genuinely useful skill. Bookmark <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> for more essential tips and guides that make cooking simpler.</p>

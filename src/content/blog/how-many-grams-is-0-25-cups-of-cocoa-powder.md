@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of cocoa powder equals approximately 25 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can impact texture and rise. Whether you're making brownies, cakes, or chocolate desserts, knowing how many grams 0.25 cups of cocoa powder weighs ensures consistent results every time.</p>

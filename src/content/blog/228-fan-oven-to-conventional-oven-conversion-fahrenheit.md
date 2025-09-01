@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>228 fan oven equals approximately 200°F in a conventional oven. This conversion is essential for baking and roasting, especially when using recipes designed for fan ovens. Understanding this difference ensures your dishes turn out perfectly every time, whether you're using a conventional oven or an air fryer.</p>

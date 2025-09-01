@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of ground cumin equals approximately 3.5 ounces (99 grams). This measurement is essential for air fryer recipes, where precision ensures the best flavour and texture. Whether you’re spicing up roasted vegetables or marinating chicken, knowing the exact weight of your spices makes a difference.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of cooked rice weighs approximately 22.5 grams. This conversion is essential for air fryer cooking, where precise measurements can make all the difference in texture and doneness. Whether you’re preparing a quick side dish or meal prepping for the week, knowing this conversion ensures consistency in your recipes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of soft cheese weighs approximately 7.5 grams. This measurement is essential for air fryer recipes where precision ensures the perfect texture and consistency. Whether you’re making a creamy dip or a cheesy topping, knowing the exact grams helps avoid over or under-measuring. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

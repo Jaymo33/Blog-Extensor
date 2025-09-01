@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of milk equals approximately 122 grams. This conversion is essential for anyone who loves baking or cooking with precision, especially when using an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing the exact weight ensures consistent results every time.</p>

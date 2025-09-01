@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of vegetable oil weigh approximately 28 grams in the UK. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and crispiness. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own dishes, knowing the exact weight ensures consistency.</p>  

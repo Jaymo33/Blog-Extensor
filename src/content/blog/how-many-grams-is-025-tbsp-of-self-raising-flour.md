@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of self-raising flour equals approximately 2.5 grams. This conversion is essential for precise baking, especially when using an air fryer where exact measurements can affect texture and rise. Whether you're whipping up cakes or bread, knowing how to convert tablespoons to grams ensures consistent results every time.</p>

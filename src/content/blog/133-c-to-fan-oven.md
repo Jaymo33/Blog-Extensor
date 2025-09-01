@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>133 C in a fan oven is equivalent to approximately 110 C in a conventional oven. This 20-degree reduction accounts for the efficient heat circulation of fan-assisted cooking. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures perfect results every time.</p>

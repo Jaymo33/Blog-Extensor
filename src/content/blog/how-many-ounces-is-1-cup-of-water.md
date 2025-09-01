@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of water equals 8.45 ounces in the UK. This measurement is essential for precise cooking, especially when using an air fryer where exact liquid quantities can affect results. Whether you're preparing sauces, batters, or marinating ingredients, knowing how many ounces are in 1 cup of water ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

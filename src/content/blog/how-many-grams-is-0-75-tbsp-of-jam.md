@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of jam is approximately 11 grams. This conversion is essential for air fryer recipes where precision matters, especially when glazing meats or baking desserts. Whether you're making a quick jam glaze for chicken or adding sweetness to air-fried pastries, knowing the exact weight ensures consistent results.</p>

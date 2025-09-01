@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of almond milk equals approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for liquids like almond milk. Whether you're whipping up a breakfast dish or a dessert, knowing the exact weight ensures perfect results every time.</p>  

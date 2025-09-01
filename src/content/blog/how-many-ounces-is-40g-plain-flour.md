@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of plain flour equals approximately 1.41 ounces. This conversion is essential for anyone using UK recipes or air fryer baking, where precision matters. Whether you’re whipping up cakes, cookies, or breaded dishes in your air fryer, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make these conversions effortless so you can focus on cooking.</p>

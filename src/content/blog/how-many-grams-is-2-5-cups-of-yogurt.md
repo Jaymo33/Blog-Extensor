@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of yogurt is approximately 600 grams. This conversion is essential for air fryer recipes, baking, or meal prep where precision matters. Whether you're whipping up a dessert or a savoury dish, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to help you achieve perfect results every time. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>  

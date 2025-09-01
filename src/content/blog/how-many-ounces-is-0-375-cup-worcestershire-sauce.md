@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of worcestershire sauce equals 3 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you're marinating chicken or adding depth to a sauce, knowing the exact weight ensures perfect results every time.</p>

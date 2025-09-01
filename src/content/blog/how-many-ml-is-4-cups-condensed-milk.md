@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of condensed milk equals approximately 946 ml, whether you're using UK or US measurements. This conversion is essential for baking, desserts, or even air fryer recipes that call for precise quantities. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be, so we've broken it all down for you.</p>  

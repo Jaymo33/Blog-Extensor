@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>272 F converts to approximately 140 C in a fan oven. This is a moderate temperature often used for slow roasting, baking delicate items, or dehydrating in both fan ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly, whether you're adapting an air fryer recipe for the oven or vice versa.</p>

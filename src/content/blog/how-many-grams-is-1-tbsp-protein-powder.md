@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One tablespoon (1 tbsp) of protein powder typically weighs between 7 to 10 grams, depending on the brand and density. For precise air fryer cooking, knowing this conversion ensures your recipes turn out perfectly every time. Whether you’re making protein-packed snacks or meal prepping, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with clear, practical conversions.</p>

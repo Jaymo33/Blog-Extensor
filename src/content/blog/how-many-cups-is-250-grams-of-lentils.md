@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of lentils is roughly equivalent to 1.25 cups when measured uncooked. This conversion is handy for air fryer recipes where precision matters, whether you're making crispy lentil snacks or hearty meals. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know accurate measurements can make or break a dish, so let’s dive deeper.</p>

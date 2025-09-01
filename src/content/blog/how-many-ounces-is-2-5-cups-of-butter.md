@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of butter equals 20 ounces (or 566 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up cookies, cakes, or savoury dishes, knowing how to convert cups to ounces ensures perfect results every time.</p>

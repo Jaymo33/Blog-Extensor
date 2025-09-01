@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of marmalade equals approximately 17.64 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing dishes in an air fryer. Whether you’re making glazes, desserts, or sauces, knowing how to convert 500g marmalade to ounces ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals.</p>  

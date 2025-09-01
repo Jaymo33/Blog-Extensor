@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>377°F converts to approximately 190°C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures without drying out your food. Whether you're adapting an American recipe or fine-tuning your air fryer settings, understanding this conversion is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these adjustments effortless for home cooks.</p>

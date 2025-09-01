@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of marmalade equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making glazes, desserts, or sauces, knowing how many ounces are in 2 cups of marmalade helps streamline your cooking process.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>344 F converts to approximately 173 C in a fan oven. This temperature is commonly used for baking, roasting, and air frying various dishes. When converting between Fahrenheit and Celsius for fan-assisted cooking, it's crucial to understand how these measurements differ from conventional oven settings.</p>

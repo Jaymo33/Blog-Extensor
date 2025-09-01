@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10.75 kg is equal to approximately 23.70 pounds, a conversion that comes in handy when working with larger quantities of ingredients for your air fryer. Whether you're meal prepping, adjusting recipes, or simply curious about imperial measurements, understanding how to convert 10.75 kg to pounds ensures accuracy in the kitchen. This is particularly useful for air fryer enthusiasts who follow recipes from various sources, some of which may use different measurement systems. Getting the weight right can impact cooking times and results, making conversions like 10.75 kg to pounds an essential skill. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

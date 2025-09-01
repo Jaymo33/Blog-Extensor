@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of vinegar equals approximately 37.5 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're marinating chicken, preparing a glaze, or whipping up a quick sauce, knowing the exact weight of vinegar can make all the difference.</p>

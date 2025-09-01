@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of rice is approximately 1.5 cups when using standard measuring cups. However, this can vary slightly depending on the type of rice and how it's packed. For air fryer recipes where precision matters, knowing this conversion helps achieve perfect results every time.</p>

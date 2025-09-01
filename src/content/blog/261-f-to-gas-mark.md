@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>261°F converts to Gas Mark 1/4 (or 0.25) in UK ovens and air fryers. This low-temperature setting is ideal for gentle baking, slow roasting, or keeping dishes warm without overcooking. Whether you're using a traditional oven or a modern air fryer, understanding this conversion ensures perfect results every time.</p>

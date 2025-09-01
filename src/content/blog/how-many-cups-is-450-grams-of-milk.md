@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of milk is approximately 1.8 cups in the UK and 1.9 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a cake or a creamy sauce, knowing how to measure milk accurately ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of apple cider vinegar equals approximately 414 ml. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you’re marinating chicken, preparing a tangy glaze, or baking, knowing the exact ml equivalent ensures consistent results. For more air fryer conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

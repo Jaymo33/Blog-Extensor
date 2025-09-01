@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of sesame oil weighs approximately 3.7 grams. This measurement is crucial for air fryer recipes where precise quantities can make all the difference. Whether you're whipping up a marinade or drizzling oil over veggies, knowing the exact weight ensures perfect results every time. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

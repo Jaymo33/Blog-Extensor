@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of coconut oil is approximately 1.94 cups in the US measurement system and roughly 1.62 cups in the UK. Whether you're baking or using your air fryer, getting the right measurement ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking.</p>  

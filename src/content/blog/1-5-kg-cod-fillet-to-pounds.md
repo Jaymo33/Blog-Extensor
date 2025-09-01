@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 1.5 kg cod fillet and need to know its weight in pounds, the answer is straightforward: 1.5 kg is approximately 3.31 pounds. This conversion is essential for anyone using an air fryer, as many recipes and cooking guides use imperial measurements. Knowing the exact weight helps you adjust cooking times and temperatures accurately. Whether you're meal prepping or cooking for a family, this conversion ensures perfect results every time. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

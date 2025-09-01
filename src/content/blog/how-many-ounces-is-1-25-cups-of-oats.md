@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of oats equals approximately 3.5 ounces (or 3.5 oz). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re making granola, oat bars, or breakfast bakes, knowing how many ounces are in 1.25 cups of oats helps avoid guesswork.</p>  

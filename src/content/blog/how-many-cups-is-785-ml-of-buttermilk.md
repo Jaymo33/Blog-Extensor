@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of buttermilk equals approximately 3.3 cups. This conversion is essential for anyone using an air fryer to bake or cook, ensuring your recipes turn out perfectly every time. Whether you're making fluffy pancakes or tender fried chicken, knowing how to convert 785 ml of buttermilk to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making your cooking experience seamless and stress-free.</p>

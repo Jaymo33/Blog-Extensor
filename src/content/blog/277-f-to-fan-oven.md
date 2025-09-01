@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>277 F converts to approximately 140 C in a fan oven. This is a moderately high temperature ideal for roasting vegetables, baking cakes, or cooking meats in your air fryer. Understanding this conversion helps adapt recipes between conventional and fan-assisted cooking methods.</p>

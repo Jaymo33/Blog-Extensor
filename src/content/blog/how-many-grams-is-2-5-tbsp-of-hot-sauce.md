@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of hot sauce is approximately 37.5 grams (g). This conversion is essential for air fryer recipes where precision ensures the perfect balance of flavour and consistency. Whether you’re whipping up spicy wings or a zesty marinade, knowing the exact weight of your hot sauce can make all the difference.</p>  

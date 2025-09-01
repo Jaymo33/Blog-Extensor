@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of yogurt is approximately 2.15 cups. This conversion is handy for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 510 ml of yogurt to cups ensures your dish turns out perfectly every time.</p>

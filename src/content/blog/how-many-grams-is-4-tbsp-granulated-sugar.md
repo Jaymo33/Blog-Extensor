@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of granulated sugar equals approximately 50 grams in UK measurements. This conversion is essential for precise baking and cooking, especially when using an air fryer where ingredient accuracy can affect texture and browning. Whether you’re whipping up cakes, cookies, or even caramelising fruits, knowing how many grams 4 tbsp of granulated sugar weighs ensures consistent results.</p>  

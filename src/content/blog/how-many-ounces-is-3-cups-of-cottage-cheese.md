@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of cottage cheese equals approximately 24 ounces. This conversion is essential for air fryer recipes, meal prep, or any dish requiring precise measurements. Whether you're whipping up a cheesy bake or a protein-packed snack, knowing the exact weight ensures perfect results every time.</p>

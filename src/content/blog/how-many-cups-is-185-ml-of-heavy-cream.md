@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of heavy cream is approximately 0.78 cups (just under ¾ cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a creamy dessert or a rich sauce, knowing the exact cup equivalent of 185 ml of heavy cream ensures your dish turns out perfectly every time.</p>  

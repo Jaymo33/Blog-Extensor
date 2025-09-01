@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of olive oil equals approximately 887.21 millilitres (ml). This conversion is essential for air fryer recipes where precision matters. Whether you’re making crispy roast potatoes or a moist cake, knowing how many ml is 3.75 cups of olive oil ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

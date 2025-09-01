@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>177 fan oven converts to approximately 160°C in a conventional oven. This conversion is essential for achieving perfect baking and roasting results when switching between oven types. Whether you're using a fan-assisted oven or a traditional one, understanding this conversion ensures your dishes come out just right every time.</p>

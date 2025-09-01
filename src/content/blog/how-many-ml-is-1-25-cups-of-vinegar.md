@@ -184,7 +184,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of vinegar equals approximately 295.74 ml. This conversion is essential for air fryer recipes, ensuring accuracy in marinades, dressings, or cleaning solutions. Whether you’re using white vinegar, apple cider vinegar, or balsamic, knowing the exact ml measurement helps achieve consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

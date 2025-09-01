@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of caster sugar equals approximately 35.27 ounces. This conversion is essential for bakers who need precise measurements for recipes, especially when using an air fryer where accuracy can affect cooking results. Whether you're making cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

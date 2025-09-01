@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of porridge oats equals approximately 0.53 ounces. This conversion is essential for anyone using an air fryer to prepare breakfast dishes, ensuring accurate portion sizes for perfect results every time. Whether you're making overnight oats, granola, or baked oatmeal, knowing how to convert 15g of porridge oats to ounces helps streamline your cooking process.</p>  

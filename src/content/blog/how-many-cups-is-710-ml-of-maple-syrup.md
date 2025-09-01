@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of maple syrup is approximately 3 cups. This conversion is essential for baking, cooking, or preparing recipes in your air fryer, ensuring accuracy and perfect results every time. Maple syrup is a sticky ingredient, so measuring it correctly can make a big difference in your dishes.</p>  

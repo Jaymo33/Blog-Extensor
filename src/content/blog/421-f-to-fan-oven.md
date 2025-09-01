@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>421°F converts to approximately 220°C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures without overcooking, whether you're roasting vegetables or baking chicken. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt traditional oven recipes to your air fryer with precision.</p>

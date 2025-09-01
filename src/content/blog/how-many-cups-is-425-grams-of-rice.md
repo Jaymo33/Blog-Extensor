@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of rice is approximately 2.1 cups in the UK and 2.5 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're meal prepping or cooking a quick dinner, knowing how to convert grams to cups ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

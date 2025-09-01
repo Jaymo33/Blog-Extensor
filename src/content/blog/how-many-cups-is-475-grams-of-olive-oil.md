@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of olive oil equals approximately 2.1 cups. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re baking, frying, or drizzling, knowing how to convert grams to cups makes cooking effortless. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless dishes every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of brown sugar is approximately 7.05 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're whipping up cookies or a cake, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

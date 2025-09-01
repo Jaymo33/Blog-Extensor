@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of honey is approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re drizzling honey over roasted vegetables or using it as a glaze for chicken, knowing the exact weight ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

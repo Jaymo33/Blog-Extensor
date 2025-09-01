@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of diced peppers equals approximately 3 ounces, making it easy to measure for air fryer recipes. This conversion ensures you get the right balance of flavours and textures in your dishes. Whether you’re preparing stuffed peppers or a vibrant stir-fry, accurate measurements are key to perfect results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

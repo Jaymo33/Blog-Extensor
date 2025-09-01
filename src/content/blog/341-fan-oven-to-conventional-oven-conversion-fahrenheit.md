@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 341 fan oven to conventional oven in Fahrenheit is simple: 341°F in a fan oven equals approximately 325°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, ensuring your dishes cook evenly without burning. Whether you're baking a cake or roasting vegetables, getting the temperature right is crucial for perfect results.</p>

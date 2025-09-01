@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of butter equals exactly 14 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a cake or preparing a savoury dish, knowing how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>

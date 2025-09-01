@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of soy milk equals approximately 14 fluid ounces (fl oz). This conversion is essential for air fryer recipes, ensuring precise measurements for the best results. Whether you're whipping up a creamy sauce or baking a dairy-free dessert, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements in cooking, especially when using an air fryer. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>  

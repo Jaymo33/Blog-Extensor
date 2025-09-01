@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of tahini equals approximately 60 grams (g). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you're making dips, dressings, or marinades, knowing how to convert 4 tbsp tahini to grams helps you follow recipes accurately.</p>  

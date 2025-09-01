@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of evaporated milk equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements matter. Whether you're whipping up a creamy dessert or a savoury dish, knowing the exact weight ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

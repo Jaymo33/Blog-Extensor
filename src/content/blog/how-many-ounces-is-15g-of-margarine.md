@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of margarine equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up crispy roast potatoes or a buttery cake, knowing how to convert grams to ounces ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

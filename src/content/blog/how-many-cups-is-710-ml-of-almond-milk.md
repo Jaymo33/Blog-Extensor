@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of almond milk is roughly equivalent to 3 cups in the UK or 2.99 cups in the US. Whether you're whipping up a creamy dessert or a savoury dish in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. Almond milk is a fantastic dairy-free alternative, and measuring it accurately is essential for consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you nail those measurements for flawless cooking.</p>

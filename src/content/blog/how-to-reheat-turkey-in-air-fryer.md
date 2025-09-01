@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating turkey in an air fryer at 160°C for 3-5 minutes per portion keeps it juicy while crisping the skin perfectly. This method beats microwaving hands down, preventing that dreaded dryness while giving leftovers new life. Whether you’re dealing with Christmas leftovers or meal-prepped turkey slices, your air fryer delivers restaurant-quality results with minimal effort.</p>

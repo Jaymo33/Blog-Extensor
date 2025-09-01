@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of breadcrumbs equals approximately 3.5 ounces (or 100 grams). This measurement is essential for air fryer recipes, where precise quantities can make or break your dish. Whether you're coating chicken, making meatballs, or preparing a crispy topping, knowing how many ounces are in 1 cup of breadcrumbs ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of cocoa powder equals approximately 0.5 ounces (or 14 grams) in UK measurements. This conversion is essential for bakers who need precise amounts for recipes, especially when using an air fryer for desserts like brownies or cakes. Whether you're scaling a recipe or adjusting portions, knowing how to convert 0.125 cup of cocoa powder to ounces ensures consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of oat milk equals 355 millilitres (ml). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or preparing a creamy sauce, knowing the exact ml equivalent ensures consistency.</p>

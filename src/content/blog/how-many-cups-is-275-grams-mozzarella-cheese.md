@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of mozzarella cheese equals approximately 1.5 cups when shredded or grated. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy mozzarella sticks or a gooey pizza, knowing how to convert grams to cups ensures perfect results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

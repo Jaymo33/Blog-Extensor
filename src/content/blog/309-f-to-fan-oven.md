@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>309°F converts to approximately 154°C in a fan oven. This temperature is ideal for baking, roasting, or air frying dishes that require moderate heat with even circulation. Whether you're adapting an American recipe or fine-tuning your air fryer settings, understanding this conversion ensures perfect results.</p>

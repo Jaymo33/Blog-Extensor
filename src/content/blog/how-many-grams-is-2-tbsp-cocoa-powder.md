@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of cocoa powder equals approximately 12 grams (g) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer, where accurate ingredient weights can make or break a recipe. Whether you're whipping up brownies, cakes, or hot chocolate, knowing the exact grams for 2 tbsp of cocoa powder ensures consistent results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

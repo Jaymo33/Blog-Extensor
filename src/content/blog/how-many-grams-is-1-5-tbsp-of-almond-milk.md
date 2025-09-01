@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of almond milk equals approximately 22.5 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're baking, frying, or making sauces, knowing the exact weight of almond milk can make all the difference.</p>

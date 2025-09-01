@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>352 F converts to approximately 160 C in a fan oven. This is the standard equivalent temperature you'll need when adapting American recipes or air fryer settings for UK fan ovens. The conversion is crucial for getting perfect results when cooking everything from roasted vegetables to baked goods in your air fryer.</p>

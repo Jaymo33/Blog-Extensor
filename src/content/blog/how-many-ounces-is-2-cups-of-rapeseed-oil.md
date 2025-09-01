@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of rapeseed oil equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer cooking, where precise measurements can make all the difference in texture and flavour. Whether you’re frying, roasting, or baking, knowing how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>  

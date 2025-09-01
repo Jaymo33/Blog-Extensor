@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat meatloaf in an air fryer, set it to 160°C and cook for 5-8 minutes until piping hot. This method restores crispiness while keeping the interior tender – far superior to microwaving. Whether you’re working with fridge-cold leftovers or frozen portions, your air fryer delivers restaurant-quality results with minimal effort.</p>

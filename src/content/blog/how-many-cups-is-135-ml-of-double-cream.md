@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of double cream is approximately 0.57 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking. Whether you're whipping up a dessert or adding richness to a sauce, knowing how to convert ml to cups ensures consistency. For more handy conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

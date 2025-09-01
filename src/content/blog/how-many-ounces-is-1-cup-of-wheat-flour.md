@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One cup of wheat flour equals approximately 4.5 ounces in the UK. This measurement is essential for baking, especially when using an air fryer, where precise quantities can affect texture and cooking times. Whether you're whipping up cakes, bread, or crispy coatings, knowing how many ounces are in 1 cup of wheat flour ensures consistent results every time.</p>  

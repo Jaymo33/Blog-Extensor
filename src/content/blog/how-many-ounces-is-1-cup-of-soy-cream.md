@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of soy cream equals approximately 8.45 ounces (240 ml) in standard UK measurements. This conversion is essential for air fryer recipes where precision ensures the best texture and consistency. Whether you’re making a creamy sauce or a dairy-free dessert, knowing the exact weight helps avoid mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

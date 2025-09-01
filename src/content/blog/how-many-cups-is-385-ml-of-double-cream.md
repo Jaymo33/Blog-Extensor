@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of double cream is approximately 1.63 cups in the UK and 1.59 cups in the US. This conversion is essential for baking, cooking, or whipping up air fryer recipes where precision matters. Whether you're making a creamy sauce or a decadent dessert, knowing the exact measurement ensures your dish turns out perfectly every time.</p>  

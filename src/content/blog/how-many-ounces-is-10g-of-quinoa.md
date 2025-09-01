@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of quinoa equals approximately 0.35 ounces. This conversion is handy when preparing air fryer recipes that call for precise measurements. Whether you're meal prepping or cooking a single portion, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

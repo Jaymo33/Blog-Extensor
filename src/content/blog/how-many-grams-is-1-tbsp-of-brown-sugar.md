@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of brown sugar weighs approximately 12.5 grams in the UK. This measurement is essential for air fryer recipes, where precision ensures perfect texture and flavour. Whether you're baking cookies or glazing meats, knowing the exact conversion helps avoid mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

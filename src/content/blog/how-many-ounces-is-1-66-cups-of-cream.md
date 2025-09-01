@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of cream equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements can affect texture and consistency. Whether you’re making a creamy sauce or a decadent dessert, knowing how to convert cups to ounces ensures perfect results every time.</p>

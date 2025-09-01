@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of rice flour equals approximately 9.6 ounces (or 272 grams). Whether you're baking gluten-free treats or experimenting with air fryer recipes, accurate measurements are key. Rice flour is a staple in many kitchens, especially for those avoiding wheat, and knowing its weight ensures consistent results.</p>

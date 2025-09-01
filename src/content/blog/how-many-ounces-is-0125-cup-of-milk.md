@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of milk equals 1 fluid ounce (oz). This measurement is essential for precise cooking, especially when using an air fryer where accuracy can make or break a recipe.</p>

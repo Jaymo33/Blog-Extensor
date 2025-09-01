@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of milk is equivalent to approximately 480 grams. This conversion is essential for precise baking, cooking, or even when preparing air fryer recipes where measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how many grams are in 2.0 cups of milk ensures consistency and perfect results every time.</p>

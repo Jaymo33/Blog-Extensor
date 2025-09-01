@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of ginger paste equals approximately 0.18 ounces. If you're prepping an air fryer recipe that calls for ginger paste, this conversion ensures you get the right flavour balance. Whether you're making a marinade or a stir-fry, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how small adjustments can make a big difference in taste. Let’s dive deeper into converting grams to ounces for ginger paste.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>227 C converts to approximately 200 C in a fan oven. This 20-degree reduction is standard when converting conventional oven temperatures to fan-assisted settings. Whether you're baking cakes or roasting vegetables in your air fryer, understanding this conversion ensures perfect results every time.</p>

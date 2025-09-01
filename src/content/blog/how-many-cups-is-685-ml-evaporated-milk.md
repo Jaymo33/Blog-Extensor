@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of evaporated milk is approximately 2.9 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking. Whether you're making a creamy dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of sunflower seeds equals approximately 7.5 ounces in UK measurements. This conversion is essential for air fryer recipes, ensuring precise ingredient quantities for perfect results every time. Whether you're roasting sunflower seeds in your air fryer or adding them to a dish, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking.</p>

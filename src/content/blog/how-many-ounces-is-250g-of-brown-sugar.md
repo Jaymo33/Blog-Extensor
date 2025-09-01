@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of brown sugar equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, especially when baking cakes, cookies, or desserts. Whether you're following a UK recipe or adjusting measurements, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking. Keep reading for tips on measuring brown sugar and using it in your air fryer.</p>  

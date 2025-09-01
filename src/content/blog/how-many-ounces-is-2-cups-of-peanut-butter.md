@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of peanut butter equals approximately 16 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're whipping up peanut butter cookies or a savoury satay sauce, knowing this conversion helps streamline your cooking process. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on creating delicious meals.</p>

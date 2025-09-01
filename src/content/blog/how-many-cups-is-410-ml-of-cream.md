@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of cream is approximately 1.73 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

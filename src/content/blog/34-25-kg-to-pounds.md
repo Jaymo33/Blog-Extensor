@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>34.25 kg is equal to 75.51 pounds, a conversion that comes in handy when portioning ingredients for your air fryer. Whether you're preparing a large batch of chicken, potatoes, or even frozen goods, knowing how to convert kilograms to pounds ensures you use the right amount for optimal cooking. Many recipes, especially those from international sources or larger meal prep plans, use metric measurements, so being able to quickly switch to imperial units is a useful skill. This is particularly important for air fryer cooking, where overcrowding can lead to uneven results. Getting your weights right from the start means better crisping, faster cooking times, and more enjoyable meals for you and your family.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of sesame seeds equals approximately 1.5 ounces (oz). This measurement is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're making sesame-crusted chicken or sprinkling seeds over roasted vegetables, knowing this conversion helps avoid kitchen mishaps.</p>  

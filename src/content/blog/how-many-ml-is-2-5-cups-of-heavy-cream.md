@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of heavy cream equals 591.47 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a creamy dessert or a rich sauce, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is in cooking, especially when using an air fryer.</p>  

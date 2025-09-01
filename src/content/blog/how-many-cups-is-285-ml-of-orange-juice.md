@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of orange juice equals approximately 1.2 cups. This conversion is essential for recipes where precision matters, especially when using an air fryer. Whether you're whipping up a marinade or baking a citrus-infused dessert, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

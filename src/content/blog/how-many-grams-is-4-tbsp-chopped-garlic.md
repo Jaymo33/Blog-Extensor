@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of chopped garlic equals approximately 36 grams (g). This conversion is essential for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you’re making garlic butter shrimp or roasted vegetables, knowing the exact weight helps avoid over-seasoning or underwhelming results.</p>  

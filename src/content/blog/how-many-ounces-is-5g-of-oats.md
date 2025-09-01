@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of oats equals approximately 0.176 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for breakfast dishes like granola or oat-based bakes. Whether you're meal prepping or whipping up a quick snack, knowing how to convert 5g of oats to ounces ensures consistency in your cooking.</p>

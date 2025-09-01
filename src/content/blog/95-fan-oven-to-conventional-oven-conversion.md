@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>95°C in a fan oven converts to approximately 110-120°C in a conventional oven. This 15-25°C increase accounts for the more efficient heat distribution in fan-assisted ovens. When using an air fryer, you'll typically reduce temperatures by 20°C from conventional oven settings, making 95 fan oven roughly equivalent to 90-100°C in most air fryers.</p>

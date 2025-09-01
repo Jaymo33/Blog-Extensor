@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>289°F converts to Gas Mark 1.5, making it a moderate heat setting ideal for slow roasting or gentle baking in your air fryer. This temperature is perfect for dishes that require even, controlled cooking without browning too quickly.</p>

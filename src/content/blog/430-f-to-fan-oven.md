@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>430 F converts to approximately 220 C in a fan oven. This is a common temperature for roasting meats, baking crispy dishes, or air frying recipes that need a high heat setting. If you're using an air fryer, knowing this conversion ensures your meals cook evenly and efficiently.</p>

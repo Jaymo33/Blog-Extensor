@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>438 fan oven equals approximately 400°F in a conventional oven. This conversion is essential for baking and air frying, ensuring your recipes turn out perfectly every time. If you're using an air fryer, this temperature adjustment helps replicate fan oven results without guesswork. For more detailed conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

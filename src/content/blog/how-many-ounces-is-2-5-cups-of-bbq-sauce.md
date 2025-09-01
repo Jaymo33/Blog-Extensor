@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of BBQ sauce equals approximately 20 fluid ounces (or 20 oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken wings or glazing ribs, knowing how to convert cups to ounces ensures consistency and flavour perfection.</p>  

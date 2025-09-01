@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of balsamic vinegar weighs approximately 15 grams. This measurement is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you're marinating meats or creating dressings, knowing the exact weight helps avoid soggy or overly dry results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

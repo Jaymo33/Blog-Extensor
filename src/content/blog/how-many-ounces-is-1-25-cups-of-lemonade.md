@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of lemonade equals 10 fluid ounces (fl oz). This conversion is essential for precise measurements, especially when using an air fryer for recipes that require exact liquid quantities. Whether you're making a glaze, marinade, or a refreshing drink, knowing how to convert cups to ounces ensures your dish turns out perfectly every time.</p>  

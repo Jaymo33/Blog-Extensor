@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can use metal skewers in an air fryer as long as they don't touch the heating element and have enough clearance. Unlike plastic or wooden skewers that might melt or burn, metal skewers are heat-resistant and won't catch fire under normal air frying conditions. However, there are several important safety considerations to keep in mind when using metal skewers in your air fryer to prevent damage to the appliance or your food.</p>

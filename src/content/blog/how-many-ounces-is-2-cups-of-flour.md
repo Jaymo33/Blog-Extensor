@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of flour weigh approximately 8.8 ounces (250 grams) in the UK. This measurement is essential for air fryer baking, where precision ensures perfect texture and rise. Whether you're making cakes, cookies, or bread, knowing how many ounces 2 cups of flour equals helps avoid dense or dry results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

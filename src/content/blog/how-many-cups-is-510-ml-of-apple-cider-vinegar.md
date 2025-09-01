@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of apple cider vinegar equals approximately 2.15 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer. Whether you're whipping up a marinade or a tangy glaze, knowing the exact measurement ensures perfect results every time.</p>

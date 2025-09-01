@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>443°F in a fan oven converts to approximately 425°F in a conventional oven. Fan ovens circulate hot air for faster, more even cooking, so you typically need to reduce the temperature by 15-25°F when switching to a traditional oven. This ensures your dishes cook evenly without burning.</p>  

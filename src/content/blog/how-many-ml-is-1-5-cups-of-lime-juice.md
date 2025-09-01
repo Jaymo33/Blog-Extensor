@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of lime juice equals 355 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a citrusy marinade or adding a tangy twist to desserts, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in cooking, especially when using an air fryer.</p>

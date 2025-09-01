@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put standard Tupperware in an air fryer as most plastic containers aren't designed to withstand the high temperatures of air frying, typically between 150-200°C. The intense heat can cause warping, melting, or even release harmful chemicals into your food. At airfryerrecipe.co.uk, we always recommend using air fryer-safe materials instead.</p>

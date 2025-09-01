@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of balsamic vinegar is approximately 0.46 cups. This conversion is essential for precise measurements in cooking and baking, especially when using an air fryer. Whether you're whipping up a marinade or a glaze, knowing this conversion ensures your dish turns out perfectly every time.</p>

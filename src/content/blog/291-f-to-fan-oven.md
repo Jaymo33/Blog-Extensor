@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>291 F converts to approximately 143 C in a fan oven. This temperature is ideal for slow roasting, baking delicate pastries, or cooking casseroles in your air fryer. Understanding this conversion ensures your dishes turn out perfectly every time, whether you're using a traditional fan oven or an air fryer with convection settings.</p>

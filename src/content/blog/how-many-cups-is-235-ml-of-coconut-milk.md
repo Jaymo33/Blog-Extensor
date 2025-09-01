@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of coconut milk is approximately 1 cup in US measurements or just under 1 cup (0.99 cups) in UK measurements. Whether you're preparing a creamy curry or a rich dessert in your air fryer, getting the right amount of coconut milk ensures perfect texture and flavour. This guide will help you convert 235 ml of coconut milk to cups accurately, whether you're using UK or US measuring standards.</p>  

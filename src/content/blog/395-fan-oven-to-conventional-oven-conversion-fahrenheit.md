@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>395 fan oven is equivalent to 350°F in a conventional oven. This conversion is essential for baking and roasting, especially when using an air fryer or traditional oven. Understanding this temperature difference ensures your dishes come out perfectly cooked every time.</p>

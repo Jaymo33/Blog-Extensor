@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of margarine equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you’re baking or frying, knowing how many ounces are in 0.66 cup of margarine helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

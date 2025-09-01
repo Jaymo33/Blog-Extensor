@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 kg of cod fillet equals approximately 4.409 pounds, making it easy to portion for air fryer cooking. This conversion is essential for following recipes accurately and ensuring your meals cook evenly. Whether you're preparing a family dinner or meal prepping for the week, knowing this measurement helps you plan perfectly. Many air fryer recipes use pound measurements, so this knowledge is particularly valuable. You can find more helpful conversion tools at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your cooking experience smoother.</p>

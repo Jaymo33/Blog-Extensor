@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of mustard equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a tangy glaze or a marinade, knowing the exact weight ensures consistent results every time.</p>  

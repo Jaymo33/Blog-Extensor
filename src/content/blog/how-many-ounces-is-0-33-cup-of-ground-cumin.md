@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of ground cumin equals approximately 1.06 ounces (or roughly 1 ounce when rounded). This conversion is essential for air fryer recipes where precise measurements ensure the best flavour balance. Whether you’re spicing up chicken, vegetables, or meal prep dishes, getting the cumin quantity right makes all the difference.</p>

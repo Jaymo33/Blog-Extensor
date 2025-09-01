@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of apple cider vinegar equals approximately 35.27 ounces. This conversion is essential for air fryer recipes that require precise measurements, ensuring your dishes turn out perfectly every time. Whether you're marinating chicken or creating a tangy glaze, knowing how to convert grams to ounces is a game-changer in the kitchen.</p>

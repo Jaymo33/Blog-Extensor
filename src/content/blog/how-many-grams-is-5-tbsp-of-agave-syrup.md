@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of agave syrup equals approximately 100 grams. This conversion is essential for precise measurements in baking and cooking, especially when using an air fryer. Whether you're whipping up a dessert or a savoury glaze, knowing the exact weight ensures consistent results every time.</p>

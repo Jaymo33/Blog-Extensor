@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>735 ml of olive oil equals approximately 3.1 cups, making it easy to measure for your air fryer recipes. Whether you’re preparing a crispy batch of roast potatoes or a succulent chicken dish, accurate measurements are key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important precise conversions are for hassle-free cooking.</p>

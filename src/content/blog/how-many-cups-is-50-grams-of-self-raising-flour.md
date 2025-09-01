@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of self-raising flour equals approximately 0.4 cups (or roughly 1/3 cup plus 1 tablespoon). This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up a quick cake or crispy doughnuts, knowing how to measure 50 grams of self-raising flour in cups ensures consistent results every time.</p>

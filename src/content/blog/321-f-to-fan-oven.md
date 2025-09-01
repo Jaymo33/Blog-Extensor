@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>321 F converts to approximately 160 C in a fan oven. This is a common temperature for slow roasting, dehydrating, or gentle baking in air fryers and fan-assisted ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference when adapting recipes between appliances.</p>

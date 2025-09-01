@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of apple cider vinegar equals 10 fluid ounces (fl oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re marinating chicken or whipping up a tangy glaze, knowing how to convert cups to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

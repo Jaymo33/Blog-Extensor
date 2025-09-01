@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of rice flour equals approximately 1.5 ounces (oz). This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe.</p>  

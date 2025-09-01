@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>480°F converts to Gas Mark 9, the highest standard setting on most UK ovens and a common temperature for air fryer recipes requiring intense heat. This scorching temperature is ideal for achieving crispy skins on meats, blistering pizzas, or quick-roasting vegetables while locking in moisture. Whether you're using an air fryer or conventional oven, understanding this conversion ensures your dishes cook perfectly every time.</p>

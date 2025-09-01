@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of beef stock equals approximately 2.64 ounces (oz) in the UK. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re preparing a rich gravy or a flavourful stew, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly.</p>  

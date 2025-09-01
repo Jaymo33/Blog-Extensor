@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of soy milk weighs approximately 15 grams. This measurement is essential for precise cooking, especially in air fryer recipes where ingredient ratios can affect texture and cooking times. Whether you're baking, marinating, or making sauces, knowing the exact weight ensures consistent results every time.</p>  

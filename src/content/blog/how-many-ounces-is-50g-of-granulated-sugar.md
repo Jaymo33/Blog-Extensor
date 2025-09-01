@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of granulated sugar equals approximately 1.76 ounces. This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a cake or caramelising sugar for a dessert, knowing this measurement can make all the difference.</p>

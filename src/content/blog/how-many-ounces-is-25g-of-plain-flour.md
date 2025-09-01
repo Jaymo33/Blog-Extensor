@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of plain flour equals approximately 0.88 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up cakes, coating chicken, or making crispy tempura, knowing how to convert grams to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these conversions effortlessly.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of plain flour equals approximately 0.71 ounces. Whether you're baking in an air fryer or prepping ingredients for a recipe, getting measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when working with smaller quantities like 20g of plain flour.</p>  

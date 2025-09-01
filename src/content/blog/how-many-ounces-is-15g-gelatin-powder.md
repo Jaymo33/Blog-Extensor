@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of gelatin powder equals approximately 0.53 ounces. This conversion is essential for precise measurements in air fryer recipes, especially when making desserts or baked goods. Whether you're whipping up a mousse or a jelly, knowing how many ounces is 15g of gelatin powder ensures consistent results every time.</p>

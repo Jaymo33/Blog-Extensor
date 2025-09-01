@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of maple syrup equals approximately 2.57 cups in the UK or 2.58 cups in the US. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're making glazes, marinades, or desserts, knowing how to convert 610 ml of maple syrup to cups can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with sticky ingredients like maple syrup.</p>  

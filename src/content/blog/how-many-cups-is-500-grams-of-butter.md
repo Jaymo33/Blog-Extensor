@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of butter is approximately 2.2 cups in the UK and 2.1 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're whipping up cakes, cookies, or savoury dishes, knowing how to convert grams to cups ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

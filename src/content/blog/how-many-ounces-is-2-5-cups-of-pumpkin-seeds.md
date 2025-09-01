@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of pumpkin seeds equals approximately 10 ounces. This conversion is essential for air fryer recipes, ensuring you get the perfect roast or crisp every time. Whether you're making a snack or adding pumpkin seeds to a dish, accurate measurements matter.</p>  

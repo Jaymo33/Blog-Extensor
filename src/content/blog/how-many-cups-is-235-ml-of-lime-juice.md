@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of lime juice is approximately 1 cup, but precise measurements can vary slightly depending on the cup standard used. Whether you're baking a zesty lime cake or marinating chicken for the air fryer, getting the conversion right ensures your dish turns out perfectly. This guide breaks down the exact conversion and offers tips for measuring lime juice accurately in your kitchen.</p>  

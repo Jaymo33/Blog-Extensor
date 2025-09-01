@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of chopped onion equals approximately 40 grams (g). This measurement is based on standard UK conversions and ensures accuracy for your air fryer recipes. Whether you're prepping a stir-fry or adding onions to a casserole, knowing this conversion helps maintain consistency in your cooking.</p>

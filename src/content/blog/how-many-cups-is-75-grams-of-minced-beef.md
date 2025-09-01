@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of minced beef is approximately ⅓ cup when loosely packed. However, the exact measurement can vary slightly depending on the density and fat content of the minced beef. For precise cooking, especially in air fryer recipes, weighing ingredients is always best. If you don’t have scales, our guide ensures you get the right amount every time.</p>  

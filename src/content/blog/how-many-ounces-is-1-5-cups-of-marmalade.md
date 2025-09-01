@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of marmalade equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making glazed chicken or a sticky dessert, knowing the exact weight ensures perfect results every time.</p>

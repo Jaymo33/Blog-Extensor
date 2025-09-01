@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of ginger paste equals approximately 1.41 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a marinade or adding a punch of flavour to your dishes, knowing the exact weight ensures consistency. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

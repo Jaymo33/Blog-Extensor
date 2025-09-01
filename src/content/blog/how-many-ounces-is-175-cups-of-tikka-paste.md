@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of tikka paste equals approximately 14 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're marinating chicken or prepping a batch of lamb, knowing the exact weight ensures consistent results every time.</p>

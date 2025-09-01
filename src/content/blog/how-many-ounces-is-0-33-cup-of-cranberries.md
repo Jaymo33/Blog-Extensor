@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of cranberries equals approximately 1.41 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making cranberry sauces, muffins, or festive bakes, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you cook with confidence.</p>  

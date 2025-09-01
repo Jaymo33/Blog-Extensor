@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of cooked rice equals approximately 1.76 ounces. This conversion is essential for air fryer users who need precise measurements for recipes or portion control. Whether you're preparing a quick stir-fry or meal-prepping for the week, knowing how to convert grams to ounces ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

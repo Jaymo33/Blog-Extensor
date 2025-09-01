@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of maple syrup is approximately 3.95 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making glazes, marinades, or sweet treats, knowing this conversion ensures consistent results every time.</p>  

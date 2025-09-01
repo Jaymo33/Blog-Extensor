@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of whipping cream equals approximately 24 fluid ounces (or 24 oz) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer for desserts or whipped cream toppings. Whether you're making a cake or a creamy sauce, knowing this measurement ensures consistency in your recipes.</p>  

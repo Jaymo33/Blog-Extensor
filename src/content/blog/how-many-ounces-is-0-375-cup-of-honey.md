@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of honey equals approximately 4.5 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're whipping up a glaze for chicken or sweetening a dessert, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve the best results. Honey’s thickness can vary, so measuring by weight is often more reliable than volume.</p>

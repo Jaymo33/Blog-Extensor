@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of wholemeal flour equals approximately 30 grams (g). This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break your recipe. Whether you're making air fryer cakes, bread, or even coating for chicken, knowing the exact weight ensures consistent results every time.</p>

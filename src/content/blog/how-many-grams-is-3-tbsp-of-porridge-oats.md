@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of porridge oats weigh approximately 24 grams. This measurement is crucial for precise cooking, especially when using an air fryer for recipes like oat bars or breakfast bakes. Getting the right amount ensures your dishes turn out perfectly every time.</p>  

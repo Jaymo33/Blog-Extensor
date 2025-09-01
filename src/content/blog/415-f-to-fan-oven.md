@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>415 F converts to approximately 190 C in a fan oven. This is a common temperature for roasting meats, baking crispy vegetables, or achieving that perfect golden finish in your air fryer. Understanding this conversion is key to adapting recipes between conventional ovens and modern air fryers.</p>

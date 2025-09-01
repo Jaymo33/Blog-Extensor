@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of jam weigh approximately 40 grams (g). This measurement is based on standard UK conversions and accounts for the density of most fruit preserves. Whether you're making air fryer pastries or glazing meats, knowing this conversion ensures accuracy in your recipes.</p>  

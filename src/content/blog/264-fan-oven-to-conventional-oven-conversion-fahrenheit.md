@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>264°F in a fan oven converts to approximately 240°F in a conventional oven. This 24°F difference accounts for the fan oven's efficient heat distribution, which cooks food faster and more evenly. If you're adapting recipes for an air fryer, which works similarly to a fan oven, you'll need this conversion to avoid overcooking. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more detailed adjustments.</p>

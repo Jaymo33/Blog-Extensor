@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of olive oil equals approximately 385 grams, making it easy to measure for air fryer recipes. Whether you’re preparing a crispy roast or a batch of air-fried vegetables, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when converting between cups and grams for oils like olive oil.</p>  

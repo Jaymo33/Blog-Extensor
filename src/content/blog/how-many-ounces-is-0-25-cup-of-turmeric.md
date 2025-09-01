@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of turmeric equals approximately 1.2 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're preparing a curry or a marinade, knowing how many ounces are in 0.25 cup of turmeric ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when using spices like turmeric in your air fryer.</p>

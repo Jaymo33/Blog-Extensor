@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of almond milk is approximately 1.31 cups. This conversion is essential for air fryer recipes where precision ensures perfect results every time. Whether you're whipping up a cake or a creamy sauce, knowing how to measure almond milk correctly can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

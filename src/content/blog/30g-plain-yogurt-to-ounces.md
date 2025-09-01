@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of plain yogurt equals approximately 1.06 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you’re whipping up a marinade or a creamy dip, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the details right for flawless cooking.</p>  

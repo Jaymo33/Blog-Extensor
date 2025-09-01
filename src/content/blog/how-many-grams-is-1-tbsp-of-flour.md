@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of flour weighs approximately 8 grams in the UK. This measurement is essential for precise baking, especially when using an air fryer, where accurate ingredient ratios can make or break a recipe. Whether you're whipping up air fryer cakes or crispy coatings, knowing how to convert 1 tbsp flour to grams ensures consistent results every time.</p>  

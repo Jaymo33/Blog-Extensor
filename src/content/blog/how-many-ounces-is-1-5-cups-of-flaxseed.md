@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of flaxseed equals approximately 6.35 ounces (or 180 grams). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're making flaxseed crackers, breaded coatings, or healthy snacks, knowing the exact weight helps maintain consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

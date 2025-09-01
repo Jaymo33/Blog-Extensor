@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of rice weighs approximately 6 grams, though this can vary slightly depending on the type of rice. Whether you're using an air fryer or cooking traditionally, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that small details like this make a big difference in cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of vinegar is approximately 4.16 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a dish. Whether you're preparing a marinade or a tangy glaze, knowing how many cups 985 ml of vinegar equals ensures consistent results every time.</p>

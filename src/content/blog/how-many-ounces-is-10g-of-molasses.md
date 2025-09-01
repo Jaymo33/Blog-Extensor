@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams (10g) of molasses equals approximately 0.35 ounces (0.35 oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking, glazing, or marinating, knowing how to convert 10g of molasses to ounces helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making air fryer cooking effortless with accurate conversions and delicious recipes.</p>  

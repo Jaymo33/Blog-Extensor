@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of yeast equals approximately 28 grams. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making dough for bread, pizza, or even sweet treats, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect air fryer dishes every time.</p>  

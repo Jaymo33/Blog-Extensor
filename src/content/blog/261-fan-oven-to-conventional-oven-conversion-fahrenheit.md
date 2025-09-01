@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>261°F in a fan oven converts to approximately 240°C in a conventional oven. This conversion is essential when adapting recipes designed for fan-assisted ovens to standard ovens or air fryers. The difference occurs because fan ovens circulate hot air more efficiently, requiring lower temperatures for equivalent cooking results.</p>

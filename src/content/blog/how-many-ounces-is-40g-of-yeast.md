@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of yeast equals approximately 1.41 ounces. This conversion is essential for anyone using an air fryer to bake bread, cakes, or other yeast-based recipes. Precise measurements ensure your dough rises perfectly, giving you the best results every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert grams to ounces is a game-changer.</p>

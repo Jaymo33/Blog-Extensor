@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of almond milk is approximately 3.74 cups in US measurements or 3.5 cups in UK measurements. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're whipping up a cake or a creamy sauce, knowing how to measure almond milk correctly ensures perfect results every time.</p>  

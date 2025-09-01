@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>220 fan oven converts to approximately 200°C in a conventional oven. This 20°C reduction accounts for the fan's efficient heat distribution. Whether you're using an air fryer or traditional oven, understanding this conversion ensures perfectly cooked meals every time.</p>

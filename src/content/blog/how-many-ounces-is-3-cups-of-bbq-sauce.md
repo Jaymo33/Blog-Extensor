@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of bbq sauce equals approximately 24 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're marinating chicken wings or glazing ribs, knowing how many ounces are in 3 cups of bbq sauce ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

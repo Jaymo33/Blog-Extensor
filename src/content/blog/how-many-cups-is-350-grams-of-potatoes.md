@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of potatoes is roughly equivalent to 2.5 cups when diced or sliced, but this can vary slightly based on potato type and cut size. Whether you're prepping for crispy air-fried wedges or fluffy roast potatoes, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters—especially when converting grams to cups for foolproof cooking.</p>

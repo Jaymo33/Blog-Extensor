@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of milk equals approximately 0.57 cups (just over half a cup). This conversion is handy for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 135 ml of milk to cups ensures your dish turns out perfectly.</p>

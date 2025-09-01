@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>463 F converts to approximately 240 C in a fan oven. This is the standard conversion for recipes requiring high-heat cooking, especially when using air fryers or convection ovens. Whether you're roasting, baking, or air frying, getting the temperature right ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of quinoa equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're meal prepping or trying a new dish, knowing how to convert grams to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking.</p>

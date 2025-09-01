@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of vinegar equals approximately 768.91 millilitres (ml). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're marinating chicken, pickling vegetables, or making a tangy sauce, knowing how to convert cups to ml ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right every time. Vinegar is a versatile ingredient, and converting 3.25 cups to ml is straightforward once you know the ratio.</p>

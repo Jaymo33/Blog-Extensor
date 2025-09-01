@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of honey is roughly equivalent to 1.2 cups, though this can vary slightly depending on honey density and temperature. If you're using an air fryer for recipes like glazed salmon or honey-roasted vegetables, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accuracy matters, especially when converting grams to cups for sticky ingredients like honey.</p>  

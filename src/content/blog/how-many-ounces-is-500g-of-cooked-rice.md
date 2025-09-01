@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of cooked rice equals approximately 17.64 ounces. This conversion is essential for air fryer users who need precise measurements for meal prep or portion control. Whether you're reheating leftovers or cooking a fresh batch, knowing the weight in ounces helps ensure consistency. For more air fryer conversion tips, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

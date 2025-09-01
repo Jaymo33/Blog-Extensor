@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of rolled oats equals approximately 2.5 cups. This conversion is essential for anyone using rolled oats in baking or air frying, ensuring your recipes turn out just right. Whether you're making granola, oatmeal cookies, or a healthy breakfast, knowing how to measure 250 grams of rolled oats in cups saves time and hassle.</p>  

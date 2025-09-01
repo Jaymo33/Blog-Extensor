@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of water equals 300 grams. This conversion is essential for precision in air fryer cooking, where accurate measurements can make or break a recipe. Whether you’re baking cakes or preparing savoury dishes, knowing how many grams 1.25 cups of water weighs ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of condensed milk is approximately 1.5 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're making a dessert or a savoury dish, knowing how to convert 360 ml of condensed milk to cups ensures your recipe turns out perfectly every time.</p>

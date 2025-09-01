@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 kg of prawns equals approximately 4.41 pounds, making it easy to adjust recipes whether you're using metric or imperial measurements. This conversion is particularly useful when working with air fryer recipes that might specify weights in different units. Knowing that 2 kg prawns to pounds is roughly 4.41 lbs helps you portion correctly and avoid over or undercooking. Many fantastic seafood recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use prawns as a key ingredient, so accurate measurements are crucial. Getting your quantities right from the start ensures your air fried prawns turn out perfectly every time.</p>

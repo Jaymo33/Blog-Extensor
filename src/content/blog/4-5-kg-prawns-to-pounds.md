@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.5 kg of prawns is equal to approximately 9.92 pounds. This conversion is essential for anyone using an air fryer, as many recipes and appliance guidelines use imperial measurements. Getting the weight right ensures your prawns cook evenly and come out perfectly succulent. Whether you're meal prepping or cooking for a crowd, accurate measurements make all the difference. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

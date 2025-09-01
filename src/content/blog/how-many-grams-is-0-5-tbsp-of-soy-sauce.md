@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of soy sauce equals approximately 7.5 grams. This precise measurement is essential for air fryer cooking, where accurate seasoning can make or break a dish. Whether you’re marinating chicken, glazing salmon, or adding depth to tofu, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>

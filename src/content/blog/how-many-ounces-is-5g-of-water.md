@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of water equals approximately 0.176 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're baking, steaming, or adjusting liquid ingredients, knowing how to convert grams to ounces ensures perfect results every time.</p>

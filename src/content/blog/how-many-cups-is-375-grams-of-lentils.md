@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of lentils is roughly equivalent to 1.9 cups when measured uncooked. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a hearty lentil stew or crispy air-fried lentil falafels, knowing how to convert grams to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

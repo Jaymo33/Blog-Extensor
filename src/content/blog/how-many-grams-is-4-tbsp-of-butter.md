@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of butter equals approximately 56 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're baking or frying, knowing the exact weight ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of hot sauce weigh approximately 45 grams. This conversion is essential for air fryer recipes where precision ensures the perfect balance of flavour. Whether you're marinating chicken or spicing up vegetables, knowing the exact weight helps avoid overpowering or underwhelming results. Hot sauce density can vary slightly, but 15 grams per tablespoon is a reliable standard. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

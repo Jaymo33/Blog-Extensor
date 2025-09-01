@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of greek yogurt weigh approximately 30 grams in the UK. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a healthy breakfast or a creamy dessert, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

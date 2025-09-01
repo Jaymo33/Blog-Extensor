@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of cooked rice equals approximately 13.28 ounces. This conversion is essential for air fryer users who need precise measurements for meal prep or recipe scaling. Whether you’re making fried rice or a rice-based casserole, knowing the weight ensures consistent results. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

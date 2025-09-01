@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>245 fan oven equals approximately 475°F in a conventional oven. This conversion is essential for baking and roasting, especially when using an air fryer which often follows fan oven settings. Understanding this conversion ensures your recipes turn out perfectly every time.</p>

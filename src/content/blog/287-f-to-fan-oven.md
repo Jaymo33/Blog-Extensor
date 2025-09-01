@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>287°F converts to approximately 140°C in a fan oven. This is a moderate temperature ideal for slow roasting, baking delicate pastries, or reheating dishes without drying them out. If you're using an air fryer, this temperature works beautifully for crispy yet tender results.</p>

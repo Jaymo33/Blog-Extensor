@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of agave syrup equals approximately 1 ounce (1 oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling it over roasted vegetables or using it as a glaze for chicken, knowing the exact weight ensures consistency. Agave syrup is a popular sweetener in many recipes, and its viscosity means volume-to-weight conversions are crucial. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 279 fan oven to Fahrenheit for a conventional oven is straightforward: 279°F in a fan oven equals approximately 300°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, which cook food faster and more evenly. Understanding this conversion ensures your recipes turn out just right, whether you're baking cakes or roasting meats. For air fryer users, this knowledge is equally valuable, as air fryers often mimic fan oven settings. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more tips on perfecting your cooking techniques.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of heavy cream is equal to approximately 0.042 cups. This small measurement is crucial for precision in baking and air fryer recipes, where even slight variations can affect texture and taste. Whether you're whipping up a creamy sauce or adding richness to desserts, knowing this conversion ensures consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat popcorn chicken in an air fryer, set it to 180°C (350°F) for 3-5 minutes until piping hot and crispy. This method beats microwaving hands down, restoring that irresistible crunch without drying out the tender chicken inside. Whether you’ve got leftovers from last night’s takeaway or prepped batches from your freezer, your air fryer’s circulating hot air works wonders on breaded bites.</p>

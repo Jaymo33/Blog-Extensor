@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of mustard equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you're making a glaze, marinade, or dipping sauce, knowing how to convert grams to ounces helps you follow recipes accurately. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

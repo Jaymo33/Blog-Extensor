@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 8.75 kg chicken wings to pounds is simple: 8.75 kilograms equals approximately 19.29 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes or planning meals for gatherings. Whether you're cooking for a family dinner or a big party, knowing the exact weight in pounds helps you portion correctly and avoid waste. Many air fryer recipes, especially those on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, use imperial measurements, so this knowledge is incredibly useful. Getting your measurements right ensures your chicken wings cook evenly and come out perfectly crispy every time.</p>

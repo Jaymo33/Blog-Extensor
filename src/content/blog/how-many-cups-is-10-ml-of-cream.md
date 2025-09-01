@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of cream is equal to approximately 0.042 cups. This small measurement is often used in recipes where precision matters, especially when working with air fryers or baking. Whether you're whipping up a dessert or adding cream to a sauce, knowing this conversion ensures your dish turns out perfectly every time.</p>

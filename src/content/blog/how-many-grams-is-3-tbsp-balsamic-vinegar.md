@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of balsamic vinegar equals approximately 45 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re marinating chicken or drizzling over roasted vegetables, knowing the exact weight ensures consistent results every time.</p>  

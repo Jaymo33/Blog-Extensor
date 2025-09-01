@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of icing sugar is approximately 3.6 cups in the UK and 3.75 cups in the US. This conversion is essential for baking, especially when using an air fryer for desserts. Whether you're making cakes, cookies, or frosting, precise measurements ensure perfect results every time.</p>

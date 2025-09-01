@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of sunflower oil equals approximately 3.7 grams. This conversion is essential for precise cooking, especially when using an air fryer where exact measurements can impact texture and crispiness. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own dishes, knowing this conversion ensures consistent results.</p>  

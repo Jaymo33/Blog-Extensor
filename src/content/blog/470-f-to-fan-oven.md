@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>470 F converts to approximately 220 C in a fan oven. This high-temperature setting is ideal for achieving crispy textures in air fryers and efficient cooking in fan-assisted ovens. Whether you're roasting vegetables or baking, understanding this conversion ensures consistent results across appliances.</p>

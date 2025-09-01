@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>39 kg converts to approximately 85.98 pounds, which is crucial information when working with larger quantities in your air fryer. Whether you're meal prepping for the week or cooking for a crowd, understanding this 39 kg to pounds conversion helps you portion ingredients accurately. Many air fryer recipes from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide measurements in both metric and imperial units, but knowing how to convert between them gives you greater flexibility. This conversion becomes particularly important when dealing with bulk purchases or larger cuts of meat that need to be divided before air frying. Getting your measurements right ensures even cooking and perfect results every time you use your appliance.</p>

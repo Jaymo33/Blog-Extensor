@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>36.75 kilograms is equal to approximately 81.02 pounds. This conversion is especially useful when you're preparing larger cuts of meat or batch cooking in your air fryer, ensuring you get the portion sizes and cooking times just right. Whether you're meal prepping for the week or cooking for a crowd, knowing how to convert 36.75 kg to pounds can make your time in the kitchen much smoother. It helps you follow recipes accurately and avoid under or overcooking your food. For more handy conversion tips, check out our full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

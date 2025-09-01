@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of desiccated coconut equals approximately 0.5 ounces. This conversion is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you're baking or topping dishes, knowing the exact weight helps avoid mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

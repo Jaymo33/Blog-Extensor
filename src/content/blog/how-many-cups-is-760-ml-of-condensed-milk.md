@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of condensed milk is approximately 3.2 cups. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making a dessert or a savoury dish, knowing the exact cup equivalent ensures consistency and great results.</p>  

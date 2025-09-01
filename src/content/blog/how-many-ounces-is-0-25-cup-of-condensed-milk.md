@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of condensed milk equals approximately 2 ounces (or 2.08 oz to be precise). This conversion is essential for air fryer recipes, where precise measurements can make or break your dessert. Whether you're making fudge, cakes, or sticky buns, knowing how many ounces are in 0.25 cup of condensed milk ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of plain flour equals approximately 12 grams in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make or break your dish. Whether you're whipping up air fryer cakes, cookies, or breaded coatings, knowing this measurement ensures consistent results every time.</p>

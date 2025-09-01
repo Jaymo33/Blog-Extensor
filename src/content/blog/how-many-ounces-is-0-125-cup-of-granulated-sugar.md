@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of granulated sugar equals 1 ounce. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you’re whipping up a cake or a batch of cookies, getting the measurements right ensures perfect results every time.</p>  

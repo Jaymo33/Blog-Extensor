@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000 grams (g) of sesame oil equals approximately 35.27 ounces (oz). This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're preparing marinades, dressings, or frying, knowing how to convert grams to ounces ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of minced beef is roughly equivalent to ½ cup when lightly packed. However, the exact measurement can vary slightly depending on the density and fat content of the minced beef. For air fryer recipes, precision matters, so knowing this conversion helps ensure consistent results every time.</p>

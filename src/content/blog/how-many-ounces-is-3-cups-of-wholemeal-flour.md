@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of wholemeal flour equals approximately 13.23 ounces (oz) in UK measurements. This conversion is essential for air fryer baking, where precision ensures even cooking and perfect texture. Whether you’re making bread, muffins, or pancakes, knowing the exact weight of your flour can make all the difference.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of sunflower oil equals approximately 20 fluid ounces (fl oz) or 19.5 ounces by weight (oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you’re frying, baking, or roasting, knowing the exact weight of your ingredients makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions and expert tips.</p>  

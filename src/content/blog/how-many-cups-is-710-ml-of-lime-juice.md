@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of lime juice is equivalent to approximately 3 cups (2.995 cups to be precise). Whether you're preparing a zesty marinade or a tangy dessert in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when working with bold flavours like lime juice.</p>  

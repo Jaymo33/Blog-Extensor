@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of vegetable oil equals approximately 13.28 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're frying chicken, roasting vegetables, or baking desserts, knowing how to convert cups to ounces ensures consistency and perfect results every time.</p>  

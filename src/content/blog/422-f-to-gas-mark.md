@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>422°F converts to Gas Mark 7 in UK ovens and air fryers. This high temperature is perfect for baking pastries, roasting vegetables, or achieving crispy results in your air fryer. At airfryerrecipe.co.uk, we specialise in making temperature conversions simple for home cooks.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons of BBQ sauce weigh approximately 60 grams. This measurement is essential for air fryer recipes where precision ensures the best texture and flavour. Whether you're marinating chicken or glazing ribs, knowing the exact weight helps avoid overly saucy or dry results. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

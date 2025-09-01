@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of mustard equals approximately 1.41 ounces. This conversion is essential for anyone using an air fryer, where precise measurements can make or break a recipe. Whether you’re preparing a marinade, sauce, or glaze, knowing how to convert 40g of mustard to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking delicious meals.</p>  

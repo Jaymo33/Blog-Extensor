@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 0.5 kg lamb leg and need to know its weight in pounds, the answer is approximately 1.1023 pounds. This conversion is essential for air fryer cooking, as many recipes and guidelines use imperial measurements. Knowing the exact weight helps you adjust cooking times and temperatures accurately for the best results. Whether you're roasting a small joint or preparing a meal for two, this conversion ensures your lamb turns out juicy and perfectly cooked. For more handy conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

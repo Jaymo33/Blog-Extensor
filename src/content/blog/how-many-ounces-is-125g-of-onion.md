@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of onion equals approximately 4.41 ounces. This conversion is essential when preparing air fryer recipes that require precise measurements for consistent results. Whether you're making crispy onion rings or adding onions to a stir-fry, knowing this conversion helps achieve perfect portions every time.</p>

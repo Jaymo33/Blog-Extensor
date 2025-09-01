@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of jam weighs approximately 3.75 grams. This measurement is essential for precise baking, glazing, or adding just the right amount of sweetness to your air fryer recipes. Whether you're making pastries, glazing meats, or whipping up a quick dessert, knowing this conversion ensures consistency in your cooking.</p>

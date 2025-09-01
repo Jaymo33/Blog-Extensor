@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>33 kg equals approximately 72.75 pounds, making it a useful conversion for those working with larger quantities in the kitchen. This conversion is particularly valuable when using an air fryer, as many recipes and packaging use different measurement systems. Whether you're meal prepping or converting a recipe from metric to imperial, understanding how to convert 33 kg to pounds ensures accurate results. Many air fryer enthusiasts find this conversion helpful when buying ingredients in bulk or calculating portion sizes. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of double cream equals approximately 118 ml. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re making a creamy sauce or a decadent dessert, knowing the exact ml measurement helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Let’s dive deeper into why this measurement matters and how to use it.</p>

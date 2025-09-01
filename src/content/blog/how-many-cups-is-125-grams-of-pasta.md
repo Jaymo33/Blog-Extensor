@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of pasta equals approximately 1.25 cups when measured uncooked. This conversion is essential for air fryer recipes where precise measurements can affect cooking times and results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that getting your pasta quantities right makes all the difference between perfectly al dente and overcooked meals.</p>

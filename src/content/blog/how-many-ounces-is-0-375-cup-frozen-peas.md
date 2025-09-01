@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of frozen peas equals approximately 3 ounces. This measurement is key for air fryer recipes where precision ensures even cooking. Whether you're prepping a quick side dish or adding peas to a larger meal, knowing this conversion helps avoid guesswork. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of milk equals 600 millilitres (ml). This conversion is essential for anyone using recipes that require precise measurements, especially when cooking or baking with an air fryer. Whether you're whipping up a cake, making a creamy sauce, or preparing a delicious <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert</a>, knowing how to convert cups to millilitres ensures consistent results every time.</p>

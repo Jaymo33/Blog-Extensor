@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of cottage cheese weighs approximately 15 grams in the UK. This measurement is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're adding cottage cheese to a breakfast bake or a savoury dish, knowing the exact weight helps avoid over or under-measuring.</p>

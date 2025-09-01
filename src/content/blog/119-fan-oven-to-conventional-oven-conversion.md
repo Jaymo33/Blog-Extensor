@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>119 fan oven is equivalent to approximately 100°C in a conventional oven. This conversion is essential for accurate baking and roasting, especially when switching between appliances like ovens and air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of minced onion equals approximately 4.5 ounces (or 128 grams). This measurement is essential for air fryer recipes, ensuring your dishes have the right balance of flavour and texture. Whether you're making a savoury stir-fry or a hearty casserole, knowing this conversion helps you cook with precision. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking easier with accurate measurements and expert tips.</p>  

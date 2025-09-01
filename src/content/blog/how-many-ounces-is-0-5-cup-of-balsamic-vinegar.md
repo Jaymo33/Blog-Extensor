@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of balsamic vinegar equals approximately 4.23 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or drizzling over roasted vegetables, knowing how many ounces are in 0.5 cup of balsamic vinegar ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you nail every recipe with accurate conversions.</p>  

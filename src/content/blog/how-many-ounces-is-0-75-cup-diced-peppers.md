@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of diced peppers equals approximately 4 ounces (113 grams). This measurement is essential for air fryer recipes where precise ingredient quantities ensure even cooking and perfect results. Whether you’re making stuffed peppers, fajitas, or a stir-fry, knowing how many ounces are in 0.75 cup of diced peppers helps you follow recipes accurately.</p>  

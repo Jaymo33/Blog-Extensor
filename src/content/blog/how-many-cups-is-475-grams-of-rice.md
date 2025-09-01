@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of rice is roughly equivalent to 2.4 cups in standard UK measurements. This conversion can vary slightly depending on the type of rice, but it's a reliable starting point for recipes. If you're using an air fryer for cooking rice-based dishes, precise measurements ensure consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

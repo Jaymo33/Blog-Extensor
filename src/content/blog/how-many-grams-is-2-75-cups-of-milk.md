@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of milk is approximately 660 grams if using US cups or 688 grams if using UK cups. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight of your ingredients makes all the difference.</p>  

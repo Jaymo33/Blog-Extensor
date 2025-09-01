@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>473 F converts to approximately 245 C in a fan oven. This is the standard equivalent for most UK fan-assisted ovens and air fryers, making it easier to adapt American recipes. Whether you're using a Ninja, Philips, or another brand, this conversion ensures your dishes cook evenly without burning.</p>

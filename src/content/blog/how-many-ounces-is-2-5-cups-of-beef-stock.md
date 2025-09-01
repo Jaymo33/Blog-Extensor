@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of beef stock equals approximately 20 fluid ounces (UK). This conversion is essential for air fryer recipes, ensuring accurate measurements for soups, stews, and sauces. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing this conversion helps maintain consistency.</p>  

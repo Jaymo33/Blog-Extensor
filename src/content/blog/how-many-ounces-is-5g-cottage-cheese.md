@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of cottage cheese equals approximately 0.18 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a quick breakfast or a hearty meal, knowing how to convert grams to ounces can make all the difference.</p>  

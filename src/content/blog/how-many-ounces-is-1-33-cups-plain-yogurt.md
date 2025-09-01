@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of plain yogurt equals approximately 10.64 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes, ensuring accurate ingredient portions for perfect results. Whether you’re whipping up a creamy dip or a baked dessert, knowing this measurement saves time and avoids guesswork. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>

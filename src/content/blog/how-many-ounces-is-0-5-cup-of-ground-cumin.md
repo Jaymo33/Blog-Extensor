@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of ground cumin equals approximately 1.5 ounces, making it easy to measure for your air fryer recipes. Whether you're spicing up meats, vegetables, or even snacks, knowing this conversion ensures your dishes turn out perfectly seasoned every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can elevate your cooking, especially when using an air fryer.</p>

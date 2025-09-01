@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of gram flour equals approximately 6.35 ounces (180 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making crispy pakoras or fluffy besan ladoo, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time.</p>

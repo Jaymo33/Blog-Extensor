@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of water equals approximately 10.64 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can affect results. Whether you're preparing a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or adjusting liquid quantities, knowing this conversion ensures consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of chilli sauce equals approximately 0.35 ounces. This conversion is essential for UK cooks who need precise measurements for their air fryer recipes. Whether you're making spicy wings or adding a kick to stir-fry, knowing how many ounces is 10g of chilli sauce ensures perfect results every time.</p>

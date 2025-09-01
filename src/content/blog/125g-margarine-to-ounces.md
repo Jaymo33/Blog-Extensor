@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of margarine equals approximately 4.41 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking or frying, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of soy milk weighs approximately 7.5 grams. This conversion is essential for air fryer recipes where precision matters, especially in baking or making sauces. Whether you’re whipping up a vegan cake or a creamy marinade, knowing the exact weight ensures perfect results every time.</p>  

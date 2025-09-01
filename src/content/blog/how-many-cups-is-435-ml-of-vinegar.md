@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of vinegar is approximately 1.84 cups in standard US measurements. This conversion is essential for air fryer recipes, marinades, and baking where precision matters. Whether you're whipping up a tangy glaze or pickling vegetables, knowing how to measure vinegar correctly ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions simple so you can focus on cooking.</p>

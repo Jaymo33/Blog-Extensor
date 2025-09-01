@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of corn syrup is approximately 1.42 cups. This conversion is essential for air fryer recipes that require precise measurements to achieve the best results. Whether you're baking or cooking, knowing how to convert 335 ml of corn syrup to cups ensures your dishes turn out perfectly every time.</p>

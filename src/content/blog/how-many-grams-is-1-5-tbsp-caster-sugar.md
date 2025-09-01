@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of caster sugar equals approximately 22.5 grams. This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Whether you're making cakes, cookies, or desserts in your air fryer, knowing the exact weight ensures consistent results every time.</p>

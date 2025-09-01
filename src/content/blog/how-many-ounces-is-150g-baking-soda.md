@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of baking soda equals approximately 5.29 ounces. Whether you're whipping up a batch of air fryer cookies or a savoury dish, getting the measurements right is key. Baking soda is a crucial ingredient in many recipes, and even a small miscalculation can affect the outcome. That’s why knowing how to convert grams to ounces is so handy, especially for UK cooks using air fryers.</p>

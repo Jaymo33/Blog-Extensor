@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of plain flour is roughly equivalent to 3 cups. However, measuring flour by weight (grams) is far more accurate than using cups, as scooping methods can vary. If you're baking in your air fryer, precision is key—especially for cakes, cookies, and bread. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend weighing ingredients for consistent results every time.</p>  

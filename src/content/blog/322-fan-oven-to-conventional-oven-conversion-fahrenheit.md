@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>322°F in a fan oven converts to approximately 300°F in a conventional oven. This adjustment accounts for the more efficient heat distribution in fan-assisted ovens, which cook food faster and more evenly. If you're using an air fryer, you might also need to tweak the temperature slightly, as air fryers work similarly to fan ovens. For more detailed conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

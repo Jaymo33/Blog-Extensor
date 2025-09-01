@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of apple cider vinegar equals approximately 37.5 grams (g). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re marinating chicken or whipping up a tangy glaze, knowing the exact weight ensures consistency in your dishes.</p>

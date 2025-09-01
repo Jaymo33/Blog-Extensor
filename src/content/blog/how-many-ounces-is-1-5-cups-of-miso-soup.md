@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of miso soup equals approximately 12 fluid ounces (or 340 grams). This conversion is handy when adapting recipes for your air fryer or meal prep. Miso soup, a staple in Japanese cuisine, often features in light, healthy meals that work brilliantly in air fryers.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of honey equals approximately 591 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where exact measurements can make or break a recipe. Whether you're whipping up cakes, glazes, or marinades, knowing how to convert cups to millilitres ensures consistency and perfect results every time.</p>  

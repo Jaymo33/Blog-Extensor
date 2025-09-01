@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of gelatin powder equals approximately 1.06 ounces. This conversion is essential for anyone using gelatin in air fryer recipes, ensuring precise measurements for perfect consistency. Whether you're making mousses, jellies, or even savoury dishes, getting the right amount of gelatin is crucial for texture and setting.</p>

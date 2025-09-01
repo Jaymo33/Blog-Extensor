@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of double cream is approximately 3.95 cups in the UK or 3.96 cups in the US. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing how to convert ml to cups ensures your recipe turns out perfectly every time.</p>

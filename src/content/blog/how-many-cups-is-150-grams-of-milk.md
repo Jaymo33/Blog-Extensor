@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of milk equals approximately 0.63 cups (just over half a cup) in standard UK measurements. This conversion is essential for air fryer recipes where precision matters, whether you're making cakes, batters, or creamy sauces. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be – that’s why we break it down clearly.</p>

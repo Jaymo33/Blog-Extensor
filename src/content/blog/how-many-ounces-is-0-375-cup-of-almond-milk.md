@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of almond milk equals exactly 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a breakfast bake or a creamy dessert, knowing how many ounces are in 0.375 cup of almond milk ensures perfect results every time.</p>

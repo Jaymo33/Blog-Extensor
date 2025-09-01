@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of wholemeal flour weighs approximately 4.5 ounces (or 128 grams) in UK measurements. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a cake or preparing a savoury dish, knowing the exact weight ensures consistent results every time.</p>  

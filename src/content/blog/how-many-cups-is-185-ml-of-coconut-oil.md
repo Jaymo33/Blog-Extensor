@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of coconut oil equals approximately 0.78 cups. This conversion is essential for air fryer recipes where precision matters, whether you're baking, frying, or roasting. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be, so we've simplified this for you.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of heavy cream is roughly equivalent to 2.9 cups in the US or 2.4 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a creamy sauce or baking a decadent dessert, knowing how to convert 685 ml of heavy cream to cups ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

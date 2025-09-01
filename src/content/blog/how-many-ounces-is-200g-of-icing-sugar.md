@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of icing sugar equals approximately 7.05 ounces. This conversion is essential for bakers and air fryer enthusiasts who need precise measurements for perfect results. Whether you're whipping up a cake or dusting desserts, knowing how to convert grams to ounces ensures consistency.</p>

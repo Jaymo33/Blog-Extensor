@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating tater tots in an air fryer is simple: preheat to 190°C (375°F), cook for 3–5 minutes, and shake halfway for even crispiness. This method restores that golden crunch better than a microwave or oven. Whether you’re working with fridge leftovers or frozen batches, your air fryer delivers restaurant-quality results with minimal effort.</p>  

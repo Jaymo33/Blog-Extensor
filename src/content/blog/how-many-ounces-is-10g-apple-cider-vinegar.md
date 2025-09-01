@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 grams of apple cider vinegar equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re marinating chicken or adding a tangy twist to roasted vegetables, getting the right amount of apple cider vinegar ensures balanced flavours.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of tahini equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re making hummus, dressings, or marinades, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>

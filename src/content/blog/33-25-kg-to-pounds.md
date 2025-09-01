@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>33.25 kg is equal to 73.28 pounds. Whether you're weighing ingredients for a large batch of air fryer chips or calculating the weight of a whole chicken, understanding how to convert kilograms to pounds is a handy skill for any home cook. Many recipes, especially those from American sources or older British cookbooks, use pounds and ounces, so being able to quickly switch between units ensures you never get your measurements wrong. This is particularly useful when using your air fryer, as accurate weights directly impact cooking time and crispiness. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

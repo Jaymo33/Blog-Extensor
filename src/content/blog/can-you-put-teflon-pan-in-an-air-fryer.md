@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can technically put a Teflon pan in an air fryer, but it's not recommended due to potential safety risks. The high heat of air fryers (typically reaching 200°C or more) can degrade Teflon coatings, releasing potentially harmful fumes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always prioritise safe cooking methods that protect both your health and appliance.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>So, how many ounces is 1 cup of rice? In the UK, 1 cup of uncooked, long-grain white rice typically weighs around 7 to 7.5 ounces (approximately 200 to 210 grams). This measurement is essential for anyone using an air fryer, as precise quantities ensure even cooking and perfect results every time. Whether you are meal prepping or cooking a family dinner, knowing this conversion helps avoid under or overestimating portions. Getting it right means your rice will be fluffy, not soggy or undercooked. For more handy conversions like this, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

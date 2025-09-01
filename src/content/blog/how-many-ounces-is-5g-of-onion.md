@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of onion equals approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're making crispy onion rings or adding diced onions to a dish, knowing how to convert 5g of onion to ounces ensures your cooking is spot-on.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of single cream equals 600 millilitres (ml). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a dish. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how many ml is 2.5 cups of single cream ensures consistency. For more air fryer conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

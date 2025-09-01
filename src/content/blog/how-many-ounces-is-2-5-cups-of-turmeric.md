@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of turmeric equals approximately 10.5 ounces (UK). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a curry or seasoning vegetables, knowing the exact weight ensures consistent results every time. Turmeric’s density means it packs differently than liquids, so weight measurements are often more reliable. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

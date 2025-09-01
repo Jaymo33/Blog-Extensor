@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of minced garlic equals approximately 2 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference in flavour and texture. Whether you're making garlic bread, roasted vegetables, or marinades, knowing this conversion ensures your dishes turn out perfectly every time.</p>

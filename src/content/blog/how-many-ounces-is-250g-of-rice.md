@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of rice equals approximately 8.82 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you're meal prepping or whipping up a quick dinner, knowing how to convert 250g rice to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking. Let’s dive deeper into why this matters for your air fryer recipes.</p>

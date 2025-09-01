@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of paprika equals approximately 3.5 ounces (or 100 grams). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're spicing up chicken or adding flavour to vegetables, knowing the exact weight ensures consistent results every time. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

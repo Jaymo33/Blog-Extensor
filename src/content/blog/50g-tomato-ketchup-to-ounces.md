@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of tomato ketchup equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up homemade sauces or marinating meats, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

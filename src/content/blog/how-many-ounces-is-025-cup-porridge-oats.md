@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of porridge oats equals approximately 0.88 ounces (25 grams) in UK measurements. Whether you're preparing a quick breakfast or meal prepping for the week, getting the right measurement ensures perfect texture and consistency in your air fryer recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for cooking success.</p>  

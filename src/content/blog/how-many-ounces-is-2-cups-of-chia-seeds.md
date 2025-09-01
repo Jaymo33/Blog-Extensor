@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chia seeds weigh approximately 10.5 ounces (or 300 grams). This measurement is essential for precise cooking, especially when using an air fryer for recipes like chia seed crackers or energy bars. Whether you're meal prepping or experimenting with new dishes, knowing this conversion ensures consistency in your results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

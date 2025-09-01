@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should never put cling film in an air fryer. The intense heat circulating inside an air fryer (typically 160-200°C) will cause standard cling film to melt, potentially releasing harmful chemicals into your food and damaging your appliance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always recommend using materials specifically designed for high-heat cooking when preparing your favourite <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>.</p>

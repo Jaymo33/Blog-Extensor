@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>240 C converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is perfect for baking, roasting, and achieving crispy results in both traditional ovens and modern air fryers. Whether you're following a recipe from airfryerrecipe.co.uk or converting temperatures for your favourite dishes, knowing this conversion is essential for British kitchens.</p>

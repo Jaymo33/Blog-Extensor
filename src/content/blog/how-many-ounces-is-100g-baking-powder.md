@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of baking powder equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up cakes, muffins, or savoury bakes, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when using an air fryer.</p>  

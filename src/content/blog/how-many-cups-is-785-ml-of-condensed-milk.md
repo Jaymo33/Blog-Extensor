@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>785 ml of condensed milk equals approximately 3.3 cups. This conversion is essential for baking, cooking, or air fryer recipes where precise measurements matter. Whether you're making a caramel drizzle or a creamy dessert, knowing how many cups 785 ml of condensed milk translates to ensures consistency in your dishes.</p>  

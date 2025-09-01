@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of coconut oil equals approximately 14 ounces (or 14.2 oz to be precise) in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up crispy fried chicken or a moist cake, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you master conversions for flawless cooking every time.</p>  

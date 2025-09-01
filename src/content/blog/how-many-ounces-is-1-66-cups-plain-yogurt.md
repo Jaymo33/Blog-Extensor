@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of plain yogurt equals approximately 13.28 ounces (oz). This conversion is essential for air fryer recipes where precise measurements matter. Whether you're making a creamy dip or a fluffy cake, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

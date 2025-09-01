@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>347°F converts to approximately 175°C in a fan oven. This is a crucial conversion for anyone using recipes designed for conventional ovens in a fan-assisted or air fryer setting. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperatures make all the difference when adapting American recipes to UK appliances.</p>

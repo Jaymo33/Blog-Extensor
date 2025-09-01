@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of blueberries weigh approximately 330 grams. This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're following a British or American recipe, knowing the gram equivalent of 2.75 cups of blueberries helps avoid measurement mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

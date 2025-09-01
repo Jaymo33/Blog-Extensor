@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of olive oil is approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference between perfectly crispy dishes and soggy results. Whether you’re drizzling oil over chips or marinating chicken, knowing how to convert grams to ounces ensures consistency in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of cottage cheese equals approximately 37.5 grams. This conversion is essential for air fryer recipes, ensuring precise measurements for consistent results. Whether you're meal prepping or following a specific diet, knowing the exact weight helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to make your cooking effortless.</p>  

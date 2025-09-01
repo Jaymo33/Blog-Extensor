@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of agave syrup equals approximately 5.29 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you’re whipping up a dessert or a savoury dish, knowing how many ounces are in 150g of agave syrup ensures accuracy and consistency.</p>

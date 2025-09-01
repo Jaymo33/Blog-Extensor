@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of evaporated milk is approximately 3.74 cups in the US measurement system and roughly 3.5 cups in the UK. This conversion is essential for recipes requiring precise measurements, especially in baking or air fryer cooking where accuracy matters. Whether you're making a creamy custard or a rich dessert, knowing how to convert 885 ml of evaporated milk to cups ensures perfect results every time.</p>

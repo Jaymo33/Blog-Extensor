@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of miso soup equals approximately 8.45 ounces (240 grams). This measurement is key for air fryer recipes, ensuring accurate portions and perfect results. Whether you're preparing a quick lunch or experimenting with Japanese-inspired dishes, knowing this conversion helps streamline your cooking process.</p>  

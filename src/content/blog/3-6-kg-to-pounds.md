@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.6 kg is equal to approximately 7.94 pounds, a conversion that's incredibly useful when preparing ingredients for your air fryer. Whether you're portioning out chicken, vegetables, or even batch cooking for the family, knowing how to convert 3.6 kg to pounds ensures you use the right amount for optimal results. This is especially handy when following recipes from different sources that might use imperial or metric measurements. Getting your quantities spot-on means your food cooks evenly, crisps perfectly, and avoids overcrowding the basket. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

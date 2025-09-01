@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of corn syrup is approximately 0.89 cups. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're baking a cake or glazing meats, knowing how many cups 210 ml of corn syrup equals helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of granulated sugar equals approximately 14.1 ounces (400 grams). This measurement is crucial for air fryer baking, where precision ensures perfect results every time. Whether you’re making cakes, cookies, or desserts, knowing the exact weight of your ingredients can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about helping you get the best from your air fryer with accurate conversions and tips.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of grated cheese equals approximately 2.25 cups in standard US measurements, or roughly 2 cups in UK measurements. This conversion is essential for air fryer recipes, where precise ingredient quantities can affect texture and cooking times. Whether you're making cheesy garlic bread, stuffed mushrooms, or a crispy topping for baked dishes, knowing how many cups 225 grams of grated cheese yields ensures consistent results.</p>

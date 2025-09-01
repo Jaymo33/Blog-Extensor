@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of sesame oil equals approximately 20 ounces (or 19.7 oz to be precise). This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you’re whipping up crispy tofu or flavourful stir-fries, knowing how to convert cups to ounces is a game-changer.</p>  

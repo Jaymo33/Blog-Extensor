@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of tomato ketchup equals approximately 8.82 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a batch of air-fried chicken wings or a tangy glaze, knowing the exact weight ensures perfect results every time.</p>  

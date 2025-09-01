@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of balsamic vinegar is approximately 1.2 cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or drizzling over roasted vegetables, knowing this conversion ensures perfect results every time.</p>  

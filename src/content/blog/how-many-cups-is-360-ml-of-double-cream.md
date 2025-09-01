@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of double cream is approximately 1.5 cups in standard US measurements or 1.25 cups in UK metric measurements. Whether you're whipping up a dessert or adding richness to a sauce, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are, especially when using an air fryer for delicate dishes.</p>

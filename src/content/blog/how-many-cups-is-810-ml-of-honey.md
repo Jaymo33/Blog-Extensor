@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of honey is roughly equivalent to 3.42 cups. This conversion is essential for baking, cooking, or air frying, where precision ensures perfect results. Whether you're whipping up a cake or glazing chicken in your air fryer, knowing this measurement saves time and avoids mishaps.</p>

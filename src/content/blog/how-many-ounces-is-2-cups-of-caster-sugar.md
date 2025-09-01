@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of caster sugar equals approximately 14.1 ounces (400 grams) in UK measurements. Whether you're baking a cake or whipping up a batch of cookies, getting the sugar measurement right is crucial for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer.</p>  

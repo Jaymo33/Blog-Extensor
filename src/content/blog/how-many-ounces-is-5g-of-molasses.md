@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of molasses equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a sticky glaze or a rich dessert, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the most out of your air fryer with accurate measurements and delicious results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of pasta is roughly equivalent to 0.42 cups (or just under half a cup) when measured uncooked. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re cooking spaghetti, penne, or fusilli, knowing how many cups is 50 grams of pasta ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for effortless cooking.</p>  

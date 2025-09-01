@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of corn syrup equals approximately 4 cups. This conversion is essential for baking and air fryer recipes where precision ensures the best results. Whether you're making sticky buns or glazing meats in your air fryer, knowing how many cups is 960 ml of corn syrup saves time and avoids guesswork.</p>

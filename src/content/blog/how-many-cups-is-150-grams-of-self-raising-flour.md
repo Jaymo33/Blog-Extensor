@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of self-raising flour equals approximately 1.2 UK cups or 1.25 US cups. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making fluffy scones or light cakes in your air fryer, getting the flour ratio right ensures consistent results every time. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy measurement guides and recipes tailored for your appliance.</p>

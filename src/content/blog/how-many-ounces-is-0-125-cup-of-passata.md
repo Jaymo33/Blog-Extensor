@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of passata equals approximately 1 ounce (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a rich tomato base or a light sauce, knowing how many ounces are in 0.125 cup of passata ensures consistency.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of butter equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're baking, frying, or roasting, knowing how to convert grams to ounces can make all the difference.</p>  

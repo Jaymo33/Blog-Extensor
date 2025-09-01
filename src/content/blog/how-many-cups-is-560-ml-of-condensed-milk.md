@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of condensed milk is approximately 2.37 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're making a cake, fudge, or a creamy dessert, knowing how many cups 560 ml of condensed milk equals ensures consistency in your recipes.</p>  

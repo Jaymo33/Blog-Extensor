@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of plain yogurt equals approximately 35.27 ounces. This conversion is essential when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're making yogurt-based marinades, dips, or baked goods, knowing this conversion ensures perfect results every time.</p>

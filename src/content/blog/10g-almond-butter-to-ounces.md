@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of almond butter equals approximately 0.35 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're baking almond butter cookies or adding a dollop to your breakfast, knowing the exact weight ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

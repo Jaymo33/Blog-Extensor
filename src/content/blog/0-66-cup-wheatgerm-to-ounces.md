@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of wheatgerm equals approximately 2.64 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you're making granola, breaded coatings, or healthy snacks, knowing how to convert cups to ounces takes the guesswork out of cooking. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

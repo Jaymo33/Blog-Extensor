@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of orange juice is approximately 2.26 cups. This conversion is essential for baking, cooking, or making refreshing drinks in your air fryer or oven. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this measurement ensures accuracy.</p>

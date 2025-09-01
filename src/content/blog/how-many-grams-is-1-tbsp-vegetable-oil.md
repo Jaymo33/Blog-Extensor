@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of vegetable oil weighs approximately 14 grams. This measurement is essential for precise cooking, especially when using an air fryer, where oil quantities can affect texture and crispiness. Whether you're following a recipe or adjusting portions, knowing this conversion ensures consistent results every time.</p>

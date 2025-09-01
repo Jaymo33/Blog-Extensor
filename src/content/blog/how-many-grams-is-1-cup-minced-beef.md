@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cup of minced beef weighs approximately 225 grams. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making burgers, meatballs, or a hearty chilli, knowing the exact conversion helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide precise measurements to make cooking effortless. No more guesswork—just delicious results.</p>

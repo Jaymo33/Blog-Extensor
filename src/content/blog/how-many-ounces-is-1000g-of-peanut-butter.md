@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of peanut butter equals approximately 35.27 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing meals in an air fryer. Whether you're whipping up a batch of peanut butter cookies or a savoury satay sauce, knowing this conversion ensures accuracy in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of cream equals 3 ounces (oz). This conversion is essential for precise measurements in cooking and baking, especially when using an air fryer. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with accurate conversions like this one.</p>  

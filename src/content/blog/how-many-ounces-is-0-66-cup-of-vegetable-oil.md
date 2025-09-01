@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of vegetable oil equals approximately 5.28 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precise oil quantities can make all the difference. Whether you’re frying, roasting, or baking, knowing how to convert cups to ounces ensures your dishes turn out perfectly every time.</p>

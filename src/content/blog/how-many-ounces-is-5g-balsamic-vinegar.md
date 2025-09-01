@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of balsamic vinegar is approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're marinating chicken or drizzling over roasted vegetables, knowing this conversion ensures your dish turns out perfectly.</p>  

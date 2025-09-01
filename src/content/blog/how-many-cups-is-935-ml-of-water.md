@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of water equals approximately 3.95 cups. This conversion is handy for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're baking a cake or preparing a savoury dish, knowing how to convert millilitres to cups ensures your cooking turns out perfectly every time. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of wheat flour equals approximately 0.56 ounces (16 grams). This precise measurement is essential for air fryer baking, where accuracy ensures perfect texture and consistency in your recipes. Whether you're making air fryer cakes, cookies, or bread, knowing the exact weight of your ingredients matters.</p>  

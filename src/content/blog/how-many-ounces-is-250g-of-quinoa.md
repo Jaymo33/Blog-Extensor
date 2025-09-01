@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of quinoa equals approximately 8.82 ounces, making it easy to measure for air fryer recipes. Whether you're meal prepping or cooking a quick side dish, knowing this conversion ensures accuracy. Quinoa is a versatile ingredient that works brilliantly in air fryers, offering a protein-packed base for salads, bowls, and more. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of vegetable oil weighs approximately 6.8 grams. This conversion is essential for air fryer recipes where accurate measurements ensure perfect results. Whether you’re frying, roasting, or baking, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Keep reading for more details on conversions and tips.</p>  

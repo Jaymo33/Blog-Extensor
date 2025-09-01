@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>323°F converts to Gas Mark 3, making it a moderate heat ideal for baking and roasting in your air fryer. This temperature is commonly used for cookies, cakes, and even some savoury dishes. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using an oven or an air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 kg is equal to approximately 0.551 pounds, a conversion that comes in handy for countless kitchen tasks, especially when using your air fryer. Whether you're measuring out meat, vegetables, or other ingredients, getting the weight right ensures your recipes turn out perfectly every time. Many air fryer recipes, particularly those from the UK or Europe, list quantities in kilograms, so knowing how to convert to pounds can be incredibly useful. This is a fundamental skill for anyone who loves cooking with precision and wants to avoid guesswork. You can find more handy conversion tips and charts over at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your culinary life easier.</p>

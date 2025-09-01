@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of ginger paste equals approximately 15 grams. This measurement is essential for air fryer recipes where precision can make all the difference. Whether you’re whipping up a marinade or adding a punch of flavour to your dish, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

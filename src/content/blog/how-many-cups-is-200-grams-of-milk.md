@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of milk is roughly 0.85 cups in the UK and 0.83 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a cake or a creamy sauce, knowing how to convert grams to cups ensures your dish turns out perfectly every time.</p>

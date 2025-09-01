@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of soy sauce equals approximately 2.37 cups. This conversion is essential for air fryer recipes, ensuring accurate measurements for marinades, sauces, and glazes. Whether you’re cooking a stir-fry or marinating chicken, knowing how to convert millilitres to cups saves time and guarantees consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on creating delicious meals.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat mozzarella sticks in an air fryer, set the temperature to 180°C (350°F) and cook for 3-5 minutes until crispy and heated through. This method restores that perfect crunch while keeping the cheese deliciously molten inside – far superior to microwave results.</p>

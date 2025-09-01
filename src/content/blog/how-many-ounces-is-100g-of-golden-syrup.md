@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of golden syrup equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making sticky toffee pudding or glazing roasted vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve the best results every time.</p>  

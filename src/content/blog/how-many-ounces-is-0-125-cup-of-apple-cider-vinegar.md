@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of apple cider vinegar equals exactly 1 fluid ounce (oz). This measurement is crucial for air fryer recipes where precision matters. Whether you’re marinating chicken or whipping up a tangy glaze, knowing this conversion ensures your dish turns out perfectly every time.</p>

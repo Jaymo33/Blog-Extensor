@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of yogurt is roughly equivalent to 1.25 cups in standard US measurements or 1.2 cups in UK metric measurements. This conversion is essential for air fryer recipes where precision matters, whether you're baking cakes or preparing marinades. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for perfect results every time.</p>

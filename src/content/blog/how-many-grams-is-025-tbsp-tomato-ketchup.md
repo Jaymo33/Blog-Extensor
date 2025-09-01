@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of tomato ketchup weighs approximately 3.75 grams. This measurement is essential for air fryer recipes where precise ingredient quantities can make all the difference. Whether you're whipping up a quick sauce or marinating chicken, knowing the exact weight ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect dishes.</p>  

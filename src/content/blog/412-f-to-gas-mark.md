@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>412°F converts to Gas Mark 7 in UK ovens and air fryers. This temperature is ideal for roasting meats, baking cakes, or cooking frozen foods to perfection. Whether you're using a traditional oven or modern air fryer, understanding this conversion ensures consistent results every time.</p>

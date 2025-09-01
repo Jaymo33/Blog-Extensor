@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of minced onion equals approximately 5.3 ounces (or 150 grams). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour distribution. Whether you’re making a savoury onion tart or adding depth to a stir-fry, knowing this conversion helps streamline your prep work.</p>  

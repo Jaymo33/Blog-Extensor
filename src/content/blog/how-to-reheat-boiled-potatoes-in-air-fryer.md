@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat boiled potatoes in an air fryer, set the temperature to 180°C (350°F) and cook for 5-8 minutes until heated through and crispy. This method revives leftover potatoes better than microwaving, giving them a delightful texture while retaining moisture. Whether you’ve got leftover Sunday roast potatoes or meal-prepped spuds, your air fryer can transform them into something special.</p>

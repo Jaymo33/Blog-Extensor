@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of water equals approximately 0.148 cups (or roughly 1/7 of a cup). This conversion is essential for air fryer recipes where precise liquid measurements can make or break your dish. Whether you're baking, steaming, or adjusting recipe quantities, knowing how to convert 35 ml of water to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions effortless for home cooks.</p>

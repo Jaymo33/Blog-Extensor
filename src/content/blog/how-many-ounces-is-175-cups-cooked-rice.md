@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of cooked rice equals approximately 14 ounces (or 14.17 oz to be precise). This conversion is essential for air fryer recipes, ensuring accurate portioning and consistent results. Whether you’re meal prepping or following a specific recipe, knowing this measurement helps avoid guesswork.</p>  

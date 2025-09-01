@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>433 F converts to approximately 220 C in a fan oven. This is the standard equivalent for most UK fan-assisted ovens and air fryers, ensuring even cooking and perfect results every time.</p>

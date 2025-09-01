@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of honey equals approximately 1020 grams. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making a sweet glaze for chicken or a sticky dessert in your air fryer, knowing how many grams are in 3.0 cups of honey is key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we recommend using a kitchen scale for the most accurate results. Honey's density can vary slightly, but this measurement is a reliable standard.</p>

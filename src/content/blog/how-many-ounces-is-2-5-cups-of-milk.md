@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of milk equals 20 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can affect texture and cooking times. Whether you're whipping up a creamy sauce or a fluffy cake, knowing how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>

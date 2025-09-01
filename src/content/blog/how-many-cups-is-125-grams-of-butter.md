@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of butter is roughly equivalent to 1/2 cup (or 0.53 cups to be precise) in standard US measurements. In UK measurements, it's slightly different due to varying cup sizes - about 0.55 UK cups. Whether you're preparing a cake or cooking in your air fryer, accurate butter measurements make all the difference in your recipes.</p>

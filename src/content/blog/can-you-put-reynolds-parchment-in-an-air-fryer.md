@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can safely use Reynolds parchment paper in most air fryers, provided you follow specific guidelines to prevent fire hazards or damage. The key is ensuring the parchment doesn't block airflow or touch heating elements. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we've tested various methods and found parchment liners particularly useful for messy foods like marinated chicken or sticky desserts.</p>

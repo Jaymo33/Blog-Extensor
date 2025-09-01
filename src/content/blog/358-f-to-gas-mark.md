@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Converting 358 F to Gas Mark for Air Fryer Cooking</h2>

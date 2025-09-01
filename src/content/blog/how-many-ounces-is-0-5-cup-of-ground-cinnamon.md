@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of ground cinnamon equals approximately 2.5 ounces (70 grams). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re baking cinnamon rolls or seasoning meats, knowing this weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

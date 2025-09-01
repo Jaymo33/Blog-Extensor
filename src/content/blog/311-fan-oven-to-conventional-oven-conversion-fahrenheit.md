@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 311 fan oven to Fahrenheit for a conventional oven is straightforward: 311°F in a fan oven equals approximately 311°F in a conventional oven, as fan ovens and conventional ovens use the same Fahrenheit scale. However, the key difference lies in cooking time and efficiency, which we’ll explore below. Whether you’re baking a cake or roasting vegetables, understanding this conversion ensures your dishes turn out perfectly every time.</p>

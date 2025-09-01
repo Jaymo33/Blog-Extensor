@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of lemonade equals 4 fluid ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a tangy glaze or a refreshing marinade, knowing how many ounces are in 0.5 cup of lemonade can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve culinary perfection with accurate conversions and delicious recipes.</p>  

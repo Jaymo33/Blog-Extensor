@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of single cream is approximately 1.84 cups in UK measurements or 1.8 cups in US measurements. This conversion is essential for recipes where precision matters, especially in baking or air fryer cooking. Whether you're whipping up a creamy sauce or a delicate dessert, knowing the exact measurement ensures perfect results every time.</p>  

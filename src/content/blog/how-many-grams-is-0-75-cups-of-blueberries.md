@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of blueberries equals approximately 112 grams. This measurement is crucial for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making blueberry muffins, compote, or a fruity dessert, knowing this conversion helps avoid kitchen mishaps.</p>

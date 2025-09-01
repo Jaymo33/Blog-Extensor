@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of soy milk equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a dairy-free batter or adding moisture to a dish, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s break down the details so you can measure with confidence.</p>

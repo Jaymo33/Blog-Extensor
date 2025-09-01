@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 F converts to approximately 210 C in a fan oven. This temperature is commonly used for roasting meats, baking pizzas, or crisping snacks in both conventional ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly every time, especially when using appliances like air fryers that often rely on fan-assisted cooking.</p>

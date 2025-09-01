@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of oats equals approximately 35.27 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're making granola, oat bars, or using oats as a coating, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when it comes to baking and air frying.</p>

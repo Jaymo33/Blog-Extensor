@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>357 F converts to approximately 180 C in a fan oven. This is a common temperature for baking and roasting, especially when using an air fryer which operates similarly to a convection oven. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using a traditional oven or an air fryer.</p>

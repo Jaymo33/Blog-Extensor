@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>288°F converts to Gas Mark 2, which is a moderate oven temperature ideal for slow baking and roasting. This conversion is particularly useful when adapting recipes between air fryers and conventional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master temperature conversions for flawless cooking.</p>

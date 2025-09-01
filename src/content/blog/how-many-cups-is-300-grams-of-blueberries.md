@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of blueberries is roughly equivalent to 2.4 US cups or 2 UK cups. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results. Whether you're making blueberry muffins or a fruity compote, knowing how to convert grams to cups makes all the difference.</p>  

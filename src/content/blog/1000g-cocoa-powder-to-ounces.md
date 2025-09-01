@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of cocoa powder equals approximately 35.27 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break your recipes. Whether you're whipping up brownies in your air fryer or preparing a chocolate cake, knowing how to convert grams to ounces ensures consistent results every time.</p>

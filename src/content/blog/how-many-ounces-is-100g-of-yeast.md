@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of yeast equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, especially when baking bread, pizza dough, or other yeast-based treats. Getting the measurement right ensures your dough rises perfectly and your air fryer creations turn out light and fluffy.</p>  

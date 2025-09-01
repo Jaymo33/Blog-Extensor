@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of cocoa powder is approximately 4.41 ounces. This conversion is essential for anyone baking in the UK, especially when using an air fryer for delicious desserts. Whether you’re whipping up brownies, cakes, or hot chocolate, getting the measurements right ensures perfect results every time.</p>  

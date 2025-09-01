@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of raisins weigh approximately 10 ounces (283 grams). This measurement is essential for air fryer recipes, ensuring accuracy for baking, snacking, or meal prep. Whether you're making raisin-studded cookies or a savoury dish, knowing the weight helps achieve consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of almond milk equals approximately 45 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a batter, sauce, or dessert, knowing the exact weight ensures consistency. Almond milk’s density can vary slightly, but 45g is a reliable standard for most brands. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

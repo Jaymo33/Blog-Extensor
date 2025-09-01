@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.4 kg is equal to 5.29109 pounds, which is typically rounded to 5.3 pounds for practical kitchen use. This conversion is essential for anyone using an air fryer, as many recipes and packaging use different measurement systems. Getting your quantities right from the start ensures your food cooks evenly and comes out perfectly crispy. Whether you're preparing a large family meal or meal prepping for the week, knowing how to convert 2.4 kg to pounds is a fundamental kitchen skill. For a comprehensive guide to all your conversion needs, check out our handy <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

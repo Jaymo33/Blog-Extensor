@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of ginger paste equals approximately 12 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up a marinade or adding flavour to a dish, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for perfect results every time.</p>  

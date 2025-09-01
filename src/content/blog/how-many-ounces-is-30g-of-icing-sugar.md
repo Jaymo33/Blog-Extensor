@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of icing sugar equals approximately 1.06 ounces. This conversion is essential for bakers and home cooks who need precise measurements, especially when using an air fryer for delicate desserts. Whether you're dusting a cake or preparing a glaze, knowing the exact weight ensures consistent results.</p>

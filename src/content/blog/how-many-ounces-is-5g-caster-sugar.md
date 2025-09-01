@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of caster sugar equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precision matters, especially in baking. Whether you’re whipping up cakes or cookies, knowing how to convert 5g of caster sugar to ounces ensures your treats turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making measurements simple so you can cook with confidence.</p>

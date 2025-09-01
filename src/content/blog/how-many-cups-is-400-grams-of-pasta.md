@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of pasta is roughly equivalent to 4 cups when measured uncooked. This conversion can vary slightly depending on the pasta shape, but it's a reliable starting point for most recipes. Whether you're using an air fryer or a traditional oven, getting the measurement right ensures perfectly cooked dishes every time.</p>  

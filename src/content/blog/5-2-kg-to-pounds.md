@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5.2 kg is equal to approximately 11.464 pounds, a conversion that becomes incredibly useful when you are preparing ingredients for your air fryer. Whether you are portioning out chicken, beef, or even vegetables, knowing the weight in both metric and imperial units ensures your recipes turn out perfectly every single time. Many popular air fryer recipes, especially those from British sources, provide weights in kilograms, but your kitchen scale might only show pounds. This quick conversion of 5.2 kg to pounds eliminates any guesswork and helps you follow instructions accurately. Getting this right is the first step to achieving that delicious, crispy texture we all love from our air fryers.</p>

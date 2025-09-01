@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of lemon juice equals approximately 35.27 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you're making a marinade or a zesty dessert, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

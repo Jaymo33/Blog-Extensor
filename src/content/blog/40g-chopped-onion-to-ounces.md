@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of chopped onion is approximately 1.41 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up a quick stir-fry or prepping ingredients for a casserole, knowing how to convert grams to ounces ensures accuracy in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of cocoa powder equals approximately 24 grams in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect texture and flavour. Whether you're making brownies, cakes, or hot chocolate, knowing the exact weight helps avoid dry or overly dense results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

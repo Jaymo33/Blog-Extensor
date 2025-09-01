@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of granulated sugar equals 500 grams. This conversion is essential for baking, especially when using an air fryer, where precision ensures even cooking. Whether you're making cakes, cookies, or desserts, knowing the exact weight helps avoid mishaps. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>

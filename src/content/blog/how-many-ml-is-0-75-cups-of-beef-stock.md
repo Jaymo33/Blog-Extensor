@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of beef stock equals approximately 177 ml. This conversion is essential for precise cooking, especially when using an air fryer, where exact liquid measurements can affect texture and flavour. Whether you're making gravy, soups, or marinades, knowing how to convert cups to millilitres ensures consistency in your recipes.</p>  

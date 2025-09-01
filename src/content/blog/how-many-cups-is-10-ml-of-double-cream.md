@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of double cream equals approximately 0.042 cups (or roughly 1/24 of a cup). This small measurement is crucial for precision in baking and cooking, especially when using an air fryer where exact quantities can affect texture and consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of cocoa powder equals approximately 0.53 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break your chocolatey creations. Whether you're whipping up air fryer brownies or dusting desserts, knowing how to convert 15g cocoa powder to ounces ensures perfect results every time.</p>

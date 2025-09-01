@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of vinegar equals approximately 946 ml in the US measurement system and 1136 ml in the UK metric system. Whether you're preparing a tangy marinade or a pickling solution for your air fryer, knowing this conversion ensures accuracy in your recipes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results.</p>  

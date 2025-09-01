@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Gas Mark 9 to Fahrenheit Conversion</h2>

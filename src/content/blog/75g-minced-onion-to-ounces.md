@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of minced onion equals approximately 2.65 ounces. This conversion is handy when following air fryer recipes that use imperial or metric measurements. Whether you're prepping a stir-fry or a casserole, knowing the exact weight ensures your dish turns out perfectly. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

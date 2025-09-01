@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>311°F converts to approximately 155°C in a fan oven. This conversion is essential when adapting recipes between traditional ovens and modern air fryers, especially for those using American cookbooks or appliance manuals in the UK.</p>

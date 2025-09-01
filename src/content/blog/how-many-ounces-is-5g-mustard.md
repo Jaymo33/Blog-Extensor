@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of mustard equals approximately 0.18 ounces. Whether you're preparing a marinade or whipping up a quick sauce for your air fryer dish, knowing this conversion ensures accuracy in your recipes. Mustard is a common ingredient in many air fryer recipes, from glazes to dips, so getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>  

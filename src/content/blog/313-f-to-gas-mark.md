@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>313°F converts to Gas Mark 2. This moderate oven temperature is perfect for slow roasting, baking delicate pastries, or cooking casseroles in your air fryer. Understanding temperature conversions helps you adapt traditional recipes for modern appliances.</p>

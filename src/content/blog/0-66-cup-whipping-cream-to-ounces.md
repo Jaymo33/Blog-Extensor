@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of whipping cream equals approximately 5.28 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a dessert or adding cream to a savoury dish, knowing this measurement can make all the difference.</p>

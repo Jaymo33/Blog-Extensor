@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>213°C in a fan oven is equivalent to approximately 190°C when using the convection setting. This adjustment accounts for the efficient heat circulation in fan-assisted ovens and air fryers, ensuring even cooking without overheating. Whether you're baking, roasting, or air frying, this conversion is essential for perfect results every time.</p>

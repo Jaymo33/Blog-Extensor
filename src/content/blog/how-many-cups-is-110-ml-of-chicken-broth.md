@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of chicken broth equals approximately 0.46 cups (just under half a cup). Whether you're prepping a sauce, marinade, or soup in your air fryer, getting the measurement right ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate conversions can be, so we’ve simplified it for you.</p>

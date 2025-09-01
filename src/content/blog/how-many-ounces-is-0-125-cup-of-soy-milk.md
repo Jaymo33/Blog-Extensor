@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of soy milk equals 1 fluid ounce (oz). This measurement is essential for precise cooking, especially when using an air fryer where accuracy can make or break a recipe. Whether you’re whipping up a sauce or baking a dessert, knowing this conversion ensures perfect results every time.</p>

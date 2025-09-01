@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of soy sauce equals approximately 0.705 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when marinating meats or seasoning dishes. Whether you're whipping up a quick stir-fry or a flavourful glaze, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

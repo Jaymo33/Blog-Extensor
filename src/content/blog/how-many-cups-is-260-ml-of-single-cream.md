@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of single cream is approximately 1.1 cups in UK measurements or 1.09 cups in US measurements. This conversion is essential for precise baking and cooking, especially when using an air fryer where exact measurements can affect texture and consistency. Whether you're making a creamy sauce or a rich dessert, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

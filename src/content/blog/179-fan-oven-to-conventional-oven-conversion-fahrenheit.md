@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>179°F in a fan oven converts to approximately 160°F in a conventional oven. This difference is crucial for baking and roasting, especially when using appliances like air fryers that mimic fan oven behaviour. Understanding this conversion ensures your recipes turn out perfectly every time.</p>

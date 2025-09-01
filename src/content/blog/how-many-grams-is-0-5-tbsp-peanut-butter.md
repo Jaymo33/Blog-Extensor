@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How many grams is 0.5 tbsp of peanut butter?</h2>

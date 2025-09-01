@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of brown sugar equals approximately 1.25 cups when lightly packed. This conversion is essential for baking, especially when using an air fryer, where precise measurements can affect texture and cooking times. Whether you're making cookies, cakes, or sauces, knowing how many cups is 250 grams of brown sugar ensures consistency in your recipes. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

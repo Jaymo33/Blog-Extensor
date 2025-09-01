@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of baking soda equals approximately 1 ounce (oz) in UK measurements. This conversion is essential for precision in baking and air fryer recipes, where exact measurements can make or break your dish. Whether you're whipping up a batch of cookies or adjusting a savoury recipe, knowing how to convert 0.125 cup of baking soda to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks and bakers alike.</p>  

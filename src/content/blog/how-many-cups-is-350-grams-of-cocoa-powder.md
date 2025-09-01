@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of cocoa powder is roughly equivalent to 3.5 cups in the UK and 2.8 cups in the US. This conversion is essential for precise baking, especially when using an air fryer for cakes, brownies, or other cocoa-based recipes. Getting the measurement right ensures your desserts turn out perfectly every time.</p>  

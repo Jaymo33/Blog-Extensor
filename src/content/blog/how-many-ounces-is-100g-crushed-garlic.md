@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of crushed garlic equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert 100g crushed garlic to ounces ensures consistent results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of jam equals approximately 6 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re making a glaze for air-fried chicken or a sweet topping for desserts, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

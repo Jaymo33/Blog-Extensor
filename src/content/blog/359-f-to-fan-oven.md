@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>359 F converts to approximately 160 C in a fan oven. This conversion is essential when adapting recipes between conventional ovens and modern fan-assisted appliances like air fryers. The difference comes from how fan ovens circulate hot air more efficiently, requiring slightly lower temperatures than traditional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions for perfect results every time.</p>

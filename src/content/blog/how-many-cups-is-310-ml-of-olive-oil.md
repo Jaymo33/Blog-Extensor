@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of olive oil equals approximately 1.31 cups (UK) or 1.31 US cups. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results. Whether you're baking, frying, or roasting, knowing how to convert millilitres to cups can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide precise conversions to help you cook with confidence.</p>  

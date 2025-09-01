@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of cream cheese equals approximately 0.35 ounces. This conversion is essential for precise measurements, especially when using an air fryer for recipes that require exact quantities. Whether you’re whipping up a cheesecake or adding cream cheese to a savoury dish, knowing this conversion ensures perfect results every time.</p>  

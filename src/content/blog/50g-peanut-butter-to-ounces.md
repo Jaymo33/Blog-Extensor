@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of peanut butter equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can affect texture and cooking times. Whether you’re making peanut butter cookies or a savoury sauce, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of rolled oats equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're making granola, oat bars, or a hearty breakfast, knowing this conversion helps streamline your cooking process.</p>  

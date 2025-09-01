@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of flour equals approximately 5.29 ounces. This conversion is essential for anyone using air fryer recipes that list ingredients in grams or ounces. Whether you're whipping up cakes, cookies, or bread in your air fryer, getting the measurements right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters when converting 150g flour to ounces for perfect baking results every time.</p>

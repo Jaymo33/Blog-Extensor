@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of cocoa powder equals approximately 5.29 ounces (or 150 grams). Whether you're baking brownies, cakes, or air fryer desserts, getting the measurement right is key to perfect results. Cocoa powder is a staple in many recipes, and knowing how to convert cups to ounces ensures consistency in your baking.</p>  

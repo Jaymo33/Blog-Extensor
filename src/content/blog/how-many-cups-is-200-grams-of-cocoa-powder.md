@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of cocoa powder equals approximately 1.7 cups when measured using the standard UK metric cup (250ml). In the US, where a cup is 240ml, it’s roughly 1.75 cups. This conversion is essential for baking air fryer desserts like brownies or chocolate cakes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of corn syrup is approximately 2.05 cups in US measurements or 1.71 cups in UK measurements. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that call for precise measurements. Whether you're whipping up a dessert or a glaze, knowing how to convert ml to cups ensures your dish turns out perfectly.</p>  

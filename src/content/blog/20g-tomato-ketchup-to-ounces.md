@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of tomato ketchup equals approximately 0.71 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making crispy chicken wings or loaded fries, knowing how many ounces 20g of tomato ketchup is ensures consistency in flavour and texture. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of marmalade equals approximately 6 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you're making glazes, desserts, or marinades, knowing how to convert cups to ounces helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>  

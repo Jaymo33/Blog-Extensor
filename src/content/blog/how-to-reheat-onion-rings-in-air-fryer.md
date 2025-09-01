@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating onion rings in an air fryer takes just 3-5 minutes at 180°C (350°F) for optimal crispiness. Unlike microwaving, which turns them rubbery, or oven baking that dries them out, air frying circulates hot air to revive that golden crunch. Whether you’ve got leftovers from last night’s takeaway or prepped batches from your freezer, this method works like magic.</p>

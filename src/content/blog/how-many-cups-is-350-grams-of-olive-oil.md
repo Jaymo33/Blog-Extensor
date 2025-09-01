@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of olive oil equals approximately 1.54 cups (UK) or 1.48 cups (US). This conversion is essential for air fryer recipes, where accuracy ensures crispy, evenly cooked dishes. Whether you're making roasted vegetables or frying chicken, knowing how to measure olive oil correctly can make all the difference.</p>  

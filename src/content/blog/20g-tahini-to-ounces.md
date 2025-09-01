@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of tahini equals approximately 0.71 ounces. This conversion is handy for air fryer recipes where precise measurements matter, especially when working with rich, dense ingredients like tahini. Whether you’re making dips, dressings, or marinades, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

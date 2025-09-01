@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of agave syrup is approximately 7.05 ounces. This conversion is essential for anyone using agave syrup in recipes, especially when working with air fryers where precise measurements can affect cooking results. Whether you're baking, glazing, or sweetening, knowing how to convert grams to ounces ensures consistency in your dishes.</p>  

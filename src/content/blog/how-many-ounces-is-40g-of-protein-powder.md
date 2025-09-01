@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams (40g) of protein powder equals approximately 1.41 ounces (oz). If you're using an air fryer for meal prep or baking, knowing this conversion ensures accurate measurements for perfect results every time. Whether you're making protein pancakes, shakes, or energy bites, getting the right amount of protein powder is key.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of cranberries weigh approximately 8 ounces (or 226 grams). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making cranberry sauce, muffins, or a festive roast, accurate measurements matter.</p>  

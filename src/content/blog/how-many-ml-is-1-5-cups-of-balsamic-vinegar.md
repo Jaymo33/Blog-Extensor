@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of balsamic vinegar equals 355 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where measurements can make or break a dish. Whether you’re preparing a glaze, marinade, or dressing, knowing the exact ml equivalent ensures consistency and flavour balance.</p>  

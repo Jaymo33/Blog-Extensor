@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of mozzarella cheese is roughly equivalent to 3.5 cups when shredded. This conversion is essential for air fryer recipes, ensuring you get the perfect cheesy finish every time. Whether you’re making a gooey pizza or a crispy mozzarella stick, accurate measurements matter. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

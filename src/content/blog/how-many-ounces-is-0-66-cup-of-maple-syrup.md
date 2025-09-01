@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of maple syrup equals approximately 7.5 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re glazing salmon or sweetening desserts, knowing the exact weight ensures perfect results every time.</p>  

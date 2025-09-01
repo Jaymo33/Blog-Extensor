@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>232 C converts to approximately 210 C in a fan oven. This 20-degree reduction is standard for fan-assisted cooking, as the circulating air distributes heat more efficiently. Whether you're baking, roasting, or using an air fryer, understanding this conversion ensures perfectly cooked dishes every time.</p>

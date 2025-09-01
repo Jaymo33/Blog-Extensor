@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of agave syrup equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a glaze or sweetening a marinade, knowing how many ounces is 5g of agave syrup ensures perfect results every time.</p>  

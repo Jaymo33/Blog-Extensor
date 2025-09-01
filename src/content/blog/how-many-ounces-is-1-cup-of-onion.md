@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of chopped onion weighs approximately 4.5 ounces (128 grams). This measurement is key for air fryer recipes, where precision ensures even cooking and perfect results. Whether you're making crispy onion rings or a savoury stir-fry, knowing the weight helps balance flavours and textures. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

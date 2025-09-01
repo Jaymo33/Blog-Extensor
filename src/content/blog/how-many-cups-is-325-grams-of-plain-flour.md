@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of plain flour is roughly equivalent to 2.6 cups in the UK or 2.7 cups in the US. This conversion is essential for bakers who rely on precise measurements for perfect results, especially when using an air fryer. Whether you're whipping up cakes, cookies, or bread, knowing how to convert grams to cups ensures consistency in your recipes.</p>  

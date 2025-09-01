@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cup of chicken broth equals 240 millilitres (ml). This standard conversion works for both UK and US measurements, making it easy to follow recipes without confusion. Whether you're using an air fryer or a traditional oven, knowing this conversion ensures your dishes turn out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of yeast equals approximately 4.8 ounces (or 4.8 oz) in standard UK measurements. This conversion is crucial for bakers using air fryers to create perfect doughs, from pizza bases to fluffy rolls. Precise measurements ensure your yeast activates properly, giving your baked goods the ideal rise and texture.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of rice equals approximately 600 grams, depending on the type of rice. This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and cooking times. Whether you're making fried rice, rice cakes, or a side dish, knowing the gram equivalent helps avoid under or overcooking. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

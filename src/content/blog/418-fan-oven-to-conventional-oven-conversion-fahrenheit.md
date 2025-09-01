@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 418 fan oven to conventional oven in Fahrenheit is straightforward: 418°F in a fan oven equals approximately 392°F in a conventional oven. This adjustment accounts for the even heat distribution of a fan-assisted oven, ensuring your dishes cook perfectly without burning or undercooking. Whether you're baking a cake or roasting vegetables, understanding this conversion is key to achieving consistent results.</p>

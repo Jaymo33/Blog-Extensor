@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>336 F converts to Gas Mark 3 for most UK ovens and air fryers. This medium heat setting is ideal for baking cookies, roasting vegetables, or cooking delicate proteins. Whether you're adapting a recipe or checking your air fryer manual, this conversion will help you achieve perfect results every time.</p>

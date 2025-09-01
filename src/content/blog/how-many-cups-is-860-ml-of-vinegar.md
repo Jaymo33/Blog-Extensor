@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of vinegar is approximately 3.63 cups when using standard US cup measurements. This conversion is essential for recipes that require precise liquid measurements, especially when using an air fryer for marinades or dressings. Whether you're whipping up a tangy sauce or cleaning your appliance, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen measurements for hassle-free cooking.</p>  

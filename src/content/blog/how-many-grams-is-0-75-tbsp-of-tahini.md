@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of tahini equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making hummus, dressings, or baking, knowing the exact weight of tahini can make all the difference.</p>  

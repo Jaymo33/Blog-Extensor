@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>226 C converts to 200 C in a fan oven, as you typically reduce the temperature by 20-25 degrees when using convection settings. This rule applies whether you're using a traditional fan-assisted oven or an air fryer, which operates on similar convection principles. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this conversion for everything from roasting vegetables to baking cakes.</p>

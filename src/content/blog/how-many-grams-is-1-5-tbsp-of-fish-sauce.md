@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of fish sauce is approximately 22.5 grams. This measurement is handy when you're preparing air fryer recipes that require precise amounts of fish sauce for the perfect balance of flavour. Whether you're marinating chicken or adding a umami kick to vegetables, knowing this conversion ensures your dish turns out just right.</p>

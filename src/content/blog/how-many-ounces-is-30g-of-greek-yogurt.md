@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of greek yogurt equals approximately 1.06 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams but you prefer measuring in ounces. Whether you're making a creamy dip or a healthy breakfast, knowing this conversion ensures your dish turns out just right.</p>

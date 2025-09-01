@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>374°F converts to approximately 190°C in a fan oven. This temperature is ideal for roasting, baking, and air frying, ensuring even heat distribution for crispy, golden results. Whether you're adapting recipes or troubleshooting your air fryer settings, understanding this conversion is key.</p>

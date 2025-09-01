@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of pasta is roughly equivalent to 3.25 cups, though this can vary slightly depending on the pasta shape and density. If you're using an air fryer for recipes like crispy pasta bakes or quick pasta dishes, knowing this conversion ensures perfect results every time. Whether you're cooking for a family or meal prepping, accurate measurements make all the difference.</p>  

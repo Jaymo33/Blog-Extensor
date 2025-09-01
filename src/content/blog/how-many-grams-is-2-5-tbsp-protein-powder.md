@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of protein powder typically equals around 20 grams (g), though this can vary slightly depending on the brand and density of the powder. For accurate air fryer recipes, knowing this conversion ensures your meals are perfectly balanced. Whether you’re meal prepping or whipping up a protein-packed snack, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with clear conversions and delicious recipes.</p>

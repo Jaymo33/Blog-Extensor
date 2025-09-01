@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>327°F converts to Gas Mark 3, making it a moderate heat ideal for baking and slow roasting in both air fryers and conventional ovens. This temperature is commonly used for cakes, casseroles and even some air fryer recipes that require gentle cooking. If you're using an air fryer, you'll find many recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> that work perfectly at this heat level.</p>

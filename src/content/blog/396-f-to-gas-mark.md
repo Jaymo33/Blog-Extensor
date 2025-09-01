@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>396 F converts to Gas Mark 6, which is the standard equivalent for most ovens and air fryers in the UK. This temperature is ideal for roasting meats, baking casseroles, or cooking frozen foods to perfection in your air fryer. Whether you're following a traditional recipe or adapting it for your air fryer, knowing this conversion ensures consistent results every time.</p>

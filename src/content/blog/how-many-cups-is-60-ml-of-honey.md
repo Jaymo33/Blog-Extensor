@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of honey is approximately 0.25 cups (or 1/4 cup) in both UK and US measurements. This conversion is essential for baking, cooking, and especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a glaze for salmon or sweetening a cake, knowing how to convert 60 ml of honey to cups ensures consistent results every time.</p>

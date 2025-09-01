@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of corn syrup equals approximately 887.21 ml. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making sticky buns or glazing a roast in your air fryer, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial conversions are for air fryer cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of honey equals approximately 85 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're glazing chicken, sweetening desserts, or creating sticky marinades, knowing the exact weight ensures perfect results every time.</p>

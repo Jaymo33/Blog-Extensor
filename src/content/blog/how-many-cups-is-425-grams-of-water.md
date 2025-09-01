@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of water equals approximately 1.8 cups (using the UK metric cup measurement of 250ml per cup). This conversion is essential for air fryer recipes, where precise liquid measurements can impact texture and cooking times. Whether you're making sauces, batters, or steaming ingredients, knowing how to convert grams to cups ensures consistency in your dishes.</p>  

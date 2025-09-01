@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of coconut oil equals 1 ounce (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up crispy treats or baking, knowing this conversion ensures perfect results every time.</p>

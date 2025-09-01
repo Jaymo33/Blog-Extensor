@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of honey is approximately 1.31 cups. This conversion is essential for baking and cooking, especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a glaze or sweetening a marinade, knowing how to convert ml to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

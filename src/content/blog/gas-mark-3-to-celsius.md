@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 3 converts to 160°C in Celsius, making it a moderate oven temperature perfect for slow cooking and baking. This temperature is commonly used for roasting meats, baking cakes, and preparing casseroles. When using an air fryer, you'll often need to adjust cooking times as they heat up faster than conventional ovens.</p>

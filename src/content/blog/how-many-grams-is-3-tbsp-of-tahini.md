@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of tahini equals approximately 45 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making dips, dressings, or marinades, knowing the weight of tahini helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to elevate your cooking. Tahini's density can vary slightly, but 45 grams is a reliable standard.</p>

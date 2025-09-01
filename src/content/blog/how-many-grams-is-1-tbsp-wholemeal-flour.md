@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One tablespoon (1 tbsp) of wholemeal flour weighs approximately 7.5 grams in the UK. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you’re baking air fryer cakes or coating chicken, knowing the exact weight helps avoid mishaps. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

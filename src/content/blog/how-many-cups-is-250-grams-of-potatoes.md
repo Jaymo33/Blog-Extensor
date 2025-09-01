@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of potatoes is roughly equivalent to 1.5 to 2 cups, depending on how finely they are chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can affect cooking times and results. Whether you're making crispy fries or roasted potatoes, knowing how many cups 250 grams of potatoes equals ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>

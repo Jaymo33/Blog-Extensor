@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of heavy cream equals approximately 2.15 cups. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a dessert or a creamy sauce, knowing how to convert 510 ml of heavy cream to cups ensures your dish turns out perfectly every time.</p>

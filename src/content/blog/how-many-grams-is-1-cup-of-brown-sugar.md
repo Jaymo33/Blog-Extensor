@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of brown sugar equals approximately 220 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking cookies or preparing a glaze, knowing the exact gram equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and reliable. Keep reading to learn why this measurement matters and how to use it in your air fryer.</p>  

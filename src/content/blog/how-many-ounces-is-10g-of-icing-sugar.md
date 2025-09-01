@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of icing sugar is approximately 0.35 ounces. This conversion is essential for precise baking, especially when using an air fryer for desserts like cakes or cookies. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or creating your own, knowing how to convert grams to ounces ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of flour equals approximately 16 grams in UK measurements. This conversion is essential for air fryer baking, where precision matters for perfect texture and rise. Whether you're making air fryer cakes, cookies, or breaded coatings, knowing your flour weights ensures consistent results every time.</p>

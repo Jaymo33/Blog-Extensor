@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of icing sugar weighs approximately 8 grams in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're dusting a sponge or making frosting, knowing the exact conversion ensures perfect results every time.</p>  

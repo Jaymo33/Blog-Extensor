@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of crushed garlic equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up garlic-infused chicken or roasted vegetables, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with bold flavours like garlic.</p>

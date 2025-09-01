@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 392 fan oven to conventional oven in Fahrenheit is straightforward: 392°F in a fan oven equals approximately 356°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, which cook food faster and more evenly. Understanding this conversion ensures your recipes turn out perfectly, whether you're baking, roasting, or even using an air fryer. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of chicken broth equals approximately 0.68 cups (just over 2/3 cup). This conversion is essential for air fryer recipes, where precise liquid measurements can make or break a dish. Whether you're making a marinade, soup, or sauce, knowing how to convert millilitres to cups ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of flour equals approximately 24 grams. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up air fryer cookies or a quick bread, knowing the exact weight ensures consistent results every time.</p>

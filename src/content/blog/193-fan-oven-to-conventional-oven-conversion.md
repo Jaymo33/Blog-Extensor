@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>193 fan oven converts to approximately 170°C in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens, especially when using appliances like air fryers that often follow conventional temperature settings.</p>

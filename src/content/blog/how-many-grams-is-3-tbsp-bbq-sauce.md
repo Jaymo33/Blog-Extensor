@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of BBQ sauce weigh approximately 45 grams. This measurement is handy for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're marinating chicken wings or glazing ribs, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking easier with accurate conversions and delicious recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of canned beans equals approximately 12 ounces, making it easy to measure for air fryer recipes. This conversion is handy whether you're meal prepping or adjusting portion sizes for your favourite dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements are key to perfect results.</p>

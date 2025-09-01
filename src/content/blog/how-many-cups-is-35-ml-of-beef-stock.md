@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of beef stock equals approximately 0.15 cups in the UK or 0.148 cups in the US. Whether you're preparing a rich gravy or a flavourful stew, getting the measurement right is key to perfect results. This guide will help you convert 35 ml of beef stock to cups accurately, ensuring your air fryer recipes turn out just as intended.</p>  

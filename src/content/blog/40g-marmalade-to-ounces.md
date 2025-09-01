@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of marmalade is approximately 1.41 ounces. This conversion is handy when following recipes, especially for air fryer dishes where precision matters. Whether you’re making glazes, desserts, or breakfast treats, knowing how to convert grams to ounces ensures perfect results every time.</p>  

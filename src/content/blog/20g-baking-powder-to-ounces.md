@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of baking powder equals approximately 0.71 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up cakes, bread, or even savoury bakes, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with leavening agents like baking powder.</p>  

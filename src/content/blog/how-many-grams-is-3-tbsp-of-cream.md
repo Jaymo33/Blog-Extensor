@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of cream weigh approximately 45 grams. This conversion is essential for air fryer recipes where precision ensures perfect textures and flavours. Whether you're making a creamy sauce or a rich dessert, knowing the exact weight helps avoid kitchen mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>234 degrees Celsius converts to approximately 210 C in a fan oven. This 20-25 degree reduction is standard for convection cooking, ensuring even heat distribution without overcooking. Whether you're adapting recipes for your fan-assisted oven or tweaking air fryer settings, this conversion is essential for perfect results.</p>

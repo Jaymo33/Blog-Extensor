@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of lentils equals approximately 10.64 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for consistent results. Whether you're meal prepping or whipping up a quick dish, knowing this conversion saves time and avoids guesswork. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

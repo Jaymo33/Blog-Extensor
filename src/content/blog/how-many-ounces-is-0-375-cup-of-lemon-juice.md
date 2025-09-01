@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of lemon juice equals 3 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you're marinating chicken or baking a lemon drizzle cake, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for air fryer cooking.</p>

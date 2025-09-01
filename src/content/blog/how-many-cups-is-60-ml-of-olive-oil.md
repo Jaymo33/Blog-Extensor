@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of olive oil equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing how to convert 60 ml of olive oil to cups ensures consistent results every time.</p>  

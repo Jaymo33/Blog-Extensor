@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of shredded coconut equals approximately 5.25 ounces (or 5.25 oz) in UK measurements. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making coconut-crusted shrimp or a tropical dessert, precise measurements matter.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.7 kg is equal to approximately 1.54 pounds. This conversion is incredibly useful when you are preparing ingredients for your air fryer, especially if you are following a recipe that uses imperial measurements or need to portion out meat, vegetables, or other items. Getting the weight right is the first step to ensuring your food cooks evenly and comes out perfectly crispy. Whether you are meal prepping for the week or trying a new dish, accurate measurements matter. For a comprehensive guide on all sorts of conversions, check out the handy resources available at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

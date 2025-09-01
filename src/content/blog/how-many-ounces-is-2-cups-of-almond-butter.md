@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of almond butter equals approximately 16 ounces (or 454 grams). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and flavour. Whether you're making energy bites, cookies, or sauces, knowing how many ounces are in 2 cups of almond butter helps avoid kitchen mishaps.</p>  

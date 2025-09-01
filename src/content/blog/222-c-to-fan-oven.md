@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>222 C converts to approximately 200 C in a fan oven. This 20-degree reduction is standard when adapting conventional oven temperatures for fan-assisted cooking. The circulating hot air in fan ovens cooks food more efficiently, requiring lower temperatures for equivalent results.</p>

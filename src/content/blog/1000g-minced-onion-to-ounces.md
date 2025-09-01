@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of minced onion is approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring you get the right balance of flavours and textures. Whether you’re prepping a large batch of meals or following a specific recipe, knowing how to convert grams to ounces is a game-changer.</p>

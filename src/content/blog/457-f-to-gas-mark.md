@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>457°F converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is perfect for roasting, searing meats, or achieving crispy textures in your air fryer. Many traditional oven recipes call for 457°F, and knowing the Gas Mark equivalent helps when using British appliances or following UK recipes.</p>

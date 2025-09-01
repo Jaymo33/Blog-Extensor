@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put regular wooden toothpicks in an air fryer as they can catch fire or char at high temperatures. While some recipes might suggest using toothpicks to secure food, it's generally unsafe due to the intense, direct heat in an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always prioritise safety alongside great cooking results.</p>

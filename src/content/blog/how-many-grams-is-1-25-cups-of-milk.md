@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of milk equals approximately 300 grams. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you’re whipping up a cake or a creamy sauce, knowing how many grams 1.25 cups of milk weighs can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements spot-on for flawless results.</p>

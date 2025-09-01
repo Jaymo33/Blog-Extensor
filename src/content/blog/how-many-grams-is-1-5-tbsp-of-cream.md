@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of cream is approximately 22.5 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce, baking a cake, or preparing a rich dessert, knowing the exact weight helps maintain consistency. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we believe accurate measurements are the key to culinary success, especially when using an air fryer.</p>  

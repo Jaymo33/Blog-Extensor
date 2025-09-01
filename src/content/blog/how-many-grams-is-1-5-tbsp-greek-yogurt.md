@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of greek yogurt equals approximately 22.5 grams in UK measurements. This conversion is essential for air fryer recipes where precision ensures the best texture and consistency. Whether you’re making dips, marinades, or baked goods, knowing the exact weight saves time and avoids kitchen mishaps.</p>  

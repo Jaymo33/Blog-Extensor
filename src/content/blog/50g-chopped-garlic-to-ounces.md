@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of chopped garlic equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a garlic-infused dish or prepping ingredients, knowing this conversion ensures your meals turn out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

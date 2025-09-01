@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of goat milk equals approximately 20 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce or a baked dessert, knowing how many ounces are in 2.5 cups of goat milk can make all the difference.</p>

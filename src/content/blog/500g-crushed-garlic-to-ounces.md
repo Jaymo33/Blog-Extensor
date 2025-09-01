@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of crushed garlic equals approximately 17.64 ounces. This conversion is essential for precise cooking, especially when using an air fryer where ingredient measurements can impact the final dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or prepping ingredients for meal prep, knowing this conversion ensures accuracy.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of coconut oil is approximately 0.89 cups (just under 1 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up crispy treats or baking moist cakes, knowing how to convert ml to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions so you can focus on cooking. Let’s dive deeper into how this measurement works and why it matters.</p>  

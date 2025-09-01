@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of olive oil equals approximately 170 grams. This conversion is essential for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're preparing crispy roast potatoes or a moist cake, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of getting conversions right for flawless dishes every time.</p>  

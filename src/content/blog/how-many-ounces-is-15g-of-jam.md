@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of jam is approximately 0.53 ounces. This conversion is handy for air fryer recipes where precise measurements matter, especially when making desserts or glazes. Whether you're whipping up a batch of air fryer cookies or a fruity glaze for meats, knowing how to convert grams to ounces ensures your dish turns out perfectly.</p>

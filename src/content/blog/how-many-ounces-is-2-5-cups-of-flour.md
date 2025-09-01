@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of flour equals approximately 10.6 ounces (or 300 grams). Whether you're baking a cake or preparing air fryer-friendly dough, precise measurements ensure perfect results every time. Converting cups to ounces can be tricky, especially with flour, as its density varies. This guide breaks down the conversion for UK bakers and air fryer users, making it easy to follow recipes without guesswork.</p>  

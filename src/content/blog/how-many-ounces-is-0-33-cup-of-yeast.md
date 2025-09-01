@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of yeast equals approximately 2.64 ounces. This conversion is essential for precise baking, especially when using an air fryer for recipes like bread or pizza dough. Accurate measurements ensure your dough rises perfectly every time. Whether you’re a beginner or a seasoned baker, knowing how to convert 0.33 cup of yeast to ounces is a game-changer. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for more baking inspiration.</p>

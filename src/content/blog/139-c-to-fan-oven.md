@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>139 C in a fan oven is equivalent to approximately 122 C in a conventional oven without the fan. This conversion is crucial for baking delicate items that require precise temperature control. When using an air fryer, you’ll typically find similar results at this temperature range for most recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend always checking your specific appliance manual as models vary.</p>

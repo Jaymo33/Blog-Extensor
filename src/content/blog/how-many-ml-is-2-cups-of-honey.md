@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of honey equals approximately 473 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a glaze or sweetening a dessert, knowing this conversion ensures perfect results every time. Honey’s thick consistency means measuring by volume can be tricky, but converting cups to ml removes the guesswork. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions so you can focus on cooking delicious meals.</p>  

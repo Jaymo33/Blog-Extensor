@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of plain flour equals approximately 17.64 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing air fryer dishes. Whether you’re baking cakes or coating chicken for a crispy air fryer meal, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking.</p>

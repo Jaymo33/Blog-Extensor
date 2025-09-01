@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>38 kg equals exactly 83.775 pounds, which is crucial information when portioning ingredients for your air fryer. Whether you're preparing a large batch of chicken, vegetables, or even baking, accurate weight conversions ensure consistent cooking results every time. Many air fryer recipes use pound measurements, particularly those from American sources, making this conversion incredibly useful for UK cooks. Understanding how to convert 38 kg to pounds helps you follow international recipes with confidence and precision. Getting your measurements right is the first step toward perfect air fryer meals that cook evenly and taste fantastic.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of double cream equals approximately 16 ounces (or 1 pound) in the UK. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce or a decadent dessert, knowing how to convert cups to ounces ensures perfect results every time.</p>

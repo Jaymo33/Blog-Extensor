@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of protein powder equals approximately 1.06 ounces. This conversion is essential for anyone using protein powder in recipes, especially when precise measurements matter. Whether you're making protein shakes, baking protein-rich treats, or adding it to air fryer meals, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Keep reading to learn more about measuring protein powder accurately.</p>

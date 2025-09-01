@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating pancakes in an air fryer is simple: set the temperature to 160°C (320°F) and cook for 2–3 minutes. This method restores their crispiness while keeping the inside soft, making it far better than microwaving. Whether you’ve got leftover pancakes from breakfast or stored them in the fridge, your air fryer can bring them back to life effortlessly.</p>  

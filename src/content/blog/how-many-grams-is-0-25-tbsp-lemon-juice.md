@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of lemon juice weighs approximately 3.7 grams. This measurement is crucial for air fryer recipes where precise ingredient quantities affect cooking results. Whether you're making marinades, dressings, or glazes, knowing this conversion ensures your dishes turn out perfectly every time.</p>

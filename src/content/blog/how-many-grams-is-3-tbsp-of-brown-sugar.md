@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of brown sugar weigh approximately 36 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up cookies or glazing meats, knowing the exact weight ensures consistent results every time.</p>  

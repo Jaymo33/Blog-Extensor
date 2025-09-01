@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of chopped walnuts equals approximately 10 ounces (283 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're baking walnut-crusted chicken or making a crunchy topping for desserts, knowing the weight helps avoid over or under-measuring.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of rice equals approximately 200 grams, though this can vary slightly depending on the type of rice. Whether you're using a UK or US cup measurement, this conversion ensures your air fryer recipes turn out just right. Precise measurements are key for consistent results, especially when cooking rice-based dishes like fried rice or rice cakes in your air fryer.</p>  

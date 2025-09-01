@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of yeast equals approximately 14 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make or break your baked goods. Whether you’re making bread, pizza dough, or even air-fryer-friendly cakes, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how crucial accuracy is for perfect results every time.</p>  

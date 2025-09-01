@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of honey is roughly equivalent to 0.3 cups or just under 1/3 cup. This conversion is essential for baking, cooking, or even preparing air fryer recipes where precise measurements ensure perfect results. Whether you're whipping up a cake or glazing chicken in your air fryer, knowing how to convert grams to cups saves time and avoids kitchen mishaps.</p>  

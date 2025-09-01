@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can absolutely put marinated meat in an air fryer. The key is managing moisture levels and choosing the right cuts to prevent smoking or uneven cooking. Air fryers circulate hot air around food, creating crispy exteriors while keeping marinated meats juicy inside.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of whole milk equals approximately 2 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a cake or a creamy sauce, knowing how many ounces are in 0.25 cup of whole milk ensures accuracy and consistency.</p>

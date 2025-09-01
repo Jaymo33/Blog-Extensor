@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 7.75 kg turkey crown converts to approximately 17.09 pounds. This conversion is essential for anyone preparing a turkey crown in an air fryer, as many recipes and cooking guidelines use pounds rather than kilograms. Knowing the exact weight in pounds helps you calculate cooking times accurately and ensures your turkey turns out perfectly juicy and golden. Whether you're planning a Christmas feast or a Sunday roast, getting the conversion right is the first step to success. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

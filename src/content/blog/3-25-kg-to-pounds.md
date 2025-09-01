@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 kg is equal to approximately 7.165 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when buying pre-portioned ingredients. Knowing how to convert 3.25 kg to pounds ensures you use the right amount of food for your air fryer basket, leading to perfectly cooked meals every time. Whether you're preparing a family feast or meal prepping for the week, accurate measurements make all the difference. You can find more handy conversion tips and charts over at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your cooking even easier.</p>

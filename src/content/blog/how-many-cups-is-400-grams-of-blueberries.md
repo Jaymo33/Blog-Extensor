@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of blueberries is approximately 2.5 cups in standard US measurements and around 3 cups in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making blueberry muffins or a fruity compote, knowing how many cups 400 grams of blueberries equals ensures consistent results every time.</p>

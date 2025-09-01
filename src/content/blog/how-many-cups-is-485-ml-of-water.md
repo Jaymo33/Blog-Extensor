@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of water is approximately 2.05 US cups or 1.7 UK cups. Getting this conversion right is essential for cooking, baking, and especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're preparing a sauce, batter, or simply hydrating ingredients, knowing how to convert millilitres to cups ensures consistency in your dishes.</p>  

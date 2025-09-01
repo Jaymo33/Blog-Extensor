@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of buttermilk equals 12 fluid ounces (or approximately 340 grams). Whether you're preparing a marinade, baking a cake, or whipping up a batch of fluffy pancakes in your air fryer, knowing this conversion ensures your recipes turn out just right. Precise measurements are key, especially when working with buttermilk, as its thickness can affect the outcome of your dish.</p>  

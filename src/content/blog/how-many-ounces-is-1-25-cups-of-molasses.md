@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of molasses equals approximately 10.6 ounces (or 300 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking gingerbread cookies or a sticky toffee pudding, knowing the exact weight ensures consistent results every time.</p>  

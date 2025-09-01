@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of flaxseed equals approximately 7.4 ounces (oz). This conversion is essential for air fryer recipes, ensuring precise measurements for consistent results. Whether you're making flaxseed crackers or adding it to baked goods, knowing the exact weight helps avoid kitchen mishaps.</p>  

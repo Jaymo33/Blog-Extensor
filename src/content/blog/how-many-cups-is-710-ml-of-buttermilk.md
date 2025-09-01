@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of buttermilk is approximately 3 cups. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making pancakes, cakes, or marinades, knowing how to convert 710 ml of buttermilk to cups ensures your dishes turn out perfectly every time.</p>

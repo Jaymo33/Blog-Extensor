@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>16.2 kg is equal to 35.7149 pounds, which is a crucial conversion for anyone using an air fryer and working with recipes that use imperial measurements. Whether you're preparing a large batch of chicken, portioning vegetables, or buying ingredients for meal prep, understanding how to convert 16.2 kg to pounds ensures accuracy and perfect results. This conversion is especially useful for air fryer users who often deal with precise weights for even cooking and crispy outcomes. Many recipes on <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a> provide measurements in both metric and imperial, making it easier to follow along. Knowing that 16.2 kilograms to pounds is roughly 35.7 lbs helps you shop and cook with confidence.</p>

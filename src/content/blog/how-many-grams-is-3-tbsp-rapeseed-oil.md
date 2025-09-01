@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of rapeseed oil equals approximately 41 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and flavour. Whether you're preparing crispy vegetables or marinating chicken, knowing the exact weight ensures consistent results every time.</p>  

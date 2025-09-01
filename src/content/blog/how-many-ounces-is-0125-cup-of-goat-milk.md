@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of goat milk equals exactly 1 fluid ounce (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce or a baked treat, knowing how to convert 0.125 cup of goat milk to ounces is a handy kitchen skill.</p>  

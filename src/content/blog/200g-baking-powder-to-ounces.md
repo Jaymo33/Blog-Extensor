@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of baking powder equals approximately 7.05 ounces. Whether you're whipping up cakes, bread, or other air fryer delights, getting the measurements right is crucial. Baking powder is a key leavening agent, and even small deviations can affect your recipe's outcome. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless results.</p>  

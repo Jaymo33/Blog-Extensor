@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of thai curry paste equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the perfect balance of flavours. Whether you're making a fragrant curry or a spicy marinade, knowing how many ounces are in 0.375 cup of thai curry paste helps you achieve consistent results every time.</p>  

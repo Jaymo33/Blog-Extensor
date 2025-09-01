@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 420 fan oven to Fahrenheit for a conventional oven is straightforward: 420°F in a fan oven equals approximately 400°F in a conventional oven. This adjustment accounts for the efficiency of fan-assisted cooking, which circulates heat more evenly. If you're using an air fryer, which operates similarly to a fan oven, you might not need to adjust the temperature at all. For more precise conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

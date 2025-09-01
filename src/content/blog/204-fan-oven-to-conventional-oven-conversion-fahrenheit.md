@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>204°F in a fan oven equals approximately 180°F in a conventional oven. This conversion is essential for adapting recipes between different oven types, especially when using an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperature matters for perfect results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of minced beef is roughly equivalent to 1/4 cup when lightly packed. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making burgers, meatballs, or a hearty bolognese, knowing how many cups 50 grams of minced beef equals ensures consistent results every time.</p>  

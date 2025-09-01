@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of wholemeal flour equals approximately 1.06 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're whipping up a cake or kneading dough, knowing how many ounces 30g of wholemeal flour is ensures consistent results.</p>  

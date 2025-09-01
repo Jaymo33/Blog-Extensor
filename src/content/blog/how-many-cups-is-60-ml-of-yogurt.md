@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of yogurt is approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking, cooking, or air fryer recipes where measurements matter. Whether you're whipping up a cake or marinating chicken, knowing how to convert 60 ml of yogurt to cups ensures your dish turns out perfectly.</p>  

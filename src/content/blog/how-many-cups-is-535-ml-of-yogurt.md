@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of yogurt is approximately 2.26 cups. This conversion is handy for baking, cooking, or meal prepping, especially when using an air fryer. Whether you're whipping up a cake or marinating chicken, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for perfect results.</p>

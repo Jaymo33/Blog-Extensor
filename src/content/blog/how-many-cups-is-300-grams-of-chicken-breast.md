@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of chicken breast equals roughly 1.5 to 2 cups when diced or shredded, depending on the size of the pieces. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you’re meal prepping or following a specific dish, knowing how much chicken to use makes all the difference. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>8 kg of chicken breast converts to approximately 17.64 pounds, making it essential knowledge for anyone planning large meals or bulk cooking with their air fryer. This conversion is particularly useful when dealing with family-sized portions or meal prepping for the week ahead. Understanding weight conversions ensures you purchase the right amount of chicken and cook it perfectly in your air fryer. Whether you're following a specific recipe or creating your own dishes, accurate measurements lead to better results. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> that covers various measurements.</p>

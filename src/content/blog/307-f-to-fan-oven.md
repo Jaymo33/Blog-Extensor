@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>307 F converts to approximately 153 C in a fan oven. This is a common temperature for slow-roasting vegetables or baking delicate desserts in air fryers and convection ovens. Understanding these conversions is crucial when following recipes from different sources, especially American ones that use Fahrenheit.</p>

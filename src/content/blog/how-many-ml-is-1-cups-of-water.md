@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of water equals 236.588 millilitres (ml). This conversion is essential for accurate cooking, especially when preparing air fryer recipes where precision ensures perfect results.</p>

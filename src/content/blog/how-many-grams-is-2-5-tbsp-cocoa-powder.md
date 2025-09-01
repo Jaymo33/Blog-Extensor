@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of cocoa powder equals approximately 15 grams. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re making chocolate cakes, brownies, or even a rich hot cocoa mix, knowing how many grams are in 2.5 tbsp of cocoa powder ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

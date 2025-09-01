@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of minced onion equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re preparing a savoury topping or a flavourful marinade, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

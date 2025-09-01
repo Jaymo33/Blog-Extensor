@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of greek yogurt equals approximately 8.64 ounces. This measurement is crucial for air fryer recipes where precision matters. Whether you're making dips, marinades, or baked goods, knowing this conversion ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of tomato ketchup equals approximately 0.53 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making crispy fries or glazing chicken wings, knowing the exact weight ensures perfect results every time. For more air fryer conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

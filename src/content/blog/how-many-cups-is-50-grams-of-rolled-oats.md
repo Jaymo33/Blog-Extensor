@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of rolled oats equals approximately 0.6 cups (or just over half a cup). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and consistency. Whether you're making granola, oat bars, or porridge, knowing how to convert grams to cups takes the guesswork out of cooking.</p>

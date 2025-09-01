@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of balsamic vinegar equals approximately 2.47 cups (using the UK metric cup measurement of 250 ml per cup). Whether you're whipping up a glaze for air fryer chicken or a tangy dressing for roasted vegetables, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>  

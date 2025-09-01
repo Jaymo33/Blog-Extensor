@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of Nutella equals approximately 0.71 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for baking or dessert prep. Whether you're making Nutella-stuffed cookies or a quick chocolate drizzle, knowing the exact weight ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of Nutella weigh approximately 37 grams. This measurement is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re baking Nutella-filled pastries or adding it to desserts, knowing the exact weight helps avoid over or under-measuring.</p>

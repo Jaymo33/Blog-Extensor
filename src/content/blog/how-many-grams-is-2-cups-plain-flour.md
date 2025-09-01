@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of plain flour equals approximately 250 grams, making it easy to measure for air fryer recipes. Whether you’re baking cakes or coating chicken, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accuracy is key for perfect textures, so let’s break down the conversion.</p>  

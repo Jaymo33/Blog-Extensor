@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of whipping cream is approximately 1.41 ounces. This conversion is essential for precision in baking and cooking, especially when using an air fryer. Whether you’re making a creamy dessert or a rich sauce, knowing how many ounces 40g of whipping cream equals ensures your recipe turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple for home cooks.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of cottage cheese equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're making stuffed mushrooms or protein-packed breakfasts, knowing how many ounces is 30g of cottage cheese ensures perfect portioning every time.</p>

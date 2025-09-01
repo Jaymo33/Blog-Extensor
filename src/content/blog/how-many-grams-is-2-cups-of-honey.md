@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of honey equals approximately 680 grams, making it easy to measure for air fryer recipes. Whether you're baking cakes or glazing meats, knowing this conversion ensures perfect results every time. Honey’s thickness can vary slightly, but 680 grams is the standard weight for 2.0 cups. For more precise measurements, consider using a kitchen scale. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a> for additional conversion tips.</p>  

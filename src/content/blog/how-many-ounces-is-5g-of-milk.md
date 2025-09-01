@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of milk equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert grams to ounces ensures perfect results every time.</p>

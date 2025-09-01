@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of yogurt is approximately 0.5 cups (½ cup) in standard US and UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities ensure perfect results. Whether you’re whipping up a cake, marinade, or dip, knowing how to convert grams to cups makes cooking effortless.</p>  

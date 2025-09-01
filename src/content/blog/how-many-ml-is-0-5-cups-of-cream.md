@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of cream is equal to approximately 118 ml. This conversion is essential for anyone who loves baking or cooking, especially when using an air fryer where precise measurements can make all the difference. Whether you're whipping up a creamy sauce or adding richness to a dessert, knowing how many ml 0.5 cups of cream is ensures your dish turns out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

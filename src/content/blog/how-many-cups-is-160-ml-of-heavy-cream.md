@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of heavy cream is approximately 0.68 cups (just over 2/3 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert 160 ml of heavy cream to cups ensures your recipes turn out perfectly every time.</p>  

@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>232°C converts to Gas Mark 8, which is a common setting for baking and roasting in both ovens and air fryers. This temperature is ideal for achieving crispy results while ensuring even cooking. Whether you're adapting an oven recipe for your air fryer or checking compatibility, knowing this conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions for hassle-free cooking. Let’s dive deeper into why this matters and how to use it.</p>

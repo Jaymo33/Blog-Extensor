@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of cream is approximately 3 cups. This conversion is essential for baking, cooking, or even whipping up a creamy sauce in your air fryer. Accurate measurements ensure your recipes turn out just right, whether you're following a British or American recipe. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial precise measurements are for perfect dishes.</p>  

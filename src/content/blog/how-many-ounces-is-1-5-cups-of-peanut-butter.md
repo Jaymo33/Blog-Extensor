@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of peanut butter equals approximately 12 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking peanut butter cookies or preparing a satay sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions and expert tips.</p>  

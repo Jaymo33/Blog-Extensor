@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of heavy cream is approximately 2.37 cups. This conversion is essential for baking, cooking, or whipping up delicious air fryer recipes where precise measurements matter. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert 560 ml of heavy cream to cups ensures consistency in your dishes.</p>  

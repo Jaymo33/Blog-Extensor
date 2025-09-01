@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of sugar syrup equals approximately 6 ounces in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're glazing desserts or marinating meats, knowing the exact weight ensures perfect results every time.</p>  

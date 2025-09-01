@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of oat milk is approximately ⅔ of a standard cup. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you’re whipping up a cake or a creamy sauce, knowing how to convert 160 ml of oat milk to cups ensures consistency and delicious results every time.</p>

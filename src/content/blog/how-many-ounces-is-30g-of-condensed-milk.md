@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of condensed milk is approximately 1.06 ounces. This conversion is essential for precise measurements, especially when using an air fryer for baking or cooking. Whether you're whipping up a dessert or adding a sweet touch to a dish, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

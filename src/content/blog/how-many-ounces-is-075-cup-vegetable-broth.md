@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of vegetable broth equals 6 fluid ounces (fl oz) in UK measurements. This conversion is essential for air fryer recipes where precise liquid measurements can affect cooking times and results. Whether you're making soups, sauces, or marinades, knowing how many ounces are in 0.75 cup of vegetable broth ensures accuracy.</p>  

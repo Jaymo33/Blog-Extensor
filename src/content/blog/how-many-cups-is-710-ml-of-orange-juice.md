@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of orange juice equals approximately 3 cups. This conversion is essential for recipes, whether you're baking a citrus-infused cake or whipping up a tangy marinade in your air fryer. Precise measurements ensure your dishes turn out just right, so let's break down how to convert 710 ml of orange juice to cups accurately.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of onion equals approximately 0.7 ounces. This conversion is essential for air fryer recipes, especially when precision matters for perfect results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing how to convert grams to ounces ensures consistency.</p>  

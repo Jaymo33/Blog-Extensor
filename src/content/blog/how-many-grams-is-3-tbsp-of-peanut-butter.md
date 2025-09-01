@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of peanut butter equals approximately 48 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're making peanut butter cookies or a savoury sauce, knowing the exact weight helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking. Let’s dive deeper into why this matters.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of corn syrup is approximately 0.36 cups. This conversion is essential for anyone using an air fryer or baking, where precise measurements can make or break a recipe. Whether you're whipping up a dessert or a savoury glaze, knowing how to convert millilitres to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with sticky ingredients like corn syrup.</p>

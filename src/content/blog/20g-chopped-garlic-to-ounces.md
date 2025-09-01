@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of chopped garlic equals approximately 0.7 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference in flavour and texture. Whether you’re whipping up a garlic-infused dish or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing how to convert grams to ounces ensures accuracy.</p>  

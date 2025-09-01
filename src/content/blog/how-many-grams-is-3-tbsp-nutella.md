@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of Nutella weigh approximately 54 grams. This measurement is crucial for air fryer recipes, ensuring accuracy for perfect results every time. Whether you're baking brownies or making a quick dessert, knowing the exact weight helps maintain consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

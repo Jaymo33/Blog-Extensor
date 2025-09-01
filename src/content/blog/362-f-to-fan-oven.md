@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>362°F converts to approximately 180°C in a fan oven. This is the standard conversion for most air fryer recipes requiring moderate-high heat, perfect for crispy roasting or baking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this setting for dishes like herb-crusted chicken or roasted vegetables.</p>

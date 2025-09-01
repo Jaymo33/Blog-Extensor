@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of flour equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you're baking cakes or coating chicken, getting the measurements right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for air fryer cooking. Let’s dive deeper into why this conversion matters and how to use it.</p>

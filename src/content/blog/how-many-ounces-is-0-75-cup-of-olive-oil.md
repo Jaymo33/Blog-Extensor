@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of olive oil equals 6 fluid ounces (or approximately 5.3 ounces by weight). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're drizzling oil over veggies or using it in a marinade, knowing the exact amount ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve the best air-fried meals every time.</p>  

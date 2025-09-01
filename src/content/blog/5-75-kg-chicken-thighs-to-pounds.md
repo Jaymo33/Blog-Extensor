@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5.75 kg of chicken thighs is equal to approximately 12.68 pounds. This conversion is essential for anyone preparing large batches of chicken in their air fryer, ensuring you use the right amount for your recipes and family meals. Getting the weight correct helps with cooking times, seasoning distribution, and overall meal planning. Whether you're cooking for a gathering or doing weekly meal prep, accurate measurements lead to better results. Trusted resources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> often emphasise the importance of precise conversions for consistent air frying.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of gluten-free flour equals approximately 9.6 ounces (272 grams). This conversion is essential for precise baking, especially when using an air fryer, where accurate measurements can make or break your recipe. Whether you're making gluten-free cakes, cookies, or bread, knowing the exact weight ensures consistency and perfect results every time.</p>  

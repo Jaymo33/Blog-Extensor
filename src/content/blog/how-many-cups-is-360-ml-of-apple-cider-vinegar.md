@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of apple cider vinegar equals approximately 1.52 cups. This conversion is essential for recipes where precision matters, especially when using an air fryer. Whether you're marinating chicken, baking a cake, or whipping up a salad dressing, knowing the exact measurement ensures perfect results every time.</p>  

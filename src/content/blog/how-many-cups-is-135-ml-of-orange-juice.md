@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of orange juice equals approximately 0.57 cups. This conversion is handy when following recipes that use cup measurements instead of millilitres. Whether you're baking a cake or preparing a marinade, knowing this conversion ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of lentils is roughly equivalent to 0.75 UK cups or 0.85 US cups. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making lentil patties, soups, or casseroles, knowing the exact cup measurement ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you cook with confidence. Let’s dive deeper into lentil measurements and air fryer cooking tips.</p>  

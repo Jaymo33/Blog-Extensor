@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of condensed milk equals approximately 828 ml. This conversion is essential for air fryer recipes, ensuring your desserts and baked goods turn out perfectly every time. Whether you're whipping up a cake or a creamy filling, knowing the exact ml measurement helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking. Let’s dive deeper into why this measurement matters.</p>  

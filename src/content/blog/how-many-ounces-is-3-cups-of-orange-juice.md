@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of orange juice equals 24 fluid ounces in the UK measurement system. This conversion is essential for air fryer recipes where precise liquid measurements can make or break your dish. Whether you're preparing a citrus glaze for chicken or a marinade for salmon, knowing how to convert cups to ounces ensures consistency and perfect results every time.</p>

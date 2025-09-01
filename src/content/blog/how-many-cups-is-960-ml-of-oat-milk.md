@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of oat milk is equivalent to approximately 4.06 cups. This conversion is essential for anyone using oat milk in recipes, especially when baking or cooking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing the exact measurement ensures perfect results every time.</p>

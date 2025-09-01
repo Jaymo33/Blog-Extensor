@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of evaporated cream equals approximately 4 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure the best results. Whether you’re whipping up a creamy sauce or baking a dessert, knowing how many ounces are in 0.5 cup of evaporated cream can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>  

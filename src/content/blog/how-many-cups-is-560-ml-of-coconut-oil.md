@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of coconut oil is approximately 2.37 cups. This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making crispy air-fried treats or moist cakes, knowing how to measure coconut oil correctly is key.</p>

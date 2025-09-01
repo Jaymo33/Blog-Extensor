@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of soft cheese is approximately 45 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you’re making a creamy dip or a cheesy topping, knowing the exact weight helps avoid over or under-measuring. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

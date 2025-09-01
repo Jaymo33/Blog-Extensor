@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of chopped garlic equals approximately 2.65 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact the final dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing this conversion ensures accuracy.</p>

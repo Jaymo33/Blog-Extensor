@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>332 F converts to approximately 167 C in a fan oven. This temperature is ideal for baking, roasting, and air frying, giving you even heat distribution for consistent results. Whether you're adapting recipes or troubleshooting your air fryer, knowing this conversion is key.</p>

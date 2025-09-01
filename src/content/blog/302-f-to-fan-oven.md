@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>302°F converts to approximately 150°C in a fan oven. This is a common temperature for slow-roasting vegetables or baking delicate desserts in an air fryer. Understanding this conversion ensures your dishes cook evenly, whether you're using a conventional oven or adapting recipes for your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for precise adjustments.</p>

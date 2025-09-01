@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of vinegar equals approximately 2.15 cups in standard US measurements. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're marinating chicken or preparing a tangy glaze, knowing how to convert 510 ml of vinegar to cups ensures consistency. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

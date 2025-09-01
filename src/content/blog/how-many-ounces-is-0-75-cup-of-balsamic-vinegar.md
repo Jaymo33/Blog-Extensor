@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of balsamic vinegar equals 6 fluid ounces (or approximately 5.3 ounces by weight). This conversion is essential for air fryer recipes where precise measurements affect cooking results. Whether you're making glazes, marinades, or reductions, knowing your vinegar quantities ensures perfect flavour balance every time.</p>

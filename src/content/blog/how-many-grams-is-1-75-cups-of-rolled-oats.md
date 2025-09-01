@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of rolled oats equals approximately 140 grams, making it easy to measure for air fryer recipes. Whether you’re whipping up breakfast granola or baking oat-based treats, precise conversions ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for air fryer cooking, so let’s dive into the details.</p>  

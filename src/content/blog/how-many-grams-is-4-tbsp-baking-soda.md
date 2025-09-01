@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of baking soda equals approximately 48 grams (g). This conversion is essential for air fryer recipes, ensuring accuracy whether you're baking or cleaning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in cooking success.</p>

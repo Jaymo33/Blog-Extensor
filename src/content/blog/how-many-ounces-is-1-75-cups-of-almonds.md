@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of almonds equals approximately 7.4 ounces (or 7.4 oz) in weight. This conversion is essential for air fryer recipes, baking, or meal prep where precision matters. Whether you're making almond-crusted chicken or a batch of cookies, knowing the exact weight ensures consistent results every time.</p>

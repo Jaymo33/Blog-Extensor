@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of condensed milk equals approximately 5.28 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your desserts and baked goods turn out perfectly every time. Whether you're making a creamy caramel or a rich cheesecake, knowing the exact weight can make all the difference.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cooked rice weighs approximately 6 to 7 ounces (170 to 200 grams), depending on the rice variety and moisture content. This measurement is key for air fryer recipes, ensuring consistent results whether you're reheating leftovers or creating new dishes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precise conversions to help you master air fryer cooking.</p>

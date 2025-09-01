@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of milk is approximately 540 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or a creamy sauce, knowing the exact gram equivalent ensures consistency and perfect results every time.</p>

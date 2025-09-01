@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of whipping cream equals approximately 60 grams (g) in UK measurements. This conversion is essential for precise baking, cooking, and air fryer recipes where accuracy matters. Whether you're whipping up desserts or creamy sauces, knowing the exact weight ensures consistency in your dishes.</p>  

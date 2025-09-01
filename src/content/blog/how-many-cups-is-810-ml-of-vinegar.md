@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of vinegar is approximately 3.42 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer. Whether you're preparing marinades, dressings, or pickling solutions, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

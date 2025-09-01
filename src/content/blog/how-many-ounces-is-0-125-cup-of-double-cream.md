@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of double cream equals approximately 1 ounce (oz) in UK measurements. This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a creamy sauce or a decadent dessert, knowing the exact weight of your ingredients matters. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to help you achieve the best results. Keep reading for more details on converting cups to ounces and tips for using double cream in your air fryer.</p>  

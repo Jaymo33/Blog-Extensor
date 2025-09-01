@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of protein powder equals approximately 4.41 ounces. This conversion is essential for anyone using protein powder in recipes, especially when working with air fryers where precise measurements matter. Whether you’re meal prepping or whipping up a protein-packed snack, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make conversions easy so you can focus on cooking. Let’s dive deeper into why this conversion matters and how to use it.</p>  

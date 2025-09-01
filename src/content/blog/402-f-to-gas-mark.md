@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>402°F converts to Gas Mark 6, which is the standard equivalent for most ovens and air fryers in the UK. This temperature is commonly used for roasting meats, baking cakes, and cooking hearty vegetable dishes. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions with ease. Let's dive deeper into why this temperature matters and how to use it effectively.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of lentils equals approximately 5.28 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're meal prepping or cooking a quick dish, knowing how to convert cups to ounces can save time and hassle. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

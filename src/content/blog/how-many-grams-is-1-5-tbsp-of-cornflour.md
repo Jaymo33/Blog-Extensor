@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of cornflour equals approximately 12 grams. This conversion is essential for air fryer recipes where precise measurements ensure crispy, evenly cooked dishes. Whether you’re breading chicken or thickening a sauce, knowing the exact grams in 1.5 tbsp of cornflour makes all the difference.</p>  

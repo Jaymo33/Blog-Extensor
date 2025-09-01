@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of milk equals approximately 8.82 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact results. Whether you're whipping up a creamy sauce or baking a cake, knowing how to convert grams to ounces ensures accuracy.</p>

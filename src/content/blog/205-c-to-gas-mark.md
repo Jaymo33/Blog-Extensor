@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>205°C converts to Gas Mark 6 in a standard UK oven. This temperature is ideal for baking, roasting, and air frying, offering a balance between browning and even cooking. Whether you're using a conventional oven, fan-assisted model, or air fryer, knowing this conversion ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master temperature conversions for flawless results.</p>

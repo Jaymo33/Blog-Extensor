@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of garlic paste equals approximately 14 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're making marinades, sauces, or rubs, knowing the exact weight helps avoid over-seasoning or under-flavouring your dishes. Garlic paste is a staple in many recipes featured on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, so getting the measurement right is key.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of granulated sugar equals approximately 21.16 ounces (600 grams) in UK measurements. This conversion is essential for accurate baking, especially when using an air fryer where precise measurements can make or break your recipe. Whether you're whipping up cakes, cookies, or desserts, knowing this conversion ensures consistent results every time.</p>

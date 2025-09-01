@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of onion equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for consistent results. Whether you're preparing a hearty stew, crispy onion rings, or a flavourful stir-fry, knowing how many ounces 500g of onion translates to helps you follow recipes precisely. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right, especially when using an air fryer where ingredient ratios can affect cooking times and textures.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>340 F converts to approximately 170 C in a fan oven, making it a moderate heat ideal for baking and roasting. This temperature works perfectly for air fryers too, giving crispy results without burning. Whether you're adapting recipes or troubleshooting cooking times, understanding this conversion is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. The 340 F fan oven equivalent is one of our most requested conversions.</p>

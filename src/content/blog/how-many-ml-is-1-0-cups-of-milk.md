@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of milk equals 240 millilitres (ml). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or preparing a creamy sauce, knowing how many ml are in 1.0 cups of milk ensures consistency and delicious results.</p>  

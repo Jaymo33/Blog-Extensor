@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of granulated sugar equals approximately 0.88 cups in US measurements or 0.73 cups in UK measurements. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making cookies, cakes, or other sweet treats in your air fryer, knowing how many cups is 175 grams of granulated sugar ensures perfect results every time.</p>

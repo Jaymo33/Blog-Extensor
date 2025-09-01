@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of tartar sauce equals approximately 6 ounces, making it easy to measure for your air fryer recipes. Whether you're coating fish fillets or preparing a dipping sauce, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for delicious meals.</p>  

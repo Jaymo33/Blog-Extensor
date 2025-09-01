@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>348 degrees Fahrenheit converts to Gas Mark 4 in UK ovens and air fryers. This moderate temperature is perfect for baking, roasting, and cooking a variety of dishes in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting conventional oven instructions, knowing this conversion will help you achieve consistent results.</p>

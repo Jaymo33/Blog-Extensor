@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of butter equals 2 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a batch of cookies or preparing a savoury dish, knowing how many ounces are in 0.25 cup of butter ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right, especially when using an air fryer.</p>

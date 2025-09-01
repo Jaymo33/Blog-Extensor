@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260°F converts to Gas Mark 1 in UK ovens and air fryers. This temperature is commonly used for slow cooking, dehydrating, or keeping food warm. When adapting recipes between conventional ovens and air fryers, understanding these conversions is crucial for perfect results every time.</p>

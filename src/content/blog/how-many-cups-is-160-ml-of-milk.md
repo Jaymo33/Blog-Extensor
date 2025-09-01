@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of milk is roughly 0.68 cups in the UK and 0.67 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're making cakes, sauces, or creamy dishes, knowing how much 160 ml of milk translates to in cups ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

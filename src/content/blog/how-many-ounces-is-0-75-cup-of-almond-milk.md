@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of almond milk equals 6 fluid ounces (fl oz) or approximately 5.3 ounces (oz) by weight. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce, a fluffy cake, or a savoury bake, getting the right amount of almond milk ensures consistency and flavour. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for perfect air fryer results.</p>

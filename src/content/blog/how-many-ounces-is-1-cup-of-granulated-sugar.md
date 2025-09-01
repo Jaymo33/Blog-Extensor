@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of granulated sugar equals approximately 7.05 ounces (200 grams) in UK measurements. This conversion is essential for baking precision, especially when using air fryers where ingredient ratios matter.</p>

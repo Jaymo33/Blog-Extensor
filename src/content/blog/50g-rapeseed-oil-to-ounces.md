@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of rapeseed oil equals approximately 1.76 ounces. This conversion is essential for air fryer cooking, where precise measurements can affect texture and taste. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting with your own dishes, knowing this conversion ensures consistency.</p>  

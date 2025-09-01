@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of canned beans equals approximately 5.28 ounces (or 150 grams). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results. Whether you're whipping up a quick bean dish or adding them to a larger meal, knowing the exact weight helps avoid over or under-seasoning.</p>

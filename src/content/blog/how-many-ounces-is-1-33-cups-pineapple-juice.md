@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of pineapple juice equals approximately 10.64 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require accuracy for the best results. Whether you're making marinades, glazes, or beverages, knowing the exact weight ensures consistency in flavour and texture.</p>

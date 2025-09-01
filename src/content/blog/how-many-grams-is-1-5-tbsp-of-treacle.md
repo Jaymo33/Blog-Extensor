@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of treacle equals approximately 31 grams (g). This conversion is essential for precision in air fryer recipes, where accurate measurements can make or break your dish. Whether you’re whipping up a sticky toffee pudding or glazing meats, knowing the exact weight ensures consistent results. Treacle, a thick, dark syrup, is a staple in British baking, and its density means volume-to-weight conversions are crucial. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making these conversions effortless for home cooks.</p>  

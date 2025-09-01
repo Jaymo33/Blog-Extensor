@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>410 ml of corn syrup equals approximately 1.73 cups. This conversion is essential for baking and air fryer recipes where precision matters. Whether you're making sticky buns or glazing meats in your air fryer, knowing the exact measurement ensures perfect results every time.</p>  

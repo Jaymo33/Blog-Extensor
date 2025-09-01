@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating sweet potato fries in an air fryer at 180°C for 3-5 minutes restores their crispiness perfectly. This method beats microwaving, which leaves them soggy, or oven reheating, which dries them out. The air fryer’s rapid circulation revives leftovers while preserving moisture – ideal for <a href=https://www.airfryerrecipe.co.uk/recipe-category/potatoes>potato-based dishes</a>.</p>

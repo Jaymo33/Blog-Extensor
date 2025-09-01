@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of plain yogurt is approximately 37.5 grams. This conversion is essential for air fryer recipes where precision matters. Whether you're making a marinade, a batter, or a creamy dip, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve the best dishes every time.</p>  

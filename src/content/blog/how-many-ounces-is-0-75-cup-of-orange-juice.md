@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of orange juice equals 6 fluid ounces (oz). This conversion is essential for air fryer recipes where precise measurements can affect cooking times and results. Whether you're making glazes, marinades, or sauces, knowing how many ounces are in 0.75 cup of orange juice ensures your dish turns out perfectly every time.</p>

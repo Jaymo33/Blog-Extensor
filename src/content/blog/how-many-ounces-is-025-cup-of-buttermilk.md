@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of buttermilk equals 2 fluid ounces (oz) in the UK measurement system. This conversion is essential for air fryer recipes where precision ensures the perfect texture and flavour. Whether you’re making fluffy pancakes or crispy fried chicken, knowing how many ounces are in 0.25 cup of buttermilk helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide reliable conversions to make your cooking seamless. Keep reading for tips on measuring buttermilk and using it in your air fryer.</p>  

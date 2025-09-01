@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of mustard equals approximately 20 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a tangy glaze or a marinade, knowing how to convert cups to ounces ensures consistency. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

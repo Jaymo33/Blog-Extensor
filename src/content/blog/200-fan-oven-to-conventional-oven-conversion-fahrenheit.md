@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 fan oven converts to approximately 392°F in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens, especially when using an air fryer. Understanding these differences ensures your dishes cook evenly and perfectly every time.</p>

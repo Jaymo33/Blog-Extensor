@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of chicken broth equals approximately 0.15 cups (or roughly 1/8 cup plus 1 teaspoon). This conversion is essential for air fryer recipes where precise liquid measurements can make or break a dish. Whether you're making a marinade, sauce, or soup, knowing how to convert millilitres to cups ensures consistent results every time.</p>

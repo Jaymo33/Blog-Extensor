@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of chickpeas equals approximately 14.5 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you're whipping up a batch of crispy chickpeas or adding them to a hearty stew, knowing the exact weight ensures perfect results every time.</p>

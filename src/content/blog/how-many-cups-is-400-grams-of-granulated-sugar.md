@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of granulated sugar equals approximately 2 cups in the US and 1.6 cups in the UK. This conversion is essential for baking, especially when using an air fryer for desserts. Whether you're whipping up cookies or cakes, getting the measurement right ensures perfect results every time.</p>

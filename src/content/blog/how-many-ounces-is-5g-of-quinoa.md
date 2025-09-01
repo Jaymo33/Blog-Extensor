@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of quinoa equals approximately 0.18 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you're meal prepping or following a recipe, knowing how to convert 5g of quinoa to ounces ensures perfect results every time.</p>

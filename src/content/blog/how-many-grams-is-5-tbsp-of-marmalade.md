@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of marmalade equals approximately 100 grams, making it easy to measure for air fryer recipes or baking. This conversion ensures accuracy, whether you’re whipping up a glaze or adding sweetness to a dish. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements are key to perfect results, especially when using an air fryer.</p>  

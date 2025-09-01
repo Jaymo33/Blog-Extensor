@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of margarine equals approximately 10.6 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're adapting a recipe or scaling ingredients, knowing this conversion ensures consistent results every time.</p>

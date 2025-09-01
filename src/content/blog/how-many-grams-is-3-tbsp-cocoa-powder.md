@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of cocoa powder equals approximately 18 grams (g). This conversion is essential for air fryer baking, where precision ensures perfect textures and flavours. Whether you're making brownies, cakes, or hot chocolate, knowing how many grams are in 3 tbsp of cocoa powder helps avoid mishaps.</p>  

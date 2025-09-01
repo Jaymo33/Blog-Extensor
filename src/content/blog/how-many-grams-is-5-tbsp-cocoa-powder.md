@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of cocoa powder equals approximately 25 grams (g). This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're whipping up brownies or a chocolate cake, knowing the exact weight ensures consistent results every time.</p>

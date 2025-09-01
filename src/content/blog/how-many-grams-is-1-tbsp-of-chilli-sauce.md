@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of chilli sauce weighs approximately 15 grams. This measurement is essential for air fryer recipes where precise ingredient quantities can make or break your dish. Whether you’re whipping up a spicy marinade or adding a kick to your air-fried chicken, knowing the exact grams in 1 tbsp of chilli sauce ensures consistent results every time.</p>  

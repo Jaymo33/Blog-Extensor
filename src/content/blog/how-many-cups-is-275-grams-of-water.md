@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>275 grams of water equals approximately 1.16 cups in the UK or 1.15 cups in the US. This conversion is essential for air fryer recipes where precise liquid measurements can make or break your dish. Whether you're baking, steaming, or creating sauces, knowing how to convert grams to cups ensures consistent results every time.</p>

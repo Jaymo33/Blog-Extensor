@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 363 fan oven to conventional oven in Fahrenheit is straightforward: it equals 350°F. This adjustment ensures your baked goods or meals cook evenly, whether you're using a fan-assisted oven or a traditional one. Understanding this conversion is especially useful if you're transitioning between appliances or following a recipe designed for a different oven type.</p>

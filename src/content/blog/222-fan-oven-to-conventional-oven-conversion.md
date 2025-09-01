@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>222°C in a fan oven equals approximately 200°C in a conventional oven. This 20-degree reduction accounts for the fan oven's efficient heat circulation. Whether you're baking, roasting, or air frying, understanding this conversion ensures your dishes cook perfectly every time at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

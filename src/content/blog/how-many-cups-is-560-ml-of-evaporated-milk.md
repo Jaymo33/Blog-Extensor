@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of evaporated milk is equal to approximately 2.37 cups. This conversion is essential for anyone using recipes that call for evaporated milk, especially when baking or cooking in an air fryer. Accurate measurements ensure your dishes turn out perfectly every time, whether you're making a creamy dessert or a savoury sauce.</p>

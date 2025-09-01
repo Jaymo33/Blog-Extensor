@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of honey equals approximately 16 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Honey’s thick, sticky consistency means volume-to-weight conversions aren’t always straightforward, but we’ve done the maths for you. Whether you’re whipping up a glaze for air-fried chicken or sweetening a dessert, knowing how many ounces are in 1.33 cups of honey ensures consistency. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference.</p>

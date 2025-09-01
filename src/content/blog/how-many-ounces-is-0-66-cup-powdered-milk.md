@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of powdered milk equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best texture and consistency. Whether you're making creamy sauces, baked goods, or even air-fried desserts, knowing how many ounces are in 0.66 cup of powdered milk helps avoid kitchen mishaps.</p>  

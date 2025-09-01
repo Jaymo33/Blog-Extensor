@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of vegetable oil equals approximately 0.57 cups (just over half a cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up crispy chips or a moist cake, knowing how many cups is 135 ml of vegetable oil ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs.</p>

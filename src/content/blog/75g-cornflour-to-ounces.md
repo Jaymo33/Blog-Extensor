@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of cornflour equals approximately 2.65 ounces. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you're coating chicken or thickening a sauce, knowing how to convert 75g of cornflour to ounces ensures your dish turns out perfectly every time.</p>

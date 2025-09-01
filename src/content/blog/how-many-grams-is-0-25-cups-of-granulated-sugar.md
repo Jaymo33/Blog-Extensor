@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of granulated sugar equals approximately 50 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you’re whipping up desserts or adjusting recipes, knowing how many grams are in 0.25 cups of granulated sugar ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple for your kitchen adventures.</p>

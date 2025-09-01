@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon of rolled oats weighs approximately 5 grams in the UK. This measurement is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. Whether you're making overnight oats, granola, or baking, knowing this conversion ensures consistency.</p>  

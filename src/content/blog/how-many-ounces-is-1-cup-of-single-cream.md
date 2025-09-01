@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of single cream equals approximately 8.45 ounces (240 ml). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making creamy sauces, desserts, or even savoury dishes, knowing this conversion helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Keep reading to learn more about converting single cream for your air fryer creations.</p>  

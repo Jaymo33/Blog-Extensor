@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of olive oil equals approximately 1.6 cups. This conversion is essential for air fryer recipes, where precision ensures perfect results. Whether you're baking, frying, or roasting, knowing how to measure olive oil accurately can make or break your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on cooking. Let’s dive deeper into how to measure 375 grams of olive oil in cups.</p>  

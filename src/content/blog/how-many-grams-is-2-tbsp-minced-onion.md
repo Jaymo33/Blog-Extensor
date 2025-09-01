@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of minced onion weigh approximately 20 grams. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect flavour distribution. Whether you’re making a quick stir-fry or seasoning meats, knowing the exact weight saves time and avoids guesswork. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

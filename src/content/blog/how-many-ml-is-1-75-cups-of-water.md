@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of water equals 414 ml, a crucial measurement for air fryer recipes where precision ensures perfect results. Whether you're baking, steaming, or preparing sauces, knowing this conversion helps avoid under or over-hydrating your dishes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to elevate your cooking game.</p>

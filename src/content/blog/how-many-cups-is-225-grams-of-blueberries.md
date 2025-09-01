@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>225 grams of blueberries is roughly equivalent to 1.5 cups. This measurement is essential for baking, air frying, or any recipe requiring precise quantities. Whether you're whipping up a blueberry crumble in your air fryer or adding them to muffins, knowing this conversion ensures perfect results every time.</p>

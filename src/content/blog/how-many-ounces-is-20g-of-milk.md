@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of milk is approximately 0.7 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or preparing creamy sauces. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert grams to ounces ensures consistency.</p>  

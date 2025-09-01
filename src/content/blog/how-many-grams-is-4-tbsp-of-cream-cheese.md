@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of cream cheese equals approximately 56 grams (g). This conversion is essential for precise baking and cooking, especially when using an air fryer where accurate measurements can make all the difference. Whether you’re whipping up a cheesecake or adding cream cheese to a savoury dish, knowing the exact weight ensures consistency and perfect results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>17 kg equals approximately 37.48 pounds, which is crucial information when portioning ingredients for your air fryer. Whether you're preparing a large family meal or meal prepping for the week, understanding this conversion ensures you use the right amounts for perfect cooking results. Many air fryer recipes and packaged foods use metric measurements, making this knowledge particularly valuable for UK cooks. Getting your quantities correct from the start prevents overcrowding and promotes even air circulation. This simple conversion can make the difference between perfectly crispy food and disappointing results.</p>

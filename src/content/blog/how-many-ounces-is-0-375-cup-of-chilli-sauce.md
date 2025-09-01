@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of chilli sauce equals 3 ounces. This conversion is essential for precise cooking, especially when preparing air fryer recipes that require exact measurements for the best results. Whether you're making a spicy glaze or a marinade, knowing the weight ensures consistency in flavour and texture.</p>  

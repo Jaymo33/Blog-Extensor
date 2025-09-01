@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating roast potatoes in an air fryer takes just 3-5 minutes at 180°C (350°F), giving you crispy exteriors and fluffy centres. This method outperforms microwaves and ovens by reviving texture without extra oil. Whether you’re working with fridge-cold leftovers or yesterday’s Sunday roast, your air fryer is the secret to perfect reheated spuds.</p>

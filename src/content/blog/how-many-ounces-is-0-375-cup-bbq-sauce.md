@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of BBQ sauce equals 3 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re glazing chicken wings or marinating ribs, knowing the exact weight helps avoid overly saucy or dry dishes. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

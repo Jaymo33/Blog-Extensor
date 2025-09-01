@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>422°F converts to approximately 220°C in a fan oven. This is the standard equivalent used in UK kitchens and air fryers, making it easy to switch between Fahrenheit and Celsius settings. Whether you're baking, roasting, or air frying, knowing this conversion ensures perfect results every time.</p>

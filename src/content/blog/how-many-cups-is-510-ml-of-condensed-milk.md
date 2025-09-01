@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of condensed milk is approximately 2.15 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're making a creamy dessert or a rich sauce, knowing the exact cup equivalent ensures perfect results every time.</p>

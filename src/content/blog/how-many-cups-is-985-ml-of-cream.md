@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>985 ml of cream equals approximately 4.16 cups in the UK or 4.17 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing how to convert 985 ml of cream to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions easy for home cooks.</p>

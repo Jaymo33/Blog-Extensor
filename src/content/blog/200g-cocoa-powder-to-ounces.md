@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of cocoa powder equals approximately 7.05 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for desserts. Whether you're whipping up brownies or a chocolate cake, knowing how to convert grams to ounces ensures your recipe turns out perfectly every time.</p>  

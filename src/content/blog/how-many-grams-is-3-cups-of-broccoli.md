@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of broccoli roughly equals 270 grams, making it easy to measure for air fryer recipes. Whether you're meal prepping or following a specific dish, knowing this conversion ensures consistency in your cooking. Broccoli’s weight can vary slightly based on how finely it’s chopped, but 270 grams is a reliable benchmark. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

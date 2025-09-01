@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of baking powder equals approximately 16 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and rise. Whether you're making fluffy cakes or crispy coatings, knowing how many ounces are in 2 cups of baking powder guarantees consistent results. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of soy cream equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making a creamy dessert or a rich sauce, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

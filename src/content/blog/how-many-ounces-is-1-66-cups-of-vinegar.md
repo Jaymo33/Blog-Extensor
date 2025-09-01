@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of vinegar equals approximately 13.28 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure the perfect balance of flavours. Whether you're marinating chicken, preparing a glaze, or adding acidity to a dish, knowing how to convert cups to ounces is a game-changer.</p>

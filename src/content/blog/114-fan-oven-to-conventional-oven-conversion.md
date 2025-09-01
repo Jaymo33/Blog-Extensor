@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>114 fan oven converts to approximately 90°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, especially when using an air fryer which often follows conventional oven temperature guidelines.</p>

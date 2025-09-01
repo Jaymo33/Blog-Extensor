@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of cream is equivalent to approximately 240 grams in the UK and 227 grams in the US. This difference arises because UK and US cup measurements vary slightly, which can impact your recipes if not accounted for. Whether you're using an air fryer or a conventional oven, getting the measurements right ensures your dishes turn out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of semi skimmed milk equals approximately 10.14 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a cake or a creamy sauce, knowing the exact weight ensures consistent results every time.</p>

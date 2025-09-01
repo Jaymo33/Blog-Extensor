@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of treacle equals approximately 17.64 ounces. This conversion is essential for anyone using treacle in baking or air fryer recipes, ensuring precise measurements for perfect results. Whether you're making sticky toffee pudding or glazing meats in your air fryer, knowing how to convert grams to ounces is a game-changer.</p>

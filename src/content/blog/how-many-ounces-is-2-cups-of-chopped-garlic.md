@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chopped garlic equals approximately 10 ounces (283 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Garlic’s density can vary slightly depending on how finely it’s chopped, but 10 ounces is a reliable benchmark for most culinary needs.</p>  

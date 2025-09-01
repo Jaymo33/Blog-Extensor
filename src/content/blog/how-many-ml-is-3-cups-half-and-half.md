@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of half and half equals approximately 710 ml. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up a creamy sauce or a decadent dessert, knowing the exact millilitre equivalent ensures consistency and delicious results.</p>  

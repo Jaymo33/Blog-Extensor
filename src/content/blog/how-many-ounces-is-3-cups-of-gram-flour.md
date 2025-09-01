@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of gram flour equals approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes where precision ensures perfect texture and crispiness. Whether you're making pakoras, bhajis, or gluten-free baked goods, knowing the exact weight helps avoid kitchen mishaps.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of lentils weigh approximately 14 ounces (396 grams). This measurement is key for air fryer recipes, ensuring accurate portioning and perfect results every time. Whether you're meal prepping or cooking a one-off dish, knowing this conversion helps streamline your kitchen workflow.</p>  

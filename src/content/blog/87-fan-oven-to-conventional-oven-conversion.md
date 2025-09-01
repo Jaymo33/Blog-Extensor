@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>87 fan oven converts to approximately 100°C in a conventional oven. This conversion is essential for achieving consistent baking results when switching between oven types. Fan ovens circulate hot air, allowing them to cook food faster and at lower temperatures than conventional ovens. Understanding this difference is crucial, especially when following recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> that might specify one oven type over another.</p>

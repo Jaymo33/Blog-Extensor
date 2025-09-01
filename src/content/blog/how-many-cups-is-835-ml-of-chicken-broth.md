@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>835 ml of chicken broth equals approximately 3.5 cups. This conversion is essential for air fryer recipes where precise liquid measurements can make or break a dish. Whether you're making a creamy sauce or a flavourful soup, knowing how to convert millilitres to cups ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with liquids like chicken broth.</p>  

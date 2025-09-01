@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of cream equals approximately 414 ml, making it easy to measure for your air fryer recipes. Whether you’re whipping up a dessert or adding richness to a savoury dish, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results every time.</p>

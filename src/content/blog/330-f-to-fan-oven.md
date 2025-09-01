@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>330 F converts to approximately 165 C in a fan oven, making it a moderate heat ideal for baking and roasting. This temperature works beautifully for everything from crispy chicken wings to golden roast potatoes in both fan ovens and air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for seamless cooking.</p>

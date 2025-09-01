@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250°F converts to Gas Mark ½, which is the standard equivalent for this temperature in UK ovens. This conversion is particularly useful when adapting traditional oven recipes for your air fryer, as many British cookbooks use Gas Mark measurements. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions for perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of lemon juice is approximately 0.89 cups (just under 1 cup). This conversion is essential for precision in baking and cooking, especially when using an air fryer where exact measurements can impact texture and flavour. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert 210 ml of lemon juice to cups ensures consistency in your dishes.</p>

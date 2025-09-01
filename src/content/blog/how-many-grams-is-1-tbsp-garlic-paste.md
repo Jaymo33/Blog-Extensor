@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of garlic paste weighs approximately 15 grams. This measurement is essential for air fryer recipes where precise ingredient quantities can make or break a dish. Whether you're marinating chicken or seasoning vegetables, knowing the exact weight ensures consistent results every time.</p>  

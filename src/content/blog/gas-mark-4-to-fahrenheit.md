@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 4 converts to 350 degrees Fahrenheit, making it one of the most versatile oven temperatures for air fryer cooking. This medium heat setting works perfectly for everything from roasting vegetables to baking cakes in your air fryer. Whether you're converting a traditional recipe or adjusting cooking times, knowing this conversion is essential for UK home cooks using American recipes or modern appliances.</p>

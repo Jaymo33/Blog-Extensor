@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of treacle equals approximately 7.05 ounces. This conversion is handy for air fryer recipes that call for precise measurements, ensuring your dishes turn out perfectly every time. Whether you’re baking or glazing, knowing how to convert grams to ounces is a game-changer in the kitchen.</p>

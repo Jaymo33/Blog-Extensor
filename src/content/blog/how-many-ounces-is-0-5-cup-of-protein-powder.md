@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of protein powder equals approximately 2 ounces (56 grams). This conversion is essential for air fryer recipes, ensuring accurate measurements for protein shakes, baking, or meal prep. Whether you're whipping up protein pancakes or adding powder to smoothies, knowing the weight helps achieve consistent results.</p>

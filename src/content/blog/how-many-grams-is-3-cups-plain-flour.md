@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of plain flour equals approximately 375 grams. This conversion is essential for air fryer baking, where precision ensures even cooking and perfect texture. Whether you’re whipping up cakes, cookies, or bread, knowing how many grams 3.0 cups of plain flour weighs takes the guesswork out of your recipes.</p>  

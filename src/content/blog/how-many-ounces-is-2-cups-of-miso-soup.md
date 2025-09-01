@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of miso soup equals approximately 16 ounces. This conversion is essential for precise cooking, especially when using an air fryer to reheat or prepare meals. Whether you’re scaling a recipe or portioning for meal prep, knowing the weight ensures consistency.</p>  

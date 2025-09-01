@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of baking powder equals approximately 6 ounces in UK measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up cakes, bread, or even savoury air fryer treats, knowing how many ounces are in 0.75 cup of baking powder ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

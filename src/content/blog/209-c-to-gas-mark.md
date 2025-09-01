@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>209 C is equivalent to Gas Mark 6.5, a common setting for baking and roasting in both conventional ovens and air fryers. This temperature is ideal for achieving golden-brown results without overcooking. Whether you're using an air fryer or a traditional oven, knowing this conversion ensures your dishes turn out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

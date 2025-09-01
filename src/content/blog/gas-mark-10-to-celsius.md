@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding Gas Mark 10 in Celsius</h2>

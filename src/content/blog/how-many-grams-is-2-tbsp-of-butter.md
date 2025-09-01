@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of butter equals approximately 28 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a batch of cookies or preparing a savoury meal, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

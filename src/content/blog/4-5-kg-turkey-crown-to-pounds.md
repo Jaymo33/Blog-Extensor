@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 4.5 kg turkey crown and need to know its weight in pounds, you’re in the right place. A 4.5 kg turkey crown is equivalent to approximately 9.92 pounds, which is crucial for calculating cooking time and ensuring even results in your air fryer. Getting this conversion right means your turkey will be juicy, thoroughly cooked, and perfectly golden every single time. Whether you’re preparing for a Sunday roast or a special occasion, accurate measurements make all the difference. For more handy conversion tips, check out our full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

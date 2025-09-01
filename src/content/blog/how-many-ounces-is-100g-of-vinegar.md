@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of vinegar equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, especially when precision matters for marinades, dressings, or sauces. Whether you're using malt, apple cider, or white vinegar, knowing the exact weight ensures your dish turns out perfectly every time.</p>

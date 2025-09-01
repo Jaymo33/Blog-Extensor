@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of butter equals exactly 1 ounce. This measurement is crucial for air fryer recipes where precision matters. Whether you’re baking or cooking, knowing this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple for home cooks. Keep reading for more tips on butter conversions and air fryer cooking.</p>

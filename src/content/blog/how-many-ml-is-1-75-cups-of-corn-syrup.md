@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of corn syrup equals approximately 414 ml, making it easy to measure for air fryer recipes. Whether you’re whipping up a sticky glaze or a decadent dessert, precise measurements are key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is when converting cups to millilitres, especially for sticky ingredients like corn syrup.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of caster sugar equals approximately 0.88 ounces. This conversion is essential for air fryer baking, where precision can make or break your recipe. Whether you're whipping up cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your measurements are spot-on. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with delicate ingredients like caster sugar.</p>

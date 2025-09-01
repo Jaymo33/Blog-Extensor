@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of heavy cream equals approximately 240 millilitres (ml). This conversion is essential for precise baking, cooking, or air fryer recipes where accurate measurements matter.</p>

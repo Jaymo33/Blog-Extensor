@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of corn syrup is approximately 3.42 cups. This conversion is essential for baking, cooking, or air frying recipes that require precise measurements. Whether you're making sticky buns, glazes, or desserts, knowing how to convert 810 ml of corn syrup to cups ensures your dish turns out perfectly.</p>  

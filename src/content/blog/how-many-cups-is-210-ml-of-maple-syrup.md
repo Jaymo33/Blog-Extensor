@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of maple syrup is approximately 0.89 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can affect texture and taste. Whether you're making glazes, desserts, or marinades, knowing how to convert millilitres to cups ensures consistency in your recipes.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of lime juice equals 591.47 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer where accurate measurements can make or break a recipe. Whether you're preparing a citrusy marinade or a refreshing dessert, knowing how to convert cups to millilitres ensures consistency and delicious results.</p>  

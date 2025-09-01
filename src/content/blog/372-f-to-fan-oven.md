@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>372 F converts to approximately 190 C in a fan oven. This conversion is essential for UK cooks adapting American recipes or using air fryers with Fahrenheit settings. The fan oven's circulating air means you'll often need to adjust temperatures compared to conventional cooking methods.</p>

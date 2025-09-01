@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>425 grams of broccoli is roughly equivalent to 4.5 to 5 cups when chopped, depending on how finely it’s cut. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re making crispy roasted broccoli or adding it to a stir-fry, knowing how many cups 425 grams of broccoli yields ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple, so you can focus on creating delicious meals.</p>  

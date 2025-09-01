@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of lentils equals approximately 1.5 US cups or 1.25 UK cups. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making lentil patties, soups, or casseroles, knowing how many cups is 300 grams of lentils helps you nail the recipe every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make your cooking effortless.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of corn syrup equals approximately 1.1 cups in the US or 1.04 cups in the UK. This conversion is essential for air fryer recipes that require precise measurements, especially when making sticky desserts or glazes. Whether you're baking in a traditional oven or using your air fryer, getting the measurement right ensures perfect results every time.</p>

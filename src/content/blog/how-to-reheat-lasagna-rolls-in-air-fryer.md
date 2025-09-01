@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Reheating lasagna rolls in an air fryer at 160°C for 3-5 minutes restores their crispy edges while keeping the centre deliciously gooey. This method beats microwaving hands down, preventing that dreaded soggy texture. Whether you’ve stored them in the fridge or freezer, your air fryer can revive lasagna rolls better than any oven. For more air fryer reheating tricks, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>

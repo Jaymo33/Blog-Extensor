@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>320°F is equivalent to Gas Mark 3, making it a moderate heat setting ideal for baking and roasting in both air fryers and conventional ovens. This temperature is commonly used for cookies, cakes, and even some savoury dishes, ensuring even cooking without burning. If you're using an air fryer, you might need to adjust cooking times slightly compared to a traditional oven. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

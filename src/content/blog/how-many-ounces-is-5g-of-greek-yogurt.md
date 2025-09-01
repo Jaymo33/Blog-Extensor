@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of Greek yogurt equals approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're making dips, marinades, or baked goods, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of water equals approximately 2 cups in US measurements or 1.9 cups in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios matter. Whether you're baking, making sauces, or preparing air fryer recipes, getting the measurement right ensures perfect results every time.</p>

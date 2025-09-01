@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>8.7 kilograms is equal to approximately 19.18 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when purchasing ingredients by weight. Understanding how to convert 8.7 kg to pounds ensures you use the correct amount of food, leading to perfectly cooked meals every time. Whether you're preparing a large batch of chicken or weighing potatoes for roasting, accurate measurements are key. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

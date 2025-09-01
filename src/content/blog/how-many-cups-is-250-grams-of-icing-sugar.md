@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 grams of icing sugar is roughly equivalent to 2 cups when lightly spooned into a measuring cup. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making cakes, cookies, or frosting, knowing how many cups is 250 grams of icing sugar ensures consistency in your bakes.</p>  

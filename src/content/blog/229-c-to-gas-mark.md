@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>229°C is equivalent to Gas Mark 8, a common setting for baking and roasting in both air fryers and traditional ovens. This conversion is essential for anyone switching between Celsius and Gas Mark measurements, especially when following recipes from different sources. Whether you're using an air fryer or a conventional oven, knowing this conversion ensures your dishes cook perfectly every time.</p>

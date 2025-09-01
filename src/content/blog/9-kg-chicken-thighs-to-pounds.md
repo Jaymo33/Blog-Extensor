@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9 kg of chicken thighs equals approximately 19.84 pounds, making it essential knowledge for anyone preparing large batches in their air fryer. Whether you're cooking for a family gathering or meal prepping for the week, understanding this conversion ensures you use the right amount of chicken for your recipes. Accurate measurements help achieve perfect cooking results and prevent overcrowding in your air fryer basket. Many fantastic recipes on <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> specify weights in different units, so being able to convert between them is incredibly useful. This conversion is particularly handy when dealing with bulk purchases or when following international recipes that use imperial measurements.</p>

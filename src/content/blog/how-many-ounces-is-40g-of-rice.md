@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of rice equals approximately 1.41 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you’re cooking a quick rice-based dish or meal prepping, knowing how to convert grams to ounces ensures accuracy. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

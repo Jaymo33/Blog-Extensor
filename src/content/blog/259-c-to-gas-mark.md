@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>259°C converts to Gas Mark 10, which is the highest setting on most UK ovens. This high temperature is perfect for professional-style baking and achieving crispy results in your air fryer. Whether you're making puff pastry, Yorkshire puddings, or roasting vegetables, knowing this conversion ensures your dishes cook perfectly every time.</p>

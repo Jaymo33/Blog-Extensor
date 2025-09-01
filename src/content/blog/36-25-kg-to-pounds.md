@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>36.25 kilograms is equal to approximately 79.894 pounds. This conversion is essential for anyone using recipes with imperial measurements or when dealing with food packaging and portion sizes, especially in the context of air frying. Whether you're preparing a large batch of chicken, weighing out potatoes for crisps, or dividing a big pack of frozen goods, getting the weight right ensures everything cooks evenly and comes out perfectly. Understanding how to convert 36.25 kg to pounds can make your time in the kitchen much smoother and more efficient. For more handy conversion tips, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our air fryer conversion chart</a>.</p>

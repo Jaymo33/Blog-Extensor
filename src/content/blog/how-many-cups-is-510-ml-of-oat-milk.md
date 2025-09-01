@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of oat milk equals approximately 2.15 cups in the US measurement system and 1.8 cups in the UK. This conversion is essential for anyone using an air fryer to prepare recipes that require precise measurements, such as cakes, pancakes, or creamy sauces. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a traditional dish, knowing how to convert 510 ml of oat milk to cups ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of plain yogurt equals approximately 7.5 grams. This measurement is handy for air fryer recipes where precision matters, especially when baking or marinating. Whether you’re whipping up a quick breakfast or a creamy dessert, knowing this conversion ensures your dish turns out perfectly. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

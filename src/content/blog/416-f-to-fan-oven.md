@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>416 F converts to approximately 213 C in a fan oven. This is the standard conversion used in the UK for recipes requiring high-temperature cooking. When using an air fryer, which operates similarly to a fan oven, this temperature ensures crispy, evenly cooked results.</p>

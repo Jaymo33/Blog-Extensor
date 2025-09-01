@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of evaporated milk is approximately 1.94 cups in the US measurement system and 1.62 cups in the UK measurement system. Whether you're baking a cake or preparing a creamy sauce in your air fryer, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>

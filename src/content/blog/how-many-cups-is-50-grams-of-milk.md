@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of milk is roughly 0.21 cups (just under a quarter cup). This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert grams to cups ensures your dish turns out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of lentils is roughly equivalent to 0.88 cups (just under 1 cup). This conversion is essential for air fryer recipes, ensuring accurate measurements for perfectly cooked lentils every time. Whether you're meal prepping or experimenting with new dishes, knowing how to convert grams to cups can make cooking simpler.</p>  

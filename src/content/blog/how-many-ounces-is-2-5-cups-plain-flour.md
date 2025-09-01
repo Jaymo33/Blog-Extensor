@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of plain flour equals approximately 10.6 ounces (oz). This conversion is essential for accurate baking, especially when using an air fryer for recipes like cakes or bread. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing the exact weight ensures consistent results.</p>  

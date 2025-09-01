@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of grated cheese equals approximately 5 ounces (or 142 grams). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making cheesy garlic bread, stuffed mushrooms, or a gooey quesadilla, knowing the exact weight ensures consistency.</p>

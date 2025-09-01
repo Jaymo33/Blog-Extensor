@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>218 fan oven converts to approximately 200°F in a conventional oven. This conversion is essential when adapting recipes between fan-assisted ovens and traditional ovens or air fryers. Understanding this temperature difference ensures your dishes cook evenly and come out perfectly every time.</p>

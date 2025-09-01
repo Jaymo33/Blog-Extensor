@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of brown sugar equals approximately 16 ounces (or 1 pound) when packed. This conversion is essential for baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Brown sugar’s density means it weighs more than granulated sugar, so accurate measurements matter. Whether you’re making cookies, cakes, or glazes, knowing this conversion helps avoid kitchen mishaps. For more air fryer recipe tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should never put plastic in an air fryer. Most plastics melt at temperatures between 65-175°C, while air fryers typically operate at 180-200°C, making plastic completely unsuitable for this cooking method. The risks range from ruined meals to toxic fumes and even fire hazards.</p>

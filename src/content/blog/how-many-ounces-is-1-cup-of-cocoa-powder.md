@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cocoa powder equals approximately 3.5 ounces (100 grams) in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like brownies or cakes. Accurate conversions ensure your recipes turn out perfectly every time.</p>  

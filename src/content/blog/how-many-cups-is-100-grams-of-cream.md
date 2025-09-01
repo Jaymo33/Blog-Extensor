@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of cream is roughly equivalent to 0.42 cups in the UK and 0.4 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless. Keep reading for a detailed breakdown and tips.</p>

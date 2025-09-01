@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of canned beans equals approximately 4 ounces (113 grams). This measurement is handy for air fryer recipes, ensuring you get the right portion for crispy, evenly cooked beans. Whether you're making a quick snack or a full meal, knowing this conversion helps streamline your cooking process.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of jam is equal to approximately 7.05 ounces. This conversion is essential for anyone using an air fryer, especially when following recipes that require precise measurements. Whether you're making a glaze for chicken or a sweet topping for desserts, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

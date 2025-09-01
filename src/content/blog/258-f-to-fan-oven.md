@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>258 F converts to approximately 125 C in a fan oven. This is a common temperature for slow-cooking or baking delicate dishes in an air fryer. Understanding this conversion ensures your recipes turn out perfectly every time. Whether you're using an air fryer or a conventional fan oven, getting the temperature right is crucial. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

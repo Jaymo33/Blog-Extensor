@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>319 F converts to approximately 160 C in a fan oven. This temperature is commonly used for slow roasting, baking, and some air fryer recipes that require gentle cooking. Understanding this conversion is crucial when switching between traditional ovens and modern appliances like air fryers.</p>

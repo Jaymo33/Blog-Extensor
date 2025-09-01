@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of maple syrup is approximately 2.8 cups. This conversion is essential for baking, cooking, or using your air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a dessert or glazing meats, knowing how to convert millilitres to cups ensures consistency and delicious results every time.</p>

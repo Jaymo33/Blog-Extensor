@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of olive oil is approximately 0.53 cups (or roughly half a cup plus a tablespoon). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're whipping up crispy roasted vegetables or a moist cake, knowing how to convert grams to cups ensures consistent results every time.</p>  

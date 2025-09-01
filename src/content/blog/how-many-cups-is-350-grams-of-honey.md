@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>350 grams of honey equals approximately 1 cup plus 2 tablespoons (or roughly 1.06 cups). This conversion is essential for accurate baking and cooking, especially when using an air fryer where precise measurements can affect texture and cooking times. Honey’s thick, sticky consistency means it doesn’t pour like water, so measuring by weight (grams) is often more reliable than volume (cups). Whether you’re making glazes, marinades, or desserts, knowing how many cups 350 grams of honey translates to ensures consistent results every time.</p>

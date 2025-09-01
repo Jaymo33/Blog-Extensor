@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you own a 2 quart air fryer, the right liner size is typically 6 to 7 inches in diameter for round liners or 6x6 inches for square liners. Using the correct liner ensures even cooking, prevents food from sticking, and makes cleanup a breeze. Whether you prefer silicone, parchment paper, or reusable options, finding the perfect fit is key to getting the most out of your air fryer.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 159 fan oven to conventional oven is straightforward: it equals approximately 175°C in a traditional oven. This conversion ensures your recipes cook evenly when switching between oven types, especially useful for air fryer users who often need precise temperature adjustments.</p>

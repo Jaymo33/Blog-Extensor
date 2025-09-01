@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of chicken breast is roughly equivalent to 0.25 cups when chopped or shredded. This measurement can vary slightly depending on how finely the chicken is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re meal prepping or cooking a quick dinner, knowing this conversion ensures consistent results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

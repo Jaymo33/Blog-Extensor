@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>179°C in a fan oven equals approximately 160°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, especially when using an air fryer which often follows fan oven principles. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise temperature conversion makes all the difference in cooking results.</p>

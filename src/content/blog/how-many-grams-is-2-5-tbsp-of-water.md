@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of water equals approximately 37 grams (g). This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and cooking times. Whether you're adjusting a recipe or scaling ingredients, knowing how to convert 2.5 tbsp of water to grams ensures consistency in your dishes.</p>

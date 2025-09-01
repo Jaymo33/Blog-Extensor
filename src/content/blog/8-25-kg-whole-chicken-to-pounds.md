@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>An 8.25 kg whole chicken converts to approximately 18.19 pounds. This conversion is essential for anyone preparing a large bird in their air fryer, as cooking times and temperatures are often given in pounds rather than kilograms. Knowing the exact weight in pounds helps you achieve perfectly cooked, juicy meat with crispy skin. Whether you're meal prepping or cooking for a crowd, this knowledge ensures your chicken turns out just right. For more handy conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

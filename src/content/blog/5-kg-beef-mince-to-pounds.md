@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 kg of beef mince is equal to approximately 11.02 pounds. This conversion is essential when working with recipes, especially for air fryer cooking, where precise measurements can impact cooking times and results. Whether you're preparing burgers, meatballs, or a hearty bolognese, knowing how to convert 5 kg beef mince to pounds ensures you use the right amount of ingredients. This guide will walk you through the conversion in detail, along with practical tips for using beef mince in your air fryer. For more handy conversion tools, check out the comprehensive resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

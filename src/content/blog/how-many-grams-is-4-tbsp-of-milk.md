@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of milk weigh approximately 60 grams in the UK. This conversion is essential for precise cooking, especially when using an air fryer where measurements can affect texture and cooking times. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight ensures consistency. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

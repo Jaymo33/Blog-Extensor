@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of baking soda equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can impact texture and rise. Whether you’re making fluffy cakes or crispy snacks, knowing how to convert 10g baking soda to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on simplifying kitchen maths so you can focus on cooking.</p>

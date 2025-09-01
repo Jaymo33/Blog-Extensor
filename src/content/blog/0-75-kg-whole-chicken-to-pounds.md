@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have a 0.75 kg whole chicken and need to know its weight in pounds, the answer is straightforward: 0.75 kg is equal to approximately 1.65 pounds. This conversion is essential for anyone using an air fryer, as cooking times and temperatures are often given in pounds for whole birds. Getting this measurement right ensures your chicken cooks evenly, stays juicy, and has that perfect crispy skin we all love. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adapting your own, knowing the weight in pounds makes everything simpler. Let’s dive into why this conversion matters and how to use it for the best results.</p>

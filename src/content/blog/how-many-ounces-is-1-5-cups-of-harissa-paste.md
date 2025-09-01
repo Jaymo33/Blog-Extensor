@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of harissa paste equals approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes where precise measurements ensure the perfect balance of heat and flavour. Whether you're making spicy chicken wings or a harissa-infused marinade, knowing the exact weight helps achieve consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

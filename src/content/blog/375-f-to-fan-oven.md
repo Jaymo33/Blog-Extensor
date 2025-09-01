@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 F converts to approximately 190 C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures while keeping food moist inside. Whether you're adapting recipes or troubleshooting cooking times, understanding this conversion is key to air fryer success.</p>

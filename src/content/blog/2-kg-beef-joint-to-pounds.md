@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 kg of beef joint converts to approximately 4.41 pounds, making it essential knowledge for anyone cooking with an air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting cooking times, understanding this conversion ensures your roast turns out perfectly juicy and tender. Many British recipes use metric measurements, while some older cookbooks or international sources might use imperial units. This conversion is particularly useful when preparing beef joints for special occasions or family dinners. Getting the weight right directly impacts cooking duration and temperature settings in your air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of pineapple juice equals 6 fluid ounces (fl oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you’re marinating chicken or adding a tropical twist to desserts, knowing the exact weight helps avoid kitchen mishaps.</p>  

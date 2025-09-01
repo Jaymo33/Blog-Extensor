@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.4 kg is equal to approximately 3.08647 pounds, a conversion that is incredibly useful for anyone using an air fryer and working with British or international recipes. Getting your ingredient weights right is the first step to nailing any air fryer dish, whether you're cooking a whole chicken, portioning mince, or preparing vegetables. This specific weight is common for many popular air fryer meals, from a medium-sized whole chicken to a family pack of sausages or a large batch of roasted potatoes. Understanding this conversion helps you follow recipes accurately, manage cooking times, and achieve perfectly cooked results every single time. For more handy conversion tools, check out the comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our website.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>230 fan oven converts to approximately 210°C in a conventional oven. This 20°C reduction accounts for the efficient heat distribution of fan-assisted cooking. Whether you're baking, roasting, or using your air fryer, understanding this conversion ensures perfect results every time.</p>

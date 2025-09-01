@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>297 F converts to approximately 147 C in a fan oven. This is a moderate temperature often used for baking or roasting dishes that require gentle, even heat. If you're adapting an air fryer recipe to a fan oven, this conversion ensures your food cooks perfectly without drying out.</p>

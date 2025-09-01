@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of vegetable oil is equal to approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up crispy chips or a moist cake, knowing how many cups is 60 ml of vegetable oil ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and accurate.</p>

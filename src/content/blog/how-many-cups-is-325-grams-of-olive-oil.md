@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>325 grams of olive oil equals approximately 1.4 cups. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you’re baking, frying, or drizzling, knowing how many cups 325 grams of olive oil translates to can make or break your dish.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of evaporated milk equals 10 fluid ounces (or approximately 10 oz by weight for most brands). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making a creamy sauce, a dessert, or a savoury bake, knowing this conversion ensures consistency.</p>  

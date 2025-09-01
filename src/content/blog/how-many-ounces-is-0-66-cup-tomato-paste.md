@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of tomato paste equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're making a rich pasta sauce or a flavourful marinade, knowing how to convert 0.66 cup of tomato paste to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

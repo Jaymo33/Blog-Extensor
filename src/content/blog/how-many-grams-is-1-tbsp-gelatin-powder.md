@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of gelatin powder weighs approximately 9 grams in the UK. This measurement is essential for precise cooking, especially when using an air fryer where accuracy matters. Whether you’re making desserts, jellies, or even savoury dishes, knowing this conversion ensures perfect results every time.</p>  

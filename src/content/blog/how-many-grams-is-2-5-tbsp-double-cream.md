@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of double cream equals approximately 37.5 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can affect texture and consistency. Whether you're making a rich dessert or a creamy sauce, knowing the exact weight ensures perfect results every time.</p>

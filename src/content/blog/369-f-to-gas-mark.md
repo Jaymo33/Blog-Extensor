@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>369°F converts to Gas Mark 5 in UK ovens and air fryers. This moderate heat setting works perfectly for roasting vegetables, baking cakes, or cooking poultry in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt traditional oven recipes for modern appliances.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>485 ml of cream equals approximately 2.05 cups in standard US measurements. This conversion is essential for anyone following recipes, especially when using an air fryer where precise measurements can make all the difference. Whether you're whipping up a dessert or preparing a creamy sauce, knowing how to convert 485 ml of cream to cups ensures your dish turns out perfectly every time.</p>

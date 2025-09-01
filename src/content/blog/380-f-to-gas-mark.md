@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>380 F converts to Gas Mark 5 in UK ovens. This medium-high temperature works perfectly for roasting vegetables, baking cakes, or cooking meats in both conventional ovens and air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt traditional recipes for modern appliances.</p>

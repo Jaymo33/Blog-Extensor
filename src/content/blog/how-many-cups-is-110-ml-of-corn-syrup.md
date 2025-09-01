@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of corn syrup is approximately 0.46 cups. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a glaze or a sticky dessert, knowing how to convert 110 ml of corn syrup to cups can make all the difference.</p>

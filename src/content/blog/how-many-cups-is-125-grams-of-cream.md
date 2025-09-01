@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of cream equals approximately 0.53 cups (or roughly ½ cup plus 1 tablespoon) in standard UK measurements. This conversion is essential for air fryer recipes where precision matters, whether you’re making sauces, desserts, or baked goods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that getting measurements right can make or break your dish – especially when working with creamy ingredients that affect texture.</p>

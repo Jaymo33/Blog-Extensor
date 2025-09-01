@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>510 ml of single cream is approximately 2.15 cups in the UK and 2.16 cups in the US. This slight difference arises because UK and US cup measurements vary slightly, with 1 UK cup equalling 284 ml and 1 US cup equalling 240 ml. Whether you're whipping up a dessert or preparing a creamy sauce, knowing this conversion ensures your recipe turns out perfectly.</p>

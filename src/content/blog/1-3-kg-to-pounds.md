@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.3 kilograms equals approximately 2.87 pounds, making it easy to convert recipes for your air fryer. This conversion is particularly useful when dealing with meat portions, frozen foods, or meal prep ingredients that need precise measurement. Whether you're following a British recipe using metric measurements or an American one using imperial, knowing how to convert 1.3 kg to pounds ensures perfect results. Accurate conversions help maintain cooking times and temperatures, which is crucial for air fryer success. You can find more helpful conversion tools at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of hot sauce equals approximately 4.41 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you're whipping up spicy wings or a tangy marinade, knowing how to convert grams to ounces ensures accuracy in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail those measurements for flawless results every time.</p>  

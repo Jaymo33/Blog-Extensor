@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of minced garlic weighs approximately 8 grams. This measurement is key for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you're whipping up garlic-infused chicken or roasted vegetables, knowing the exact weight helps avoid overpowering or underwhelming your dish.</p>  

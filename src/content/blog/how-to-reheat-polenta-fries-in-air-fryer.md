@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat polenta fries in an air fryer, set the temperature to 180°C (350°F) and cook for 3–5 minutes until crispy. This method restores their texture better than a microwave or oven. Whether you’ve stored them in the fridge or freezer, your air fryer can bring back that satisfying crunch. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

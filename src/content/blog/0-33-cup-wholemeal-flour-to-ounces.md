@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of wholemeal flour equals approximately 1.4 ounces (or 1.41 oz to be precise). This conversion is essential for accurate baking, especially when using an air fryer for smaller batches. Wholemeal flour has a slightly different density compared to plain flour, so measuring by weight ensures consistency in your recipes. Whether you're making air fryer cookies or a healthy loaf, precise measurements matter. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

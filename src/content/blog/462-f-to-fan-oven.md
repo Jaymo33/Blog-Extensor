@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>462 F converts to approximately 239 C in a fan oven. This high-temperature setting is ideal for achieving crispy textures in your air fryer, whether you're roasting vegetables or cooking meats. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for perfect results every time.</p>

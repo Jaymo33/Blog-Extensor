@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of pasta is roughly equivalent to 1 cup when measured uncooked. This conversion is handy for air fryer recipes, ensuring you get the perfect portion every time. Whether you're making a quick pasta bake or a crispy air-fried noodle dish, accurate measurements matter. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

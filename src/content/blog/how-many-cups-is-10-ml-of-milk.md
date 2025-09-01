@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of milk equals approximately 0.042 cups. This small measurement is often used in air fryer recipes, especially for sauces, batters, or glazes where precision matters. Whether you're baking or cooking, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time.</p>  

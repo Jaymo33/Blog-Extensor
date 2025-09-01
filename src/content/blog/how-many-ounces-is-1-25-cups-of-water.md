@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of water equals exactly 10 fluid ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re preparing a marinade, sauce, or simply need the right amount of liquid, knowing how to convert cups to ounces is a game-changer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of self-raising flour equals approximately 30 grams (g). This conversion is essential for precise baking, especially when using an air fryer, where accurate measurements can make or break your recipe. Whether you're whipping up cakes, muffins, or bread, knowing the exact weight ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of almond milk equals approximately 2.47 cups. This conversion is essential for air fryer recipes, ensuring accuracy whether you're baking cakes or preparing savoury dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfect results every time.</p>

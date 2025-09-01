@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of potatoes is roughly equivalent to 2.5 to 3 cups, depending on how finely they’re chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and cooking time. Whether you’re prepping roast potatoes, wedges, or mash, knowing how many cups 450 grams of potatoes yields ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>

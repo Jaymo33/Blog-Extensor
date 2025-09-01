@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of vinegar is approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're marinating chicken or whipping up a tangy glaze, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

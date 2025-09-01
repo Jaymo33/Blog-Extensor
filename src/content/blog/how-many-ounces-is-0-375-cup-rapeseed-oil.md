@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of rapeseed oil equals approximately 3 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact the outcome of your dish. Whether you're preparing a crispy batch of vegetables or a succulent piece of salmon, knowing the exact weight ensures perfect results every time.</p>

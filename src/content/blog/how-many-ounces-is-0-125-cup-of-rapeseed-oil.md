@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of rapeseed oil equals approximately 1 ounce (1 oz). This measurement is essential for air fryer recipes, where precision ensures crispy, delicious results. Whether you’re whipping up a batch of roasted vegetables or frying chicken, knowing the exact weight of your ingredients makes all the difference.</p>

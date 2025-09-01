@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of chickpeas equals approximately 12 ounces. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making crispy roasted chickpeas or adding them to a hearty meal, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise quantities make all the difference in air frying.</p>

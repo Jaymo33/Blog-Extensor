@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 kg of chicken thighs is equivalent to approximately 7.72 pounds. This conversion is essential when following recipes that use imperial measurements, especially for air fryer cooking where precise quantities can affect cooking times and results. Whether you're meal prepping or cooking for a crowd, knowing how to convert 3.5 kg chicken thighs to pounds ensures you use the right amount of ingredients. Our guide makes this conversion simple and accurate, helping you achieve perfect air-fried chicken every time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of soy sauce equals approximately 1 cup in US measurements or just under 1 cup (0.98 cups) in UK measurements. Whether you're preparing a marinade for air-fried chicken or whipping up a stir-fry sauce, knowing this conversion ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for air fryer cooking.</p>

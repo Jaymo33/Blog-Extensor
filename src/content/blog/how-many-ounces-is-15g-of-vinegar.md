@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of vinegar is approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're marinating chicken or adding a tangy twist to vegetables, knowing how many ounces 15g of vinegar is ensures your dish turns out perfectly.</p>

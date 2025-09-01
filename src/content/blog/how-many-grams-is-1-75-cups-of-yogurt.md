@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of yogurt is approximately 420 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you’re whipping up a cake or a creamy sauce, knowing the exact gram measurement ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you perfect your dishes.</p>  

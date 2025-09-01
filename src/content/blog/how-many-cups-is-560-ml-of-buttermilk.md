@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of buttermilk is approximately 2.37 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you’re whipping up pancakes, cakes, or marinades, knowing how to convert 560 ml of buttermilk to cups ensures consistency and delicious results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 400 fan oven to Fahrenheit for a conventional oven is simple: it equals 400°F (204°C). Fan ovens circulate hot air for even cooking, while conventional ovens rely on radiant heat. This means you can use the same temperature number when switching between the two, though cooking times may vary slightly.</p>

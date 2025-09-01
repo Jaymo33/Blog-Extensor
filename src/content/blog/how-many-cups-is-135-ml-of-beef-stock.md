@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of beef stock is approximately 0.57 cups in the US measurement system and 0.48 cups in the UK metric system. This conversion is essential for recipes that require precise liquid measurements, especially when using an air fryer. Whether you're making a rich gravy or a hearty stew, knowing how to convert 135 ml of beef stock to cups ensures your dish turns out perfectly every time. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>  

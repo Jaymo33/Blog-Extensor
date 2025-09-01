@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of buttermilk equals approximately 14 fluid ounces (or 14 oz). This measurement is essential for air fryer recipes, ensuring accuracy for baking or marinating. Whether you're whipping up fluffy pancakes or tenderising chicken, knowing this conversion makes cooking effortless.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of tahini equals approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making a creamy tahini dip or a marinade, knowing the exact weight helps maintain consistency.</p>  

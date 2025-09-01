@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of minced onion equals approximately 30 grams (g). This conversion is handy when following air fryer recipes that require precise measurements for the best results. Whether you're making a savoury stir-fry or a flavourful marinade, knowing the exact weight ensures consistency in your cooking. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

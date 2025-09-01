@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of single cream equals approximately 16 ounces (or 16.23 oz to be precise) in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or baking a dessert, knowing this conversion ensures consistent results every time.</p>

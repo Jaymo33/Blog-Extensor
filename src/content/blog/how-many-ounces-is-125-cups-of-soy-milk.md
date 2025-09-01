@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of soy milk equals approximately 10 fluid ounces (UK measurement). This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a creamy sauce or baking a dairy-free dessert, knowing the exact weight ensures perfect results every time.</p>  

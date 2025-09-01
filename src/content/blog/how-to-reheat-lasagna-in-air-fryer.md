@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat lasagna in an air fryer, set it to 160°C (320°F) for 3-5 minutes. This gentle heat warms the layers evenly while keeping the cheese gooey and the pasta tender. Unlike microwaving, which can make lasagna soggy, air frying restores that freshly-baked texture with lightly crisped edges.</p>

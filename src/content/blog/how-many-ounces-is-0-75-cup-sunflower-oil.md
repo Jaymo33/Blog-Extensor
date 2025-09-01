@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of sunflower oil equals approximately 6 ounces (5.96 oz to be precise). This conversion is essential for air fryer recipes where precise measurements ensure crispy, evenly cooked dishes without excess oil. Whether you’re frying, roasting, or baking, knowing how many ounces are in 0.75 cup of sunflower oil helps maintain consistency in your cooking.</p>  

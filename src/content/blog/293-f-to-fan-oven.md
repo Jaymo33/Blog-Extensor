@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>293 F converts to approximately 145 C in a fan oven. This temperature is ideal for gentle cooking, baking, or reheating in both air fryers and conventional fan-assisted ovens. Whether you're adapting recipes from American cookbooks or tweaking air fryer settings, understanding this conversion ensures consistent results.</p>

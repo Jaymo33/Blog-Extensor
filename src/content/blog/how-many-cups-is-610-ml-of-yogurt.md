@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of yogurt is approximately 2.57 cups in the US measurement system and roughly 2.15 cups in the UK. This conversion is essential for anyone using yogurt in recipes, especially when baking or preparing meals in an air fryer. Whether you're making a creamy dessert or a savoury marinade, knowing the exact measurement ensures consistency and perfect results every time.</p>  

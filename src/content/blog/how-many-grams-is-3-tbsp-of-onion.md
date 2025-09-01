@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons of onion equals approximately 30 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're prepping a stir-fry, soup, or crispy onion toppings, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>  

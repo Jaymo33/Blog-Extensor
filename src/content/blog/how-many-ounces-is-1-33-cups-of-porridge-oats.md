@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of porridge oats equals approximately 10.64 ounces. This conversion is essential for air fryer recipes, ensuring your breakfasts and baked goods turn out perfectly every time. Whether you're making granola, oat bars, or a warm morning porridge, getting the measurements right makes all the difference.</p>

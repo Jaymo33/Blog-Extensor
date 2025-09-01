@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 F converts to approximately 168 C in a fan oven. This temperature is commonly used for baking and roasting in both conventional ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using a traditional oven or a modern air fryer.</p>

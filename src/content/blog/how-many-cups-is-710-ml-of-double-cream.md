@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of double cream is approximately 3 cups. This conversion is essential for baking, cooking, and especially when using an air fryer for creamy dishes. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing the exact measurement ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>760 ml of apple cider vinegar equals approximately 3.2 cups. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're marinating chicken, baking cakes, or preparing dressings, knowing how to convert 760 ml of apple cider vinegar to cups ensures consistent results every time.</p>  

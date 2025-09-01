@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of self-raising flour equals approximately 195 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes, muffins, or bread, knowing the exact weight ensures consistency and perfect results every time.</p>

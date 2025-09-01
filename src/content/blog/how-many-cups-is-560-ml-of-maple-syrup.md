@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of maple syrup is approximately 2.37 cups. This conversion is essential for baking, cooking, or using your air fryer to ensure precise measurements for perfect results every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting quantities, knowing this conversion makes life easier.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of granulated sugar equals approximately 2.5 cups in the UK and 2.4 cups in the US. Getting this conversion right is essential for baking, especially when using an air fryer where precise measurements can affect texture and cooking times. Whether you're making cakes, cookies, or desserts, knowing how to convert grams to cups ensures consistent results every time.</p>  

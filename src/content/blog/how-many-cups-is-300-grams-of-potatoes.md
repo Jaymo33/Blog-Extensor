@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of potatoes is roughly equivalent to 2.5 cups when diced or sliced, but this can vary slightly depending on the potato type and cut size. If you're using an air fryer, precise measurements help ensure even cooking and perfect results. Whether you're making crispy roast potatoes or a hearty side dish, knowing how to convert grams to cups is essential for any home cook.</p>  

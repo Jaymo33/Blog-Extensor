@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of balsamic vinegar equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're marinating chicken or creating a glaze for vegetables, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

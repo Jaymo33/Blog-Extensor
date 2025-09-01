@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of water equals 591.47 grams in the US measurement system and 600 grams in the UK. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're baking, steaming, or preparing sauces, knowing how many grams 2.5 cups of water weighs ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of precise measurements for perfect results.</p>

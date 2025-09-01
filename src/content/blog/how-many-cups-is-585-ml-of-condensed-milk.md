@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of condensed milk equals approximately 2.47 cups in standard US measurements or 2.06 UK cups. This conversion is essential for baking and cooking, especially when using air fryers where precise measurements matter. Whether you're making fudge, cakes, or creamy desserts, knowing this conversion ensures your recipes turn out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of vegetable oil equals approximately 0.7 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're frying, roasting, or baking, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking.</p>

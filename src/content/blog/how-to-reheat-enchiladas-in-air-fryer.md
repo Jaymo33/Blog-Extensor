@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat enchiladas in an air fryer, set it to 160°C (320°F) and cook for 3-5 minutes until piping hot. This method restores crispiness while preventing the tortillas from drying out – far superior to microwaving. Whether you’re reviving fridge-cold leftovers or frozen portions, your air fryer delivers restaurant-quality results with minimal effort.</p>

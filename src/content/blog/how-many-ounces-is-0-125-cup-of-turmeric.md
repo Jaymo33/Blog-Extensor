@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of turmeric equals approximately 1 ounce. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're spicing up chicken or adding flavour to vegetables, knowing the exact weight ensures consistency.</p>

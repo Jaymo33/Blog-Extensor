@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of baking powder equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you're baking cakes or making crispy batters, knowing how to convert cups to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and accessible for home chefs.</p>  

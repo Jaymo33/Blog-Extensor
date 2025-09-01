@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>41 kg equals approximately 90.39 pounds, which is essential knowledge for air fryer users who need to convert metric measurements for recipes and portion control. This conversion is particularly useful when dealing with larger cuts of meat or bulk ingredients that need precise measurement for optimal air frying results. Many British recipes and packaging still use metric measurements, while air fryer instructions often reference pounds for portion guidance. Understanding this conversion helps ensure your air fried meals cook evenly and reach the perfect doneness. You'll find this conversion invaluable when using resources from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> for your cooking adventures.</p>

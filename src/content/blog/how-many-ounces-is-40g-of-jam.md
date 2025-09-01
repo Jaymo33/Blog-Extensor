@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of jam equals approximately 1.41 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're making a glaze or a filling, knowing the exact weight ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of maple syrup is approximately 4.41 ounces. This conversion is essential for air fryer recipes where precision matters, especially when glazing meats or baking desserts. Whether you’re using a digital scale or measuring cups, knowing the exact weight ensures your dish turns out perfectly every time.</p>

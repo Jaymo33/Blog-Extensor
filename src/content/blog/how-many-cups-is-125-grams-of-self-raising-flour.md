@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of self-raising flour equals approximately 1 cup in UK measurements or 0.9 cups in US measurements. Getting this conversion right is essential for baking success, especially when using an air fryer for cakes, muffins, or other flour-based recipes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting measurements on the fly, knowing how to convert grams to cups ensures consistency.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of condensed milk is approximately 0.46 cups (just under half a cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake or a creamy dessert, knowing how many cups is 110 ml of condensed milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Let’s dive deeper into why this measurement matters and how to use it in your air fryer.</p>  

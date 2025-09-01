@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of lentils is roughly equivalent to 0.38 cups (UK) or 0.45 cups (US). This conversion helps ensure your air fryer recipes turn out perfectly every time. Whether you're making a hearty lentil stew or crispy lentil snacks, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide precise conversions to make cooking effortless.</p>  

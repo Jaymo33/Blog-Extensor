@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of water equals approximately 0.89 cups in the UK or 0.88 cups in the US. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're whipping up a quick dessert or prepping a savoury dish, knowing how to convert 210 ml of water to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

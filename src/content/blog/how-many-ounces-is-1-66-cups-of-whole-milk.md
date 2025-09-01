@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of whole milk equals approximately 13.28 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making creamy sauces, baking, or preparing breakfast, knowing this conversion helps avoid guesswork.</p>  

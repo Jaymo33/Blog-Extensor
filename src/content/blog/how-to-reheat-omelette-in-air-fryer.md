@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat an omelette in an air fryer, set it to 160°C (320°F) for 2-3 minutes. This gentle heat revives the texture without overcooking, making it taste freshly made. Whether you have a cheesy mushroom omelette or a simple herb one, your air fryer can bring it back to life better than a microwave.</p>

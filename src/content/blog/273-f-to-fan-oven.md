@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>273 F converts to approximately 140 C in a fan oven. This temperature is ideal for gentle baking or slow roasting in your air fryer, ensuring even cooking without drying out your food. Whether you're adapting recipes or troubleshooting, understanding this conversion is key to air fryer success.</p>

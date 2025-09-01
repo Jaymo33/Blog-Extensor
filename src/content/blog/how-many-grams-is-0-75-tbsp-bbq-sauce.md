@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 tbsp of bbq sauce equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you’re marinating chicken or glazing ribs, knowing the exact weight helps avoid over or under-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

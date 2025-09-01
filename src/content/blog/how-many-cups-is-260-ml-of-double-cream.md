@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of double cream is approximately 1.1 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistency in your recipes.</p>

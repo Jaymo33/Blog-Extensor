@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of mayonnaise weigh approximately 30 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making crispy chicken or a quick mayo-based dip, knowing the exact weight ensures consistent results every time.</p>  

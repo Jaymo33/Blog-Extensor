@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of buttermilk equals approximately 5.28 ounces (or 5 ¼ oz) in UK measurements. This conversion is essential for air fryer recipes, where precise ingredient quantities can make or break your dish. Whether you’re whipping up fluffy pancakes or tender fried chicken, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of evaporated milk equals approximately 0.89 cups (just under 1 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures perfect results every time.</p>  

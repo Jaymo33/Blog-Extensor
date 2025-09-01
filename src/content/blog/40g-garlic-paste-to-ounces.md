@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of garlic paste equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a marinade or adding flavour to your favourite <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing the exact weight ensures consistency. Garlic paste is a staple in many kitchens, and getting the measurement right helps avoid overpowering or underwhelming flavours. Let’s dive deeper into how this conversion works and why it matters for your air fryer cooking.</p>

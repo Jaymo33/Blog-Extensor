@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of buttermilk equals approximately 0.46 cups in the US and 0.44 cups in the UK. This conversion is essential for baking and air fryer recipes where precision matters. Whether you're making fluffy pancakes or crispy fried chicken, knowing how to measure buttermilk correctly ensures perfect results every time. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for delicious buttermilk-based dishes.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 3 kg whole chicken equals approximately 6.61 pounds. This conversion is essential for anyone using an air fryer, as many recipes and cooking guides use imperial measurements. Knowing the exact weight in pounds helps you determine the correct cooking time and temperature for that perfectly juicy bird. Whether you're following a British recipe or an American one, this conversion ensures your chicken cooks evenly and safely. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

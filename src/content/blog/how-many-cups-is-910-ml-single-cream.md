@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>910 ml of single cream is approximately 3.84 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact cup equivalent ensures perfect results every time.</p>

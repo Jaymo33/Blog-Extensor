@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of turmeric equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Turmeric, a vibrant yellow spice, is often used in curries, marinades, and even air fryer snacks. Knowing how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>

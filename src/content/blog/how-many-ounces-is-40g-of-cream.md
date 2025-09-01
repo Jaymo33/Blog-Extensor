@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40 grams of cream is approximately 1.41 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a dessert or a savoury dish, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>  

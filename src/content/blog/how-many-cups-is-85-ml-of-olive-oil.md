@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>85 ml of olive oil is approximately 0.36 cups in the US measurement system and 0.30 cups in the UK system. Whether you're preparing a delicious air fryer recipe or baking, accurate measurements are key to perfect results. Olive oil is a staple in many kitchens, and knowing how to convert millilitres to cups ensures your dishes turn out just right.</p>  

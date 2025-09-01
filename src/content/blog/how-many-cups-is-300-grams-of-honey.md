@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of honey is roughly equivalent to 0.88 cups in the UK and 0.79 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a glaze or sweetening a marinade, knowing how many cups 300 grams of honey equals ensures perfect results every time.</p>  

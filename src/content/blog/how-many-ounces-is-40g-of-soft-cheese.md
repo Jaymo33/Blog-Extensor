@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of soft cheese equals approximately 1.41 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams or ounces. Whether you're making a creamy dip or a cheesy topping, getting the measurements right ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

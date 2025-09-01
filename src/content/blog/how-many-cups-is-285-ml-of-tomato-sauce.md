@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of tomato sauce equals approximately 1.2 cups. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results every time. Whether you're making a rich pasta sauce or a hearty casserole, knowing how to convert millilitres to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions and expert tips.</p>

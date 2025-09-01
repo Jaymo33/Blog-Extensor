@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of single cream equals 946 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a creamy dessert or a rich sauce, precise measurements ensure consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for perfect results. This conversion works for both UK and US cup measurements, so you can follow any recipe with confidence. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>

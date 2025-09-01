@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of quinoa equals approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, where precise measurements can make all the difference in texture and cooking time. Whether you’re making a quinoa salad or a crispy quinoa bake, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accuracy to help you master your air fryer cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>7.5 kg of chicken thighs is equal to approximately 16.53 pounds. This conversion is essential for anyone preparing large batches of chicken thighs in their air fryer, especially when following recipes or planning meals for the week. Whether you're meal prepping, hosting a gathering, or simply stocking your freezer, knowing how to convert 7.5 kg chicken thighs to pounds ensures you get your quantities spot on. Accurate measurements help you avoid waste and make sure every piece cooks evenly. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

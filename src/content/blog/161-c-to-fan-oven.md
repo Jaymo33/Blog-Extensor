@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>161 C in a fan oven is equivalent to approximately 140 C in a conventional oven. This conversion is crucial for baking, roasting, and air frying, ensuring your dishes cook evenly without burning. Whether you're using a fan-assisted oven or an air fryer, understanding this temperature adjustment will help you achieve perfect results every time.</p>

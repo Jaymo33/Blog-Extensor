@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of double cream equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy dessert or a rich sauce, knowing how to convert grams to ounces ensures perfect results every time.</p>

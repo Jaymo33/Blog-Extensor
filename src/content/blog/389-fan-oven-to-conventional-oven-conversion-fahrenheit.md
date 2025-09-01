@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 389 fan oven to Fahrenheit for a conventional oven is simple: it equals approximately 350°F. Fan ovens circulate hot air, allowing them to cook food faster and at lower temperatures than conventional ovens. This guide will help you adjust recipes seamlessly, whether you're baking, roasting, or even using an air fryer.</p>

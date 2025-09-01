@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of granulated sugar equals approximately 3.125 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where exact measurements can make all the difference. Whether you're whipping up a quick dessert or adjusting a recipe, knowing this conversion ensures consistency and perfect results.</p>

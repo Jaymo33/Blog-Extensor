@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams (g) of soy milk is approximately 0.53 ounces (oz). If you're using an air fryer and need precise measurements for recipes, this conversion is essential for perfect results every time. Whether you're making a creamy sauce or a light batter, knowing how to convert grams to ounces ensures consistency in your cooking.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of milk equals 6 fluid ounces (oz). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're preparing a creamy sauce or a fluffy cake, knowing the exact weight ensures consistency.</p>  

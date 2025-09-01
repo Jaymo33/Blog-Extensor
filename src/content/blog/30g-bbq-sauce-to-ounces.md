@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of bbq sauce equals approximately 1.06 ounces. This conversion is essential when adapting recipes for your air fryer, especially when dealing with marinades or glazes where precise measurements matter. Whether you're following an American recipe or creating your own bbq masterpiece, knowing how to convert 30g of bbq sauce to ounces will ensure perfect results every time.</p>

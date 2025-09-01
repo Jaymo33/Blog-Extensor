@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of icing sugar is roughly equivalent to 0.6 cups in the UK or 0.75 cups in the US. This conversion is essential for bakers who rely on precise measurements for perfect results. Whether you're making a cake, cookies, or frosting, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements in baking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of wholemeal flour equals approximately 17.64 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making bread, cakes, or other baked goods in your air fryer, knowing how to convert grams to ounces ensures perfect results every time.</p>

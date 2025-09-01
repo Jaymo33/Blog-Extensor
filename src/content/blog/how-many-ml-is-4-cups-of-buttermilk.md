@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of buttermilk equals approximately 946 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're making fluffy pancakes, crispy fried chicken, or moist cakes, knowing how many ml is 4.0 cups of buttermilk guarantees consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you nail every recipe with accurate conversions.</p>

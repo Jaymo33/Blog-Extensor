@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>435 ml of maple syrup is approximately 1.84 cups in the US or 1.53 cups in the UK. This conversion is essential for baking, cooking, or air frying recipes that require precise measurements. Whether you're whipping up pancakes, glazing meats, or creating desserts in your air fryer, knowing how to convert 435 ml of maple syrup to cups ensures perfect results every time.</p>

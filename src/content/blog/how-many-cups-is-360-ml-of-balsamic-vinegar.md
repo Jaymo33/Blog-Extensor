@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of balsamic vinegar equals approximately 1.52 cups in US measurements or 1.27 cups in UK measurements. Whether you're whipping up a glaze for air-fried vegetables or marinating chicken, getting the conversion right ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for air fryer success.</p>  

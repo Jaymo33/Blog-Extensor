@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of icing sugar equals approximately 12 ounces (340 grams). This conversion is essential for baking, especially when using an air fryer to create light, fluffy desserts. Whether you're making frosting, dusting pastries, or preparing a cake batter, knowing the exact weight ensures consistency. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

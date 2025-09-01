@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of cream is roughly equivalent to 1.1 cups in the UK or 1.09 cups in the US. This conversion is essential for recipes, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a dessert or adding richness to a savoury dish, accurate measurements ensure perfect results every time.</p>  

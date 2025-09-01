@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of broccoli is roughly equivalent to 1.5 US cups or 1.25 UK cups when chopped. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy broccoli bites or adding it to a stir-fry, knowing how many cups is 150 grams of broccoli ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to simplify your cooking process. Let’s dive deeper into measuring broccoli for your air fryer.</p>

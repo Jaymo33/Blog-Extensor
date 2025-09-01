@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of rapeseed oil equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re frying, baking, or roasting, knowing how to convert grams to ounces ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless results every time.</p>  

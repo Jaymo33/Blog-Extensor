@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of brown sugar is approximately 0.88 ounces. This conversion is essential for anyone using air fryer recipes, especially when precise measurements matter. Whether you’re baking cookies or preparing a savoury dish, knowing how to convert grams to ounces ensures your recipe turns out perfectly every time.</p>

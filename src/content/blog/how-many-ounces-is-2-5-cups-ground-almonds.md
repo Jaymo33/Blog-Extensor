@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of ground almonds equals approximately 10 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precision matters, especially in baking or coating dishes. Whether you’re making almond-crusted chicken or a gluten-free cake, knowing the exact weight ensures perfect results every time. For more air fryer measurement guides, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

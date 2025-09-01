@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 94 Fan Oven to Conventional Oven Conversion</h2>

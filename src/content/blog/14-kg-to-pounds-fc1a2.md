@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 14 kg to pounds gives you exactly 30.8647 pounds, which is essential knowledge for anyone using an air fryer for meal preparation. Whether you're portioning ingredients or following recipes that use imperial measurements, this conversion ensures accuracy in your cooking. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> provide measurements in both metric and imperial units to cater to all users. Understanding how to convert 14 kg to pounds helps you avoid measurement errors that could affect cooking times and results. This basic conversion skill is particularly valuable when working with larger quantities of meat or vegetables for family meals.</p>

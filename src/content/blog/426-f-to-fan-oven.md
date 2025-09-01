@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>426 F converts to approximately 220 C in a fan oven. This high-temperature setting is ideal for roasting meats, baking pizzas, or achieving crispy textures in your air fryer. Understanding this conversion helps bridge the gap between traditional recipes and modern cooking methods like air frying.</p>

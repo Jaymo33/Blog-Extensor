@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of evaporated milk equals 24 fluid ounces (or approximately 21.6 ounces by weight). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're making a creamy custard or a rich sauce, knowing how many ounces are in 3 cups of evaporated milk helps you nail the recipe every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat stuffed potato skins in an air fryer, set the temperature to 180°C (350°F) and cook for 3–5 minutes until piping hot. This method restores crispiness while preventing the filling from drying out – far superior to microwaving. Whether you’ve stored them in the fridge or freezer, your air fryer can revive leftover potato skins with minimal effort.</p>

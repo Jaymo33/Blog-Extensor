@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of chopped onion equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're prepping ingredients for a stir-fry or a casserole, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when using an air fryer.</p>  

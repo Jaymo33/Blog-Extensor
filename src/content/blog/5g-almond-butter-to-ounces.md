@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of almond butter equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a quick snack or a decadent dessert, knowing how to convert grams to ounces ensures perfect results every time. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

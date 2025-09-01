@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of brown sugar equals approximately 12 ounces (340 grams) when packed. This measurement is crucial for air fryer baking, where precise quantities can make or break your recipe. Whether you're making cookies, cakes, or glazes, knowing this conversion ensures consistent results every time.</p>

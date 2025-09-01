@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15.3 kg is equal to 33.73 pounds. This conversion is incredibly useful for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or following recipes that use imperial measurements. Getting your weights right ensures even cooking and perfect results, whether you're preparing a family feast or meal prepping for the week. Understanding how to convert 15.3 kilograms to pounds can take the guesswork out of your kitchen calculations. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

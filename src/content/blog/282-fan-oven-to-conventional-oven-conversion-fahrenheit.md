@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>282 fan oven is equivalent to approximately 300°F in a conventional oven. This conversion ensures your recipes turn out perfectly, whether you're baking, roasting, or using an air fryer. Understanding this temperature shift is crucial for achieving consistent results in your cooking.</p>

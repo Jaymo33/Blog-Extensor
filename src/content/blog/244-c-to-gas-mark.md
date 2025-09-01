@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>244 C converts to Gas Mark 9. This high temperature is perfect for achieving crispy results in both traditional ovens and air fryers. Whether you're baking, roasting, or air frying, knowing this conversion helps you adapt recipes perfectly.</p>

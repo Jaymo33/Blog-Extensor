@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>175 grams of cocoa powder equals approximately 1.75 cups when using standard UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect chocolate cakes, brownies, or hot cocoa mixes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements make all the difference in air fryer recipes.</p>

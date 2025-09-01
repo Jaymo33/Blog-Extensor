@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of brown sugar equals approximately 14 ounces (oz). This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making cookies, cakes, or even savoury dishes, knowing the weight ensures consistency and perfect results every time.</p>  

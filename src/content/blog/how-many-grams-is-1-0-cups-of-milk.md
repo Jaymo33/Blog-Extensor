@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of milk equals approximately 240 grams. This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're baking a cake or preparing a creamy sauce, knowing how many grams are in 1.0 cups of milk helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide reliable conversions to make your cooking effortless.</p>  

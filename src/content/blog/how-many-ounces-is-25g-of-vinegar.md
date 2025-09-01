@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of vinegar equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you’re whipping up a marinade or a glaze, knowing how to convert grams to ounces ensures accuracy in your cooking.</p>

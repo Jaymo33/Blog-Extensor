@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of chilli sauce weigh approximately 60 grams (g). This conversion is essential for air fryer recipes where precise measurements ensure the perfect balance of flavour and texture. Whether you’re marinating chicken or glazing salmon, knowing the exact weight helps avoid overly spicy or bland results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

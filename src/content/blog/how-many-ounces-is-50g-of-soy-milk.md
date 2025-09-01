@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of soy milk equals approximately 1.76 ounces. Whether you're preparing a creamy sauce or a vegan dessert in your air fryer, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for air fryers. Let’s dive deeper into conversions and why they’re essential for cooking success.</p>  

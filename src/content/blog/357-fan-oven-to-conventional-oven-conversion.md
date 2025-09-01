@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 357°F in a fan oven to a conventional oven is straightforward: it equals approximately 375°F in a standard oven. Fan ovens circulate hot air for even cooking, so they often require lower temperatures than conventional ovens. This adjustment ensures your dishes cook perfectly without burning or drying out.</p>  

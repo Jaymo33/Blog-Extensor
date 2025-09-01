@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of cottage cheese equals approximately 8 ounces (227 grams). This measurement is standard for UK and US cup sizes, making it easy to follow recipes whether you're baking or using your air fryer. Getting the right amount ensures your dishes turn out perfectly every time, especially when precision matters in air fryer cooking.</p>  

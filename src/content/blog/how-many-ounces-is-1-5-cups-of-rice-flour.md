@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of rice flour equals approximately 6.35 ounces (oz) in the UK measurement system. Whether you're whipping up gluten-free treats or perfecting crispy coatings for air fryer dishes, precise measurements are key. Rice flour, a staple in many kitchens, behaves differently than wheat flour, so getting the conversion right ensures your recipes turn out just as intended.</p>  

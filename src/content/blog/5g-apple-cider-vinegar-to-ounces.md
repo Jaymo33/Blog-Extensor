@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of apple cider vinegar equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter, especially for marinades, dressings, or sauces. Whether you're following a UK recipe or experimenting with your own creations, knowing how to convert 5g of apple cider vinegar to ounces ensures accuracy.</p>  

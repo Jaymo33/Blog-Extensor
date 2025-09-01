@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of baking powder equals approximately 17.64 ounces. This conversion is essential for anyone using air fryer recipes, especially when following British or American measurements. Whether you're whipping up cakes, bread, or even savoury dishes, getting the right amount of baking powder ensures perfect rise and texture. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

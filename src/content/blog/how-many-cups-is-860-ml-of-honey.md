@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of honey is roughly 3.6 cups, making it easy to measure for your air fryer recipes. Whether you're baking a cake or glazing chicken, knowing this conversion ensures perfect results every time. Honey’s thickness means it doesn’t pour like water, so measuring accurately is key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify conversions so your cooking stays stress-free. Keep reading for tips on measuring sticky ingredients like honey.</p>  

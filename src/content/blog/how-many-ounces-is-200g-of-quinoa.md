@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of quinoa equals approximately 7.05 ounces. This conversion is essential for anyone cooking with quinoa, especially when using an air fryer for precise recipes. Whether you're meal prepping or trying out a new dish, knowing how to convert 200g quinoa to ounces ensures your measurements are spot-on.</p>

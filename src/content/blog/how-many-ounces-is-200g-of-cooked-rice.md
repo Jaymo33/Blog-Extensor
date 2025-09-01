@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of cooked rice equals approximately 7.05 ounces. This conversion is handy when you're using recipes that list ingredients in ounces or grams, especially for air fryer cooking. Whether you're meal prepping or adjusting portion sizes, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these measurements for effortless cooking.</p>

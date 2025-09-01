@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of milk is approximately 360 grams in the UK and 354 grams in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking, making sauces, or preparing batters, knowing how many grams 1.5 cups of milk weighs ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time.</p>

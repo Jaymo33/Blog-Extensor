@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of vinegar equals 20 fluid ounces (or approximately 20 oz by weight for most types of vinegar). This conversion is essential for air fryer recipes, where precise measurements can impact flavour and cooking results. Whether you’re making a tangy marinade or a zesty glaze, knowing how to convert 2.5 cups of vinegar to ounces ensures consistency in your dishes.</p>

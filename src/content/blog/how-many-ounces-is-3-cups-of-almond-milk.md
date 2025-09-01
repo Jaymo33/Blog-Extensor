@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of almond milk equals approximately 24 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results. Whether you're whipping up a creamy dessert or a savoury dish, knowing how many ounces are in 3 cups of almond milk makes cooking a breeze. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

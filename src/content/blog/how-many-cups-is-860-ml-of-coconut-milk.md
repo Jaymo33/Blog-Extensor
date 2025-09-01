@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>860 ml of coconut milk equals approximately 3.63 cups in the US measurement system and 3.02 cups in the UK measurement system. Whether you're preparing a creamy curry or baking a tropical dessert, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>  

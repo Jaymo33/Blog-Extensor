@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of condensed milk equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter, especially when making desserts or sweet glazes. Whether you're scaling a recipe or just need a small amount, knowing how to convert grams to ounces ensures accuracy.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of soft cheese equals approximately 22.5 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making a creamy sauce or a cheesy topping, knowing the exact weight helps avoid over or under-measuring.</p>  

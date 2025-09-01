@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>An 8 kg cod fillet equals approximately 17.64 pounds. This conversion is essential for air fryer cooking, as getting the weight right ensures even cooking and perfect results. Whether you're preparing a large batch for a family gathering or portioning for meal prep, knowing the exact pound equivalent helps you adjust cooking times and temperatures accurately. Understanding this conversion can elevate your air fryer recipes, making sure every piece of cod comes out flaky and delicious. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

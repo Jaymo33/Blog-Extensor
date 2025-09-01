@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>202°C in a fan oven converts to approximately 220°C in a conventional oven. This 10-20°C increase compensates for the fan oven's efficient heat circulation. Understanding this conversion is crucial when adapting recipes between oven types or using an air fryer, which operates similarly to a fan oven.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>198 fan oven converts to approximately 180°C in a conventional oven. This 10°C reduction accounts for the more efficient heat distribution in fan-assisted ovens. Whether you're baking cakes or roasting meats, understanding this conversion ensures your dishes cook perfectly every time.</p>

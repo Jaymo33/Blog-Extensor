@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of rice equals approximately 1 ounce (28.35 grams). This measurement is particularly useful when preparing small portions in your air fryer, ensuring perfect results every time. Whether you're cooking for one or prepping ingredients for <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing this conversion helps maintain consistency.</p>

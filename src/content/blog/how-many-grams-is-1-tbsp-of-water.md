@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 tablespoon (tbsp) of water weighs exactly 15 grams. This measurement is consistent whether you're using a UK or metric tablespoon, making it easy to convert for recipes. Knowing this conversion is especially useful for air fryer cooking, where precision can affect texture and cooking times. If you're using an air fryer for baking or reheating, accurate water measurements ensure perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

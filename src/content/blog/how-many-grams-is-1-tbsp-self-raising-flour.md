@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One tablespoon (1 tbsp) of self-raising flour weighs approximately 8 grams in the UK. This measurement is essential for accurate baking, especially when using an air fryer for cakes, muffins, or other flour-based recipes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or converting measurements manually, knowing this conversion ensures consistency in your results.</p>  

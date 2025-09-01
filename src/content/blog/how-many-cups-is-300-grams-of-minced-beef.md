@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of minced beef is roughly equivalent to 1.5 cups when lightly packed. This conversion is essential for air fryer recipes, ensuring you get the right texture and cook time. Whether you’re making burgers, meatballs, or a hearty bolognese, knowing how many cups is 300 grams of minced beef helps streamline your cooking process.</p>  

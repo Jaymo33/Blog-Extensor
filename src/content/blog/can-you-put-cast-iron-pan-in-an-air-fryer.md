@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put a cast iron pan in an air fryer, but with caution. Cast iron is durable and retains heat well, but its weight and size may not suit all air fryer models. Always check your air fryer’s manual for compatibility before attempting this. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend testing with small, lightweight cast iron pans first.</p>  

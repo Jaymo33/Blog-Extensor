@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of goat milk equals approximately 14 fluid ounces or 14.8 ounces by weight. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're making a creamy sauce or a baked dish, knowing the exact measurement helps avoid kitchen mishaps.</p>

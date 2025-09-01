@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>415°F converts to Gas Mark 7 in UK ovens and air fryers. This high temperature is ideal for baking bread, roasting vegetables, or creating crispy finishes in both traditional ovens and modern air fryers. Whether you're following an American recipe or adjusting cooking times, understanding this conversion ensures perfect results every time.</p>

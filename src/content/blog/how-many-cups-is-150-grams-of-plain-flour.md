@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of plain flour equals approximately 1.2 cups in UK measurements or 1.25 cups in US measurements. This conversion is essential for air fryer baking, where precision ensures your cakes, breads, and batters turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be, so we’ve done the maths for you.</p>

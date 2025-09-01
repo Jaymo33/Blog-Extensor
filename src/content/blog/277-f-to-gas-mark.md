@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>277°F converts to Gas Mark 1 in UK ovens and air fryers. This gentle heat is perfect for slow-cooking dishes, dehydrating fruits, or keeping meals warm without overcooking. If you're adapting recipes between conventional ovens and air fryers, knowing this conversion is essential for consistent results. At airfryerrecipe.co.uk, we specialise in helping you master these temperature transitions effortlessly. Whether you're baking cookies or roasting vegetables, 277°F (Gas Mark 1) delivers reliable low-heat performance.</p>

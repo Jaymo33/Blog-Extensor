@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of condensed milk equals approximately 5.29 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when dealing with sweet treats like cakes or desserts. Whether you're following a UK recipe or adapting one from abroad, knowing how to convert grams to ounces ensures your dish turns out perfectly.</p>  

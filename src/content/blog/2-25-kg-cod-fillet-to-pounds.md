@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 kg of cod fillet equals approximately 4.96 pounds, making it a substantial piece of fish perfect for feeding a crowd or meal prepping. This conversion is essential for anyone following recipes that use imperial measurements or shopping for ingredients in countries that use pounds. Knowing how to convert 2.25 kg cod fillet to pounds ensures you buy the right amount and cook it perfectly in your air fryer. Whether you are baking, grilling, or air frying, accurate measurements lead to delicious results. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of vegetable oil equals 828 ml, making it easy to measure for air fryer cooking. Whether you’re preparing crispy chips or baking a cake, accurate conversions ensure your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer.</p>  

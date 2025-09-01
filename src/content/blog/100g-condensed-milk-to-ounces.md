@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of condensed milk equals approximately 3.53 ounces. This conversion is essential for air fryer recipes, baking, or any dish requiring precise measurements. Whether you're whipping up a dessert or adjusting a recipe, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking.</p>  

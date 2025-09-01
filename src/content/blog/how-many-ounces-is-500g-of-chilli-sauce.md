@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of chilli sauce equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for sauces, marinades, and dips. Whether you're cooking wings, kebabs, or stir-fries, knowing how many ounces 500g of chilli sauce is will help you nail the flavour balance.</p>  

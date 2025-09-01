@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of soft cheese is equivalent to 1 ounce. This precise measurement is crucial for anyone using an air fryer, as accurate quantities ensure your recipes turn out perfectly every single time. Whether you're making a creamy dip, a stuffed chicken breast, or a decadent dessert, knowing this conversion eliminates guesswork. For a huge variety of recipes that use this measurement, head over to <a href="https://www.airfryerrecipe.co.uk/recipes">airfryerrecipe.co.uk/recipes</a>. Getting your soft cheese amount right can be the difference between a good dish and a great one, especially when cooking with the intense, direct heat of an air fryer.</p>

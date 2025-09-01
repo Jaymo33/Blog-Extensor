@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you own a 3.5 quart air fryer, the right liner size is typically 7.5 inches in diameter for round liners or 7x7 inches for square liners. These dimensions ensure a snug fit, preventing food from slipping underneath and making cleanup a breeze. Whether you prefer parchment paper liners or reusable silicone options, getting the correct size is crucial for optimal performance. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we recommend measuring your air fryer basket before purchasing to avoid any misfits.</p>

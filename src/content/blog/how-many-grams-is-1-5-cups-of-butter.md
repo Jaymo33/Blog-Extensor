@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of butter equals approximately 340 grams. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or preparing a savoury dish in your air fryer, knowing the exact gram measurement for 1.5 cups of butter makes all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when adapting traditional recipes for air fryers.</p>  

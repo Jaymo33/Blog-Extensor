@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.25 cups of corn syrup equals approximately 768.91 millilitres (ml). This conversion is essential for precise baking and cooking, especially when using an air fryer where exact measurements can impact texture and consistency. Whether you're whipping up a batch of cookies or glazing a dessert, knowing how to convert cups to ml ensures your recipes turn out perfectly every time.</p>

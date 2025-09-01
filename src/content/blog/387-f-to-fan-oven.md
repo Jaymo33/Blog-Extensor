@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>387 F converts to approximately 197 C in a fan oven. This is a common temperature for roasting vegetables, baking cakes, or cooking meats to perfection in both air fryers and conventional fan ovens. Understanding these conversions is crucial for anyone moving between American recipes and UK appliances.</p>

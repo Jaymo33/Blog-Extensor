@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of oats equals approximately 2.25 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking time. Whether you're making overnight oats or adding oats to a recipe, knowing the exact weight ensures consistency.</p>

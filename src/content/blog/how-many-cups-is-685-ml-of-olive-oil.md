@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of olive oil is approximately 2.9 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a batch of crispy roast potatoes or a moist cake, knowing how to convert 685 ml of olive oil to cups ensures consistency and delicious results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of icing sugar equals approximately 6.6 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements matter. Whether you're whipping up a cake or dusting desserts, knowing this conversion ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of vegetable oil equals 10 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re frying chicken, roasting vegetables, or baking, knowing how many ounces are in 1.25 cups of vegetable oil ensures consistent results.</p>  

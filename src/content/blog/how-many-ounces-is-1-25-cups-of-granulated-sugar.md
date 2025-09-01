@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of granulated sugar equals approximately 10 ounces (UK). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you’re baking a cake or making cookies, knowing the exact weight of sugar helps avoid overly sweet or dry results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

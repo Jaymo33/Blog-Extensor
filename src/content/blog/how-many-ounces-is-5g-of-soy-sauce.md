@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams (5g) of soy sauce is approximately 0.18 ounces (oz). Whether you're preparing a marinade for your air fryer or adjusting a recipe, this conversion ensures accuracy. Soy sauce is a staple in many dishes, from stir-fries to glazes, and knowing how to measure it correctly is key. For more air fryer-friendly conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

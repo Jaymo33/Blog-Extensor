@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Yes, you can put certain cake moulds in an air fryer, but only if they’re made from heat-safe materials like silicone or metal. Avoid plastic or low-quality moulds that could melt or release toxins. The key is checking your mould’s maximum temperature rating – most air fryers operate between 160°C to 200°C, so your mould must withstand this heat.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385°F converts to approximately 170°C in a fan oven. This is a common temperature for roasting meats, baking cakes, or crisping vegetables in both air fryers and fan-assisted ovens. Understanding this conversion ensures your recipes turn out perfectly every time.</p>

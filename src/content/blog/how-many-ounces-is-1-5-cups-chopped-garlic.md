@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of chopped garlic equals approximately 12 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up garlic-infused roast potatoes or a flavourful marinade, knowing the weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you nail every recipe. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

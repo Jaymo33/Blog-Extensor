@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>26 kg equals approximately 57.32 pounds, which is a crucial conversion for anyone using an air fryer to cook larger portions or meal prep. This conversion helps you understand weight measurements when dealing with ingredients or portion sizes that might be listed in different units. Whether you're preparing a big batch of chicken for the week or calculating how much frozen food to cook, knowing how to convert 26 kg to pounds ensures you get the timing and temperature just right. Many air fryer recipes from American sources use pounds, so this conversion becomes particularly handy. Getting your measurements accurate means your food will cook evenly and come out perfectly every time.</p>

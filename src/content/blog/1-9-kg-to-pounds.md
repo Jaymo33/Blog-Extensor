@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.9 kg is equal to approximately 4.18878 pounds, a conversion that becomes incredibly useful when portioning ingredients for your air fryer. Whether you're weighing chicken breast, potatoes, or frozen goods, getting this measurement right ensures even cooking and perfect results. Many recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use metric measurements, so knowing how to convert 1.9 kilograms to pounds helps you follow them accurately. This is especially handy for batch cooking or when using pre-packaged items labelled in kilograms. Mastering this simple conversion will make your air frying experience smoother and more enjoyable.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you own a 3.7 quart air fryer, the right liner size is typically 6 to 7 inches in diameter for round liners or 6x6 inches for square ones. This ensures a snug fit without obstructing airflow, which is crucial for even cooking. Whether you're using parchment paper, silicone liners, or reusable options, getting the dimensions right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating it can be to find the perfect liner, so we’ve put together this guide to help you out.</p>  

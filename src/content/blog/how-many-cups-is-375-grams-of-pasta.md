@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of pasta is roughly equivalent to 4.5 cups when measured uncooked. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making a creamy pasta bake or a crispy air-fried noodle dish, knowing how many cups 375 grams of pasta yields ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>

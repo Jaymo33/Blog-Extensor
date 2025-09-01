@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of soy milk equals 3 ounces (oz) in the UK measurement system. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios matter. Whether you’re whipping up a creamy sauce or baking a dairy-free dessert, knowing this measurement ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

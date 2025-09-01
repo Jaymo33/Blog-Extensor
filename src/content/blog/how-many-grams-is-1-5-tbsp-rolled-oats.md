@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of rolled oats equals approximately 12 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making granola, oat bars, or coating for chicken, knowing the exact weight helps maintain consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of sugar syrup equals approximately 2 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling syrup over air-fried desserts or using it as a glaze, knowing the exact weight ensures consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>400 grams of cocoa powder equals approximately 3.2 cups when measured using the standard UK cup measurement. This conversion is essential for bakers who rely on precise measurements for perfect results, especially when using an air fryer for desserts like brownies or cakes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting a family favourite, knowing how to convert grams to cups ensures consistency.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 ml of lemon juice is approximately 1.2 cups in the UK and 1.18 cups in the US. This conversion is essential for baking, cooking, or preparing recipes in your air fryer. Whether you're making a zesty marinade or a tangy dessert, knowing the exact measurement ensures perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

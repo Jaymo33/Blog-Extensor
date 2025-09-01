@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>9.8 kg is equal to 21.6053 pounds, a conversion that’s incredibly useful when working with larger cuts of meat or batch cooking in your air fryer. Whether you’re preparing a whole chicken, a joint of beef, or a big tray of vegetables, understanding weight in both metric and imperial units helps you follow recipes accurately and achieve consistent results. Many popular air fryer recipes, especially those designed for family meals or meal prep, specify weights in kilograms or pounds, so being able to switch between them is a handy skill. Getting your quantities right ensures everything cooks evenly, crisps up nicely, and doesn’t overcrowd the basket. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on the main site.</p>

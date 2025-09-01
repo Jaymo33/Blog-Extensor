@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>249°F in a fan oven equals approximately 220°F in a conventional oven. This conversion is essential for achieving perfect baking results when switching between oven types. Whether you're using a traditional oven, convection oven, or even an air fryer, understanding these temperature differences can make or break your recipe.</p>

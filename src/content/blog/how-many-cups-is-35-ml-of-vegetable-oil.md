@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of vegetable oil equals approximately 0.15 cups (or roughly 1/8 cup plus 1 teaspoon). Whether you're preparing a crispy batch of air-fried chicken or baking a moist cake, getting the measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in cooking, especially when using an air fryer where oil quantities can significantly impact texture and taste.</p>

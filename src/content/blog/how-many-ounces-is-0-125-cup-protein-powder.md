@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of protein powder equals approximately 1 ounce. This measurement is essential for precise cooking, especially when using an air fryer for meal prep or baking. Whether you're making protein pancakes, shakes, or air-fried snacks, knowing the exact weight ensures consistency in your recipes.</p>

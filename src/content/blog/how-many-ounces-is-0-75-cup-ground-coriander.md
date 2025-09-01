@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of ground coriander equals approximately 2.4 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you’re making a spice rub or adding depth to a dish, knowing how many ounces are in 0.75 cup of ground coriander helps you cook with confidence.</p>  

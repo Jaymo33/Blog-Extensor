@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of apple cider vinegar equals 591.47 millilitres (ml). This conversion is essential for precise cooking, especially when preparing marinades, dressings, or glazes for air fryer recipes. Whether you're following a British or American recipe, knowing how to convert cups to millilitres ensures accuracy and perfect results every time.</p>

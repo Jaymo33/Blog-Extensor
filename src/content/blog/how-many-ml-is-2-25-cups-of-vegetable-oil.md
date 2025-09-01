@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.25 cups of vegetable oil equals approximately 532.32 millilitres (ml). This conversion is essential for precise air fryer cooking, ensuring your recipes turn out perfectly every time. Whether you’re frying, baking, or roasting, knowing the exact ml measurement helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can focus on creating delicious meals. Keep reading for more details on measuring vegetable oil and tips for air fryer success.</p>

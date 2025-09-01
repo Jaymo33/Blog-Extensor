@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of whipping cream is approximately 75 grams (g). This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you’re whipping up a dessert or adding richness to a dish, knowing the exact grams ensures perfect results every time.</p>  

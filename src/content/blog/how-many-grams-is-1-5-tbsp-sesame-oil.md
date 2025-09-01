@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons (tbsp) of sesame oil equals approximately 20.25 grams. This conversion is essential for precise cooking, especially when using an air fryer where exact measurements can make a big difference in texture and flavour. Whether you’re whipping up a stir-fry or marinating chicken, knowing the weight of sesame oil ensures consistency in your dishes. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

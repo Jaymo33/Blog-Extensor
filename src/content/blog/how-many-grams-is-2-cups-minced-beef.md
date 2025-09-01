@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you're wondering how many grams is 2.0 cups of minced beef, the answer is approximately 450 grams. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect results. Whether you're making burgers, meatballs, or a hearty chilli, knowing the exact weight saves time and avoids guesswork. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

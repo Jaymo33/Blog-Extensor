@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of chopped walnuts equals approximately 5 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're baking walnut cookies or adding crunch to a dish, knowing the weight helps maintain consistency. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

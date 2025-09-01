@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of milk is roughly 1.25 cups in the UK and 1.27 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a cake or a creamy sauce, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless so you can focus on creating delicious meals.</p>  

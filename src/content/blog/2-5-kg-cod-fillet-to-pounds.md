@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 kg of cod fillet is equal to approximately 5.51 pounds, a crucial conversion for anyone using an air fryer to cook this delicious and versatile fish. Getting your weights accurate ensures your cooking times are perfect and your results are consistently excellent, whether you're following a specific recipe or experimenting with your own creations. This conversion is particularly useful when dealing with larger fillets or batch cooking, where precision really matters for even cooking throughout. Many air fryer recipes, especially those on resources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, provide guidance based on weight, making this knowledge invaluable. Understanding how to convert 2.5 kg cod fillet to pounds empowers you to tackle any recipe with confidence.</p>

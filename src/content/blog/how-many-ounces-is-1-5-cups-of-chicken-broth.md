@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of chicken broth equals 12 fluid ounces (or approximately 340 grams by weight). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're preparing soups, stews, or marinades, knowing this conversion ensures your dishes turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15 grams of onion equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and flavour. Whether you’re making crispy onion toppings or adding them to a stir-fry, knowing this conversion helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with clear measurements and easy-to-follow guides.</p>

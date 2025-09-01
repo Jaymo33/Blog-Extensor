@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of soy sauce equals approximately 0.88 ounces. This conversion is handy for air fryer recipes where precision matters, especially when marinating meats or seasoning dishes. Whether you're whipping up a quick stir-fry or a flavourful glaze, knowing how to convert grams to ounces ensures your dish turns out just right. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of tomato ketchup equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, ensuring you get the right consistency and flavour. Whether you’re making glazes, marinades, or sauces, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with precise conversions.</p>  

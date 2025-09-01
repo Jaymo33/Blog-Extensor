@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of garlic paste equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for the best results. Whether you're making a marinade, sauce, or seasoning, knowing how to convert grams to ounces can make cooking simpler and more precise.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of lentils equals approximately 1 ounce. This conversion is handy for air fryer recipes where precise measurements ensure perfect results every time. Whether you're meal prepping or whipping up a quick dish, knowing how many ounces are in 0.125 cup of lentils can save you time and hassle. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love making cooking simpler with accurate conversions and delicious recipes.</p>  

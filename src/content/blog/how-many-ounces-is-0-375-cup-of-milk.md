@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of milk equals 3 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up a cake or preparing a creamy sauce, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when converting between cups and ounces.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of honey is roughly equivalent to 1.5 cups in both UK and US measurements. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Honey’s density can vary slightly, but this measurement is a reliable starting point for most culinary needs. Whether you’re whipping up a cake or glazing chicken in your air fryer, knowing how many cups 500 grams of honey equals ensures consistent results. For more air fryer recipe ideas, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

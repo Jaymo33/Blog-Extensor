@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of vinegar is approximately 0.68 cups in the UK and 0.67 cups in the US. This conversion is essential for precise cooking and baking, especially when using an air fryer. Whether you're marinating chicken or preparing a tangy glaze, knowing how to measure vinegar correctly ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify kitchen measurements so you can focus on creating delicious meals.</p>  

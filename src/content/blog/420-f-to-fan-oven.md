@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>420 F converts to approximately 200 C in a fan oven. This is the standard conversion for most air fryer recipes requiring high-heat cooking. Whether you're roasting vegetables or crisping up chicken wings, this temperature delivers excellent results in modern fan-assisted ovens.</p>

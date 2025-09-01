@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of balsamic vinegar equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you're marinating chicken or drizzling over roasted vegetables, accurate measurements make all the difference.</p>

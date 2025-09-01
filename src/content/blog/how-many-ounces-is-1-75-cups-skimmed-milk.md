@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of skimmed milk equals approximately 14 ounces. This conversion is essential for accurate measurements, especially when preparing air fryer recipes that require precision. Whether you're whipping up a creamy dessert or a savoury dish, knowing the exact weight ensures perfect results every time.</p>

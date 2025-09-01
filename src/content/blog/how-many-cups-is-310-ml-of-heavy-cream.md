@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>310 ml of heavy cream is approximately 1.31 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact measurement ensures perfect results every time.</p>

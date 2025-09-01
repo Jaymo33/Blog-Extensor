@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of condensed milk equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking a cake or making a sweet glaze, knowing how to convert grams to ounces ensures perfect results every time.</p>

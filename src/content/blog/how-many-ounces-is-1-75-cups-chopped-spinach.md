@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of chopped spinach equals approximately 3.5 ounces (oz). Whether you're prepping for an air fryer recipe or just need accurate measurements, this conversion ensures your dishes turn out perfectly every time. Spinach is a versatile ingredient, especially in air fryer meals, so knowing its weight helps with portioning and cooking consistency.</p>  

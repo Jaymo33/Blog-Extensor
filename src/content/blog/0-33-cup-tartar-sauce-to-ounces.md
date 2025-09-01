@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of tartar sauce equals approximately 2.64 ounces. This conversion is handy when preparing air fryer recipes that require precise measurements for the best results. Whether you're whipping up crispy fish or chicken tenders, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

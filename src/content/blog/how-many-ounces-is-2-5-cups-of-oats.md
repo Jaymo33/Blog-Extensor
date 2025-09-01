@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of oats equals approximately 10 ounces. This conversion is essential for anyone using precise measurements in air fryer recipes, ensuring consistent results every time. Whether you're making overnight oats, granola, or baked goods, knowing how to convert cups to ounces can make your cooking experience smoother.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of almond milk equals approximately 16 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements matter. Whether you’re whipping up a creamy sauce or baking a dairy-free dessert, knowing the exact weight ensures perfect results every time.</p>  

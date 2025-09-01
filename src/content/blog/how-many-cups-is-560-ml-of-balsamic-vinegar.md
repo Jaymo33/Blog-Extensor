@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>560 ml of balsamic vinegar is approximately 2.37 cups in US measurements or 2.46 cups in UK measurements. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer for glazes or marinades. Whether you're preparing a tangy balsamic reduction or a salad dressing, knowing how many cups 560 ml of balsamic vinegar equals ensures consistency. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

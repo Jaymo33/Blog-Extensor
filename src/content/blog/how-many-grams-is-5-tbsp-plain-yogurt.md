@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of plain yogurt is approximately 75 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a marinade or baking a yogurt-based cake, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

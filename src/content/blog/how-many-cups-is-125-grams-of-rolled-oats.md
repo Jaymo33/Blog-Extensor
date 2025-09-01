@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125 grams of rolled oats equals approximately 1.25 cups when measured correctly. This conversion is essential for anyone using rolled oats in baking or air frying, as precise measurements ensure consistent results. Whether you're making overnight oats, granola, or adding them to your air fryer recipes, knowing how to convert grams to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with versatile ingredients like rolled oats.</p>

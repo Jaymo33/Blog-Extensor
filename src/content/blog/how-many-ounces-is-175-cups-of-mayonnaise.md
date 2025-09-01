@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of mayonnaise equals approximately 14 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a creamy dip or a rich sauce, knowing how many ounces are in 1.75 cups of mayonnaise can make all the difference.</p>

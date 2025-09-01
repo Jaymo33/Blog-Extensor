@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of Nutella equals approximately 1.41 ounces. This conversion is essential for anyone using an air fryer to create delicious desserts or snacks with precise measurements. Whether you’re making Nutella-stuffed pastries or drizzling it over air-fried bananas, knowing the exact weight ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

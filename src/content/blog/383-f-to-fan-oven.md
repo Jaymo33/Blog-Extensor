@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>383 F converts to approximately 195 C in a fan oven. This temperature is commonly used for baking, roasting, and air frying, offering even heat distribution for consistent results. When using your air fryer, understanding these conversions ensures your recipes turn out perfectly every time.</p>

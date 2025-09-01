@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>252°F converts to Gas Mark 1/2 (½) in UK ovens and air fryers. This precise conversion helps when adapting recipes between different cooking appliances, especially when using an air fryer for traditional oven dishes. At airfryerrecipe.co.uk, we specialise in making these temperature conversions simple for home cooks.</p>

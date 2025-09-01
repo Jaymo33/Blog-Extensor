@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of flour equals approximately 6.6 ounces (187 grams) when using standard UK measurements. This conversion is essential for baking and air frying, where precision matters. Whether you're making air fryer cakes or breaded chicken, accurate flour measurements ensure consistent results every time.</p>

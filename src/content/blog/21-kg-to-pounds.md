@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>21 kg equals approximately 46.3 pounds, making it a substantial weight that often comes up when dealing with larger food portions or bulk ingredients. This conversion is particularly useful for air fryer users who might be cooking for gatherings or meal prepping in larger quantities. Understanding how to convert between metric and imperial measurements ensures you can follow any recipe with confidence, whether it's from a British source or international cuisine. Having this knowledge at your fingertips means you'll never be caught out when scaling recipes up or down. For more helpful conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> available on our website.</p>

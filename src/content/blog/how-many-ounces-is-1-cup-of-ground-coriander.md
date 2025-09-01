@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of ground coriander equals approximately 3.5 ounces (or 3.5 oz). This measurement is essential for air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you're making spiced chicken, roasted vegetables, or a fragrant curry, accurate measurements make all the difference.</p>

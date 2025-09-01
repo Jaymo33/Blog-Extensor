@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of buttermilk equals approximately 10 fluid ounces (or 10 oz) in the UK. This conversion is essential for air fryer recipes, where precision ensures the best results. Whether you’re making fluffy pancakes or crispy fried chicken, knowing how to convert cups to ounces helps you nail the recipe every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking simpler, and accurate measurements are a big part of that. Let’s dive deeper into why this conversion matters and how to use it in your air fryer.</p>  

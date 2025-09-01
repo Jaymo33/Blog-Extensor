@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>454 degrees Fahrenheit converts to Gas Mark 8 in UK ovens and air fryers. This high temperature is perfect for baking, roasting meats, or creating crispy textures in your air fryer. Many British recipes use Gas Mark rather than Fahrenheit, making this conversion essential for home cooks.</p>

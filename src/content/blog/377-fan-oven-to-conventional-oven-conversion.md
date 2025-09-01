@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 377°F in a fan oven to a conventional oven is straightforward: simply reduce the temperature by 20°F, making it 357°F. This adjustment accounts for the efficient heat distribution in fan-assisted ovens, ensuring your dishes cook evenly without burning. Whether you're baking, roasting, or reheating, this conversion ensures consistent results. For air fryer users, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> to adapt recipes seamlessly.</p>  

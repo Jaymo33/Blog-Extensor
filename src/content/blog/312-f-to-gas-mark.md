@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>312 F converts to Gas Mark 2. This temperature is commonly used for slow baking, roasting, and dehydrating in both conventional ovens and air fryers. Understanding this conversion helps when following recipes or adjusting cooking times for different appliances.</p>

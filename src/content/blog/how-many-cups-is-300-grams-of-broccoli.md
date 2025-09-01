@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of broccoli is roughly equivalent to 3 to 3.5 cups when chopped, depending on how finely it's cut. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you're prepping a stir-fry, roasting florets, or adding broccoli to a casserole, knowing this conversion ensures consistent results every time. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

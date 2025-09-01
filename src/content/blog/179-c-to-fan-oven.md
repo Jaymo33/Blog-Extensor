@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>179 C in a fan oven is equivalent to approximately 160 C in a conventional oven without the fan. This temperature adjustment ensures even cooking in air fryers and convection ovens, which circulate hot air for faster, crispier results. Whether you're baking, roasting, or reheating, understanding this conversion helps achieve restaurant-quality dishes at home. For more air fryer temperature guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>.</p>  

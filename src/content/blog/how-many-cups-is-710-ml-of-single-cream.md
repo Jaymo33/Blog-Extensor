@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of single cream is approximately 3 cups in standard UK and US measurements. Whether you're whipping up a creamy sauce or baking a delicious dessert, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for air fryer cooking.</p>

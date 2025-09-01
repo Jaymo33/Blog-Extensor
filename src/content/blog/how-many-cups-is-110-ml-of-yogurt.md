@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110 ml of yogurt is approximately 0.46 cups (US) or 0.44 cups (UK). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a cake or a creamy dip, knowing how to convert 110 ml of yogurt to cups ensures your recipes turn out perfectly every time.</p>  

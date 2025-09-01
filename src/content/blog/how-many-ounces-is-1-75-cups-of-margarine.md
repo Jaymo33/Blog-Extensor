@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of margarine equals 14 ounces (or 396 grams) in the UK. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you’re whipping up cakes, cookies, or savoury dishes, knowing how to convert cups to ounces helps avoid kitchen mishaps. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of molasses equals approximately 0.53 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a sticky dessert or a savoury glaze, knowing the exact weight ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on creating delicious meals. Let’s dive deeper into how to measure molasses accurately for your recipes.</p>

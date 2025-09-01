@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>161°C in a fan oven converts to approximately 180°C in a conventional oven. This simple conversion ensures your recipes turn out perfectly, whether you're using a fan-assisted or traditional oven. Understanding this difference is key to achieving consistent results in your cooking and baking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of single cream equals approximately 3 ounces (3 oz). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert cups to ounces helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to make your cooking effortless.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 F converts to approximately 232 C in a fan oven, which is the standard setting for high-heat roasting and air frying. This temperature is ideal for achieving crispy textures while ensuring even cooking throughout. Whether you're adapting an American recipe or fine-tuning your air fryer settings, understanding this conversion is key to kitchen success.</p>

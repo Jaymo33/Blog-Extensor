@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>46.25 kilograms is equal to approximately 101.94 pounds. Knowing how to convert weights like 46.25 kg to pounds is incredibly useful when you're preparing ingredients for your air fryer, especially if you're following recipes that use imperial measurements. Whether you're portioning meat, vegetables, or frozen goods, getting the weight right ensures even cooking and perfect results every time. At airfryerrecipe.co.uk, we believe that accurate conversions are the secret to stress-free cooking. Let's dive deeper into why this conversion matters and how you can use it in your kitchen.</p>

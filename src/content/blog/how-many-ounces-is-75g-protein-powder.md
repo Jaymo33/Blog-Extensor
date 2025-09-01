@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75g of protein powder equals approximately 2.65 ounces. This conversion is essential for anyone using protein powder in recipes, especially when preparing meals for your air fryer. Whether you're making protein pancakes, shakes, or baked goods, accurate measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters in cooking, so let’s break it down further.</p>  

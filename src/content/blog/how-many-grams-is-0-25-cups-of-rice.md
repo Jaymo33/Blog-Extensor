@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of rice equals approximately 50 grams. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're preparing a small batch or adjusting a recipe, knowing how many grams 0.25 cups of rice weighs ensures consistent results every time.</p>  

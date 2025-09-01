@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>369°F converts to approximately 170°C in a fan oven. This conversion is essential for UK cooks using American recipes or air fryer settings. The difference comes from how fan ovens circulate heat more efficiently than conventional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home chefs.</p>

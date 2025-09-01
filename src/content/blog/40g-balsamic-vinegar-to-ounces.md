@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of balsamic vinegar equals approximately 1.41 ounces. This precise conversion helps you measure ingredients accurately for air fryer recipes, ensuring perfect flavour balance in marinades, glazes and dressings.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of butter is equivalent to approximately 170 grams. This conversion is essential for baking and cooking, especially when using an air fryer, where precision matters. Whether you're whipping up cakes or preparing savoury dishes, knowing how many grams 0.75 cups of butter weighs ensures consistent results. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

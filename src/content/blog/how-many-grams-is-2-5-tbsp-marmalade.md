@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of marmalade equals approximately 37.5 grams (g). This conversion is essential for precise air fryer cooking, ensuring your recipes turn out perfectly every time. Whether you’re making glazes, desserts, or sauces, accurate measurements make all the difference.</p>

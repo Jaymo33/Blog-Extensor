@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of rolled oats equals approximately 5.29 ounces. This conversion is essential for anyone using UK recipes or air fryer meal prep, where precise measurements matter. Whether you're making overnight oats, granola bars, or air fryer-friendly baked goods, knowing how to convert grams to ounces ensures consistent results.</p>

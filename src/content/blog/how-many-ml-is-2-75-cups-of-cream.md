@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.75 cups of cream equals approximately 650 ml in the UK and 651 ml in the US. This slight difference is due to the variation in cup sizes between the two regions. Whether you're whipping up a dessert or a creamy sauce in your air fryer, getting the measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for air fryer cooking, so let’s break it down.</p>  

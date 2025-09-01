@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 kg of cod fillet equals approximately 6.61 pounds, making it essential knowledge for air fryer cooking where precise portions matter. Whether you're meal prepping or cooking for a crowd, understanding this conversion ensures your fish cooks evenly and comes out perfectly flaky. Many air fryer recipes use pound measurements, so converting 3 kg cod fillet to pounds helps you follow instructions accurately. This is particularly useful when you're working with larger batches or buying fish from markets that use metric measurements. Getting this right means your cod will be deliciously tender and never overcooked.</p>

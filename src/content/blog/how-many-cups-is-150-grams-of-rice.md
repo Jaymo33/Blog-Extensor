@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150 grams of rice equals approximately 0.75 cups in the UK or 0.63 cups in the US when measured uncooked and loosely packed. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're meal prepping, baking, or cooking a rice-based dish in your air fryer, knowing how many cups is 150 grams of rice ensures consistent results every time.</p>

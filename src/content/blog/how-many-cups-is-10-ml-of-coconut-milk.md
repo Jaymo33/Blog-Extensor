@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of coconut milk is approximately 0.042 cups (or roughly 1/24 of a cup). This small measurement is often used in air fryer recipes for sauces, marinades, or light coatings. Precise conversions like this ensure your dishes turn out perfectly every time. If you're using an air fryer, even slight measurement differences can affect texture and cooking time. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference.</p>  

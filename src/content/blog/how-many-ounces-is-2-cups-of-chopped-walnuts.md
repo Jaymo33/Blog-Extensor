@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of chopped walnuts weigh approximately 8 ounces (227 grams). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking walnut cookies or adding crunch to a salad, knowing the weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions.</p>  

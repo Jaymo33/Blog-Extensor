@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250 F converts to approximately 120 C in a fan oven. This is a common temperature used for slow cooking, dehydrating, or keeping dishes warm. When using an air fryer, you'll often find recipes calling for 250 F, especially for delicate foods that need gentle heat.</p>

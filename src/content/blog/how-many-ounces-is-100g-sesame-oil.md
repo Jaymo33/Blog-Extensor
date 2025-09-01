@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of sesame oil is approximately 3.53 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you’re drizzling sesame oil over crispy vegetables or using it to marinate chicken, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with flavorful oils like sesame.</p>

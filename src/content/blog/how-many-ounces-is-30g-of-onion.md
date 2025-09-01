@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30g of onion is approximately 1.06 ounces, a handy measurement for air fryer recipes. Whether you're prepping a stir-fry or adding onions to a dish, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail those precise measurements for perfect results every time.</p>

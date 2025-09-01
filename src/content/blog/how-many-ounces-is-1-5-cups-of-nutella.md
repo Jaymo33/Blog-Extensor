@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of Nutella equals approximately 12 ounces (340 grams) in UK measurements. This conversion is essential for air fryer recipes where precise measurements matter. Whether you're making Nutella brownies or stuffed pastries, knowing this conversion ensures perfect results every time.</p>

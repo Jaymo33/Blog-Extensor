@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of self-raising flour equals approximately 31 grams. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes, cookies, or savoury dishes, knowing the exact gram equivalent ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in baking, which is why we’ve put together this handy guide. Keep reading to learn more about converting cups to grams and why it matters for your air fryer creations.</p>

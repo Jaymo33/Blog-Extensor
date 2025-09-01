@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of cooked rice equals approximately 1.41 ounces. This conversion is essential for anyone using recipes that require precise measurements, especially when cooking with an air fryer. Whether you're meal prepping or following a dish from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a>, knowing this conversion ensures your portions are spot-on.</p>

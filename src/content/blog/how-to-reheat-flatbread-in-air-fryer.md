@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat flatbread in an air fryer, set the temperature to 160°C (320°F) and cook for 2-3 minutes. This gentle heat revives the texture without making it tough or chewy. Whether you're working with pita, naan, or tortillas, your air fryer can bring back that just-baked quality better than a microwave.</p>

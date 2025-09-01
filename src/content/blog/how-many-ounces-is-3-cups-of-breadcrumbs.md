@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of breadcrumbs weigh approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, where precise measurements ensure perfectly crispy results. Whether you're coating chicken, fish, or veggies, knowing the exact weight helps avoid soggy or uneven textures. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

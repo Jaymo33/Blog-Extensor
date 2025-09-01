@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of double cream equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce, a decadent dessert, or a rich topping, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can cook with confidence.</p>  

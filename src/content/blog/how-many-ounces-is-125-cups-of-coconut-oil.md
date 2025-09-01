@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.25 cups of coconut oil equals approximately 10 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up crispy fried chicken or baking a moist cake, knowing how to convert cups to ounces ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 kg of beef mince is equivalent to approximately 4.409 pounds, making it a common quantity for family meals and batch cooking. This conversion is essential when following recipes that use imperial measurements or when shopping for ingredients in regions that use pounds. Whether you're making burgers, meatballs, or a classic spaghetti bolognese, knowing how to convert 2 kg beef mince to pounds ensures accuracy and perfect results. Many air fryer recipes, especially those found on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, provide measurements in both metric and imperial units for convenience. Understanding this conversion helps you adapt recipes seamlessly and avoid measurement mishaps.</p>

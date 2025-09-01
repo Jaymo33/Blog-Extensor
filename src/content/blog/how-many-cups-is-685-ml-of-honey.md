@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>685 ml of honey is approximately 2.89 cups in the US measurement system and roughly 2.42 cups in the UK measurement system. This conversion is essential for baking, cooking, or even making sauces in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting measurements, knowing how to convert ml to cups ensures accuracy.</p>

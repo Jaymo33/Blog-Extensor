@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of breadcrumbs equals approximately 3.75 grams. This conversion is essential for air fryer recipes where precise measurements ensure crispy, even results. Whether you're making schnitzel, fish fillets, or stuffed mushrooms, knowing the exact weight of breadcrumbs can make all the difference.</p>

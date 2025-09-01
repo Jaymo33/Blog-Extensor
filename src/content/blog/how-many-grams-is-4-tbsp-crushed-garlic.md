@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons of crushed garlic equals approximately 48 grams. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up garlic-infused chicken or a flavourful vegetable stir-fry, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve restaurant-quality results at home. Keep reading for tips on measuring garlic and adapting recipes for your air fryer.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of soy sauce equals 6 fluid ounces (fl oz) or approximately 6.08 ounces by weight. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken, seasoning tofu, or whipping up a stir-fry, knowing the exact amount ensures balanced flavours. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

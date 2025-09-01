@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>960 ml of yogurt is approximately 4 cups in both UK and US measurements. This conversion is essential for baking, cooking, or meal prepping with yogurt in your air fryer. Whether you're making a creamy dessert or marinating chicken, accurate measurements ensure perfect results every time.</p>  

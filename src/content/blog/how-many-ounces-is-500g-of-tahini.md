@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of tahini equals approximately 17.64 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements. Whether you're making hummus, dressings, or marinades, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

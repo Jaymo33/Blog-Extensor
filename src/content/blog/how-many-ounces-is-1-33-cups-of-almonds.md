@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of almonds equals approximately 6.5 ounces (or 6.5 oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect results every time. Whether you're making almond-crusted chicken or a batch of homemade granola, knowing the weight of your ingredients matters.</p>  

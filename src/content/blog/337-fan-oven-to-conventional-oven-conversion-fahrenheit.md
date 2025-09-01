@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 337 fan oven to Fahrenheit for a conventional oven or air fryer is straightforward: it equals approximately 337°F. Fan ovens, also known as convection ovens, circulate hot air for even cooking, which often means you can reduce the temperature slightly compared to a traditional oven. However, when converting 337 fan oven to Fahrenheit, the temperature remains the same because fan ovens and conventional ovens use the same scale. This makes it easy to adapt recipes from your fan oven to your air fryer or standard oven.</p>

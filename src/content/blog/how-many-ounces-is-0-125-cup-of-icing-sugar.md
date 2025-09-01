@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of icing sugar equals approximately 0.5 ounces (or 14 grams) in UK measurements. This conversion is essential for air fryer baking, where precision ensures your desserts turn out perfectly. Whether you're making cakes, cookies, or glazes, knowing the exact weight of 0.125 cup of icing sugar helps avoid mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

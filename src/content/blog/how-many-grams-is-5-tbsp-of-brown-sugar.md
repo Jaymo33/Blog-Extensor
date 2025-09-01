@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of brown sugar weigh approximately 62.5 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're making cookies, cakes, or glazes, knowing the exact weight helps avoid kitchen mishaps.</p>

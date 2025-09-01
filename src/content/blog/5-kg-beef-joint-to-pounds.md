@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>A 5 kg beef joint equals approximately 11.02 pounds. This conversion is essential for anyone cooking a large cut of meat, especially when using an air fryer where precise weight affects cooking time and temperature. Knowing how to convert kilograms to pounds ensures your roast is perfectly cooked, whether you're following a recipe or experimenting with your own methods. It also helps with portion planning and understanding nutritional information. For more conversion tips, visit <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a>.</p>

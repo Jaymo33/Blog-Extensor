@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of ginger paste equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for the best results. Whether you're whipping up a marinade or adding flavour to your dishes, knowing how to convert grams to ounces is a kitchen must-have.</p>  

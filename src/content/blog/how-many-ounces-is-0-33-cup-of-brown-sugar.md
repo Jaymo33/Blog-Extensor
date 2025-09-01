@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of brown sugar equals approximately 2.64 ounces (oz). This conversion is essential for precise baking, especially when using an air fryer, where measurements can make or break a recipe. Whether you’re whipping up cookies or a cake, knowing how many ounces are in 0.33 cup of brown sugar ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions easy for home cooks. Keep reading for more details on measuring brown sugar and air fryer-friendly recipes.</p>  

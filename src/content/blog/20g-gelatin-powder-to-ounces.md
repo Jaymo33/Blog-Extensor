@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20g of gelatin powder equals approximately 0.71 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you’re making a creamy cheesecake or a fluffy mousse, knowing the exact weight ensures perfect texture and consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless results.</p>

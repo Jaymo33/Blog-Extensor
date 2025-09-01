@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put most metal objects in an air fryer due to fire risks and potential damage to the appliance. The intense circulating heat can cause arcing (sparks) with certain metals, while others may scratch non-stick coatings or block airflow. Always prioritise manufacturer guidelines over general advice.</p>

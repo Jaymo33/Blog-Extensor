@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>11.25 kg is equal to approximately 24.8 pounds, making it a useful conversion for those working with larger quantities in the kitchen. Whether you're meal prepping, buying in bulk, or scaling up a favourite recipe for your air fryer, understanding this conversion ensures accuracy and consistency. Many popular air fryer models have capacity limits described in pounds or kilograms, so knowing how to switch between the two is a practical skill. At airfryerrecipe.co.uk, we believe that confident measuring leads to better cooking outcomes every time. This conversion is especially handy when dealing with meat, vegetables, or frozen foods where precise weight matters.</p>

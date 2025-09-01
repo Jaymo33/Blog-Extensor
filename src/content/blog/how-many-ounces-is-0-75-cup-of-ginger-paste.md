@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of ginger paste equals approximately 6 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re making a marinade, sauce, or stir-fry, knowing how many ounces are in 0.75 cup of ginger paste helps you stay accurate. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions simple and stress-free. Ginger paste is a versatile ingredient, and getting the measurements right can elevate your dishes.</p>  

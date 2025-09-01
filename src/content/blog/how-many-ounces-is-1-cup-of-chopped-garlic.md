@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of chopped garlic equals approximately 4.8 ounces (or roughly 136 grams). This measurement is essential for air fryer recipes where precise ingredient quantities can make all the difference. Whether you're whipping up garlic-infused dishes or need accurate conversions for meal prep, knowing this weight ensures consistent results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of water equals approximately 0.57 cups (or just over half a cup) in standard US measurements. For UK cup measurements, it’s roughly 0.48 cups due to slight variations in cup sizes. Whether you’re preparing air fryer recipes or baking, knowing this conversion ensures accuracy in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen measurements so you can focus on creating delicious meals.</p>

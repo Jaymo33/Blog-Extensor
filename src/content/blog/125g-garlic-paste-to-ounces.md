@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of garlic paste is approximately 4.41 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for the best flavour and texture. Whether you're preparing a marinade, sauce, or rub, getting the quantities right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for perfect cooking results.</p>  

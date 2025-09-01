@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of icing sugar is approximately 40 grams. This conversion is essential for precise baking, especially when using an air fryer for desserts like cakes or cookies. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, accurate measurements ensure consistent results.</p>  

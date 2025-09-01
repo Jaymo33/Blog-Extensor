@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat potato gratin in an air fryer, set the temperature to 160°C (320°F) and cook for 6–8 minutes until piping hot. This method restores crispiness to the top layer while keeping the creamy interior intact. Whether you’re working with fridge-cold leftovers or day-old gratin, your air fryer delivers far better results than a microwave. For more inspiration, browse our <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> collection featuring potato classics.</p>

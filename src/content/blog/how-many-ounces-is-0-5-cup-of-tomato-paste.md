@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of tomato paste equals approximately 4.5 ounces (128 grams). This measurement is essential for air fryer recipes, ensuring the right consistency and flavour balance. Whether you’re making a rich pasta sauce or a marinade, knowing the exact weight helps avoid recipe mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to make cooking effortless. Keep reading for tips on measuring tomato paste and adapting recipes for your air fryer.</p>  

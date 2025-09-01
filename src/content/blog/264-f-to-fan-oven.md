@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>264°F converts to approximately 130°C in a fan oven. This temperature is commonly used for slow roasting or dehydrating in air fryers and convection ovens. Understanding these conversions helps when adapting recipes between different cooking appliances.</p>

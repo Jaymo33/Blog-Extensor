@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>20 grams of rapeseed oil equals approximately 0.71 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference in texture and flavour. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert grams to ounces ensures accuracy.</p>

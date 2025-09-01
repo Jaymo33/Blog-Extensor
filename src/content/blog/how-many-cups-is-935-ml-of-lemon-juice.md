@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of lemon juice is equal to approximately 3.95 cups. This conversion is essential for air fryer recipes, baking, or any cooking that requires precise measurements. Whether you're using UK or US cup measurements, this guide ensures accuracy for your culinary needs.</p>

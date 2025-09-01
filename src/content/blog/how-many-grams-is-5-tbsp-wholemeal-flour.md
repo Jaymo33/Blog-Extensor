@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of wholemeal flour weigh approximately 40 grams. This conversion is essential for precise baking, especially when using an air fryer for recipes like muffins or bread. Understanding these measurements ensures consistency and perfect results every time.</p>  

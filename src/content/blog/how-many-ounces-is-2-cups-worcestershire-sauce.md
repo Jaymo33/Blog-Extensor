@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of worcestershire sauce equals approximately 16 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're marinating meats or whipping up a sauce, knowing the exact weight ensures consistent results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>No, you should not put baking steel in an air fryer. Baking steel is designed for conventional ovens and can disrupt airflow, damage the basket, or even pose fire risks in compact air fryers. While some might experiment with thin steel plates, most manufacturers explicitly warn against it due to safety concerns and potential voiding of warranties.</p>  

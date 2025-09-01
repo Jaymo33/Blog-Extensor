@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of cottage cheese equals approximately 6 ounces. This measurement is crucial for getting the right consistency in your air fryer dishes, whether you're making crispy cottage cheese bites or incorporating it into a recipe. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, so let’s break it down further.</p>  

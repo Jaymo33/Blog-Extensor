@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of corn syrup equals approximately 3 cups in both UK and US measurements. This conversion is essential for air fryer recipes that require precise measurements to achieve the perfect texture and consistency. Whether you're making sticky desserts or glazes, knowing how to convert 710 ml of corn syrup to cups ensures your dishes turn out just right.</p>  

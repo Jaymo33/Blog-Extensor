@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams (30g) of baking soda equals approximately 1.06 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your baked goods rise perfectly or your cleaning solutions work effectively. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or adjusting measurements, knowing how to convert grams to ounces is a handy skill.</p>  

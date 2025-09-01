@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>885 ml of honey is approximately 3.7 cups in the US measurement system and roughly 3.1 cups in the UK measurement system. Whether you're baking a cake or glazing chicken in your air fryer, getting the measurements right is crucial for the perfect result. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for hassle-free cooking.</p>

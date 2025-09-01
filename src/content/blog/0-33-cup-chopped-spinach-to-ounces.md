@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of chopped spinach equals approximately 0.8 ounces (or roughly 23 grams). This measurement is handy for air fryer recipes, ensuring you get the perfect portion every time. Whether you’re whipping up a quick side dish or adding greens to your meal prep, knowing this conversion saves time and hassle.</p>

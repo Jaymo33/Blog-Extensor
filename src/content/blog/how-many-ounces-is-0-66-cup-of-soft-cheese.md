@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of soft cheese is equivalent to approximately 5.28 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're making a creamy dip, a stuffed chicken breast, or a decadent dessert, knowing the exact weight ensures consistent results. Using a digital kitchen scale is the most accurate method for measuring ingredients like soft cheese. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

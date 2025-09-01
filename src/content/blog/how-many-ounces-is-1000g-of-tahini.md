@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of tahini equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're whipping up hummus, dressings, or marinades, knowing how to convert grams to ounces makes cooking seamless. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master measurements for flawless dishes every time.</p>

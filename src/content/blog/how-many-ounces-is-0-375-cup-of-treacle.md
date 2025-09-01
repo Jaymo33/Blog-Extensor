@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of treacle equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking sticky toffee pudding or glazing meats, knowing the exact weight ensures consistency. Treacle, a thick syrup, varies slightly in density, but this measurement is a reliable standard. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

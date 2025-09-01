@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>134 C converts to approximately 120 C in a fan oven. This 10-20 degree reduction is standard when converting conventional oven temperatures to fan-assisted settings. Whether you're baking, roasting, or using your air fryer, understanding this conversion ensures perfectly cooked dishes every time.</p>

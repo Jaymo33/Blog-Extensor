@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>375 grams of cream is roughly equivalent to 1.6 cups in the UK or 1.5 cups in the US. This conversion is essential for baking, cooking, or even making air fryer desserts where precision matters. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting measurements on the fly, knowing how to convert grams to cups ensures your dishes turn out perfectly every time.</p>

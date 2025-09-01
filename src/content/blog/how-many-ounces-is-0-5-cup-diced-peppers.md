@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of diced peppers weighs approximately 2.5 ounces (70 grams). This measurement is essential for air fryer recipes, ensuring precise cooking times and consistent results. Whether you're making stuffed peppers, fajitas, or a veggie stir-fry, knowing the weight helps you portion ingredients correctly. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

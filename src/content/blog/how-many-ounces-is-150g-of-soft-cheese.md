@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of soft cheese equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re making a creamy dip or a baked cheesecake, knowing how to convert grams to ounces helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for flawless results.</p>  

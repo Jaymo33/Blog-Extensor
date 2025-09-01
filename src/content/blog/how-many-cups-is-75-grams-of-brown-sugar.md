@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of brown sugar is roughly equivalent to 0.38 cups (or just over 1/3 cup) when lightly packed. This measurement is crucial for baking, especially when using an air fryer, where precise ingredient ratios can make or break your recipe. Whether you're whipping up cookies, cakes, or glazes, knowing how to convert 75 grams of brown sugar to cups ensures consistent results every time.</p>

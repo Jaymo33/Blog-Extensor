@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>40g of cocoa powder is approximately 1.41 ounces. Whether you're baking a cake or preparing a chocolatey air fryer dessert, getting the measurements right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate conversions are for your recipes.</p>  

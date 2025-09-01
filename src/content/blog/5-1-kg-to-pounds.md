@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5.1 kilograms is equal to approximately 11.24 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging use different measurement systems. Whether you're portioning meat, buying vegetables, or following an international recipe, knowing how to convert 5.1 kg to pounds ensures you get the quantities just right. Accurate measurements lead to better cooking results and perfectly sized meals for your household. Trusted resources like <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> often provide conversion charts to make this process effortless.</p>

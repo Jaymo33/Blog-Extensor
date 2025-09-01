@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of plain flour equals approximately 20 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're baking cakes or coating chicken, knowing how many grams are in 2.5 tbsp of plain flour helps avoid kitchen mishaps.</p>  

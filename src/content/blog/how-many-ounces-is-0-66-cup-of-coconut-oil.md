@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of coconut oil equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can affect texture and cooking times. Whether you’re making crispy roasted vegetables or a decadent dessert, knowing the exact weight ensures consistent results every time.</p>

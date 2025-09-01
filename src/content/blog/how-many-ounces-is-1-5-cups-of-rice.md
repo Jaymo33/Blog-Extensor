@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of uncooked, long-grain white rice weighs approximately 10.5 ounces. This conversion is essential for anyone using an air fryer to prepare perfect rice dishes, as accurate measurements ensure even cooking and fantastic texture. Whether you are making a simple side or a more complex recipe, knowing the weight takes the guesswork out of your meal prep. This guide will help you understand this common measurement and how to apply it for the best air fryer results. For more handy conversions, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

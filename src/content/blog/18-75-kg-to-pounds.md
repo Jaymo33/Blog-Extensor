@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>18.75 kilograms is equal to approximately 41.34 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when buying ingredients in bulk. Knowing how to convert 18.75 kg to pounds ensures you use the correct quantities for your air fryer basket, avoiding overcrowding and promoting even cooking. Whether you're meal prepping or scaling a recipe, this conversion helps maintain cooking quality and efficiency. Accurate measurements like 18.75 kg to pounds are the foundation of successful air frying.</p>

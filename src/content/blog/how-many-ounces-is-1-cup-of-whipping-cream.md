@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of whipping cream equals approximately 8.11 ounces in UK measurements. This conversion is essential for air fryer recipes and baking, ensuring precise results every time. Whether you're making desserts or savoury dishes, knowing the exact weight helps avoid mistakes. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

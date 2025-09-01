@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of Greek yogurt is approximately 75 grams. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making dips, marinades, or baked goods, knowing the exact weight ensures consistent results. Greek yogurt is a versatile ingredient, and getting the measurements right can make all the difference in your cooking. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

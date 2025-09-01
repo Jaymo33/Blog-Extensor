@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.33 cup of milk equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can affect the outcome of your dish. Whether you’re making a creamy sauce or a fluffy cake, knowing how many ounces are in 0.33 cup of milk ensures consistency and perfection.</p>

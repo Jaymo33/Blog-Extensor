@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of cornflour equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or coating ingredients. Whether you're making crispy fried chicken or light, fluffy cakes, knowing how to convert grams to ounces ensures consistent results every time.</p>  

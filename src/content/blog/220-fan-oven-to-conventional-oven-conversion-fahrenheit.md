@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>220 fan oven equals approximately 200°C or 392°F in a conventional oven. This conversion is essential for recipes that specify fan oven temperatures but need adapting for traditional ovens. Understanding this difference ensures your dishes cook evenly and turn out perfectly every time.</p>

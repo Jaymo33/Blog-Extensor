@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of half and half equals approximately 0.57 cups (US) or 0.48 cups (UK). This conversion is essential for air fryer recipes where precision matters. Whether you're making creamy sauces, desserts, or baked goods, knowing how to measure half and half correctly ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks.</p>  

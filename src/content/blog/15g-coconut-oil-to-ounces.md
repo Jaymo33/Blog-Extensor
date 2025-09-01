@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of coconut oil equals approximately 0.53 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference to your recipes. Whether you're baking, frying or roasting, knowing how to convert grams to ounces ensures consistent results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>235 ml of lemon juice equals approximately 1 cup in US measurements and just under 1 cup (0.98 cups) in UK measurements. This conversion is essential for recipes requiring precise amounts of lemon juice, especially in baking or air fryer cooking where accuracy matters. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert 235 ml of lemon juice to cups ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of soft cheese weigh approximately 30 grams. This measurement is handy for air fryer recipes where precision ensures the best texture and flavour. Whether you're making creamy dips, stuffed mushrooms, or cheesy sauces, knowing the exact weight helps avoid over or under-measuring. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

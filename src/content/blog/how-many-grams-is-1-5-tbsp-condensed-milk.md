@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 tablespoons of condensed milk equals approximately 30 grams. This conversion is essential for air fryer recipes where precision matters, especially in baking or dessert-making. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with accurate measurements.</p>  

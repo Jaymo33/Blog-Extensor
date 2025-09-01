@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>185 ml of single cream is approximately 0.78 cups. This conversion is essential for anyone using single cream in recipes, especially when working with air fryers where precise measurements matter. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of cottage cheese equals approximately 4 ounces. This measurement is crucial when preparing air fryer recipes that require precise ingredient quantities for perfect results. Whether you're making a cheesy breakfast bake or a protein-packed snack, knowing this conversion ensures consistency in your cooking.</p>

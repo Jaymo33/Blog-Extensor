@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>360 ml of olive oil is approximately 1.52 cups. This conversion is essential for air fryer recipes, where precise measurements ensure the best results. Whether you're baking, frying, or drizzling, knowing how to convert millilitres to cups makes cooking easier. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions so you can focus on creating delicious meals.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of cocoa powder equals approximately 0.35 ounces. This conversion is handy when you're using an air fryer for baking, as precise measurements can make all the difference. Whether you're whipping up brownies or a chocolate cake, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>

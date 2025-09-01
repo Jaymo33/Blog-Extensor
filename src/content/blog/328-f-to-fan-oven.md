@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>328 F converts to approximately 160 C in a fan oven. This temperature is ideal for many air fryer recipes that require moderate heat for even cooking. Whether you're adapting an American recipe or troubleshooting your air fryer settings, understanding this conversion is key to kitchen success.</p>

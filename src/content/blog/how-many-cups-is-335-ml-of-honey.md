@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of honey equals approximately 1.42 cups in US measurements or 1.18 cups in UK measurements. Whether you're baking honey-glazed chicken in your air fryer or whipping up a dessert, knowing this conversion ensures accuracy. Honey's thickness can make measuring tricky, but we'll simplify it for you.</p>

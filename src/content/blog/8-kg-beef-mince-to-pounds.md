@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>8 kg of beef mince is equal to approximately 17.64 pounds. This conversion is essential for anyone using recipes that specify weights in pounds, especially when preparing large batches of food in your air fryer. Whether you're making burgers, meatballs, or a hearty bolognese, knowing how to convert 8 kg beef mince to pounds ensures you get the portions just right. Accurate measurements help achieve consistent cooking results and perfect texture every time. For more handy conversion tools, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

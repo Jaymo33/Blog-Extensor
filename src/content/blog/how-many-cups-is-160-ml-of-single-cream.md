@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of single cream is approximately 0.68 cups in the UK and 0.67 cups in the US. This conversion is essential for baking, cooking, and air fryer recipes where precision matters. Whether you're whipping up a creamy sauce or a decadent dessert, knowing the exact measurement ensures your dish turns out perfectly.</p>

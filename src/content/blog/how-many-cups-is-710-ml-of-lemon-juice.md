@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>710 ml of lemon juice is approximately 3 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert 710 ml of lemon juice to cups ensures your dish turns out perfectly every time.</p>

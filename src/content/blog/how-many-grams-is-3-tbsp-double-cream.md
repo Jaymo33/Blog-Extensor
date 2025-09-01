@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 tablespoons (tbsp) of double cream equals approximately 45 grams (g). This conversion is essential for air fryer recipes where precision matters, whether you're whipping up a creamy sauce or baking a rich dessert. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements can make or break a dish, so let’s dive deeper into how to measure double cream correctly.</p>  

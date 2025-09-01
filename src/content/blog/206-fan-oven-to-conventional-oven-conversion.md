@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>206°C in a fan oven converts to approximately 180°C in a conventional oven. This 20-25°C reduction is standard when switching between fan and traditional ovens. Understanding this conversion ensures your recipes turn out perfectly, whether you're baking cakes or roasting meats.</p>

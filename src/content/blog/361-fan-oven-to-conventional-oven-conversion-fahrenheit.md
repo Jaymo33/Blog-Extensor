@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>361 fan oven converts to approximately 325°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, ensuring your recipes turn out just right. Whether you're baking, roasting, or air frying, understanding this conversion is key to perfect results.</p>

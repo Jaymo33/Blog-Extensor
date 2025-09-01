@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of minced onion equals approximately 12 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're making onion rings, stir-fries, or casseroles, knowing the weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking easier with accurate conversions and delicious recipes.</p>  

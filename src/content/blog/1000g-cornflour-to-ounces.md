@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of cornflour equals approximately 35.27 ounces. This conversion is essential for anyone using an air fryer, especially when following recipes that require precise measurements. Whether you're baking or coating ingredients, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>  

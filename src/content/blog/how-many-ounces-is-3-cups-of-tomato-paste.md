@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of tomato paste equals approximately 24 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're making a rich pasta sauce or a hearty stew, knowing how many ounces are in 3 cups of tomato paste ensures your dish turns out perfectly every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

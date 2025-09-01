@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of cream cheese equals approximately 7.05 ounces. This conversion is essential for UK bakers who follow recipes using both metric and imperial measurements. Whether you're preparing a New York cheesecake in your air fryer or whipping up a creamy frosting, knowing this conversion ensures perfect results every time.</p>

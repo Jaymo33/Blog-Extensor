@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>31.75 kg is equal to 70 pounds exactly, making it a straightforward conversion for anyone using imperial measurements in the kitchen. This conversion is especially useful when you're preparing larger batches of food or working with recipes that list ingredients in pounds rather than kilograms. Whether you're meal prepping for the family or stocking up on frozen goods for your air fryer, knowing how to convert 31.75 kg to pounds ensures you get your quantities spot on. Many popular air fryer recipes, especially those for meats or vegetables, benefit from precise weight measurements for even cooking and perfect results. Bookmark <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> for more handy conversion tips and delicious ideas.</p>

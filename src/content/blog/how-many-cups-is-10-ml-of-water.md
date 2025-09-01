@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10 ml of water equals approximately 0.042 cups. This precise conversion is essential for air fryer recipes where accurate measurements can make or break your dish. Whether you're preparing a sauce or adjusting liquid ingredients, knowing how many cups is 10 ml of water ensures perfect results every time.</p>

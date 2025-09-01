@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.75 cups of tomato sauce equals approximately 887.21 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can affect texture and flavour. Whether you're making a rich pasta sauce or a hearty stew, knowing the exact ml equivalent ensures consistent results every time.</p>

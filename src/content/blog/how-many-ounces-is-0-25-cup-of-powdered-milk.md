@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of powdered milk equals approximately 0.7 ounces (20 grams). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a creamy sauce or baking a cake, knowing how many ounces are in 0.25 cup of powdered milk ensures consistency.</p>

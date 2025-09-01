@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>17.5 kg is equal to 38.58 pounds, a conversion that comes in handy for everything from portioning large cuts of meat to understanding food packaging weights. Whether you're meal prepping for the family or tackling a big batch of air fryer favourites, getting your measurements right is the first step to cooking success. Many recipes, especially those from American sources or older British cookbooks, use pounds instead of kilograms, so knowing how to switch between them is a useful kitchen skill. This particular weight, 17.5 kg, might represent a whole turkey, a large joint of beef, or a big bag of potatoes destined for roasting. Getting the conversion correct ensures your cooking times and temperatures are accurate, leading to perfectly cooked meals every time you use your appliance.</p>

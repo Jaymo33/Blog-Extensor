@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>60 ml of coconut oil equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you’re baking, frying, or roasting, knowing how to convert 60 ml of coconut oil to cups can make all the difference in your cooking.</p>

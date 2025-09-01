@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of garlic paste equals approximately 16 ounces (or 1 pound) in weight. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a marinade or a sauce, knowing the exact weight ensures consistency and flavour balance.</p>  

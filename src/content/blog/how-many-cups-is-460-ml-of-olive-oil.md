@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of olive oil is equivalent to approximately 1.94 cups. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you're baking, frying, or drizzling, knowing how to convert 460 ml of olive oil to cups ensures consistency in your recipes. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.5 kg of chicken wings converts to approximately 9.92 pounds. This conversion is essential for anyone using air fryer recipes that specify weights in pounds rather than kilograms. Whether you're meal prepping for a family gathering or just cooking dinner, getting the measurements right ensures your chicken wings cook evenly and come out perfectly crispy. Many air fryer recipes, especially those from American sources, use pounds as their standard unit of measurement. Understanding this conversion helps you follow these recipes accurately and achieve delicious results every time you use your air fryer.</p>

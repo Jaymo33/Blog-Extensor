@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of rapeseed oil equals approximately 0.53 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for oils that affect texture and crispiness. Whether you're making crispy fries or succulent chicken, knowing how to convert grams to ounces ensures your dish turns out just right.</p>  

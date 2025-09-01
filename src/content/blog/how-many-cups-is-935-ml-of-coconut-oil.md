@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>935 ml of coconut oil is roughly 3.95 cups (or just under 4 cups) when measured for cooking or baking. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up crispy treats or baking a cake, knowing how to convert 935 ml of coconut oil to cups ensures perfect results every time.</p>  

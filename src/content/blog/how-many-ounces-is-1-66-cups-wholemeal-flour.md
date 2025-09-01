@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of wholemeal flour equals approximately 7.5 ounces (or 7.48 oz to be precise). This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up air fryer bread, muffins, or cookies, knowing this conversion ensures consistent results every time.</p>

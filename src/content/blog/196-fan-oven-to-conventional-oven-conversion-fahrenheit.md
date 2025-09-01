@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>196 fan oven is equivalent to approximately 392°F in a conventional oven. This conversion ensures your recipes turn out perfectly, whether you're baking cakes or roasting meats. Understanding this temperature shift is crucial for achieving consistent results in your kitchen.</p>

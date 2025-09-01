@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 F converts to approximately 120 C in a fan oven. This is a common temperature for baking, roasting, and air frying, especially for dishes like crispy chicken or roasted vegetables. Understanding this conversion ensures your recipes turn out perfectly, whether you're using an air fryer or a conventional fan oven.</p>  

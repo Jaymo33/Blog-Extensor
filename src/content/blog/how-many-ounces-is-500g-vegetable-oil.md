@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500g of vegetable oil equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re frying, baking, or roasting, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with oils in your air fryer.</p>

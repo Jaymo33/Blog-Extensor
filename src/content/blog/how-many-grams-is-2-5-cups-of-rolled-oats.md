@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of rolled oats equals approximately 225 grams. This conversion is essential for air fryer recipes, baking, or meal prep where precision ensures perfect results. Whether you're making granola, overnight oats, or oat-based coatings for air-fried chicken, knowing the exact weight helps avoid inconsistencies.</p>  

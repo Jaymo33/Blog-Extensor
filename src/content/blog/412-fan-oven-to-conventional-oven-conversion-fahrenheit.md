@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 412 fan oven to conventional oven in Fahrenheit is straightforward: 412°F in a fan oven is roughly equivalent to 425°F in a conventional oven. This adjustment accounts for the fan oven's efficient heat distribution, which cooks food faster and more evenly. Whether you're baking, roasting, or using an air fryer, understanding this conversion ensures your dishes turn out perfectly every time.</p>

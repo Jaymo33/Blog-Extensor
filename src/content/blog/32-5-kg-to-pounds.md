@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>32.5 kg is equal to approximately 71.65 pounds, a conversion that comes in handy when portioning ingredients for your air fryer. Whether you're meal prepping, buying in bulk, or scaling a recipe, understanding how to convert 32.5 kg to pounds ensures you get the right quantities every time. Many air fryer recipes and packaging labels use different measurement systems, so being able to switch between them is a useful skill. Getting your weights accurate means your food cooks evenly and comes out perfectly crispy. For more handy conversion tips, check out the guides available at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

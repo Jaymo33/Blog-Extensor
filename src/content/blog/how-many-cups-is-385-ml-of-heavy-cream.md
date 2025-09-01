@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>385 ml of heavy cream equals approximately 1.63 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're making a creamy sauce, a rich dessert, or a fluffy cake, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of BBQ sauce weigh approximately 30 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you’re marinating chicken or glazing ribs, knowing the exact weight helps avoid over or under-seasoning. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

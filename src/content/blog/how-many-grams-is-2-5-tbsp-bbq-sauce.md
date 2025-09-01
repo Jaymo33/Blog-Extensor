@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of bbq sauce is approximately 37.5 grams. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour balance. Whether you’re glazing chicken wings or marinating tofu, knowing the exact weight helps avoid soggy or overly dry results. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of double cream is approximately 2.57 cups in the UK or 2.58 cups in the US. This conversion is essential for baking, cooking, or preparing recipes that require precise measurements. Whether you're whipping up a dessert or adding richness to a sauce, knowing the exact cup equivalent ensures perfect results every time. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

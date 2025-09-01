@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>202°C in a conventional oven converts to approximately 180°C in a fan oven. This 20°C reduction is standard when adapting recipes for fan-assisted cooking. The circulating hot air in fan ovens cooks food more efficiently, so lowering the temperature prevents over-browning or drying out your dishes.</p>

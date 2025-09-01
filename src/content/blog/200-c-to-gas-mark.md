@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 C converts to Gas Mark 6 in UK ovens and air fryers. This is the standard conversion used for baking, roasting, and air frying recipes across British kitchens. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting oven instructions for your air fryer, knowing this conversion is essential for perfect results every time.</p>

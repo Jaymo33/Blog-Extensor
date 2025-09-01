@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>460 ml of condensed milk is approximately 1.94 cups (just under 2 cups). This conversion is essential for baking and cooking, especially when using an air fryer for recipes that call for precise measurements. Whether you're making fudge, cakes, or no-churn ice cream, knowing how to convert 460 ml of condensed milk to cups ensures your desserts turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 cups of milk equals approximately 16 ounces (or 16.9 oz if measuring US liquid ounces). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a creamy sauce or baking a moist cake, knowing how many ounces are in 2 cups of milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect results every time. Let’s dive deeper into why this conversion matters and how to apply it in your cooking.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 360 fan oven to Fahrenheit for a conventional oven is straightforward: 360°F in a fan oven is roughly equivalent to 340°F in a conventional oven. This adjustment accounts for the more efficient heat distribution in fan-assisted ovens. Whether you're baking a cake or roasting vegetables, understanding this conversion ensures your dishes turn out perfectly. For air fryer users, this knowledge is especially handy, as air fryers often mimic fan oven settings. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more tips on adapting recipes.</p>

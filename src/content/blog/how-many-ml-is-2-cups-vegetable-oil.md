@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of vegetable oil equals 473 ml, making it easy to measure for air fryer recipes. Whether you’re baking, frying, or roasting, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect dishes with accurate conversions.</p>

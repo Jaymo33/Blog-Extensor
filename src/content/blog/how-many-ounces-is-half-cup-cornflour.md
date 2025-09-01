@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of cornflour equals approximately 2.5 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can affect texture and cooking times. Whether you're making crispy coatings or light batters, knowing the exact weight ensures consistent results every time.</p>

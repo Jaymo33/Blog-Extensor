@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of chicken breast is roughly equivalent to 0.4 to 0.5 cups when diced or shredded. This measurement can vary slightly depending on how finely the chicken is chopped, but it’s a reliable starting point for air fryer recipes. Whether you’re meal prepping or following a dish from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a>, knowing this conversion ensures accuracy.</p>  

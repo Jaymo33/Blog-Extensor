@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>207°C converts to Gas Mark 6, a common setting for roasting and baking in both traditional ovens and air fryers. Whether you're adapting a family recipe or experimenting with new dishes, knowing this conversion ensures your air fryer delivers consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking temperatures twice when converting between scales, especially for delicate bakes like soufflés or custards.</p>

@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>242°C converts to Gas Mark 9, the standard high-heat setting for ovens and air fryers. This temperature is ideal for roasting meats, baking crusty bread, or achieving crispy textures in your air fryer. Whether you're adapting a traditional recipe or experimenting with air fryer settings, knowing this conversion ensures perfect results every time.</p>

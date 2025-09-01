@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you have ever wondered how many ounces is 1.66 cups of rice, the straightforward answer is approximately 13.28 ounces. This conversion is based on the standard that one cup of uncooked, long-grain white rice weighs about 8 ounces, making the calculation for 1.66 cups a simple multiplication task. Getting this measurement right is absolutely crucial when you are preparing meals in your air fryer, as precise quantities ensure even cooking and perfect results every single time. Whether you are meal prepping for the week or cooking a family dinner, knowing your conversions takes the guesswork out of the kitchen. For a huge range of recipes that use precise measurements like this, be sure to explore the fantastic collection at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

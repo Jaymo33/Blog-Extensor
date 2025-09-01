@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.0 cups of apple cider vinegar equals 240 millilitres (ml). This standard conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken, whipping up a tangy glaze, or baking, knowing how many ml is 1.0 cups of apple cider vinegar ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we prioritise accuracy to help you achieve perfect results every time.</p>  

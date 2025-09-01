@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat chicken breast in an air fryer, set it to 160°C (320°F) and cook for 3–5 minutes, flipping halfway. This method ensures juicy, evenly heated meat without drying it out. Whether you’re reheating leftovers or meal-prepped chicken, the air fryer delivers better results than a microwave. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>357 F converts to Gas Mark 4.5, which is the standard equivalent for most ovens and air fryers in the UK. This temperature is commonly used for baking and roasting, making it essential to get the conversion right for perfect results. Whether you're using an air fryer or a conventional oven, knowing this conversion ensures your dishes come out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless cooking every time.</p>

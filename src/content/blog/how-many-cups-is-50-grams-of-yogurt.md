@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of yogurt is roughly equal to 0.21 cups (or just under 1/4 cup). This conversion is essential for air fryer recipes where precision matters, whether you're baking cakes or preparing marinades. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be, so we’ve broken it down for you.</p>  

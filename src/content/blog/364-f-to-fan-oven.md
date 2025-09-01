@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>364 F converts to approximately 180 C in a fan oven. This temperature is commonly used for baking, roasting, and air frying various dishes. When using an air fryer, which operates similarly to a convection oven, you'll often find recipes calling for this temperature range. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions for perfect results every time.</p>

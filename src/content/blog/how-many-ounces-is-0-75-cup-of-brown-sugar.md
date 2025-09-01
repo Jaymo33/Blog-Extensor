@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of brown sugar equals approximately 6 ounces (5.99 oz to be precise) in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect texture and flavour. Whether you’re making cookies, cakes, or glazes, knowing how many ounces are in 0.75 cup of brown sugar helps avoid recipe mishaps.</p>  

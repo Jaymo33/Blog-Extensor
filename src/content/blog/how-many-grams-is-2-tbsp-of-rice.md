@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2 tablespoons (tbsp) of rice weigh approximately 30 grams in the UK. This measurement is based on standard UK tablespoons and uncooked long-grain white rice. If you're using an air fryer, knowing this conversion helps ensure your recipes turn out perfectly every time.</p>

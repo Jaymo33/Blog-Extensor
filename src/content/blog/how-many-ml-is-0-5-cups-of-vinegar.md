@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of vinegar equals approximately 118 ml. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're marinating chicken or whipping up a tangy sauce, knowing how many ml is 0.5 cups of vinegar ensures consistent results every time.</p>

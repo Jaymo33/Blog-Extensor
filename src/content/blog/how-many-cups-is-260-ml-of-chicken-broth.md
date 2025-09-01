@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>260 ml of chicken broth equals approximately 1.1 cups. This conversion is essential for recipes where precision matters, especially when using an air fryer. Whether you're making soups, sauces, or marinades, knowing how to measure 260 ml of chicken broth in cups ensures your dish turns out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for air fryer cooking.</p>

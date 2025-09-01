@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50 grams of rice equals approximately 0.25 cups in the UK and 0.21 cups in the US. This conversion is essential for precise cooking, especially when using an air fryer, where ingredient measurements can impact texture and cooking time. Whether you're making a quick rice dish or meal prepping, knowing how to convert grams to cups ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

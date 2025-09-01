@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.66 cup of passata equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a quick pasta sauce or a rich tomato-based stew, knowing how many ounces are in 0.66 cup of passata ensures consistency and flavour balance.</p>  

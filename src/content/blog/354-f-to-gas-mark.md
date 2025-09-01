@@ -148,7 +148,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>354°F converts to Gas Mark 4 in UK ovens and air fryers. This moderate heat is ideal for baking cakes, roasting vegetables, or cooking casseroles in your air fryer. Understanding temperature conversions helps you adapt recipes from ovens to air fryers successfully.</p>

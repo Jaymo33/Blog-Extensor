@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>635 ml of vinegar is approximately 2.68 cups in the US measurement system and 2.23 cups in the UK measurement system. Whether you're preparing a tangy marinade for air-fried chicken or whipping up a homemade cleaner for your air fryer, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so your recipes turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of vinegar equals 14 fluid ounces (or 14 oz) in both UK and US measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re marinating chicken, preparing a tangy sauce, or pickling vegetables, knowing how to convert cups to ounces ensures your recipe turns out perfectly every time.</p>

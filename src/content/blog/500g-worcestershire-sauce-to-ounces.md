@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>500 grams of Worcestershire sauce equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re marinating chicken, seasoning beef, or adding a splash to your vegetables, knowing how to convert grams to ounces ensures your dish turns out perfectly.</p>

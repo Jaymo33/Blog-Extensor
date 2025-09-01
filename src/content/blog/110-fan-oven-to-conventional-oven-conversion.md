@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>110°C in a fan oven equals approximately 100°C in a conventional oven. This 10°C reduction accounts for the fan oven's efficient heat circulation, which cooks food faster and more evenly. Understanding this conversion is crucial when following recipes designed for different oven types, especially when using an air fryer which operates similarly to a fan oven.</p>

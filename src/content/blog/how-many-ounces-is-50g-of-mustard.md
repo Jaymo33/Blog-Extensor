@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of mustard equals approximately 1.76 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for sauces or marinades. Whether you're cooking chicken, salmon, or vegetables, knowing how to convert grams to ounces ensures your dish turns out perfectly. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

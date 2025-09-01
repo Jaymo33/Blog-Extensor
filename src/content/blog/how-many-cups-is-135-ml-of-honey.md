@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>135 ml of honey is roughly equivalent to 0.57 cups (just over half a cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're whipping up a glaze or sweetening a marinade, knowing how to convert 135 ml of honey to cups ensures consistent results.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Gas Mark 6 converts to 200°C, the standard equivalent for most ovens and air fryers. This medium-high temperature works perfectly for everything from roasting vegetables to baking cakes in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we use this temperature frequently for achieving crispy yet tender results.</p>

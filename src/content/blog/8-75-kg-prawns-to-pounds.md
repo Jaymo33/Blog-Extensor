@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>8.75 kg of prawns is equal to approximately 19.29 pounds. This conversion is essential for anyone preparing a large batch of seafood in their air fryer, ensuring you use the right quantity for even cooking and perfect results. Whether you're meal prepping, hosting a gathering, or simply stocking up, knowing how to convert 8.75 kg prawns to pounds takes the guesswork out of your recipe planning. Accurate measurements help you avoid overloading your air fryer basket, which can lead to unevenly cooked prawns. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

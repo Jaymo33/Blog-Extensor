@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>237 C converts to approximately 220 C in a fan oven. This slight reduction accounts for the efficient heat circulation in fan-assisted ovens and air fryers, ensuring even cooking without over-browning. Whether you're baking, roasting, or air frying, this conversion is key to perfect results.</p>

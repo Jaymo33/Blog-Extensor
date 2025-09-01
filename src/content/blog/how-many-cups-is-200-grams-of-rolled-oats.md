@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200 grams of rolled oats equals approximately 2.5 cups when measured correctly. This conversion is essential for baking, cooking, or using your air fryer to ensure recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving the best texture and flavour.</p>

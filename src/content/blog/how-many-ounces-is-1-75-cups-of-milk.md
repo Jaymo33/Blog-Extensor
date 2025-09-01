@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of milk equals 14 fluid ounces in the UK measurement system. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a creamy sauce or baking a cake, knowing how to convert 1.75 cups of milk to ounces ensures consistency and delicious results.</p>

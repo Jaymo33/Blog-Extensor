@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>6.7 kg is equal to approximately 14.77 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when buying ingredients in bulk. Knowing how to convert 6.7 kg to pounds ensures you use the correct amounts for perfect results every time. Whether you're meal prepping or cooking for a crowd, accurate measurements are key. For more handy conversions, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

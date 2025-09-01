@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>240 C in a fan oven is equivalent to approximately 220 C with the fan setting. This 20-degree reduction accounts for the fan's efficient heat circulation, which cooks food faster and more evenly. When using an air fryer, which works similarly to a convection oven, you'll typically follow the same temperature adjustment principle. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this conversion for everything from roasted vegetables to baked goods.</p>

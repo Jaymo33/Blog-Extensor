@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1 cup of grated cheese equals approximately 4 ounces. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making cheesy nachos, stuffed peppers, or a gooey gratin, knowing the exact weight helps achieve consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

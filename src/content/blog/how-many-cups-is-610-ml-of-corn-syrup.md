@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of corn syrup equals approximately 2.57 cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a glaze for ham or a sticky dessert, knowing how many cups 610 ml of corn syrup translates to ensures consistent results every time.</p>

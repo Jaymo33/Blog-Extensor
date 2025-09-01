@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>12.9 kg is equal to 28.44 pounds, a conversion that comes in handy when you're preparing larger ingredients for your air fryer. Whether you're portioning a whole chicken, weighing out potatoes for a big family meal, or buying frozen goods in bulk, knowing how to convert 12.9 kg to pounds ensures you follow recipes accurately. Many air fryer recipes, especially those from American sources, use pounds, so this conversion is crucial for getting perfect results. At airfryerrecipe.co.uk, we often highlight the importance of precise measurements for consistent cooking. Getting your weights right means your food will cook evenly, avoiding undercooked or overdone sections.</p>

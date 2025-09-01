@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of rolled oats equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, ensuring your breakfasts, granolas, or baked goods turn out perfectly every time. Whether you're following a UK recipe or adapting an international one, knowing how to convert grams to ounces is a game-changer for precision cooking.</p>  

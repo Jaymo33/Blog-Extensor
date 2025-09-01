@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>75 grams of yogurt is roughly equivalent to 0.31 cups (or just under 1/3 cup). This conversion is essential for air fryer recipes where precision matters. Whether you’re whipping up a creamy dip or a fluffy cake, knowing how to measure yogurt correctly ensures perfect results every time.</p>  

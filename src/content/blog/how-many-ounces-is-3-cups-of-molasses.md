@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of molasses equals approximately 36 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Molasses, a thick, sticky sweetener, is often used in baking and cooking, and knowing its weight helps ensure consistency. Whether you're making gingerbread or a glaze for meats, getting the measurement right is key. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

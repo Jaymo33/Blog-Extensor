@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>660 ml of single cream equals approximately 2.8 UK cups or 2.79 US cups. This conversion is essential for baking, cooking, or even whipping up creamy sauces in your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a dish, knowing the exact measurement ensures perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>335 ml of yogurt equals approximately 1.42 cups in the US measurement system and 1.18 cups in the UK system. Whether you're following a recipe or adjusting measurements for your air fryer, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>  

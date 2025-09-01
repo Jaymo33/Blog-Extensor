@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of greek yogurt equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re meal prepping or whipping up a quick breakfast, knowing this conversion saves time and ensures consistency.</p>

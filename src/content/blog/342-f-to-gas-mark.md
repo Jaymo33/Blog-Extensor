@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>342°F converts to Gas Mark 3 in UK ovens and air fryers. This medium heat setting is perfect for baking, roasting, and many air fryer recipes you'll find at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>. Understanding temperature conversions helps adapt recipes between different cooking appliances.</p>

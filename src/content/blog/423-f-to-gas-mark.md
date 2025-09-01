@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>423°F converts to Gas Mark 7 in UK ovens. This is a common temperature for baking and roasting in both traditional ovens and air fryers. The conversion is essential when adapting recipes between different cooking appliances.</p>

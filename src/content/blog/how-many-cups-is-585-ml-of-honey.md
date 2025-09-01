@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>585 ml of honey is roughly equivalent to 2.47 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Honey’s thick, sticky consistency makes measuring tricky, but knowing the exact cup equivalent ensures your dishes turn out perfectly every time.</p>  

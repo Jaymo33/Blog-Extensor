@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>50g of crushed garlic equals approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up garlic bread, marinades, or roasted veggies, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking.</p>

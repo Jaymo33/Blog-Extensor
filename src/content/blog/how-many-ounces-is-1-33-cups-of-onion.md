@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of onion equals approximately 10.64 ounces (or 10.6 oz for simplicity). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results every time.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of condensed milk equals approximately 1 ounce (oz). This quick conversion is essential for precise measurements in air fryer recipes, ensuring your desserts and sweet dishes turn out perfectly every time. Whether you’re making a small batch of fudge or a single-serving dessert, knowing how many ounces are in 0.125 cup of condensed milk saves time and hassle. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

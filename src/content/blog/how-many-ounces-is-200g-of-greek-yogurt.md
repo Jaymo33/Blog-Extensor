@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>200g of greek yogurt is approximately 7.05 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a healthy breakfast or a creamy dessert, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

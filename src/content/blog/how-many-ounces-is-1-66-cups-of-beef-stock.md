@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of beef stock equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making a rich gravy or a flavourful stew, knowing the exact weight ensures consistent results every time.</p>  

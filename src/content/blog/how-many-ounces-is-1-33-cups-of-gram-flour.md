@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.33 cups of gram flour equals approximately 5.3 ounces (150 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy pakoras or fluffy baked goods, knowing how many ounces are in 1.33 cups of gram flour ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with every recipe.</p>

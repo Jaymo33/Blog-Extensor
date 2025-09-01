@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of almonds equals approximately 1 ounce (28 grams). This conversion is essential for air fryer recipes where precision matters. Whether you’re making almond-crusted chicken or a healthy snack, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect dishes with accurate measurements.</p>

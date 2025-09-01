@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of yogurt is approximately 3.42 cups in the UK or 3.38 cups in the US. This conversion is essential for baking, cooking, or meal prepping in your air fryer. Whether you're whipping up a cake or marinating chicken, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, so let’s break it down.</p>  

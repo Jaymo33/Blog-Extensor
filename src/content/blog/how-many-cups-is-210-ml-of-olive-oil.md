@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>210 ml of olive oil is approximately 0.89 cups (just under 1 cup). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up crispy roast potatoes or a moist cake, knowing how to convert millilitres to cups ensures consistency.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of ground almonds equals approximately 12 ounces (340 grams). Whether you're preparing a gluten-free bake or a crunchy almond coating for air-fried chicken, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial precision is for air fryer recipes, so let’s break this down further.</p>  

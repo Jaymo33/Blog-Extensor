@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>15g of minced garlic equals approximately 0.53 ounces. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up garlic-infused dishes or adjusting a recipe, knowing this conversion ensures accuracy. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

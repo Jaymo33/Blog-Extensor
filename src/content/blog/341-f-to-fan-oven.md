@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>341 F converts to approximately 170 C in a fan oven. This temperature is commonly used for roasting, baking, and air frying various dishes. Understanding this conversion is crucial for achieving perfect results when using appliances like air fryers that often rely on fan-assisted cooking.</p>

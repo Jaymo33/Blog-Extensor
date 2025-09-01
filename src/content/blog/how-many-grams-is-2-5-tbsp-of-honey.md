@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons of honey equals approximately 53 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking, glazing, or sweetening, knowing how many grams are in 2.5 tbsp of honey can make all the difference.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.66 cups of buttermilk equals approximately 13.28 ounces. This conversion is essential for anyone using buttermilk in recipes, especially when preparing dishes in an air fryer. Precise measurements ensure your baked goods or marinades turn out perfectly every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion will save you time and hassle.</p>  

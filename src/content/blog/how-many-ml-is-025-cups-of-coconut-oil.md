@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cups of coconut oil is equivalent to approximately 59 ml. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking, frying, or roasting, knowing how many ml is 0.25 cups of coconut oil ensures consistency and delicious results.</p>

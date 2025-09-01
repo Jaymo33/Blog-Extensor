@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1000g of Nutella equals approximately 35.27 ounces. This conversion is essential for anyone using UK measurements in their air fryer recipes, ensuring accuracy when baking or cooking with this delicious spread. Whether you're making Nutella-filled pastries or a quick dessert, knowing the exact weight in ounces helps streamline your prep work.</p>  

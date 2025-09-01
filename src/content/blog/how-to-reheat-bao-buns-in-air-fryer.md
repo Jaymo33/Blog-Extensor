@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>To reheat bao buns in an air fryer, preheat to 160°C and warm them for 3-5 minutes. This method restores their fluffy texture while adding a delicate crispness to the exterior – far better than microwaving. Whether you’ve stored them in the fridge or freezer, your air fryer can revive bao buns as if they were freshly steamed.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>250g of oats equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making granola, oat bars, or a crunchy topping, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve the best results. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>

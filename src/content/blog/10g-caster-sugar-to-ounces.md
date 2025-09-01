@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10g of caster sugar equals approximately 0.35 ounces. This precise conversion is essential for UK bakers who need accurate measurements for air fryer recipes. Whether you're whipping up cakes, cookies, or desserts in your air fryer, getting the sugar quantity right makes all the difference to your baking results.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of grated cheese equals approximately 175 grams, though this can vary slightly depending on the cheese type and how finely it’s grated. Whether you’re whipping up a cheesy air fryer dish or baking a casserole, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate conversions can be—so let’s break it down.</p>  

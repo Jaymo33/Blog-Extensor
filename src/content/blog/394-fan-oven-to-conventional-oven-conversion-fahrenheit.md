@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 394 fan oven to conventional oven in Fahrenheit is straightforward: it equals 356°F. This adjustment accounts for the efficiency of fan-assisted cooking, ensuring your recipes turn out perfectly. Whether you’re baking cakes or roasting meats, understanding this conversion is key to achieving consistent results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

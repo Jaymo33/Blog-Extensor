@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of Nutella equals approximately 4.4 ounces (125 grams). This measurement is essential for air fryer recipes, ensuring your desserts turn out perfectly every time. Whether you're making Nutella-filled pastries or chocolatey treats, getting the right amount is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements for flawless results. Keep reading for more details on converting cups to ounces and using Nutella in your air fryer.</p>

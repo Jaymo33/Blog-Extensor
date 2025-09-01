@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.0 cups of heavy cream is equivalent to 710 millilitres (ml). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you’re whipping up a creamy sauce or a decadent dessert, knowing the exact ml for 3.0 cups of heavy cream ensures your dish turns out perfectly every time.</p>

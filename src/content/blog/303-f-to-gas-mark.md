@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>303°F converts to Gas Mark 2 for conventional ovens and air fryers. This moderate temperature is ideal for slow roasting, delicate baking, or keeping dishes warm without overcooking. Whether you're adapting a recipe or troubleshooting your air fryer settings, knowing this conversion ensures consistent results.</p>

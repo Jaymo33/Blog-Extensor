@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3 cups of hoisin sauce equals approximately 24 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up a marinade or a glaze, knowing how many ounces are in 3 cups of hoisin sauce ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>

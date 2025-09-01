@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>30 grams of fish sauce equals approximately 1.06 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when working with sauces like fish sauce, which can heavily influence flavour. Whether you're marinating chicken or adding a umami kick to vegetables, knowing how to convert 30g of fish sauce to ounces ensures your dish turns out perfectly every time. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

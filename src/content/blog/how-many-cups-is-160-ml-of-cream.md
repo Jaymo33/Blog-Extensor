@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of cream is approximately 0.68 cups. This conversion is essential for anyone using an air fryer to create delicious recipes that require precise measurements. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>

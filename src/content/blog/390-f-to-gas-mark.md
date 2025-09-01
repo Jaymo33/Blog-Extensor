@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>390 degrees Fahrenheit converts to Gas Mark 6, which is the standard equivalent for most baking and roasting recipes. This temperature is commonly used for everything from crispy roast potatoes to golden baked goods in both conventional ovens and air fryers. Understanding this conversion helps when following recipes or adjusting cooking times between different appliances.</p>

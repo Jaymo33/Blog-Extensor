@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.125 cup of whipping cream equals 1 fluid ounce (oz) in the UK. This measurement is essential for precise baking and cooking, especially when using an air fryer for recipes that require exact quantities. Whether you’re making desserts or sauces, knowing this conversion ensures your dishes turn out perfectly every time.</p>  

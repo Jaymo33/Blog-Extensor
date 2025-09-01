@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of cocoa powder equals approximately 4.8 ounces (136 grams). This conversion is essential for precise baking, especially when using an air fryer for desserts like brownies or cakes. Getting the measurement right ensures your recipes turn out perfectly every time. Whether you’re following a UK or US recipe, knowing the weight in ounces helps avoid mishaps. For more air fryer baking tips, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  

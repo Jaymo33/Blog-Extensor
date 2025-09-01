@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cup of vegetable oil equals 6 fluid ounces (or approximately 5.3 ounces by weight). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making crispy chips or succulent chicken, knowing the exact amount ensures perfect results every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

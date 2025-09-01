@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.5 cups of honey equals approximately 510 grams. This conversion is essential for accurate baking and cooking, especially when using an air fryer where precise measurements can affect texture and consistency. Whether you're whipping up a cake or glazing chicken, knowing how to convert cups to grams ensures perfect results every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 tbsp of molasses equals approximately 5.3 grams. This conversion is essential for air fryer recipes where precision matters. Whether you’re baking or glazing, knowing the exact weight ensures consistent results. Molasses, a thick, sticky sweetener, can be tricky to measure by volume alone. That’s why converting tablespoons to grams is a game-changer for home cooks.</p>  

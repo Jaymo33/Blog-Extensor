@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of onion equals approximately 1 ounce (28 grams). This conversion is essential for air fryer recipes where precision ensures even cooking and perfect results. Whether you're preparing a stir-fry, soup, or a delicious air-fried onion topping, knowing this measurement helps avoid guesswork.</p>

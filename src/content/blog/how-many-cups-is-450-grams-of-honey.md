@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>450 grams of honey is roughly equivalent to 1.33 cups, though this can vary slightly depending on the honey's density and temperature. Whether you're baking a cake or preparing a glaze for your air fryer chicken, getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for your air fryer.</p>

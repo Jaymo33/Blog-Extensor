@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>535 ml of condensed milk is approximately 2.25 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistency and perfect results every time.</p>  

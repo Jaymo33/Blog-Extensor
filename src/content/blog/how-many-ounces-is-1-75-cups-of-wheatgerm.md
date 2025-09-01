@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of wheatgerm equals approximately 7.4 ounces. This conversion is essential for anyone using wheatgerm in air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're baking, coating, or adding texture to dishes, knowing the exact weight helps maintain consistency.</p>

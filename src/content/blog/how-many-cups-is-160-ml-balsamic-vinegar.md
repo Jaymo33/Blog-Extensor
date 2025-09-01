@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>160 ml of balsamic vinegar is approximately 0.68 cups. This conversion is essential for air fryer recipes where precision matters. Whether you’re whipping up a glaze or a marinade, knowing how many cups is 160 ml of balsamic vinegar ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these measurements effortlessly. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>

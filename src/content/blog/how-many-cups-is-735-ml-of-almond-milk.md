@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>How Many Cups Is 735 ml of Almond Milk?</h2>  

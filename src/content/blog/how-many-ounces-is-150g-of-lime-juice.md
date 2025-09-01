@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of lime juice equals approximately 5.29 ounces. Whether you're preparing a zesty marinade for chicken or a tangy dressing for salads, accurate measurements ensure your air fryer recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when balancing flavours in dishes like citrus-glazed salmon or lime-infused shrimp.</p>

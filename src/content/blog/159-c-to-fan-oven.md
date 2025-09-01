@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>159 C in a fan oven is equivalent to approximately 140 C when using a conventional oven. This conversion is crucial for air fryer users, as most air fryers operate similarly to fan ovens. Understanding this temperature adjustment ensures your recipes turn out perfectly every time. Whether you're baking, roasting, or reheating, getting the temperature right is key. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more tips on air fryer cooking.</p>

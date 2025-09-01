@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>10.9 kg is equal to approximately 24.03 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk ingredients, or following recipes that use imperial measurements. Knowing how to convert 10.9 kg to pounds ensures you purchase the right amount of food and understand your appliance's capacity limits. Whether you're meal prepping for the week or cooking a feast, accurate measurements lead to perfect results. For more handy conversion tools, check out the comprehensive guides available at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

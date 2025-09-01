@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of pineapple juice equals 3 ounces (oz) in the UK measurement system. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up a tropical glaze or a marinade, knowing how many ounces are in 0.375 cup of pineapple juice ensures accuracy. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

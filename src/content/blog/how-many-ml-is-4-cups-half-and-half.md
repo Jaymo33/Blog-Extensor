@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4.0 cups of half and half equals approximately 946 ml. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you’re whipping up a creamy sauce or a decadent dessert, knowing how many ml is 4.0 cups of half and half makes all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about accuracy, so let’s dive deeper into this conversion.</p>

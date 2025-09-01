@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>81°C in a fan oven converts to approximately 100°C in a conventional oven. This 20°C difference is crucial for achieving perfect results when adapting recipes between oven types. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures your dishes turn out just right.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of cocoa powder equals approximately 0.85 cups, but this can vary slightly based on how densely you pack the powder. Whether you're baking a cake or whipping up a chocolatey treat in your air fryer, precise measurements matter. This guide breaks down the conversion and offers tips for accuracy.</p>

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>125g of soft cheese equals approximately 4.41 ounces in UK measurements. This conversion is essential for air fryer recipes where precision matters, especially when making cheesecakes, stuffed mushrooms, or creamy dips. Whether you’re using cream cheese, mascarpone, or ricotta, knowing the exact weight ensures perfect results every time. For more air fryer-friendly conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

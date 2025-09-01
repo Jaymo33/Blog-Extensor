@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.75 cups of chicken breast equals approximately 105 grams. This conversion is essential for air fryer cooking, where precision ensures even cooking and perfect results every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own, knowing how to convert cups to grams is a game-changer.</p>

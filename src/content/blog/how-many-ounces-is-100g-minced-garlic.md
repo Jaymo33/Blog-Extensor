@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100g of minced garlic equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up garlic-infused chicken or a flavourful vegetable stir-fry, knowing how many ounces 100g of minced garlic is ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking.</p>

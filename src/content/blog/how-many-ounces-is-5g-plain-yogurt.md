@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5g of plain yogurt equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're making dips, marinades, or baked goods, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements for perfect results every time.</p>  

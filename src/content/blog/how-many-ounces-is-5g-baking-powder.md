@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 grams of baking powder equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking cakes or bread. Whether you're using a digital scale or measuring spoons, knowing this conversion ensures your recipes turn out perfectly every time.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons of condensed milk weigh approximately 75 grams. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a dessert or adding a sweet touch to your meal, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -184,7 +184,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>150g of maple syrup equals approximately 5.29 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re drizzling it over air-fried pancakes or using it as a glaze for chicken, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for hassle-free cooking.</p>  

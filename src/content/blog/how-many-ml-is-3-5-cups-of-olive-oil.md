@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>3.5 cups of olive oil equals approximately 828 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a batch of crispy roast potatoes or a succulent chicken dish, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is when cooking with an air fryer, so let’s break it down.</p>

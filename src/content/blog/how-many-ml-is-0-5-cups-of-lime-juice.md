@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cups of lime juice equals approximately 118.29 ml. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a zesty marinade or a tangy dessert, knowing how to convert cups to ml ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail every recipe with accurate measurements.</p>

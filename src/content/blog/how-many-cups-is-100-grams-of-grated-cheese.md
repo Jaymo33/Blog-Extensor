@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>100 grams of grated cheese is approximately 1 cup, but this can vary based on how finely the cheese is grated and its type. Whether you're making a cheesy air fryer dish or prepping ingredients, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every recipe with precise conversions.</p>

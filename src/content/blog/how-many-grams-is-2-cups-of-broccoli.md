@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of chopped broccoli weighs approximately 180 grams. This measurement is based on standard UK cup sizes, though slight variations can occur depending on how tightly packed the broccoli is. If you're using an air fryer, getting the right quantity ensures even cooking and perfect texture.</p>

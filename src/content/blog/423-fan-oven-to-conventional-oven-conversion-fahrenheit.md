@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <h2>Understanding 423 Fan Oven to Conventional Oven Conversion</h2>

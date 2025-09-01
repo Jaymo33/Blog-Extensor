@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 cups of water equals 591.47 ml in the US measurement system and 625 ml in the UK metric system. Whether you're baking, cooking, or prepping meals in your air fryer, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify measurements so your dishes turn out perfectly every time.</p>  

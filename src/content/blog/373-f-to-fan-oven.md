@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>373 F converts to approximately 190 C in a fan oven. This is the standard equivalent for most modern electric ovens with convection settings, including air fryers which operate on similar principles. Whether you're adapting an American recipe or troubleshooting your air fryer settings, this conversion will ensure your dishes cook evenly.</p>

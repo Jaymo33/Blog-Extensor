@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>If you're wondering what 0.25 kg whole chicken is in pounds, the answer is straightforward: 0.25 kg is approximately 0.55 pounds. This conversion is essential for anyone using an air fryer, as many recipes and appliance guidelines use imperial measurements. Getting the weight right ensures your chicken cooks evenly and reaches a safe internal temperature. Whether you're following a British recipe or using an American cookbook, this simple conversion makes life easier. For more handy conversion tips, check out the resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

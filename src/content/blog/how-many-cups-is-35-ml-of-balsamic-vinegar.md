@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>35 ml of balsamic vinegar equals approximately 0.15 cups (just under 1/6 of a cup). This conversion is handy for air fryer recipes where precise measurements ensure the best results. Whether you're marinating chicken, glazing vegetables, or adding a tangy kick to a dish, knowing how many cups is 35 ml of balsamic vinegar helps streamline your cooking process.</p>  

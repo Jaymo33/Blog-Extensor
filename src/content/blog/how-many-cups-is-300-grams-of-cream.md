@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of cream is approximately 1.27 cups. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a creamy dessert or a savoury sauce, knowing how many cups 300 grams of cream equals ensures perfect results every time.</p>

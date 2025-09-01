@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>25g of protein powder equals approximately 0.88 ounces. This conversion is essential for anyone using protein powder in recipes, especially when preparing meals in an air fryer. Whether you're tracking macros or following a precise recipe, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these measurements for hassle-free cooking.</p>  

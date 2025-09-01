@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>300 grams of cheddar cheese is roughly equivalent to 2.5 cups when grated. This conversion is essential for recipes that require precise measurements, especially when using an air fryer for dishes like cheesy baked potatoes or crispy nachos. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accurate measurements are for perfect results every time.</p>

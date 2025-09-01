@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>610 ml of cream is approximately 2.57 cups in the UK and 2.58 cups in the US. This slight difference is due to variations in cup measurements between regions. Whether you're whipping up a dessert or preparing a creamy sauce for your air fryer, knowing this conversion ensures accuracy in your recipes.</p>  

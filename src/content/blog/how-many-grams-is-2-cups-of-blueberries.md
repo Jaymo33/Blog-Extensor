@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.0 cups of blueberries weigh approximately 300 grams, making it easy to measure for air fryer recipes and baking. Whether you're whipping up a blueberry crumble or adding them to your morning oats, knowing the exact conversion ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you achieve the best results in your air fryer.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of pesto equals approximately 2 ounces. This conversion is handy when you're preparing air fryer recipes that require precise measurements, ensuring your dish turns out perfectly every time. Whether you're making pesto chicken or a quick pasta dish, knowing this conversion saves time and hassle.</p>  

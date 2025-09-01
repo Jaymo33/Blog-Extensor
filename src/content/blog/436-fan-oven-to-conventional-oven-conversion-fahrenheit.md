@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>Converting 436 Fan Oven to Fahrenheit for a conventional oven is straightforward: 436°F in a fan oven is equivalent to approximately 400°F in a conventional oven. This adjustment accounts for the more efficient heat distribution in fan-assisted ovens, which cook food faster and more evenly. Whether you're baking, roasting, or even using an air fryer, understanding this conversion ensures your recipes turn out perfectly every time. For more detailed conversion guides, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

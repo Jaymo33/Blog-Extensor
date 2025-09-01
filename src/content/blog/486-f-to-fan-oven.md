@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>486 F converts to approximately 250 C in a fan oven. This is a common temperature for roasting meats or baking crispy dishes in both air fryers and fan-assisted ovens. Understanding this conversion is crucial for anyone using recipes from American sources or older cookbooks that still use Fahrenheit measurements.</p>

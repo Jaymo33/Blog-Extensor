@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>320°F converts to approximately 160°C in a fan oven. This is a crucial conversion for air fryer users, as most recipes assume conventional oven temperatures. Understanding this equivalence ensures your dishes cook evenly and efficiently.</p>

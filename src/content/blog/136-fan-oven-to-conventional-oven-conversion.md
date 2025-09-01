@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>136 fan oven equals approximately 118°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, especially when using an air fryer which often follows conventional oven temperature guidelines. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions for home cooks.</p>

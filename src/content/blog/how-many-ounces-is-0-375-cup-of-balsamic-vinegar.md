@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.375 cup of balsamic vinegar equals exactly 3 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or glazing vegetables, knowing this conversion ensures perfect results every time.</p>

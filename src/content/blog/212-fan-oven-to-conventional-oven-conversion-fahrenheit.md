@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>212°F in a fan oven converts to approximately 232°F in a conventional oven. This 20°F difference accounts for the fan oven's efficient heat circulation. Whether you're baking cakes or roasting vegetables, knowing this conversion ensures your dishes turn out perfectly every time.</p>

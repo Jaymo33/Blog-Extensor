@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.25 cup of ground cumin equals approximately 0.5 ounces (or 14 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're spicing up chicken, beef, or vegetables, knowing how many ounces are in 0.25 cup of ground cumin ensures your flavours are spot-on.</p>  

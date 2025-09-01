@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>449 F converts to approximately 230 C in a fan oven. This is a common temperature for roasting meats, baking crispy dishes, or even air frying frozen foods to perfection. Understanding this conversion ensures your recipes turn out just right, whether you're using a traditional fan oven or an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Let's dive deeper into how 449 F works in different cooking scenarios.</p>  

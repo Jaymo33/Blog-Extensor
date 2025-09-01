@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 cup of plain yogurt equals approximately 4.25 ounces (120 grams). This measurement is essential for air fryer recipes, ensuring precise ingredient ratios for the best results. Whether you're making dips, marinades, or baked goods, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to elevate your cooking game.</p>  

@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>0.5 tbsp of tahini weighs approximately 7.5 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making hummus, dressings, or marinades, knowing how many grams are in 0.5 tbsp of tahini can make all the difference.</p>

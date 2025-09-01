@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>441°F converts to approximately 227°C in a fan oven. This is a common temperature for air frying crispy dishes like roast potatoes or chicken wings. Understanding this conversion ensures your air fryer recipes turn out perfectly every time.</p>

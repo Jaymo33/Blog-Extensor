@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>475 grams of potatoes is roughly equivalent to 2.5 cups when diced or sliced, though this can vary slightly based on the potato type and cut size. If you're using an air fryer, precise measurements ensure even cooking and perfect crispiness. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

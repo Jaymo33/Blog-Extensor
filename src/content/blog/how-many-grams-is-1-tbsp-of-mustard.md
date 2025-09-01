@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>One tablespoon (1 tbsp) of mustard weighs approximately 15 grams. This measurement is based on standard UK mustard, whether it's English, Dijon, or wholegrain. Knowing this conversion is especially useful when preparing air fryer recipes, where precise ingredient weights can make all the difference. If you're using a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, this conversion ensures your dishes turn out perfectly every time. Mustard is a versatile ingredient, so getting the measurement right is key for marinades, dressings, or glazes.</p>

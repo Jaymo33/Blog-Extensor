@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>1.75 cups of whole milk equals approximately 14 fluid ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're making creamy sauces or baking, knowing this conversion ensures consistent results every time.</p>

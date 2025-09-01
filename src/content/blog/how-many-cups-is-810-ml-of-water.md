@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>810 ml of water equals approximately 3.42 cups in the US measurement system and 3.56 cups in the UK. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're baking, steaming, or preparing sauces, knowing how to convert millilitres to cups ensures consistent results every time.</p>

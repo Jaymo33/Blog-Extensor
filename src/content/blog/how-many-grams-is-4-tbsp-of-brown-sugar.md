@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>4 tablespoons (tbsp) of brown sugar equals approximately 50 grams (g). This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cookies, cakes, or glazes, knowing the exact weight ensures consistent results every time.</p>  

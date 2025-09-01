@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>93 fan oven converts to approximately 70°C in a conventional oven. This lower temperature accounts for the efficient heat distribution of fan-assisted ovens compared to traditional ovens. When using your air fryer, which works similarly to a fan oven, you might need to adjust recipes from conventional oven settings.</p>

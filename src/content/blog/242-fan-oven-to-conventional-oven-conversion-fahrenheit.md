@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>242 fan oven equals approximately 475°F in a conventional oven. This conversion is essential when adapting recipes between fan-assisted and traditional ovens, especially when using an air fryer which often follows conventional oven temperature settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions for perfect results every time.</p>

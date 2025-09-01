@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>2.5 tablespoons (tbsp) of cornflour equals approximately 23 grams in UK measurements. This conversion is essential for air fryer recipes where precision ensures crispy, evenly cooked results. Whether you’re coating chicken or thickening sauces, knowing the exact weight saves time and avoids kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

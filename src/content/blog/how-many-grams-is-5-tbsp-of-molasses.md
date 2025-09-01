@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>5 tablespoons (tbsp) of molasses weigh approximately 105 grams in the UK. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Molasses, a thick, dark syrup, varies slightly in density, but this standard conversion works for most recipes. Whether you’re making gingerbread or a glaze, knowing the exact grams ensures consistency. For more air fryer-friendly measurements, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

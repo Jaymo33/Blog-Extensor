@@ -189,7 +189,6 @@ schema: |
     }
     }
     </script>
-    """
 ---
 
 <p>285 F converts to approximately 140 C in a fan oven. This temperature is commonly used for slow roasting, baking delicate pastries, or dehydrating foods in both conventional ovens and air fryers. Understanding this conversion is crucial when following American recipes or adjusting cooking times for different appliances.</p>
