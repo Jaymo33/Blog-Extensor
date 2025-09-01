@@ -42,7 +42,8 @@ schema: |
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-long-do-sausages-take-in-the-air-fryer.png"
     },
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true}
+    
+    }
     </script>
 
     <script type="application/ld+json">

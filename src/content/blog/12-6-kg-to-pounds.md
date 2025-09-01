@@ -47,7 +47,8 @@ schema: |
     },
     "articleSection": "Conversions",
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true}
+    
+    }
     </script>
 
     <script type="application/ld+json">

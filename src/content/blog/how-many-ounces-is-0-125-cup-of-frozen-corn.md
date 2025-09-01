@@ -47,7 +47,8 @@ schema: |
     },
     "articleSection": "Frozen",
     "inLanguage": "en-GB",
-    "isAccessibleForFree": true}
+    
+    }
     </script>
 
     <script type="application/ld+json">
