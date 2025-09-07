@@ -376,4 +376,4 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
 </style>
 
 <!-- Schema.org JSON-LD -->
-{schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+{schema && <div style="display: contents" set:html={schema} />}
