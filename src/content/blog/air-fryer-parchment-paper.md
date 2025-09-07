@@ -41,8 +41,7 @@ schema: |
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/air-fryer-parchment-paper.png"
     },
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

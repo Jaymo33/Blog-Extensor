@@ -46,8 +46,7 @@ schema: |
     "name": "GasMark"
     },
     "articleSection": "GasMark",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

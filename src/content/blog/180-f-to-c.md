@@ -41,8 +41,7 @@ schema: |
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/180-f-to-c.png"
     },
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

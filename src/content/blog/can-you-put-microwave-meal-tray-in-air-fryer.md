@@ -46,8 +46,7 @@ schema: |
     "name": "MicrowaveAirfryer"
     },
     "articleSection": "MicrowaveAirfryer",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

@@ -46,8 +46,7 @@ schema: |
     "name": "Accessories"
     },
     "articleSection": "Accessories",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

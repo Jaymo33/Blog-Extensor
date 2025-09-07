@@ -46,8 +46,7 @@ schema: |
     "name": "Reheat"
     },
     "articleSection": "Reheat",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

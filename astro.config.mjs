@@ -10,4 +10,12 @@ export default defineConfig({
     mdx(),
     sitemap(),
   ],
+  vite: {
+    server: {
+      watch: {
+        // Exclude blog files from file watching to prevent ENOSPC errors
+        ignored: ['**/src/content/blog/**/*.md']
+      }
+    }
+  }
 });

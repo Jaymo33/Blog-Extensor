@@ -7,7 +7,7 @@ tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
 schema: |
-    <script type="application/ld+json">d+json">d+json">
+    <script type="application/ld+json">d+json">
     {
     "@context": "https://schema.org",
     "@type": "BlogPosting",

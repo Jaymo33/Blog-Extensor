@@ -41,8 +41,7 @@ schema: |
     "name": "Volume"
     },
     "articleSection": "Volume",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

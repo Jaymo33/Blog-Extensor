@@ -46,8 +46,7 @@ schema: |
     "name": "FanOven"
     },
     "articleSection": "FanOven",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

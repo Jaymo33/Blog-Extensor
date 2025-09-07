@@ -7,7 +7,7 @@ tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
 schema: |
-    <script type="application/ld+json">d+json">
+    <script type="application/ld+json">
     {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -46,8 +46,7 @@ schema: |
     "name": "Conversions"
     },
     "articleSection": "Conversions",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

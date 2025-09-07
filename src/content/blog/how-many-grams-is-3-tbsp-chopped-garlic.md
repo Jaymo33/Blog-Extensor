@@ -46,8 +46,7 @@ schema: |
     "name": "Measurement"
     },
     "articleSection": "Measurement",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

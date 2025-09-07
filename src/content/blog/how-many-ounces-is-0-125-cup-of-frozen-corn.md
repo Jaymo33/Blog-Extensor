@@ -46,8 +46,7 @@ schema: |
     "name": "Frozen"
     },
     "articleSection": "Frozen",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

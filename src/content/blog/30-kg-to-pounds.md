@@ -46,8 +46,7 @@ schema: |
     "name": "Conversions"
     },
     "articleSection": "Conversions",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

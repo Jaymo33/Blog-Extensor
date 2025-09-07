@@ -36,8 +36,7 @@ schema: |
     },
     "datePublished": "2025-07-20T12:06:15.087000+00:00",
     "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

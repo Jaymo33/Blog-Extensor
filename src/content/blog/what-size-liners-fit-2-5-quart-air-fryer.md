@@ -46,8 +46,7 @@ schema: |
     "name": "Liner"
     },
     "articleSection": "Liner",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 

@@ -46,8 +46,7 @@ schema: |
     "name": "Safety"
     },
     "articleSection": "Safety",
-    "inLanguage": "en-GB",
-    
+    "inLanguage": "en-GB"
     }
     </script>
 
