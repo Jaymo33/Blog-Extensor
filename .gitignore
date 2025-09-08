@@ -7,10 +7,6 @@ dist/
 # dependencies
 node_modules/
 
-# local automation backups
-automation/original/**/__pycache__/
-automation/original/your-service-account.json
-
 # logs
 npm-debug.log*
 yarn-debug.log*
