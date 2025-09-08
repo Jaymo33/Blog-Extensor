@@ -87,9 +87,9 @@
   .nb-status { min-height: 1rem; font-size: 12px; margin: 6px 0 0 0; }
 
   /* Mobile tab */
-  .nb-tab { position: fixed; right: 10px; top: 50%; transform: translateY(-50%); pointer-events: auto; z-index: 41; border-radius: 12px 12px 0 0; border: 1px solid rgba(0,0,0,0.08); background:#fff; padding: 6px 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+  .nb-tab { position: fixed; right: 10px; top: 40%; transform: translateY(-50%); pointer-events: auto; z-index: 41; border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background:#fff; padding: 6px 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
   .nb-mobile { inset: 0; top: auto; bottom: 0; left: 0; right: 0; transform: none; display: flex; justify-content: center; align-items: flex-end; pointer-events: auto; }
-  .nb-mobile .nb-card { width: min(520px, 92vw); border-radius: 16px 16px 0 0; }
+  .nb-mobile .nb-card { width: min(520px, 92vw); border-radius: 16px 16px 0 0; margin: 0 12px 12px 12px; }
   .nb-close { margin-top: 8px; background: transparent; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px; padding: 6px 10px; color: inherit; cursor: pointer; }
 
   /* Motion */
@@ -99,6 +99,10 @@
   @media (prefers-reduced-motion: reduce) { .nb { transition: none; } }
 
   /* Responsive visibility: keep left banner on all sizes */
+  @media (max-width: 768px) {
+    .nb-left { display: none !important; }
+    .nb-tab { display: inline-block; }
+  }
 </style>
 
 <script>
