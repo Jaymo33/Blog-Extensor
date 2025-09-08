@@ -188,7 +188,7 @@
         (/** @type {HTMLElement} */(status)).textContent = 'Submitting…';
         (/** @type {HTMLElement} */(status)).style.color = '#666';
         try {
-          const endpoint = (import.meta && import.meta.env && import.meta.env.PUBLIC_NEWSLETTER_ENDPOINT) || '/api/subscribe';
+          const endpoint = (import.meta && import.meta.env && import.meta.env.PUBLIC_NEWSLETTER_ENDPOINT) || '/subscribe';
           const res = await fetch(endpoint, {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
