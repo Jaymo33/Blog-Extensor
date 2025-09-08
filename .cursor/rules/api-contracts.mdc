@@ -1,0 +1,11 @@
+---
+description: Guard public interfaces; avoid breaking changes without migration
+globs:
+  - "src/**/*"
+---
+# Contracts
+- Treat exported functions/types and API endpoints as contracts.
+- If a breaking change is needed, propose a compatibility layer or version bump.
+
+# Validation
+- Update or add contract tests (types, schemas, OpenAPI, GraphQL).

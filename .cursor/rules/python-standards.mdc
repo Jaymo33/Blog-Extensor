@@ -1,0 +1,9 @@
+---
+description: Python defaults
+globs:
+  - "**/*.py"
+---
+# Basics
+- Type hints (PEP 484), mypy-friendly.
+- Use pydantic/dataclasses for data models where sensible.
+- Prefer pathlib, logging, and context managers.

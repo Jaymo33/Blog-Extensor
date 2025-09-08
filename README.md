@@ -137,3 +137,21 @@ npm update
 ### Monitoring
 
 Use Cloudflare Analytics to monitor traffic and performance.
+
+## Newsletter Subscription (Supabase)
+
+1. Create table in Supabase (SQL):
+
+```sql
+create table public.subscribers (
+  id uuid primary key default gen_random_uuid(),
+  email text not null unique,
+  created_at timestamptz not null default now()
+);
+```
+
+2. Configure environment variables:
+- `SUPABASE_URL` (project URL)
+- `SUPABASE_SERVICE_ROLE_KEY` (service role key; keep secret!)
+
+3. The API route is available at `/api/subscribe`. The footer form posts here and shows a success/error message.

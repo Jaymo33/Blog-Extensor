@@ -1,0 +1,12 @@
+---
+description: Safe database/schema migrations
+globs:
+  - "migrations/**/*"
+  - "db/**/*"
+---
+# Migrations
+- Use forward-only, idempotent steps. Separate schema from backfill.
+- Provide a backfill plan and runtime estimate (ballpark).
+
+# Safety
+- Default off via feature flag when reading new columns/tables until backfill completes.

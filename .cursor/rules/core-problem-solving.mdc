@@ -1,0 +1,24 @@
+---
+description: Force structured thinking and planning before code; applies everywhere
+alwaysApply: true
+globs:
+  - "**/*"
+---
+# Objectives
+- Summarise the user story in 1–2 lines.
+- List constraints, unknowns, and assumptions.
+- Propose 2–3 implementation options with trade-offs. Pick one and justify.
+
+# Plan-Then-Do
+- Outline a step-by-step plan (max 8 steps), then execute.
+- If touching >3 files or complex flow, generate a minimal architecture sketch (text) and call out integration points.
+
+# Deliverables
+- Diff-ready code.
+- A short “CHANGELOG entry” (WHAT/WHY).
+- A follow-up TODO list for future refactors or tech debt.
+
+# Non-negotiables
+- Keep changes minimal to meet scope.
+- If the task scope creeps, pause and propose increments.
+

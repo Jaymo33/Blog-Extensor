@@ -1,0 +1,11 @@
+---
+description: Enforce repo style, linters, and formatters
+globs:
+  - "**/*.{ts,tsx,js,jsx,py,go,rb}"
+---
+# Style
+- Follow existing repo configs (ESLint/Prettier, Black, gofmt, RuboCop).
+- Do not introduce new style tools without approval; reuse config in repo.
+
+# Output
+- Only propose code that passes current linters/formatters. If uncertain, include the command to run locally.

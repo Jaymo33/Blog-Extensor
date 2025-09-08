@@ -369,8 +369,10 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
   }
 @media (max-width: 768px) {
    .header-image {
-    height: 250px;
-    min-width: 350px;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    min-width: 0;
   }
 }
 </style>

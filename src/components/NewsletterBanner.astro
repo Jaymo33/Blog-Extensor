@@ -1,0 +1,234 @@
+<div class="nb-root">
+  <div class="nb nb-left" data-side="left" hidden>
+    <form class="nb-card" novalidate>
+      <h3 class="nb-title">Subscribe to AirFryerRecipe Newsletter</h3>
+      <div id="nb-extra" class="nb-extra" aria-hidden="true">
+        <p class="nb-sub">Stay up to date with the latest air fryer recipes, tips, and guides. No spam. Unsubscribe anytime.</p>
+      </div>
+      <label class="nb-label" for="nb-email-left">Email</label>
+      <div class="nb-row">
+        <input id="nb-email-left" class="nb-input" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com" required aria-describedby="nb-status-left" />
+        <button class="nb-btn" type="submit">Subscribe</button>
+      </div>
+      <p id="nb-status-left" class="nb-status" role="status" aria-live="polite"></p>
+      <button class="nb-collapse" type="button" aria-label="Hide details" aria-controls="nb-extra" aria-expanded="false" title="Hide details">▼</button>
+    </form>
+  </div>
+
+  <div class="nb nb-right" data-side="right" hidden>
+    <form class="nb-card" novalidate>
+      <h3 class="nb-title">Ship better every week. Join the newsletter.</h3>
+      <p class="nb-sub">One email. Big wins. Zero noise.</p>
+      <label class="nb-label" for="nb-email-right">Email</label>
+      <div class="nb-row">
+        <input id="nb-email-right" class="nb-input" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com" required aria-describedby="nb-status-right" />
+        <button class="nb-btn" type="submit">Join free</button>
+      </div>
+      <p id="nb-status-right" class="nb-status" role="status" aria-live="polite"></p>
+      <button class="nb-dismiss" type="button" aria-label="Hide newsletter banner" title="Hide for now" data-action="minimize">›</button>
+    </form>
+  </div>
+
+  <button class="nb-tab" hidden aria-expanded="false" aria-controls="nb-mobile-panel">Newsletter</button>
+  <div id="nb-mobile-panel" class="nb nb-mobile" hidden role="dialog" aria-modal="true" aria-labelledby="nb-mobile-title">
+    <form class="nb-card" novalidate>
+      <h3 id="nb-mobile-title" class="nb-title">Get smarter, faster — join the newsletter.</h3>
+      <p class="nb-sub">Actionable ideas. No spam. Unsubscribe anytime.</p>
+      <label class="nb-label" for="nb-email-mobile">Email</label>
+      <div class="nb-row">
+        <input id="nb-email-mobile" class="nb-input" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com" required aria-describedby="nb-status-mobile" />
+        <button class="nb-btn" type="submit">Subscribe</button>
+      </div>
+      <p id="nb-status-mobile" class="nb-status" role="status" aria-live="polite"></p>
+      <button class="nb-close" type="button" aria-label="Close">Close</button>
+    </form>
+  </div>
+</div>
+
+<style>
+  .nb-root { position: fixed; inset: 0; pointer-events: none; }
+  .nb { position: fixed; top: var(--nb-top, 120px); transform: none; pointer-events: auto; z-index: 40; }
+  .nb-left { left: 16px; }
+  .nb-right { right: 16px; }
+
+  .nb-card {
+    width: clamp(180px, 12vw, 220px);
+    backdrop-filter: saturate(120%) blur(6px);
+    background: color-mix(in srgb, #fff 88%, transparent);
+    border: 1px solid rgba(0,0,0,0.06);
+    border-radius: 14px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    padding: 14px;
+    font-family: 'Inter', 'Poppins', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    color: #1a1b1f;
+  }
+  .nb-card.nb-success { background: #ffffff; border-color: rgba(0,0,0,0.08); }
+  @media (prefers-color-scheme: dark) {
+    .nb-card { background: color-mix(in srgb, #121212 78%, transparent); color: #eaeaea; border-color: rgba(255,255,255,0.08); box-shadow: 0 8px 24px rgba(0,0,0,0.5); }
+    .nb-input { background:#0f0f0f; color:#eaeaea; border-color: rgba(255,255,255,0.12); }
+  }
+
+  .nb-title { margin: 0 0 6px 0; font-size: 15px; font-weight: 600; line-height: 1.3; font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
+  .nb-sub { margin: 0 0 10px 0; font-size: 12px; opacity: 0.85; font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
+  .nb-extra { max-height: 0; overflow: hidden; transition: max-height var(--nb-extra-dur, 2000ms) ease; }
+  .nb-extra.nb-open { max-height: 200px; }
+
+  .nb-row { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+  .nb-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .nb-input { flex: 1; padding: 8px 10px; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px; font-size: 14px; }
+  .nb-input:focus { outline: 2px solid #2ec4b6; outline-offset: 2px; }
+  .nb-btn { padding: 10px 12px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.12); background:#1a1b1f; color:#fff; font-weight:600; cursor:pointer; width: 100%; }
+  .nb-btn:focus { outline: 2px solid #2ec4b6; outline-offset: 2px; }
+
+  .nb-collapse { position: absolute; right: 6px; bottom: 6px; border-radius: 9999px; border: 1px solid rgba(0,0,0,0.12); background: #FFF8ED; color: #333; cursor: pointer; font-size: 12px; opacity: 0.9; width: 26px; height: 26px; display: grid; place-items: center; box-shadow: 0 2px 6px rgba(0,0,0,0.06); }
+  .nb-collapse:hover { background: #fff; }
+  .nb-collapse:focus { outline: none; }
+
+  .nb-status { min-height: 1rem; font-size: 12px; margin: 6px 0 0 0; }
+
+  /* Mobile tab */
+  .nb-tab { position: fixed; right: 10px; top: 50%; transform: translateY(-50%); pointer-events: auto; z-index: 41; border-radius: 12px 12px 0 0; border: 1px solid rgba(0,0,0,0.08); background:#fff; padding: 6px 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+  .nb-mobile { inset: 0; top: auto; bottom: 0; left: 0; right: 0; transform: none; display: flex; justify-content: center; align-items: flex-end; pointer-events: auto; }
+  .nb-mobile .nb-card { width: min(520px, 92vw); border-radius: 16px 16px 0 0; }
+  .nb-close { margin-top: 8px; background: transparent; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px; padding: 6px 10px; color: inherit; cursor: pointer; }
+
+  /* Motion */
+  .nb[hidden], .nb-tab[hidden] { display: none !important; }
+  .nb { opacity: 0; transition: opacity 150ms ease; }
+  .nb.nb-show { opacity: 1; }
+  @media (prefers-reduced-motion: reduce) { .nb { transition: none; } }
+
+  /* Responsive visibility: keep left banner on all sizes */
+</style>
+
+<script>
+  // @ts-nocheck
+  const bannerKey = 'nb_state_v1';
+  const thirtyDaysMs = 30 * 24 * 60 * 60 * 1000;
+
+  /** @param {string} email */
+  function isValidEmail(email) {
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+  }
+
+  function readState() {
+    try { return JSON.parse(localStorage.getItem(bannerKey) || '{}'); } catch { return {}; }
+  }
+  /** @param {Record<string, any>} state */
+  function writeState(state) {
+    try { localStorage.setItem(bannerKey, JSON.stringify(state)); } catch {}
+  }
+
+  function computeOffsets() {
+    const container = document.querySelector('.container-2, .container, main');
+    const vw = window.innerWidth;
+    const bannerWidth = Math.min(Math.max(200, vw * 0.14), 260);
+    const containerWidth = container ? container.clientWidth : 0;
+    const edgeOffset = 28; // add extra gutter between banner and content
+    let left = edgeOffset;
+    let right = edgeOffset;
+    if (containerWidth) {
+      const sideSpace = (vw - containerWidth) / 2;
+      if (sideSpace > bannerWidth + edgeOffset) {
+        left = Math.max(edgeOffset, sideSpace - bannerWidth - edgeOffset);
+        right = left;
+      }
+    }
+    return { left, right };
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    /** @type {HTMLElement|null} */
+    const left = document.querySelector('.nb-left');
+
+    const s = readState();
+    const now = Date.now();
+    const isMinimized = s.minimizedUntil && s.minimizedUntil > now;
+    const isLocal = typeof window !== 'undefined' && (location.hostname === 'localhost' || location.hostname === '127.0.0.1');
+
+    function showLeft() {
+      if ((isLocal || (!isMinimized && !s.submitted)) && left) {
+        left.removeAttribute('hidden');
+        left.classList.add('nb-show');
+      }
+    }
+
+    function applyOffsets() {
+      const o = computeOffsets();
+      if (left && left instanceof HTMLElement) left.style.left = o.left + 'px';
+    }
+
+    /** @param {HTMLElement} root */
+    function wireForm(root) {
+      const form = root.querySelector('form');
+      const input = root.querySelector('input[type=email]');
+      const status = root.querySelector('.nb-status');
+      const extra = root.querySelector('#nb-extra');
+      const btnCollapse = root.querySelector('.nb-collapse');
+      if (btnCollapse && extra) {
+        btnCollapse.addEventListener('click', () => {
+          // Immediate toggle with no delay
+          extra.style.setProperty('--nb-extra-dur', '0ms');
+          const isOpen = extra.classList.toggle('nb-open');
+          btnCollapse.setAttribute('aria-expanded', String(isOpen));
+          btnCollapse.textContent = isOpen ? '▼' : '▲';
+          setTimeout(() => extra.style.removeProperty('--nb-extra-dur'), 0);
+        });
+      }
+      form && form.addEventListener('submit', async (/** @type {SubmitEvent} */ e) => {
+        e.preventDefault();
+        if (!input || !status) return;
+        const email = (/** @type {HTMLInputElement} */(input)).value.trim();
+        if (!isValidEmail(email)) {
+          (/** @type {HTMLElement} */(status)).textContent = 'Please enter a valid email address.';
+          (/** @type {HTMLElement} */(status)).style.color = '#b91c1c';
+          (/** @type {HTMLInputElement} */(input)).focus();
+          return;
+        }
+        (/** @type {HTMLElement} */(status)).textContent = 'Submitting…';
+        (/** @type {HTMLElement} */(status)).style.color = '#666';
+        try {
+          const res = await fetch('/api/subscribe', {
+            method: 'POST',
+            headers: { 'content-type': 'application/json' },
+            body: JSON.stringify({ email })
+          });
+          const data = await res.json().catch(() => ({}));
+          if (res.ok && data && data.ok) {
+            const card = root.querySelector('.nb-card'); if (card) card.classList.add('nb-success');
+            const extra = root.querySelector('#nb-extra'); if (extra) extra.classList.add('nb-open');
+            const row = root.querySelector('.nb-row'); if (row && row instanceof HTMLElement) row.style.display = 'none';
+            const sub = root.querySelector('.nb-sub'); if (sub) (/** @type {HTMLElement} */(sub)).textContent = "Thanks for subscribing!";
+            (/** @type {HTMLElement} */(status)).textContent = '';
+            writeState({ minimizedUntil: Date.now() + thirtyDaysMs, submitted: true });
+          } else {
+            (/** @type {HTMLElement} */(status)).textContent = (data && data.error) || 'Something went wrong. Please try again later.';
+            (/** @type {HTMLElement} */(status)).style.color = '#b91c1c';
+            (/** @type {HTMLInputElement} */(input)).focus();
+          }
+        } catch (_) {
+          (/** @type {HTMLElement} */(status)).textContent = 'Network error. Please try again later.';
+          (/** @type {HTMLElement} */(status)).style.color = '#b91c1c';
+          (/** @type {HTMLInputElement} */(input)).focus();
+        }
+      });
+    }
+
+    if (left) wireForm(left);
+
+    showLeft();
+
+    applyOffsets();
+    // Initialize at breadcrumb then only expand extra copy (top remains fixed)
+    const breadcrumb = document.querySelector('.secondary-nav');
+    const initialTop = breadcrumb ? (breadcrumb.getBoundingClientRect().top + window.scrollY) : 120;
+    if (left) left.style.setProperty('--nb-top', initialTop + 'px');
+    requestAnimationFrame(() => {
+      setTimeout(() => {
+        const extra = document.getElementById('nb-extra');
+        if (extra) { extra.classList.add('nb-open'); extra.style.setProperty('--nb-extra-dur', '0ms'); setTimeout(() => extra.style.removeProperty('--nb-extra-dur'), 0); }
+      }, 200);
+    });
+    window.addEventListener('resize', applyOffsets);
+  });
+</script>

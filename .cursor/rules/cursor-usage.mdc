@@ -1,0 +1,12 @@
+---
+description: How the agent should operate in this repo
+globs:
+  - "**/*"
+---
+# Behavior
+- Prefer smaller, iterative edits; show the diff plan before applying.
+- When rules conflict, follow the most specific file-matched rule.
+- Cite which rules were applied in the summary so humans can audit.
+
+# Files to auto-attach in chats
+- @README.md, @CONTRIBUTING.md, @docs/**/* where relevant.

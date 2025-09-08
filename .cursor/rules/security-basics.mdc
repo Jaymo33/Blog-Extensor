@@ -1,0 +1,15 @@
+---
+description: Apply basic appsec checks to every change
+globs:
+  - "**/*"
+---
+# Input & Secrets
+- Validate and sanitize inputs at boundaries. No raw eval. No dynamic SQL.
+- Never hardcode secrets; use env vars or secret manager.
+
+# Dependencies
+- Prefer pinned versions. Flag risky packages or license issues.
+- Note any new network calls and why they’re safe.
+
+# Data
+- Log minimal PII; mask sensitive fields. Call out data retention impacts.

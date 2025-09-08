@@ -1,0 +1,13 @@
+---
+description: Always write/extend tests first, then code, then iterate until green
+globs:
+  - "**/*"
+---
+# Rule
+- Write failing tests before implementation.
+- Prefer fast unit tests; add an integration test if behavior crosses boundaries.
+- After code, run tests mentally and point to assertions proving each requirement.
+
+# Coverage
+- Add tests for at least: happy path, one edge case, one failure path.
+

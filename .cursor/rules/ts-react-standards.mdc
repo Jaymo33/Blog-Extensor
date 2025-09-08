@@ -1,0 +1,12 @@
+---
+description: TS + React defaults
+globs:
+  - "**/*.{ts,tsx}"
+---
+# TS
+- Enable strict types; no `any` unless isolated with comment.
+- Narrow with guards; prefer discriminated unions.
+
+# React
+- Function components; hooks over classes.
+- Co-locate tests with components: `Component.test.tsx`.

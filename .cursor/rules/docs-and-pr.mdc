@@ -1,0 +1,11 @@
+---
+description: Keep the repo understandable
+globs:
+  - "**/*"
+---
+# Docs
+- Update README or /docs for any new commands, env vars, or flows.
+- Include a 3–6 line PR description with context, screenshots for UI.
+
+# Examples
+- If you add a new pattern, include a minimal usage snippet.

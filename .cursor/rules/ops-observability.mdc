@@ -1,0 +1,13 @@
+---
+description: Ensure we can see, debug, and roll back
+globs:
+  - "**/*"
+---
+# Logging
+- Add structured logs at edges and failures; avoid noisy info logs.
+
+# Metrics
+- If behavior is critical, emit a counter/latency metric and note alert conditions.
+
+# Rollback
+- State the single commit/flag to revert if needed; keep migrations reversible.

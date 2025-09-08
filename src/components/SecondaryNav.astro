@@ -14,7 +14,7 @@ const { currentTitle } = Astro.props;
   <div class="secondary-nav-container">
     <div class="secondary-nav-links">
       <a href="https://www.airfryerrecipe.co.uk/" class="secondary-nav-link">Home</a>
-      <span class="secondary-nav-separator">|</span>
+      <span class="secondary-nav-separator" aria-hidden="true">|</span>
       
       {currentTitle === "Blog" ? (
         <span class="secondary-nav-current">Blog</span>
@@ -23,7 +23,7 @@ const { currentTitle } = Astro.props;
           <a href="/blog" class="secondary-nav-link">Blog</a>
           {currentTitle && (
             <>
-              <span class="secondary-nav-separator">|</span>
+              <span class="secondary-nav-separator" aria-hidden="true">|</span>
               <span class="secondary-nav-current">{currentTitle}</span>
             </>
           )}
@@ -35,9 +35,9 @@ const { currentTitle } = Astro.props;
 
 <style>
   .secondary-nav {
-    background-color: var(--color-background);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-    padding: 0.5rem 0;
+    background-color: var(--color-background); /* revert: page section background unchanged */
+    border-bottom: none; /* No long border line below */
+    padding: 6px 0; /* compact height */
   }
 
   .secondary-nav-container {
@@ -49,50 +49,52 @@ const { currentTitle } = Astro.props;
   }
 
   .secondary-nav-links {
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.25rem;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: rgba(51, 51, 51, 0.7);
   }
 
   .secondary-nav-link {
-    color: #333;
+    color: rgba(51, 51, 51, 0.7);
     text-decoration: none;
-    font-size: 0.875rem;
-    font-weight: 500;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    background-color: rgba(0, 0, 0, 0.03);
-    transition: background-color 0.2s ease;
-    letter-spacing: -0.01em;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 15px; /* 15px left and right inside each pill */
+    border-radius: 8px; /* rounded pill */
+    background-color: rgba(226, 226, 226, 0.3);
+    border: 0.2px solid transparent; /* 0.2 width, transparent colour */
   }
 
-  .secondary-nav-link:hover {
-    background-color: rgba(0, 0, 0, 0.05);
-  }
+  .secondary-nav-link:hover { text-decoration: underline; }
 
   .secondary-nav-separator {
-    color: #999;
-    margin: 0 0.25rem;
+    color: #333;
+    opacity: 0.06; /* 6% */
+    padding-bottom: 5px; /* internal bottom padding 5px */
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 20px;
+    display: inline-block;
   }
 
   .secondary-nav-current {
-    color: #333;
-    text-decoration: none;
-    font-size: 0.875rem;
-    font-weight: 500;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    background-color: rgba(0, 0, 0, 0.03);
-    transition: background-color 0.2s ease;
-    letter-spacing: -0.01em;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
- 
+    color: rgba(51, 51, 51, 0.7);
+    display: inline-flex;
+    align-items: center;
+    padding: 0 15px; /* 15px left and right inside the pill */
+    border-radius: 8px; /* rounded pill */
+    background-color: rgba(226, 226, 226, 0.3);
+    border: 0.2px solid transparent; /* 0.2 width, transparent colour */
   }
 
   @media (max-width: 768px) {
-    .secondary-nav-current {
-      max-width: 150px;
-    }
+    .secondary-nav-container { padding: 0 1rem; }
+    .secondary-nav-links { font-size: 13px; }
   }
 </style>

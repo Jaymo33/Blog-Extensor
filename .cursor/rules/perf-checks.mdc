@@ -1,0 +1,13 @@
+---
+description: Make the simplest fast-enough solution, and prove it
+globs:
+  - "**/*"
+---
+# Hot-Path Awareness
+- If touching loops, DB calls, or rendering, estimate complexity (Big-O) and note bottlenecks.
+
+# Data Access
+- Batch where sensible; avoid N+1; add indexes hints if applicable.
+
+# Proof
+- Provide a micro-benchmark or reasoning for expected perf impact; include rollback note if perf regresses.

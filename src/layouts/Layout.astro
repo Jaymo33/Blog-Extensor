@@ -1,7 +1,7 @@
 ---
-import { ViewTransitions } from 'astro:transitions';
 import Footer from '../components/Footer.astro';
 import SecondaryNav from '../components/SecondaryNav.astro';
+import NewsletterBanner from '../components/NewsletterBanner.astro';
 
 interface Props {
 	title?: string;
@@ -29,8 +29,12 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/png" href="https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Webflow%20Assets/Favicon.png" />
 		<meta name="generator" content={Astro.generator} />
+		<!-- Open Sans font for navigation -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet" />
 		
 		<!-- Primary Meta Tags -->
 		<title>{title}</title>
@@ -125,6 +129,7 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 			<slot />
 		</main>
 		<Footer />
+		<NewsletterBanner />
 	</body>
 </html>
 
@@ -177,8 +182,11 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   border-radius: 15px;
 }
 .nav-dropdown-link-2{
-	font-size: 12px;
-	
+	font-size: 16px;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	line-height: 20px;
+	color: #1a1b1f;
 }
 
 /* Add this new CSS rule for white background on dropdown hover */
@@ -187,17 +195,19 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 } */
 
 .nav-link {
-  color: #333;
-  font-weight: 500;
+  color: #1a1b1f; /* requested colour */
+  font-weight: 400; /* Normal */
   text-decoration: none;
   padding: 0.5rem;
   transition: color 0.3s ease;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif; /* requested font */
+  font-size: 16px; /* Size */
+  line-height: 20px; /* Height */
 }
 
 .nav-link:hover,
 .nav-link.w--current {
-  font-weight: bold;
-  color: #333;
+  color: #1a1b1f;
 }
 
 /* Dropdown Styles */
@@ -310,11 +320,13 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   
   .nav-link {
     display: block;
-    font-size: 16px;
-    color: #333;
+    font-size: 16px; /* Size */
+    color: #1a1b1f; /* Colour */
     border-radius: 0;
-    font-weight: 500;
+    font-weight: 400; /* Normal */
+    line-height: 20px; /* Height */
     transition: background-color 0.2s ease;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   }
   
   .nav-link:hover {
@@ -351,9 +363,12 @@ const canonicalURL = new URL(canonical, Astro.site).href;
   
   .nav-dropdown-link-2 {
     /* padding: 1rem 2.5rem; */
-    font-size: 14px;
+    font-size: 16px;
+    line-height: 20px;
     border-bottom: 1px solid #e9ecef;
-    color: #666;
+    color: #1a1b1f;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 400;
   }
   
   .nav-dropdown-link-2:hover {

@@ -1,0 +1,12 @@
+---
+description: Don’t ship UX regressions; basic a11y by default
+globs:
+  - "app/**/*.{tsx,jsx,html,css}"
+---
+# UX
+- Preserve existing keyboard behavior and focus order.
+- Keep interactions consistent with current components.
+
+# A11y
+- Provide labels, roles, and alt text.
+- Ensure color contrast isn’t worse than existing baseline.

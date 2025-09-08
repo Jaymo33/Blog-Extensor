@@ -1,0 +1,9 @@
+---
+description: Node service patterns
+globs:
+  - "src/**/*.{ts,js}"
+---
+# Patterns
+- Controllers thin, services fat; DI where needed.
+- Centralized error handler; consistent error envelope.
+- Zod/Valibot for runtime validation at boundaries.

@@ -1,0 +1,9 @@
+---
+description: Keep refactors safe and scoped
+globs:
+  - "**/*"
+---
+# Protocol
+- No mixed refactor + feature in same PR unless trivial.
+- Preserve public behavior; include before/after code snippets for tricky moves.
+- Add characterization tests before large reshuffles.
