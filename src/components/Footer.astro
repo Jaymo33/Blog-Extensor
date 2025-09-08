@@ -234,7 +234,8 @@ const currentYear = new Date().getFullYear();
       try {
         const urlEncoded = new URLSearchParams();
         urlEncoded.set('email', email);
-        const res = await fetch('/api/subscribe', {
+        const endpoint = import.meta.env.PUBLIC_NEWSLETTER_ENDPOINT || '/api/subscribe';
+        const res = await fetch(endpoint, {
           method: 'POST',
           headers: {
             'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'
