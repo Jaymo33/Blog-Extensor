@@ -2,13 +2,12 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import cloudflare from '@astrojs/cloudflare';
+// import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://airfryerrecipes.co.uk',
-  output: 'server',
-  adapter: cloudflare(),
+  // Reverted to previous static output; no adapter
   integrations: [
     mdx(),
     sitemap(),
