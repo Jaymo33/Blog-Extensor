@@ -34,3 +34,6 @@ pnpm-debug.log*
 # Cloudflare
 .wrangler/
 .dev.vars
+
+# Sensitive files
+Prod/your-service-account.json
