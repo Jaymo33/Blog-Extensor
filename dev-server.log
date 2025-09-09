@@ -1,0 +1,89 @@
+
+> static-pages-for-blog@0.0.1 dev
+> astro dev --port 4322 --host
+
+14:36:07 [types] Generated 1ms
+14:36:33 [content] Syncing content
+14:36:33 [content] Astro config changed
+14:36:33 [content] Clearing content store
+14:37:03 [content] Synced content
+
+ astro  v5.12.4 ready in 55916 ms
+
+┃ Local    http://localhost:4322/
+┃ Network  http://192.168.5.143:4322/
+
+14:37:03 watching for file changes...
+14:38:22 [200] / 39ms
+14:38:32 [200] /blog 6665ms
+14:38:38 [200] /blog/0-25-kg-beef-mince-to-pounds/ 85ms
+14:38:42 [200] /blog 261ms
+15:38:49 [200] /blog 404ms
+16:48:11 [vite] [32m.env changed, restarting server...[39m
+16:48:11 Restarting...
+16:48:22 [vite] Re-optimizing dependencies because vite config has changed
+16:48:23 [content] Syncing content
+16:48:35 [content] Synced content
+16:48:35 [types] Generated 23.50s
+16:48:35 [vite] Re-optimizing dependencies because vite config has changed
+16:50:13 [vite] [32m.env changed, restarting server...[39m
+16:50:13 Restarting...
+16:50:24 [vite] Re-optimizing dependencies because vite config has changed
+16:50:26 [content] Syncing content
+16:52:36 [content] Synced content
+16:52:36 [types] Generated 142.60s
+16:52:36 [vite] Re-optimizing dependencies because vite config has changed
+16:55:14 [vite] [32m.env changed, restarting server...[39m
+16:55:14 Restarting...
+16:55:25 [vite] Re-optimizing dependencies because vite config has changed
+16:55:26 [content] Syncing content
+16:55:38 [content] Synced content
+16:55:38 [types] Generated 23.44s
+16:55:38 [vite] Re-optimizing dependencies because vite config has changed
+17:00:27 [vite] [32m.env changed, restarting server...[39m
+17:00:27 Restarting...
+17:00:38 [vite] Re-optimizing dependencies because vite config has changed
+17:00:39 [content] Syncing content
+17:00:51 [content] Synced content
+17:00:51 [types] Generated 23.03s
+17:00:51 [vite] Re-optimizing dependencies because vite config has changed
+17:09:57 [vite] [32m.env changed, restarting server...[39m
+17:09:57 Restarting...
+17:10:29 [vite] Re-optimizing dependencies because vite config has changed
+17:14:08 [vite] [32m.env changed, restarting server...[39m
+17:14:11 [vite] Re-optimizing dependencies because vite config has changed
+17:14:11 [vite] server restarted.
+17:14:11 [vite] 
+17:14:11 [vite]   [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+17:14:11 [vite]   [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.5.143:[1m5173[22m/[39m
+17:15:13 [vite] [32m.env changed, restarting server...[39m
+17:15:15 [vite] Re-optimizing dependencies because vite config has changed
+17:15:15 [vite] server restarted.
+17:17:16 [content] Syncing content
+17:17:30 [content] Synced content
+17:17:30 [types] Generated 436.15s
+17:17:30 [ERROR] [UnhandledRejection] Astro detected an unhandled rejection. Here's the stack trace:
+Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+    at Server.listen (node:net:2044:11)
+    at httpServer.listen (file:///C:/Users/user/Documents/Blog-Extensor/Blog-Extensor/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:38729:14)
+  Hint:
+    Make sure your promises all have an `await` or a `.catch()` handler.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unhandled-rejection/
+  Stack trace:
+    at Server.listen (node:net:2044:11)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+17:17:30 [ERROR] [UnhandledRejection] Astro detected an unhandled rejection. Here's the stack trace:
+Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+    at Server.listen (node:net:2044:11)
+    at httpServer.listen (file:///C:/Users/user/Documents/Blog-Extensor/Blog-Extensor/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:38729:14)
+  Hint:
+    Make sure your promises all have an `await` or a `.catch()` handler.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unhandled-rejection/
+  Stack trace:
+    at Server.listen (node:net:2044:11)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+17:37:18 [vite] [32m.env changed, restarting server...[39m
+17:37:19 [vite] Re-optimizing dependencies because vite config has changed
+17:37:19 [vite] server restarted.
