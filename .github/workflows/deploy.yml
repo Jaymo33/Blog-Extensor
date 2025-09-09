@@ -27,10 +27,6 @@ jobs:
         run: |
           export NODE_OPTIONS="--max-old-space-size=6144"
           npm run build
-          
-      - name: Copy _redirects file
-        run: |
-          cp public/_redirects dist/_redirects || copy public\_redirects dist\_redirects
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
