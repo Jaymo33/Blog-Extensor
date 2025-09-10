@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds"
   },
-  "headline": "Quick 3.5 kg cod fillet to pounds conversion for air fryer cooking",
-  "description": "Convert 3.5 kg cod fillet to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for flawless results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 3.5 kg cod fillet to pounds conversion for air fryer cooking",
+        "description": "Convert 3.5 kg cod fillet to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for flawless results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-cod-fillet-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-cod-fillet-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 3.5 kg of cod fillet?",
+            "@type": "Question",
+            "name": "How many pounds is 3.5 kg of cod fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "3.5 kg of cod fillet is approximately 7.72 pounds. This conversion uses the standard multiplier where 1 kilogram equals about 2.20462 pounds. It's a useful figure to know for portioning and cooking, especially in air fryers where basket size and weight limits matter."
     }
     },
     {
-    "@type": "Question",
-    "name": "Should I cook a 3.5 kg cod fillet whole or cut it up for the air fryer?",
+            "@type": "Question",
+            "name": "Should I cook a 3.5 kg cod fillet whole or cut it up for the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You should almost always cut a 3.5 kg cod fillet into smaller portions for air frying. Most air fryer baskets cannot accommodate a fillet of that size whole, and cutting ensures even cooking and proper air circulation. Aim for evenly sized pieces that fit in a single layer without overlapping for the best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does it take to air fry a 3.5 kg cod fillet?",
+            "@type": "Question",
+            "name": "How long does it take to air fry a 3.5 kg cod fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The total cooking time depends on how you portion the fillet. For pieces about 2-3 cm thick, cook at 200°C (400°F) for 10-12 minutes per batch. Since 3.5 kg will likely require multiple batches, factor in the time for each, plus a minute or two of preheating between batches if needed. Always check that the cod flakes easily with a fork."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a frozen 3.5 kg cod fillet in the air fryer?",
+            "@type": "Question",
+            "name": "Can I cook a frozen 3.5 kg cod fillet in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can cook a frozen 3.5 kg cod fillet in the air fryer, but it will take longer. Thawing is recommended for more even cooking, but if cooking from frozen, increase the time by 5-8 minutes per batch and ensure the internal temperature reaches 63°C (145°F). Cut while partially frozen if needed, but handle carefully."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "3.5 kg cod fillet to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "3.5 kg cod fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds",
     "description": "Convert 3.5 kg cod fillet to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for flawless results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "3.5 kg cod fillet to pounds",
+            "name": "3.5 kg cod fillet to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-cod-fillet-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

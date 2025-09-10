@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk"
   },
-  "headline": "Quick Conversion: 335 ml of Condensed Milk to Cups",
-  "description": "Convert 335 ml of condensed milk to cups effortlessly for precise baking. Get accurate measurements for perfect air fryer recipes every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Conversion: 335 ml of Condensed Milk to Cups",
+        "description": "Convert 335 ml of condensed milk to cups effortlessly for precise baking. Get accurate measurements for perfect air fryer recipes every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:32:39.600Z",
-  "dateModified": "2025-07-30T23:32:39.600Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-335-ml-of-condensed-milk.webp"
+        "datePublished": "2025-07-30T23:32:39.600Z",
+        "dateModified": "2025-07-30T23:32:39.600Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-335-ml-of-condensed-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 335 ml of condensed milk the same as 1.4 cups?",
+            "@type": "Question",
+            "name": "Is 335 ml of condensed milk the same as 1.4 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 335 ml of condensed milk is approximately 1.4 cups. This conversion is standard for both UK and US measurements, though slight variations may exist based on cup size. Always measure carefully for best results in air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale instead of cups for condensed milk?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale instead of cups for condensed milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! A kitchen scale provides the most accurate measurement. 335 ml of condensed milk weighs about 390 grams. If your recipe lists ingredients by weight, using a scale ensures precision, especially for air fryer baking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the brand of condensed milk affect the measurement?",
+            "@type": "Question",
+            "name": "Does the brand of condensed milk affect the measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most brands have similar densities, so 335 ml should equal 1.4 cups regardless. However, thicker or sweeter varieties might vary slightly. For consistency, stick to one brand when possible, especially for air fryer desserts."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I adjust recipes if I only have a 400 ml can of condensed milk?",
+            "@type": "Question",
+            "name": "How do I adjust recipes if I only have a 400 ml can of condensed milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If your recipe calls for 335 ml (1.4 cups) but you have a 400 ml can, simply measure out the required amount. Use the leftover for another recipe or store it in the fridge. For more ideas, check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe section</a>."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 335 ml of Condensed Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 335 ml of Condensed Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk",
     "description": "Convert 335 ml of condensed milk to cups effortlessly for precise baking. Get accurate measurements for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 335 ml of Condensed Milk?",
+            "name": "How Many Cups Is 335 ml of Condensed Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-condensed-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

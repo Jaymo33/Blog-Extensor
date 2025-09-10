@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half"
   },
-  "headline": "Quick Conversion: How Many Cups Is 710 ml of Half And Half?",
-  "description": "Discover how to convert 710 ml of half and half to cups for precise baking and cooking. Perfect for air fryer recipes and more!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Conversion: How Many Cups Is 710 ml of Half And Half?",
+        "description": "Discover how to convert 710 ml of half and half to cups for precise baking and cooking. Perfect for air fryer recipes and more!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T23:32:10.358Z",
-  "dateModified": "2025-08-01T23:32:10.358Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-half-and-half.webp"
+        "datePublished": "2025-08-01T23:32:10.358Z",
+        "dateModified": "2025-08-01T23:32:10.358Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-half-and-half.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 710 ml of half and half the same as 3 cups?",
+            "@type": "Question",
+            "name": "Is 710 ml of half and half the same as 3 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 710 ml of half and half is approximately 3 cups in both UK and US measurements. This conversion is useful for recipes requiring precise liquid measurements, especially in baking or air fryer cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 710 ml of half and half in an air fryer recipe?",
+            "@type": "Question",
+            "name": "Can I use 710 ml of half and half in an air fryer recipe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Half and half works well in air fryer recipes like creamy sauces, custards, or even desserts. Just ensure you measure accurately—710 ml equals roughly 3 cups for consistent results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 710 ml of half and half without a measuring cup?",
+            "@type": "Question",
+            "name": "How do I measure 710 ml of half and half without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a measuring cup, use a kitchen scale. Since 710 ml of half and half weighs about 710 grams, you can weigh it out. Alternatively, a standard mug holds roughly 250 ml, so 710 ml would be just under 3 mugfuls."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the fat content in half and half affect the conversion to cups?",
+            "@type": "Question",
+            "name": "Does the fat content in half and half affect the conversion to cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, the fat content doesn’t change the volume conversion. Whether it’s half and half, milk, or cream, 710 ml will always equal roughly 3 cups. The difference lies in richness, not measurement."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 710 ml of Half And Half?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 710 ml of Half And Half?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half",
     "description": "Discover how to convert 710 ml of half and half to cups for precise baking and cooking. Perfect for air fryer recipes and more!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 710 ml of Half And Half?",
+            "name": "How Many Cups Is 710 ml of Half And Half?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-half-and-half"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

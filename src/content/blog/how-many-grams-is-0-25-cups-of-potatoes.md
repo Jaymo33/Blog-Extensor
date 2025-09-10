@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes"
   },
-  "headline": "Quick Guide: Convert 0.25 Cups of Potatoes to Grams Easily",
-  "description": "Learn how to convert 0.25 cups of potatoes to grams for perfect air fryer recipes every time. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.25 Cups of Potatoes to Grams Easily",
+        "description": "Learn how to convert 0.25 cups of potatoes to grams for perfect air fryer recipes every time. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:24.193Z",
-  "dateModified": "2025-07-27T16:11:24.193Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-cups-of-potatoes.webp"
+        "datePublished": "2025-07-27T16:11:24.193Z",
+        "dateModified": "2025-07-27T16:11:24.193Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-cups-of-potatoes.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 0.25 cups of potatoes the same as 35 grams in all recipes?",
+            "@type": "Question",
+            "name": "Is 0.25 cups of potatoes the same as 35 grams in all recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Not always. While 0.25 cups of diced potatoes is roughly 35 grams, the weight can vary if the potatoes are grated, mashed, or sliced thinly. Always weigh your potatoes for precision, especially in air fryer recipes where consistency matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 0.25 cups of frozen potatoes instead of fresh?",
+            "@type": "Question",
+            "name": "Can I use 0.25 cups of frozen potatoes instead of fresh?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but frozen potatoes may weigh slightly more due to ice crystals. Thaw and pat them dry before measuring to get the closest gram equivalent to fresh. For best results, check our frozen foods conversion guide on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 0.25 cups of sweet potatoes to grams?",
+            "@type": "Question",
+            "name": "How do I convert 0.25 cups of sweet potatoes to grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Sweet potatoes are denser than regular potatoes, so 0.25 cups will weigh about 40-45 grams. Adjust cooking times slightly, as sweet potatoes may take longer to crisp in the air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe fail when I use cup measurements?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe fail when I use cup measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Cup measurements can be inconsistent due to packing or chopping variations. Switching to grams (35g for 0.25 cups of potatoes) ensures accuracy. Also, avoid overcrowding the basket—cook in batches if needed for even results."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 0.25 Cups of Potatoes?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 0.25 Cups of Potatoes?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes",
     "description": "Learn how to convert 0.25 cups of potatoes to grams for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:24.193000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 0.25 Cups of Potatoes?",
+            "name": "How Many Grams Is 0.25 Cups of Potatoes?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-potatoes"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

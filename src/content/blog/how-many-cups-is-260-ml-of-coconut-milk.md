@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk"
   },
-  "headline": "Quick Guide: Convert 260 ml of Coconut Milk to Cups Easily",
-  "description": "Learn how to convert 260 ml of coconut milk to cups for perfect recipes every time. Get precise measurements for baking and cooking in seconds.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 260 ml of Coconut Milk to Cups Easily",
+        "description": "Learn how to convert 260 ml of coconut milk to cups for perfect recipes every time. Get precise measurements for baking and cooking in seconds.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:32:39.600Z",
-  "dateModified": "2025-07-30T23:32:39.600Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-260-ml-of-coconut-milk.webp"
+        "datePublished": "2025-07-30T23:32:39.600Z",
+        "dateModified": "2025-07-30T23:32:39.600Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-260-ml-of-coconut-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of coconut milk affect the 260 ml to cups conversion?",
+            "@type": "Question",
+            "name": "Does the type of coconut milk affect the 260 ml to cups conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the type of coconut milk can slightly affect measurements. Full-fat coconut milk is thicker, so 260 ml might appear slightly less in cups than light coconut milk. However, the difference is minimal - about 1-2% variance. For most recipes, you can use the standard 260 ml to 1.1 cups conversion regardless of type."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for coconut cream as coconut milk?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for coconut cream as coconut milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, coconut cream is much thicker than coconut milk. While 260 ml of coconut milk equals about 1.1 cups, the same volume of coconut cream would be roughly 1.25 cups due to its density. If substituting, you'll need to adjust other liquid ingredients in your air fryer recipe accordingly."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 260 ml of coconut milk without any tools?",
+            "@type": "Question",
+            "name": "How do I measure 260 ml of coconut milk without any tools?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "In a pinch, you can estimate 260 ml using common household items. A standard UK mug holds about 284 ml, so fill it just under full. Alternatively, use 17 level tablespoons (15 ml each) plus 1 teaspoon (5 ml). While not as precise as proper measuring cups, these methods work for most casual cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my 260 ml of coconut milk measurement look different in various recipes?",
+            "@type": "Question",
+            "name": "Why does my 260 ml of coconut milk measurement look different in various recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "This variation usually comes from whether recipes use UK or US cup measurements, or if they account for the natural separation in canned coconut milk. Some recipes measure the creamy top layer separately from the watery bottom. Always shake or stir your coconut milk well before measuring 260 ml for consistent results across different dishes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 260 ml of Coconut Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 260 ml of Coconut Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk",
     "description": "Learn how to convert 260 ml of coconut milk to cups for perfect recipes every time. Get precise measurements for baking and cooking in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 260 ml of Coconut Milk?",
+            "name": "How Many Cups Is 260 ml of Coconut Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-coconut-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

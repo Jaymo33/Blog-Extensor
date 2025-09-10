@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli"
   },
-  "headline": "Quick Answer: How Many Cups Is 100 Grams of Broccoli?",
-  "description": "Find out exactly how many cups 100 grams of broccoli equals for perfect air fryer recipes every time. Simple conversion guide included!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 100 Grams of Broccoli?",
+        "description": "Find out exactly how many cups 100 grams of broccoli equals for perfect air fryer recipes every time. Simple conversion guide included!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T21:00:03.724Z",
-  "dateModified": "2025-07-27T21:00:03.724Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-broccoli.webp"
+        "datePublished": "2025-07-27T21:00:03.724Z",
+        "dateModified": "2025-07-27T21:00:03.724Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-broccoli.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 100 grams of broccoli change in volume when cooked?",
+            "@type": "Question",
+            "name": "Does 100 grams of broccoli change in volume when cooked?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, broccoli shrinks slightly when cooked due to water loss. 100 grams of raw broccoli yields about 3/4 cup after air frying. Always measure raw broccoli for recipes unless specified otherwise."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use frozen broccoli instead of fresh for 100 grams?",
+            "@type": "Question",
+            "name": "Can I use frozen broccoli instead of fresh for 100 grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Frozen broccoli works well—100 grams is still roughly 1 cup. No need to thaw; just add 1–2 extra minutes in the air fryer. Pat dry after cooking to remove excess moisture."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many calories are in 100 grams of broccoli?",
+            "@type": "Question",
+            "name": "How many calories are in 100 grams of broccoli?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "100 grams of raw broccoli contains about 34 calories, making it a low-calorie, nutrient-dense choice for air frying. It's packed with fibre, vitamin C, and antioxidants."
     }
     },
     {
-    "@type": "Question",
-    "name": "Should I weigh broccoli before or after trimming the stems?",
+            "@type": "Question",
+            "name": "Should I weigh broccoli before or after trimming the stems?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weigh after trimming unless your recipe specifies otherwise. Most recipes assume trimmed broccoli, but if using stems (great for slaws!), include them in your 100-gram measurement for accuracy."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 100 Grams of Broccoli?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 100 Grams of Broccoli?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli",
     "description": "Find out exactly how many cups 100 grams of broccoli equals for perfect air fryer recipes every time. Simple conversion guide included!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T21:00:03.724000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 100 Grams of Broccoli?",
+            "name": "How Many Cups Is 100 Grams of Broccoli?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-broccoli"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

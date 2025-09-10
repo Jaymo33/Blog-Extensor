@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces"
   },
-  "headline": "Quick Guide: Convert 0.33 Cup Pumpkin Seeds to Ounces",
-  "description": "Learn how to convert 0.33 cup of pumpkin seeds to ounces for perfect air fryer recipes. Get accurate measurements every time!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.33 Cup Pumpkin Seeds to Ounces",
+        "description": "Learn how to convert 0.33 cup of pumpkin seeds to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-14T23:44:02.193Z",
-  "dateModified": "2025-08-14T23:44:02.193Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-pumpkin-seeds-to-ounces.webp"
+        "datePublished": "2025-08-14T23:44:02.193Z",
+        "dateModified": "2025-08-14T23:44:02.193Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-pumpkin-seeds-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 0.33 cup of pumpkin seeds to grams?",
+            "@type": "Question",
+            "name": "How do I convert 0.33 cup of pumpkin seeds to grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "0.33 cup of pumpkin seeds is roughly 42 grams. For precise air fryer recipes, using a kitchen scale is best. This ensures consistent results, especially when roasting or seasoning."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 0.33 cup of pumpkin seeds in any air fryer?",
+            "@type": "Question",
+            "name": "Can I use 0.33 cup of pumpkin seeds in any air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 0.33 cup (1.5 oz) of pumpkin seeds works in most air fryers. Just spread them evenly in the basket to avoid overcrowding. Smaller air fryers may require batch cooking for optimal crispiness."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long should I air fry 0.33 cup of pumpkin seeds?",
+            "@type": "Question",
+            "name": "How long should I air fry 0.33 cup of pumpkin seeds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Roast 0.33 cup (1.5 oz) of pumpkin seeds at 180°C for 8–10 minutes, shaking halfway. Timing may vary slightly depending on your air fryer model and desired crispness."
     }
     },
     {
-    "@type": "Question",
-    "name": "Are pumpkin seeds healthy when air-fried?",
+            "@type": "Question",
+            "name": "Are pumpkin seeds healthy when air-fried?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Air-frying pumpkin seeds preserves their nutrients while reducing added oil. A 0.33 cup (1.5 oz) serving is rich in protein, magnesium, and healthy fats, making it a nutritious snack."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.33 cup of pumpkin seeds?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.33 cup of pumpkin seeds?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces",
     "description": "Learn how to convert 0.33 cup of pumpkin seeds to ounces for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.33 cup of pumpkin seeds?",
+            "name": "How many ounces is 0.33 cup of pumpkin seeds?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-pumpkin-seeds-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

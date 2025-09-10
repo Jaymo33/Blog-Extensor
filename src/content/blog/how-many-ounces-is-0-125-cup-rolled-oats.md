@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats"
   },
-  "headline": "Quick Answer: 0.125 Cup Rolled Oats to Ounces Conversion",
-  "description": "Discover how many ounces are in 0.125 cup of rolled oats for perfect air fryer recipes. Get accurate UK measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.125 Cup Rolled Oats to Ounces Conversion",
+        "description": "Discover how many ounces are in 0.125 cup of rolled oats for perfect air fryer recipes. Get accurate UK measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-17T23:33:52.556Z",
-  "dateModified": "2025-08-17T23:33:52.556Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-rolled-oats.webp"
+        "datePublished": "2025-08-17T23:33:52.556Z",
+        "dateModified": "2025-08-17T23:33:52.556Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-rolled-oats.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use quick oats instead of rolled oats for this measurement?",
+            "@type": "Question",
+            "name": "Can I use quick oats instead of rolled oats for this measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, quick oats can be substituted for rolled oats in the same measurement (0.125 cup equals 0.4 ounces). However, quick oats have a finer texture, which may affect the final result in recipes like granola or coatings. Adjust cooking times slightly if needed."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 0.125 cup of rolled oats without a measuring cup?",
+            "@type": "Question",
+            "name": "How do I measure 0.125 cup of rolled oats without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don't have a measuring cup, use a tablespoon to measure out 2 tablespoons of rolled oats, which is roughly equivalent to 0.125 cup. For the most accurate results, a kitchen scale measuring 0.4 ounces is ideal."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the weight of rolled oats change if they're packed down?",
+            "@type": "Question",
+            "name": "Does the weight of rolled oats change if they're packed down?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, packing rolled oats into a measuring cup can increase the weight, leading to an inaccurate measurement. Always spoon the oats lightly into the cup and level it off for the correct 0.125 cup to ounces conversion."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this measurement for steel-cut oats?",
+            "@type": "Question",
+            "name": "Can I use this measurement for steel-cut oats?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, steel-cut oats are denser and heavier than rolled oats. A 0.125 cup of steel-cut oats weighs closer to 0.6 ounces. Always check specific conversions for different oat types to ensure recipe accuracy."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.125 cup of rolled oats?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.125 cup of rolled oats?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats",
     "description": "Discover how many ounces are in 0.125 cup of rolled oats for perfect air fryer recipes. Get accurate UK measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.125 cup of rolled oats?",
+            "name": "How many ounces is 0.125 cup of rolled oats?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-rolled-oats"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

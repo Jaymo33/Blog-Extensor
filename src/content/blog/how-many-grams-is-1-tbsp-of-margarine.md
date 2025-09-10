@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine"
   },
-  "headline": "Quick Answer: How many grams is 1 tbsp of margarine?",
-  "description": "Discover the exact grams in 1 tbsp of margarine for perfect air fryer recipes every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many grams is 1 tbsp of margarine?",
+        "description": "Discover the exact grams in 1 tbsp of margarine for perfect air fryer recipes every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-05T23:07:32.143Z",
-  "dateModified": "2025-08-05T23:07:32.143Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-margarine.webp"
+        "datePublished": "2025-08-05T23:07:32.143Z",
+        "dateModified": "2025-08-05T23:07:32.143Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-margarine.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 1 tbsp of margarine weigh the same as butter?",
+            "@type": "Question",
+            "name": "Does 1 tbsp of margarine weigh the same as butter?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 1 tablespoon of margarine and butter both weigh approximately 14 grams. However, margarine often contains more water, which can affect cooking results in your air fryer. Always check your specific brand for exact measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 1 tbsp of margarine without a scale?",
+            "@type": "Question",
+            "name": "How do I measure 1 tbsp of margarine without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Use a standard UK tablespoon and level off the margarine with a knife for an accurate 14-gram measure. For melted margarine, measure it in its solid state first, then melt it to ensure precision in your air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use margarine instead of oil in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use margarine instead of oil in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute margarine for oil in many air fryer recipes. Use the same weight (14 grams per tbsp) and adjust cooking times slightly, as margarine may cause more splattering due to its water content."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer smoke when using margarine?",
+            "@type": "Question",
+            "name": "Why does my air fryer smoke when using margarine?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Margarine can smoke if used in excess due to its lower smoke point compared to oils. Stick to 1 tbsp (14 grams) or less, and ensure your air fryer is clean. Check our cleaning guide for tips on managing grease buildup."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 1 tbsp of margarine?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine",
+            "@type": "WebPage",
+            "name": "How many grams is 1 tbsp of margarine?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine",
     "description": "Discover the exact grams in 1 tbsp of margarine for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 1 tbsp of margarine?",
+            "name": "How many grams is 1 tbsp of margarine?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

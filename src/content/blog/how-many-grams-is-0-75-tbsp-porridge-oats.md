@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats"
   },
-  "headline": "Quick Guide: Convert 0.75 tbsp of porridge oats to grams",
-  "description": "Learn how to convert 0.75 tbsp of porridge oats to grams for perfect air fryer recipes every time. Get precise measurements now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.75 tbsp of porridge oats to grams",
+        "description": "Learn how to convert 0.75 tbsp of porridge oats to grams for perfect air fryer recipes every time. Get precise measurements now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-06T23:33:24.546Z",
-  "dateModified": "2025-08-06T23:33:24.546Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-porridge-oats.webp"
+        "datePublished": "2025-08-06T23:33:24.546Z",
+        "dateModified": "2025-08-06T23:33:24.546Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-porridge-oats.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use instant oats instead of porridge oats for 0.75 tbsp measurements?",
+            "@type": "Question",
+            "name": "Can I use instant oats instead of porridge oats for 0.75 tbsp measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Instant oats are finer and denser than porridge oats, so 0.75 tbsp would weigh slightly more. For accuracy, stick to porridge oats or adjust the weight to about 6 grams if using instant oats. The texture in recipes will also differ, with instant oats becoming softer faster."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 0.75 tbsp of porridge oats to cups?",
+            "@type": "Question",
+            "name": "How do I convert 0.75 tbsp of porridge oats to cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "0.75 tbsp is roughly 0.047 cups (about 1/20th of a cup). For air fryer recipes, we recommend sticking to grams or tablespoons for small quantities like this, as cup measurements are less precise for such small amounts."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the brand of porridge oats affect the weight of 0.75 tbsp?",
+            "@type": "Question",
+            "name": "Does the brand of porridge oats affect the weight of 0.75 tbsp?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Different brands can vary slightly in density, but the difference is minimal—usually within 0.5 grams for 0.75 tbsp. For absolute precision in recipes like energy balls or granola, weighing is always best regardless of brand."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute 0.75 tbsp of porridge oats with flour in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I substitute 0.75 tbsp of porridge oats with flour in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Flour behaves very differently from oats in cooking. While you could substitute gram-for-gram (about 5.6g), the texture and binding properties will change significantly. Oats provide structure and chewiness that flour doesn’t replicate, especially in air fryer recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 0.75 tbsp of porridge oats?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats",
+            "@type": "WebPage",
+            "name": "How many grams is 0.75 tbsp of porridge oats?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats",
     "description": "Learn how to convert 0.75 tbsp of porridge oats to grams for perfect air fryer recipes every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 0.75 tbsp of porridge oats?",
+            "name": "How many grams is 0.75 tbsp of porridge oats?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-porridge-oats"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

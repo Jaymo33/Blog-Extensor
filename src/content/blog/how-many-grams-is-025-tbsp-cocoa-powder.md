@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder"
   },
-  "headline": "Quick Answer: 0.25 tbsp cocoa powder to grams conversion",
-  "description": "Discover how to convert 0.25 tbsp of cocoa powder into grams for precise baking in your air fryer. Get accurate measurements every time!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.25 tbsp cocoa powder to grams conversion",
+        "description": "Discover how to convert 0.25 tbsp of cocoa powder into grams for precise baking in your air fryer. Get accurate measurements every time!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-03T23:25:27.803Z",
-  "dateModified": "2025-08-03T23:25:27.803Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-025-tbsp-cocoa-powder.webp"
+        "datePublished": "2025-08-03T23:25:27.803Z",
+        "dateModified": "2025-08-03T23:25:27.803Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-025-tbsp-cocoa-powder.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use heaped 0.25 tbsp of cocoa powder in recipes?",
+            "@type": "Question",
+            "name": "Can I use heaped 0.25 tbsp of cocoa powder in recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It's best to use level measurements unless the recipe specifies otherwise. A heaped 0.25 tbsp could be nearly double the intended amount (about 3g instead of 1.5g), which might make your air fryer baked goods too dense or bitter."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 0.25 tbsp cocoa powder compare to chocolate chips in recipes?",
+            "@type": "Question",
+            "name": "How does 0.25 tbsp cocoa powder compare to chocolate chips in recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "0.25 tbsp cocoa powder (1.5g) provides intense chocolate flavour without added fat or sugar. To substitute chocolate chips, you'd need about 3g (roughly 5-6 standard chips), but the texture and sweetness will differ in air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some recipes use tbsp while others use grams for cocoa powder?",
+            "@type": "Question",
+            "name": "Why do some recipes use tbsp while others use grams for cocoa powder?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Tablespoon measurements are more common in older or American recipes, while grams are standard in professional baking for precision. For small amounts like 0.25 tbsp, grams are more reliable, especially in air fryer cooking where exact measurements matter."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use drinking chocolate instead of cocoa powder in the same measurement?",
+            "@type": "Question",
+            "name": "Can I use drinking chocolate instead of cocoa powder in the same measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, drinking chocolate contains sugar and milk powder. If substituting, use about half the amount (0.125 tbsp) and reduce other sugars in your air fryer recipe. For best results, stick to pure cocoa powder when the recipe specifies it."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 0.25 tbsp of cocoa powder?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder",
+            "@type": "WebPage",
+            "name": "How many grams is 0.25 tbsp of cocoa powder?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder",
     "description": "Discover how to convert 0.25 tbsp of cocoa powder into grams for precise baking in your air fryer. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 0.25 tbsp of cocoa powder?",
+            "name": "How many grams is 0.25 tbsp of cocoa powder?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-cocoa-powder"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce"
   },
-  "headline": "Quick Guide: Convert 810 ml of Tomato Sauce to Cups Easily",
-  "description": "Learn how to convert 810 ml of tomato sauce to cups for perfect recipes. Get accurate measurements for cooking and baking in minutes!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 810 ml of Tomato Sauce to Cups Easily",
+        "description": "Learn how to convert 810 ml of tomato sauce to cups for perfect recipes. Get accurate measurements for cooking and baking in minutes!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T23:32:10.358Z",
-  "dateModified": "2025-08-01T23:32:10.358Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-810-ml-of-tomato-sauce.webp"
+        "datePublished": "2025-08-01T23:32:10.358Z",
+        "dateModified": "2025-08-01T23:32:10.358Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-810-ml-of-tomato-sauce.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 810 ml of tomato sauce the same as 3.5 cups?",
+            "@type": "Question",
+            "name": "Is 810 ml of tomato sauce the same as 3.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "In the UK, 810 ml of tomato sauce is roughly 3.56 cups, while in the US, it's about 3.42 cups. The slight difference comes from varying cup sizes between the two systems. Always check which measurement your recipe uses for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a regular cup to measure 810 ml of tomato sauce?",
+            "@type": "Question",
+            "name": "Can I use a regular cup to measure 810 ml of tomato sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can use a standard cup to measure 810 ml of tomato sauce. For US measurements, fill 3 cups and add a third of another. For UK measurements, use 3 cups and about half of a fourth. This method works well for most recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 810 ml of tomato sauce affect air fryer cooking?",
+            "@type": "Question",
+            "name": "How does 810 ml of tomato sauce affect air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Using 810 ml of tomato sauce in an air fryer requires careful portioning to avoid spills. Too much sauce can create steam, affecting crispiness. Stick to thin layers or use recipes designed for air fryers to ensure even cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I freeze leftover 810 ml of tomato sauce?",
+            "@type": "Question",
+            "name": "Can I freeze leftover 810 ml of tomato sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Freeze leftover tomato sauce in portions for future use. Label containers with the cup equivalent (3.42 US or 3.56 UK cups) for easy reference. Thaw and reheat in the air fryer when needed."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 810 ml of Tomato Sauce?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 810 ml of Tomato Sauce?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce",
     "description": "Learn how to convert 810 ml of tomato sauce to cups for perfect recipes. Get accurate measurements for cooking and baking in minutes!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 810 ml of Tomato Sauce?",
+            "name": "How Many Cups Is 810 ml of Tomato Sauce?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-tomato-sauce"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

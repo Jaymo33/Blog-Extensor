@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces"
   },
-  "headline": "Quick & Easy 200g Garlic Paste to Ounces Conversion",
-  "description": "Convert 200g of garlic paste to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick & Easy 200g Garlic Paste to Ounces Conversion",
+        "description": "Convert 200g of garlic paste to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-10T00:51:10.153Z",
-  "dateModified": "2025-08-10T00:51:10.153Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-garlic-paste-to-ounces.webp"
+        "datePublished": "2025-08-10T00:51:10.153Z",
+        "dateModified": "2025-08-10T00:51:10.153Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-garlic-paste-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 200g of garlic paste the same as 7 ounces?",
+            "@type": "Question",
+            "name": "Is 200g of garlic paste the same as 7 ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "200g of garlic paste is approximately 7.05 ounces, so it's very close to 7 ounces. For most recipes, this small difference won't matter, but for precision, use 7.05 oz or stick to grams if your scale allows."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use minced garlic instead of garlic paste in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use minced garlic instead of garlic paste in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but the texture and intensity differ. Garlic paste is smoother and more concentrated, so adjust quantities accordingly. For 200g (7.05 oz) of garlic paste, you'd need about 50% more minced garlic to match the flavour."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert other amounts of garlic paste from grams to ounces?",
+            "@type": "Question",
+            "name": "How do I convert other amounts of garlic paste from grams to ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Use the ratio 1g = 0.035 oz. Multiply the grams by 0.035 to get ounces. For example, 100g of garlic paste would be 3.5 oz. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> simplifies this for all common measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some UK recipes use grams and others use ounces?",
+            "@type": "Question",
+            "name": "Why do some UK recipes use grams and others use ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The UK uses both metric (grams) and imperial (ounces) measurements. Older recipes often use ounces, while newer ones favour grams. Always check which system your recipe uses to ensure accuracy, especially for air fryer cooking where precision matters."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 200g of garlic paste?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 200g of garlic paste?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces",
     "description": "Convert 200g of garlic paste to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 200g of garlic paste?",
+            "name": "How many ounces is 200g of garlic paste?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-garlic-paste-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

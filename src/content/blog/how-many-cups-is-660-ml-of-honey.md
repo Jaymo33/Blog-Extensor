@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey"
   },
-  "headline": "Quick Answer: How Many Cups Is 660 ml of Honey?",
-  "description": "Discover how to convert 660 ml of honey to cups for perfect baking and cooking every time. Get precise measurements and handy tips here.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 660 ml of Honey?",
+        "description": "Discover how to convert 660 ml of honey to cups for perfect baking and cooking every time. Get precise measurements and handy tips here.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T23:32:10.358Z",
-  "dateModified": "2025-08-01T23:32:10.358Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-honey.webp"
+        "datePublished": "2025-08-01T23:32:10.358Z",
+        "dateModified": "2025-08-01T23:32:10.358Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-honey.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 660 ml of honey the same as 660 grams?",
+            "@type": "Question",
+            "name": "Is 660 ml of honey the same as 660 grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 660 ml of honey is not the same as 660 grams. Honey is denser than water, so 660 ml of honey weighs approximately 924 grams. Always use a kitchen scale for precise measurements, especially in baking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a dry measuring cup for 660 ml of honey?",
+            "@type": "Question",
+            "name": "Can I use a dry measuring cup for 660 ml of honey?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It's best to use a liquid measuring cup for honey, as its sticky consistency can make it hard to level off in a dry cup. For accuracy, lightly grease the cup or warm the honey slightly before measuring."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 660 ml of honey to tablespoons?",
+            "@type": "Question",
+            "name": "How do I convert 660 ml of honey to tablespoons?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "660 ml of honey is roughly 44 UK tablespoons or 45 US tablespoons. This conversion is handy for smaller recipes or when you need to adjust quantities on the fly."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the type of honey affect the 660 ml to cups conversion?",
+            "@type": "Question",
+            "name": "Does the type of honey affect the 660 ml to cups conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The type of honey (e.g., raw, processed) can slightly affect density, but the difference is minimal for most recipes. For precision, stick to the standard conversion of 660 ml to 2.8 cups (UK) or 2.79 cups (US)."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 660 ml of Honey?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 660 ml of Honey?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey",
     "description": "Discover how to convert 660 ml of honey to cups for perfect baking and cooking every time. Get precise measurements and handy tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 660 ml of Honey?",
+            "name": "How Many Cups Is 660 ml of Honey?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

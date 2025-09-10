@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces"
   },
-  "headline": "Quick Guide: Convert 75g of Baking Soda to Ounces Easily",
-  "description": "Learn how to convert 75g of baking soda to ounces for perfect air fryer recipes. Get precise measurements and avoid kitchen mishaps today!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 75g of Baking Soda to Ounces Easily",
+        "description": "Learn how to convert 75g of baking soda to ounces for perfect air fryer recipes. Get precise measurements and avoid kitchen mishaps today!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-06T23:33:24.546Z",
-  "dateModified": "2025-08-06T23:33:24.546Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-baking-soda-to-ounces.webp"
+        "datePublished": "2025-08-06T23:33:24.546Z",
+        "dateModified": "2025-08-06T23:33:24.546Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-baking-soda-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use volume measurements (cups) instead of weight for 75g of baking soda?",
+            "@type": "Question",
+            "name": "Can I use volume measurements (cups) instead of weight for 75g of baking soda?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While possible, weight measurements (grams or ounces) are far more accurate for baking soda. A standard UK cup holds about 220g of baking soda, but density varies. For air fryer recipes, always weigh 75g (2.65 oz) for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe call for 75g of baking soda?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe call for 75g of baking soda?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Baking soda acts as a leavening agent, helping batters rise. In air fryers, precise amounts ensure even cooking. Too much can leave a bitter taste, while too little results in dense textures. Stick to 75g (2.65 oz) for balanced recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 75g of baking soda to ounces without a scale?",
+            "@type": "Question",
+            "name": "How do I convert 75g of baking soda to ounces without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Use measuring spoons: 75g equals roughly 15 teaspoons. However, this method isn’t ideal for air fryer recipes, as packing density affects volume. Invest in a cheap digital scale for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 75g of baking soda the same in US and UK ounces?",
+            "@type": "Question",
+            "name": "Is 75g of baking soda the same in US and UK ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 75g converts to 2.65 ounces in both systems. The UK uses metric grams more often, but the ounce measurement remains consistent. Double-check recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for region-specific tips."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 75g of baking soda?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 75g of baking soda?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces",
     "description": "Learn how to convert 75g of baking soda to ounces for perfect air fryer recipes. Get precise measurements and avoid kitchen mishaps today!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 75g of baking soda?",
+            "name": "How many ounces is 75g of baking soda?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-baking-soda-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

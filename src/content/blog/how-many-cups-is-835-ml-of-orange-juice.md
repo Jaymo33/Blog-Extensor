@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice"
   },
-  "headline": "Quick Answer: How Many Cups Is 835 ml of Orange Juice?",
-  "description": "Convert 835 ml of orange juice to cups effortlessly for perfect air fryer recipes. Get precise measurements and tips for cooking success!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 835 ml of Orange Juice?",
+        "description": "Convert 835 ml of orange juice to cups effortlessly for perfect air fryer recipes. Get precise measurements and tips for cooking success!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T23:32:10.358Z",
-  "dateModified": "2025-08-01T23:32:10.358Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-835-ml-of-orange-juice.webp"
+        "datePublished": "2025-08-01T23:32:10.358Z",
+        "dateModified": "2025-08-01T23:32:10.358Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-835-ml-of-orange-juice.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 835 ml of orange juice the same as 3.5 cups in all countries?",
+            "@type": "Question",
+            "name": "Is 835 ml of orange juice the same as 3.5 cups in all countries?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cup sizes vary by region. In the UK, 835 ml equals 3.5 cups (250 ml per cup), while in the US, it's about 3.52 cups (237 ml per cup). Always check the recipe’s origin to ensure accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 835 ml of orange juice in air fryer marinades?",
+            "@type": "Question",
+            "name": "Can I use 835 ml of orange juice in air fryer marinades?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Orange juice adds flavour and tenderises meat. For best results, balance it with oil and spices to avoid excess liquid, which can prevent crisping. Pat meat dry before air frying for a perfect finish."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 835 ml of orange juice without a jug?",
+            "@type": "Question",
+            "name": "How do I measure 835 ml of orange juice without a jug?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a measuring jug, use a standard cup and multiply. In the UK, 3.5 cups (250 ml each) will give you roughly 835 ml. For precision, a kitchen scale set to millilitres is a great alternative."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does 835 ml of orange juice affect cooking times in an air fryer?",
+            "@type": "Question",
+            "name": "Does 835 ml of orange juice affect cooking times in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, liquids can alter cooking times. Recipes with more liquid, like glazes or sauces, may need slightly longer to reduce and thicken. Always monitor food and adjust times as needed for the best texture."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 835 ml of Orange Juice?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 835 ml of Orange Juice?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice",
     "description": "Convert 835 ml of orange juice to cups effortlessly for perfect air fryer recipes. Get precise measurements and tips for cooking success!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 835 ml of Orange Juice?",
+            "name": "How Many Cups Is 835 ml of Orange Juice?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-orange-juice"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

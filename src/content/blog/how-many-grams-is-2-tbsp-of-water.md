@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water"
   },
-  "headline": "Quick Answer: How many grams is 2 tbsp of water?",
-  "description": "Discover the exact weight of 2 tbsp of water in grams for precise air fryer cooking. Get accurate conversions and tips here.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many grams is 2 tbsp of water?",
+        "description": "Discover the exact weight of 2 tbsp of water in grams for precise air fryer cooking. Get accurate conversions and tips here.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-03T23:25:27.803Z",
-  "dateModified": "2025-08-03T23:25:27.803Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-of-water.webp"
+        "datePublished": "2025-08-03T23:25:27.803Z",
+        "dateModified": "2025-08-03T23:25:27.803Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-of-water.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 2 tbsp of water the same as 30 grams in the UK?",
+            "@type": "Question",
+            "name": "Is 2 tbsp of water the same as 30 grams in the UK?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 2 tablespoons (tbsp) of water equals 30 grams (g) in the UK, just as it does in metric measurements. UK tablespoons are standardized to 15ml, which translates to 15 grams per tbsp for water. This makes conversions straightforward for air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale to measure 2 tbsp of water?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale to measure 2 tbsp of water?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! A kitchen scale is the most accurate way to measure 2 tbsp of water, as it will show exactly 30 grams. This eliminates any guesswork from filling spoons or cups. For best results, place your container on the scale, tare it to zero, then pour the water until you hit 30g."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some recipes use grams instead of tablespoons for water?",
+            "@type": "Question",
+            "name": "Why do some recipes use grams instead of tablespoons for water?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Recipes, especially for air fryers, often use grams because weight measurements are more precise. Volume measurements like tablespoons can vary based on how the ingredient is poured or packed. Grams ensure consistency, which is crucial for air fryer cooking where small changes can affect texture and cooking time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does the weight of 2 tbsp of water compare to other liquids?",
+            "@type": "Question",
+            "name": "How does the weight of 2 tbsp of water compare to other liquids?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Water is the standard at 30 grams for 2 tbsp, but other liquids vary slightly. For example, 2 tbsp of milk is also close to 30g, while oil is lighter (about 28g) due to lower density. Thicker liquids like syrup or honey weigh more—around 42g for 2 tbsp. Always check specific conversions for accuracy."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 2 tbsp of water?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water",
+            "@type": "WebPage",
+            "name": "How many grams is 2 tbsp of water?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water",
     "description": "Discover the exact weight of 2 tbsp of water in grams for precise air fryer cooking. Get accurate conversions and tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 2 tbsp of water?",
+            "name": "How many grams is 2 tbsp of water?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-water"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

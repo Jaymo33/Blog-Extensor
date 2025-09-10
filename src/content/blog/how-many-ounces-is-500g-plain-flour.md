@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour"
   },
-  "headline": "Quick Guide: Convert 500g of Plain Flour to Ounces Easily",
-  "description": "Learn how to convert 500g of plain flour to ounces in seconds. Perfect for baking and air fryer recipes with precise measurements.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 500g of Plain Flour to Ounces Easily",
+        "description": "Learn how to convert 500g of plain flour to ounces in seconds. Perfect for baking and air fryer recipes with precise measurements.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-06T23:33:24.546Z",
-  "dateModified": "2025-08-06T23:33:24.546Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-plain-flour.webp"
+        "datePublished": "2025-08-06T23:33:24.546Z",
+        "dateModified": "2025-08-06T23:33:24.546Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-plain-flour.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 500g of self-raising flour instead of plain flour in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use 500g of self-raising flour instead of plain flour in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, self-raising flour contains baking powder, which will affect the texture of your dish. For recipes requiring plain flour, stick to plain unless the recipe specifies otherwise. Check our <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for suitable substitutions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe require exact flour measurements?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe require exact flour measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers cook food quickly and evenly, so precise measurements ensure consistent results. Too much flour can make coatings doughy, while too little may not crisp properly. Follow recipes closely for the best outcome."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 500g of plain flour to cups?",
+            "@type": "Question",
+            "name": "How do I convert 500g of plain flour to cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "500g of plain flour is roughly 4 cups, but weighing is more accurate. Cup measurements can vary based on how the flour is scooped. For air fryer baking, always use a scale if possible."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute 500g of plain flour with gluten-free flour in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I substitute 500g of plain flour with gluten-free flour in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but gluten-free flour behaves differently, so adjust liquids and cooking times. For tested recipes, visit our <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>gluten-free dessert section</a>. Results may vary in texture."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 500g of plain flour?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour",
+            "@type": "WebPage",
+            "name": "How many ounces is 500g of plain flour?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour",
     "description": "Learn how to convert 500g of plain flour to ounces in seconds. Perfect for baking and air fryer recipes with precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 500g of plain flour?",
+            "name": "How many ounces is 500g of plain flour?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-plain-flour"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer"
   },
-  "headline": "Can You Put Raw Chicken in an Air Fryer? Safety Guide",
-  "description": "Wondering if you can put raw chicken in an air fryer? Learn the safety tips, cooking times, and best practices for perfect results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Can You Put Raw Chicken in an Air Fryer? Safety Guide",
+        "description": "Wondering if you can put raw chicken in an air fryer? Learn the safety tips, cooking times, and best practices for perfect results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T23:30:57.071Z",
-  "dateModified": "2025-07-22T23:30:57.071Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-raw-chicken-in-an-air-fryer.png"
+        "datePublished": "2025-07-22T23:30:57.071Z",
+        "dateModified": "2025-07-22T23:30:57.071Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-raw-chicken-in-an-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
   },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can you put frozen raw chicken in an air fryer?",
+            "@type": "Question",
+            "name": "Can you put frozen raw chicken in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It's not recommended to cook frozen raw chicken directly in an air fryer as it may cook unevenly. Always thaw chicken completely in the refrigerator first for food safety and even cooking. Some high-end air fryers have frozen food settings, but check your model's manual first."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I know when raw chicken is fully cooked in the air fryer?",
+            "@type": "Question",
+            "name": "How do I know when raw chicken is fully cooked in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The only reliable way is using a meat thermometer - insert it into the thickest part, avoiding bone. Chicken is safe at 75°C. Juices should run clear, and meat should no longer be pink. Cooking times vary by size and cut, so always verify with temperature."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fried chicken come out dry?",
+            "@type": "Question",
+            "name": "Why does my air fried chicken come out dry?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Dry chicken usually means overcooking or using lean cuts like breasts at too high heat. Try bone-in pieces, brining beforehand, or reducing temperature by 10°C. Also ensure you're not exceeding recommended cooking times - check early with a thermometer."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook raw chicken with vegetables in the air fryer?",
+            "@type": "Question",
+            "name": "Can I cook raw chicken with vegetables in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but add vegetables later as they cook faster than chicken. Denser veggies like potatoes can go in together, but delicate ones like peppers should be added in the last 5-10 minutes. Always ensure chicken reaches 75°C regardless of vegetable doneness."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Raw Chicken in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Raw Chicken in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer",
     "description": "Wondering if you can put raw chicken in an air fryer? Learn the safety tips, cooking times, and best practices for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Can You Put Raw Chicken in an Air Fryer?",
+            "name": "Can You Put Raw Chicken in an Air Fryer?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-raw-chicken-in-an-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces"
   },
-  "headline": "Quick Guide: Convert 20g of Breadcrumbs to Ounces Easily",
-  "description": "Learn how to convert 20g of breadcrumbs to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 20g of Breadcrumbs to Ounces Easily",
+        "description": "Learn how to convert 20g of breadcrumbs to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-10T23:45:58.474Z",
-  "dateModified": "2025-08-10T23:45:58.474Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-breadcrumbs-to-ounces.webp"
+        "datePublished": "2025-08-10T23:45:58.474Z",
+        "dateModified": "2025-08-10T23:45:58.474Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-breadcrumbs-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 20g of breadcrumbs for gluten-free recipes?",
+            "@type": "Question",
+            "name": "Can I use 20g of breadcrumbs for gluten-free recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 20g of gluten-free breadcrumbs works the same way in air fryer recipes. Just ensure they’re evenly coated for the best texture. Gluten-free crumbs may be slightly denser, so adjust cooking time if needed."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many calories are in 20g of breadcrumbs?",
+            "@type": "Question",
+            "name": "How many calories are in 20g of breadcrumbs?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "20g of dried breadcrumbs contains roughly 80-90 calories, depending on the brand. Whole wheat or seasoned varieties may vary slightly. For precise counts, check the packaging or use a nutrition calculator."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute 20g of breadcrumbs with almond flour?",
+            "@type": "Question",
+            "name": "Can I substitute 20g of breadcrumbs with almond flour?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but almond flour behaves differently. Use 20g (0.71 oz) for a similar weight, but expect a denser, nuttier coating. Reduce cooking time slightly, as almond flour browns faster than breadcrumbs."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do my air-fried breadcrumbs burn at 20g?",
+            "@type": "Question",
+            "name": "Why do my air-fried breadcrumbs burn at 20g?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Burning can happen if the air fryer is too hot or overcrowded. Spread 20g of crumbs evenly and cook at 180°C (350°F) for best results. Lightly spray with oil to help them crisp without charring."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 20g of breadcrumbs?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 20g of breadcrumbs?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces",
     "description": "Learn how to convert 20g of breadcrumbs to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 20g of breadcrumbs?",
+            "name": "How many ounces is 20g of breadcrumbs?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

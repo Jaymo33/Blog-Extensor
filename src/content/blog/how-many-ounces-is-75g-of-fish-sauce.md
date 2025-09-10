@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce"
   },
-  "headline": "Quick Answer: How many ounces is 75g of fish sauce?",
-  "description": "Discover how to convert 75g of fish sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many ounces is 75g of fish sauce?",
+        "description": "Discover how to convert 75g of fish sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-08T23:46:47.435Z",
-  "dateModified": "2025-08-08T23:46:47.435Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-fish-sauce.webp"
+        "datePublished": "2025-08-08T23:46:47.435Z",
+        "dateModified": "2025-08-08T23:46:47.435Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-fish-sauce.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 75g of fish sauce in vegetarian air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use 75g of fish sauce in vegetarian air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 75g of fish sauce can be used in vegetarian dishes, but it’s not suitable for vegans. For a plant-based alternative, try soy sauce or tamari, adjusting the quantity to taste. Fish sauce adds umami, so if omitting it, consider adding mushrooms or miso for depth."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 75g of fish sauce compare to other liquid seasonings in air fryer cooking?",
+            "@type": "Question",
+            "name": "How does 75g of fish sauce compare to other liquid seasonings in air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "75g of fish sauce (2.65 oz) is saltier and more pungent than soy sauce or Worcestershire sauce. When substituting, use about half the amount and adjust to taste. In air fryer recipes, fish sauce caramelises quickly, adding a rich glaze to proteins like chicken or tofu."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 75g of fish sauce enough for a family-sized air fryer meal?",
+            "@type": "Question",
+            "name": "Is 75g of fish sauce enough for a family-sized air fryer meal?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 75g (2.65 oz) of fish sauce is typically sufficient for 4-6 servings. The air fryer’s concentrated heat means flavours are more intense, so you won’t need as much as you would for oven cooking. Adjust based on your family’s taste preferences."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 75g of fish sauce to cups for air fryer recipes?",
+            "@type": "Question",
+            "name": "How do I convert 75g of fish sauce to cups for air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "75g of fish sauce is roughly 1/3 cup, but measuring by weight (grams or ounces) is more accurate. Liquid densities vary, so for best results in air fryer cooking, use a kitchen scale or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 75g of fish sauce?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce",
+            "@type": "WebPage",
+            "name": "How many ounces is 75g of fish sauce?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce",
     "description": "Discover how to convert 75g of fish sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 75g of fish sauce?",
+            "name": "How many ounces is 75g of fish sauce?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-fish-sauce"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

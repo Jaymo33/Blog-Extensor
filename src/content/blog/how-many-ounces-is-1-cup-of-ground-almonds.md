@@ -8,77 +8,77 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds"
   },
-  "headline": "Quick Answer: How many ounces is 1 cup of ground almonds?",
-  "description": "Find out exactly how many ounces are in 1 cup of ground almonds for perfect baking every time. Includes UK conversions and air fryer tips.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many ounces is 1 cup of ground almonds?",
+        "description": "Find out exactly how many ounces are in 1 cup of ground almonds for perfect baking every time. Includes UK conversions and air fryer tips.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-17T23:33:52.556Z",
-  "dateModified": "2025-08-17T23:33:52.556Z",
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "datePublished": "2025-08-17T23:33:52.556Z",
+        "dateModified": "2025-08-17T23:33:52.556Z",
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of ground almonds affect the weight per cup?",
+            "@type": "Question",
+            "name": "Does the type of ground almonds affect the weight per cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but only slightly. Blanched ground almonds (without skins) might be marginally lighter per cup than unblanched. The bigger difference comes from grind size - fine almond flour packs more densely than coarse almond meal, potentially adding about 0.2-0.3 oz per cup. For most recipes, the standard 3.5 oz per cup conversion works well."
     }
     },
     {
-    "@type": "Question",
-    "name": "How should I measure 1 cup of ground almonds without scales?",
+            "@type": "Question",
+            "name": "How should I measure 1 cup of ground almonds without scales?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Use the spoon-and-level method for accuracy: gently spoon ground almonds into your measuring cup without packing or tapping, then level off the top with a knife. Never scoop directly from the bag as this compacts the almonds. If your recipe calls for "packed" ground almonds, press them down lightly into the cup until full, which will give you about 4.5 oz per cup."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for almond flour in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use this conversion for almond flour in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely. Almond flour is just very finely ground almonds, so the 1 cup to 3.5 oz conversion applies. In air fryers, you might use slightly less than oven recipes since the intense heat can brown almond coatings faster. Start with 3/4 cup (2.6 oz) almond flour when converting traditional recipes to air fryer versions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my 1 cup measurement of ground almonds vary sometimes?",
+            "@type": "Question",
+            "name": "Why does my 1 cup measurement of ground almonds vary sometimes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Several factors cause variation: how fresh the almonds are (older ones compact more), humidity levels, whether they were pre-packaged or freshly ground, and how you fill the measuring cup. For absolute consistency, weigh your ground almonds. Digital scales eliminate guesswork and ensure your air fryer recipes turn out perfectly every time."
     }
     }
@@ -89,9 +89,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 1 cup of ground almonds?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds",
+            "@type": "WebPage",
+            "name": "How many ounces is 1 cup of ground almonds?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds",
     "description": "Find out exactly how many ounces are in 1 cup of ground almonds for perfect baking every time. Includes UK conversions and air fryer tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
@@ -102,35 +102,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 1 cup of ground almonds?",
+            "name": "How many ounces is 1 cup of ground almonds?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds"
     }
     }
     ]
@@ -140,9 +140,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -151,25 +151,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

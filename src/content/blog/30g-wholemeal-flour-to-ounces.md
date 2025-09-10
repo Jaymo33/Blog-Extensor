@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces"
   },
-  "headline": "Quick Guide: Convert 30g Wholemeal Flour to Ounces Easily",
-  "description": "Learn how to convert 30g of wholemeal flour to ounces for perfect baking every time. Includes UK measurements and air fryer tips.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 30g Wholemeal Flour to Ounces Easily",
+        "description": "Learn how to convert 30g of wholemeal flour to ounces for perfect baking every time. Includes UK measurements and air fryer tips.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-06T23:33:24.546Z",
-  "dateModified": "2025-08-06T23:33:24.546Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-wholemeal-flour-to-ounces.webp"
+        "datePublished": "2025-08-06T23:33:24.546Z",
+        "dateModified": "2025-08-06T23:33:24.546Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-wholemeal-flour-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use white flour instead of wholemeal flour in a 30g measurement?",
+            "@type": "Question",
+            "name": "Can I use white flour instead of wholemeal flour in a 30g measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but adjust for density. White flour weighs less, so 30g (1.06 oz) of wholemeal flour isn’t a direct swap. For air fryer recipes, use 10% less white flour or add a teaspoon of liquid to compensate."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer bake differ when using 30g wholemeal flour?",
+            "@type": "Question",
+            "name": "Why does my air fryer bake differ when using 30g wholemeal flour?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Wholemeal flour absorbs more moisture and cooks faster in air fryers. Ensure you’ve converted 30g to ounces (1.06 oz) correctly, and consider reducing temperature by 5°C to prevent dryness."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store wholemeal flour after measuring 30g portions?",
+            "@type": "Question",
+            "name": "How do I store wholemeal flour after measuring 30g portions?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Keep it airtight in a cool, dark place. Wholemeal flour spoils faster due to its oil content. Pre-measure 30g (1.06 oz) batches in jars for easy access when baking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 30g of wholemeal flour the same as 30g of self-raising flour in ounces?",
+            "@type": "Question",
+            "name": "Is 30g of wholemeal flour the same as 30g of self-raising flour in ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weight-wise, yes—both are 1.06 oz. However, self-raising flour contains raising agents, so swap carefully in recipes. For air fryer baking, stick to the specified flour type for best results."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 30g of wholemeal flour?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 30g of wholemeal flour?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces",
     "description": "Learn how to convert 30g of wholemeal flour to ounces for perfect baking every time. Includes UK measurements and air fryer tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 30g of wholemeal flour?",
+            "name": "How many ounces is 30g of wholemeal flour?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-wholemeal-flour-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

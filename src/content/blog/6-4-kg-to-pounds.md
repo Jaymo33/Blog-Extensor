@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds"
   },
-  "headline": "Quick 6.4 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 6.4 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 6.4 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 6.4 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-20T00:27:11.141Z",
-  "dateModified": "2025-08-20T00:27:11.141Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-4-kg-to-pounds.webp"
+        "datePublished": "2025-08-20T00:27:11.141Z",
+        "dateModified": "2025-08-20T00:27:11.141Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-4-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "What is 6.4 kg converted to pounds and ounces?",
+            "@type": "Question",
+            "name": "What is 6.4 kg converted to pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "6.4 kg is exactly 14 pounds and 1.75 ounces. To break it down, the full conversion from 6.4 kg to pounds is 14.1096 pounds. The whole number part is 14 pounds, and the decimal .1096 represents the fraction of a pound. Since there are 16 ounces in a pound, .1096 multiplied by 16 gives you approximately 1.75 ounces. For most kitchen purposes, especially when using an air fryer, rounding to 14 pounds and 2 ounces is perfectly acceptable and makes portioning much easier."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 6.4 kg to pounds help with air fryer cooking?",
+            "@type": "Question",
+            "name": "How does converting 6.4 kg to pounds help with air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 6.4 kg to pounds helps immensely with air fryer cooking by ensuring you use the correct ingredient quantities for recipes and your appliance's capacity. Many air fryer recipes specify weights to achieve perfect results, and knowing that 6.4 kg equals approximately 14.1 pounds allows you to accurately portion ingredients without overcrowding the basket. Overloading an air fryer prevents proper air circulation, leading to uneven cooking, so this conversion helps you divide larger quantities into appropriate batches. It also helps with meal prep planning, allowing you to calculate how many air fryer batches you'll need from a 6.4 kg package of meat or vegetables."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is there a difference between US pounds and imperial pounds when converting 6.4 kg?",
+            "@type": "Question",
+            "name": "Is there a difference between US pounds and imperial pounds when converting 6.4 kg?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, there is no practical difference between US pounds and imperial pounds when converting 6.4 kg to pounds. Both the US customary system and the British imperial system use the same pound unit for mass, defined as exactly 0.45359237 kilograms. Therefore, 6.4 kg will always convert to approximately 14.1096 pounds regardless of whether you're using US or imperial measurements. This consistency makes converting weights for cooking purposes straightforward, whether you're following American, British, or other international recipes for your air fryer creations."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a calculator to convert 6.4 kilograms to pounds?",
+            "@type": "Question",
+            "name": "Can I use a calculator to convert 6.4 kilograms to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely, using a calculator is a quick and accurate way to convert 6.4 kilograms to pounds. Simply multiply 6.4 by 2.20462, which will give you the precise conversion of 14.1096 pounds. Most smartphone calculators have this function built-in, or you can use voice commands to ask for the conversion hands-free while cooking. Many digital kitchen scales also have a unit conversion button that switches between kilograms and pounds instantly. For regular air fryer users, having a conversion app or bookmarking a reliable conversion website can save time when working with recipes that use different measurement systems."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "6.4 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "6.4 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds",
     "description": "Convert 6.4 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "6.4 kg to pounds",
+            "name": "6.4 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-4-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

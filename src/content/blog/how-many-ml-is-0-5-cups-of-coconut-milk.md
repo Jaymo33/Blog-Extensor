@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk"
   },
-  "headline": "Quick Answer: How Many ml Is 0.5 Cups of Coconut Milk?",
-  "description": "Discover the exact ml measurement for 0.5 cups of coconut milk and simplify your cooking conversions with this easy guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many ml Is 0.5 Cups of Coconut Milk?",
+        "description": "Discover the exact ml measurement for 0.5 cups of coconut milk and simplify your cooking conversions with this easy guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-28T20:11:40.852Z",
-  "dateModified": "2025-07-28T20:11:40.852Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-coconut-milk.webp"
+        "datePublished": "2025-07-28T20:11:40.852Z",
+        "dateModified": "2025-07-28T20:11:40.852Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-coconut-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 0.5 cups of coconut milk the same in the UK and US?",
+            "@type": "Question",
+            "name": "Is 0.5 cups of coconut milk the same in the UK and US?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 0.5 cups of coconut milk is the same volume in both the UK and US, equalling 118.29 ml. However, UK tablespoons are slightly larger (15 ml vs. 14.79 ml in the US), so if you’re using spoons to measure, stick to one system for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use coconut cream instead of coconut milk for 0.5 cups?",
+            "@type": "Question",
+            "name": "Can I use coconut cream instead of coconut milk for 0.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Coconut cream is thicker and richer, so substituting it 1:1 for coconut milk may make your dish too heavy. If using cream, dilute it slightly with water to match the consistency of coconut milk. For 0.5 cups (118.29 ml), try mixing 3 parts cream with 1 part water."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store leftover coconut milk after measuring 0.5 cups?",
+            "@type": "Question",
+            "name": "How do I store leftover coconut milk after measuring 0.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Transfer unused coconut milk to an airtight container and refrigerate for up to 4 days. Shake or stir it well before reusing, as it can separate. For longer storage, freeze it in ice cube trays—each cube is about 30 ml, so 4 cubes will give you roughly 0.5 cups when thawed."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe taste different when I use coconut milk?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe taste different when I use coconut milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Coconut milk adds a subtle sweetness and richness that can alter flavours. If your dish tastes too coconutty, try reducing the amount slightly or balancing it with acidic ingredients like lime juice. For neutral-tasting recipes, opt for light coconut milk instead of full-fat."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 0.5 Cups of Coconut Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk",
+            "@type": "WebPage",
+            "name": "How Many ml Is 0.5 Cups of Coconut Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk",
     "description": "Discover the exact ml measurement for 0.5 cups of coconut milk and simplify your cooking conversions with this easy guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 0.5 Cups of Coconut Milk?",
+            "name": "How Many ml Is 0.5 Cups of Coconut Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-coconut-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

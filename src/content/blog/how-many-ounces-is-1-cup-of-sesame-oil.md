@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil"
   },
-  "headline": "Quick Answer: How many ounces in 1 cup of sesame oil?",
-  "description": "Discover how many ounces are in 1 cup of sesame oil for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many ounces in 1 cup of sesame oil?",
+        "description": "Discover how many ounces are in 1 cup of sesame oil for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-14T06:21:39.135Z",
-  "dateModified": "2025-08-14T06:21:39.135Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-sesame-oil.webp"
+        "datePublished": "2025-08-14T06:21:39.135Z",
+        "dateModified": "2025-08-14T06:21:39.135Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-sesame-oil.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of sesame oil affect the ounce measurement per cup?",
+            "@type": "Question",
+            "name": "Does the type of sesame oil affect the ounce measurement per cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, both light and toasted sesame oil measure the same - 1 cup equals approximately 8.45 ounces. The difference lies in flavour intensity rather than density or volume. Always use liquid measuring cups for accuracy in air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for other oils in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for other oils in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While most liquid oils have similar densities, slight variations exist. For example, 1 cup of olive oil weighs about 7.7 ounces. Always check specific conversions for different oils to ensure perfect air fryer results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe specify ounces instead of cups for sesame oil?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe specify ounces instead of cups for sesame oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Professional recipes often use weight measurements (ounces) for greater precision. Since 1 cup of sesame oil equals 8.45 ounces, weighing eliminates measuring cup inconsistencies. This ensures your air fryer dishes turn out perfectly balanced."
     }
     },
     {
-    "@type": "Question",
-    "name": "How can I measure 1 cup of sesame oil without proper tools?",
+            "@type": "Question",
+            "name": "How can I measure 1 cup of sesame oil without proper tools?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "In a pinch, use a standard UK mug (about 300ml) which holds roughly 1¼ cups. Adjust accordingly knowing 1 cup equals 8.45 ounces. For consistent results, we recommend investing in proper measuring tools for air fryer cooking."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 1 cup of sesame oil?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil",
+            "@type": "WebPage",
+            "name": "How many ounces is 1 cup of sesame oil?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil",
     "description": "Discover how many ounces are in 1 cup of sesame oil for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 1 cup of sesame oil?",
+            "name": "How many ounces is 1 cup of sesame oil?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-sesame-oil"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

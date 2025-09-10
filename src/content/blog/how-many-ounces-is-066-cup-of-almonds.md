@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds"
   },
-  "headline": "Quick Guide: Convert 0.66 Cup of Almonds to Ounces Easily",
-  "description": "Learn how to convert 0.66 cup of almonds to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.66 Cup of Almonds to Ounces Easily",
+        "description": "Learn how to convert 0.66 cup of almonds to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-10T23:45:58.474Z",
-  "dateModified": "2025-08-10T23:45:58.474Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-066-cup-of-almonds.webp"
+        "datePublished": "2025-08-10T23:45:58.474Z",
+        "dateModified": "2025-08-10T23:45:58.474Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-066-cup-of-almonds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use whole almonds instead of sliced for 0.66 cup measurements?",
+            "@type": "Question",
+            "name": "Can I use whole almonds instead of sliced for 0.66 cup measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can use whole almonds, but the weight may vary slightly. Whole almonds are denser, so 0.66 cup could weigh closer to 3.3 oz. For air fryer recipes, sliced almonds cook more evenly, but whole almonds work if chopped."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 0.66 cup of almonds to grams?",
+            "@type": "Question",
+            "name": "How do I convert 0.66 cup of almonds to grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "0.66 cup of almonds (3.17 oz) equals roughly 90 grams. This conversion is useful for recipes using metric measurements. A kitchen scale ensures accuracy, especially for air fryer dishes where precision matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe call for ounces instead of cups?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe call for ounces instead of cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Ounces provide a more accurate measurement than cups, as almond sizes and cuts vary. Air fryer recipes often specify weight to ensure even cooking and consistent results. Measuring by ounces avoids overcrowding or underfilling the basket."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute other nuts for almonds in a 0.66 cup measurement?",
+            "@type": "Question",
+            "name": "Can I substitute other nuts for almonds in a 0.66 cup measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but adjust the weight accordingly. For example, walnuts are lighter (about 2.8 oz per 0.66 cup), while cashews are similar to almonds. Always check weight equivalents for best results in air fryer recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.66 cup of almonds?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.66 cup of almonds?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds",
     "description": "Learn how to convert 0.66 cup of almonds to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.66 cup of almonds?",
+            "name": "How many ounces is 0.66 cup of almonds?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-066-cup-of-almonds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

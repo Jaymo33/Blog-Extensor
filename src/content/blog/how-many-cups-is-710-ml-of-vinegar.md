@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar"
   },
-  "headline": "Quick Answer: How Many Cups Is 710 ml of Vinegar?",
-  "description": "Discover how to convert 710 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and kitchen conversions.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 710 ml of Vinegar?",
+        "description": "Discover how to convert 710 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and kitchen conversions.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T23:32:10.358Z",
-  "dateModified": "2025-08-01T23:32:10.358Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-vinegar.webp"
+        "datePublished": "2025-08-01T23:32:10.358Z",
+        "dateModified": "2025-08-01T23:32:10.358Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-vinegar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 710 ml of vinegar the same in UK and US cups?",
+            "@type": "Question",
+            "name": "Is 710 ml of vinegar the same in UK and US cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 710 ml of vinegar equals roughly 3 cups in both UK and US measurements. While UK cups are slightly larger (284 ml vs. 240 ml), most recipes round 250 ml to 1 cup for simplicity, making the conversion consistent."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale to measure 710 ml of vinegar?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale to measure 710 ml of vinegar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Since vinegar has a similar density to water, 710 ml weighs about 710 grams. This method is especially useful if you don’t have measuring cups handy, ensuring accuracy for air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "What recipes commonly use 710 ml of vinegar?",
+            "@type": "Question",
+            "name": "What recipes commonly use 710 ml of vinegar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "710 ml (3 cups) of vinegar is often used in pickling, marinades, and tangy sauces. It’s perfect for air fryer dishes like glazed chicken or crispy tofu, where precise liquid measurements ensure optimal texture and flavour."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does vinegar affect air fryer cooking?",
+            "@type": "Question",
+            "name": "How does vinegar affect air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Vinegar adds flavour and tenderises meats, but too much liquid can prevent crisping. When using 710 ml in marinades, balance it with oil and spices to avoid steaming. For cleaning, vinegar helps degrease your air fryer basket effectively."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 710 ml of Vinegar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 710 ml of Vinegar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar",
     "description": "Discover how to convert 710 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and kitchen conversions.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 710 ml of Vinegar?",
+            "name": "How Many Cups Is 710 ml of Vinegar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-vinegar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

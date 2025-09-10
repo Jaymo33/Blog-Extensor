@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce"
   },
-  "headline": "Quick Conversion: How Many Cups Is 360 ml of Tomato Sauce?",
-  "description": "Discover how to convert 360 ml of tomato sauce to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Conversion: How Many Cups Is 360 ml of Tomato Sauce?",
+        "description": "Discover how to convert 360 ml of tomato sauce to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T00:26:06.873Z",
-  "dateModified": "2025-08-01T00:26:06.873Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-tomato-sauce.webp"
+        "datePublished": "2025-08-01T00:26:06.873Z",
+        "dateModified": "2025-08-01T00:26:06.873Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-tomato-sauce.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 360 ml of tomato sauce the same as 1.5 cups?",
+            "@type": "Question",
+            "name": "Is 360 ml of tomato sauce the same as 1.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 360 ml of tomato sauce is approximately 1.52 cups, which rounds to 1.5 cups for most recipes. This conversion works for both UK and US measurements, though US cups are slightly smaller (240 ml vs. 250 ml). For precise baking, stick to the exact 1.52 cups."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a mug to measure 360 ml of tomato sauce?",
+            "@type": "Question",
+            "name": "Can I use a mug to measure 360 ml of tomato sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A standard UK mug holds about 284 ml, so 360 ml is roughly 1.25 mugs. For accuracy, use a measuring jug or convert tablespoons (24 tbsp = 360 ml). This method works best for thicker sauces where slight variances won’t affect the dish."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 360 ml of tomato sauce convert for a doubled recipe?",
+            "@type": "Question",
+            "name": "How does 360 ml of tomato sauce convert for a doubled recipe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Doubling 360 ml (1.52 cups) gives you 720 ml, or about 3 cups. This is handy for batch cooking or feeding a crowd. Always adjust cooking times in the air fryer when increasing quantities to ensure even results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe call for 360 ml of tomato sauce?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe call for 360 ml of tomato sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "360 ml (1.52 cups) is a common measurement for sauces that coat proteins or vegetables evenly without overwhelming them. It’s enough to add flavour while letting the air fryer crisp the food. Check our recipes for perfect sauce-to-food ratios."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 360 ml of Tomato Sauce?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 360 ml of Tomato Sauce?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce",
     "description": "Discover how to convert 360 ml of tomato sauce to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 360 ml of Tomato Sauce?",
+            "name": "How Many Cups Is 360 ml of Tomato Sauce?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-tomato-sauce"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

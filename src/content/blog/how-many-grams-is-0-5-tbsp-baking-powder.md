@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder"
   },
-  "headline": "Quick Answer: 0.5 tbsp baking powder to grams UK",
-  "description": "Convert 0.5 tbsp of baking powder into grams for perfect air fryer baking every time. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.5 tbsp baking powder to grams UK",
+        "description": "Convert 0.5 tbsp of baking powder into grams for perfect air fryer baking every time. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-03T23:25:27.803Z",
-  "dateModified": "2025-08-03T23:25:27.803Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-baking-powder.webp"
+        "datePublished": "2025-08-03T23:25:27.803Z",
+        "dateModified": "2025-08-03T23:25:27.803Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-baking-powder.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 0.5 tbsp of baking powder the same as 1 tsp?",
+            "@type": "Question",
+            "name": "Is 0.5 tbsp of baking powder the same as 1 tsp?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 0.5 tbsp equals 1.5 tsp. Tablespoons and teaspoons measure different volumes, so it’s important to use the correct measuring spoon. For baking powder, 0.5 tbsp (7g) provides more leavening power than 1 tsp (about 4.6g)."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use grams instead of tablespoons for baking powder in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use grams instead of tablespoons for baking powder in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Grams provide more accuracy than volume measurements like tablespoons. Most professional air fryer recipes list baking powder in grams for consistency. Always use a digital scale for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer cake taste bitter with 0.5 tbsp baking powder?",
+            "@type": "Question",
+            "name": "Why does my air fryer cake taste bitter with 0.5 tbsp baking powder?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Bitterness usually means too much baking powder was used. Ensure you’re measuring precisely—7g for 0.5 tbsp. Also check your baking powder isn’t expired, as old product can develop an off taste."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert grams back to tablespoons if my recipe uses weight?",
+            "@type": "Question",
+            "name": "How do I convert grams back to tablespoons if my recipe uses weight?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 7g baking powder back to tablespoons, it’s roughly 0.5 tbsp. However, for small amounts like this, weighing is more reliable. Keep a conversion chart or calculator handy for quick reference."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 0.5 tbsp of baking powder?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder",
+            "@type": "WebPage",
+            "name": "How many grams is 0.5 tbsp of baking powder?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder",
     "description": "Convert 0.5 tbsp of baking powder into grams for perfect air fryer baking every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 0.5 tbsp of baking powder?",
+            "name": "How many grams is 0.5 tbsp of baking powder?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-baking-powder"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

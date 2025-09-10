@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds"
   },
-  "headline": "Quick 0.25 kg Fish Fingers to Pounds Conversion Guide",
-  "description": "Convert 0.25 kg fish fingers to pounds easily for perfect air fryer portions. Get accurate measurements and cooking tips in seconds.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 0.25 kg Fish Fingers to Pounds Conversion Guide",
+        "description": "Convert 0.25 kg fish fingers to pounds easily for perfect air fryer portions. Get accurate measurements and cooking tips in seconds.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-fish-fingers-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-fish-fingers-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 0.25 kg of fish fingers?",
+            "@type": "Question",
+            "name": "How many pounds is 0.25 kg of fish fingers?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "0.25 kg of fish fingers is approximately 0.55 pounds. This conversion is based on the standard ratio where 1 kilogram equals 2.20462 pounds. For air fryer cooking, this amount is ideal for a single layer in most basket sizes, ensuring even crisping without overcrowding."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 0.25 kg fish fingers to pounds?",
+            "@type": "Question",
+            "name": "Why would I need to convert 0.25 kg fish fingers to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You might need to convert 0.25 kg fish fingers to pounds if using older recipes, imperial-measurement cookbooks, or kitchen scales that only display pounds. It also helps when comparing product sizes or adjusting portion quantities for your air fryer, as overcrowding can lead to uneven cooking. Accurate conversions ensure perfect results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a cup measure instead of converting 0.25 kg fish fingers to pounds?",
+            "@type": "Question",
+            "name": "Can I use a cup measure instead of converting 0.25 kg fish fingers to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It is not recommended to use cup measures for fish fingers, as their irregular shape and size make volume measurements inaccurate. Weight is a much more reliable method for portioning. Converting 0.25 kg fish fingers to pounds (0.55 lbs) and using a kitchen scale will give you precise results for consistent air fryer cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Do I need to adjust air fryer time for 0.25 kg vs 0.55 lbs of fish fingers?",
+            "@type": "Question",
+            "name": "Do I need to adjust air fryer time for 0.25 kg vs 0.55 lbs of fish fingers?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 0.25 kg and 0.55 lbs are the same weight, so no time adjustment is needed. Cooking time depends on the weight and thickness, not the unit of measurement. For 0.25 kg (0.55 lbs) of fish fingers, cook at 200°C for 10-12 minutes, turning halfway, or until golden and crispy."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "0.25 kg fish fingers to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds",
+            "@type": "WebPage",
+            "name": "0.25 kg fish fingers to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds",
     "description": "Convert 0.25 kg fish fingers to pounds easily for perfect air fryer portions. Get accurate measurements and cooking tips in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "0.25 kg fish fingers to pounds",
+            "name": "0.25 kg fish fingers to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-fish-fingers-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes"
   },
-  "headline": "Quick Guide: Convert 3 Cups of Chopped Tomatoes to Ounces",
-  "description": "Learn how to convert 3 cups of chopped tomatoes to ounces easily for perfect air fryer recipes every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 3 Cups of Chopped Tomatoes to Ounces",
+        "description": "Learn how to convert 3 cups of chopped tomatoes to ounces easily for perfect air fryer recipes every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-14T23:44:02.193Z",
-  "dateModified": "2025-08-14T23:44:02.193Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-chopped-tomatoes.webp"
+        "datePublished": "2025-08-14T23:44:02.193Z",
+        "dateModified": "2025-08-14T23:44:02.193Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-chopped-tomatoes.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use canned tomatoes instead of fresh for 3 cups in an air fryer?",
+            "@type": "Question",
+            "name": "Can I use canned tomatoes instead of fresh for 3 cups in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, canned chopped tomatoes can substitute fresh in most air fryer recipes. Drain excess liquid first to prevent steaming. One 14-ounce can plus half another approximates 3 cups (24 ounces). Adjust cooking time slightly, as canned tomatoes release more moisture."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 3 cups of cherry tomatoes to ounces?",
+            "@type": "Question",
+            "name": "How do I convert 3 cups of cherry tomatoes to ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Whole cherry tomatoes measure differently—3 cups equal about 18 ounces due to air gaps. For accuracy, halve them or weigh 24 ounces if your recipe specifies chopped. Roasting whole cherries intensifies their sweetness beautifully in the air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe call for ounces instead of cups?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe call for ounces instead of cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weight measurements (ounces) ensure consistency, especially with irregularly shaped ingredients like chopped tomatoes. Cup measurements can vary based on chopping size or packing density. Scales eliminate guesswork for perfect air fryer results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I roast 24 ounces of chopped tomatoes in a small air fryer?",
+            "@type": "Question",
+            "name": "Can I roast 24 ounces of chopped tomatoes in a small air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "For compact models, split the batch into two 12-ounce portions to avoid overcrowding. Overfilling blocks airflow, leading to uneven cooking. Most 3.5-litre air fryers handle 24 ounces comfortably when spread in a single layer."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 3 cups of chopped tomatoes?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes",
+            "@type": "WebPage",
+            "name": "How many ounces is 3 cups of chopped tomatoes?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes",
     "description": "Learn how to convert 3 cups of chopped tomatoes to ounces easily for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 3 cups of chopped tomatoes?",
+            "name": "How many ounces is 3 cups of chopped tomatoes?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-chopped-tomatoes"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

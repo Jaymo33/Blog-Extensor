@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice"
   },
-  "headline": "Quick Guide: Convert 1 tbsp of cooked rice to grams easily",
-  "description": "Discover how many grams are in 1 tbsp of cooked rice with our simple conversion guide. Perfect for air fryer meal prep and portion control!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 1 tbsp of cooked rice to grams easily",
+        "description": "Discover how many grams are in 1 tbsp of cooked rice with our simple conversion guide. Perfect for air fryer meal prep and portion control!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-05T23:07:32.143Z",
-  "dateModified": "2025-08-05T23:07:32.143Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-cooked-rice.webp"
+        "datePublished": "2025-08-05T23:07:32.143Z",
+        "dateModified": "2025-08-05T23:07:32.143Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-cooked-rice.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of rice affect how many grams are in 1 tablespoon?",
+            "@type": "Question",
+            "name": "Does the type of rice affect how many grams are in 1 tablespoon?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, different rice varieties have slightly different weights when cooked. Short-grain rice tends to be denser (about 13g per tbsp) while long-grain varieties are lighter (around 11g). Brown rice typically weighs slightly more than white rice due to its bran content."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for cold, refrigerated rice?",
+            "@type": "Question",
+            "name": "Can I use this conversion for cold, refrigerated rice?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Refrigerated rice may weigh slightly more due to moisture redistribution, but the difference is minimal (about 0.5g per tbsp). For most recipes, you can use the same 12g measurement. If precision is crucial, like for baking, weigh it directly."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does this conversion help with air fryer cooking?",
+            "@type": "Question",
+            "name": "How does this conversion help with air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Precise measurements ensure even cooking and proper texture in air fryer recipes. Many air fryer dishes, like rice croquettes or stuffed vegetables, rely on accurate rice quantities for structure. Weight measurements also help when scaling recipes up or down."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is weighing better than using tablespoons for rice measurements?",
+            "@type": "Question",
+            "name": "Why is weighing better than using tablespoons for rice measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weighing eliminates inconsistencies from how rice is packed into the spoon. Volume measurements can vary by 10-15%, while grams provide exact amounts. This precision matters most in baking and when following air fryer recipes where ingredient ratios affect cooking time and texture."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 1 tbsp of cooked rice?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice",
+            "@type": "WebPage",
+            "name": "How many grams is 1 tbsp of cooked rice?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice",
     "description": "Discover how many grams are in 1 tbsp of cooked rice with our simple conversion guide. Perfect for air fryer meal prep and portion control!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 1 tbsp of cooked rice?",
+            "name": "How many grams is 1 tbsp of cooked rice?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

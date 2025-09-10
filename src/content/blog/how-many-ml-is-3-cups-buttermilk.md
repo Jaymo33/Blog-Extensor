@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk"
   },
-  "headline": "Quick & Easy Conversion: 3.0 Cups of Buttermilk to ml",
-  "description": "Convert 3.0 cups of buttermilk to ml effortlessly for perfect baking results every time. Get the exact measurement now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick & Easy Conversion: 3.0 Cups of Buttermilk to ml",
+        "description": "Convert 3.0 cups of buttermilk to ml effortlessly for perfect baking results every time. Get the exact measurement now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T08:54:58.618Z",
-  "dateModified": "2025-07-30T08:54:58.618Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-buttermilk.webp"
+        "datePublished": "2025-07-30T08:54:58.618Z",
+        "dateModified": "2025-07-30T08:54:58.618Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-buttermilk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 3.0 cups of buttermilk the same in the UK and US?",
+            "@type": "Question",
+            "name": "Is 3.0 cups of buttermilk the same in the UK and US?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 3.0 cups of buttermilk equals 710 ml in both UK and US measurements. Liquid cup sizes are standardized, so you don’t need to adjust for regional differences when converting to millilitres."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a homemade buttermilk substitute for 3.0 cups?",
+            "@type": "Question",
+            "name": "Can I use a homemade buttermilk substitute for 3.0 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Mix 710 ml of milk with 2 tablespoons of vinegar or lemon juice, then let it sit for 5 minutes. This mimics the acidity and texture of buttermilk, perfect for recipes like air-fried chicken or pancakes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 3.0 cups of buttermilk without a measuring jug?",
+            "@type": "Question",
+            "name": "How do I measure 3.0 cups of buttermilk without a measuring jug?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a jug, use a standard metric measuring cup (250 ml) and fill it 2.84 times to reach 710 ml. For greater accuracy, weigh it—710 ml of buttermilk weighs about 720 grams."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does buttermilk work so well in air fryer recipes?",
+            "@type": "Question",
+            "name": "Why does buttermilk work so well in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Buttermilk’s acidity tenderises meats and creates a crispier crust when air-fried. Its thickness also helps coatings adhere better, making it ideal for fried chicken or onion rings. Plus, it adds moisture to baked goods like scones."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 3.0 Cups of Buttermilk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk",
+            "@type": "WebPage",
+            "name": "How Many ml Is 3.0 Cups of Buttermilk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk",
     "description": "Convert 3.0 cups of buttermilk to ml effortlessly for perfect baking results every time. Get the exact measurement now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 3.0 Cups of Buttermilk?",
+            "name": "How Many ml Is 3.0 Cups of Buttermilk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-buttermilk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

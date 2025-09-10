@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil"
   },
-  "headline": "Quick Conversion: How Many ml Is 2.5 Cups of Coconut Oil?",
-  "description": "Discover the exact ml measurement for 2.5 cups of coconut oil with our easy conversion guide—perfect for air fryer recipes!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Conversion: How Many ml Is 2.5 Cups of Coconut Oil?",
+        "description": "Discover the exact ml measurement for 2.5 cups of coconut oil with our easy conversion guide—perfect for air fryer recipes!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T08:54:42.601Z",
-  "dateModified": "2025-07-30T08:54:42.601Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-coconut-oil.webp"
+        "datePublished": "2025-07-30T08:54:42.601Z",
+        "dateModified": "2025-07-30T08:54:42.601Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-coconut-oil.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of coconut oil affect the ml measurement for 2.5 cups?",
+            "@type": "Question",
+            "name": "Does the type of coconut oil affect the ml measurement for 2.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, whether you use refined or unrefined coconut oil, 2.5 cups will always equal 591.47 ml. The density remains consistent despite variations in flavour or processing. However, always measure it in its liquid state for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a measuring jug to convert 2.5 cups of coconut oil to ml?",
+            "@type": "Question",
+            "name": "Can I use a measuring jug to convert 2.5 cups of coconut oil to ml?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, a liquid measuring jug marked with millilitres is perfect for this conversion. Ensure the coconut oil is fully melted and at room temperature to avoid discrepancies. For solid oil, a kitchen scale is more reliable."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is coconut oil preferred for air fryer recipes?",
+            "@type": "Question",
+            "name": "Why is coconut oil preferred for air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Coconut oil has a high smoke point (around 175°C), making it ideal for air frying without burning. Its subtle sweetness also enhances flavours in both savoury and sweet dishes, from crispy vegetables to golden cakes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store leftover coconut oil after measuring 2.5 cups?",
+            "@type": "Question",
+            "name": "How do I store leftover coconut oil after measuring 2.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Store it in an airtight container at room temperature (if solid) or in the fridge (if liquid). Avoid exposure to sunlight to maintain its quality. Proper storage ensures it stays fresh for future air fryer recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 2.5 Cups of Coconut Oil?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil",
+            "@type": "WebPage",
+            "name": "How Many ml Is 2.5 Cups of Coconut Oil?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil",
     "description": "Discover the exact ml measurement for 2.5 cups of coconut oil with our easy conversion guide—perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:42.601000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 2.5 Cups of Coconut Oil?",
+            "name": "How Many ml Is 2.5 Cups of Coconut Oil?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-coconut-oil"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

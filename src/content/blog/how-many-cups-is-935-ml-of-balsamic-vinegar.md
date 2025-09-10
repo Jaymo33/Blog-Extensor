@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar"
   },
-  "headline": "Quick Answer: How Many Cups Is 935 ml of Balsamic Vinegar?",
-  "description": "Convert 935 ml of balsamic vinegar to cups easily with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 935 ml of Balsamic Vinegar?",
+        "description": "Convert 935 ml of balsamic vinegar to cups easily with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-03T23:25:27.803Z",
-  "dateModified": "2025-08-03T23:25:27.803Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-935-ml-of-balsamic-vinegar.webp"
+        "datePublished": "2025-08-03T23:25:27.803Z",
+        "dateModified": "2025-08-03T23:25:27.803Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-935-ml-of-balsamic-vinegar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 935 ml of balsamic vinegar the same as 4 cups?",
+            "@type": "Question",
+            "name": "Is 935 ml of balsamic vinegar the same as 4 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "935 ml of balsamic vinegar is approximately 3.95 cups, which is very close to 4 cups. For most recipes, you can round it up to 4 cups without affecting the outcome. However, for precise baking or reductions, it’s best to measure accurately."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute another vinegar for balsamic vinegar in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I substitute another vinegar for balsamic vinegar in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but the flavour profile will change. Red wine vinegar or apple cider vinegar can work, but they lack the sweetness of balsamic. Adjust the recipe by adding a bit of honey or sugar if needed. Always test small batches first."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does 935 ml of balsamic vinegar last once opened?",
+            "@type": "Question",
+            "name": "How long does 935 ml of balsamic vinegar last once opened?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Opened balsamic vinegar can last up to 3–5 years if stored in a cool, dark place. Its acidity acts as a natural preservative. However, for best flavour, use it within 1–2 years, especially for air fryer recipes where freshness matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some air fryer recipes use millilitres instead of cups?",
+            "@type": "Question",
+            "name": "Why do some air fryer recipes use millilitres instead of cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Millilitres are more precise, especially in professional or European recipes. Cups are a volume measurement, which can vary slightly. If a recipe calls for 935 ml of balsamic vinegar, sticking to millilitres ensures consistency, particularly in air fryer cooking."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 935 ml of Balsamic Vinegar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 935 ml of Balsamic Vinegar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar",
     "description": "Convert 935 ml of balsamic vinegar to cups easily with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 935 ml of Balsamic Vinegar?",
+            "name": "How Many Cups Is 935 ml of Balsamic Vinegar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-balsamic-vinegar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

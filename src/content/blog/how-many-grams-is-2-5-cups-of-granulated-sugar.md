@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar"
   },
-  "headline": "Quick Guide: Convert 2.5 Cups of Granulated Sugar to Grams",
-  "description": "Learn how to convert 2.5 cups of granulated sugar to grams for precise baking. Get accurate measurements every time with our easy guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 2.5 Cups of Granulated Sugar to Grams",
+        "description": "Learn how to convert 2.5 cups of granulated sugar to grams for precise baking. Get accurate measurements every time with our easy guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T23:33:52.667Z",
-  "dateModified": "2025-07-27T23:33:52.667Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-cups-of-granulated-sugar.webp"
+        "datePublished": "2025-07-27T23:33:52.667Z",
+        "dateModified": "2025-07-27T23:33:52.667Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-cups-of-granulated-sugar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of sugar affect the conversion from cups to grams?",
+            "@type": "Question",
+            "name": "Does the type of sugar affect the conversion from cups to grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, different sugars have different densities. Granulated sugar converts to 200 grams per cup, while brown sugar is denser at around 220 grams per cup. For 2.5 cups of granulated sugar, stick to 500 grams for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale to measure 2.5 cups of granulated sugar?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale to measure 2.5 cups of granulated sugar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! A kitchen scale is the most accurate way to measure sugar. Simply set your scale to grams and pour until it reads 500 grams, which equals 2.5 cups of granulated sugar. This method eliminates packing errors."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does 2.5 cups of granulated sugar in grams matter for air fryer baking?",
+            "@type": "Question",
+            "name": "Why does 2.5 cups of granulated sugar in grams matter for air fryer baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers cook food quickly and evenly, so precise measurements prevent over- or under-baking. Using 500 grams of sugar ensures your desserts brown properly and have the right texture. Inconsistent measurements can lead to uneven results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 2.5 cups of granulated sugar the same in the UK and USA?",
+            "@type": "Question",
+            "name": "Is 2.5 cups of granulated sugar the same in the UK and USA?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion is the same: 2.5 cups of granulated sugar equals 500 grams in both the UK and USA. However, always check your recipe’s origin, as some regional recipes may use different cup sizes or sugar types."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 2.5 Cups of Granulated Sugar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 2.5 Cups of Granulated Sugar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar",
     "description": "Learn how to convert 2.5 cups of granulated sugar to grams for precise baking. Get accurate measurements every time with our easy guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:33:52.667000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 2.5 Cups of Granulated Sugar?",
+            "name": "How Many Grams Is 2.5 Cups of Granulated Sugar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

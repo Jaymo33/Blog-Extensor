@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk"
   },
-  "headline": "Quick Answer: 0.33 Cup Whole Milk to Ounces (UK Conversion)",
-  "description": "Convert 0.33 cup of whole milk to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.33 Cup Whole Milk to Ounces (UK Conversion)",
+        "description": "Convert 0.33 cup of whole milk to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-14T23:44:02.193Z",
-  "dateModified": "2025-08-14T23:44:02.193Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-033-cup-of-whole-milk.webp"
+        "datePublished": "2025-08-14T23:44:02.193Z",
+        "dateModified": "2025-08-14T23:44:02.193Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-033-cup-of-whole-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use skimmed milk instead of whole milk for 0.33 cup measurements?",
+            "@type": "Question",
+            "name": "Can I use skimmed milk instead of whole milk for 0.33 cup measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute skimmed milk for whole milk in the same quantity (0.33 cup or 2.64 oz). However, skimmed milk has less fat, which may slightly affect the texture of baked goods or sauces. For air fryer recipes, the difference is usually minimal, but whole milk adds richness."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 0.33 cup of whole milk without a measuring cup?",
+            "@type": "Question",
+            "name": "How do I measure 0.33 cup of whole milk without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a measuring cup, use a tablespoon to measure out 0.33 cup of whole milk. Since 1 cup equals 16 tablespoons, 0.33 cup is roughly 5.3 tablespoons. Alternatively, use a kitchen scale to weigh out 2.64 ounces for precision."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does 0.33 cup of whole milk weigh the same as 0.33 cup of water?",
+            "@type": "Question",
+            "name": "Does 0.33 cup of whole milk weigh the same as 0.33 cup of water?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, whole milk is slightly denser than water. While 0.33 cup of water weighs about 2.82 ounces, 0.33 cup of whole milk weighs approximately 2.64 ounces. Always check specific ingredient densities for accurate conversions in air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do air fryer recipes often use small amounts like 0.33 cup of milk?",
+            "@type": "Question",
+            "name": "Why do air fryer recipes often use small amounts like 0.33 cup of milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryer baskets have limited space, so recipes are often scaled down to fit. Using 0.33 cup (2.64 oz) of whole milk ensures the right consistency without overcrowding. Smaller quantities also cook faster and more evenly in the air fryer’s compact environment."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.33 cup of whole milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.33 cup of whole milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk",
     "description": "Convert 0.33 cup of whole milk to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.33 cup of whole milk?",
+            "name": "How many ounces is 0.33 cup of whole milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-033-cup-of-whole-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

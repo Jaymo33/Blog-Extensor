@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780"
   },
-  "headline": "Quick 5.5 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 5.5 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 5.5 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 5.5 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T16:38:42.976Z",
-  "dateModified": "2025-08-21T16:38:42.976Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-to-pounds-b9780.webp"
+        "datePublished": "2025-08-21T16:38:42.976Z",
+        "dateModified": "2025-08-21T16:38:42.976Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-to-pounds-b9780.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 5.5 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why do I need to convert 5.5 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Many air fryer recipes, particularly those from the US where imperial measurements are standard, list ingredient weights in pounds. Converting 5.5 kg to pounds (approximately 12.13 lb) ensures you use the correct amount of food for the recipe, which is crucial for accurate cooking times and results. Furthermore, your air fryer's basket has a maximum weight capacity for optimal performance, usually stated in pounds, so this conversion helps you avoid overloading it."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 5.5 kg exactly 12.125 pounds?",
+            "@type": "Question",
+            "name": "Is 5.5 kg exactly 12.125 pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, that is the precise conversion based on the standard calculation where 1 kilogram equals 2.20462 pounds. For most cooking purposes, you can comfortably round this to 12.13 pounds. This level of accuracy is important for larger quantities because even a small difference per kilogram adds up, potentially affecting cooking times and seasoning ratios in your air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How can I convert 5.5 kg to pounds and ounces?",
+            "@type": "Question",
+            "name": "How can I convert 5.5 kg to pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "First, convert 5.5 kg to pounds, which is 12.125 pounds. To find the ounces, take the decimal portion (0.125) and multiply it by 16, as there are 16 ounces in a pound. This calculation gives you 2 ounces. Therefore, 5.5 kg is equivalent to 12 pounds and 2 ounces. This finer measurement can be useful for very precise baking recipes in your air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "My air fryer manual uses kilograms, but my recipe uses pounds. What should I do?",
+            "@type": "Question",
+            "name": "My air fryer manual uses kilograms, but my recipe uses pounds. What should I do?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "This is a common situation. Your best bet is to convert the recipe's pound measurement into kilograms using the reverse calculation (pounds divided by 2.20462) to match your appliance's guidance. Alternatively, convert your ingredient's weight from kg to lb to ensure it aligns with the recipe. Keeping a simple conversion chart on your fridge or using a calculator app can make this process quick and effortless every time you cook."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "5.5 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780",
+            "@type": "WebPage",
+            "name": "5.5 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780",
     "description": "Convert 5.5 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T16:38:42.976000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "5.5 kg to pounds",
+            "name": "5.5 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

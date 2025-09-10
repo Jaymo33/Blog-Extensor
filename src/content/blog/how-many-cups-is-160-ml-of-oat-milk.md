@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk"
   },
-  "headline": "Quick Answer: How Many Cups Is 160 ml of Oat Milk?",
-  "description": "Discover how to convert 160 ml of oat milk to cups for perfect baking and cooking every time. Get precise measurements now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 160 ml of Oat Milk?",
+        "description": "Discover how to convert 160 ml of oat milk to cups for perfect baking and cooking every time. Get precise measurements now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:32:39.600Z",
-  "dateModified": "2025-07-30T23:32:39.600Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-oat-milk.webp"
+        "datePublished": "2025-07-30T23:32:39.600Z",
+        "dateModified": "2025-07-30T23:32:39.600Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-oat-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 160 ml of oat milk the same as 160 grams?",
+            "@type": "Question",
+            "name": "Is 160 ml of oat milk the same as 160 grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 160 ml of oat milk is approximately 160 grams, as the density of oat milk is very close to water. This makes it easy to measure by weight if you don’t have a measuring cup handy. Just ensure your kitchen scale is set to grams for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a regular cup to measure 160 ml of oat milk?",
+            "@type": "Question",
+            "name": "Can I use a regular cup to measure 160 ml of oat milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While a standard drinking cup isn’t precise, you can use it in a pinch. Remember that 160 ml is roughly ⅔ of a UK or US measuring cup. For best results, use a liquid measuring cup with millilitre markings or a kitchen scale for accuracy, especially in baking."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 160 ml of oat milk compare to dairy milk in recipes?",
+            "@type": "Question",
+            "name": "How does 160 ml of oat milk compare to dairy milk in recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "160 ml of oat milk can generally be substituted 1:1 for dairy milk in most recipes, including air fryer dishes. However, oat milk is slightly sweeter and thicker, which may affect the flavour and texture slightly. Adjust other ingredients if needed for balance."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to measure 160 ml of oat milk without a measuring cup?",
+            "@type": "Question",
+            "name": "What’s the best way to measure 160 ml of oat milk without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a measuring cup, use tablespoons: 160 ml is about 10.5 UK tablespoons or 11 US tablespoons. Alternatively, use a kitchen scale to weigh out 160 grams. For more conversion tips, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 160 ml of Oat Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 160 ml of Oat Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk",
     "description": "Discover how to convert 160 ml of oat milk to cups for perfect baking and cooking every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 160 ml of Oat Milk?",
+            "name": "How Many Cups Is 160 ml of Oat Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-oat-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

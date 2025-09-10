@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup"
   },
-  "headline": "Quick Guide: Convert 35 ml of Maple Syrup to Cups Easily",
-  "description": "Learn how to convert 35 ml of maple syrup to cups for perfect baking and air frying. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 35 ml of Maple Syrup to Cups Easily",
+        "description": "Learn how to convert 35 ml of maple syrup to cups for perfect baking and air frying. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:31:14.802Z",
-  "dateModified": "2025-07-30T23:31:14.802Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-maple-syrup.webp"
+        "datePublished": "2025-07-30T23:31:14.802Z",
+        "dateModified": "2025-07-30T23:31:14.802Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-maple-syrup.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use honey instead of 35 ml of maple syrup in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use honey instead of 35 ml of maple syrup in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute honey for maple syrup in a 1:1 ratio. However, honey is slightly sweeter, so you might want to reduce the quantity slightly. Honey also caramelises faster, so adjust cooking times to prevent burning."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 35 ml of maple syrup without a measuring spoon?",
+            "@type": "Question",
+            "name": "How do I measure 35 ml of maple syrup without a measuring spoon?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have measuring tools, a standard shot glass holds about 30 ml, so fill it just over halfway for 35 ml. Alternatively, use a teaspoon (5 ml) and measure out seven level teaspoons."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does 35 ml of maple syrup add many calories to a dish?",
+            "@type": "Question",
+            "name": "Does 35 ml of maple syrup add many calories to a dish?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "35 ml of maple syrup contains roughly 90 calories, so it’s best used in moderation. For lighter options, consider diluting it with a splash of water or citrus juice to stretch the flavour without extra calories."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I freeze leftover maple syrup after measuring 35 ml?",
+            "@type": "Question",
+            "name": "Can I freeze leftover maple syrup after measuring 35 ml?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, maple syrup freezes well. Pour any leftover syrup into an airtight container, leaving some space for expansion. Thaw in the fridge before using it again in your air fryer recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 35 ml of Maple Syrup?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 35 ml of Maple Syrup?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup",
     "description": "Learn how to convert 35 ml of maple syrup to cups for perfect baking and air frying. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:14.802000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 35 ml of Maple Syrup?",
+            "name": "How Many Cups Is 35 ml of Maple Syrup?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-maple-syrup"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2"
   },
-  "headline": "Quick 14 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 14 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 14 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 14 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T17:56:15.635Z",
-  "dateModified": "2025-08-21T17:56:15.635Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/14-kg-to-pounds-fc1a2.webp"
+        "datePublished": "2025-08-21T17:56:15.635Z",
+        "dateModified": "2025-08-21T17:56:15.635Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/14-kg-to-pounds-fc1a2.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 14 kg to pounds for air fryer cooking?",
+            "@type": "Question",
+            "name": "Why do I need to convert 14 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 14 kg to pounds is essential for air fryer cooking because many recipes use imperial measurements, and accurate portion sizes affect cooking times and results. Since air fryers work best with properly sized portions that allow for air circulation, knowing exact weights helps prevent overcrowding and ensures even cooking. This conversion is particularly important when working with larger quantities for meal prep or family gatherings."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 14 kg to pounds affect air fryer cooking times?",
+            "@type": "Question",
+            "name": "How does converting 14 kg to pounds affect air fryer cooking times?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 14 kg to pounds directly impacts air fryer cooking times because most recipes provide cooking guidance based on weight measurements. Heavier items generally require longer cooking times, so knowing that 14 kg equals approximately 30.86 pounds helps you adjust cooking duration appropriately. This prevents undercooking or overcooking, especially when working with large cuts of meat or batch cooking multiple portions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use approximate conversions when converting 14 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Can I use approximate conversions when converting 14 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While approximate conversions are generally acceptable for most air frying applications, precision becomes more important with larger quantities like 14 kg. Small rounding errors multiply with larger weights, potentially affecting cooking results. For best outcomes, use the exact conversion of 30.8647 pounds or round to 30.86 pounds rather than using simpler approximations that might lead to significant measurement errors."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find a reliable conversion chart for air fryer measurements?",
+            "@type": "Question",
+            "name": "Where can I find a reliable conversion chart for air fryer measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can find reliable conversion charts specifically designed for air fryer cooking at resources like airfryerrecipe.co.uk/air-fryer-conversion-chart. These charts typically include weight conversions like 14 kg to pounds alongside temperature and time adjustments for different air fryer models. Many kitchen scale manufacturers also provide conversion guides, and numerous cooking apps offer built-in conversion tools for quick reference while preparing meals."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "14 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2",
+            "@type": "WebPage",
+            "name": "14 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2",
     "description": "Convert 14 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T17:56:15.635000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "14 kg to pounds",
+            "name": "14 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/14-kg-to-pounds-fc1a2"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

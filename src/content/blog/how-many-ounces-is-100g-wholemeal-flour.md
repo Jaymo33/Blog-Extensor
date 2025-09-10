@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour"
   },
-  "headline": "Quick Answer: How many ounces is 100g of wholemeal flour?",
-  "description": "Discover how to convert 100g of wholemeal flour to ounces for perfect baking every time. Get accurate measurements for your air fryer recipes.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many ounces is 100g of wholemeal flour?",
+        "description": "Discover how to convert 100g of wholemeal flour to ounces for perfect baking every time. Get accurate measurements for your air fryer recipes.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-06T23:33:24.546Z",
-  "dateModified": "2025-08-06T23:33:24.546Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-wholemeal-flour.webp"
+        "datePublished": "2025-08-06T23:33:24.546Z",
+        "dateModified": "2025-08-06T23:33:24.546Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-wholemeal-flour.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 100g of wholemeal flour weigh the same as plain flour in ounces?",
+            "@type": "Question",
+            "name": "Does 100g of wholemeal flour weigh the same as plain flour in ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While 100g of both wholemeal and plain flour converts to approximately 3.53 ounces, wholemeal flour is slightly denser. This means a cup of wholemeal flour will weigh more than a cup of plain flour, but the gram to ounce conversion remains the same when using scales."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for self-raising wholemeal flour?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for self-raising wholemeal flour?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion of 100g to 3.53 ounces applies to all types of wholemeal flour, including self-raising. However, remember that self-raising flour contains raising agents, so you can't directly substitute it for plain wholemeal flour in recipes without adjustment."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some conversion charts show slightly different ounce measurements for 100g of flour?",
+            "@type": "Question",
+            "name": "Why do some conversion charts show slightly different ounce measurements for 100g of flour?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Small variations occur because flour can settle and compact differently. The standard conversion uses the average density of flour, but humidity and how the flour is packed can cause minor differences. For baking precision, always weigh your flour rather than relying solely on volume conversions."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does the UK ounce measurement for 100g wholemeal flour compare to US ounces?",
+            "@type": "Question",
+            "name": "How does the UK ounce measurement for 100g wholemeal flour compare to US ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Fortunately, the ounce measurement is the same in both UK and US systems when converting 100g of wholemeal flour. Both use the international avoirdupois ounce, where 100g equals approximately 3.53 ounces. The main differences between UK and US baking come in cup measurements and some ingredient names."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 100g of wholemeal flour?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour",
+            "@type": "WebPage",
+            "name": "How many ounces is 100g of wholemeal flour?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour",
     "description": "Discover how to convert 100g of wholemeal flour to ounces for perfect baking every time. Get accurate measurements for your air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 100g of wholemeal flour?",
+            "name": "How many ounces is 100g of wholemeal flour?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-wholemeal-flour"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

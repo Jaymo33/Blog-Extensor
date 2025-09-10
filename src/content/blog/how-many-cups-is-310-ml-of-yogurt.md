@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt"
   },
-  "headline": "Quick Guide: Convert 310 ml of Yogurt to Cups Easily",
-  "description": "Learn how to convert 310 ml of yogurt to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 310 ml of Yogurt to Cups Easily",
+        "description": "Learn how to convert 310 ml of yogurt to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:32:39.600Z",
-  "dateModified": "2025-07-30T23:32:39.600Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-yogurt.webp"
+        "datePublished": "2025-07-30T23:32:39.600Z",
+        "dateModified": "2025-07-30T23:32:39.600Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-yogurt.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 310 ml of yogurt the same as 1.31 cups in all countries?",
+            "@type": "Question",
+            "name": "Is 310 ml of yogurt the same as 1.31 cups in all countries?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cup sizes vary by region. In the US, 310 ml equals roughly 1.31 cups, while in the UK, it’s about 1.09 cups due to the larger UK cup size (284.13 ml). Always check which measurement system your recipe uses, especially for air fryer dishes where precision matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use Greek yogurt instead of regular yogurt for 310 ml measurements?",
+            "@type": "Question",
+            "name": "Can I use Greek yogurt instead of regular yogurt for 310 ml measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but Greek yogurt is thicker, so 310 ml (1.31 cups) may weigh slightly more. For best results in air fryer recipes, lightly spoon it into a measuring cup without packing it down. Adjust liquids in the recipe if needed to avoid dryness."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 310 ml of yogurt to grams for baking?",
+            "@type": "Question",
+            "name": "How do I convert 310 ml of yogurt to grams for baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yogurt’s weight varies by type, but generally, 310 ml (1.31 cups) of regular yogurt weighs about 322 grams. Greek yogurt is denser, closer to 387 grams. Use a kitchen scale for accuracy, especially in air fryer baking where texture is crucial."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do air fryer recipes often use yogurt?",
+            "@type": "Question",
+            "name": "Why do air fryer recipes often use yogurt?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yogurt adds moisture, tenderizes proteins, and helps coatings crisp up in the air fryer. Measuring 310 ml (1.31 cups) correctly ensures balanced flavors and textures. It’s a staple in marinades, batters, and even desserts for its versatility and health benefits."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 310 ml of Yogurt?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 310 ml of Yogurt?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt",
     "description": "Learn how to convert 310 ml of yogurt to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 310 ml of Yogurt?",
+            "name": "How Many Cups Is 310 ml of Yogurt?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-yogurt"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

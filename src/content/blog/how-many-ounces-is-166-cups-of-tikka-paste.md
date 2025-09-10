@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste"
   },
-  "headline": "Quick Guide: Convert 1.66 Cups of Tikka Paste to Ounces Easily",
-  "description": "Discover how to convert 1.66 cups of tikka paste to ounces with our simple guide—perfect for air fryer recipes and meal prep!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 1.66 Cups of Tikka Paste to Ounces Easily",
+        "description": "Discover how to convert 1.66 cups of tikka paste to ounces with our simple guide—perfect for air fryer recipes and meal prep!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-15T23:40:45.481Z",
-  "dateModified": "2025-08-15T23:40:45.481Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-166-cups-of-tikka-paste.webp"
+        "datePublished": "2025-08-15T23:40:45.481Z",
+        "dateModified": "2025-08-15T23:40:45.481Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-166-cups-of-tikka-paste.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 1.66 cups of tikka paste for vegetarian dishes?",
+            "@type": "Question",
+            "name": "Can I use 1.66 cups of tikka paste for vegetarian dishes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! 1.66 cups (13.28 ounces) of tikka paste works wonderfully with tofu, mushrooms, or mixed vegetables in the air fryer. Adjust the quantity slightly if you prefer a milder or stronger flavour."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 1.66 cups of tikka paste to grams?",
+            "@type": "Question",
+            "name": "How do I convert 1.66 cups of tikka paste to grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Since 1 ounce is roughly 28.35 grams, 13.28 ounces of tikka paste equals about 376 grams. Use a kitchen scale for the most accurate measurement, especially for air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 1.66 cups of tikka paste too much for a single meal?",
+            "@type": "Question",
+            "name": "Is 1.66 cups of tikka paste too much for a single meal?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It depends on the recipe. For a family-sized curry or marinade, 1.66 cups (13.28 ounces) is ideal. For smaller portions, consider halving the amount or storing the excess."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute tikka paste with another spice mix?",
+            "@type": "Question",
+            "name": "Can I substitute tikka paste with another spice mix?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While tikka paste has a unique flavour, you can use a blend of garam masala, yoghurt, and tomato paste as a substitute. Adjust the quantities to match the 1.66 cups measurement for consistency."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 1.66 cups of tikka paste?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste",
+            "@type": "WebPage",
+            "name": "How many ounces is 1.66 cups of tikka paste?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste",
     "description": "Discover how to convert 1.66 cups of tikka paste to ounces with our simple guide—perfect for air fryer recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 1.66 cups of tikka paste?",
+            "name": "How many ounces is 1.66 cups of tikka paste?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-tikka-paste"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

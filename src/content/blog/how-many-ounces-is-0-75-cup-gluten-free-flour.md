@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour"
   },
-  "headline": "Quick Guide: Convert 0.75 Cup Gluten-Free Flour to Ounces",
-  "description": "Discover how to convert 0.75 cup of gluten-free flour to ounces for perfect air fryer baking every time. Get accurate measurements now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.75 Cup Gluten-Free Flour to Ounces",
+        "description": "Discover how to convert 0.75 cup of gluten-free flour to ounces for perfect air fryer baking every time. Get accurate measurements now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-16T23:30:04.315Z",
-  "dateModified": "2025-08-16T23:30:04.315Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-gluten-free-flour.webp"
+        "datePublished": "2025-08-16T23:30:04.315Z",
+        "dateModified": "2025-08-16T23:30:04.315Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-gluten-free-flour.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 0.75 cup of all gluten-free flours weigh the same in ounces?",
+            "@type": "Question",
+            "name": "Does 0.75 cup of all gluten-free flours weigh the same in ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, different gluten-free flours have varying densities. Almond flour is lighter, while coconut flour is denser. Always check packaging or use a scale for 0.75 cup measurements to ensure accuracy in air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a regular measuring cup for 0.75 cup of gluten-free flour?",
+            "@type": "Question",
+            "name": "Can I use a regular measuring cup for 0.75 cup of gluten-free flour?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but for best results, spoon the flour into the cup and level it off. Scooping compacts the flour, leading to more than 3.2 ounces. A kitchen scale guarantees precision for air fryer baking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer gluten-free bake fail with 0.75 cup measurements?",
+            "@type": "Question",
+            "name": "Why does my air fryer gluten-free bake fail with 0.75 cup measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers require precise ratios due to rapid air circulation. If your 0.75 cup measurement is off, the texture may suffer. Weighing flour (3.2 ounces) eliminates this issue for consistent results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find air fryer recipes using 0.75 cup of gluten-free flour?",
+            "@type": "Question",
+            "name": "Where can I find air fryer recipes using 0.75 cup of gluten-free flour?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Explore <a href=https://www.airfryerrecipe.co.uk/recipe-category/cookies>gluten-free cookie recipes</a> or our <a href=https://www.airfryerrecipe.co.uk/recipes>main recipe collection</a>. Many small-batch air fryer bakes use this exact measurement for perfect portions."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.75 cup of gluten-free flour?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.75 cup of gluten-free flour?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour",
     "description": "Discover how to convert 0.75 cup of gluten-free flour to ounces for perfect air fryer baking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.75 cup of gluten-free flour?",
+            "name": "How many ounces is 0.75 cup of gluten-free flour?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-gluten-free-flour"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer"
   },
-  "headline": "Reheat Pad Thai in Air Fryer – Quick & Crispy Results",
-  "description": "Learn how to reheat Pad Thai in an air fryer for crispy noodles without drying out. Perfect temperature & timings for leftovers.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Reheat Pad Thai in Air Fryer – Quick & Crispy Results",
+        "description": "Learn how to reheat Pad Thai in an air fryer for crispy noodles without drying out. Perfect temperature & timings for leftovers.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T19:59:55.735Z",
-  "dateModified": "2025-07-22T19:59:55.735Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-pad-thai-in-air-fryer.png"
+        "datePublished": "2025-07-22T19:59:55.735Z",
+        "dateModified": "2025-07-22T19:59:55.735Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-pad-thai-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Reheat"
+        "about": {
+            "@type": "Thing",
+            "name": "Reheat"
   },
-  "articleSection": "Reheat",
-  "inLanguage": "en-GB"
+        "articleSection": "Reheat",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can you reheat Pad Thai in an air fryer from frozen?",
+            "@type": "Question",
+            "name": "Can you reheat Pad Thai in an air fryer from frozen?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but thaw it in the fridge overnight first for even reheating. Frozen Pad Thai may develop ice crystals that create uneven texture. If reheating straight from frozen, add 2-3 minutes to the cooking time and stir frequently."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I prevent Pad Thai from drying out in the air fryer?",
+            "@type": "Question",
+            "name": "How do I prevent Pad Thai from drying out in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Lightly mist the noodles with water or broth before cooking, and avoid overcooking. Keeping the cooking time under 5 minutes at 160°C (320°F) preserves moisture. Covering with foil for the first half of cooking also helps."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to reheat Pad Thai with chicken or shrimp?",
+            "@type": "Question",
+            "name": "What’s the best way to reheat Pad Thai with chicken or shrimp?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The same method works for protein additions – just ensure the meat reaches 75°C (165°F) internally. Stir well to distribute heat evenly. For shrimp Pad Thai, check our shrimp recipes section for complementary dishes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat Pad Thai in an air fryer if it has peanut garnish?",
+            "@type": "Question",
+            "name": "Can I reheat Pad Thai in an air fryer if it has peanut garnish?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely – peanuts actually crisp up beautifully in the air fryer. Just monitor closely during the last minute to prevent burning. Consider adding fresh peanuts after reheating for extra crunch."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How to Reheat Pad Thai in an Air Fryer",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer",
+            "@type": "WebPage",
+            "name": "How to Reheat Pad Thai in an Air Fryer",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer",
     "description": "Learn how to reheat Pad Thai in an air fryer for crispy noodles without drying out. Perfect temperature & timings for leftovers.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How to Reheat Pad Thai in an Air Fryer",
+            "name": "How to Reheat Pad Thai in an Air Fryer",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pad-thai-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

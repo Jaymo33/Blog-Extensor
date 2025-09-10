@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour"
   },
-  "headline": "Quick Guide: Convert 375g Self-Raising Flour to Cups Easily",
-  "description": "Learn how to convert 375 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 375g Self-Raising Flour to Cups Easily",
+        "description": "Learn how to convert 375 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-26T21:34:06.484Z",
-  "dateModified": "2025-07-26T21:34:06.484Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-375-grams-of-self-raising-flour.webp"
+        "datePublished": "2025-07-26T21:34:06.484Z",
+        "dateModified": "2025-07-26T21:34:06.484Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-375-grams-of-self-raising-flour.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 375 grams of self-raising flour the same as plain flour in cups?",
+            "@type": "Question",
+            "name": "Is 375 grams of self-raising flour the same as plain flour in cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, self-raising flour and plain flour have different densities due to the added baking powder in self-raising flour. While 375 grams of self-raising flour equals roughly 3 cups, plain flour may measure slightly differently. Always check your recipe for the correct type of flour."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 375 grams of self-raising flour for air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use 375 grams of self-raising flour for air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Many air fryer recipes, like cakes and muffins, work well with 375 grams of self-raising flour. Just ensure you convert it accurately to cups (about 3 cups) for best results. Check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for tailored recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my measurement of 375 grams of self-raising flour look different in cups?",
+            "@type": "Question",
+            "name": "Why does my measurement of 375 grams of self-raising flour look different in cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Flour can settle or become compacted in the bag, leading to inconsistent cup measurements. Always fluff the flour first and use the spoon-and-level method for accuracy. Humidity and brand variations can also affect volume."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I adjust 375 grams of self-raising flour for high-altitude baking?",
+            "@type": "Question",
+            "name": "How do I adjust 375 grams of self-raising flour for high-altitude baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "At high altitudes, you may need slightly less self-raising flour due to drier air. Reduce the 375 grams by 1-2 tablespoons per cup (or about 15-30 grams total) and adjust other leavening agents as needed. Always test your recipe first."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 375 Grams of Self-Raising Flour?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 375 Grams of Self-Raising Flour?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour",
     "description": "Learn how to convert 375 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 375 Grams of Self-Raising Flour?",
+            "name": "How Many Cups Is 375 Grams of Self-Raising Flour?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-self-raising-flour"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

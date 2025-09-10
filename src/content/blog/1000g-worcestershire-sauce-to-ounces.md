@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces"
   },
-  "headline": "Quick Convert: 1000g of Worcestershire Sauce to Ounces UK",
-  "description": "Easily convert 1000g of Worcestershire sauce to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Convert: 1000g of Worcestershire Sauce to Ounces UK",
+        "description": "Easily convert 1000g of Worcestershire sauce to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-08T23:46:47.435Z",
-  "dateModified": "2025-08-08T23:46:47.435Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-worcestershire-sauce-to-ounces.webp"
+        "datePublished": "2025-08-08T23:46:47.435Z",
+        "dateModified": "2025-08-08T23:46:47.435Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-worcestershire-sauce-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 1000g of Worcestershire sauce to ounces without a scale?",
+            "@type": "Question",
+            "name": "How do I convert 1000g of Worcestershire sauce to ounces without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a scale, you can use a measuring jug with ounce markings. Since 1000g equals roughly 35.27 ounces, look for a jug that displays fluid ounces and pour slowly. Keep in mind that Worcestershire sauce is thick, so take your time to avoid overpouring."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 1000g of Worcestershire sauce in air fryer marinades?",
+            "@type": "Question",
+            "name": "Can I use 1000g of Worcestershire sauce in air fryer marinades?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! 1000g (35.27 oz) of Worcestershire sauce is perfect for marinating meats or veggies in the air fryer. Its rich, tangy flavour works well with chicken, beef, or even tofu. Just ensure you balance it with other ingredients like oil or herbs for the best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does 1000g of Worcestershire sauce last once opened?",
+            "@type": "Question",
+            "name": "How long does 1000g of Worcestershire sauce last once opened?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "An opened bottle of Worcestershire sauce can last up to 3 years if stored properly in a cool, dark place. The high vinegar and salt content act as natural preservatives, so your 1000g (35.27 oz) should stay fresh for many recipes to come."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is Worcestershire sauce gluten-free?",
+            "@type": "Question",
+            "name": "Is Worcestershire sauce gluten-free?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most Worcestershire sauces contain gluten due to malt vinegar or soy sauce. However, gluten-free versions are available. If you’re cooking for someone with gluten intolerance, always check the label before using 1000g (35.27 oz) in your air fryer recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 1000g of worcestershire sauce?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 1000g of worcestershire sauce?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces",
     "description": "Easily convert 1000g of Worcestershire sauce to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 1000g of worcestershire sauce?",
+            "name": "How many ounces is 1000g of worcestershire sauce?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-worcestershire-sauce-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

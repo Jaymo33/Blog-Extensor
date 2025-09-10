@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer"
   },
-  "headline": "How to Reheat Bao Buns in an Air Fryer – Quick & Crispy Results | AirFryerRecipe.co.uk",
-  "description": "Learn how to reheat bao buns in an air fryer for perfect texture every time. Get the ideal temperature, timing, and tips to avoid dryness. Quick guide for fluffy results.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "How to Reheat Bao Buns in an Air Fryer – Quick & Crispy Results | AirFryerRecipe.co.uk",
+        "description": "Learn how to reheat bao buns in an air fryer for perfect texture every time. Get the ideal temperature, timing, and tips to avoid dryness. Quick guide for fluffy results.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T16:02:09.139Z",
-  "dateModified": "2025-07-22T16:02:09.139Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-bao-buns-in-air-fryer.png"
+        "datePublished": "2025-07-22T16:02:09.139Z",
+        "dateModified": "2025-07-22T16:02:09.139Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-bao-buns-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Reheat"
+        "about": {
+            "@type": "Thing",
+            "name": "Reheat"
   },
-  "articleSection": "Reheat",
-  "inLanguage": "en-GB"
+        "articleSection": "Reheat",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can you reheat bao buns in an air fryer from frozen?",
+            "@type": "Question",
+            "name": "Can you reheat bao buns in an air fryer from frozen?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Frozen bao buns reheat beautifully in an air fryer at 160°C for 4-5 minutes. No need to thaw – just extend the time by 1 minute compared to refrigerated buns. Check they're heated through before serving."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best temperature to reheat bao buns without drying them out?",
+            "@type": "Question",
+            "name": "What’s the best temperature to reheat bao buns without drying them out?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "160°C (320°F) is ideal for most air fryers. This gently warms the buns without evaporating too much moisture. For extra insurance against dryness, lightly mist them with water before reheating."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I keep reheated bao buns soft inside but crispy outside?",
+            "@type": "Question",
+            "name": "How do I keep reheated bao buns soft inside but crispy outside?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The air fryer’s circulating heat naturally creates this perfect texture contrast. Arrange buns in a single layer, don’t overcrowd, and flip halfway. For extra softness, wrap in damp kitchen paper during the last minute."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat filled bao buns in an air fryer safely?",
+            "@type": "Question",
+            "name": "Can I reheat filled bao buns in an air fryer safely?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but meat-filled bao need extra care. Reheat at 160°C for 4-5 minutes, ensuring the filling reaches 75°C internally. Cut one open to check it’s steaming hot throughout before eating."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How to Reheat Bao Buns in an Air Fryer",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer",
+            "@type": "WebPage",
+            "name": "How to Reheat Bao Buns in an Air Fryer",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer",
     "description": "Learn how to reheat bao buns in an air fryer for perfect texture every time. Get the ideal temperature, timing, and tips to avoid dryness. Quick guide for fluffy results.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:02:09.139000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How to Reheat Bao Buns in an Air Fryer",
+            "name": "How to Reheat Bao Buns in an Air Fryer",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bao-buns-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream"
   },
-  "headline": "Quick & Easy: Convert 510 ml of Heavy Cream to Cups",
-  "description": "Learn how to convert 510 ml of heavy cream to cups for baking and cooking. Perfect measurements every time with this simple guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick & Easy: Convert 510 ml of Heavy Cream to Cups",
+        "description": "Learn how to convert 510 ml of heavy cream to cups for baking and cooking. Perfect measurements every time with this simple guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T00:26:06.873Z",
-  "dateModified": "2025-08-01T00:26:06.873Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-heavy-cream.webp"
+        "datePublished": "2025-08-01T00:26:06.873Z",
+        "dateModified": "2025-08-01T00:26:06.873Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-heavy-cream.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 510 ml of heavy cream the same as 2 cups?",
+            "@type": "Question",
+            "name": "Is 510 ml of heavy cream the same as 2 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 510 ml of heavy cream is approximately 2.15 cups. While 2 cups equal 473 ml, the extra 37 ml in 510 ml means you'll need slightly more than 2 cups for an accurate measurement."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 510 ml of heavy cream in an air fryer recipe?",
+            "@type": "Question",
+            "name": "Can I use 510 ml of heavy cream in an air fryer recipe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! 510 ml of heavy cream works well in many air fryer recipes, from creamy sauces to desserts. Just ensure you convert the measurement correctly to maintain the recipe's balance."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 510 ml of heavy cream without a measuring cup?",
+            "@type": "Question",
+            "name": "How do I measure 510 ml of heavy cream without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don't have a measuring cup, use a kitchen scale. 510 ml of heavy cream weighs about 510 grams. Alternatively, you can estimate using a standard drinking glass, though this method is less precise."
     }
     },
     {
-    "@type": "Question",
-    "name": "What can I make with 510 ml of heavy cream?",
+            "@type": "Question",
+            "name": "What can I make with 510 ml of heavy cream?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can make a variety of dishes, including creamy soups, desserts like custard or mousse, and rich sauces. For inspiration, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 510 ml of Heavy Cream?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 510 ml of Heavy Cream?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream",
     "description": "Learn how to convert 510 ml of heavy cream to cups for baking and cooking. Perfect measurements every time with this simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 510 ml of Heavy Cream?",
+            "name": "How Many Cups Is 510 ml of Heavy Cream?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-heavy-cream"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

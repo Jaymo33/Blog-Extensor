@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt"
   },
-  "headline": "Quick Answer: How Many Grams Is 0.5 Cups of Yogurt?",
-  "description": "Discover the exact gram measurement for 0.5 cups of yogurt—perfect for air fryer recipes and precise baking conversions.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Grams Is 0.5 Cups of Yogurt?",
+        "description": "Discover the exact gram measurement for 0.5 cups of yogurt—perfect for air fryer recipes and precise baking conversions.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:24.556Z",
-  "dateModified": "2025-07-27T16:11:24.556Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-yogurt.webp"
+        "datePublished": "2025-07-27T16:11:24.556Z",
+        "dateModified": "2025-07-27T16:11:24.556Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-yogurt.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of yogurt affect the gram measurement for 0.5 cups?",
+            "@type": "Question",
+            "name": "Does the type of yogurt affect the gram measurement for 0.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, thicker yogurts like Greek or Icelandic varieties weigh more per 0.5 cups—around 140 grams compared to regular yogurt’s 120 grams. Always adjust for density in recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use milliliters instead of grams for 0.5 cups of yogurt?",
+            "@type": "Question",
+            "name": "Can I use milliliters instead of grams for 0.5 cups of yogurt?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While 0.5 cups of yogurt is roughly 120 grams, it’s also about 120 milliliters for regular yogurt. However, weight (grams) is more accurate for baking and air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is my air fryer recipe too wet with 0.5 cups of yogurt?",
+            "@type": "Question",
+            "name": "Why is my air fryer recipe too wet with 0.5 cups of yogurt?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If your dish turns out soggy, you might be using a thinner yogurt or overpacking the cup. Stick to 120 grams for best results, and drain excess liquid if needed."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 0.5 cups of yogurt to grams for UK recipes?",
+            "@type": "Question",
+            "name": "How do I convert 0.5 cups of yogurt to grams for UK recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "UK and US cup measurements are similar for yogurt, so 0.5 cups still equals ~120 grams. For absolute precision, use a kitchen scale, especially in air fryer cooking."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 0.5 Cups of Yogurt?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 0.5 Cups of Yogurt?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt",
     "description": "Discover the exact gram measurement for 0.5 cups of yogurt—perfect for air fryer recipes and precise baking conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:24.556000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 0.5 Cups of Yogurt?",
+            "name": "How Many Grams Is 0.5 Cups of Yogurt?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-yogurt"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

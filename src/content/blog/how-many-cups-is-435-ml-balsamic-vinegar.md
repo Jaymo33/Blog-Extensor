@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar"
   },
-  "headline": "Quick Answer: How Many Cups Is 435 ml of Balsamic Vinegar?",
-  "description": "Find out exactly how many cups 435 ml of balsamic vinegar equals for perfect cooking and baking every time. Get conversions and tips here!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 435 ml of Balsamic Vinegar?",
+        "description": "Find out exactly how many cups 435 ml of balsamic vinegar equals for perfect cooking and baking every time. Get conversions and tips here!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-01T00:26:06.873Z",
-  "dateModified": "2025-08-01T00:26:06.873Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-balsamic-vinegar.webp"
+        "datePublished": "2025-08-01T00:26:06.873Z",
+        "dateModified": "2025-08-01T00:26:06.873Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-balsamic-vinegar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 435 ml of balsamic vinegar the same as 1.84 cups in all countries?",
+            "@type": "Question",
+            "name": "Is 435 ml of balsamic vinegar the same as 1.84 cups in all countries?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cup measurements vary by country. In the US, 435 ml equals about 1.81 cups, while in the UK, it’s roughly 1.53 cups. Always check which measurement system your recipe uses to ensure accuracy, especially when cooking with an air fryer where precision matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale instead of measuring cups for balsamic vinegar?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale instead of measuring cups for balsamic vinegar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, a kitchen scale works well for measuring balsamic vinegar. Since 1 ml of balsamic vinegar weighs about 1.04 grams, 435 ml would weigh approximately 452 grams. This method is often more accurate than using cups, especially for sticky liquids like balsamic vinegar."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does balsamic vinegar behave differently in an air fryer compared to a regular oven?",
+            "@type": "Question",
+            "name": "How does balsamic vinegar behave differently in an air fryer compared to a regular oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "In an air fryer, balsamic vinegar reduces and caramelises faster due to the concentrated heat and airflow. This creates a thicker, more intense glaze or marinade. However, it can also burn more easily, so keep an eye on cooking times and consider diluting it slightly if needed."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to store leftover balsamic vinegar after measuring out 435 ml?",
+            "@type": "Question",
+            "name": "What’s the best way to store leftover balsamic vinegar after measuring out 435 ml?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Store leftover balsamic vinegar in a cool, dark place, ideally in its original bottle or a glass container with a tight seal. Properly stored, it can last for years, though its flavour may mellow over time. Avoid refrigeration, as it can cause condensation and dilute the vinegar."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 435 ml of Balsamic Vinegar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 435 ml of Balsamic Vinegar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar",
     "description": "Find out exactly how many cups 435 ml of balsamic vinegar equals for perfect cooking and baking every time. Get conversions and tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 435 ml of Balsamic Vinegar?",
+            "name": "How Many Cups Is 435 ml of Balsamic Vinegar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-balsamic-vinegar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

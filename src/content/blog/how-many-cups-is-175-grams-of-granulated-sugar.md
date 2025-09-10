@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar"
   },
-  "headline": "175 grams of granulated sugar in cups – Quick conversion guide | AirFryerRecipe.co.uk",
-  "description": "Find out how many cups 175 grams of granulated sugar equals for perfect baking. Includes UK/US conversions and tips for air fryer recipes. Get accurate measurements every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "175 grams of granulated sugar in cups – Quick conversion guide | AirFryerRecipe.co.uk",
+        "description": "Find out how many cups 175 grams of granulated sugar equals for perfect baking. Includes UK/US conversions and tips for air fryer recipes. Get accurate measurements every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T16:57:37.476Z",
-  "dateModified": "2025-07-22T16:57:37.476Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-granulated-sugar.png"
+        "datePublished": "2025-07-22T16:57:37.476Z",
+        "dateModified": "2025-07-22T16:57:37.476Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-granulated-sugar.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 175 grams of granulated sugar measure differently in US and UK cups?",
+            "@type": "Question",
+            "name": "Does 175 grams of granulated sugar measure differently in US and UK cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, there's a slight difference. 175 grams of granulated sugar equals about 0.88 US cups or 0.73 UK cups due to the different cup sizes (240ml vs 284ml). For air fryer recipes, it's best to use grams for complete accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use brown sugar instead of granulated sugar in a 175g measurement?",
+            "@type": "Question",
+            "name": "Can I use brown sugar instead of granulated sugar in a 175g measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can substitute brown sugar, but note it's denser than granulated sugar. 175g of brown sugar would be slightly less in volume (about 0.8 US cups). The moisture content may also affect your air fryer recipe's texture."
     }
     },
     {
-    "@type": "Question",
-    "name": "How should I store leftover granulated sugar after measuring 175g for my recipe?",
+            "@type": "Question",
+            "name": "How should I store leftover granulated sugar after measuring 175g for my recipe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Store granulated sugar in an airtight container in a cool, dry place. If you frequently bake in your air fryer, consider keeping pre-measured portions (like 175g) ready to use for convenience."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do my air fryer baked goods sometimes turn out too sweet or not sweet enough?",
+            "@type": "Question",
+            "name": "Why do my air fryer baked goods sometimes turn out too sweet or not sweet enough?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Inconsistent sugar measurement is often the culprit. Using scales for 175 grams of granulated sugar ensures accuracy. Also, remember air fryers intensify flavours slightly, so you might want to reduce sugar by 10-15% in some recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 175 Grams of Granulated Sugar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 175 Grams of Granulated Sugar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar",
     "description": "Find out how many cups 175 grams of granulated sugar equals for perfect baking. Includes UK/US conversions and tips for air fryer recipes. Get accurate measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 175 Grams of Granulated Sugar?",
+            "name": "How Many Cups Is 175 Grams of Granulated Sugar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-granulated-sugar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

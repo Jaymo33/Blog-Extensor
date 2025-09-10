@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil"
   },
-  "headline": "Quick Answer: How many ounces is 2 cups of vegetable oil?",
-  "description": "Find out exactly how many ounces are in 2 cups of vegetable oil for perfect air fryer recipes every time. Includes UK conversions!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How many ounces is 2 cups of vegetable oil?",
+        "description": "Find out exactly how many ounces are in 2 cups of vegetable oil for perfect air fryer recipes every time. Includes UK conversions!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-18T23:44:06.726Z",
-  "dateModified": "2025-08-18T23:44:06.726Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-vegetable-oil.webp"
+        "datePublished": "2025-08-18T23:44:06.726Z",
+        "dateModified": "2025-08-18T23:44:06.726Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-vegetable-oil.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 2 cups of vegetable oil the same as 16 ounces in the UK?",
+            "@type": "Question",
+            "name": "Is 2 cups of vegetable oil the same as 16 ounces in the UK?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 2 cups of vegetable oil equals approximately 16 ounces in the UK, just like in the US. While UK fluid ounces differ slightly for water, vegetable oil’s density means the weight in ounces remains the same. For air fryer cooking, this conversion ensures accurate results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale to measure 2 cups of vegetable oil?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale to measure 2 cups of vegetable oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! A kitchen scale is the most precise way to measure 2 cups of vegetable oil. Simply tare your container, then pour oil until it reaches 16 ounces. This method eliminates guesswork and is especially useful for air fryer recipes requiring exact amounts."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many grams are in 2 cups of vegetable oil?",
+            "@type": "Question",
+            "name": "How many grams are in 2 cups of vegetable oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Two cups of vegetable oil weigh roughly 454 grams. This conversion is handy for UK cooks using metric measurements. Remember, air fryer recipes often need less oil than traditional frying, so adjust quantities accordingly for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the type of vegetable oil affect the weight per cup?",
+            "@type": "Question",
+            "name": "Does the type of vegetable oil affect the weight per cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most common vegetable oils (like sunflower or rapeseed) weigh about 8 ounces per cup, so 2 cups would be 16 ounces. However, denser oils like coconut may weigh slightly more. Always check specific oil densities if substituting in air fryer recipes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 2 cups of vegetable oil?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil",
+            "@type": "WebPage",
+            "name": "How many ounces is 2 cups of vegetable oil?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil",
     "description": "Find out exactly how many ounces are in 2 cups of vegetable oil for perfect air fryer recipes every time. Includes UK conversions!",
     "inLanguage": "en",
     "datePublished": "2025-08-18T23:44:06.726000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 2 cups of vegetable oil?",
+            "name": "How many ounces is 2 cups of vegetable oil?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vegetable-oil"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

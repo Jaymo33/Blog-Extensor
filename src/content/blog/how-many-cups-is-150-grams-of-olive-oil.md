@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil"
   },
-  "headline": "How Many Cups Is 150 Grams of Olive Oil? – Quick Conversion Guide | AirFryerRecipe.co.uk",
-  "description": "Wondering how many cups 150 grams of olive oil is? Our quick guide shows the exact conversion for UK and US cups, perfect for air fryer recipes and baking.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "How Many Cups Is 150 Grams of Olive Oil? – Quick Conversion Guide | AirFryerRecipe.co.uk",
+        "description": "Wondering how many cups 150 grams of olive oil is? Our quick guide shows the exact conversion for UK and US cups, perfect for air fryer recipes and baking.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T16:02:09.139Z",
-  "dateModified": "2025-07-22T16:02:09.139Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-olive-oil.png"
+        "datePublished": "2025-07-22T16:02:09.139Z",
+        "dateModified": "2025-07-22T16:02:09.139Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-olive-oil.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 150 grams of olive oil the same in UK and US cups?",
+            "@type": "Question",
+            "name": "Is 150 grams of olive oil the same in UK and US cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, there’s a slight difference. 150 grams of olive oil equals approximately 0.66 cups in the UK and 0.63 cups in the US. Always check which measurement system your recipe uses."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use tablespoons instead of cups to measure 150 grams of olive oil?",
+            "@type": "Question",
+            "name": "Can I use tablespoons instead of cups to measure 150 grams of olive oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can use roughly 10 tablespoons as an alternative to 150 grams of olive oil. However, for precise baking measurements, cups or scales are recommended."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does olive oil affect air fryer cooking times?",
+            "@type": "Question",
+            "name": "How does olive oil affect air fryer cooking times?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Olive oil can help crisp food in the air fryer, but too much may increase cooking time slightly. Always follow recipe guidelines for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to clean my air fryer after using olive oil?",
+            "@type": "Question",
+            "name": "What’s the best way to clean my air fryer after using olive oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After cooking with olive oil, wipe your air fryer basket with warm soapy water or use our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> for thorough maintenance tips."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 150 Grams of Olive Oil?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 150 Grams of Olive Oil?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil",
     "description": "Wondering how many cups 150 grams of olive oil is? Our quick guide shows the exact conversion for UK and US cups, perfect for air fryer recipes and baking.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:02:09.139000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 150 Grams of Olive Oil?",
+            "name": "How Many Cups Is 150 Grams of Olive Oil?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-olive-oil"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

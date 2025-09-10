@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast"
   },
-  "headline": "Quick Guide: Convert 0.25 Cup of Yeast to Ounces Easily",
-  "description": "Learn how to convert 0.25 cup of yeast to ounces for perfect baking every time. Includes UK measurements and air fryer-friendly tips.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.25 Cup of Yeast to Ounces Easily",
+        "description": "Learn how to convert 0.25 cup of yeast to ounces for perfect baking every time. Includes UK measurements and air fryer-friendly tips.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-17T23:33:52.556Z",
-  "dateModified": "2025-08-17T23:33:52.556Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-yeast.webp"
+        "datePublished": "2025-08-17T23:33:52.556Z",
+        "dateModified": "2025-08-17T23:33:52.556Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-yeast.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 0.25 cup of yeast for all air fryer dough recipes?",
+            "@type": "Question",
+            "name": "Can I use 0.25 cup of yeast for all air fryer dough recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While 0.25 cup (1.5 oz) of yeast works for many small-batch air fryer recipes, the exact amount depends on the recipe and desired rise time. Quick-rise doughs may need slightly more, while slower ferments might use less. Always follow trusted recipes, especially when adapting oven recipes for the air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store yeast to keep it fresh for accurate measurements?",
+            "@type": "Question",
+            "name": "How do I store yeast to keep it fresh for accurate measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Store yeast in an airtight container in the fridge or freezer to extend its shelf life. For active dry yeast, ensure the container is moisture-proof. Always let refrigerated yeast come to room temperature before measuring 0.25 cup (1.5 oz) to avoid condensation affecting your measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 0.25 cup of yeast the same in grams?",
+            "@type": "Question",
+            "name": "Is 0.25 cup of yeast the same in grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 0.25 cup of yeast equals 1.5 ounces, which is approximately 42.5 grams. If your recipe uses metric measurements, use a kitchen scale for precision. This is especially helpful for air fryer baking, where small quantity adjustments can make a big difference."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute instant yeast for active dry yeast in a 0.25 cup measurement?",
+            "@type": "Question",
+            "name": "Can I substitute instant yeast for active dry yeast in a 0.25 cup measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute instant yeast for active dry yeast at a 1:1 ratio by weight (1.5 oz or 0.25 cup). However, instant yeast doesn’t require proofing and may rise faster, so adjust your air fryer cooking time accordingly. For best results, check the recipe’s specific instructions."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.25 cup of yeast",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.25 cup of yeast",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast",
     "description": "Learn how to convert 0.25 cup of yeast to ounces for perfect baking every time. Includes UK measurements and air fryer-friendly tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.25 cup of yeast",
+            "name": "How many ounces is 0.25 cup of yeast",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-yeast"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

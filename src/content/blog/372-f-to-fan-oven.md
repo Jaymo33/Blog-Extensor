@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven"
   },
-  "headline": "372 F to Fan Oven Conversion Guide | Air Fryer Tips",
-  "description": "Learn how to convert 372 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and UK conversion tips.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "372 F to Fan Oven Conversion Guide | Air Fryer Tips",
+        "description": "Learn how to convert 372 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and UK conversion tips.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-21T23:29:04.388Z",
-  "dateModified": "2025-07-21T23:29:04.388Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/372-f-to-fan-oven.png"
+        "datePublished": "2025-07-21T23:29:04.388Z",
+        "dateModified": "2025-07-21T23:29:04.388Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/372-f-to-fan-oven.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 372 F to Celsius for a fan oven?",
+            "@type": "Question",
+            "name": "How do I convert 372 F to Celsius for a fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "372 F converts to 190 C in a fan oven. This is the standard conversion used in UK kitchens, accounting for the fan's efficient heat distribution. Always reduce cooking time by about 20% when using fan settings."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same temperature for my air fryer and fan oven?",
+            "@type": "Question",
+            "name": "Can I use the same temperature for my air fryer and fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 372 F (190 C fan) works similarly in both appliances as they use convection cooking. However, air fryers cook faster due to their compact size, so reduce cooking time by about 25% compared to fan oven recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my food cook faster at 372 F in a fan oven?",
+            "@type": "Question",
+            "name": "Why does my food cook faster at 372 F in a fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Fan ovens circulate hot air constantly, cooking food more evenly and quickly than conventional ovens. At 190 C (372 F equivalent), this means about 20% faster cooking times for most recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "What types of food cook best at 372 F in a fan oven?",
+            "@type": "Question",
+            "name": "What types of food cook best at 372 F in a fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "372 F (190 C fan) is ideal for roasting vegetables, baking pastries, and cooking poultry. This temperature provides enough heat for browning while preventing excessive drying - perfect for achieving crispy yet tender results."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "372 F to Fan Oven",
-    "url": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven",
+            "@type": "WebPage",
+            "name": "372 F to Fan Oven",
+            "url": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven",
     "description": "Learn how to convert 372 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and UK conversion tips.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T23:29:04.388000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "372 F to Fan Oven",
+            "name": "372 F to Fan Oven",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/372-f-to-fan-oven"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar"
   },
-  "headline": "Quick Answer: How Many Cups Is 225 Grams of Icing Sugar?",
-  "description": "Discover how to convert 225 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 225 Grams of Icing Sugar?",
+        "description": "Discover how to convert 225 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-26T21:31:12.751Z",
-  "dateModified": "2025-07-26T21:31:12.751Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-icing-sugar.png"
+        "datePublished": "2025-07-26T21:31:12.751Z",
+        "dateModified": "2025-07-26T21:31:12.751Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-icing-sugar.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 225 grams of icing sugar the same in UK and US cups?",
+            "@type": "Question",
+            "name": "Is 225 grams of icing sugar the same in UK and US cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, there’s a slight difference. In the UK, 225 grams equals about 1.8 cups, while in the US, it’s roughly 1.75 cups. This variation is due to differing cup sizes between the two regions. Always check your recipe’s origin for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a regular cup to measure 225 grams of icing sugar?",
+            "@type": "Question",
+            "name": "Can I use a regular cup to measure 225 grams of icing sugar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While possible, it’s not ideal. A kitchen scale gives the most precise measurement. If using a cup, spoon the sugar in lightly and level it off—never pack it down. This prevents over-measuring, which can ruin delicate recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does sifted icing sugar measure differently?",
+            "@type": "Question",
+            "name": "Why does sifted icing sugar measure differently?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Sifted icing sugar is fluffier and takes up more volume, so 225 grams will fill more cups post-sifting. Always sift before measuring if your recipe specifies it. This ensures the right texture for frostings or glazes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 225 grams of icing sugar for larger batches?",
+            "@type": "Question",
+            "name": "How do I convert 225 grams of icing sugar for larger batches?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Simply multiply the cup measurement by your desired batch size. For example, doubling 225 grams (1.75 US cups) would require 3.5 cups. For precise scaling, use a calculator or refer to conversion charts to avoid errors."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 225 Grams of Icing Sugar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 225 Grams of Icing Sugar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar",
     "description": "Discover how to convert 225 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:12.751000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 225 Grams of Icing Sugar?",
+            "name": "How Many Cups Is 225 Grams of Icing Sugar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-icing-sugar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

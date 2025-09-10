@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce"
   },
-  "headline": "Quick Guide: Convert 4 tbsp worcestershire sauce to grams",
-  "description": "Discover how many grams are in 4 tbsp of worcestershire sauce with our easy conversion guide—perfect for air fryer recipes!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 4 tbsp worcestershire sauce to grams",
+        "description": "Discover how many grams are in 4 tbsp of worcestershire sauce with our easy conversion guide—perfect for air fryer recipes!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-05T23:07:32.143Z",
-  "dateModified": "2025-08-05T23:07:32.143Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-worcestershire-sauce.webp"
+        "datePublished": "2025-08-05T23:07:32.143Z",
+        "dateModified": "2025-08-05T23:07:32.143Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-worcestershire-sauce.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use millilitres instead of grams for worcestershire sauce?",
+            "@type": "Question",
+            "name": "Can I use millilitres instead of grams for worcestershire sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, millilitres (ml) can be used for liquids like worcestershire sauce. Since 1 tablespoon is about 15ml, 4 tbsp equals roughly 60ml. However, grams are more precise for recipes requiring exact measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the brand of worcestershire sauce affect the weight?",
+            "@type": "Question",
+            "name": "Does the brand of worcestershire sauce affect the weight?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Different brands may have slight variations in thickness, but the difference in weight per tablespoon is minimal. For most cooking purposes, 15g per tablespoon is a reliable standard."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert grams back to tablespoons if needed?",
+            "@type": "Question",
+            "name": "How do I convert grams back to tablespoons if needed?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert grams to tablespoons, divide the weight by 15 (since 1 tbsp ≈ 15g). For example, 60g of worcestershire sauce equals 4 tablespoons. Always use a scale for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to store worcestershire sauce?",
+            "@type": "Question",
+            "name": "What’s the best way to store worcestershire sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Keep worcestershire sauce in a cool, dark place like a cupboard. Once opened, it lasts about 1-2 years. Refrigeration isn’t necessary but can extend its shelf life slightly."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 4 tbsp of worcestershire sauce",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce",
+            "@type": "WebPage",
+            "name": "How many grams is 4 tbsp of worcestershire sauce",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce",
     "description": "Discover how many grams are in 4 tbsp of worcestershire sauce with our easy conversion guide—perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 4 tbsp of worcestershire sauce",
+            "name": "How many grams is 4 tbsp of worcestershire sauce",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-worcestershire-sauce"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

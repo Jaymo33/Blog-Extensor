@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese"
   },
-  "headline": "How Many Cups Is 175 Grams of Cheddar Cheese? – Quick Conversion Guide | AirFryerRecipe.co.uk",
-  "description": "Find out how many cups 175 grams of cheddar cheese equals for perfect air fryer recipes. Includes UK/US conversions and tips for accurate measuring.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "How Many Cups Is 175 Grams of Cheddar Cheese? – Quick Conversion Guide | AirFryerRecipe.co.uk",
+        "description": "Find out how many cups 175 grams of cheddar cheese equals for perfect air fryer recipes. Includes UK/US conversions and tips for accurate measuring.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T16:57:37.476Z",
-  "dateModified": "2025-07-22T16:57:37.476Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-cheddar-cheese.png"
+        "datePublished": "2025-07-22T16:57:37.476Z",
+        "dateModified": "2025-07-22T16:57:37.476Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-cheddar-cheese.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 175 grams of cheddar cheese equal the same cups when melted?",
+            "@type": "Question",
+            "name": "Does 175 grams of cheddar cheese equal the same cups when melted?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No - 175 grams of melted cheddar cheese reduces to about 1.25 cups due to moisture loss. Always measure cheese by weight for melted air fryer recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use pre-shredded cheese instead of grating 175 grams myself?",
+            "@type": "Question",
+            "name": "Can I use pre-shredded cheese instead of grating 175 grams myself?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but pre-shredded cheese often contains starch, making 175 grams fill slightly more volume (about 1.85 cups). Adjust cooking times as it melts differently in air fryers."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many servings does 175 grams of cheddar cheese provide in air fryer recipes?",
+            "@type": "Question",
+            "name": "How many servings does 175 grams of cheddar cheese provide in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "175 grams (1.75 cups grated) typically serves 2-3 people in main dishes like nachos or 4-6 as a topping. For exact portions, check our recipe guides."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my 175 grams of cheddar cheese measurement look different in various recipes?",
+            "@type": "Question",
+            "name": "Why does my 175 grams of cheddar cheese measurement look different in various recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Cheese density varies by brand, age, and moisture content. For air fryers, we recommend weighing 175 grams for accuracy rather than relying solely on cup measurements."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 175 Grams of Cheddar Cheese?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 175 Grams of Cheddar Cheese?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese",
     "description": "Find out how many cups 175 grams of cheddar cheese equals for perfect air fryer recipes. Includes UK/US conversions and tips for accurate measuring.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 175 Grams of Cheddar Cheese?",
+            "name": "How Many Cups Is 175 Grams of Cheddar Cheese?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

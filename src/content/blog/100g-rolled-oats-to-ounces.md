@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces"
   },
-  "headline": "Quick 100g rolled oats to ounces conversion for UK cooks",
-  "description": "Convert 100g of rolled oats to oz in seconds with our easy guide. Perfect for air fryer recipes and accurate meal prep.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 100g rolled oats to ounces conversion for UK cooks",
+        "description": "Convert 100g of rolled oats to oz in seconds with our easy guide. Perfect for air fryer recipes and accurate meal prep.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-10T23:45:58.474Z",
-  "dateModified": "2025-08-10T23:45:58.474Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/100g-rolled-oats-to-ounces.webp"
+        "datePublished": "2025-08-10T23:45:58.474Z",
+        "dateModified": "2025-08-10T23:45:58.474Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/100g-rolled-oats-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 100g of rolled oats the same as 100g of instant oats?",
+            "@type": "Question",
+            "name": "Is 100g of rolled oats the same as 100g of instant oats?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While both weigh the same (100g equals 3.53 ounces), rolled oats and instant oats have different textures and cooking properties. Rolled oats are thicker and hold their shape better in air fryer recipes, while instant oats are more processed and cook faster. For most air fryer applications, rolled oats work better for coatings and granolas."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for steel-cut oats?",
+            "@type": "Question",
+            "name": "Can I use this conversion for steel-cut oats?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The weight conversion is the same (100g equals 3.53 ounces), but steel-cut oats are denser and absorb liquid differently. They’re not ideal substitutes in most air fryer recipes designed for rolled oats. If substituting, you may need to adjust cooking times and liquid quantities for proper results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many calories are in 100g of rolled oats?",
+            "@type": "Question",
+            "name": "How many calories are in 100g of rolled oats?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "100g of rolled oats (3.53 ounces) contains approximately 389 calories. This measurement is useful for meal prepping or tracking nutritional content in air fryer recipes. Remember that additional ingredients in your recipe will affect the total calorie count of the finished dish."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some recipes use ounces instead of grams?",
+            "@type": "Question",
+            "name": "Why do some recipes use ounces instead of grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Ounces are still commonly used in some older UK recipes and American cookbooks. While grams are more precise, knowing conversions like 100g to 3.53 ounces ensures you can follow any recipe accurately. Modern digital scales often display both units, making it easy to switch between measurement systems for air fryer cooking."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 100g of rolled oats?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 100g of rolled oats?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces",
     "description": "Convert 100g of rolled oats to oz in seconds with our easy guide. Perfect for air fryer recipes and accurate meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 100g of rolled oats?",
+            "name": "How many ounces is 100g of rolled oats?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/100g-rolled-oats-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

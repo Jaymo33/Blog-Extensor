@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit"
   },
-  "headline": "Quick Guide: Convert 180 Fan Oven to Fahrenheit for Perfect Baking",
-  "description": "Learn how to convert 180 fan oven to Fahrenheit for conventional ovens with our easy guide. Get perfect results every time with accurate temperature conversions.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 180 Fan Oven to Fahrenheit for Perfect Baking",
+        "description": "Learn how to convert 180 fan oven to Fahrenheit for conventional ovens with our easy guide. Get perfect results every time with accurate temperature conversions.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-23T21:22:12.681Z",
-  "dateModified": "2025-07-23T21:22:12.681Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/180-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
+        "datePublished": "2025-07-23T21:22:12.681Z",
+        "dateModified": "2025-07-23T21:22:12.681Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/180-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 180 fan oven to Fahrenheit for baking?",
+            "@type": "Question",
+            "name": "How do I convert 180 fan oven to Fahrenheit for baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 180 fan oven to Fahrenheit for baking, add approximately 25-30 degrees, making it about 356°F in a conventional oven. This adjustment accounts for the slower heat transfer in traditional ovens compared to fan-assisted ones."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 180 fan oven the same as 180 in a conventional oven?",
+            "@type": "Question",
+            "name": "Is 180 fan oven the same as 180 in a conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 180 fan oven is not the same as 180 in a conventional oven. Fan ovens cook more efficiently, so you need to increase the temperature by about 25-30 degrees when using a conventional oven to achieve similar results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 180 fan oven compare to air fryer temperature?",
+            "@type": "Question",
+            "name": "How does 180 fan oven compare to air fryer temperature?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "180 fan oven is similar to air fryer temperature as both use circulating hot air. However, because air fryers are more compact, you might need to reduce the temperature slightly (by about 10-15 degrees) or shorten cooking times compared to fan oven instructions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do my baked goods burn when I convert 180 fan to conventional oven?",
+            "@type": "Question",
+            "name": "Why do my baked goods burn when I convert 180 fan to conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If your baked goods are burning, your oven might run hot. Always use an oven thermometer to verify the actual temperature. Also consider reducing the temperature by 10 degrees and checking for doneness a few minutes early, as oven thermostats can vary."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "180 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-    "url": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit",
+            "@type": "WebPage",
+            "name": "180 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+            "url": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit",
     "description": "Learn how to convert 180 fan oven to Fahrenheit for conventional ovens with our easy guide. Get perfect results every time with accurate temperature conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-23T21:22:12.681000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "180 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+            "name": "180 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/180-fan-oven-to-conventional-oven-conversion-fahrenheit"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

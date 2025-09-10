@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven"
   },
-  "headline": "256°F to Fan Oven Conversion Guide | Air Fryer Tips",
-  "description": "Convert 256°F to fan oven settings easily. Learn the exact temperature and how it works for air fryers and electric ovens. Perfect for UK cooking!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "256°F to Fan Oven Conversion Guide | Air Fryer Tips",
+        "description": "Convert 256°F to fan oven settings easily. Learn the exact temperature and how it works for air fryers and electric ovens. Perfect for UK cooking!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-21T18:01:14.562Z",
-  "dateModified": "2025-07-21T18:01:14.562Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/256-f-to-fan-oven.png"
+        "datePublished": "2025-07-21T18:01:14.562Z",
+        "dateModified": "2025-07-21T18:01:14.562Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/256-f-to-fan-oven.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 256°F in my air fryer for dehydrating?",
+            "@type": "Question",
+            "name": "Can I use 256°F in my air fryer for dehydrating?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "<p>Absolutely! 256°F (120°C) is perfect for dehydrating fruits, herbs, or making jerky in an air fryer. Just arrange items in a single layer and check every 15-20 minutes. The circulating air works like a commercial dehydrator at this temperature.</p>"
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 256°F compare to gas mark settings?",
+            "@type": "Question",
+            "name": "How does 256°F compare to gas mark settings?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "<p>Gas marks aren’t precise for low temperatures like 256°F (120°C). This falls between Gas Mark ½ and 1, but fan ovens or air fryers give more consistent results. We recommend using electric appliances for temperatures this low.</p>"
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to cook at 256°F in a fan oven?",
+            "@type": "Question",
+            "name": "Why would I need to cook at 256°F in a fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "<p>256°F (120°C) is ideal for slow cooking, proofing dough, dehydrating, or keeping dishes warm without further cooking. It’s gentler than standard baking temperatures and prevents burning delicate items like herbs or chocolate.</p>"
     }
     },
     {
-    "@type": "Question",
-    "name": "Do all air fryers support 256°F (120°C) settings?",
+            "@type": "Question",
+            "name": "Do all air fryers support 256°F (120°C) settings?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "<p>Most modern air fryers can maintain 120°C, though some budget models may have higher minimum temperatures. Check your manual – if 120°C isn’t available, use the lowest setting and reduce cooking time by 15-20%.</p>"
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "256 F to Fan Oven",
-    "url": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven",
+            "@type": "WebPage",
+            "name": "256 F to Fan Oven",
+            "url": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven",
     "description": "Convert 256°F to fan oven settings easily. Learn the exact temperature and how it works for air fryers and electric ovens. Perfect for UK cooking!",
     "inLanguage": "en",
     "datePublished": "2025-07-21T18:01:14.562000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "256 F to Fan Oven",
+            "name": "256 F to Fan Oven",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/256-f-to-fan-oven"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

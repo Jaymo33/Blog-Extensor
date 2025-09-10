@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey"
   },
-  "headline": "Quick Guide: Convert 450 Grams of Honey to Cups Easily",
-  "description": "Learn how to convert 450 grams of honey to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 450 Grams of Honey to Cups Easily",
+        "description": "Learn how to convert 450 grams of honey to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-26T21:34:06.484Z",
-  "dateModified": "2025-07-26T21:34:06.484Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-honey.webp"
+        "datePublished": "2025-07-26T21:34:06.484Z",
+        "dateModified": "2025-07-26T21:34:06.484Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-honey.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 450 grams of honey the same in the UK and US?",
+            "@type": "Question",
+            "name": "Is 450 grams of honey the same in the UK and US?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 450 grams of honey is the same weight in both the UK and US. However, cup sizes can vary slightly between countries. In the UK, 1 metric cup is 250ml, while in the US, it's 240ml. For 450 grams of honey, this minor difference won't significantly affect most recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a liquid measuring cup for 450 grams of honey?",
+            "@type": "Question",
+            "name": "Can I use a liquid measuring cup for 450 grams of honey?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, a liquid measuring cup works for honey, but it's stickier than water. Lightly grease the cup first to help the honey slide out easily. For the most accurate measurement of 450 grams of honey, a kitchen scale is best, especially for air fryer recipes where precision matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 450 grams of honey without a scale?",
+            "@type": "Question",
+            "name": "How do I measure 450 grams of honey without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Without a scale, use the general conversion that 450 grams of honey equals about 1.33 cups. Pour the honey slowly into a measuring cup, and level it off with a spatula. Remember that honey's thickness can vary, so this method is an approximation."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the type of honey affect the 450g to cups conversion?",
+            "@type": "Question",
+            "name": "Does the type of honey affect the 450g to cups conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, thicker honeys like manuka may yield slightly less than 1.33 cups for 450 grams, while runnier honeys like acacia may give slightly more. For air fryer recipes, small variations usually won't ruin the dish, but for baking, weigh honey for best results."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 450 Grams of Honey?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 450 Grams of Honey?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey",
     "description": "Learn how to convert 450 grams of honey to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 450 Grams of Honey?",
+            "name": "How Many Cups Is 450 Grams of Honey?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-honey"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

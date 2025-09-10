@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar"
   },
-  "headline": "Quick Answer: 0.5 Cups of Icing Sugar in Grams for Perfect Baking",
-  "description": "Convert 0.5 cups of icing sugar to grams effortlessly for precise air fryer baking. Get accurate measurements and perfect results every time!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.5 Cups of Icing Sugar in Grams for Perfect Baking",
+        "description": "Convert 0.5 cups of icing sugar to grams effortlessly for precise air fryer baking. Get accurate measurements and perfect results every time!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:25.859Z",
-  "dateModified": "2025-07-27T16:11:25.859Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-icing-sugar.webp"
+        "datePublished": "2025-07-27T16:11:25.859Z",
+        "dateModified": "2025-07-27T16:11:25.859Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-icing-sugar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 0.5 cups of icing sugar the same in the UK and USA?",
+            "@type": "Question",
+            "name": "Is 0.5 cups of icing sugar the same in the UK and USA?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 0.5 cups of icing sugar is generally the same in both the UK and USA, equating to roughly 60 grams. However, slight variations can occur due to differences in measuring cup standards or sugar density. For absolute precision, always use a kitchen scale."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use granulated sugar instead of icing sugar for 0.5 cups?",
+            "@type": "Question",
+            "name": "Can I use granulated sugar instead of icing sugar for 0.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, granulated sugar won't work as a direct substitute for icing sugar. Icing sugar is finely ground and often contains cornstarch, which affects texture and consistency. If you're in a pinch, you can blend granulated sugar into a powder, but the results may vary."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store leftover icing sugar after measuring 0.5 cups?",
+            "@type": "Question",
+            "name": "How do I store leftover icing sugar after measuring 0.5 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Store leftover icing sugar in an airtight container in a cool, dry place to prevent clumping. If your sugar has hardened, you can sift it before use to restore its fluffy texture. Proper storage ensures it stays fresh for future baking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe call for grams instead of cups?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe call for grams instead of cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Grams provide a more accurate measurement than cups, especially for baking. Air fryers cook quickly, so precise ingredient ratios are crucial for even results. Using a scale eliminates guesswork and ensures your recipes turn out perfectly every time."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 0.5 Cups of Icing Sugar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 0.5 Cups of Icing Sugar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar",
     "description": "Convert 0.5 cups of icing sugar to grams effortlessly for precise air fryer baking. Get accurate measurements and perfect results every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:25.859000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 0.5 Cups of Icing Sugar?",
+            "name": "How Many Grams Is 0.5 Cups of Icing Sugar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-icing-sugar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

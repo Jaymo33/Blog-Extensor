@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar"
   },
-  "headline": "Quick Answer: How Many Cups Is 60 ml of Apple Cider Vinegar?",
-  "description": "Find out exactly how many cups 60 ml of apple cider vinegar equals for perfect cooking and baking every time. Simple conversions made easy!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 60 ml of Apple Cider Vinegar?",
+        "description": "Find out exactly how many cups 60 ml of apple cider vinegar equals for perfect cooking and baking every time. Simple conversions made easy!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:31:14.572Z",
-  "dateModified": "2025-07-30T23:31:14.572Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-apple-cider-vinegar.webp"
+        "datePublished": "2025-07-30T23:31:14.572Z",
+        "dateModified": "2025-07-30T23:31:14.572Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-apple-cider-vinegar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use a regular cup to measure 60 ml of apple cider vinegar?",
+            "@type": "Question",
+            "name": "Can I use a regular cup to measure 60 ml of apple cider vinegar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A standard UK cup measures 240 ml, so 60 ml of apple cider vinegar is a quarter of that. However, for accuracy, it’s best to use a liquid measuring cup or tablespoons (4 tbsp = 60 ml). This ensures your air fryer recipes turn out perfectly every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the type of apple cider vinegar affect the measurement?",
+            "@type": "Question",
+            "name": "Does the type of apple cider vinegar affect the measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, the type of apple cider vinegar (filtered, unfiltered, or organic) doesn’t change the volume. 60 ml of any apple cider vinegar will always equal 0.25 cups. However, flavour intensity may vary, so adjust other seasonings accordingly in your air fryer dishes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 60 ml of apple cider vinegar to other units?",
+            "@type": "Question",
+            "name": "How do I convert 60 ml of apple cider vinegar to other units?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "60 ml of apple cider vinegar equals 4 tablespoons, 12 teaspoons, or 0.25 cups. For fluid ounces, it’s roughly 2 oz. If you need other conversions, our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> has all the details."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute another vinegar for apple cider vinegar in recipes?",
+            "@type": "Question",
+            "name": "Can I substitute another vinegar for apple cider vinegar in recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, white wine or rice vinegar can replace apple cider vinegar in equal amounts (60 ml for 60 ml). However, flavour profiles differ, so adjust seasonings to match. For air fryer recipes, apple cider vinegar’s mild sweetness often works best in glazes and marinades."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 60 ml of Apple Cider Vinegar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 60 ml of Apple Cider Vinegar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar",
     "description": "Find out exactly how many cups 60 ml of apple cider vinegar equals for perfect cooking and baking every time. Simple conversions made easy!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:14.572000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 60 ml of Apple Cider Vinegar?",
+            "name": "How Many Cups Is 60 ml of Apple Cider Vinegar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk"
   },
-  "headline": "Quick Answer: How Many ml Is 2.25 Cups of Almond Milk?",
-  "description": "Discover the exact ml measurement for 2.25 cups of almond milk and simplify your cooking conversions with this easy guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many ml Is 2.25 Cups of Almond Milk?",
+        "description": "Discover the exact ml measurement for 2.25 cups of almond milk and simplify your cooking conversions with this easy guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T08:54:40.462Z",
-  "dateModified": "2025-07-30T08:54:40.462Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-almond-milk.webp"
+        "datePublished": "2025-07-30T08:54:40.462Z",
+        "dateModified": "2025-07-30T08:54:40.462Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-almond-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 2.25 cups of almond milk the same in the UK and USA?",
+            "@type": "Question",
+            "name": "Is 2.25 cups of almond milk the same in the UK and USA?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 2.25 cups of almond milk equals 532 ml in both the UK and USA. The cup measurement is standardized in recipes, though ml is more commonly used in the UK. Always use a liquid measuring jug for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale to measure 2.25 cups of almond milk?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale to measure 2.25 cups of almond milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While a kitchen scale measures weight, almond milk’s density means 532 ml (2.25 cups) weighs roughly 532 grams. For precision, ml measurements are best. Scales are ideal for dry ingredients but less reliable for liquids."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I adjust recipes if I only have a 250 ml measuring cup?",
+            "@type": "Question",
+            "name": "How do I adjust recipes if I only have a 250 ml measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "For 2.25 cups (532 ml) of almond milk, use two full 250 ml cups (500 ml) plus 32 ml (about two tablespoons). A liquid measuring jug with ml markings is more accurate for small adjustments."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does almond milk’s brand affect the 2.25 cups to ml conversion?",
+            "@type": "Question",
+            "name": "Does almond milk’s brand affect the 2.25 cups to ml conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 2.25 cups of almond milk will always be 532 ml regardless of brand. However, thicker or sweetened varieties may pour differently, so measure at eye level for consistency."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 2.25 Cups of Almond Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk",
+            "@type": "WebPage",
+            "name": "How Many ml Is 2.25 Cups of Almond Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk",
     "description": "Discover the exact ml measurement for 2.25 cups of almond milk and simplify your cooking conversions with this easy guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:40.462000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 2.25 Cups of Almond Milk?",
+            "name": "How Many ml Is 2.25 Cups of Almond Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-almond-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

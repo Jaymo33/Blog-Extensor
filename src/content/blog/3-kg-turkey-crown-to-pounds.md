@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds"
   },
-  "headline": "Quick 3 kg Turkey Crown to Pounds Conversion Guide",
-  "description": "Convert 3 kg turkey crown to pounds instantly with our easy guide. Perfect for air fryer cooking times and portion planning for your next roast dinner.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 3 kg Turkey Crown to Pounds Conversion Guide",
+        "description": "Convert 3 kg turkey crown to pounds instantly with our easy guide. Perfect for air fryer cooking times and portion planning for your next roast dinner.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T23:04:43.655Z",
-  "dateModified": "2025-08-22T23:04:43.655Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-turkey-crown-to-pounds.webp"
+        "datePublished": "2025-08-22T23:04:43.655Z",
+        "dateModified": "2025-08-22T23:04:43.655Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-turkey-crown-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 3 kg turkey crown to pounds accurately?",
+            "@type": "Question",
+            "name": "How do I convert 3 kg turkey crown to pounds accurately?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 3 kg turkey crown to pounds accurately, multiply the kilogram value by 2.20462. For a 3 kg turkey crown, this calculation is 3 × 2.20462, which equals approximately 6.61 pounds. This conversion is essential for air fryer cooking, as most recipes and guidelines use pounds to determine cooking times. Always use a reliable converter or perform the math yourself to ensure precision for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is it important to know the pound equivalent of a 3 kg turkey crown for air frying?",
+            "@type": "Question",
+            "name": "Why is it important to know the pound equivalent of a 3 kg turkey crown for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Knowing the pound equivalent of a 3 kg turkey crown (6.61 lbs) is crucial for air frying because cooking times are weight-dependent. Air fryers circulate hot air rapidly, and incorrect timing can lead to undercooked or dry turkey. Most air fryer manuals and recipes provide cooking guidelines per pound, so accurate conversion ensures proper doneness and food safety. It also helps you select the right air fryer size and adjust settings for even cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for a 3 kg turkey crown to US pounds?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for a 3 kg turkey crown to US pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion for a 3 kg turkey crown to US pounds is the same as for imperial pounds, as both systems use identical pound measurements. Therefore, 3 kg equals approximately 6.61 pounds in the US system. This consistency makes it easy to follow American recipes or use US-made air fryers without confusion. Always verify your appliance's capacity and recommended cooking times based on this weight."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long should I cook a 3 kg turkey crown in the air fryer after converting to pounds?",
+            "@type": "Question",
+            "name": "How long should I cook a 3 kg turkey crown in the air fryer after converting to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After converting 3 kg turkey crown to pounds (6.61 lbs), cook it in the air fryer at 180°C for about 15-20 minutes per pound, totaling roughly 100-130 minutes. However, cooking times can vary based on your air fryer model and the crown's shape. Always use a meat thermometer to check that the internal temperature reaches 75°C in the thickest part. Let it rest for 10-15 minutes before carving for juicy results."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "3 kg turkey crown to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds",
+            "@type": "WebPage",
+            "name": "3 kg turkey crown to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds",
     "description": "Convert 3 kg turkey crown to pounds instantly with our easy guide. Perfect for air fryer cooking times and portion planning for your next roast dinner.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "3 kg turkey crown to pounds",
+            "name": "3 kg turkey crown to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-turkey-crown-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

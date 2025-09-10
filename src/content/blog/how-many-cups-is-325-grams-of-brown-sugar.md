@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar"
   },
-  "headline": "Quick Answer: How Many Cups Is 325 Grams of Brown Sugar?",
-  "description": "Convert 325 grams of brown sugar to cups effortlessly for perfect baking results. Get precise measurements and air fryer tips here.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 325 Grams of Brown Sugar?",
+        "description": "Convert 325 grams of brown sugar to cups effortlessly for perfect baking results. Get precise measurements and air fryer tips here.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-26T21:34:06.484Z",
-  "dateModified": "2025-07-26T21:34:06.484Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-brown-sugar.webp"
+        "datePublished": "2025-07-26T21:34:06.484Z",
+        "dateModified": "2025-07-26T21:34:06.484Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-brown-sugar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 325 grams of brown sugar equal the same in cups for all recipes?",
+            "@type": "Question",
+            "name": "Does 325 grams of brown sugar equal the same in cups for all recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, the cup measurement for 325 grams of brown sugar can vary slightly depending on how tightly it’s packed. For baking or air fryer recipes where precision matters, weighing is best. Our conversion guide provides averages for both UK and US cups."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use granulated sugar instead of brown sugar for 325 grams?",
+            "@type": "Question",
+            "name": "Can I use granulated sugar instead of brown sugar for 325 grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can substitute granulated sugar, but the texture and flavour will differ. Brown sugar adds moisture and a caramel note, which is why many air fryer recipes specify it. If swapping, adjust liquids slightly to compensate."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store leftover brown sugar after measuring 325 grams?",
+            "@type": "Question",
+            "name": "How do I store leftover brown sugar after measuring 325 grams?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Keep it in an airtight container with a slice of bread or a terra cotta disc to prevent hardening. If it clumps, revive it by microwaving for 10-second intervals or using the damp paper towel method."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe call for 325 grams of brown sugar instead of cups?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe call for 325 grams of brown sugar instead of cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weight measurements (grams) are more accurate than volume (cups), especially in baking. Air fryers cook quickly, so balanced ingredients ensure even results. Always follow the recipe’s preferred measurement for best outcomes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 325 Grams of Brown Sugar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 325 Grams of Brown Sugar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar",
     "description": "Convert 325 grams of brown sugar to cups effortlessly for perfect baking results. Get precise measurements and air fryer tips here.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 325 Grams of Brown Sugar?",
+            "name": "How Many Cups Is 325 Grams of Brown Sugar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-brown-sugar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

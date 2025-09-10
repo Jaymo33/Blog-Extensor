@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds"
   },
-  "headline": "Quick 36 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 36 kg to pounds instantly for perfect air fryer portions. Get easy kg to lb charts and cooking tips for better results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 36 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 36 kg to pounds instantly for perfect air fryer portions. Get easy kg to lb charts and cooking tips for better results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T22:25:08.238Z",
-  "dateModified": "2025-08-21T22:25:08.238Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/36-kg-to-pounds.webp"
+        "datePublished": "2025-08-21T22:25:08.238Z",
+        "dateModified": "2025-08-21T22:25:08.238Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/36-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 36 kg exactly?",
+            "@type": "Question",
+            "name": "How many pounds is 36 kg exactly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "36 kg is exactly 79.36632 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For most practical purposes in the kitchen, especially with air fryer cooking, this is rounded to 79.37 pounds to simplify measurements and ensure accuracy in recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 36 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why would I need to convert 36 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 36 kg to pounds is useful when dealing with large quantities of ingredients, such as buying meat in bulk or meal prepping for a family. Air fryers often have capacity limits, so knowing the weight in pounds helps you portion food correctly for even cooking and optimal results. This conversion ensures you don't overcrowd the air fryer basket, which is key to achieving crispy, perfectly cooked dishes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is there a difference between US pounds and imperial pounds when converting 36 kg?",
+            "@type": "Question",
+            "name": "Is there a difference between US pounds and imperial pounds when converting 36 kg?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, there is no difference between US pounds and imperial pounds; both are identical units of weight equal to 0.453592 kilograms. So, when you convert 36 kg to US pounds or imperial pounds, the result is the same: approximately 79.37 pounds. This consistency makes it easy to use conversion charts or tools without worrying about regional variations."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I convert 36 kg to stones and pounds for UK measurements?",
+            "@type": "Question",
+            "name": "Can I convert 36 kg to stones and pounds for UK measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 36 kg converts to approximately 5 stone and 9.37 pounds, since one stone equals 14 pounds. This conversion is handy in the UK where stone is commonly used for body weight and sometimes for larger food items. Knowing this can help when following local recipes or discussing portions in familiar terms."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "36 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "36 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds",
     "description": "Convert 36 kg to pounds instantly for perfect air fryer portions. Get easy kg to lb charts and cooking tips for better results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "36 kg to pounds",
+            "name": "36 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

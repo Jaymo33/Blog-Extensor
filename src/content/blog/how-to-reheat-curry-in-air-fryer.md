@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer"
   },
-  "headline": "How to Reheat Curry in Air Fryer – Quick & Crispy Tips",
-  "description": "Learn how to reheat curry in an air fryer perfectly – with ideal temps, timings, and tips to keep it moist. Get crispy results every time!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "How to Reheat Curry in Air Fryer – Quick & Crispy Tips",
+        "description": "Learn how to reheat curry in an air fryer perfectly – with ideal temps, timings, and tips to keep it moist. Get crispy results every time!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T18:06:35.548Z",
-  "dateModified": "2025-07-22T18:06:35.548Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-curry-in-air-fryer.png"
+        "datePublished": "2025-07-22T18:06:35.548Z",
+        "dateModified": "2025-07-22T18:06:35.548Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-curry-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Reheat"
+        "about": {
+            "@type": "Thing",
+            "name": "Reheat"
   },
-  "articleSection": "Reheat",
-  "inLanguage": "en-GB"
+        "articleSection": "Reheat",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can you reheat curry in an air fryer without drying it out?",
+            "@type": "Question",
+            "name": "Can you reheat curry in an air fryer without drying it out?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes! Use 160°C and add a teaspoon of water or broth before reheating. Stir halfway and avoid overcooking – 3-5 minutes is usually enough for moist, evenly heated curry."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best temperature to reheat curry in an air fryer?",
+            "@type": "Question",
+            "name": "What’s the best temperature to reheat curry in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "160°C (320°F) works for most curries. Thicker sauces like korma may need 170°C, while lighter veg curries can use 150°C. Always check internal temps for meat dishes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do you reheat curry and rice together in an air fryer?",
+            "@type": "Question",
+            "name": "How do you reheat curry and rice together in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Layer rice above the curry to absorb excess moisture. Reheat at 160°C for 4 minutes, stirring halfway. Sprinkle water on rice to prevent drying."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat frozen curry directly in the air fryer?",
+            "@type": "Question",
+            "name": "Can I reheat frozen curry directly in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Thaw frozen curry in the fridge first for food safety. If reheating from frozen, extend time to 8-10 minutes at 160°C, stirring every 3 minutes."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How to Reheat Curry in an Air Fryer",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer",
+            "@type": "WebPage",
+            "name": "How to Reheat Curry in an Air Fryer",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer",
     "description": "Learn how to reheat curry in an air fryer perfectly – with ideal temps, timings, and tips to keep it moist. Get crispy results every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:06:35.548000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How to Reheat Curry in an Air Fryer",
+            "name": "How to Reheat Curry in an Air Fryer",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-curry-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

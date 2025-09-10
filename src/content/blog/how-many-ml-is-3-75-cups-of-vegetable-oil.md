@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil"
   },
-  "headline": "Quick Conversion: 3.75 Cups of Vegetable Oil to ml",
-  "description": "Convert 3.75 cups of vegetable oil to ml effortlessly for precise air fryer cooking. Get accurate measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Conversion: 3.75 Cups of Vegetable Oil to ml",
+        "description": "Convert 3.75 cups of vegetable oil to ml effortlessly for precise air fryer cooking. Get accurate measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T08:54:58.618Z",
-  "dateModified": "2025-07-30T08:54:58.618Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-75-cups-of-vegetable-oil.webp"
+        "datePublished": "2025-07-30T08:54:58.618Z",
+        "dateModified": "2025-07-30T08:54:58.618Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-75-cups-of-vegetable-oil.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 3.75 cups of vegetable oil the same in UK and US measurements?",
+            "@type": "Question",
+            "name": "Is 3.75 cups of vegetable oil the same in UK and US measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 3.75 cups of vegetable oil equals the same volume in both UK and US measurements. The conversion to millilitres (887.21 ml) remains consistent. However, always double-check your measuring tools, as some cups may vary slightly in design."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale instead of measuring cups for vegetable oil?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale instead of measuring cups for vegetable oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but you'll need to know the oil's density. Vegetable oil weighs approximately 0.92 grams per ml, so 887.21 ml would be about 816 grams. A kitchen scale can work, but liquid measuring cups are more straightforward for oils."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does 3.75 cups of vegetable oil last in air fryer cooking?",
+            "@type": "Question",
+            "name": "How long does 3.75 cups of vegetable oil last in air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It depends on the recipe. For frying, 3.75 cups (887 ml) can cook multiple batches, while baking may use less. Store unused oil properly to extend its shelf life. Avoid reusing oil too many times to maintain food quality."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to clean my air fryer after using vegetable oil?",
+            "@type": "Question",
+            "name": "What’s the best way to clean my air fryer after using vegetable oil?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After cooking with oil, let the air fryer cool, then wipe it with a damp cloth. For stubborn residue, use warm soapy water or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning methods</a>. Regular maintenance prevents oil buildup and ensures optimal performance."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 3.75 Cups of Vegetable Oil?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil",
+            "@type": "WebPage",
+            "name": "How Many ml Is 3.75 Cups of Vegetable Oil?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil",
     "description": "Convert 3.75 cups of vegetable oil to ml effortlessly for precise air fryer cooking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 3.75 Cups of Vegetable Oil?",
+            "name": "How Many ml Is 3.75 Cups of Vegetable Oil?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

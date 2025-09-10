@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds"
   },
-  "headline": "Easy 5.5 kg Lamb Leg to Pounds Conversion for Air Fryer",
-  "description": "Convert 5.5 kg lamb leg to pounds quickly for perfect air fryer cooking. Get accurate weights, cooking times, and tips for juicy results.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 5.5 kg Lamb Leg to Pounds Conversion for Air Fryer",
+        "description": "Convert 5.5 kg lamb leg to pounds quickly for perfect air fryer cooking. Get accurate weights, cooking times, and tips for juicy results.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T23:04:43.655Z",
-  "dateModified": "2025-08-22T23:04:43.655Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-lamb-leg-to-pounds.webp"
+        "datePublished": "2025-08-22T23:04:43.655Z",
+        "dateModified": "2025-08-22T23:04:43.655Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-lamb-leg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 5.5 kg lamb leg to pounds without a calculator?",
+            "@type": "Question",
+            "name": "How do I convert 5.5 kg lamb leg to pounds without a calculator?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can easily convert 5.5 kg lamb leg to pounds using a simple rule of thumb: multiply the kilograms by 2.2 for a close estimate. For 5.5 kg, that's 5.5 x 2.2 = 12.1 pounds, which is very close to the precise 12.125 pounds. This method is handy when you're at the butcher or market and need a quick conversion. For perfect air fryer results, though, using the exact figure is best for timing accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is a 5.5 kg lamb leg too big for my air fryer?",
+            "@type": "Question",
+            "name": "Is a 5.5 kg lamb leg too big for my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It depends on your air fryer's capacity. A 5.5 kg lamb leg (about 12.125 pounds) is quite large, so measure your air fryer basket first. Most family-sized air fryers can handle up to 5 kg, but for 5.5 kg, you may need a larger model or consider butterflying the leg to reduce its thickness. Always ensure there's space around the meat for air circulation to cook evenly."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does it take to cook a 5.5 kg lamb leg in the air fryer?",
+            "@type": "Question",
+            "name": "How long does it take to cook a 5.5 kg lamb leg in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "For a 5.5 kg lamb leg (approximately 12.125 pounds), plan for about 20-25 minutes per pound in a preheated air fryer at 180°C. That totals roughly 4 to 5 hours, but always use a meat thermometer to check for doneness. For medium-rare, aim for an internal temperature of 60°C; for well-done, 70°C. Rest the meat for 20-30 minutes after cooking for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a frozen 5.5 kg lamb leg in the air fryer?",
+            "@type": "Question",
+            "name": "Can I cook a frozen 5.5 kg lamb leg in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It's not recommended to cook a frozen 5.5 kg lamb leg directly in the air fryer, as the outside may overcook before the inside thaws. Thaw the lamb completely in the refrigerator first, which can take up to 24-36 hours for a cut this size. Once fully thawed, pat it dry and proceed with your recipe. This ensures even cooking and food safety."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "5.5 kg lamb leg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds",
+            "@type": "WebPage",
+            "name": "5.5 kg lamb leg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds",
     "description": "Convert 5.5 kg lamb leg to pounds quickly for perfect air fryer cooking. Get accurate weights, cooking times, and tips for juicy results.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "5.5 kg lamb leg to pounds",
+            "name": "5.5 kg lamb leg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-lamb-leg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

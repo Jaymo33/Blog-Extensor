@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef"
   },
-  "headline": "Quick Answer: How Many Grams in 0.5 Cups of Minced Beef?",
-  "description": "Find out exactly how many grams are in 0.5 cups of minced beef for perfect air fryer recipes every time. No more guesswork!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Grams in 0.5 Cups of Minced Beef?",
+        "description": "Find out exactly how many grams are in 0.5 cups of minced beef for perfect air fryer recipes every time. No more guesswork!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:25.525Z",
-  "dateModified": "2025-07-27T16:11:25.525Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-minced-beef.webp"
+        "datePublished": "2025-07-27T16:11:25.525Z",
+        "dateModified": "2025-07-27T16:11:25.525Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-minced-beef.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 0.5 cups of minced beef the same in the UK and USA?",
+            "@type": "Question",
+            "name": "Is 0.5 cups of minced beef the same in the UK and USA?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 0.5 cups of minced beef is roughly 113 grams in both the UK and USA. While cup sizes can vary slightly by country, the difference in minced beef weight is negligible. For absolute precision, always use a kitchen scale."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for frozen minced beef?",
+            "@type": "Question",
+            "name": "Can I use this conversion for frozen minced beef?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but thaw the minced beef first for accurate measuring. Frozen mince can clump, leading to uneven cup measurements. Once thawed, 0.5 cups will still be around 113 grams. For frozen-ready recipes, visit our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a>."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many servings does 0.5 cups of minced beef make?",
+            "@type": "Question",
+            "name": "How many servings does 0.5 cups of minced beef make?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It depends on the recipe. For dishes like burgers or meatballs, 0.5 cups (113g) typically makes one generous serving. For sauces or mixed dishes, it can stretch to two lighter portions. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe hub</a> for serving-size ideas."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does minced beef weight vary by packing method?",
+            "@type": "Question",
+            "name": "Why does minced beef weight vary by packing method?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Packing compresses the meat, increasing its density and weight per cup. Lightly spooned mince is less dense, so 0.5 cups weighs closer to 113 grams. For consistency, we recommend weighing rather than relying on cup measurements alone."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 0.5 Cups of Minced Beef?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 0.5 Cups of Minced Beef?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef",
     "description": "Find out exactly how many grams are in 0.5 cups of minced beef for perfect air fryer recipes every time. No more guesswork!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:25.525000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 0.5 Cups of Minced Beef?",
+            "name": "How Many Grams Is 0.5 Cups of Minced Beef?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-minced-beef"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

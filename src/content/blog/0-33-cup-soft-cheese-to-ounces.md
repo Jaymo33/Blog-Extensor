@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces"
   },
-  "headline": "Quick Answer: 0.33 Cup Soft Cheese to Ounces UK",
-  "description": "Convert 0.33 cup of soft cheese to ounces for perfect air fryer recipes. Get accurate UK measurements and avoid cooking mishaps.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.33 Cup Soft Cheese to Ounces UK",
+        "description": "Convert 0.33 cup of soft cheese to ounces for perfect air fryer recipes. Get accurate UK measurements and avoid cooking mishaps.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-20T00:27:11.141Z",
-  "dateModified": "2025-08-20T00:27:11.141Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-soft-cheese-to-ounces.webp"
+        "datePublished": "2025-08-20T00:27:11.141Z",
+        "dateModified": "2025-08-20T00:27:11.141Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-soft-cheese-to-ounces.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why is it important to convert 0.33 cup of soft cheese to ounces for air frying?",
+            "@type": "Question",
+            "name": "Why is it important to convert 0.33 cup of soft cheese to ounces for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 0.33 cup of soft cheese to ounces is crucial for air frying because precision affects cooking time and texture. Air fryers rely on hot air circulation, and inaccurate measurements can lead to undercooked or overcooked dishes. Using the correct weight ensures your recipes turn out perfectly every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a measuring cup instead of a scale for soft cheese?",
+            "@type": "Question",
+            "name": "Can I use a measuring cup instead of a scale for soft cheese?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can use a measuring cup, but a kitchen scale is more accurate for soft cheese. Cups can vary based on how the cheese is packed, while scales give you an exact weight in ounces. For best results in air fryer recipes, weighing is recommended to avoid any mishaps."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the type of soft cheese affect the conversion from cups to ounces?",
+            "@type": "Question",
+            "name": "Does the type of soft cheese affect the conversion from cups to ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, different types of soft cheese can have slightly different densities. Cream cheese, ricotta, and mascarpone may vary in weight per cup. However, for most common soft cheeses, the conversion of 0.33 cup to approximately 2.64 ounces is a reliable guideline for air fryer cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find more air fryer recipes that use soft cheese?",
+            "@type": "Question",
+            "name": "Where can I find more air fryer recipes that use soft cheese?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can find a variety of air fryer recipes using soft cheese on airfryerrecipe.co.uk. Our recipe section includes everything from savoury stuffed dishes to desserts. Each recipe provides clear measurements to help you achieve great results with your air fryer."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.33 cup of soft cheese?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.33 cup of soft cheese?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces",
     "description": "Convert 0.33 cup of soft cheese to ounces for perfect air fryer recipes. Get accurate UK measurements and avoid cooking mishaps.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.33 cup of soft cheese?",
+            "name": "How many ounces is 0.33 cup of soft cheese?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-soft-cheese-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

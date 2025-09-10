@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit"
   },
-  "headline": "Quick & Easy 280 Fan Oven to Fahrenheit Conversion Guide",
-  "description": "Learn how to convert 280 fan oven to Fahrenheit for conventional ovens with our simple guide. Perfect for air fryer and oven cooking!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick & Easy 280 Fan Oven to Fahrenheit Conversion Guide",
+        "description": "Learn how to convert 280 fan oven to Fahrenheit for conventional ovens with our simple guide. Perfect for air fryer and oven cooking!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-25T17:54:47.447Z",
-  "dateModified": "2025-07-25T17:54:47.447Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/280-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
+        "datePublished": "2025-07-25T17:54:47.447Z",
+        "dateModified": "2025-07-25T17:54:47.447Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/280-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 280 fan oven temperature directly in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use 280 fan oven temperature directly in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, air fryers work similarly to fan ovens, so 280°C fan can often be used directly. However, cooking times may be shorter, so check your food regularly. For precise adjustments, refer to air fryer-specific recipes on airfryerrecipe.co.uk."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does 280 fan oven convert to 356°F in a conventional oven?",
+            "@type": "Question",
+            "name": "Why does 280 fan oven convert to 356°F in a conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Fan ovens circulate hot air, cooking food faster and more evenly than conventional ovens. The conversion accounts for this difference, ensuring your dish cooks properly. Without adjusting, food might burn or remain undercooked."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I adjust cooking time when converting 280 fan oven to conventional oven?",
+            "@type": "Question",
+            "name": "How do I adjust cooking time when converting 280 fan oven to conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Reduce cooking time by 10-20% when using a conventional oven compared to a fan oven. Since fan ovens cook faster, this adjustment prevents overcooking. Always check your dish a few minutes early to be safe."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 280 fan oven the same as 280°F in a standard oven?",
+            "@type": "Question",
+            "name": "Is 280 fan oven the same as 280°F in a standard oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 280°C in a fan oven equals 356°F in a conventional oven. Using 280°F would result in severely undercooked food. Always convert temperatures properly for best results, especially when baking or roasting."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "280 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-    "url": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit",
+            "@type": "WebPage",
+            "name": "280 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+            "url": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit",
     "description": "Learn how to convert 280 fan oven to Fahrenheit for conventional ovens with our simple guide. Perfect for air fryer and oven cooking!",
     "inLanguage": "en",
     "datePublished": "2025-07-25T17:54:47.447000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "280 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+            "name": "280 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/280-fan-oven-to-conventional-oven-conversion-fahrenheit"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

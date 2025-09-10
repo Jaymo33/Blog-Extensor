@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven"
   },
-  "headline": "205 C to Fan Oven Conversion Guide | Air Fryer Tips",
-  "description": "Learn how to convert 205 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "205 C to Fan Oven Conversion Guide | Air Fryer Tips",
+        "description": "Learn how to convert 205 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-21T17:06:33.012Z",
-  "dateModified": "2025-07-21T17:06:33.012Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/205-c-to-fan-oven.png"
+        "datePublished": "2025-07-21T17:06:33.012Z",
+        "dateModified": "2025-07-21T17:06:33.012Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/205-c-to-fan-oven.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use the same cooking time when converting 205 C to fan oven?",
+            "@type": "Question",
+            "name": "Can I use the same cooking time when converting 205 C to fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cooking times are typically 10-15% shorter when using the fan oven equivalent of 205 C (180 C). The circulating hot air cooks food more efficiently, so always check for doneness a few minutes earlier than the recipe suggests."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do fan ovens need lower temperatures than conventional ovens?",
+            "@type": "Question",
+            "name": "Why do fan ovens need lower temperatures than conventional ovens?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Fan ovens circulate hot air continuously, creating more even heat distribution. This means food cooks faster and more uniformly at lower temperatures. The 205 C to 180 C conversion accounts for this increased efficiency while preventing over-browning."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does the 205 C fan oven conversion work for air fryers?",
+            "@type": "Question",
+            "name": "How does the 205 C fan oven conversion work for air fryers?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers operate similarly to fan ovens, so the same 205 C to 180 C conversion applies. The main difference is that air fryers cook even faster due to their compact size, so you may need to reduce cooking times by an additional 5-10%."
     }
     },
     {
-    "@type": "Question",
-    "name": "What happens if I don't convert 205 C to fan oven temperature?",
+            "@type": "Question",
+            "name": "What happens if I don't convert 205 C to fan oven temperature?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Using 205 C in a fan oven without conversion may cause over-browning or drying out. The intense air circulation at higher temperatures can make baked goods tough or roast meats dry. Always use the 180 C equivalent for best results."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "205 C to Fan Oven",
-    "url": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven",
+            "@type": "WebPage",
+            "name": "205 C to Fan Oven",
+            "url": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven",
     "description": "Learn how to convert 205 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T17:06:33.012000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "205 C to Fan Oven",
+            "name": "205 C to Fan Oven",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/205-c-to-fan-oven"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar"
   },
-  "headline": "Quick Answer: 0.75 tbsp apple cider vinegar to grams",
-  "description": "Discover how many grams are in 0.75 tbsp of apple cider vinegar for precise air fryer recipes. Convert measurements effortlessly!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: 0.75 tbsp apple cider vinegar to grams",
+        "description": "Discover how many grams are in 0.75 tbsp of apple cider vinegar for precise air fryer recipes. Convert measurements effortlessly!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-05T23:07:32.143Z",
-  "dateModified": "2025-08-05T23:07:32.143Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-apple-cider-vinegar.webp"
+        "datePublished": "2025-08-05T23:07:32.143Z",
+        "dateModified": "2025-08-05T23:07:32.143Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-apple-cider-vinegar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use white vinegar instead of apple cider vinegar in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use white vinegar instead of apple cider vinegar in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute white vinegar, but it has a sharper taste. Use the same gram measurement (11.25g for 0.75 tbsp), but expect a slightly different flavour profile. Apple cider vinegar adds a fruity note, while white vinegar is more neutral."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is weighing ingredients better than measuring by volume for air fryer cooking?",
+            "@type": "Question",
+            "name": "Why is weighing ingredients better than measuring by volume for air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weighing ingredients like 0.75 tbsp of apple cider vinegar (11.25g) ensures consistency, especially in small quantities. Volume measurements can vary due to settling or pouring techniques, but grams provide exact amounts for reliable results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I store apple cider vinegar for air fryer recipes?",
+            "@type": "Question",
+            "name": "How do I store apple cider vinegar for air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Keep apple cider vinegar in a cool, dark place like a pantry. It doesn’t require refrigeration and lasts indefinitely, though its flavour may mellow over time. Always check for freshness if it’s been stored for years."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use apple cider vinegar to clean my air fryer?",
+            "@type": "Question",
+            "name": "Can I use apple cider vinegar to clean my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! A solution of apple cider vinegar and water works well for degreasing. Use 2-3 tbsp (30-45g) mixed with warm water, then wipe down the basket and interior. Avoid abrasive scrubbers to prevent damage."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 0.75 tbsp of apple cider vinegar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar",
+            "@type": "WebPage",
+            "name": "How many grams is 0.75 tbsp of apple cider vinegar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar",
     "description": "Discover how many grams are in 0.75 tbsp of apple cider vinegar for precise air fryer recipes. Convert measurements effortlessly!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 0.75 tbsp of apple cider vinegar?",
+            "name": "How many grams is 0.75 tbsp of apple cider vinegar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-apple-cider-vinegar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

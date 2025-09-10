@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion"
   },
-  "headline": "Quick Guide: Convert 84 Fan Oven to Conventional Oven Easily",
-  "description": "Learn how to convert 84 fan oven to conventional oven temperatures for perfect baking results every time with our simple guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 84 Fan Oven to Conventional Oven Easily",
+        "description": "Learn how to convert 84 fan oven to conventional oven temperatures for perfect baking results every time with our simple guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-23T17:04:24.107Z",
-  "dateModified": "2025-07-23T17:04:24.107Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/84-fan-oven-to-conventional-oven-conversion.png"
+        "datePublished": "2025-07-23T17:04:24.107Z",
+        "dateModified": "2025-07-23T17:04:24.107Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/84-fan-oven-to-conventional-oven-conversion.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 84 fan oven to Celsius for baking?",
+            "@type": "Question",
+            "name": "How do I convert 84 fan oven to Celsius for baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 84 fan oven to Celsius for baking, simply reduce the temperature by 20°C. This means 84 fan oven equals approximately 160°C in a conventional oven. This conversion works for most baking recipes, though cooking times may need slight adjustment."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 84 fan oven the same as 84 conventional oven?",
+            "@type": "Question",
+            "name": "Is 84 fan oven the same as 84 conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 84 fan oven is not the same as 84 conventional oven. Fan ovens cook more efficiently due to air circulation, so you need to reduce the temperature by about 20°C when converting to conventional oven settings. 84 fan oven equals roughly 160°C in a conventional oven."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 84 fan oven conversion work for air fryers?",
+            "@type": "Question",
+            "name": "How does 84 fan oven conversion work for air fryers?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers function similarly to fan ovens, so you might use similar temperatures. However, because air fryers are more compact and efficient, you may need to reduce cooking times rather than temperatures when converting 84 fan oven settings for air fryer use."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do I need to convert fan oven to conventional oven temperatures?",
+            "@type": "Question",
+            "name": "Why do I need to convert fan oven to conventional oven temperatures?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Conversion is necessary because fan ovens circulate hot air, cooking food faster and more evenly than conventional ovens. Without conversion, you risk overcooking or undercooking your food. The general rule is to reduce fan oven temperatures by 20°C for conventional ovens."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "84 Fan Oven to Conventional Oven Conversion",
-    "url": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion",
+            "@type": "WebPage",
+            "name": "84 Fan Oven to Conventional Oven Conversion",
+            "url": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion",
     "description": "Learn how to convert 84 fan oven to conventional oven temperatures for perfect baking results every time with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-23T17:04:24.107000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "84 Fan Oven to Conventional Oven Conversion",
+            "name": "84 Fan Oven to Conventional Oven Conversion",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/84-fan-oven-to-conventional-oven-conversion"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

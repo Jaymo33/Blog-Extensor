@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk"
   },
-  "headline": "Quick Guide: Convert 2.0 Cups of Milk to Grams Easily",
-  "description": "Learn how to convert 2.0 cups of milk to grams for perfect baking and cooking every time. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 2.0 Cups of Milk to Grams Easily",
+        "description": "Learn how to convert 2.0 cups of milk to grams for perfect baking and cooking every time. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T23:31:15.247Z",
-  "dateModified": "2025-07-27T23:31:15.247Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-cups-of-milk.webp"
+        "datePublished": "2025-07-27T23:31:15.247Z",
+        "dateModified": "2025-07-27T23:31:15.247Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-cups-of-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of milk affect the gram measurement for 2.0 cups?",
+            "@type": "Question",
+            "name": "Does the type of milk affect the gram measurement for 2.0 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but only slightly. Whole milk is denser than skimmed milk, so 2.0 cups of whole milk might weigh around 490 grams, while skimmed milk could be closer to 470 grams. Plant-based milks like almond or oat milk may vary more, so check the packaging for precise measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use milliliters instead of grams for measuring 2.0 cups of milk?",
+            "@type": "Question",
+            "name": "Can I use milliliters instead of grams for measuring 2.0 cups of milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! 2.0 cups of milk equal 480 ml in the US or 500 ml in the UK. Since milk's density is close to water, milliliters and grams are nearly interchangeable for practical cooking purposes. This makes conversions easier when using metric recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 2.0 cups of milk without a measuring cup?",
+            "@type": "Question",
+            "name": "How do I measure 2.0 cups of milk without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don't have a measuring cup, you can use a standard mug or glass, but be aware that sizes vary. A typical UK mug holds about 250 ml, so two mugs would give you roughly 2.0 cups (500 ml). For accuracy, though, investing in a proper measuring cup is best."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do air fryer recipes sometimes use grams instead of cups for milk?",
+            "@type": "Question",
+            "name": "Why do air fryer recipes sometimes use grams instead of cups for milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Grams provide more precision, which is crucial for air fryer cooking where even heating is key. Cups can vary based on how you fill them, but grams are consistent. This is especially important for batters and coatings, where texture affects cooking results. Check <a href=https://www.airfryerrecipe.co.uk>our site</a> for gram-based recipes tailored to air fryers."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 2.0 Cups of Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 2.0 Cups of Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk",
     "description": "Learn how to convert 2.0 cups of milk to grams for perfect baking and cooking every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:31:15.247000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 2.0 Cups of Milk?",
+            "name": "How Many Grams Is 2.0 Cups of Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

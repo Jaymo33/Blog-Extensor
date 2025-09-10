@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta"
   },
-  "headline": "Quick Guide: Convert 500 Grams of Pasta to Cups Easily",
-  "description": "Learn how to convert 500 grams of pasta to cups for perfect portions every time. Ideal for air fryer recipes and meal prep!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 500 Grams of Pasta to Cups Easily",
+        "description": "Learn how to convert 500 grams of pasta to cups for perfect portions every time. Ideal for air fryer recipes and meal prep!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T08:17:58.388Z",
-  "dateModified": "2025-07-27T08:17:58.388Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-pasta.webp"
+        "datePublished": "2025-07-27T08:17:58.388Z",
+        "dateModified": "2025-07-27T08:17:58.388Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-pasta.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of pasta affect how many cups 500 grams equals?",
+            "@type": "Question",
+            "name": "Does the type of pasta affect how many cups 500 grams equals?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, pasta shape significantly impacts cup measurements. Long, thin pasta like spaghetti takes up less space per gram compared to short, dense shapes like penne. For example, 500 grams of spaghetti fills about 4.5 cups, while penne may need 5.5 cups. Always check packaging or use a scale for precision."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for cooked pasta?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for cooked pasta?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cooked pasta expands and absorbs water, so 500 grams of uncooked pasta yields roughly 1kg cooked. For cooked pasta, 500 grams would fill about 10 cups. If your air fryer recipe calls for cooked pasta, adjust measurements accordingly to avoid overcrowding."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 500 grams of pasta without a scale?",
+            "@type": "Question",
+            "name": "How do I measure 500 grams of pasta without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Use a dry measuring cup and fill it loosely without packing the pasta down. For long noodles, a spaghetti measurer or even a coin-sized portion helps. Remember, 100 grams ≈ 1 cup, so 500 grams is roughly 5 cups. Marking a container after weighing once can simplify future prep."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer pasta bake turn out soggy?",
+            "@type": "Question",
+            "name": "Why does my air fryer pasta bake turn out soggy?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Overcrowding or under-measuring pasta can trap steam, leading to sogginess. Stick to the 500-gram-to-5-cups ratio and spread pasta evenly in the basket. Preheating the air fryer and tossing pasta halfway through also ensures crispiness. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe hub</a> for foolproof techniques."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 500 Grams of Pasta?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 500 Grams of Pasta?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta",
     "description": "Learn how to convert 500 grams of pasta to cups for perfect portions every time. Ideal for air fryer recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:58.388000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 500 Grams of Pasta?",
+            "name": "How Many Cups Is 500 Grams of Pasta?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-pasta"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

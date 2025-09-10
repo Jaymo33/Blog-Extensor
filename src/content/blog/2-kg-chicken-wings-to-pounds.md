@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds"
   },
-  "headline": "Quick 2 kg Chicken Wings to Pounds Conversion Guide",
-  "description": "Convert 2 kg chicken wings to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 2 kg Chicken Wings to Pounds Conversion Guide",
+        "description": "Convert 2 kg chicken wings to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T20:06:59.565Z",
-  "dateModified": "2025-08-22T20:06:59.565Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-chicken-wings-to-pounds.webp"
+        "datePublished": "2025-08-22T20:06:59.565Z",
+        "dateModified": "2025-08-22T20:06:59.565Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-chicken-wings-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is exactly 2 kg of chicken wings?",
+            "@type": "Question",
+            "name": "How many pounds is exactly 2 kg of chicken wings?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "2 kilograms of chicken wings converts to approximately 4.40924 pounds. For practical cooking purposes, most people round this to 4.41 pounds or simply 4.4 pounds. This conversion uses the standard formula where 1 kilogram equals 2.20462 pounds. When working with air fryer recipes, this level of precision ensures your portions and cooking times remain accurate."
     }
     },
     {
-    "@type": "Question",
-    "name": "Should I adjust cooking time when converting 2 kg chicken wings to pounds for my air fryer?",
+            "@type": "Question",
+            "name": "Should I adjust cooking time when converting 2 kg chicken wings to pounds for my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The cooking time adjustment for 2 kg chicken wings (approximately 4.41 pounds) versus exactly 4 pounds is minimal in an air fryer. The small weight difference of 0.41 pounds won't significantly impact cooking time, but you should always check for doneness rather than relying solely on the timer. Use a meat thermometer to ensure the internal temperature reaches 74°C for food safety. The more important factor is ensuring you don't overcrowd the air fryer basket, which affects air circulation more than weight alone."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does the 2 kg to pounds conversion affect seasoning measurements for chicken wings?",
+            "@type": "Question",
+            "name": "How does the 2 kg to pounds conversion affect seasoning measurements for chicken wings?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "When converting 2 kg chicken wings to pounds (approximately 4.41 pounds), you may need slightly more seasoning compared to recipes designed for exactly 4 pounds. The difference is relatively small - about a 10% increase in weight - so you might add an extra pinch of spices or tablespoon of sauce. Most seasoning measurements in recipes are somewhat flexible and can be adjusted to taste. The key is ensuring even coating rather than precise measurement for the small weight difference."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can most air fryers handle cooking 2 kg of chicken wings at once?",
+            "@type": "Question",
+            "name": "Can most air fryers handle cooking 2 kg of chicken wings at once?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most standard home air fryers can comfortably handle 2 kg of chicken wings (approximately 4.41 pounds) if they have a larger capacity basket. However, smaller or compact models might require cooking in batches to avoid overcrowding. Always check your specific air fryer's maximum capacity recommendation in the manual. Overcrowding prevents proper air circulation, resulting in uneven cooking where some wings remain undercooked while others become too crispy. For best results, leave space between wings for air to circulate freely."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "2 kg chicken wings to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds",
+            "@type": "WebPage",
+            "name": "2 kg chicken wings to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds",
     "description": "Convert 2 kg chicken wings to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "2 kg chicken wings to pounds",
+            "name": "2 kg chicken wings to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-wings-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

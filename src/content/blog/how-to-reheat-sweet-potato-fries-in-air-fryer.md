@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer"
   },
-  "headline": "Reheat Sweet Potato Fries in Air Fryer – Crispy Results",
-  "description": "Learn how to reheat sweet potato fries in an air fryer for crispy perfection. Quick guide with ideal temps, times, and pro tips for best results.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Reheat Sweet Potato Fries in Air Fryer – Crispy Results",
+        "description": "Learn how to reheat sweet potato fries in an air fryer for crispy perfection. Quick guide with ideal temps, times, and pro tips for best results.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T19:59:55.735Z",
-  "dateModified": "2025-07-22T19:59:55.735Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-sweet-potato-fries-in-air-fryer.png"
+        "datePublished": "2025-07-22T19:59:55.735Z",
+        "dateModified": "2025-07-22T19:59:55.735Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-sweet-potato-fries-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Reheat"
+        "about": {
+            "@type": "Thing",
+            "name": "Reheat"
   },
-  "articleSection": "Reheat",
-  "inLanguage": "en-GB"
+        "articleSection": "Reheat",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can you reheat sweet potato fries in an air fryer from frozen?",
+            "@type": "Question",
+            "name": "Can you reheat sweet potato fries in an air fryer from frozen?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Frozen sweet potato fries reheat beautifully in an air fryer at 180°C for 5-7 minutes. No need to thaw – the hot air circulation crisps them perfectly. Just shake the basket halfway through for even results."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best temperature to reheat sweet potato fries without drying them out?",
+            "@type": "Question",
+            "name": "What’s the best temperature to reheat sweet potato fries without drying them out?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "180°C (350°F) is ideal for reheating sweet potato fries in an air fryer. This temperature crisps the exterior while gently warming the interior. For very thin fries, reduce to 170°C to prevent over-drying."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I keep reheated sweet potato fries from getting soggy?",
+            "@type": "Question",
+            "name": "How do I keep reheated sweet potato fries from getting soggy?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Ensure your air fryer is properly preheated and don’t overcrowd the basket. A light spritz of oil helps recreate the original crisp texture. Using parchment paper with holes improves airflow around each fry."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat sweet potato fries that were refrigerated overnight?",
+            "@type": "Question",
+            "name": "Can I reheat sweet potato fries that were refrigerated overnight?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, fridge-cold sweet potato fries reheat well in an air fryer. They may need an extra minute compared to freshly cooked fries. Store them properly in an airtight container to maintain quality before reheating."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How to Reheat Sweet Potato Fries in an Air Fryer",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer",
+            "@type": "WebPage",
+            "name": "How to Reheat Sweet Potato Fries in an Air Fryer",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer",
     "description": "Learn how to reheat sweet potato fries in an air fryer for crispy perfection. Quick guide with ideal temps, times, and pro tips for best results.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How to Reheat Sweet Potato Fries in an Air Fryer",
+            "name": "How to Reheat Sweet Potato Fries in an Air Fryer",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-sweet-potato-fries-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

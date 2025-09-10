@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven"
   },
-  "headline": "476 F to Fan Oven Conversion Guide | Air Fryer Tips",
-  "description": "Learn how to convert 476 F to a fan oven for perfect air frying. Includes temperature charts, cooking tips, and UK-specific advice.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "476 F to Fan Oven Conversion Guide | Air Fryer Tips",
+        "description": "Learn how to convert 476 F to a fan oven for perfect air frying. Includes temperature charts, cooking tips, and UK-specific advice.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-23T16:34:53.565Z",
-  "dateModified": "2025-07-23T16:34:53.565Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/476-f-to-fan-oven.png"
+        "datePublished": "2025-07-23T16:34:53.565Z",
+        "dateModified": "2025-07-23T16:34:53.565Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/476-f-to-fan-oven.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 476 F to Celsius for a fan oven?",
+            "@type": "Question",
+            "name": "How do I convert 476 F to Celsius for a fan oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Convert 476 F to Celsius first (247 C), then reduce by 20°C for fan ovens, giving 227 C. This accounts for the efficient heat circulation in fan-assisted cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 476 F directly in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use 476 F directly in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most air fryers max out around 200-220 C. For 476 F (247 C), use the highest setting and extend cooking time slightly, monitoring food closely to prevent burning."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do fan ovens need lower temperatures than regular ovens?",
+            "@type": "Question",
+            "name": "Why do fan ovens need lower temperatures than regular ovens?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Fan ovens circulate hot air continuously, transferring heat more efficiently to food. The 20°C reduction prevents overcooking while maintaining the same results faster."
     }
     },
     {
-    "@type": "Question",
-    "name": "What foods cook best at 476 F fan oven temperatures?",
+            "@type": "Question",
+            "name": "What foods cook best at 476 F fan oven temperatures?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "This high heat excels for crispy foods like roast potatoes, chicken skin, or reheating fried items. Avoid delicate baked goods which may dry out or burn."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "476 F to Fan Oven",
-    "url": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven",
+            "@type": "WebPage",
+            "name": "476 F to Fan Oven",
+            "url": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven",
     "description": "Learn how to convert 476 F to a fan oven for perfect air frying. Includes temperature charts, cooking tips, and UK-specific advice.",
     "inLanguage": "en",
     "datePublished": "2025-07-23T16:34:53.565000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "476 F to Fan Oven",
+            "name": "476 F to Fan Oven",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/476-f-to-fan-oven"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

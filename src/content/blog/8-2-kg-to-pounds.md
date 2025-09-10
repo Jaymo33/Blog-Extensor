@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds"
   },
-  "headline": "Quick 8.2 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 8.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 8.2 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 8.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-20T00:27:11.141Z",
-  "dateModified": "2025-08-20T00:27:11.141Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-2-kg-to-pounds.webp"
+        "datePublished": "2025-08-20T00:27:11.141Z",
+        "dateModified": "2025-08-20T00:27:11.141Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-2-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 8.2 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why do I need to convert 8.2 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 8.2 kg to pounds is crucial for air frying because most recipes, especially from the US, use imperial measurements. Accurate weight ensures correct cooking times and prevents overcrowding the basket. Overcrowding leads to steamed, soggy food instead of the crispy results an air fryer is famous for. Knowing the weight in pounds helps you follow recipes precisely and guarantees perfect outcomes every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 8.2 kg the same as 8.2 kilograms?",
+            "@type": "Question",
+            "name": "Is 8.2 kg the same as 8.2 kilograms?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, absolutely. 'kg' is simply the standard abbreviation for kilogram. So, 8.2 kg and 8.2 kilograms represent the exact same weight. This is just a shorthand way of writing it, much like using 'lb' for pound. Whether you see it written as 8.2 kg or 8.2 kilograms, the conversion process to pounds remains identical."
     }
     },
     {
-    "@type": "Question",
-    "name": "How can I quickly convert 8.2 kg to lbs without a calculator?",
+            "@type": "Question",
+            "name": "How can I quickly convert 8.2 kg to lbs without a calculator?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A quick and easy rule of thumb is to remember that 1 kilogram is roughly equal to 2.2 pounds. For 8.2 kg, you can multiply 8 by 2.2 to get 17.6, and then multiply 0.2 by 2.2 to get 0.44. Adding them together (17.6 + 0.44) gives you an approximate answer of 18.04 pounds. This method is great for a quick estimate while shopping or meal planning."
     }
     },
     {
-    "@type": "Question",
-    "name": "My air fryer manual uses pounds for capacity. Can it handle 8.2 kg of food?",
+            "@type": "Question",
+            "name": "My air fryer manual uses pounds for capacity. Can it handle 8.2 kg of food?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "First, you need to convert 8.2 kg to pounds, which is approximately 18 pounds. You must then check your specific air fryer's maximum capacity, which is usually listed in pounds for the basket. Most domestic air fryers have a capacity between 2 to 10 pounds, so an 18-pound quantity would be far too large to cook all at once. You would need to cook in multiple batches to avoid blocking airflow and ensure even cooking. Always check your model's specifications before loading it up."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "8.2 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "8.2 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds",
     "description": "Convert 8.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "8.2 kg to pounds",
+            "name": "8.2 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-2-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

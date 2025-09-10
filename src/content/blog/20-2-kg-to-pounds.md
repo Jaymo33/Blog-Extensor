@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds"
   },
-  "headline": "Quick 20.2 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 20.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for hassle-free meal prep.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 20.2 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 20.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for hassle-free meal prep.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T07:21:09.538Z",
-  "dateModified": "2025-08-21T07:21:09.538Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20-2-kg-to-pounds.webp"
+        "datePublished": "2025-08-21T07:21:09.538Z",
+        "dateModified": "2025-08-21T07:21:09.538Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20-2-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "What is 20.2 kg in pounds and ounces?",
+            "@type": "Question",
+            "name": "What is 20.2 kg in pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "20.2 kg is approximately 44 pounds and 8.5 ounces. To break it down, the total conversion from kilograms to pounds gives us 44.53 pounds. The decimal part (0.53) is converted to ounces by multiplying by 16, since there are 16 ounces in one pound. This level of precision is handy for recipes that require exact measurements, especially in baking or when preparing marinades."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 20.2 kg to pounds without a calculator?",
+            "@type": "Question",
+            "name": "How do I convert 20.2 kg to pounds without a calculator?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can use a simple approximation by multiplying 20.2 by 2.2, which gives you 44.44 pounds. For a more accurate mental calculation, remember that 1 kg is roughly 2.2 pounds, and then adjust for the 0.2 extra by adding 0.44 pounds (since 0.2 x 2.2 = 0.44). So, 20 kg would be 44 pounds, plus 0.44 pounds for the 0.2 kg, totalling approximately 44.44 pounds. For precise results, though, using a calculator or scale is recommended."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 20.2 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why would I need to convert 20.2 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 20.2 kg to pounds is essential for portion control and following recipes accurately. Air fryers have limited basket capacities, and overloading them can lead to uneven cooking. Knowing that 20.2 kg is about 44.53 pounds helps you divide large quantities into manageable batches that your appliance can handle. This ensures each portion cooks evenly, crisps up nicely, and saves you from guesswork or wasted ingredients."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 20.2 kg the same as 20.2 kilograms when converting to pounds?",
+            "@type": "Question",
+            "name": "Is 20.2 kg the same as 20.2 kilograms when converting to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 20.2 kg and 20.2 kilograms are identical—kg is just the abbreviation for kilograms. So, whether you see 20.2 kg or 20.2 kilograms, the conversion to pounds is the same: approximately 44.53 pounds. This consistency is helpful when reading recipes from different sources, as some might use the full word while others use the abbreviation. Always double-check the units to avoid confusion."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "20.2 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "20.2 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds",
     "description": "Convert 20.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for hassle-free meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "20.2 kg to pounds",
+            "name": "20.2 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/20-2-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

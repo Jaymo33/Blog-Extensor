@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds"
   },
-  "headline": "Quick 4 kg Whole Chicken to Pounds Conversion for Air Fryers",
-  "description": "Convert 4 kg whole chicken to pounds instantly for perfect air frying results. Get cooking times, temperatures, and juicy chicken every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 4 kg Whole Chicken to Pounds Conversion for Air Fryers",
+        "description": "Convert 4 kg whole chicken to pounds instantly for perfect air frying results. Get cooking times, temperatures, and juicy chicken every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T18:51:22.444Z",
-  "dateModified": "2025-08-22T18:51:22.444Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-whole-chicken-to-pounds.webp"
+        "datePublished": "2025-08-22T18:51:22.444Z",
+        "dateModified": "2025-08-22T18:51:22.444Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-whole-chicken-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 4 kg whole chicken to pounds and ounces?",
+            "@type": "Question",
+            "name": "How do I convert 4 kg whole chicken to pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 4 kg whole chicken to pounds and ounces is straightforward once you know the basic conversion rates. First, convert kilograms to pounds by multiplying by 2.20462, which gives you 8.81848 pounds. The whole number part (8) represents the pounds, while the decimal (0.81848) needs conversion to ounces by multiplying by 16, resulting in approximately 13.1 ounces. Therefore, 4 kg whole chicken converts to 8 pounds and 13 ounces when rounded for practical cooking purposes. This level of precision helps when following recipes that specify weights in great detail, though most air frying instructions work well with pound measurements alone."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the conversion change if I'm using US pounds versus imperial pounds?",
+            "@type": "Question",
+            "name": "Does the conversion change if I'm using US pounds versus imperial pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Fortunately, both US customary pounds and imperial pounds are essentially identical for practical cooking purposes, especially when converting something like 4 kg whole chicken to pounds. The international avoirdupois pound used in the United States and the imperial pound used in the United Kingdom both equal exactly 0.45359237 kilograms. This means your conversion from 4 kg whole chicken to pounds will be the same regardless of which system the recipe originates from—approximately 8.82 pounds. This consistency simplifies international recipe following and ensures your air frying results remain predictable whether you're using British, American, or other international recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 4 kg to pounds affect air frying time compared to a smaller chicken?",
+            "@type": "Question",
+            "name": "How does converting 4 kg to pounds affect air frying time compared to a smaller chicken?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 4 kg whole chicken to pounds (approximately 8.82 lbs) significantly affects air frying time compared to smaller birds. While a typical 1.5-2 kg chicken might take 50-70 minutes at 180°C, a 4 kg chicken requires nearly double that time—usually around 2 to 2.5 hours at the same temperature. The increased mass means heat takes longer to penetrate to the center, requiring extended cooking time despite the air fryer's efficient circulation. It's crucial to use a meat thermometer to check for doneness (75°C in the thickest part) rather than relying solely on time estimates, as air fryer models vary in their heating efficiency, especially with larger items."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can most air fryers accommodate a 4 kg whole chicken after conversion to pounds?",
+            "@type": "Question",
+            "name": "Can most air fryers accommodate a 4 kg whole chicken after conversion to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Whether an air fryer can accommodate a 4 kg whole chicken (approximately 8.82 pounds) depends entirely on the specific model's basket dimensions and capacity. Larger basket air fryers and oven-style models typically can handle chickens of this size, but compact basket models might struggle with proper air circulation around such a large bird. Before attempting to cook a 4 kg chicken, check your air fryer's manual for maximum capacity recommendations and measure the basket interior dimensions. If the chicken fits snugly but with some space around the edges for air flow, it should work, but if you have to force it in or it touches the heating elements, consider using a smaller bird or alternative cooking method."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "4 kg whole chicken to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds",
+            "@type": "WebPage",
+            "name": "4 kg whole chicken to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds",
     "description": "Convert 4 kg whole chicken to pounds instantly for perfect air frying results. Get cooking times, temperatures, and juicy chicken every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "4 kg whole chicken to pounds",
+            "name": "4 kg whole chicken to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

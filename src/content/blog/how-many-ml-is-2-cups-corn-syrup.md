@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup"
   },
-  "headline": "Quick Guide: Convert 2.0 Cups of Corn Syrup to ml Easily",
-  "description": "Learn how to convert 2.0 cups of corn syrup to ml for perfect baking and air frying every time. Get precise measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 2.0 Cups of Corn Syrup to ml Easily",
+        "description": "Learn how to convert 2.0 cups of corn syrup to ml for perfect baking and air frying every time. Get precise measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-28T23:32:33.463Z",
-  "dateModified": "2025-07-28T23:32:33.463Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-corn-syrup.webp"
+        "datePublished": "2025-07-28T23:32:33.463Z",
+        "dateModified": "2025-07-28T23:32:33.463Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-corn-syrup.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 2.0 cups of corn syrup the same in UK and US measurements?",
+            "@type": "Question",
+            "name": "Is 2.0 cups of corn syrup the same in UK and US measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 2.0 cups of corn syrup equal 473 ml in both UK and US measurements. While UK cups are technically larger (284 ml vs. 240 ml), the difference is minimal for thick liquids like corn syrup. For precision, always use millilitres when converting."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a kitchen scale to measure 2.0 cups of corn syrup in ml?",
+            "@type": "Question",
+            "name": "Can I use a kitchen scale to measure 2.0 cups of corn syrup in ml?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Set your scale to millilitres and pour the corn syrup until it reads 473 ml. This method is especially useful for sticky ingredients, as it avoids mess and ensures accuracy. Just ensure your scale has a liquid measurement option."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best way to clean corn syrup from my air fryer basket?",
+            "@type": "Question",
+            "name": "What’s the best way to clean corn syrup from my air fryer basket?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Soak the basket in warm, soapy water to loosen sticky residue, then scrub gently with a non-abrasive sponge. For tough spots, use our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid harsh chemicals to preserve non-stick coatings."
     }
     },
     {
-    "@type": "Question",
-    "name": "Are there substitutes for corn syrup in air fryer recipes?",
+            "@type": "Question",
+            "name": "Are there substitutes for corn syrup in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, golden syrup or honey can replace corn syrup, but adjust quantities slightly as they’re sweeter. For every 473 ml (2.0 cups) of corn syrup, use about 440 ml of honey. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe hub</a> for substitution guides."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 2.0 Cups of Corn Syrup?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup",
+            "@type": "WebPage",
+            "name": "How Many ml Is 2.0 Cups of Corn Syrup?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup",
     "description": "Learn how to convert 2.0 cups of corn syrup to ml for perfect baking and air frying every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T23:32:33.463000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 2.0 Cups of Corn Syrup?",
+            "name": "How Many ml Is 2.0 Cups of Corn Syrup?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

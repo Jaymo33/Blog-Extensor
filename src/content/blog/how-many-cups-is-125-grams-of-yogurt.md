@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt"
   },
-  "headline": "Quick Answer: How Many Cups Is 125 Grams of Yogurt?",
-  "description": "Convert 125 grams of yogurt to cups easily for baking and cooking. Perfect for air fryer recipes—get accurate measurements in seconds!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 125 Grams of Yogurt?",
+        "description": "Convert 125 grams of yogurt to cups easily for baking and cooking. Perfect for air fryer recipes—get accurate measurements in seconds!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T21:00:05.324Z",
-  "dateModified": "2025-07-27T21:00:05.324Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-yogurt.webp"
+        "datePublished": "2025-07-27T21:00:05.324Z",
+        "dateModified": "2025-07-27T21:00:05.324Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-yogurt.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 125 grams of yogurt the same as ½ cup?",
+            "@type": "Question",
+            "name": "Is 125 grams of yogurt the same as ½ cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 125 grams of yogurt equals approximately ½ cup in both US and UK measurements. This applies to most yogurt types, though thicker varieties like Greek yogurt may need light stirring before measuring for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use 125 grams of yogurt in air fryer baking?",
+            "@type": "Question",
+            "name": "Can I use 125 grams of yogurt in air fryer baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! 125 grams (½ cup) of yogurt works well in air fryer cakes, muffins, and breads. It adds moisture and helps activate leavening agents. For best results, follow recipes that specify yogurt measurements, like those on <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 125 grams of yogurt without a scale?",
+            "@type": "Question",
+            "name": "How do I measure 125 grams of yogurt without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Use a liquid measuring cup: 125 grams is roughly ½ cup. Spoon the yogurt in without packing it down, then level the top with a knife. For smaller amounts, 8 tablespoons equal 125 grams. Stirring the yogurt first ensures an even measurement."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does yogurt type affect the 125-gram-to-cups conversion?",
+            "@type": "Question",
+            "name": "Does yogurt type affect the 125-gram-to-cups conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Slightly. Thicker yogurts (like Greek) are denser, so 125 grams may look less than ½ cup. Stirring loosens it for accurate measuring. For standard or flavored yogurt, 125 grams reliably equals ½ cup. Always check recipe notes for specific types."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 125 Grams of Yogurt?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 125 Grams of Yogurt?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt",
     "description": "Convert 125 grams of yogurt to cups easily for baking and cooking. Perfect for air fryer recipes—get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T21:00:05.324000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 125 Grams of Yogurt?",
+            "name": "How Many Cups Is 125 Grams of Yogurt?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-yogurt"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

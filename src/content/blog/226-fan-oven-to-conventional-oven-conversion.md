@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion"
   },
-  "headline": "Quick 226 Fan Oven to Conventional Oven Conversion Guide",
-  "description": "Learn how to convert 226 fan oven to conventional oven temperatures easily with our simple guide. Perfect for air fryer users too!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 226 Fan Oven to Conventional Oven Conversion Guide",
+        "description": "Learn how to convert 226 fan oven to conventional oven temperatures easily with our simple guide. Perfect for air fryer users too!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-23T21:22:12.681Z",
-  "dateModified": "2025-07-23T21:22:12.681Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/226-fan-oven-to-conventional-oven-conversion.png"
+        "datePublished": "2025-07-23T21:22:12.681Z",
+        "dateModified": "2025-07-23T21:22:12.681Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/226-fan-oven-to-conventional-oven-conversion.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "FanOven"
+        "about": {
+            "@type": "Thing",
+            "name": "FanOven"
   },
-  "articleSection": "FanOven",
-  "inLanguage": "en-GB"
+        "articleSection": "FanOven",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 226 fan oven to celsius for a conventional oven?",
+            "@type": "Question",
+            "name": "How do I convert 226 fan oven to celsius for a conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 226 fan oven to celsius for a conventional oven, simply subtract 20°C. This gives you 206°C, which you can round down to 200°C for most cooking purposes. This adjustment accounts for the more efficient heat distribution in fan ovens."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same cooking time when converting 226 fan oven to conventional oven?",
+            "@type": "Question",
+            "name": "Can I use the same cooking time when converting 226 fan oven to conventional oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cooking times typically need adjusting too. Conventional ovens usually require 5-10 minutes longer than fan ovens at the equivalent temperature. Always check your food a few minutes before the recipe suggests when using converted temperatures."
     }
     },
     {
-    "@type": "Question",
-    "name": "What's the difference between 226 fan oven and conventional oven performance?",
+            "@type": "Question",
+            "name": "What's the difference between 226 fan oven and conventional oven performance?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A 226 fan oven circulates hot air for faster, more even cooking, while a conventional oven relies on radiant heat. The fan oven's efficiency means you need to reduce the temperature by about 20°C when converting to conventional oven settings for similar results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 226 fan oven conversion apply to air fryers?",
+            "@type": "Question",
+            "name": "How does 226 fan oven conversion apply to air fryers?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers work similarly to fan ovens but more intensely. When converting 226 fan oven to air fryer, use the conventional oven equivalent (200°C) but reduce cooking time by about 20-30%. Always check food progress as air fryers cook faster than even fan ovens."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "226 Fan Oven to Conventional Oven Conversion",
-    "url": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion",
+            "@type": "WebPage",
+            "name": "226 Fan Oven to Conventional Oven Conversion",
+            "url": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion",
     "description": "Learn how to convert 226 fan oven to conventional oven temperatures easily with our simple guide. Perfect for air fryer users too!",
     "inLanguage": "en",
     "datePublished": "2025-07-23T21:22:12.681000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "226 Fan Oven to Conventional Oven Conversion",
+            "name": "226 Fan Oven to Conventional Oven Conversion",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/226-fan-oven-to-conventional-oven-conversion"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

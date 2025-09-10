@@ -53,37 +53,37 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            ""@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why is it important to convert 0.2 kg to pounds for air frying?",
+            ""@type": "Question",
+            ""name": "Why is it important to convert 0.2 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Converting 0.2 kg to pounds is crucial for air frying because accurate ingredient weights directly impact cooking time and results. Air fryers work by circulating hot air, and overcrowding or using incorrect portions can lead to uneven cooking—some parts might be raw while others are burnt. Knowing that 0.2 kg equals roughly 0.44 pounds helps you follow recipes precisely and ensures your food cooks evenly and comes out perfectly crispy every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How can I measure 0.2 kg without a digital scale?",
+            ""@type": "Question",
+            ""name": "How can I measure 0.2 kg without a digital scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "If you do not have a digital scale, you can use common household items for estimation. For example, 0.2 kg (or 0.44 lbs) is roughly the weight of one large apple or a cup of granulated sugar. However, these are approximations and not ideal for baking where precision is key. For the most accurate air fryer results, investing in an inexpensive kitchen scale that shows both metric and imperial units is highly recommended to take the guesswork out of your conversions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 0.2 kg a common portion size for air fryer recipes?",
+            ""@type": "Question",
+            ""name": "Is 0.2 kg a common portion size for air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Yes, 0.2 kg is a very common and practical portion size for air fryer cooking. It is ideal for single servings of protein like a chicken breast, two salmon fillets, or a batch of vegetables for two people. This weight ensures the air fryer basket is not overcrowded, allowing for proper air circulation which is essential for achieving a crispy texture. Many frozen food packages also contain items in portions around this weight, making the conversion from 0.2 kg to pounds a frequently used kitchen skill."
     }
     },
     {
-    "@type": "Question",
-    "name": "Do I need to convert weights for frozen foods in the air fryer?",
+            ""@type": "Question",
+            ""name": "Do I need to convert weights for frozen foods in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Absolutely. Frozen foods often have cooking instructions based on a specific weight, and converting from kilograms to pounds ensures you set the correct time and temperature. For example, a 0.2 kg bag of frozen chips will cook differently than a 0.4 kg bag. Using the wrong weight as a guide could leave you with undercooked or soggy food. Always check the weight on the packaging, convert it if necessary, and adjust the cooking time accordingly for the best results from your air fryer."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "0.2 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-2-kg-to-pounds",
+            ""@type": "WebPage",
+            ""name": "0.2 kg to pounds",
+            ""url": "https://www.airfryerrecipe.co.uk/blog/0-2-kg-to-pounds",
     "description": "Convert 0.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for delicious meals every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-2-kg-to-pounds#breadcrumbs",
+            ""@type": "BreadcrumbList",
+            ""name": "Breadcrumbs",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-2-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            ""@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            ""name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            ""@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            ""name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            ""@type": "ListItem",
     "position": 3,
-    "name": "0.2 kg to pounds",
+            ""name": "0.2 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-2-kg-to-pounds"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-2-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            ""@type": "WebSite",
+            ""url": "https://www.airfryerrecipe.co.uk",
+            ""name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            ""@type": "Organization",
+            ""name": "Air Fryer Recipes",
+            ""url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            ""@type": "ImageObject",
+            ""url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            ""@type": "Country",
+            ""name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            ""@type": "Country",
+            ""name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            ""@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

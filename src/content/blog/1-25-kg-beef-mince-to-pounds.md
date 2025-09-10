@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds"
   },
-  "headline": "Quick 1.25 kg Beef Mince to Pounds Conversion Guide",
-  "description": "Convert 1.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer meals every time. Easy guide inside!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 1.25 kg Beef Mince to Pounds Conversion Guide",
+        "description": "Convert 1.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer meals every time. Easy guide inside!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T19:48:49.567Z",
-  "dateModified": "2025-08-23T19:48:49.567Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-25-kg-beef-mince-to-pounds.webp"
+        "datePublished": "2025-08-23T19:48:49.567Z",
+        "dateModified": "2025-08-23T19:48:49.567Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-25-kg-beef-mince-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why is it important to convert 1.25 kg beef mince to pounds accurately for air frying?",
+            "@type": "Question",
+            "name": "Why is it important to convert 1.25 kg beef mince to pounds accurately for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Accurate conversion is crucial for air frying because cooking times and temperatures are highly dependent on the weight and density of the food. An incorrect measurement can lead to undercooked or overcooked results. The air fryer's rapid air circulation requires precise portions to ensure even cooking and perfect texture every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a simple 2.2 multiplier instead of 2.20462 to convert kg to pounds?",
+            "@type": "Question",
+            "name": "Can I use a simple 2.2 multiplier instead of 2.20462 to convert kg to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Using 2.2 is a good rough estimate for mental math and will give you a result very close to 2.75 pounds for 1.25 kg. For most home cooking purposes, this approximation is perfectly acceptable. However, for baking or when following a recipe that requires extreme precision, using the full 2.20462 factor is recommended for the most accurate outcome."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 1.25 kg of beef mince compare to typical supermarket packaging?",
+            "@type": "Question",
+            "name": "How does 1.25 kg of beef mince compare to typical supermarket packaging?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "1.25 kg is a very common pack size for beef mince in UK supermarkets, often sold as a "family pack." You will frequently find trays labelled as 1.25kg, or sometimes as 1.2kg or 1.3kg. Knowing that 1.25kg is approximately 2.76 pounds helps if you are using an American recipe that calls for a specific weight in pounds, allowing you to buy the correct amount."
     }
     },
     {
-    "@type": "Question",
-    "name": "What are some easy air fryer recipes that use exactly 1.25 kg of beef mince?",
+            "@type": "Question",
+            "name": "What are some easy air fryer recipes that use exactly 1.25 kg of beef mince?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "This quantity is perfect for making a large batch of air fryer meatballs, which can be cooked in batches and frozen for later. You could also make eight substantial burger patties. Another great idea is to create a layered air fryer dish like a deconstructed lasagne or moussaka, using the cooked mince as a base. The key is to ensure you don't overcrowd the basket to allow for proper air circulation."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "1.25 kg beef mince to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds",
+            "@type": "WebPage",
+            "name": "1.25 kg beef mince to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds",
     "description": "Convert 1.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer meals every time. Easy guide inside!",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "1.25 kg beef mince to pounds",
+            "name": "1.25 kg beef mince to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

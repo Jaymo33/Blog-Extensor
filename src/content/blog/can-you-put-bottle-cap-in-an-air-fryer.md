@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer"
   },
-  "headline": "Can You Put Bottle Caps in an Air Fryer? Safety Guide",
-  "description": "Wondering if bottle caps are air fryer safe? Learn why they're risky, potential hazards, and safer alternatives for air frying at home.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Can You Put Bottle Caps in an Air Fryer? Safety Guide",
+        "description": "Wondering if bottle caps are air fryer safe? Learn why they're risky, potential hazards, and safer alternatives for air frying at home.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T23:30:57.071Z",
-  "dateModified": "2025-07-22T23:30:57.071Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-bottle-cap-in-an-air-fryer.png"
+        "datePublished": "2025-07-22T23:30:57.071Z",
+        "dateModified": "2025-07-22T23:30:57.071Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-bottle-cap-in-an-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
   },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Will a metal bottle cap damage my air fryer?",
+            "@type": "Question",
+            "name": "Will a metal bottle cap damage my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Metal bottle caps can potentially scratch the non-stick coating, warp from heat, or in rare cases create sparks if they contact heating elements. It's best to avoid putting any metal caps in your air fryer to prevent damage."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use bottle caps to cover food in the air fryer?",
+            "@type": "Question",
+            "name": "Can I use bottle caps to cover food in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, bottle caps aren't suitable for covering food in air fryers. Instead, use purpose-made silicone covers or perforated parchment paper designed for air fryer use, which won't melt or release harmful chemicals at high temperatures."
     }
     },
     {
-    "@type": "Question",
-    "name": "What temperature do plastic bottle caps melt at in an air fryer?",
+            "@type": "Question",
+            "name": "What temperature do plastic bottle caps melt at in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most plastic bottle caps begin melting between 120°C to 150°C (248°F to 302°F), well below typical air fryer cooking temperatures. Even on lower settings, the concentrated heat makes plastic caps unsafe for air fryer use."
     }
     },
     {
-    "@type": "Question",
-    "name": "Are there any bottle caps that are air fryer safe?",
+            "@type": "Question",
+            "name": "Are there any bottle caps that are air fryer safe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While some high-temperature silicone or metal caps exist for industrial use, standard beverage bottle caps aren't designed for air fryers. It's always safer to use accessories specifically marketed and tested for air fryer compatibility."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Bottle Cap in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Bottle Cap in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer",
     "description": "Wondering if bottle caps are air fryer safe? Learn why they're risky, potential hazards, and safer alternatives for air frying at home.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Can You Put Bottle Cap in an Air Fryer?",
+            "name": "Can You Put Bottle Cap in an Air Fryer?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

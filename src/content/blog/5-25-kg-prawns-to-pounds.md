@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds"
   },
-  "headline": "Quick 5.25 kg Prawns to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 5.25 kg prawns to pounds instantly for perfect air fryer portions. Get easy measurements, cooking tips, and delicious recipes all in one place.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 5.25 kg Prawns to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 5.25 kg prawns to pounds instantly for perfect air fryer portions. Get easy measurements, cooking tips, and delicious recipes all in one place.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-25-kg-prawns-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-25-kg-prawns-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 5.25 kg of prawns?",
+            "@type": "Question",
+            "name": "How many pounds is 5.25 kg of prawns?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "5.25 kg of prawns is approximately 11.57 pounds. This conversion uses the standard factor where 1 kilogram equals 2.20462 pounds. It’s a useful measurement when preparing large batches of prawns in your air fryer, ensuring you portion correctly for recipes that use imperial units."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook 5.25 kg of prawns in one go in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook 5.25 kg of prawns in one go in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It’s not recommended to cook 5.25 kg (about 11.57 pounds) of prawns in one go in most air fryers. Overcrowding the basket leads to uneven cooking and steaming rather than crisping. Instead, cook in batches of 1-2 pounds per batch for the best results, shaking the basket halfway through."
     }
     },
     {
-    "@type": "Question",
-    "name": "Do I need to adjust cooking time for 5.25 kg prawns in the air fryer?",
+            "@type": "Question",
+            "name": "Do I need to adjust cooking time for 5.25 kg prawns in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You don’t need to adjust cooking time per batch for 5.25 kg prawns, as air fryer cooking times are based on batch size, not total quantity. Each batch of prawns (1-2 pounds) will cook in 5-8 minutes at 200°C. However, remember that cooking multiple batches will increase total preparation time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find recipes for 5.25 kg of prawns?",
+            "@type": "Question",
+            "name": "Where can I find recipes for 5.25 kg of prawns?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can find plenty of recipes for prawns in that quantity on airfryerrecipe.co.uk, especially in our shrimp and prawn category. Since 5.25 kg is about 11.57 pounds, you’ll have enough for several meals—try garlic prawns, prawn stir-fry, or breaded prawns. Adjust seasonings and cook times based on your air fryer model."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "5.25 kg prawns to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds",
+            "@type": "WebPage",
+            "name": "5.25 kg prawns to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds",
     "description": "Convert 5.25 kg prawns to pounds instantly for perfect air fryer portions. Get easy measurements, cooking tips, and delicious recipes all in one place.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "5.25 kg prawns to pounds",
+            "name": "5.25 kg prawns to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-25-kg-prawns-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

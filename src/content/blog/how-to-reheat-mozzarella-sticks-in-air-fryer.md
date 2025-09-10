@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer"
   },
-  "headline": "Reheat Mozzarella Sticks in Air Fryer - Crispy & Gooey Results",
-  "description": "Learn the best way to reheat mozzarella sticks in an air fryer for crispy exteriors and melted cheese inside. Quick, easy method with perfect results.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Reheat Mozzarella Sticks in Air Fryer - Crispy & Gooey Results",
+        "description": "Learn the best way to reheat mozzarella sticks in an air fryer for crispy exteriors and melted cheese inside. Quick, easy method with perfect results.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T19:59:55.735Z",
-  "dateModified": "2025-07-22T19:59:55.735Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mozzarella-sticks-in-air-fryer.png"
+        "datePublished": "2025-07-22T19:59:55.735Z",
+        "dateModified": "2025-07-22T19:59:55.735Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mozzarella-sticks-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Reheat"
+        "about": {
+            "@type": "Thing",
+            "name": "Reheat"
   },
-  "articleSection": "Reheat",
-  "inLanguage": "en-GB"
+        "articleSection": "Reheat",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can you reheat mozzarella sticks in an air fryer from frozen?",
+            "@type": "Question",
+            "name": "Can you reheat mozzarella sticks in an air fryer from frozen?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Frozen mozzarella sticks reheat beautifully in an air fryer. Set to 190°C (375°F) for 6-8 minutes, flipping halfway through. The higher temperature ensures the centre thaws while keeping the coating crispy."
     }
     },
     {
-    "@type": "Question",
-    "name": "What's the best temperature to reheat mozzarella sticks without drying them out?",
+            "@type": "Question",
+            "name": "What's the best temperature to reheat mozzarella sticks without drying them out?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "180°C (350°F) is ideal for refrigerated mozzarella sticks. This temperature gently reheats the cheese while crisping the exterior. For extra protection against drying, add a few drops of water to the air fryer basket to create steam."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I stop mozzarella sticks from bursting open when reheating?",
+            "@type": "Question",
+            "name": "How do I stop mozzarella sticks from bursting open when reheating?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Avoid overcrowding the basket and don't exceed 180°C (350°F) for refrigerated sticks. Give them space to allow even heating, and consider reducing temperature slightly if leakage persists. The cheese should melt gradually rather than erupt."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat mozzarella sticks multiple times in the air fryer?",
+            "@type": "Question",
+            "name": "Can I reheat mozzarella sticks multiple times in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While possible, we don't recommend multiple reheats as quality degrades. The coating becomes overly dry and cheese texture suffers. For best results, only reheat what you'll eat immediately. Store any extras properly in the fridge or freezer."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How to Reheat Mozzarella Sticks in an Air Fryer",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer",
+            "@type": "WebPage",
+            "name": "How to Reheat Mozzarella Sticks in an Air Fryer",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer",
     "description": "Learn the best way to reheat mozzarella sticks in an air fryer for crispy exteriors and melted cheese inside. Quick, easy method with perfect results.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How to Reheat Mozzarella Sticks in an Air Fryer",
+            "name": "How to Reheat Mozzarella Sticks in an Air Fryer",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

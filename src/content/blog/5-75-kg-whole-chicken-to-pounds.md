@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds"
   },
-  "headline": "Easy 5.75 kg Whole Chicken to Pounds Conversion Guide",
-  "description": "Convert 5.75 kg whole chicken to pounds quickly and accurately for perfect air fryer cooking times and juicy results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 5.75 kg Whole Chicken to Pounds Conversion Guide",
+        "description": "Convert 5.75 kg whole chicken to pounds quickly and accurately for perfect air fryer cooking times and juicy results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T18:51:22.444Z",
-  "dateModified": "2025-08-22T18:51:22.444Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-75-kg-whole-chicken-to-pounds.webp"
+        "datePublished": "2025-08-22T18:51:22.444Z",
+        "dateModified": "2025-08-22T18:51:22.444Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-75-kg-whole-chicken-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is a 5.75 kg whole chicken exactly?",
+            "@type": "Question",
+            "name": "How many pounds is a 5.75 kg whole chicken exactly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A 5.75 kg whole chicken is approximately 12.68 pounds when converted using the standard factor of 1 kg equals 2.20462 pounds. For most cooking purposes, rounding to 12.7 pounds or even 12 pounds 11 ounces is perfectly acceptable. This accuracy helps in setting the correct air fryer time for a juicy, thoroughly cooked bird."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 5.75 kg whole chicken to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why do I need to convert 5.75 kg whole chicken to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most air fryer recipes and appliance manuals use pounds to recommend cooking times and temperatures. Converting 5.75 kg whole chicken to pounds ensures you follow these guidelines accurately, preventing undercooking or drying out. It also helps if your air fryer has weight-based presets for poultry, making the cooking process simpler and more reliable."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a 5.75 kg whole chicken in any air fryer?",
+            "@type": "Question",
+            "name": "Can I cook a 5.75 kg whole chicken in any air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Not all air fryers can accommodate a 5.75 kg whole chicken due to its size—it’s quite large at around 12.68 pounds. Check your air fryer basket dimensions first; if it fits, you may need to rotate it during cooking. For smaller models, spatchcocking (butterflying) the chicken or cooking it in parts are good alternatives to ensure even cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does it take to air fry a 5.75 kg whole chicken?",
+            "@type": "Question",
+            "name": "How long does it take to air fry a 5.75 kg whole chicken?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "As a general rule, air fry a whole chicken for 20 minutes per pound at 180°C. For a 5.75 kg chicken (about 12.68 pounds), this works out to roughly 4 hours and 15 minutes. Always use a meat thermometer to check the internal temperature reaches 75°C in the thickest part, as air fryer models can vary in performance."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "5.75 kg whole chicken to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds",
+            "@type": "WebPage",
+            "name": "5.75 kg whole chicken to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds",
     "description": "Convert 5.75 kg whole chicken to pounds quickly and accurately for perfect air fryer cooking times and juicy results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "5.75 kg whole chicken to pounds",
+            "name": "5.75 kg whole chicken to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-whole-chicken-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

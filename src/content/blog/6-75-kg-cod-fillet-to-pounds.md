@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds"
   },
-  "headline": "Easy 6.75 kg Cod Fillet to Pounds Conversion Guide",
-  "description": "Convert 6.75 kg cod fillet to pounds instantly with our simple guide. Perfect for air fryer meal prep and portioning your recipes accurately.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 6.75 kg Cod Fillet to Pounds Conversion Guide",
+        "description": "Convert 6.75 kg cod fillet to pounds instantly with our simple guide. Perfect for air fryer meal prep and portioning your recipes accurately.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-75-kg-cod-fillet-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-75-kg-cod-fillet-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 6.75 kg of cod fillet to pounds accurately?",
+            "@type": "Question",
+            "name": "How do I convert 6.75 kg of cod fillet to pounds accurately?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 6.75 kg of cod fillet to pounds, multiply the kilogram value by 2.20462. So, 6.75 kg multiplied by 2.20462 equals approximately 14.88 pounds. This conversion is vital for following air fryer recipes correctly and ensuring your cod is cooked perfectly every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is it important to know the weight in pounds for air frying cod?",
+            "@type": "Question",
+            "name": "Why is it important to know the weight in pounds for air frying cod?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Knowing the weight in pounds is crucial because most air fryer recipes provide cooking times based on weight. An incorrect weight estimate can lead to undercooked or overcooked fish. For a 6.75 kg cod fillet (14.88 pounds), you'll need to adjust cooking times and likely cook in batches to avoid overcrowding the basket, which is essential for achieving a crispy texture."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a whole 6.75 kg cod fillet in my air fryer at once?",
+            "@type": "Question",
+            "name": "Can I cook a whole 6.75 kg cod fillet in my air fryer at once?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It is highly unlikely you can cook a whole 6.75 kg cod fillet in a standard home air fryer at once due to its large size. You will need to portion it into smaller pieces that fit in a single layer in the basket. Cooking in batches ensures proper air circulation, which is key to getting that desirable crispy exterior and evenly cooked interior."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find air fryer recipes for a large cod fillet like 6.75 kg?",
+            "@type": "Question",
+            "name": "Where can I find air fryer recipes for a large cod fillet like 6.75 kg?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can find excellent air fryer recipes suitable for a large 6.75 kg cod fillet on dedicated cooking websites. For a wide variety of tested and reliable cod recipes, visit airfryerrecipe.co.uk. Their collection includes options for different seasonings and cooking styles, all easily scalable for your specific fillet weight."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "6.75 kg cod fillet to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "6.75 kg cod fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds",
     "description": "Convert 6.75 kg cod fillet to pounds instantly with our simple guide. Perfect for air fryer meal prep and portioning your recipes accurately.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "6.75 kg cod fillet to pounds",
+            "name": "6.75 kg cod fillet to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-cod-fillet-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

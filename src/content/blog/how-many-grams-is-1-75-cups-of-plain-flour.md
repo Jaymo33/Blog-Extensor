@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour"
   },
-  "headline": "Quick Answer: How Many Grams Is 1.75 Cups of Plain Flour?",
-  "description": "Discover the exact gram measurement for 1.75 cups of plain flour—perfect for air fryer baking with precise conversions every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Grams Is 1.75 Cups of Plain Flour?",
+        "description": "Discover the exact gram measurement for 1.75 cups of plain flour—perfect for air fryer baking with precise conversions every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T23:31:14.617Z",
-  "dateModified": "2025-07-27T23:31:14.617Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-75-cups-of-plain-flour.webp"
+        "datePublished": "2025-07-27T23:31:14.617Z",
+        "dateModified": "2025-07-27T23:31:14.617Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-75-cups-of-plain-flour.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 1.75 cups of plain flour weigh the same in the UK and US?",
+            "@type": "Question",
+            "name": "Does 1.75 cups of plain flour weigh the same in the UK and US?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 1.75 cups of plain flour is approximately 219 grams in both the UK and US. However, cup sizes can vary slightly by region, so using a kitchen scale for accuracy is recommended, especially for air fryer recipes where precision matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use self-raising flour instead of plain flour for this conversion?",
+            "@type": "Question",
+            "name": "Can I use self-raising flour instead of plain flour for this conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, self-raising flour includes raising agents, so its weight per cup differs. For 1.75 cups of self-raising flour, you’d need around 210 grams. Always check specific conversions for alternative flours to ensure your air fryer recipes turn out perfectly."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is measuring flour by weight better than by volume?",
+            "@type": "Question",
+            "name": "Why is measuring flour by weight better than by volume?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Measuring by weight (grams) is more accurate because flour can settle or be packed differently in a cup, leading to inconsistent amounts. For air fryer cooking, where even small deviations affect results, using a scale ensures reliability."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I adjust recipes if I don’t have a kitchen scale?",
+            "@type": "Question",
+            "name": "How do I adjust recipes if I don’t have a kitchen scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a scale, use the spoon-and-level method: fluff the flour, spoon it into the cup, and level it off. For 1.75 cups, aim for a light, aerated fill. However, investing in a scale is ideal for air fryer baking precision."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 1.75 Cups of Plain Flour?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 1.75 Cups of Plain Flour?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour",
     "description": "Discover the exact gram measurement for 1.75 cups of plain flour—perfect for air fryer baking with precise conversions every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:31:14.617000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 1.75 Cups of Plain Flour?",
+            "name": "How Many Grams Is 1.75 Cups of Plain Flour?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-plain-flour"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

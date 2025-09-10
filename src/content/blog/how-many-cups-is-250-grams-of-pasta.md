@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta"
   },
-  "headline": "Quick Answer: How Many Cups Is 250 Grams of Pasta?",
-  "description": "Discover how to convert 250 grams of pasta to cups easily for perfect air fryer meals every time. Get accurate measurements now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 250 Grams of Pasta?",
+        "description": "Discover how to convert 250 grams of pasta to cups easily for perfect air fryer meals every time. Get accurate measurements now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-26T21:31:11.583Z",
-  "dateModified": "2025-07-26T21:31:11.583Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-pasta.png"
+        "datePublished": "2025-07-26T21:31:11.583Z",
+        "dateModified": "2025-07-26T21:31:11.583Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-pasta.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 250 grams of pasta equal 2 cups or 3 cups?",
+            "@type": "Question",
+            "name": "Does 250 grams of pasta equal 2 cups or 3 cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "250 grams of pasta typically equals around 2.5 cups, but this varies by pasta shape. Smaller shapes like macaroni may be closer to 2.25 cups, while longer pasta like linguine could measure up to 2.75 cups. Always check specific conversions for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a mug to measure 250 grams of pasta?",
+            "@type": "Question",
+            "name": "Can I use a mug to measure 250 grams of pasta?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A standard UK mug holds about 1.5 cups, so you’d need roughly 1.5 mugs for 250 grams of pasta. However, mugs vary in size, so this isn’t the most precise method. For best results, use proper measuring cups or a kitchen scale."
     }
     },
     {
-    "@type": "Question",
-    "name": "How much cooked pasta does 250 grams yield?",
+            "@type": "Question",
+            "name": "How much cooked pasta does 250 grams yield?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "250 grams of dry pasta yields about 500-600 grams of cooked pasta, or roughly 4-5 cups. This expansion is why it’s crucial not to overcook or overcrowd your air fryer when preparing pasta dishes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 250 grams of pasta enough for two people?",
+            "@type": "Question",
+            "name": "Is 250 grams of pasta enough for two people?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 250 grams of pasta is typically sufficient for two hearty servings. For lighter meals, you might stretch it to three portions, especially if adding proteins or veggies. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe section</a> for portion-friendly ideas!"
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 250 Grams of Pasta?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 250 Grams of Pasta?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta",
     "description": "Discover how to convert 250 grams of pasta to cups easily for perfect air fryer meals every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.583000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 250 Grams of Pasta?",
+            "name": "How Many Cups Is 250 Grams of Pasta?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-pasta"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries"
   },
-  "headline": "Quick Guide: 1.0 Cups of Blueberries to Grams Conversion",
-  "description": "Discover how many grams are in 1.0 cups of blueberries for perfect air fryer recipes. Get precise measurements for baking and cooking!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: 1.0 Cups of Blueberries to Grams Conversion",
+        "description": "Discover how many grams are in 1.0 cups of blueberries for perfect air fryer recipes. Get precise measurements for baking and cooking!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:37.491Z",
-  "dateModified": "2025-07-27T16:11:37.491Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-blueberries.webp"
+        "datePublished": "2025-07-27T16:11:37.491Z",
+        "dateModified": "2025-07-27T16:11:37.491Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-blueberries.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 1.0 cup of frozen blueberries weigh the same as fresh?",
+            "@type": "Question",
+            "name": "Does 1.0 cup of frozen blueberries weigh the same as fresh?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, frozen blueberries often weigh slightly more—around 160–170 grams per cup—due to ice crystals. If using frozen, consider reducing the quantity slightly or thawing and patting them dry to avoid excess moisture in your air fryer recipe."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some recipes list blueberries in grams instead of cups?",
+            "@type": "Question",
+            "name": "Why do some recipes list blueberries in grams instead of cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weight measurements (grams) are more precise because cup measurements can vary based on berry size and packing density. Grams ensure consistency, especially in baking and air frying, where exact proportions matter for texture and doneness."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for dried blueberries?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for dried blueberries?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, dried blueberries are much lighter. 1.0 cup of dried blueberries weighs about 100 grams. Always check your recipe for the correct type, as dried berries absorb moisture differently and can alter the dish’s outcome."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure blueberries without a scale?",
+            "@type": "Question",
+            "name": "How do I measure blueberries without a scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a scale, use the spoon-and-level method: gently fill a measuring cup without packing the berries. For accuracy, refer to our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>, which lists common ingredient weights."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 1.0 Cups of Blueberries?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 1.0 Cups of Blueberries?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries",
     "description": "Discover how many grams are in 1.0 cups of blueberries for perfect air fryer recipes. Get precise measurements for baking and cooking!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 1.0 Cups of Blueberries?",
+            "name": "How Many Grams Is 1.0 Cups of Blueberries?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-blueberries"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

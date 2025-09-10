@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar"
   },
-  "headline": "Quick Answer: How Many Cups Is 35 ml of Vinegar?",
-  "description": "Discover how to convert 35 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and kitchen conversions!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 35 ml of Vinegar?",
+        "description": "Discover how to convert 35 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and kitchen conversions!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-30T23:31:15.040Z",
-  "dateModified": "2025-07-30T23:31:15.040Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-vinegar.webp"
+        "datePublished": "2025-07-30T23:31:15.040Z",
+        "dateModified": "2025-07-30T23:31:15.040Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-vinegar.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 35 ml of vinegar the same in the UK and US?",
+            "@type": "Question",
+            "name": "Is 35 ml of vinegar the same in the UK and US?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 35 ml of vinegar is the same volume in both the UK and US. However, cup sizes differ slightly: a US cup is 240 ml, while a UK cup is 250 ml. For 35 ml, the difference is negligible (about 0.146 US cups vs. 0.14 UK cups)."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I substitute 35 ml of vinegar with lemon juice in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I substitute 35 ml of vinegar with lemon juice in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, lemon juice can replace 35 ml of vinegar in most recipes, as both provide acidity. Use the same amount (35 ml or ~0.148 cups), but note that lemon juice may add a brighter flavour. Ideal for dressings or <a href=https://www.airfryerrecipe.co.uk/recipe-category/seafood>air fryer seafood</a>."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 35 ml of vinegar without a measuring cup?",
+            "@type": "Question",
+            "name": "How do I measure 35 ml of vinegar without a measuring cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a measuring cup, use tablespoons: 35 ml equals ~2.37 tablespoons. A standard tablespoon holds 15 ml, so measure just over 2 tablespoons. For teaspoons, it’s about 7.1 (since 1 teaspoon = 5 ml)."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the type of vinegar affect the 35 ml to cups conversion?",
+            "@type": "Question",
+            "name": "Does the type of vinegar affect the 35 ml to cups conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, the conversion remains the same regardless of vinegar type (white, apple cider, etc.). However, thicker varieties like balsamic may coat measuring tools differently, so always level off for accuracy. Great for <a href=https://www.airfryerrecipe.co.uk/recipe-category/vegetables>air fryer veggies</a> glazes!"
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 35 ml of Vinegar?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 35 ml of Vinegar?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar",
     "description": "Discover how to convert 35 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and kitchen conversions!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:15.040000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 35 ml of Vinegar?",
+            "name": "How Many Cups Is 35 ml of Vinegar?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

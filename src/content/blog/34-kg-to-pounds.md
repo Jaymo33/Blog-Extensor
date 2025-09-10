@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds"
   },
-  "headline": "Quick 34 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 34 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 34 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 34 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T22:25:08.238Z",
-  "dateModified": "2025-08-21T22:25:08.238Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/34-kg-to-pounds.webp"
+        "datePublished": "2025-08-21T22:25:08.238Z",
+        "dateModified": "2025-08-21T22:25:08.238Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/34-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 34 kg to pounds for air fryer cooking?",
+            "@type": "Question",
+            "name": "Why do I need to convert 34 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 34 kg to pounds is essential because most air fryer recipes and cooking guidelines use imperial measurements. Your air fryer's capacity, cooking times, and temperature settings are typically based on pound measurements, so accurate conversion ensures proper portioning and cooking results. When you know that 34 kg equals 74.96 pounds, you can follow recipes precisely and avoid overfilling your air fryer basket, which is crucial for achieving even cooking and crispy textures."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 34 kg exactly 75 pounds or should I use the precise conversion?",
+            "@type": "Question",
+            "name": "Is 34 kg exactly 75 pounds or should I use the precise conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While 34 kg is approximately 75 pounds (74.96 pounds to be exact), the level of precision needed depends on your cooking application. For most air fryer cooking, rounding to 75 pounds is perfectly acceptable and makes mental calculations easier. However, for baking recipes or when working with expensive ingredients, using the precise 74.96 pounds conversion is recommended. The exact conversion becomes more important when scaling recipes or working with pre-programmed air fryer settings that rely on accurate weight measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 34 kg to pounds help with meal prepping for my air fryer?",
+            "@type": "Question",
+            "name": "How does converting 34 kg to pounds help with meal prepping for my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Knowing that 34 kg converts to 74.96 pounds helps tremendously with meal prepping because it allows you to portion ingredients accurately for multiple air fryer batches. This conversion enables you to purchase ingredients in bulk (often sold in kilograms) while still following pound-based recipes from resources like airfryerrecipe.co.uk. Proper portioning ensures each air fryer load cooks evenly and efficiently, saving you time and energy. This knowledge also helps with planning freezer meals and dividing large quantities into family-sized portions for future air frying sessions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Are there any tools that can help me convert 34 kg to pounds quickly?",
+            "@type": "Question",
+            "name": "Are there any tools that can help me convert 34 kg to pounds quickly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, several tools can help with converting 34 kg to pounds quickly and accurately. Most digital kitchen scales have unit conversion buttons that instantly switch between kilograms and pounds. Smartphone apps dedicated to cooking conversions can calculate 34 kg to pounds with just a few taps. For traditional methods, keeping a printed conversion chart from airfryerrecipe.co.uk/air-fryer-conversion-chart in your kitchen is extremely helpful. Many modern air fryers also have built-in conversion features or pre-programmed settings that automatically adjust based on weight measurements."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "34 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "34 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds",
     "description": "Convert 34 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "34 kg to pounds",
+            "name": "34 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

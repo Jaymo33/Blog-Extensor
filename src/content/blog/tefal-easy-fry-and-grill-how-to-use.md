@@ -9,48 +9,48 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use"
   },
-  "headline": "Tefal Easy Fry And Grill How To Use",
-  "description": "Thinking of getting the most out of your Tefal Easy Fry and Grill? This guide is here to help you master your Tefal air fryer for perfectly cooked meals every time. Let’s dive into the easy steps and tips to make your cooking a breeze!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Tefal Easy Fry And Grill How To Use",
+        "description": "Thinking of getting the most out of your Tefal Easy Fry and Grill? This guide is here to help you master your Tefal air fryer for perfectly cooked meals every time. Let’s dive into the easy steps and tips to make your cooking a breeze!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-20T12:06:15.087Z",
-  "dateModified": "2025-07-20T12:06:15.087Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/tefal-easy-fry-and-grill-how-to-use.png"
+        "datePublished": "2025-07-20T12:06:15.087Z",
+        "dateModified": "2025-07-20T12:06:15.087Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/tefal-easy-fry-and-grill-how-to-use.png"
   },
-  "inLanguage": "en-GB"
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "tefal easy fry and grill how to use",
-    "url": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use",
+            "@type": "WebPage",
+            "name": "tefal easy fry and grill how to use",
+            "url": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use",
     "description": "Thinking of getting the most out of your Tefal Easy Fry and Grill? This guide is here to help you master your Tefal air fryer for perfectly cooked meals every time. Let’s dive into the easy steps and tips to make your cooking a breeze!",
     "inLanguage": "en",
     "datePublished": "2025-07-20T12:06:15.087000+00:00",
@@ -61,35 +61,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "tefal easy fry and grill how to use",
+            "name": "tefal easy fry and grill how to use",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/tefal-easy-fry-and-grill-how-to-use"
     }
     }
     ]
@@ -99,9 +99,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -110,25 +110,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

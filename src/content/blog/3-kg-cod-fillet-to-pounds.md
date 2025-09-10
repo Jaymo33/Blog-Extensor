@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds"
   },
-  "headline": "Quick 3 kg cod fillet to pounds conversion for air fryer cooking",
-  "description": "Convert 3 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and easy recipes for flaky cod every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 3 kg cod fillet to pounds conversion for air fryer cooking",
+        "description": "Convert 3 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and easy recipes for flaky cod every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-cod-fillet-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-cod-fillet-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is exactly 3 kg of cod fillet?",
+            "@type": "Question",
+            "name": "How many pounds is exactly 3 kg of cod fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "3 kilograms of cod fillet converts to exactly 6.6138678655463 pounds, but for practical cooking purposes, most people round this to 6.61 pounds. This precise conversion is based on the standard conversion factor where 1 kilogram equals 2.20462262185 pounds. When working with air fryer recipes, using the rounded figure of 6.61 pounds will give you excellent results without unnecessary complexity."
     }
     },
     {
-    "@type": "Question",
-    "name": "Should I convert 3 kg cod fillet to pounds before or after cooking?",
+            "@type": "Question",
+            "name": "Should I convert 3 kg cod fillet to pounds before or after cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You should always convert 3 kg cod fillet to pounds while the fish is still raw and before cooking. Weight conversions are most accurate and meaningful when applied to uncooked ingredients, as cooking can cause moisture loss and weight reduction. For air fryer recipes specifically, measurements refer to raw weight since cooking times and temperatures are calculated based on the starting weight of ingredients. Converting before cooking ensures your air fryer settings will be correct for perfectly cooked cod."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 3 kg cod fillet to pounds affect air fryer cooking time?",
+            "@type": "Question",
+            "name": "How does converting 3 kg cod fillet to pounds affect air fryer cooking time?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 3 kg cod fillet to pounds (6.61 lbs) directly impacts your air fryer cooking time because most recipes provide timing guidelines based on weight. Heavier portions generally require longer cooking times, but with air fryers, you may need to cook in batches rather than extending time significantly. For cod fillets, a good rule of thumb is 10-12 minutes at 200°C (400°F) for each pound of fish, though you should always check for doneness since air fryer models vary. The conversion helps you apply these timing guidelines accurately for perfect results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for other types of fish?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for other types of fish?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion factor from kilograms to pounds remains the same regardless of what type of fish you're measuring. Whether you're working with cod, salmon, haddock, or any other fish variety, 3 kilograms will always equal approximately 6.61 pounds. This consistency makes it easy to apply the conversion across different recipes and fish types. However, remember that cooking times may vary between fish types due to differences in fat content and thickness, even when weights are identical."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "3 kg cod fillet to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "3 kg cod fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds",
     "description": "Convert 3 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and easy recipes for flaky cod every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "3 kg cod fillet to pounds",
+            "name": "3 kg cod fillet to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-cod-fillet-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

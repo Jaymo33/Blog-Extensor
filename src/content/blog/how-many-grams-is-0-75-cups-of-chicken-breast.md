@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast"
   },
-  "headline": "Quick Guide: Convert 0.75 Cups of Chicken Breast to Grams Easily",
-  "description": "Learn how to convert 0.75 cups of chicken breast to grams for perfect air fryer meals. Get accurate measurements every time!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 0.75 Cups of Chicken Breast to Grams Easily",
+        "description": "Learn how to convert 0.75 cups of chicken breast to grams for perfect air fryer meals. Get accurate measurements every time!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:24.203Z",
-  "dateModified": "2025-07-27T16:11:24.203Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-chicken-breast.webp"
+        "datePublished": "2025-07-27T16:11:24.203Z",
+        "dateModified": "2025-07-27T16:11:24.203Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-chicken-breast.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 0.75 cups of chicken breast the same as 105 grams in all countries?",
+            "@type": "Question",
+            "name": "Is 0.75 cups of chicken breast the same as 105 grams in all countries?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, cup measurements can vary slightly between the UK and USA due to differences in standard cup sizes. However, 0.75 cups of chicken breast generally equals 105 grams in both regions. For absolute precision, always use a kitchen scale."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for frozen chicken breast?",
+            "@type": "Question",
+            "name": "Can I use this conversion for frozen chicken breast?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but frozen chicken may have added water weight, which can affect the measurement. Thaw it first and pat dry before measuring 0.75 cups or weighing 105 grams for accurate results in your air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does shredded chicken compare to diced chicken in cups-to-grams conversion?",
+            "@type": "Question",
+            "name": "How does shredded chicken compare to diced chicken in cups-to-grams conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Shredded chicken is less dense than diced, so 0.75 cups may weigh slightly less—around 95-100 grams. For consistent results, weigh your chicken breast instead of relying solely on cup measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer chicken sometimes dry out even with the correct measurement?",
+            "@type": "Question",
+            "name": "Why does my air fryer chicken sometimes dry out even with the correct measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Overcooking or high temperatures can dry out chicken, even with precise measurements. Use a meat thermometer to check for an internal temperature of 75°C. Also, marinating the chicken before air frying can help retain moisture."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 0.75 Cups of Chicken Breast?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 0.75 Cups of Chicken Breast?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast",
     "description": "Learn how to convert 0.75 cups of chicken breast to grams for perfect air fryer meals. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:24.203000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 0.75 Cups of Chicken Breast?",
+            "name": "How Many Grams Is 0.75 Cups of Chicken Breast?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-chicken-breast"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

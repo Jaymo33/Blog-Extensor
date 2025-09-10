@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast"
   },
-  "headline": "Quick Answer: How Many Grams in 1.0 Cups of Chicken Breast?",
-  "description": "Find out exactly how many grams are in 1.0 cups of chicken breast for perfect air fryer recipes every time. Includes UK & US conversions!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Grams in 1.0 Cups of Chicken Breast?",
+        "description": "Find out exactly how many grams are in 1.0 cups of chicken breast for perfect air fryer recipes every time. Includes UK & US conversions!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T16:11:37.491Z",
-  "dateModified": "2025-07-27T16:11:37.491Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-chicken-breast.webp"
+        "datePublished": "2025-07-27T16:11:37.491Z",
+        "dateModified": "2025-07-27T16:11:37.491Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-chicken-breast.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 1.0 cups of chicken breast weigh the same raw and cooked?",
+            "@type": "Question",
+            "name": "Does 1.0 cups of chicken breast weigh the same raw and cooked?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, raw chicken breast weighs more due to water content. Cooked chicken shrinks by about 25%, so 1.0 cups of cooked chicken equals ~140g, while raw chicken is closer to 185g per cup. Always check your recipe’s instructions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a liquid measuring cup for chicken breast?",
+            "@type": "Question",
+            "name": "Can I use a liquid measuring cup for chicken breast?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It’s not ideal. Liquid cups are designed for fluids and can compress diced or shredded chicken, leading to inaccurate measurements. Use dry measuring cups and spoon the chicken in lightly for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many grams is 1.0 cups of frozen chicken breast?",
+            "@type": "Question",
+            "name": "How many grams is 1.0 cups of frozen chicken breast?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Frozen chicken breast weighs slightly more due to ice crystals. Thaw it first and pat dry before measuring. 1.0 cups of thawed, diced frozen chicken breast is still roughly 140g, like fresh cooked chicken."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer chicken turn out dry?",
+            "@type": "Question",
+            "name": "Why does my air fryer chicken turn out dry?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Overcrowding or overcooking are common culprits. Measure portions accurately (1.0 cups = ~140g) and avoid overloading the basket. For juicy results, cook at 180°C for 12–15 minutes, shaking halfway."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 1.0 Cups of Chicken Breast?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 1.0 Cups of Chicken Breast?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast",
     "description": "Find out exactly how many grams are in 1.0 cups of chicken breast for perfect air fryer recipes every time. Includes UK & US conversions!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 1.0 Cups of Chicken Breast?",
+            "name": "How Many Grams Is 1.0 Cups of Chicken Breast?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

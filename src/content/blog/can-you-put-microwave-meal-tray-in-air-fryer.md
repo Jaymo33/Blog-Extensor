@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer"
   },
-  "headline": "Microwave Meal Tray in Air Fryer: Safety & Tips | UK Guide",
-  "description": "Wondering if you can put a microwave meal tray in an air fryer? Discover safety tips, risks, and alternatives for UK air fryer users.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Microwave Meal Tray in Air Fryer: Safety & Tips | UK Guide",
+        "description": "Wondering if you can put a microwave meal tray in an air fryer? Discover safety tips, risks, and alternatives for UK air fryer users.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T22:38:02.529Z",
-  "dateModified": "2025-07-22T22:38:02.529Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-microwave-meal-tray-in-air-fryer.png"
+        "datePublished": "2025-07-22T22:38:02.529Z",
+        "dateModified": "2025-07-22T22:38:02.529Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-microwave-meal-tray-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "MicrowaveAirfryer"
+        "about": {
+            "@type": "Thing",
+            "name": "MicrowaveAirfryer"
   },
-  "articleSection": "MicrowaveAirfryer",
-  "inLanguage": "en-GB"
+        "articleSection": "MicrowaveAirfryer",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use a microwave meal tray in my Ninja air fryer if I lower the temperature?",
+            "@type": "Question",
+            "name": "Can I use a microwave meal tray in my Ninja air fryer if I lower the temperature?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, even at lower temperatures, microwave meal trays aren't designed for the dry heat circulation of any air fryer, including Ninja models. The materials can still degrade over time, potentially contaminating your food."
     }
     },
     {
-    "@type": "Question",
-    "name": "What should I do if my microwave meal tray melted in the air fryer?",
+            "@type": "Question",
+            "name": "What should I do if my microwave meal tray melted in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Immediately unplug the air fryer and let it cool completely. Carefully remove any melted residue using a plastic scraper, then clean with baking soda paste. Avoid using metal tools that could damage the non-stick coating."
     }
     },
     {
-    "@type": "Question",
-    "name": "Are there any microwave meal trays that are air fryer safe?",
+            "@type": "Question",
+            "name": "Are there any microwave meal trays that are air fryer safe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Extremely rare - we've yet to find any mainstream UK microwave meal brand that uses air fryer-safe materials. Always transfer food to proper air fryer cookware instead of risking it."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat microwave meals in an air fryer without the tray?",
+            "@type": "Question",
+            "name": "Can I reheat microwave meals in an air fryer without the tray?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Simply transfer the food to an air fryer-safe container or parchment paper. Adjust cooking time to 3-5 minutes at 160°C, checking frequently as air fryers reheat faster than microwaves."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Microwave Meal Tray in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Microwave Meal Tray in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer",
     "description": "Wondering if you can put a microwave meal tray in an air fryer? Discover safety tips, risks, and alternatives for UK air fryer users.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Can You Put Microwave Meal Tray in an Air Fryer?",
+            "name": "Can You Put Microwave Meal Tray in an Air Fryer?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

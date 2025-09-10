@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds"
   },
-  "headline": "Easy 4.5 kg Cod Fillet to Pounds Conversion Guide",
-  "description": "Convert 4.5 kg cod fillet to pounds instantly. Get perfect air fryer portions with our simple guide and handy conversion chart.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 4.5 kg Cod Fillet to Pounds Conversion Guide",
+        "description": "Convert 4.5 kg cod fillet to pounds instantly. Get perfect air fryer portions with our simple guide and handy conversion chart.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-cod-fillet-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-cod-fillet-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Is 4.5 kg of cod fillet the same as 10 pounds?",
+            "@type": "Question",
+            "name": "Is 4.5 kg of cod fillet the same as 10 pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, 4.5 kg of cod fillet is not exactly 10 pounds. Using the standard conversion rate where 1 kilogram equals approximately 2.20462 pounds, 4.5 kg works out to roughly 9.92 pounds. This slight difference might not seem like much, but when you're portioning for air frying or following a recipe precisely, that 0.08 pound (or about 1.28 ounces) can matter for even cooking and accurate seasoning."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 4.5 kg cod fillet to pounds and ounces for portioning?",
+            "@type": "Question",
+            "name": "How do I convert 4.5 kg cod fillet to pounds and ounces for portioning?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 4.5 kg cod fillet to pounds and ounces, first calculate the total pounds (approximately 9.92 lbs). The whole number is 9 pounds. Then multiply the decimal part (0.92) by 16 to get the ounces: 0.92 x 16 = 14.72 ounces. So, 4.5 kg is about 9 pounds and 14.7 ounces. This helps when dividing the fillet into equal portions for air frying, ensuring consistent cooking times and results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 4.5 kg cod fillet to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why would I need to convert 4.5 kg cod fillet to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 4.5 kg cod fillet to pounds is useful for air frying because many recipes and air fryer guidelines use imperial measurements. Knowing the weight in pounds helps you determine correct portion sizes, avoid overcrowding the basket, and adjust cooking times accurately. Overloading the air fryer can lead to unevenly cooked fish, so precise conversions ensure crispy, perfectly cooked cod every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the conversion change if the cod fillet is frozen or fresh?",
+            "@type": "Question",
+            "name": "Does the conversion change if the cod fillet is frozen or fresh?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The conversion from kilograms to pounds remains the same regardless of whether the cod fillet is fresh or frozen, as weight is weight. However, frozen fillets may have added ice or water weight that can slightly affect the edible portion after thawing. For best results when air frying, always thaw and pat dry the fillet before weighing and converting to pounds, as this gives you the most accurate weight for cooking and portioning."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "4.5 kg cod fillet to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "4.5 kg cod fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds",
     "description": "Convert 4.5 kg cod fillet to pounds instantly. Get perfect air fryer portions with our simple guide and handy conversion chart.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "4.5 kg cod fillet to pounds",
+            "name": "4.5 kg cod fillet to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese"
   },
-  "headline": "125 Grams of Mozzarella Cheese to Cups – Quick Conversion | AirFryerRecipe.co.uk",
-  "description": "Wondering how many cups 125 grams of mozzarella cheese is? Get the precise conversion for UK and US cups, plus air fryer recipe tips at airfryerrecipe.co.uk.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "125 Grams of Mozzarella Cheese to Cups – Quick Conversion | AirFryerRecipe.co.uk",
+        "description": "Wondering how many cups 125 grams of mozzarella cheese is? Get the precise conversion for UK and US cups, plus air fryer recipe tips at airfryerrecipe.co.uk.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T15:47:29.143Z",
-  "dateModified": "2025-07-22T15:47:29.143Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-mozzarella-cheese.png"
+        "datePublished": "2025-07-22T15:47:29.143Z",
+        "dateModified": "2025-07-22T15:47:29.143Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-mozzarella-cheese.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 125 grams of mozzarella cheese measure differently if it's shredded vs cubed?",
+            "@type": "Question",
+            "name": "Does 125 grams of mozzarella cheese measure differently if it's shredded vs cubed?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the form affects the cup measurement. Shredded mozzarella will be more compact in a cup (about 1.25 UK cups per 125g), while cubed mozzarella takes more space due to air gaps between pieces. For air fryer recipes, we recommend shredded for even melting."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many calories are in 125 grams of mozzarella cheese?",
+            "@type": "Question",
+            "name": "How many calories are in 125 grams of mozzarella cheese?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "125 grams of whole milk mozzarella contains approximately 375 calories. For air fryer cooking, part-skim mozzarella at 125 grams has about 300 calories while maintaining good melting properties for recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use pre-shredded mozzarella for the 125 grams to cups conversion?",
+            "@type": "Question",
+            "name": "Can I use pre-shredded mozzarella for the 125 grams to cups conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can, but pre-shredded cheese often contains anti-caking agents that may slightly alter measurements. For best results in air fryer recipes, weigh 125 grams directly or fluff the pre-shredded cheese well before cup measuring."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 125 grams of mozzarella compare to other common cheese amounts in air fryer recipes?",
+            "@type": "Question",
+            "name": "How does 125 grams of mozzarella compare to other common cheese amounts in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "125 grams (about 1.25 UK cups) is a standard quantity for many air fryer dishes. It's half of a typical 250g mozzarella ball, equivalent to 1.5 servings by NHS guidelines, and perfect for 2-3 portion recipes like stuffed peppers or garlic bread."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 125 Grams of Mozzarella Cheese?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 125 Grams of Mozzarella Cheese?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese",
     "description": "Wondering how many cups 125 grams of mozzarella cheese is? Get the precise conversion for UK and US cups, plus air fryer recipe tips at airfryerrecipe.co.uk.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T15:47:29.143000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 125 Grams of Mozzarella Cheese?",
+            "name": "How Many Cups Is 125 Grams of Mozzarella Cheese?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

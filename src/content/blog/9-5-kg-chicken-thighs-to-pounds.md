@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds"
   },
-  "headline": "Quick 9.5 kg chicken thighs to pounds conversion guide",
-  "description": "Convert 9.5 kg chicken thighs to pounds easily with our simple guide. Perfect for air fryer meal prep and portion planning.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 9.5 kg chicken thighs to pounds conversion guide",
+        "description": "Convert 9.5 kg chicken thighs to pounds easily with our simple guide. Perfect for air fryer meal prep and portion planning.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T17:40:31.379Z",
-  "dateModified": "2025-08-22T17:40:31.379Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-5-kg-chicken-thighs-to-pounds.webp"
+        "datePublished": "2025-08-22T17:40:31.379Z",
+        "dateModified": "2025-08-22T17:40:31.379Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-5-kg-chicken-thighs-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversion"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversion"
   },
-  "articleSection": "Conversion",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversion",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 9.5 kg of chicken thighs exactly?",
+            "@type": "Question",
+            "name": "How many pounds is 9.5 kg of chicken thighs exactly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "9.5 kg of chicken thighs converts to approximately 20.94 pounds. The exact conversion uses the standard formula where 1 kilogram equals 2.20462 pounds. This measurement is particularly useful for air fryer cooking where precise portioning affects cooking results. For large batches, this conversion helps ensure even cooking and proper timing."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 9.5 kg chicken thighs to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why would I need to convert 9.5 kg chicken thighs to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 9.5 kg chicken thighs to pounds is essential for proper air fryer portioning. Air fryers require adequate space around food for optimal hot air circulation. Knowing the pound equivalent helps you divide the chicken into appropriate batch sizes. This prevents overcrowding, which can lead to uneven cooking and less crispy results. Accurate conversions also help when following recipes that use imperial measurements."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I convert 9.5 kg chicken thighs to pounds and ounces?",
+            "@type": "Question",
+            "name": "Can I convert 9.5 kg chicken thighs to pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can convert 9.5 kg chicken thighs to pounds and ounces for more precise measurement. 9.5 kg equals 20 pounds and 15 ounces approximately. This level of precision can be helpful for specific recipe requirements or nutritional tracking. However, for most air frying purposes, the pound conversion (20.94) provides sufficient accuracy for successful cooking results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How should I store 20.94 pounds of chicken thighs after conversion?",
+            "@type": "Question",
+            "name": "How should I store 20.94 pounds of chicken thighs after conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After converting 9.5 kg to 20.94 pounds, proper storage is crucial for food safety. Divide the chicken into meal-sized portions using freezer-safe bags or containers. Remove as much air as possible to prevent freezer burn. Label each package with the date and contents. For best quality, use within 3-4 months of freezing. Thaw in the refrigerator overnight before air frying."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "9.5 kg chicken thighs to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds",
+            "@type": "WebPage",
+            "name": "9.5 kg chicken thighs to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds",
     "description": "Convert 9.5 kg chicken thighs to pounds easily with our simple guide. Perfect for air fryer meal prep and portion planning.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "9.5 kg chicken thighs to pounds",
+            "name": "9.5 kg chicken thighs to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-thighs-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

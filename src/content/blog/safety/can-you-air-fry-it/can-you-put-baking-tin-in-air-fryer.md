@@ -9,81 +9,81 @@ author: "AirFryerRecipe.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer"
   },
-  "headline": "Can You Use a Baking Tin in an Air Fryer? Safety Guide",
-  "description": "Wondering if baking tins are air fryer-safe? Learn the dos and don'ts of using metal bakeware in your air fryer for perfect results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipe.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Can You Use a Baking Tin in an Air Fryer? Safety Guide",
+        "description": "Wondering if baking tins are air fryer-safe? Learn the dos and don'ts of using metal bakeware in your air fryer for perfect results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipe.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T22:38:02.529Z",
-  "dateModified": "2025-07-22T22:38:02.529Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-baking-tin-in-air-fryer.png"
+        "datePublished": "2025-07-22T22:38:02.529Z",
+        "dateModified": "2025-07-22T22:38:02.529Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-baking-tin-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
   },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use a silicone baking tin in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use a silicone baking tin in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, silicone baking tins are generally safe for air fryers as long as they're heat-resistant to at least 200°C. Ensure they fit properly without blocking airflow vents."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my baking tin smoke in the air fryer?",
+            "@type": "Question",
+            "name": "Why does my baking tin smoke in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Smoking usually occurs from leftover grease or food residue burning at high temperatures. Always clean your baking tin thoroughly before use and consider lining it with parchment paper."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I put a glass baking dish in my air fryer?",
+            "@type": "Question",
+            "name": "Can I put a glass baking dish in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Glass bakeware isn't recommended for most air fryers as it can shatter from rapid temperature changes. Stick to metal or approved silicone containers instead."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I prevent my baking tin from scratching the air fryer basket?",
+            "@type": "Question",
+            "name": "How do I prevent my baking tin from scratching the air fryer basket?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Place the baking tin gently in the centre of the basket without sliding it. You can also use parchment paper underneath as a protective layer between the tin and basket."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Baking Tin in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Baking Tin in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
     "description": "Wondering if baking tins are air fryer-safe? Learn the dos and don'ts of using metal bakeware in your air fryer for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
@@ -107,9 +107,9 @@ schema: |
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer#breadcrumbs",
     "itemListElement": [
         {
             "@type": "ListItem",
@@ -163,9 +163,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -174,25 +174,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

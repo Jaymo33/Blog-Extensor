@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds"
   },
-  "headline": "Easy 8.75 kg Turkey Crown to Pounds Conversion Guide",
-  "description": "Convert 8.75 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your festive feast with our simple guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 8.75 kg Turkey Crown to Pounds Conversion Guide",
+        "description": "Convert 8.75 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your festive feast with our simple guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T23:04:43.655Z",
-  "dateModified": "2025-08-22T23:04:43.655Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-turkey-crown-to-pounds.webp"
+        "datePublished": "2025-08-22T23:04:43.655Z",
+        "dateModified": "2025-08-22T23:04:43.655Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-turkey-crown-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 8.75 kg turkey crown to pounds and ounces?",
+            "@type": "Question",
+            "name": "How do I convert 8.75 kg turkey crown to pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 8.75 kg turkey crown to pounds and ounces, first multiply 8.75 by 2.20462 to get approximately 19.29 pounds. The decimal portion (0.29) represents fractions of a pound, which you convert to ounces by multiplying by 16 (since there are 16 ounces in a pound). This gives you 4.64 ounces, so your 8.75 kg turkey crown is approximately 19 pounds and 4.6 ounces.\n\nThis precise conversion helps when following recipes that use pounds and ounces rather than decimal pounds, or when you need to make fine adjustments to cooking times. For air frying, this level of accuracy ensures your turkey crown cooks evenly and reaches the perfect internal temperature."
     }
     },
     {
-    "@type": "Question",
-    "name": "Will an 8.75 kg turkey crown fit in my air fryer?",
+            "@type": "Question",
+            "name": "Will an 8.75 kg turkey crown fit in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "An 8.75 kg turkey crown (approximately 19.29 pounds) is quite large and may not fit in standard basket-style air fryers. Most household air fryers accommodate up to 5-6 kg (11-13 pounds), so you'll likely need a large capacity or oven-style air fryer for this size. Always check your specific model's maximum capacity in the manufacturer's instructions before attempting to cook such a large piece.\n\nIf your air fryer isn't large enough, consider cutting the crown into smaller sections that will fit comfortably without overcrowding. This ensures proper air circulation and even cooking. Alternatively, you might need to use a traditional oven for a turkey crown of this size."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does it take to air fry an 8.75 kg turkey crown?",
+            "@type": "Question",
+            "name": "How long does it take to air fry an 8.75 kg turkey crown?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "For an 8.75 kg turkey crown (approximately 19.29 pounds), air fry at 160°C for about 10-12 minutes per pound, which translates to roughly 3 hours 15 minutes to 3 hours 50 minutes total cooking time. Always use a meat thermometer to check that the thickest part of the crown reaches 74°C before considering it done. Factors like the specific air fryer model, starting temperature of the turkey, and whether it's stuffed will affect the actual cooking time.\n\nLet the turkey crown rest for 20-30 minutes after cooking to allow the juices to redistribute throughout the meat. This resting period is crucial for achieving tender, moist results rather than dry meat."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is there a difference between US pounds and UK pounds when converting 8.75 kg turkey crown?",
+            "@type": "Question",
+            "name": "Is there a difference between US pounds and UK pounds when converting 8.75 kg turkey crown?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, there is no difference between US pounds and UK pounds when converting 8.75 kg turkey crown to pounds. The pound unit is standardized internationally as exactly 0.45359237 kilograms, meaning 1 kilogram always equals approximately 2.20462 pounds regardless of which country's measurement system you're using. This consistency makes conversions straightforward and reliable for cooking purposes.\n\nWhether you're following an American recipe or using a British air fryer, the conversion from 8.75 kg to pounds remains the same at approximately 19.29 pounds. You can confidently use this conversion without worrying about regional variations in the pound measurement."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "8.75 kg turkey crown to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds",
+            "@type": "WebPage",
+            "name": "8.75 kg turkey crown to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds",
     "description": "Convert 8.75 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your festive feast with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "8.75 kg turkey crown to pounds",
+            "name": "8.75 kg turkey crown to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-turkey-crown-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

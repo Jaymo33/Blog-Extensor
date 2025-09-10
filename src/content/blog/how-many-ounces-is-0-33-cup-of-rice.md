@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice"
   },
-  "headline": "Quick 0.33 Cup Rice to Ounces Conversion for Perfect Air Fryer Meals",
-  "description": "Convert 0.33 cup of rice to ounces instantly for precise air fryer cooking. Get perfect rice portions every time with our easy UK guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 0.33 Cup Rice to Ounces Conversion for Perfect Air Fryer Meals",
+        "description": "Convert 0.33 cup of rice to ounces instantly for precise air fryer cooking. Get perfect rice portions every time with our easy UK guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-20T00:27:11.141Z",
-  "dateModified": "2025-08-20T00:27:11.141Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-rice.webp"
+        "datePublished": "2025-08-20T00:27:11.141Z",
+        "dateModified": "2025-08-20T00:27:11.141Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-rice.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why is it better to measure rice by weight rather than volume in an air fryer?",
+            "@type": "Question",
+            "name": "Why is it better to measure rice by weight rather than volume in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Weight measurements are significantly more accurate than volume measurements for rice because they account for how the grains settle and pack into a measuring cup. When you measure 0.33 cup of rice in ounces, you're getting a consistent amount regardless of whether the rice is loosely or tightly packed. This precision is crucial in air frying where even cooking depends on consistent ingredient quantities and proper air circulation around each grain.\n\nAir fryers rely on hot air circulating efficiently around food, and inconsistent measurements can lead to overcrowding or uneven cooking. Weight measurements ensure you always use the right amount of rice for your air fryer's capacity, preventing issues like mushy or undercooked grains. This accuracy becomes particularly important when scaling recipes or working with different rice varieties that have varying densities."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for different types of rice like brown or wild rice?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for different types of rice like brown or wild rice?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While the standard conversion of 0.33 cup of rice to approximately 2.64 ounces works well for most white rice varieties, different types of rice do have slightly different densities. Brown rice typically weighs slightly more due to its intact bran layer, while wild rice has different density characteristics altogether. For most home cooking purposes, the difference is minimal enough that the standard conversion will work satisfactorily.\n\nIf you regularly work with specialty rices or require extreme precision, it's worth weighing a sample of your specific rice type to establish a more accurate conversion. The variation is usually within 10-15%, which matters more in professional settings than home cooking. For air fryer meals, the important factor is consistency rather than absolute precision - using the same measurement method consistently will yield reliable results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does accurate rice measurement affect cooking times in the air fryer?",
+            "@type": "Question",
+            "name": "How does accurate rice measurement affect cooking times in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Accurate rice measurement directly impacts cooking time because the air fryer needs to heat and cook the exact quantity of food you've placed inside. When you properly convert 0.33 cup of rice to ounces, you ensure the air fryer's heating elements and fan can circulate air effectively around all the grains. Too much rice extends cooking time and may result in uneven cooking, while too little rice can lead to overcooking or drying out.\n\nThe relationship between quantity and cooking time isn't always linear in air fryers due to how the hot air circulates. This is why starting with precise measurements gives you a reliable baseline for timing adjustments. Most air fryer recipes are developed with specific quantities in mind, and deviating significantly from these measurements requires compensatory timing changes. Accurate measurement eliminates guesswork and helps you achieve perfect results more consistently."
     }
     },
     {
-    "@type": "Question",
-    "name": "What's the best way to measure 0.33 cup of rice if I don't have a kitchen scale?",
+            "@type": "Question",
+            "name": "What's the best way to measure 0.33 cup of rice if I don't have a kitchen scale?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don't have a kitchen scale, you can measure 0.33 cup of rice using standard measuring cups by first understanding that 1/3 cup is approximately 0.33 cup. Use dry measuring cups specifically designed for dry ingredients, and fill them to overflowing before leveling off with a straight edge. For greater accuracy, you can measure 1 cup of rice and then divide it visually into three equal portions, using one portion as your 0.33 cup measurement.\n\nWhile this method works reasonably well for most home cooking, it's worth noting that volume measurements will always have some variability compared to weight measurements. The rice's packing density, grain size, and even humidity can affect volume measurements. For air fryer cooking where precision matters, investing in an inexpensive digital scale will give you much more consistent results. Many scales cost less than £20 and provide years of accurate measurement capability."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.33 cup of rice?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.33 cup of rice?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice",
     "description": "Convert 0.33 cup of rice to ounces instantly for precise air fryer cooking. Get perfect rice portions every time with our easy UK guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.33 cup of rice?",
+            "name": "How many ounces is 0.33 cup of rice?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

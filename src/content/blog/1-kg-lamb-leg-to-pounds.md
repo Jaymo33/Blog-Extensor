@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds"
   },
-  "headline": "Easy 1 kg Lamb Leg to Pounds Conversion for Perfect Roasts",
-  "description": "Convert 1 kg lamb leg to pounds instantly for perfect air fryer cooking times. Get precise measurements and cooking tips for juicy results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 1 kg Lamb Leg to Pounds Conversion for Perfect Roasts",
+        "description": "Convert 1 kg lamb leg to pounds instantly for perfect air fryer cooking times. Get precise measurements and cooking tips for juicy results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T23:04:43.655Z",
-  "dateModified": "2025-08-22T23:04:43.655Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-kg-lamb-leg-to-pounds.webp"
+        "datePublished": "2025-08-22T23:04:43.655Z",
+        "dateModified": "2025-08-22T23:04:43.655Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-kg-lamb-leg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is exactly 1 kg of lamb leg?",
+            "@type": "Question",
+            "name": "How many pounds is exactly 1 kg of lamb leg?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "1 kilogram of lamb leg equals exactly 2.20462 pounds. For practical cooking purposes, most recipes and home cooks round this to 2.2 pounds. This precise conversion ensures accurate cooking times and portion calculations when preparing lamb in your air fryer.\n\nThe exact conversion factor between kilograms and pounds is important for consistent results. While the difference between 2.20462 and 2.2 pounds might seem small, it can affect cooking times by a few minutes, which matters for perfect doneness."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the bone affect the 1 kg lamb leg to pounds conversion?",
+            "@type": "Question",
+            "name": "Does the bone affect the 1 kg lamb leg to pounds conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The bone does not affect the basic conversion from 1 kg lamb leg to pounds, as the conversion is purely mathematical. However, the presence of bone does affect how you interpret this weight for cooking purposes. A 1 kg bone-in lamb leg contains less actual meat than a boneless cut of the same weight.\n\nWhen converting 1 kg lamb leg to pounds, remember that bone-in cuts require slightly longer cooking times per pound than boneless cuts. The bone acts as an insulator, slowing heat penetration to the center of the meat. Always adjust cooking times accordingly based on whether your lamb leg includes bone."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for other cuts of lamb?",
+            "@type": "Question",
+            "name": "Can I use this conversion for other cuts of lamb?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion from 1 kg to pounds applies to all cuts of lamb and actually any ingredient measured by weight. Whether you're working with lamb shoulder, chops, or shank, 1 kilogram always equals 2.20462 pounds. The conversion factor remains consistent across all types of meat and ingredients.\n\nThe important consideration is that different cuts may require different cooking times and methods even at the same weight. A 1 kg lamb leg converted to pounds will cook differently than 1 kg of lamb chops due to thickness, fat content, and bone structure. Always follow specific cooking guidelines for each cut."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does this conversion help with air fryer cooking times?",
+            "@type": "Question",
+            "name": "How does this conversion help with air fryer cooking times?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 1 kg lamb leg to pounds directly helps with air fryer cooking because most air fryer recipes and manufacturer guidelines use pound-based timing recommendations. Air fryer cooking times are typically calculated per pound of meat, so knowing the exact weight in pounds ensures perfect results.\n\nWithout accurate conversion, you might undercook or overcook your lamb leg. Most air fryer recipes suggest 20-25 minutes per pound at 180°C, so a 1 kg lamb leg (2.2 pounds) would need approximately 44-55 minutes. Always use a meat thermometer to verify doneness regardless of timing calculations."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "1 kg lamb leg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds",
+            "@type": "WebPage",
+            "name": "1 kg lamb leg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds",
     "description": "Convert 1 kg lamb leg to pounds instantly for perfect air fryer cooking times. Get precise measurements and cooking tips for juicy results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "1 kg lamb leg to pounds",
+            "name": "1 kg lamb leg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-lamb-leg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

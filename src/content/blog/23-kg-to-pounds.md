@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds"
   },
-  "headline": "Quick 23.0 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 23.0 kg to pounds instantly for perfect air fryer meal prep. Get accurate results and handy cooking tips in seconds.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 23.0 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 23.0 kg to pounds instantly for perfect air fryer meal prep. Get accurate results and handy cooking tips in seconds.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T07:21:09.538Z",
-  "dateModified": "2025-08-21T07:21:09.538Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/23-kg-to-pounds.webp"
+        "datePublished": "2025-08-21T07:21:09.538Z",
+        "dateModified": "2025-08-21T07:21:09.538Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/23-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 23.0 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why do I need to convert 23.0 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 23.0 kg to pounds is essential for air frying because most air fryer recipes and guidelines provide cooking times per pound. If you're working with a large ingredient like a joint of meat or bulk vegetables, knowing the weight in pounds helps you calculate the correct cooking time and temperature. This ensures your food cooks evenly and achieves the desired crispness without under or overcooking.\n\nAccurate conversion also helps with portioning. Air fryer baskets have limited capacity, and overloading them leads to poor results. By converting 23.0 kg to pounds (approximately 50.7 lb), you can divide the food into basket-friendly portions that cook perfectly. It’s a simple step that makes a big difference in your air frying success."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is there a difference between US pounds and UK pounds when converting 23.0 kg?",
+            "@type": "Question",
+            "name": "Is there a difference between US pounds and UK pounds when converting 23.0 kg?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, there is no difference between US pounds and UK pounds when converting 23.0 kg to pounds. The pound used in both countries is the international avoirdupois pound, which is defined as exactly 0.45359237 kilograms. Therefore, the conversion factor from kilograms to pounds is the same: 1 kg = 2.20462 pounds.\n\nThis means that 23.0 kg to us pounds and 23.0 kg to imperial pounds both equal approximately 50.7063 pounds. You can use the same calculation confidently regardless of where your recipe originates from. The consistency makes it easy for home cooks to get accurate results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How can I convert 23.0 kg to pounds without a calculator?",
+            "@type": "Question",
+            "name": "How can I convert 23.0 kg to pounds without a calculator?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can convert 23.0 kg to pounds without a calculator by using a simple approximation method. Remember that 1 kilogram is roughly 2.2 pounds. Multiply 23.0 by 2 to get 46, then multiply 23.0 by 0.2 to get 4.6. Add them together for a total of 50.6 pounds, which is very close to the exact value of 50.7063 pounds.\n\nFor everyday cooking, this approximation is perfectly sufficient. If you need more precision, you can keep a conversion chart handy or use the unit conversion feature on your digital kitchen scale. Many modern scales allow you to toggle between kilograms and pounds with the press of a button, making instant conversions effortless."
     }
     },
     {
-    "@type": "Question",
-    "name": "What is 23.0 kg in stones and pounds?",
+            "@type": "Question",
+            "name": "What is 23.0 kg in stones and pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 23.0 kg to stone and pounds, first convert kilograms to pounds. 23.0 kg is approximately 50.7063 pounds. There are 14 pounds in one stone, so divide 50.7063 by 14 to get the number of stone. This gives you about 3.6219 stone. The whole number part is 3 stone.\n\nTo find the remaining pounds, multiply the decimal part (0.6219) by 14, which equals approximately 8.7 pounds. So, 23.0 kg is roughly 3 stone and 8.7 pounds. This conversion is less common in cooking but can be useful for understanding personal weight or larger items in familiar terms. For culinary purposes, pounds or kilograms are more practical."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "23.0 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "23.0 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds",
     "description": "Convert 23.0 kg to pounds instantly for perfect air fryer meal prep. Get accurate results and handy cooking tips in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "23.0 kg to pounds",
+            "name": "23.0 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/23-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

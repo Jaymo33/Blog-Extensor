@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius"
   },
-  "headline": "Gas Mark 9 to Celsius Conversion Guide for Air Fryers",
-  "description": "Convert Gas Mark 9 to Celsius for your air fryer with our easy guide. Perfect for baking, roasting, and more at 246°C.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Gas Mark 9 to Celsius Conversion Guide for Air Fryers",
+        "description": "Convert Gas Mark 9 to Celsius for your air fryer with our easy guide. Perfect for baking, roasting, and more at 246°C.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-21T12:06:53.392Z",
-  "dateModified": "2025-07-21T12:06:53.392Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-9-to-celsius.png"
+        "datePublished": "2025-07-21T12:06:53.392Z",
+        "dateModified": "2025-07-21T12:06:53.392Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-9-to-celsius.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "GasMark"
+        "about": {
+            "@type": "Thing",
+            "name": "GasMark"
   },
-  "articleSection": "GasMark",
-  "inLanguage": "en-GB"
+        "articleSection": "GasMark",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use Gas Mark 9 for all air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use Gas Mark 9 for all air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Gas Mark 9 (246°C) is too high for most delicate foods and better suited for items needing quick browning or crisping. For gentler cooking, lower temperatures between Gas Mark 4-6 (180-200°C) are more appropriate."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does Gas Mark 9 compare to air fryer preset programmes?",
+            "@type": "Question",
+            "name": "How does Gas Mark 9 compare to air fryer preset programmes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Many air fryer 'roast' or 'crisp' settings approximate Gas Mark 9 temperatures, but manual adjustment to exactly 246°C often gives better control for specific recipes requiring this precise high heat."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my food cook faster at Gas Mark 9 in the air fryer?",
+            "@type": "Question",
+            "name": "Why does my food cook faster at Gas Mark 9 in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The air fryer's powerful fan circulates the 246°C heat more efficiently than a conventional oven, cooking food faster and more evenly - typically 20-30% quicker than standard oven times at Gas Mark 9."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is it safe to use Gas Mark 9 temperature regularly in my air fryer?",
+            "@type": "Question",
+            "name": "Is it safe to use Gas Mark 9 temperature regularly in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While occasional use at 246°C is fine, frequent high-heat cooking can wear components faster. Alternate with lower temperatures and maintain your air fryer properly for longevity."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Gas Mark 9 to Celsius",
-    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius",
+            "@type": "WebPage",
+            "name": "Gas Mark 9 to Celsius",
+            "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius",
     "description": "Convert Gas Mark 9 to Celsius for your air fryer with our easy guide. Perfect for baking, roasting, and more at 246°C.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Gas Mark 9 to Celsius",
+            "name": "Gas Mark 9 to Celsius",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-celsius"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

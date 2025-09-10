@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark"
   },
-  "headline": "260 C to Gas Mark Conversion Guide for Air Fryers & Ovens",
-  "description": "Convert 260°C to Gas Mark (Gas Mark 9) for perfect air fryer and oven cooking. Includes tips, charts, and temperature adjustments.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "260 C to Gas Mark Conversion Guide for Air Fryers & Ovens",
+        "description": "Convert 260°C to Gas Mark (Gas Mark 9) for perfect air fryer and oven cooking. Includes tips, charts, and temperature adjustments.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-20T15:10:58.488Z",
-  "dateModified": "2025-07-20T15:10:58.488Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/260-c-to-gas-mark.png"
+        "datePublished": "2025-07-20T15:10:58.488Z",
+        "dateModified": "2025-07-20T15:10:58.488Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/260-c-to-gas-mark.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "GasMark"
+        "about": {
+            "@type": "Thing",
+            "name": "GasMark"
   },
-  "articleSection": "GasMark",
-  "inLanguage": "en-GB"
+        "articleSection": "GasMark",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 260 C (Gas Mark 9) in all air fryer models?",
+            "@type": "Question",
+            "name": "Can I use 260 C (Gas Mark 9) in all air fryer models?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most modern air fryers can reach 260°C (Gas Mark 9), but compact or older models may have lower maximum temperatures. Check your appliance’s manual to confirm its range. If unsure, start with 240°C and adjust cooking times."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does 260 C (Gas Mark 9) compare to fan oven settings?",
+            "@type": "Question",
+            "name": "How does 260 C (Gas Mark 9) compare to fan oven settings?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "In a fan oven, 260°C (Gas Mark 9) cooks faster due to circulated air, similar to an air fryer. You can often use the same temperature, but reduce cooking times by 10-15% in an air fryer for equivalent results."
     }
     },
     {
-    "@type": "Question",
-    "name": "What foods should not be cooked at 260 C (Gas Mark 9)?",
+            "@type": "Question",
+            "name": "What foods should not be cooked at 260 C (Gas Mark 9)?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Delicate foods like custards, cheesecakes, or lean fish fillets can dry out or burn at 260°C (Gas Mark 9). Thick cuts of meat may char outside before cooking through. Use lower temperatures for these items."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is my food burning at 260 C (Gas Mark 9) in the air fryer?",
+            "@type": "Question",
+            "name": "Why is my food burning at 260 C (Gas Mark 9) in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Overcrowding the basket or not preheating can cause uneven cooking. Check food 5-10 minutes early and shake/turn it for even exposure. Some air fryers run hotter than displayed, so try 240°C if burning occurs."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "260 C to Gas Mark",
-    "url": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark",
+            "@type": "WebPage",
+            "name": "260 C to Gas Mark",
+            "url": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark",
     "description": "Convert 260°C to Gas Mark (Gas Mark 9) for perfect air fryer and oven cooking. Includes tips, charts, and temperature adjustments.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T15:10:58.488000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "260 C to Gas Mark",
+            "name": "260 C to Gas Mark",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

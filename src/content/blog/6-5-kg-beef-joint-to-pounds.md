@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds"
   },
-  "headline": "Easy 6.5 kg Beef Joint to Pounds Conversion Guide",
-  "description": "Convert 6.5 kg beef joint to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and meal planning.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 6.5 kg Beef Joint to Pounds Conversion Guide",
+        "description": "Convert 6.5 kg beef joint to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and meal planning.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T19:48:49.567Z",
-  "dateModified": "2025-08-23T19:48:49.567Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-beef-joint-to-pounds.webp"
+        "datePublished": "2025-08-23T19:48:49.567Z",
+        "dateModified": "2025-08-23T19:48:49.567Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-beef-joint-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 6.5 kg beef joint to pounds quickly?",
+            "@type": "Question",
+            "name": "How do I convert 6.5 kg beef joint to pounds quickly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 6.5 kg beef joint to pounds quickly, multiply 6.5 by 2.2. This gives you approximately 14.3 pounds, which is accurate enough for most cooking purposes. For more precision, use 2.20462, which results in about 14.33 pounds. This quick calculation ensures you can adapt recipes without any hassle."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is it important to know the weight in pounds for air frying?",
+            "@type": "Question",
+            "name": "Why is it important to know the weight in pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Knowing the weight in pounds is crucial because most air fryer recipes provide cooking times based on pounds per minute. A 6.5 kg beef joint, which is about 14.33 pounds, will require a longer cooking time than a smaller cut. Accurate weight ensures even cooking, prevents undercooking or drying out, and helps you achieve perfect results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a 6.5 kg beef joint in any air fryer?",
+            "@type": "Question",
+            "name": "Can I cook a 6.5 kg beef joint in any air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Not all air fryers can accommodate a 6.5 kg beef joint, as it is quite large. Check the capacity of your air fryer basket before attempting to cook it. If the joint doesn't fit comfortably without touching the sides or top, it may not cook evenly. Consider using a larger oven-style air fryer or cutting the joint into smaller pieces if necessary."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find recipes for cooking a large beef joint in an air fryer?",
+            "@type": "Question",
+            "name": "Where can I find recipes for cooking a large beef joint in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can find a variety of recipes for cooking large beef joints in an air fryer on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>. The site offers detailed guides, timing charts, and seasoning suggestions tailored to air fryer users. These resources help you make the most of your 6.5 kg beef joint, ensuring a delicious and stress-free cooking experience."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "6.5 kg beef joint to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds",
+            "@type": "WebPage",
+            "name": "6.5 kg beef joint to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds",
     "description": "Convert 6.5 kg beef joint to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and meal planning.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "6.5 kg beef joint to pounds",
+            "name": "6.5 kg beef joint to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-joint-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

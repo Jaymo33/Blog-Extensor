@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams"
   },
-  "headline": "Quick Guide: Convert 5 tbsp crushed garlic to grams easily",
-  "description": "Learn how to convert 5 tbsp of crushed garlic to grams for precise air fryer cooking. Get accurate measurements for perfect recipes every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: Convert 5 tbsp crushed garlic to grams easily",
+        "description": "Learn how to convert 5 tbsp of crushed garlic to grams for precise air fryer cooking. Get accurate measurements for perfect recipes every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-05T23:07:32.143Z",
-  "dateModified": "2025-08-05T23:07:32.143Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-tbsp-crushed-garlic-to-grams.webp"
+        "datePublished": "2025-08-05T23:07:32.143Z",
+        "dateModified": "2025-08-05T23:07:32.143Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-tbsp-crushed-garlic-to-grams.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 5 tbsp of crushed garlic weigh the same as minced garlic?",
+            "@type": "Question",
+            "name": "Does 5 tbsp of crushed garlic weigh the same as minced garlic?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, crushed garlic is slightly denser than minced garlic. While 5 tablespoons of crushed garlic equals about 75 grams, the same volume of minced garlic would weigh closer to 70 grams. Always check your recipe's specific requirements for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use garlic powder instead of 5 tbsp crushed garlic?",
+            "@type": "Question",
+            "name": "Can I use garlic powder instead of 5 tbsp crushed garlic?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, but you'll need much less powder. Generally, 1/8 teaspoon of garlic powder substitutes for one clove (about 1 teaspoon crushed). For 5 tbsp crushed garlic (about 15 cloves), you'd use approximately 2 teaspoons of powder. Adjust to taste as powders vary in potency."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many garlic cloves make 5 tablespoons crushed?",
+            "@type": "Question",
+            "name": "How many garlic cloves make 5 tablespoons crushed?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "About 15 medium-sized garlic cloves yield 5 tablespoons when crushed. Clove sizes vary, so it's best to measure after crushing. For precision in air fryer recipes, weighing the crushed garlic (75g) ensures consistent flavouring every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer food taste too garlicky even with 5 tbsp?",
+            "@type": "Question",
+            "name": "Why does my air fryer food taste too garlicky even with 5 tbsp?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers intensify flavours due to concentrated heat circulation. If 5 tbsp crushed garlic (75g) overwhelms your dish, try reducing to 4 tbsp (60g) next time. Also ensure you're distributing the garlic evenly rather than clumping it in one area during cooking."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many grams is 5 tbsp of crushed garlic?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams",
+            "@type": "WebPage",
+            "name": "How many grams is 5 tbsp of crushed garlic?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams",
     "description": "Learn how to convert 5 tbsp of crushed garlic to grams for precise air fryer cooking. Get accurate measurements for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How many grams is 5 tbsp of crushed garlic?",
+            "name": "How many grams is 5 tbsp of crushed garlic?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-tbsp-crushed-garlic-to-grams"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

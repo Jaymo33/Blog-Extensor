@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds"
   },
-  "headline": "Quick 42 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 42 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 42 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 42 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T00:37:28.394Z",
-  "dateModified": "2025-08-22T00:37:28.394Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/42-kg-to-pounds.webp"
+        "datePublished": "2025-08-22T00:37:28.394Z",
+        "dateModified": "2025-08-22T00:37:28.394Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/42-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 42 kg to pounds for air fryer cooking?",
+            "@type": "Question",
+            "name": "Why do I need to convert 42 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 42 kg to pounds is essential for air fryer cooking because most recipes use imperial measurements, and accurate conversions ensure proper cooking times and results. When you know that 42 kg equals approximately 92.594 pounds, you can properly portion ingredients, adjust seasonings, and follow international recipes correctly. This precision prevents undercooking or overcooking and helps maintain the perfect texture that air fryers are known for achieving."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 42 kg to pounds affect my air fryer's cooking capacity?",
+            "@type": "Question",
+            "name": "How does converting 42 kg to pounds affect my air fryer's cooking capacity?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Understanding that 42 kg converts to approximately 92.594 pounds helps you manage your air fryer's capacity effectively. Most home air fryers handle 2-5 pounds per batch, so 92.594 pounds would require multiple cooking cycles. This knowledge helps with meal planning and prevents overloading your appliance, which can lead to uneven cooking. Proper batch management based on accurate conversions ensures each portion cooks perfectly and maintains your air fryer's performance over time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use a simple conversion factor instead of the precise 2.20462 for 42 kg to pounds?",
+            "@type": "Question",
+            "name": "Can I use a simple conversion factor instead of the precise 2.20462 for 42 kg to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While you can use 2.2 as a simplified conversion factor for 42 kg to pounds, the precise factor of 2.20462 gives more accurate results. For casual cooking, the difference might be negligible, but for larger quantities like 42 kg, the variance becomes more significant. Using the precise conversion ensures better recipe outcomes, especially when working with expensive ingredients or following detailed cooking instructions. For best results in air frying, we recommend using the accurate conversion factor of 2.20462."
     }
     },
     {
-    "@type": "Question",
-    "name": "Where can I find more conversion resources for air fryer cooking measurements?",
+            "@type": "Question",
+            "name": "Where can I find more conversion resources for air fryer cooking measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You can find comprehensive conversion resources at airfryerrecipe.co.uk, including detailed charts and calculators for various measurements. Our website features a dedicated <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> that includes kg to pounds conversions and many other useful measurements. Additionally, we provide recipe-specific conversion guides and measurement tips tailored to air fryer cooking techniques. These resources help ensure your air frying adventures are always successful and delicious."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "42 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "42 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds",
     "description": "Convert 42 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "42 kg to pounds",
+            "name": "42 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

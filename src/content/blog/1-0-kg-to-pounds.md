@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds"
   },
-  "headline": "Quick 1.0 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 1.0 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and avoid cooking mistakes with our easy guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 1.0 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 1.0 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and avoid cooking mistakes with our easy guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-20T00:27:11.141Z",
-  "dateModified": "2025-08-20T00:27:11.141Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-0-kg-to-pounds.webp"
+        "datePublished": "2025-08-20T00:27:11.141Z",
+        "dateModified": "2025-08-20T00:27:11.141Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-0-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why is it important to convert 1.0 kg to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why is it important to convert 1.0 kg to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 1.0 kg to pounds is crucial for air frying because accurate portions ensure proper air circulation and even cooking. Overloading the basket with too much food, like a full kilogram, can lead to steaming instead of crisping, resulting in soggy, unevenly cooked meals. Knowing that 1.0 kg equals approximately 2.2 pounds helps you follow recipes correctly and adjust quantities for your specific air fryer model's capacity."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 1.0 kg exactly 2.2 pounds?",
+            "@type": "Question",
+            "name": "Is 1.0 kg exactly 2.2 pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "1.0 kg is precisely 2.20462 pounds, but for practical cooking purposes, it is perfectly acceptable to round it to 2.2 pounds. This slight rounding makes mental calculations easier and has no noticeable impact on your air fryer results. The key is consistency—whether you use the exact figure or the rounded version, stick with it for all your measurements to ensure reliable outcomes every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I convert 1.0 kg to pounds and ounces for baking in the air fryer?",
+            "@type": "Question",
+            "name": "How do I convert 1.0 kg to pounds and ounces for baking in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 1.0 kg to pounds and ounces, first multiply 1.0 by 2.20462 to get 2.20462 pounds. The whole number is 2 pounds. Then, take the decimal part (0.20462) and multiply it by 16 to get the ounces, which is approximately 3.27 ounces. So, 1.0 kg is about 2 pounds and 3.3 ounces. For air fryer baking, where precision matters, using a digital scale that switches between units is recommended for perfect results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a full 1.0 kg of food in my air fryer at once?",
+            "@type": "Question",
+            "name": "Can I cook a full 1.0 kg of food in my air fryer at once?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It depends on your air fryer's capacity and the type of food. While 1.0 kg (2.2 lbs) might fit in a large family-sized air fryer, it's essential to avoid overcrowding to allow proper hot air circulation. For items like fries or chicken wings, you may need to cook in batches for the crispiest results. Always check your appliance's manual for maximum weight recommendations and layer food in a single layer for best performance."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "1.0 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "1.0 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds",
     "description": "Convert 1.0 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and avoid cooking mistakes with our easy guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "1.0 kg to pounds",
+            "name": "1.0 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/1-0-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

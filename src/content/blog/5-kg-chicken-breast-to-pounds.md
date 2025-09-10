@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds"
   },
-  "headline": "Quick 5 kg Chicken Breast to Pounds Conversion Guide",
-  "description": "Convert 5 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer meal prep and portion planning. Get cooking today!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 5 kg Chicken Breast to Pounds Conversion Guide",
+        "description": "Convert 5 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer meal prep and portion planning. Get cooking today!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T17:40:31.379Z",
-  "dateModified": "2025-08-22T17:40:31.379Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-kg-chicken-breast-to-pounds.webp"
+        "datePublished": "2025-08-22T17:40:31.379Z",
+        "dateModified": "2025-08-22T17:40:31.379Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-kg-chicken-breast-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversion"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversion"
   },
-  "articleSection": "Conversion",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversion",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is exactly 5 kg of chicken breast?",
+            "@type": "Question",
+            "name": "How many pounds is exactly 5 kg of chicken breast?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "5 kg of chicken breast converts to exactly 11.023113 pounds, though for practical cooking purposes, most people round this to 11 pounds. The precise conversion uses the standard rate where 1 kilogram equals 2.20462262 pounds, so multiplying 5 by this figure gives you the exact pound equivalent. When air frying, this slight decimal difference won't significantly affect your cooking results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Should I convert 5 kg chicken breast to pounds before or after trimming?",
+            "@type": "Question",
+            "name": "Should I convert 5 kg chicken breast to pounds before or after trimming?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "You should convert 5 kg chicken breast to pounds based on the weight you actually plan to cook. If you purchase 5 kg of untrimmed chicken breast, the conversion to approximately 11 pounds applies to that total weight. However, after trimming away excess fat and connective tissue, the actual cooked weight will be slightly less. For most air fryer recipes, it's best to work with the trimmed weight for accurate portioning and cooking times."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 5 kg to pounds affect my air fryer cooking time?",
+            "@type": "Question",
+            "name": "How does converting 5 kg to pounds affect my air fryer cooking time?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 5 kg chicken breast to pounds (approximately 11 pounds) helps you understand the total quantity you're working with, but air fryer cooking times are based on portion size and thickness rather than total weight. You'll typically need to cook in batches to avoid overcrowding, with each batch taking 15-20 minutes at 180°C depending on thickness. The conversion knowledge mainly helps with meal planning and portion division rather than directly adjusting cooking times."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use the same conversion for other types of chicken besides breast?",
+            "@type": "Question",
+            "name": "Can I use the same conversion for other types of chicken besides breast?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion of 5 kg to approximately 11 pounds applies to all chicken parts, including thighs, wings, and drumsticks, as the conversion is based on weight rather than cut. However, different chicken parts may require adjusted air fryer cooking times and temperatures. While the weight conversion remains consistent, cooking techniques might vary – for example, chicken thighs often benefit from slightly longer cooking times than breast meat at the same temperature."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "5 kg chicken breast to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds",
+            "@type": "WebPage",
+            "name": "5 kg chicken breast to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds",
     "description": "Convert 5 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer meal prep and portion planning. Get cooking today!",
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "5 kg chicken breast to pounds",
+            "name": "5 kg chicken breast to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

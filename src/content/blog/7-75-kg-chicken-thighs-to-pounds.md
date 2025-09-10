@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds"
   },
-  "headline": "Easy 7.75 kg chicken thighs to pounds conversion guide",
-  "description": "Convert 7.75 kg chicken thighs to pounds instantly with our simple guide. Perfect for air fryer meal prep and cooking accuracy.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 7.75 kg chicken thighs to pounds conversion guide",
+        "description": "Convert 7.75 kg chicken thighs to pounds instantly with our simple guide. Perfect for air fryer meal prep and cooking accuracy.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T17:40:31.379Z",
-  "dateModified": "2025-08-22T17:40:31.379Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-75-kg-chicken-thighs-to-pounds.webp"
+        "datePublished": "2025-08-22T17:40:31.379Z",
+        "dateModified": "2025-08-22T17:40:31.379Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-75-kg-chicken-thighs-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 7.75 kg of chicken thighs exactly?",
+            "@type": "Question",
+            "name": "How many pounds is 7.75 kg of chicken thighs exactly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "7.75 kg of chicken thighs converts to exactly 17.085805 pounds. For practical cooking purposes, this is typically rounded to 17.09 pounds or simply 17 pounds. The precise conversion uses the standard formula where 1 kilogram equals 2.20462 pounds.\n\nWhen working with air fryer recipes, this level of precision ensures proper cooking times and seasoning ratios. Most kitchen scales will display either the exact conversion or allow you to switch between metric and imperial measurements for accuracy."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 7.75 kg chicken thighs to pounds for air frying?",
+            "@type": "Question",
+            "name": "Why would I need to convert 7.75 kg chicken thighs to pounds for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 7.75 kg chicken thighs to pounds is essential for following recipes accurately, especially those from American sources that use imperial measurements. Air fryer cooking requires precise portion sizes to ensure proper air circulation and even cooking.\n\nKnowing the pound equivalent helps with meal planning, grocery shopping, and ensuring you don't overload your air fryer basket. Overcrowding leads to unevenly cooked food, so this conversion helps you divide large batches appropriately for perfect results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook 7.75 kg of chicken thighs all at once in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook 7.75 kg of chicken thighs all at once in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most home air fryers cannot accommodate 7.75 kg (approximately 17 pounds) of chicken thighs all at once. Air fryers work best with single layers that allow hot air to circulate freely around each piece. Cooking in batches is recommended for this quantity.\n\nTypically, you'll need to divide the chicken thighs into several batches, depending on your air fryer's capacity. This ensures each piece cooks evenly and develops that desirable crispy texture. Allow extra time for multiple batches when planning your meal preparation."
     }
     },
     {
-    "@type": "Question",
-    "name": "How should I store 7.75 kg of cooked chicken thighs from my air fryer?",
+            "@type": "Question",
+            "name": "How should I store 7.75 kg of cooked chicken thighs from my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After cooking 7.75 kg of chicken thighs in your air fryer, allow them to cool completely before storage. Divide into meal-sized portions and place in airtight containers or freezer bags. Refrigerated chicken will keep for 3-4 days, while frozen chicken lasts 2-3 months.\n\nProper storage maintains food safety and quality. Label containers with dates and contents for easy identification. When reheating, use your air fryer to restore the crispy texture without drying out the chicken."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "7.75 kg chicken thighs to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds",
+            "@type": "WebPage",
+            "name": "7.75 kg chicken thighs to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds",
     "description": "Convert 7.75 kg chicken thighs to pounds instantly with our simple guide. Perfect for air fryer meal prep and cooking accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "7.75 kg chicken thighs to pounds",
+            "name": "7.75 kg chicken thighs to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-chicken-thighs-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

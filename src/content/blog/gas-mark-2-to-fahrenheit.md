@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit"
   },
-  "headline": "Gas Mark 2 to Fahrenheit Conversion Guide | Air Fryer Tips",
-  "description": "Convert Gas Mark 2 to Fahrenheit (300°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipes for British kitchens.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Gas Mark 2 to Fahrenheit Conversion Guide | Air Fryer Tips",
+        "description": "Convert Gas Mark 2 to Fahrenheit (300°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipes for British kitchens.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-21T12:06:53.392Z",
-  "dateModified": "2025-07-21T12:06:53.392Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-2-to-fahrenheit.png"
+        "datePublished": "2025-07-21T12:06:53.392Z",
+        "dateModified": "2025-07-21T12:06:53.392Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-2-to-fahrenheit.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "GasMark"
+        "about": {
+            "@type": "Thing",
+            "name": "GasMark"
   },
-  "articleSection": "GasMark",
-  "inLanguage": "en-GB"
+        "articleSection": "GasMark",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use Gas Mark 2 Fahrenheit settings for all types of cooking in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use Gas Mark 2 Fahrenheit settings for all types of cooking in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While 300°F (Gas Mark 2) works well for gentle cooking methods, it's not ideal for all foods. Use it for slow roasting, baking delicate items, or dehydrating, but choose higher temperatures for crisping or quick-cooking foods like chips or chicken wings."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does Gas Mark 2 compare to other common air fryer temperatures?",
+            "@type": "Question",
+            "name": "How does Gas Mark 2 compare to other common air fryer temperatures?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Gas Mark 2 (300°F) sits between low and medium heat settings. It's cooler than typical air fryer roasting temperatures (usually 350-400°F) but warmer than proofing or dehydrating settings. It's perfect when recipes need gentle, even heat without browning."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my food cook faster at Gas Mark 2 equivalent in the air fryer versus my oven?",
+            "@type": "Question",
+            "name": "Why does my food cook faster at Gas Mark 2 equivalent in the air fryer versus my oven?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers circulate hot air more efficiently than conventional ovens, so food cooks faster even at the same temperature (300°F/Gas Mark 2). The concentrated heat transfer means you'll typically need 20-25% less cooking time compared to traditional oven recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I convert Gas Mark 2 to Fahrenheit for all air fryer models?",
+            "@type": "Question",
+            "name": "Can I convert Gas Mark 2 to Fahrenheit for all air fryer models?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, all air fryers can use the 300°F equivalent of Gas Mark 2, though cooking times may vary slightly between models. Compact air fryers might cook slightly faster than oven-style models at this temperature, so always check food a few minutes early."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Gas Mark 2 to Fahrenheit",
-    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit",
+            "@type": "WebPage",
+            "name": "Gas Mark 2 to Fahrenheit",
+            "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit",
     "description": "Convert Gas Mark 2 to Fahrenheit (300°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipes for British kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Gas Mark 2 to Fahrenheit",
+            "name": "Gas Mark 2 to Fahrenheit",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

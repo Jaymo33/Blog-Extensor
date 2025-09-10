@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer"
   },
-  "headline": "Can You Use Pyrex in an Air Fryer? Safety Guide",
-  "description": "Wondering if Pyrex bowls are air fryer safe? Learn the risks, alternatives, and expert tips for using glassware in your air fryer safely.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Can You Use Pyrex in an Air Fryer? Safety Guide",
+        "description": "Wondering if Pyrex bowls are air fryer safe? Learn the risks, alternatives, and expert tips for using glassware in your air fryer safely.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T23:30:57.071Z",
-  "dateModified": "2025-07-22T23:30:57.071Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-pyrex-bowl-in-air-fryer.png"
+        "datePublished": "2025-07-22T23:30:57.071Z",
+        "dateModified": "2025-07-22T23:30:57.071Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-pyrex-bowl-in-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
   },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use Pyrex in my Ninja air fryer for baking?",
+            "@type": "Question",
+            "name": "Can I use Pyrex in my Ninja air fryer for baking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, Ninja doesn't recommend using Pyrex in any of their air fryer models. The rapid air circulation creates temperature fluctuations that can crack glass. Use the included metal basket or Ninja-approved accessories instead."
     }
     },
     {
-    "@type": "Question",
-    "name": "What temperature is safe for Pyrex in an air fryer?",
+            "@type": "Question",
+            "name": "What temperature is safe for Pyrex in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "There's no truly safe temperature for Pyrex in air fryers. Even at 150°C, the concentrated heat flow risks thermal shock. For low-temperature cooking, use silicone or metal containers designed for air fryers."
     }
     },
     {
-    "@type": "Question",
-    "name": "Has anyone successfully used Pyrex in an air fryer?",
+            "@type": "Question",
+            "name": "Has anyone successfully used Pyrex in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While some users report limited success with small Pyrex dishes at low temps, these are anecdotal exceptions. The risk of sudden breakage isn't worth potential savings in washing one less dish."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reheat soup in a Pyrex bowl in the air fryer?",
+            "@type": "Question",
+            "name": "Can I reheat soup in a Pyrex bowl in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Reheating liquids in Pyrex is particularly dangerous as the contents heat unevenly. Use a microwave or transfer soup to a stovetop-safe container instead. For air fryer soups, try our silicone pot recipes at airfryerrecipe.co.uk."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Pyrex Bowl in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Pyrex Bowl in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer",
     "description": "Wondering if Pyrex bowls are air fryer safe? Learn the risks, alternatives, and expert tips for using glassware in your air fryer safely.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Can You Put Pyrex Bowl in an Air Fryer?",
+            "name": "Can You Put Pyrex Bowl in an Air Fryer?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

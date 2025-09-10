@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer"
   },
-  "headline": "Reynolds Parchment in Air Fryer: Safety & Usage Guide",
-  "description": "Wondering if Reynolds parchment is air fryer safe? Learn how to use it correctly, avoid melting risks, and keep your air fryer damage-free.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Reynolds Parchment in Air Fryer: Safety & Usage Guide",
+        "description": "Wondering if Reynolds parchment is air fryer safe? Learn how to use it correctly, avoid melting risks, and keep your air fryer damage-free.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T23:30:57.071Z",
-  "dateModified": "2025-07-22T23:30:57.071Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-reynolds-parchment-in-an-air-fryer.png"
+        "datePublished": "2025-07-22T23:30:57.071Z",
+        "dateModified": "2025-07-22T23:30:57.071Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-reynolds-parchment-in-an-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
   },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Will Reynolds parchment paper catch fire in my air fryer?",
+            "@type": "Question",
+            "name": "Will Reynolds parchment paper catch fire in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Properly used Reynolds parchment won't catch fire as it's heat-resistant to 220°C. Fires only occur if the parchment touches heating elements or exceeds temperature limits. Always trim to fit your basket and monitor high-heat cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I reuse Reynolds parchment in my air fryer?",
+            "@type": "Question",
+            "name": "Can I reuse Reynolds parchment in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While technically possible, we don't recommend reusing parchment in air fryers. The intense airflow degrades the paper faster than conventional oven use. For sustainability, consider washable silicone mats instead."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does parchment paper affect air fryer cooking times?",
+            "@type": "Question",
+            "name": "Does parchment paper affect air fryer cooking times?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Parchment may slightly increase cooking times by 1-2 minutes as it creates a barrier between food and direct airflow. For accuracy, use our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> to adjust temperatures when using liners."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer manual warn against parchment paper?",
+            "@type": "Question",
+            "name": "Why does my air fryer manual warn against parchment paper?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Some manufacturers prohibit parchment due to potential airflow blockage in compact models. Always check your specific air fryer's guidelines - many newer models actually include parchment-friendly accessories."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Reynolds Parchment in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Reynolds Parchment in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer",
     "description": "Wondering if Reynolds parchment is air fryer safe? Learn how to use it correctly, avoid melting risks, and keep your air fryer damage-free.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Can You Put Reynolds Parchment in an Air Fryer?",
+            "name": "Can You Put Reynolds Parchment in an Air Fryer?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-reynolds-parchment-in-an-air-fryer"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

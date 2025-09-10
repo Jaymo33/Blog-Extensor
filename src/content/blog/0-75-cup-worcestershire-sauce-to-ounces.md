@@ -10,40 +10,40 @@ schema: |
     <script type="application/ld+json">d+json">
     {
     "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces",
+            ""@type": "BlogPosting",
+            ""url": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces",
     "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces"
     },
     "headline": "Quick Answer: 0.75 Cup Worcestershire Sauce to Ounces Conversion",
     "description": "Discover how to convert 0.75 cup of worcestershire sauce to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+            ""@type": "Person",
+            ""name": "AirFryerRecipes.co.uk",
+            ""url": "https://www.airfryerrecipe.co.uk/about",
+            ""image": {
+            ""@type": "ImageObject",
+            ""url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
     },
     "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+            ""@type": "Organization",
+            ""name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+            ""@type": "ImageObject",
+            ""url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
     },
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00",
-    "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-75-cup-worcestershire-sauce-to-ounces.webp"
+            ""image": {
+            ""@type": "ImageObject",
+            ""url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-75-cup-worcestershire-sauce-to-ounces.webp"
     },
     "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+            ""@type": "Thing",
+            ""name": "Measurement"
     },
     "articleSection": "Measurement",
     "inLanguage": "en-GB"
@@ -53,37 +53,37 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            ""@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use a tablespoon to measure 0.75 cup of worcestershire sauce?",
+            ""@type": "Question",
+            ""name": "Can I use a tablespoon to measure 0.75 cup of worcestershire sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Yes, but it’s less precise. Since 0.75 cup equals 12 tablespoons, you’d need to measure carefully. For accuracy, especially in air fryer recipes, a liquid measuring cup or kitchen scale is better."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the brand of worcestershire sauce affect the weight in ounces?",
+            ""@type": "Question",
+            ""name": "Does the brand of worcestershire sauce affect the weight in ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Most brands have similar densities, so 0.75 cup should still be around 6 ounces. However, thicker or reduced-sodium versions might vary slightly. Always check the label if precision is crucial."
     }
     },
     {
-    "@type": "Question",
-    "name": "How can I substitute worcestershire sauce in a recipe if I don’t have 0.75 cup?",
+            ""@type": "Question",
+            ""name": "How can I substitute worcestershire sauce in a recipe if I don’t have 0.75 cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "You can use soy sauce or balsamic vinegar mixed with a bit of sugar, but the flavour won’t be identical. Adjust the quantity to match the 6-ounce measurement for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is my air fryer recipe too salty when using 0.75 cup of worcestershire sauce?",
+            ""@type": "Question",
+            ""name": "Why is my air fryer recipe too salty when using 0.75 cup of worcestershire sauce?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Worcestershire sauce is naturally salty. If your dish tastes too salty, try reducing the amount slightly or balancing it with a sweet or acidic ingredient like honey or lemon juice."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How many ounces is 0.75 cup of worcestershire sauce?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces",
+            ""@type": "WebPage",
+            ""name": "How many ounces is 0.75 cup of worcestershire sauce?",
+            ""url": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces",
     "description": "Discover how to convert 0.75 cup of worcestershire sauce to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces#breadcrumbs",
+            ""@type": "BreadcrumbList",
+            ""name": "Breadcrumbs",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            ""@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            ""name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            ""@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            ""name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            ""@type": "ListItem",
     "position": 3,
-    "name": "How many ounces is 0.75 cup of worcestershire sauce?",
+            ""name": "How many ounces is 0.75 cup of worcestershire sauce?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces"
+            ""@type": "WebPage",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-75-cup-worcestershire-sauce-to-ounces"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            ""@type": "WebSite",
+            ""url": "https://www.airfryerrecipe.co.uk",
+            ""name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            ""@type": "Organization",
+            ""name": "Air Fryer Recipes",
+            ""url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            ""@type": "ImageObject",
+            ""url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            ""@type": "Country",
+            ""name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            ""@type": "Country",
+            ""name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            ""@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

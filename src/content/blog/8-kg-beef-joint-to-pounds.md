@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds"
   },
-  "headline": "Quick 8 kg Beef Joint to Pounds Conversion for Perfect Roasts",
-  "description": "Convert 8 kg beef joint to pounds instantly for perfect air fryer roasting. Get precise measurements, cooking times, and expert tips for juicy results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 8 kg Beef Joint to Pounds Conversion for Perfect Roasts",
+        "description": "Convert 8 kg beef joint to pounds instantly for perfect air fryer roasting. Get precise measurements, cooking times, and expert tips for juicy results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T19:48:49.567Z",
-  "dateModified": "2025-08-23T19:48:49.567Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-beef-joint-to-pounds.webp"
+        "datePublished": "2025-08-23T19:48:49.567Z",
+        "dateModified": "2025-08-23T19:48:49.567Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-beef-joint-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How do I convert 8 kg beef joint to pounds and ounces?",
+            "@type": "Question",
+            "name": "How do I convert 8 kg beef joint to pounds and ounces?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "To convert 8 kg beef joint to pounds and ounces, first multiply 8 by 2.20462 to get the total pounds (17.63696). The whole number is 17 pounds. To find the ounces, multiply the decimal portion (0.63696) by 16, which gives you approximately 10.19 ounces. So 8 kg equals 17 pounds and 10.19 ounces. For practical cooking purposes, most people round this to 17 pounds 10 ounces."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook an 8 kg beef joint in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook an 8 kg beef joint in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most standard basket-style air fryers cannot accommodate an 8 kg beef joint (approximately 17.64 pounds) due to size constraints. You would need an oven-style or large capacity air fryer with sufficient space for such a large cut. Always check your air fryer's maximum capacity and dimensions before attempting to cook a joint this size. The meat needs space for air to circulate properly around it for even cooking."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does it take to cook an 8 kg beef joint in an air fryer?",
+            "@type": "Question",
+            "name": "How long does it take to cook an 8 kg beef joint in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Cooking time for an 8 kg beef joint (17.64 pounds) in an air fryer varies based on your desired doneness and specific appliance. Generally, allow approximately 15-18 minutes per pound at 180°C (350°F) for medium-rare results. This would translate to roughly 4.5-5.5 hours for a joint this size. Always use a meat thermometer to check for doneness (135°F/57°C for medium-rare after resting) rather than relying solely on time calculations."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert kg to pounds for a beef joint?",
+            "@type": "Question",
+            "name": "Why would I need to convert kg to pounds for a beef joint?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting kg to pounds for a beef joint is necessary when using recipes or cooking instructions that use imperial measurements, which is common in American cookbooks and online resources. Butchers in different countries may use different measurement systems, so conversion ensures you purchase the correct amount of meat. Accurate conversion also helps with calculating proper cooking times, especially important for large joints where undercooking or overcooking can ruin an expensive cut of meat."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "8 kg beef joint to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds",
+            "@type": "WebPage",
+            "name": "8 kg beef joint to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds",
     "description": "Convert 8 kg beef joint to pounds instantly for perfect air fryer roasting. Get precise measurements, cooking times, and expert tips for juicy results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "8 kg beef joint to pounds",
+            "name": "8 kg beef joint to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-beef-joint-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

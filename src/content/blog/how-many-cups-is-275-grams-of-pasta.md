@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta"
   },
-  "headline": "Quick Answer: How Many Cups Is 275 Grams of Pasta?",
-  "description": "Discover how to convert 275 grams of pasta to cups for perfect air fryer meals. Get precise measurements and cooking tips here!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Cups Is 275 Grams of Pasta?",
+        "description": "Discover how to convert 275 grams of pasta to cups for perfect air fryer meals. Get precise measurements and cooking tips here!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-26T21:31:12.635Z",
-  "dateModified": "2025-07-26T21:31:12.635Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-pasta.png"
+        "datePublished": "2025-07-26T21:31:12.635Z",
+        "dateModified": "2025-07-26T21:31:12.635Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-pasta.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does 275 grams of pasta equal the same cups in the UK and USA?",
+            "@type": "Question",
+            "name": "Does 275 grams of pasta equal the same cups in the UK and USA?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, cup measurements for dry pasta are consistent between the UK and USA, as both use the standard 240ml metric cup. However, slight variations can occur based on how densely the pasta is packed. For air fryer recipes, weighing (275 grams) is more reliable than cup conversions."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I air fry 275 grams of pasta without pre-boiling it?",
+            "@type": "Question",
+            "name": "Can I air fry 275 grams of pasta without pre-boiling it?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most pasta requires pre-boiling to soften before air frying, as dry pasta won’t cook evenly in an air fryer alone. For dishes like pasta bakes, boil 275 grams of pasta until al dente, then air fry with sauces or toppings for crispiness."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many servings is 275 grams of pasta?",
+            "@type": "Question",
+            "name": "How many servings is 275 grams of pasta?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "275 grams of dry pasta serves 2–3 people, depending on appetite and accompanying dishes. Once cooked, it expands to roughly 4–5 cups, enough for a family-sized air fryer meal. Pair with proteins or veggies for balance."
     }
     },
     {
-    "@type": "Question",
-    "name": "What’s the best pasta shape for air frying?",
+            "@type": "Question",
+            "name": "What’s the best pasta shape for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Short, sturdy shapes like penne, fusilli, or farfalle work best in air fryers, as they crisp evenly. Avoid long pasta like spaghetti unless broken into smaller pieces. For recipes, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 275 Grams of Pasta?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 275 Grams of Pasta?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta",
     "description": "Discover how to convert 275 grams of pasta to cups for perfect air fryer meals. Get precise measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:12.635000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 275 Grams of Pasta?",
+            "name": "How Many Cups Is 275 Grams of Pasta?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-pasta"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

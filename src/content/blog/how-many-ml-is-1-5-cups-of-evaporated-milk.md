@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk"
   },
-  "headline": "Quick Answer: How Many ml Is 1.5 Cups of Evaporated Milk?",
-  "description": "Convert 1.5 cups of evaporated milk to ml with ease. Perfect for air fryer recipes and precise baking measurements. Get the exact conversion now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many ml Is 1.5 Cups of Evaporated Milk?",
+        "description": "Convert 1.5 cups of evaporated milk to ml with ease. Perfect for air fryer recipes and precise baking measurements. Get the exact conversion now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-28T21:44:47.024Z",
-  "dateModified": "2025-07-28T21:44:47.024Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-5-cups-of-evaporated-milk.webp"
+        "datePublished": "2025-07-28T21:44:47.024Z",
+        "dateModified": "2025-07-28T21:44:47.024Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-5-cups-of-evaporated-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Volume"
+        "about": {
+            "@type": "Thing",
+            "name": "Volume"
   },
-  "articleSection": "Volume",
-  "inLanguage": "en-GB"
+        "articleSection": "Volume",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use fresh milk instead of evaporated milk in my air fryer recipe?",
+            "@type": "Question",
+            "name": "Can I use fresh milk instead of evaporated milk in my air fryer recipe?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute fresh milk, but the texture and richness will differ. Evaporated milk is concentrated, so using fresh milk may result in a thinner consistency. For best results, reduce the fresh milk by simmering it to half its volume before use."
     }
     },
     {
-    "@type": "Question",
-    "name": "Does the brand of evaporated milk affect the ml measurement?",
+            "@type": "Question",
+            "name": "Does the brand of evaporated milk affect the ml measurement?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, the brand doesn’t change the volume conversion. Whether it’s Carnation or a supermarket own brand, 1.5 cups of evaporated milk will always equal 355 ml. The difference lies in taste and quality, not measurement."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I measure 1.5 cups of evaporated milk without a measuring jug?",
+            "@type": "Question",
+            "name": "How do I measure 1.5 cups of evaporated milk without a measuring jug?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "If you don’t have a measuring jug, use a kitchen scale. Weigh out 340 grams of evaporated milk, which is roughly equivalent to 1.5 cups or 355 ml. Alternatively, use a standard mug—a UK mug holds about 250 ml, so 1.5 cups would be slightly less than 1.5 mugs."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why is evaporated milk commonly used in air fryer recipes?",
+            "@type": "Question",
+            "name": "Why is evaporated milk commonly used in air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Evaporated milk’s thick, creamy texture works well in air fryer recipes, providing moisture without making dishes soggy. It’s ideal for custards, sauces, and baked goods, where precision in measurement (like 1.5 cups or 355 ml) ensures perfect results every time."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many ml Is 1.5 Cups of Evaporated Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk",
+            "@type": "WebPage",
+            "name": "How Many ml Is 1.5 Cups of Evaporated Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk",
     "description": "Convert 1.5 cups of evaporated milk to ml with ease. Perfect for air fryer recipes and precise baking measurements. Get the exact conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T21:44:47.024000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many ml Is 1.5 Cups of Evaporated Milk?",
+            "name": "How Many ml Is 1.5 Cups of Evaporated Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-evaporated-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

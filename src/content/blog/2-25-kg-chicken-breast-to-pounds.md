@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds"
   },
-  "headline": "Easy 2.25 kg chicken breast to pounds conversion guide",
-  "description": "Convert 2.25 kg chicken breast to pounds instantly with our simple guide. Perfect for air fryer recipes and meal prep planning.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 2.25 kg chicken breast to pounds conversion guide",
+        "description": "Convert 2.25 kg chicken breast to pounds instantly with our simple guide. Perfect for air fryer recipes and meal prep planning.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T00:37:28.394Z",
-  "dateModified": "2025-08-22T00:37:28.394Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-chicken-breast-to-pounds.webp"
+        "datePublished": "2025-08-22T00:37:28.394Z",
+        "dateModified": "2025-08-22T00:37:28.394Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-chicken-breast-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is 2.25 kg of chicken breast exactly?",
+            "@type": "Question",
+            "name": "How many pounds is 2.25 kg of chicken breast exactly?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "2.25 kg of chicken breast converts to approximately 4.96 pounds. This conversion uses the standard formula where 1 kilogram equals 2.20462 pounds, so multiplying 2.25 by this conversion factor gives you the precise measurement.\n\nFor most practical purposes in the kitchen, you can round this to 5 pounds when meal planning or following recipes, as the difference is minimal and won't significantly affect cooking times or results in your air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would I need to convert 2.25 kg chicken breast to pounds for air fryer cooking?",
+            "@type": "Question",
+            "name": "Why would I need to convert 2.25 kg chicken breast to pounds for air fryer cooking?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 2.25 kg chicken breast to pounds is essential when following recipes that use imperial measurements, which is common with American recipes and many online cooking resources. Accurate measurements ensure proper cooking times and temperatures in your air fryer, as quantity directly affects how food cooks in these appliances.\n\nKnowing the pound equivalent also helps with meal planning and portion control, especially when shopping or dividing chicken for multiple meals. This conversion prevents overcrowding your air fryer basket, which is crucial for achieving crispy, evenly cooked chicken."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook 2.25 kg of chicken breast in one go in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook 2.25 kg of chicken breast in one go in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most standard home air fryers cannot accommodate 2.25 kg (approximately 5 pounds) of chicken breast in a single batch without overcrowding. Air fryers require space between food items for proper air circulation, which is essential for even cooking and achieving that desirable crispy texture.\n\nFor best results, cook your chicken in batches, allowing each batch to have enough space in the basket. Between batches, you can keep cooked chicken warm in a low oven while preparing the remainder. Some larger capacity air fryer models might handle this quantity, but checking your specific model's capacity guidelines is recommended."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does converting 2.25 kg to pounds affect cooking time in my air fryer?",
+            "@type": "Question",
+            "name": "How does converting 2.25 kg to pounds affect cooking time in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The conversion from 2.25 kg to pounds itself doesn't change cooking time, but the total quantity of chicken does affect how you approach air frying. Since 2.25 kg (approximately 5 pounds) is a substantial amount, you'll likely need to cook in batches, with each batch taking roughly 15-20 minutes at 190°C depending on thickness.\n\nThe important factor is ensuring each piece has space around it in the air fryer basket, regardless of whether you measure in kilograms or pounds. Cooking in proper batches maintains consistent results, while overcrowding would significantly increase cooking time and lead to uneven results with some pieces undercooked and others overdone."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "2.25 kg chicken breast to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds",
+            "@type": "WebPage",
+            "name": "2.25 kg chicken breast to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds",
     "description": "Convert 2.25 kg chicken breast to pounds instantly with our simple guide. Perfect for air fryer recipes and meal prep planning.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "2.25 kg chicken breast to pounds",
+            "name": "2.25 kg chicken breast to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-breast-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

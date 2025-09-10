@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds"
   },
-  "headline": "Easy 4 kg Salmon Fillet to Pounds Conversion Guide",
-  "description": "Convert 4 kg salmon fillet to pounds instantly. Get perfect air fryer portions and cooking times with our simple guide and handy chart.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 4 kg Salmon Fillet to Pounds Conversion Guide",
+        "description": "Convert 4 kg salmon fillet to pounds instantly. Get perfect air fryer portions and cooking times with our simple guide and handy chart.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T19:48:49.567Z",
-  "dateModified": "2025-08-23T19:48:49.567Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-salmon-fillet-to-pounds.webp"
+        "datePublished": "2025-08-23T19:48:49.567Z",
+        "dateModified": "2025-08-23T19:48:49.567Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-salmon-fillet-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many pounds is exactly 4 kg of salmon fillet?",
+            "@type": "Question",
+            "name": "How many pounds is exactly 4 kg of salmon fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "4 kilograms of salmon fillet equals exactly 8.81848 pounds, though for practical cooking purposes we typically round this to 8.82 pounds. This conversion uses the standard factor where 1 kilogram equals 2.20462 pounds. When working with air fryer recipes, this precise conversion helps determine correct cooking times and portion sizes for perfect results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "Should I cook a 4 kg salmon fillet whole or portion it for the air fryer?",
+            "@type": "Question",
+            "name": "Should I cook a 4 kg salmon fillet whole or portion it for the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "For most home air fryers, we recommend portioning a 4 kg salmon fillet before cooking. Most air fryer baskets cannot accommodate a whole 8.82-pound fillet comfortably, and smaller pieces cook more evenly and quickly. Cut the fillet into steaks or individual portions that fit in a single layer without overcrowding. This ensures proper air circulation and consistent doneness throughout all pieces, giving you perfectly cooked salmon every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How long does it take to air fry a 4 kg salmon fillet?",
+            "@type": "Question",
+            "name": "How long does it take to air fry a 4 kg salmon fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A 4 kg salmon fillet (approximately 8.82 pounds) typically takes about 80-100 minutes to air fry at 180°C, depending on thickness and your specific air fryer model. However, we strongly recommend checking for doneness starting at 70 minutes using a meat thermometer. The salmon is ready when it reaches an internal temperature of 63°C and flakes easily with a fork. Always adjust cooking time based on your appliance's performance and the fillet's thickness rather than relying solely on time estimates."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I freeze portions of a 4 kg salmon fillet after converting the weight?",
+            "@type": "Question",
+            "name": "Can I freeze portions of a 4 kg salmon fillet after converting the weight?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! Converting your 4 kg salmon fillet to pounds (8.82 pounds) helps you portion and freeze it effectively. Divide the fillet into meal-sized portions, wrap tightly in cling film or vacuum seal, label with the weight in both kilograms and pounds, and freeze for up to 3 months. This allows you to enjoy perfectly sized portions for air frying whenever you want, without needing to thaw and refreeze the entire fillet. Proper freezing maintains texture and flavour beautifully."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "4 kg salmon fillet to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "4 kg salmon fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds",
     "description": "Convert 4 kg salmon fillet to pounds instantly. Get perfect air fryer portions and cooking times with our simple guide and handy chart.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "4 kg salmon fillet to pounds",
+            "name": "4 kg salmon fillet to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-salmon-fillet-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark"
   },
-  "headline": "255 F to Gas Mark: Oven & Air Fryer Conversion Guide",
-  "description": "Convert 255°F to Gas Mark for ovens & air fryers. Includes baking tips, temperature charts, and how to adjust recipes for perfect results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "255 F to Gas Mark: Oven & Air Fryer Conversion Guide",
+        "description": "Convert 255°F to Gas Mark for ovens & air fryers. Includes baking tips, temperature charts, and how to adjust recipes for perfect results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-20T15:10:58.488Z",
-  "dateModified": "2025-07-20T15:10:58.488Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/255-f-to-gas-mark.png"
+        "datePublished": "2025-07-20T15:10:58.488Z",
+        "dateModified": "2025-07-20T15:10:58.488Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/255-f-to-gas-mark.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "GasMark"
+        "about": {
+            "@type": "Thing",
+            "name": "GasMark"
   },
-  "articleSection": "GasMark",
-  "inLanguage": "en-GB"
+        "articleSection": "GasMark",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use 255 F in my air fryer for proofing bread dough?",
+            "@type": "Question",
+            "name": "Can I use 255 F in my air fryer for proofing bread dough?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, 255 F (Gas Mark 1/4) creates an ideal proofing environment in air fryers. Place your dough in a heatproof bowl, cover with a damp towel, and run the air fryer for 2-3 minutes to warm slightly before turning it off. The residual warmth helps dough rise without overheating."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why would a recipe use 255 F instead of a higher temperature?",
+            "@type": "Question",
+            "name": "Why would a recipe use 255 F instead of a higher temperature?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Recipes use 255 F (Gas Mark 1/4) for delicate processes that would burn or curdle at higher heats - melting chocolate, dehydrating herbs, slow-cooking egg dishes, or keeping foods warm without continuing to cook them. It's also used in multi-stage recipes where different components need varying temperatures."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I know if my air fryer maintains accurate temperature at 255 F?",
+            "@type": "Question",
+            "name": "How do I know if my air fryer maintains accurate temperature at 255 F?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Test your air fryer's accuracy by placing an oven thermometer in the basket and running it at 255 F for 5 minutes. Quality air fryers typically maintain ±5°F accuracy. If yours varies significantly, you may need to adjust cooking times or contact the manufacturer about calibration."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook frozen foods at 255 F in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook frozen foods at 255 F in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While possible, 255 F (Gas Mark 1/4) is too low for most frozen foods. It would take excessively long to cook through safely. For frozen items, we recommend starting at 360 F (Gas Mark 4), then reducing to 255 F only if keeping warm after thorough cooking. Always check internal temperatures for food safety."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "255 F to Gas Mark",
-    "url": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark",
+            "@type": "WebPage",
+            "name": "255 F to Gas Mark",
+            "url": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark",
     "description": "Convert 255°F to Gas Mark for ovens & air fryers. Includes baking tips, temperature charts, and how to adjust recipes for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T15:10:58.488000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "255 F to Gas Mark",
+            "name": "255 F to Gas Mark",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

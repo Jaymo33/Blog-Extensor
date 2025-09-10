@@ -9,81 +9,81 @@ author: "AirFryerRecipe.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer"
   },
-  "headline": "Baking Tin in Air Fryer: Safety & Compatibility Guide",
-  "description": "Wondering if you can put a baking tin in an air fryer? Learn about safety, risks, and best practices for using metal tins in your air fryer.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipe.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Baking Tin in Air Fryer: Safety & Compatibility Guide",
+        "description": "Wondering if you can put a baking tin in an air fryer? Learn about safety, risks, and best practices for using metal tins in your air fryer.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipe.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-22T23:30:57.071Z",
-  "dateModified": "2025-07-22T23:30:57.071Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-baking-tin-in-an-air-fryer.png"
+        "datePublished": "2025-07-22T23:30:57.071Z",
+        "dateModified": "2025-07-22T23:30:57.071Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-baking-tin-in-an-air-fryer.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
   },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use any baking tin in my air fryer?",
+            "@type": "Question",
+            "name": "Can I use any baking tin in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Not all baking tins are suitable. Choose oven-safe metal tins that fit comfortably in your air fryer basket without touching the sides or heating element. Avoid oversized or unusually shaped tins that could block airflow."
     }
     },
     {
-    "@type": "Question",
-    "name": "Will using a baking tin damage my air fryer?",
+            "@type": "Question",
+            "name": "Will using a baking tin damage my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Properly used baking tins won’t damage your air fryer. The main risks are scratching the basket or blocking airflow. Always check the tin fits with adequate space around it and isn’t taller than your air fryer’s clearance."
     }
     },
     {
-    "@type": "Question",
-    "name": "What foods cook best in a baking tin in the air fryer?",
+            "@type": "Question",
+            "name": "What foods cook best in a baking tin in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Small cakes, brownies, frittatas, and individual portions of baked dishes work beautifully. The concentrated heat creates excellent texture – try our air fryer cookie recipes in a 6-inch tin for perfect results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I prevent food from sticking when using a baking tin?",
+            "@type": "Question",
+            "name": "How do I prevent food from sticking when using a baking tin?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Lightly grease the tin with oil or use parchment liners cut to size. For sticky batters, dust the greased tin with flour. Non-stick baking spray works well too – just avoid aerosol sprays near the air fryer’s heating element."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Baking Tin in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
+            "@type": "WebPage",
+            "name": "Can You Put Baking Tin in an Air Fryer?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
     "description": "Wondering if you can put a baking tin in an air fryer? Learn about safety, risks, and best practices for using metal tins in your air fryer.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
@@ -107,9 +107,9 @@ schema: |
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
         {
             "@type": "ListItem",
@@ -163,9 +163,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -174,25 +174,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

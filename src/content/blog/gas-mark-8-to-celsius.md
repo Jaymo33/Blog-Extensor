@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius"
   },
-  "headline": "Gas Mark 8 to Celsius Conversion for Air Fryers",
-  "description": "Convert Gas Mark 8 to Celsius (230°C) for perfect air fryer cooking. Includes temperature guides and recipe tips for UK kitchens.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Gas Mark 8 to Celsius Conversion for Air Fryers",
+        "description": "Convert Gas Mark 8 to Celsius (230°C) for perfect air fryer cooking. Includes temperature guides and recipe tips for UK kitchens.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-21T12:06:53.392Z",
-  "dateModified": "2025-07-21T12:06:53.392Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-8-to-celsius.png"
+        "datePublished": "2025-07-21T12:06:53.392Z",
+        "dateModified": "2025-07-21T12:06:53.392Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-8-to-celsius.png"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "GasMark"
+        "about": {
+            "@type": "Thing",
+            "name": "GasMark"
   },
-  "articleSection": "GasMark",
-  "inLanguage": "en-GB"
+        "articleSection": "GasMark",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use Gas Mark 8 for all air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use Gas Mark 8 for all air fryer recipes?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "While Gas Mark 8 (230°C) works well for roasting and baking, it's too high for delicate foods like fish or some vegetables. Always check recipe recommendations and adjust temperatures accordingly for different ingredients."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does Gas Mark 8 compare to fan oven temperatures?",
+            "@type": "Question",
+            "name": "How does Gas Mark 8 compare to fan oven temperatures?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Gas Mark 8 equals 230°C in both conventional and fan ovens. However, fan ovens (and air fryers) cook faster due to air circulation, so reduce cooking times by about 20% when converting recipes."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my food cook faster at Gas Mark 8 in the air fryer?",
+            "@type": "Question",
+            "name": "Why does my food cook faster at Gas Mark 8 in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers circulate hot air more efficiently than conventional ovens, meaning heat transfers to food quicker. At 230°C (Gas Mark 8), this rapid heat transfer can reduce cooking times by 15-25% compared to standard ovens."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is it safe to cook at Gas Mark 8 temperatures in an air fryer?",
+            "@type": "Question",
+            "name": "Is it safe to cook at Gas Mark 8 temperatures in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely. Modern air fryers are designed to handle 230°C (Gas Mark 8) safely. Just ensure you don't overcrowd the basket and follow manufacturer guidelines for maximum temperature durations to prevent overheating."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Gas Mark 8 to Celsius",
-    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius",
+            "@type": "WebPage",
+            "name": "Gas Mark 8 to Celsius",
+            "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius",
     "description": "Convert Gas Mark 8 to Celsius (230°C) for perfect air fryer cooking. Includes temperature guides and recipe tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "Gas Mark 8 to Celsius",
+            "name": "Gas Mark 8 to Celsius",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

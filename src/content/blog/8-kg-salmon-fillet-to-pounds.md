@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds"
   },
-  "headline": "Easy 8 kg salmon fillet to pounds conversion for perfect cooking",
-  "description": "Convert 8 kg salmon fillet to pounds instantly for perfect air fryer portions. Get precise measurements and cooking tips for delicious results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Easy 8 kg salmon fillet to pounds conversion for perfect cooking",
+        "description": "Convert 8 kg salmon fillet to pounds instantly for perfect air fryer portions. Get precise measurements and cooking tips for delicious results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-23T23:54:12.977Z",
-  "dateModified": "2025-08-23T23:54:12.977Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-salmon-fillet-to-pounds.webp"
+        "datePublished": "2025-08-23T23:54:12.977Z",
+        "dateModified": "2025-08-23T23:54:12.977Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-salmon-fillet-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversion"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversion"
   },
-  "articleSection": "Conversion",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversion",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "How many people will an 8 kg salmon fillet serve?",
+            "@type": "Question",
+            "name": "How many people will an 8 kg salmon fillet serve?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "An 8 kg salmon fillet converted to approximately 17.64 pounds will serve between 32-40 people, assuming standard portion sizes of 150-200g (5-7 ounces) per person. This makes it perfect for large gatherings, special occasions, or serious meal prepping. If you're serving it as part of a buffet with other dishes, you might get even more servings from your converted salmon fillet."
     }
     },
     {
-    "@type": "Question",
-    "name": "Do I need to adjust air fryer cooking times for an 8 kg salmon fillet?",
+            "@type": "Question",
+            "name": "Do I need to adjust air fryer cooking times for an 8 kg salmon fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, absolutely. When working with an 8 kg salmon fillet converted to pounds, you'll need to portion it into smaller pieces that fit your air fryer basket, and cooking times will depend on the thickness of these portions rather than the total weight. Generally, 1-inch thick portions will need 8-12 minutes at 200°C (390°F), but always check for doneness by ensuring the salmon flakes easily and has reached an internal temperature of 63°C (145°F)."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook an entire 8 kg salmon fillet in my air fryer at once?",
+            "@type": "Question",
+            "name": "Can I cook an entire 8 kg salmon fillet in my air fryer at once?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Most home air fryers cannot accommodate an entire 8 kg salmon fillet (approximately 17.64 pounds) at once due to basket size limitations. You'll need to portion the fillet into smaller pieces that fit comfortably in your air fryer basket with space for air circulation. Overcrowding the basket would prevent proper crisping and result in unevenly cooked salmon. Some larger countertop oven-style air fryers might handle bigger portions, but even then, dividing your converted salmon fillet is recommended for best results."
     }
     },
     {
-    "@type": "Question",
-    "name": "How should I store leftover cooked salmon from my 8 kg fillet?",
+            "@type": "Question",
+            "name": "How should I store leftover cooked salmon from my 8 kg fillet?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After cooking portions from your 8 kg salmon fillet converted to pounds, allow them to cool completely before transferring to airtight containers. Refrigerated cooked salmon will keep for 3-4 days, while properly wrapped portions can be frozen for up to 3 months. When reheating, use your air fryer at 175°C (350°F) for 3-5 minutes until just warmed through – this restores texture much better than microwave reheating."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "8 kg salmon fillet to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "8 kg salmon fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds",
     "description": "Convert 8 kg salmon fillet to pounds instantly for perfect air fryer portions. Get precise measurements and cooking tips for delicious results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "8 kg salmon fillet to pounds",
+            "name": "8 kg salmon fillet to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-salmon-fillet-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

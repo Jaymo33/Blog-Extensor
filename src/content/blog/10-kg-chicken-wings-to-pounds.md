@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds"
   },
-  "headline": "Quick 10 kg chicken wings to pounds conversion for air fryer cooking",
-  "description": "Convert 10 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and temperature guidance for crispy results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 10 kg chicken wings to pounds conversion for air fryer cooking",
+        "description": "Convert 10 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and temperature guidance for crispy results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-22T23:04:43.655Z",
-  "dateModified": "2025-08-22T23:04:43.655Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-chicken-wings-to-pounds.webp"
+        "datePublished": "2025-08-22T23:04:43.655Z",
+        "dateModified": "2025-08-22T23:04:43.655Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-chicken-wings-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why is converting 10 kg chicken wings to pounds important for air frying?",
+            "@type": "Question",
+            "name": "Why is converting 10 kg chicken wings to pounds important for air frying?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 10 kg chicken wings to pounds is crucial for air frying because most air fryer recipes and cooking guidelines use pound measurements for timing and temperature recommendations. Accurate conversions ensure you don't overcrowd the basket, which would prevent proper air circulation and result in unevenly cooked, steamed rather than crispy wings. Knowing that 10 kg equals approximately 22 pounds helps you portion correctly for optimal air fryer performance and perfect results every time."
     }
     },
     {
-    "@type": "Question",
-    "name": "How many people can 10 kg of chicken wings serve when converted to pounds?",
+            "@type": "Question",
+            "name": "How many people can 10 kg of chicken wings serve when converted to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "When you convert 10 kg chicken wings to pounds, you get approximately 22 pounds, which can serve different numbers depending on how you're serving them. As a main course, plan for about 1 pound per person, meaning 10 kg would serve about 22 people. For appetizers or party settings where people eat smaller portions, you could stretch 10 kg to serve 40-44 people. This conversion helps tremendously with party planning and ensuring you have enough food for your guests when using your air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook all 10 kg of chicken wings at once in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook all 10 kg of chicken wings at once in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, you cannot cook all 10 kg of chicken wings at once in a standard home air fryer. When converted to pounds, 10 kg equals about 22 pounds, which far exceeds any residential air fryer's capacity. Most home air fryers accommodate 1-3 pounds per batch, meaning you'll need to cook your converted wings in multiple batches for optimal results. Overcrowding prevents proper air circulation and results in uneven cooking, so batch cooking with proper portions is essential for perfect air fried chicken wings."
     }
     },
     {
-    "@type": "Question",
-    "name": "How should I store my 10 kg chicken wings after converting to pounds?",
+            "@type": "Question",
+            "name": "How should I store my 10 kg chicken wings after converting to pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "After converting your 10 kg chicken wings to pounds (approximately 22 pounds), portion them into recipe-sized amounts of 1-2 pounds each before storage. Wrap these portions tightly in freezer-safe packaging, label with the date and weight, and freeze for up to 3 months. For immediate use, refrigerate portions and cook within 2 days. This portioning approach based on your conversion makes meal preparation much easier and ensures food safety while maximizing the shelf life of your bulk purchase."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "10 kg chicken wings to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds",
+            "@type": "WebPage",
+            "name": "10 kg chicken wings to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds",
     "description": "Convert 10 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and temperature guidance for crispy results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "10 kg chicken wings to pounds",
+            "name": "10 kg chicken wings to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-wings-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

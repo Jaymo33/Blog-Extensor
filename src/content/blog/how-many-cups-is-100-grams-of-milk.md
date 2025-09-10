@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk"
   },
-  "headline": "Quick Guide: How Many Cups Is 100 Grams of Milk?",
-  "description": "Convert 100 grams of milk to cups easily for baking and cooking. Get precise measurements for perfect air fryer recipes every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Guide: How Many Cups Is 100 Grams of Milk?",
+        "description": "Convert 100 grams of milk to cups easily for baking and cooking. Get precise measurements for perfect air fryer recipes every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T20:38:05.734Z",
-  "dateModified": "2025-07-27T20:38:05.734Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-milk.webp"
+        "datePublished": "2025-07-27T20:38:05.734Z",
+        "dateModified": "2025-07-27T20:38:05.734Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-milk.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of milk affect how many cups 100 grams equals?",
+            "@type": "Question",
+            "name": "Does the type of milk affect how many cups 100 grams equals?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The type of milk does have a slight effect due to varying densities. Whole milk is slightly denser than skimmed milk, but the difference is minimal - about 1-2% in volume. Plant-based milks can vary more, with almond milk typically being lighter. For most cooking purposes in your air fryer, you can use the standard conversion of 100 grams to 0.4 cups."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for condensed or evaporated milk?",
+            "@type": "Question",
+            "name": "Can I use this conversion for condensed or evaporated milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, this conversion is specifically for regular liquid milk. Condensed and evaporated milk are much thicker and denser, so 100 grams would equal significantly less in cup measurement. For these products, you'll need to check the specific product packaging or use a dedicated conversion chart for concentrated milk products."
     }
     },
     {
-    "@type": "Question",
-    "name": "How does temperature affect measuring 100 grams of milk in cups?",
+            "@type": "Question",
+            "name": "How does temperature affect measuring 100 grams of milk in cups?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Temperature can slightly affect the volume of milk, as liquids expand when warm and contract when cold. However, for practical purposes in air fryer cooking, this difference is negligible. Whether your milk is straight from the fridge or at room temperature, 100 grams will still be approximately 0.4 cups. The more important factor is ensuring you measure accurately."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why do some recipes use grams while others use cups for milk?",
+            "@type": "Question",
+            "name": "Why do some recipes use grams while others use cups for milk?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "This largely depends on the recipe's origin. European recipes typically use grams for precision, while American recipes often use cups for convenience. For air fryer cooking, where small quantities matter, grams are generally more accurate. However, our conversion shows that 100 grams of milk equals about 0.4 cups, allowing you to use either measurement system confidently."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Cups Is 100 Grams of Milk?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk",
+            "@type": "WebPage",
+            "name": "How Many Cups Is 100 Grams of Milk?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk",
     "description": "Convert 100 grams of milk to cups easily for baking and cooking. Get precise measurements for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T20:38:05.734000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Cups Is 100 Grams of Milk?",
+            "name": "How Many Cups Is 100 Grams of Milk?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-milk"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

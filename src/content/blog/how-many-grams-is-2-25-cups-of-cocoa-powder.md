@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder"
   },
-  "headline": "Quick Answer: How Many Grams Is 2.25 Cups of Cocoa Powder?",
-  "description": "Convert 2.25 cups of cocoa powder to grams effortlessly for perfect baking results every time. Get the exact measurement now!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick Answer: How Many Grams Is 2.25 Cups of Cocoa Powder?",
+        "description": "Convert 2.25 cups of cocoa powder to grams effortlessly for perfect baking results every time. Get the exact measurement now!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-07-27T23:33:52.667Z",
-  "dateModified": "2025-07-27T23:33:52.667Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-cocoa-powder.webp"
+        "datePublished": "2025-07-27T23:33:52.667Z",
+        "dateModified": "2025-07-27T23:33:52.667Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-cocoa-powder.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
   },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Does the type of cocoa powder affect the weight per cup?",
+            "@type": "Question",
+            "name": "Does the type of cocoa powder affect the weight per cup?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, natural cocoa powder and Dutch-processed cocoa have slightly different densities due to their processing methods. Natural cocoa is lighter, while Dutch-processed is often denser. For 2.25 cups, the difference is minimal (about 5-10 grams), but for precision baking, always weigh your ingredients."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use this conversion for other dry ingredients like flour or sugar?",
+            "@type": "Question",
+            "name": "Can I use this conversion for other dry ingredients like flour or sugar?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "No, different dry ingredients have varying densities. For example, 2.25 cups of flour weighs about 281 grams, while granulated sugar is approximately 450 grams. Always check specific conversion charts for each ingredient, especially when baking in an air fryer where precision matters."
     }
     },
     {
-    "@type": "Question",
-    "name": "Why does my air fryer recipe need exact gram measurements?",
+            "@type": "Question",
+            "name": "Why does my air fryer recipe need exact gram measurements?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Air fryers cook faster and more intensely than conventional ovens, so small measurement errors can lead to dry or unevenly cooked baked goods. Using grams (like 225g for 2.25 cups of cocoa powder) ensures consistent results. This is particularly important for chocolate recipes, which rely on precise ratios."
     }
     },
     {
-    "@type": "Question",
-    "name": "How do I adjust cooking time when using 2.25 cups of cocoa powder in an air fryer?",
+            "@type": "Question",
+            "name": "How do I adjust cooking time when using 2.25 cups of cocoa powder in an air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Recipes with high cocoa powder content (like 2.25 cups) may need slightly shorter cooking times in an air fryer. Start checking 5-10 minutes earlier than the recipe suggests, as chocolate batters can go from perfect to overdone quickly. Use a toothpick test to confirm doneness."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "How Many Grams Is 2.25 Cups of Cocoa Powder?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder",
+            "@type": "WebPage",
+            "name": "How Many Grams Is 2.25 Cups of Cocoa Powder?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder",
     "description": "Convert 2.25 cups of cocoa powder to grams effortlessly for perfect baking results every time. Get the exact measurement now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:33:52.667000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "How Many Grams Is 2.25 Cups of Cocoa Powder?",
+            "name": "How Many Grams Is 2.25 Cups of Cocoa Powder?",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

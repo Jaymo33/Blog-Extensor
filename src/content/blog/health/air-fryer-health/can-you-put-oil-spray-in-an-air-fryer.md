@@ -8,82 +8,82 @@ tags:
 author: "AirFryerRecipe.co.uk"
 schema: |
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer"
-  },
-  "headline": "Oil Spray in Air Fryer: Safety & Usage Guide | UK Tips",
-  "description": "Wondering if oil spray is safe for air fryers? Learn the dos and don'ts of using oil spray in your air fryer for perfect, crispy results every time.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipe.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer"
+        },
+        "headline": "Oil Spray in Air Fryer: Safety & Usage Guide | UK Tips",
+        "description": "Wondering if oil spray is safe for air fryers? Learn the dos and don'ts of using oil spray in your air fryer for perfect, crispy results every time.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipe.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+            }
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+            }
+        },
+        "datePublished": "2025-07-22T23:30:57.071Z",
+        "dateModified": "2025-07-22T23:30:57.071Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-oil-spray-in-an-air-fryer.png"
+        },
+        "about": {
+            "@type": "Thing",
+            "name": "Safety"
+        },
+        "articleSection": "Safety",
+        "inLanguage": "en-GB"
     }
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
-  "datePublished": "2025-07-22T23:30:57.071Z",
-  "dateModified": "2025-07-22T23:30:57.071Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-oil-spray-in-an-air-fryer.png"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Safety"
-  },
-  "articleSection": "Safety",
-  "inLanguage": "en-GB"
-}
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            ""@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Can I use regular Pam cooking spray in my air fryer?",
+            ""@type": "Question",
+            ""name": "Can I use regular Pam cooking spray in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Regular Pam spray contains emulsifiers that can damage air fryer coatings over time. Opt for pure oil sprays or use a refillable mister with your preferred oil instead for safer air frying results."
     }
     },
     {
-    "@type": "Question",
-    "name": "Will oil spray make my air fryer smoke?",
+            ""@type": "Question",
+            ""name": "Will oil spray make my air fryer smoke?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Oil spray can cause smoking if over-applied or if using oils with low smoke points. Use high-smoke-point oils like avocado or refined rapeseed oil, and apply sparingly to minimise smoke in your air fryer."
     }
     },
     {
-    "@type": "Question",
-    "name": "How often should I clean my air fryer when using oil spray?",
+            ""@type": "Question",
+            ""name": "How often should I clean my air fryer when using oil spray?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "Clean your air fryer basket after every use when using oil spray to prevent residue buildup. For thorough maintenance, do a deep clean weekly using our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning methods</a>."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I use oil spray when reheating food in the air fryer?",
+            ""@type": "Question",
+            ""name": "Can I use oil spray when reheating food in the air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            ""@type": "Answer",
     "text": "A light spritz of oil can help refresh leftovers like pizza or fried chicken, but many foods reheat well without added oil. For perfect reheating, check our recipe section at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for specific guidance."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Can You Put Oil Spray in an Air Fryer?",
-    "url": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer",
+            ""@type": "WebPage",
+            ""name": "Can You Put Oil Spray in an Air Fryer?",
+            ""url": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer",
     "description": "Wondering if oil spray is safe for air fryers? Learn the dos and don'ts of using oil spray in your air fryer for perfect, crispy results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
@@ -107,9 +107,9 @@ schema: |
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer#breadcrumbs",
+            ""@type": "BreadcrumbList",
+            ""name": "Breadcrumbs",
+            ""@id": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
         {
             "@type": "ListItem",
@@ -163,9 +163,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            ""@type": "WebSite",
+            ""url": "https://www.airfryerrecipe.co.uk",
+            ""name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -174,25 +174,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            ""@type": "Organization",
+            ""name": "Air Fryer Recipes",
+            ""url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            ""@type": "ImageObject",
+            ""url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            ""@type": "Country",
+            ""name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            ""@type": "Country",
+            ""name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            ""@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds"
   },
-  "headline": "Quickly Convert 9.7 kg to Pounds for Air Fryer Cooking",
-  "description": "Easily convert 9.7 kg to pounds for perfect air fryer portions. Get accurate results and cooking tips for your recipes in seconds.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quickly Convert 9.7 kg to Pounds for Air Fryer Cooking",
+        "description": "Easily convert 9.7 kg to pounds for perfect air fryer portions. Get accurate results and cooking tips for your recipes in seconds.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-20T16:05:32.623Z",
-  "dateModified": "2025-08-20T16:05:32.623Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-7-kg-to-pounds.webp"
+        "datePublished": "2025-08-20T16:05:32.623Z",
+        "dateModified": "2025-08-20T16:05:32.623Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-7-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "Why do I need to convert 9.7 kg to pounds for my air fryer?",
+            "@type": "Question",
+            "name": "Why do I need to convert 9.7 kg to pounds for my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Converting 9.7 kg to pounds is essential for your air fryer because most recipes and appliance manuals provide cooking times based on weight. A 9.7 kg (21.4 lb) joint of meat requires a very different cooking time and temperature compared to a smaller piece. Getting this conversion right ensures you don't overcrowd the basket and that the hot air can circulate properly, giving you perfectly cooked, crispy results every time. It's the fundamental first step to using your air fryer effectively for large meals."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is there a simple way to remember the kg to lbs conversion?",
+            "@type": "Question",
+            "name": "Is there a simple way to remember the kg to lbs conversion?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "A handy rule of thumb is to remember that one kilogram is roughly equal to 2.2 pounds. For a quick and easy mental calculation for 9.7 kg, you can multiply 9.7 by 2.2 to get an approximate answer of 21.34 pounds, which is very close to the precise 21.38 pounds. For most cooking purposes, this approximation is perfectly adequate. For absolute precision, especially with larger weights, using a digital scale or a quick online calculator is always recommended."
     }
     },
     {
-    "@type": "Question",
-    "name": "My air fryer recipe is in pounds, but my food is in kg. What should I do?",
+            "@type": "Question",
+            "name": "My air fryer recipe is in pounds, but my food is in kg. What should I do?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "This is a very common situation. First, convert the weight of your food from kilograms to pounds. For example, if you have a 9.7 kg chicken, you now know that converts to approximately 21.4 pounds. Then, use that converted weight to follow the cooking instructions in your recipe, which will likely state a time per pound. This two-step process ensures you apply the correct heat and timing for the specific mass of food you're cooking, leading to a perfectly roasted result."
     }
     },
     {
-    "@type": "Question",
-    "name": "Can I cook a 9.7 kg (21.4 lb) turkey in my air fryer?",
+            "@type": "Question",
+            "name": "Can I cook a 9.7 kg (21.4 lb) turkey in my air fryer?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "It depends entirely on the capacity of your specific air fryer model. A 21.4 pound turkey is very large, and only the biggest capacity air fryer ovens or pro models would be able to accommodate it. You must check your appliance's manual for its maximum weight capacity first. Even if it fits, you will need to adjust cooking times significantly and may need to rotate the bird for even cooking. For turkeys of this size, a traditional oven is often a more practical choice, though some dedicated air fryer users do successfully cook them."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "9.7 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "9.7 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds",
     "description": "Easily convert 9.7 kg to pounds for perfect air fryer portions. Get accurate results and cooking tips for your recipes in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T16:05:32.623000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "9.7 kg to pounds",
+            "name": "9.7 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/9-7-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

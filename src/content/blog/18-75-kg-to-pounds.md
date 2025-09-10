@@ -9,81 +9,81 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds"
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds"
   },
-  "headline": "Quick 18.75 kg to Pounds Conversion for Air Fryer Cooking",
-  "description": "Convert 18.75 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
+        "headline": "Quick 18.75 kg to Pounds Conversion for Air Fryer Cooking",
+        "description": "Convert 18.75 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
       "@type": "ImageObject",
       "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
   },
-  "datePublished": "2025-08-21T19:47:25.338Z",
-  "dateModified": "2025-08-21T19:47:25.338Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/18-75-kg-to-pounds.webp"
+        "datePublished": "2025-08-21T19:47:25.338Z",
+        "dateModified": "2025-08-21T19:47:25.338Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/18-75-kg-to-pounds.webp"
   },
-  "about": {
-    "@type": "Thing",
-    "name": "Conversions"
+        "about": {
+            "@type": "Thing",
+            "name": "Conversions"
   },
-  "articleSection": "Conversions",
-  "inLanguage": "en-GB"
+        "articleSection": "Conversions",
+        "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-    "@type": "Question",
-    "name": "What is the simplest way to convert 18.75 kg to pounds without a calculator?",
+            "@type": "Question",
+            "name": "What is the simplest way to convert 18.75 kg to pounds without a calculator?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "The simplest way is to remember that 1 kilogram is roughly equal to 2.2 pounds. For a quick and easy estimate, you can multiply 18.75 by 2.2, which gives you 41.25 pounds. This is very close to the precise answer of 41.34 pounds and is perfectly adequate for most air fryer cooking purposes where a small variance won't ruin the recipe.\n\nFor a more precise figure, you could break it down: 18 kg is 39.6 pounds (18 x 2.2) and 0.75 kg is 1.65 pounds (0.75 x 2.2). Adding them together (39.6 + 1.65) gives you 41.25 pounds. This mental math approach is reliable for getting your portions right quickly."
     }
     },
     {
-    "@type": "Question",
-    "name": "I need to convert 18.75 kg to pounds and ounces for a baking recipe. How do I do that?",
+            "@type": "Question",
+            "name": "I need to convert 18.75 kg to pounds and ounces for a baking recipe. How do I do that?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "First, convert 18.75 kg to pounds using the precise multiplier of 2.20462. This gives you 41.336625 pounds. The whole number is 41 pounds. To find the ounces, take the decimal part (0.336625) and multiply it by 16 (since there are 16 ounces in a pound). 0.336625 x 16 = approximately 5.386 ounces, which you can round to 5.4 ounces.\n\nTherefore, 18.75 kg is equivalent to 41 pounds and 5.4 ounces. For baking in your air fryer, this level of precision ensures your cakes or pastries have the correct ingredient ratios for the best rise and texture."
     }
     },
     {
-    "@type": "Question",
-    "name": "Is 18.75 kg to US pounds the same as imperial pounds?",
+            "@type": "Question",
+            "name": "Is 18.75 kg to US pounds the same as imperial pounds?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, for all practical purposes in cooking, a US pound and an imperial pound are the same unit of mass. Both are legally defined as exactly 0.45359237 kilograms. So, when you convert 18.75 kg to pounds, whether you call them US pounds or imperial pounds, the result is identical: approximately 41.34 pounds.\n\nYou do not need to make any adjustment when following American recipes in your air fryer. The weight measurement is universal, so you can confidently use the conversion for any recipe you find."
     }
     },
     {
-    "@type": "Question",
-    "name": "My air fryer recipe calls for 5 pounds of chicken. How many batches can I get from 18.75 kg?",
+            "@type": "Question",
+            "name": "My air fryer recipe calls for 5 pounds of chicken. How many batches can I get from 18.75 kg?",
     "acceptedAnswer": {
-    "@type": "Answer",
+            "@type": "Answer",
     "text": "First, convert 18.75 kg to pounds, which is roughly 41.34 pounds. If each batch requires 5 pounds of chicken, you simply divide the total weight by the batch weight: 41.34 / 5 = 8.268 batches. In practical terms, this means you can get 8 full 5-pound batches from your 18.75 kg of chicken, with a small amount of around 1.34 pounds left over for a smaller ninth batch or for another use.\n\nThis is excellent for meal prepping. You can cook eight large batches of air fryer chicken, perhaps varying the seasonings or marinades each time, and freeze them for easy future meals. Just remember not to overcrowd the air fryer basket for each batch."
     }
     }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "18.75 kg to pounds",
-    "url": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds",
+            "@type": "WebPage",
+            "name": "18.75 kg to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds",
     "description": "Convert 18.75 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T19:47:25.338000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "name": "Breadcrumbs",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-    "name": "Home",
+            "name": "Home",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-    "name": "blogs",
+            "name": "blogs",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
     }
     },
     {
-    "@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-    "name": "18.75 kg to pounds",
+            "name": "18.75 kg to pounds",
     "item": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/18-75-kg-to-pounds"
     }
     }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.airfryerrecipe.co.uk",
-    "name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
     }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Air Fryer Recipes",
-    "url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
     },
     "areaServed": [
     {
-    "@type": "Country",
-    "name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
     },
     {
-    "@type": "Country",
-    "name": "United States"
+            "@type": "Country",
+            "name": "United States"
     }
     ],
     "contactPoint": {
-    "@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",
