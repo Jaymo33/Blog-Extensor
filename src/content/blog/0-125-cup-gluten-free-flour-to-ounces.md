@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://www.airfryerrecipe.co.uk/blog/0-125-cup-gluten-free-flour-to-ounces",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airfryerrecipe.co.uk/blog/0-125-cup-gluten-free-flour-to-ounces"
-  },
-  "headline": "Quick Answer: 0.125 Cup Gluten-Free Flour to Ounces UK",
-  "description": "Convert 0.125 cup of gluten-free flour to ounces easily with our simple guide. Perfect for air fryer recipes and precise baking!",
-  "author": {
-    "@type": "Person",
-    "name": "AirFryerRecipes.co.uk",
-    "url": "https://www.airfryerrecipe.co.uk/about",
-    "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "url": "https://www.airfryerrecipe.co.uk/blog/0-125-cup-gluten-free-flour-to-ounces",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-125-cup-gluten-free-flour-to-ounces"
+        },
+        "headline": "Quick Answer: 0.125 Cup Gluten-Free Flour to Ounces UK",
+        "description": "Convert 0.125 cup of gluten-free flour to ounces easily with our simple guide. Perfect for air fryer recipes and precise baking!",
+        "author": {
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+            }
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+            }
+        },
+        "datePublished": "2025-08-16T23:30:04.315Z",
+        "dateModified": "2025-08-16T23:30:04.315Z",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-125-cup-gluten-free-flour-to-ounces.webp"
+        },
+        "about": {
+            "@type": "Thing",
+            "name": "Measurement"
+        },
+        "articleSection": "Measurement",
+        "inLanguage": "en-GB"
     }
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Air Fryer Recipe",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
-  "datePublished": "2025-08-16T23:30:04.315Z",
-  "dateModified": "2025-08-16T23:30:04.315Z",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-125-cup-gluten-free-flour-to-ounces.webp"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Measurement"
-  },
-  "articleSection": "Measurement",
-  "inLanguage": "en-GB"
-}
-</script>
+    </script>
 
     <script type="application/ld+json">
     {
