@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-yeast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons of yeast equals approximately 21 grams. This conversion is essential for precise baking, especially when using an air fryer for recipes like bread or pizza dough. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that accurate measurements can make or break your dish.</p>
 

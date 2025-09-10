@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-vegetable-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>360 ml of vegetable oil is approximately 1.52 cups. This conversion is essential for air fryer cooking, where precise measurements ensure perfect textures and flavours. Whether you're frying, baking, or making dressings, knowing how much 360 ml of vegetable oil translates to in cups helps streamline your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can cook with confidence.</p>  
 

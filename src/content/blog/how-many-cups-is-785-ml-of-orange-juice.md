@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-orange-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>785 ml of orange juice equals approximately 3.32 cups (US) or 3.5 cups (UK). Whether you're baking a citrus-infused cake or preparing a marinade, knowing this conversion ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>
 

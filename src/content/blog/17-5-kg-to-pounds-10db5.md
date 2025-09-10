@@ -5,8 +5,11 @@ pubDate: 2025-08-21T00:00:00.000Z
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/17-5-kg-to-pounds-10db5"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>17.5 kilograms is equal to approximately 38.58 pounds, a conversion that becomes incredibly useful when dealing with larger cuts of meat or bulk ingredients for your air fryer. Whether you're meal prepping for the family or cooking for a gathering, understanding weight conversions ensures you use your appliance efficiently and safely. This conversion is particularly handy when following recipes from different regions that use imperial measurements. Getting your quantities right from the start means perfectly cooked food and no wasted energy. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

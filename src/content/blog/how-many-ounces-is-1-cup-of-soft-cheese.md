@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>One cup of soft cheese typically weighs around 8 ounces, but this can vary slightly depending on the brand, moisture content, and how tightly it's packed. For accurate results in your air fryer recipes, we always recommend using a digital kitchen scale. This simple conversion is essential for everything from creamy dips to stuffed mushrooms, ensuring your dishes turn out perfectly every time. Whether you're using cream cheese, ricotta, or mascarpone, knowing this measurement helps avoid kitchen mishaps. Visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> for more handy tips and conversion guides.</p>
 

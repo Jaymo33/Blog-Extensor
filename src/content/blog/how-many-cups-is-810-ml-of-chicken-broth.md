@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-chicken-broth"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>810 ml of chicken broth equals approximately 3.42 cups in US measurements or 3.5 cups in UK measurements. Whether you're preparing a soup, stew, or sauce in your air fryer, getting the liquid measurements right is crucial for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking. This guide will help you measure 810 ml of chicken broth accurately, so your dishes turn out just as intended.</p>  
 

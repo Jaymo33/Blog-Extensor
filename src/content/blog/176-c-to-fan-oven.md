@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/176-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>176 C in a fan oven is equivalent to approximately 160 C in a conventional oven. This 16-degree difference is crucial for perfect baking results when using convection heat. Whether you're preparing cakes, roasting vegetables, or cooking meats, understanding this conversion ensures your dishes turn out just right.</p>
 

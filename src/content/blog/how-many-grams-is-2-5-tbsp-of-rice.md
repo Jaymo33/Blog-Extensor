@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons (tbsp) of rice equals approximately 30 grams (g). This conversion is essential for precise cooking, especially when using an air fryer, where ingredient ratios can affect texture and cooking times. Whether you’re making a quick rice dish or adding rice to a larger recipe, knowing this measurement ensures consistent results every time.</p>  
 

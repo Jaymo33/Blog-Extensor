@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-gram-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.75 cups of gram flour equals approximately 7.4 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making pakoras, gluten-free bread, or crispy coatings, knowing the exact weight ensures consistent results. Gram flour, also known as besan, is a staple in many cuisines, and getting the measurements right is key. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

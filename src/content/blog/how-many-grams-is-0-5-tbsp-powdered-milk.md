@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-powdered-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 tbsp of powdered milk equals approximately 3.75 grams. This conversion is essential for precision in air fryer recipes, especially when baking or making sauces. Powdered milk is a versatile ingredient, often used in everything from cakes to creamy coatings for chicken. Getting the measurement right ensures your dishes turn out perfectly every time.</p>
 

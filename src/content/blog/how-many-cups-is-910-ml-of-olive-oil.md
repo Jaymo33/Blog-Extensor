@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>910 ml of olive oil is roughly 3.85 cups in the US measurement system and 3.6 cups in the UK. Whether you're baking or frying in your air fryer, getting the right measurement ensures your dish turns out perfectly. Olive oil is a staple in many recipes, and knowing how to convert millilitres to cups can save time and hassle. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking delicious meals.</p>  
 

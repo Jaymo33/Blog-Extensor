@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/367-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 367 F in Gas Mark?</h2>
 <p>367 F converts to Gas Mark 4.5 in UK ovens, though most home cooks round this to Gas Mark 4 for simplicity. This temperature is ideal for baking cookies, roasting vegetables, or cooking delicate fish fillets in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your specific air fryer model as some may require slight adjustments. The conversion from 367 F to Gas Mark is particularly useful when adapting traditional oven recipes for air fryer use. Many of our <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> include both temperature scales for convenience.</p>

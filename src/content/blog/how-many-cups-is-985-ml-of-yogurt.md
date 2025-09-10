@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>985 ml of yogurt is approximately 4.16 cups in US measurements or 3.46 cups in UK measurements. Whether you're whipping up a cake, marinade, or dip for your air fryer, getting the measurements right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating it can be when conversions don’t line up, so we’ve done the maths for you.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-molasses"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons (tbsp) of molasses equals approximately 53 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're baking sticky toffee pudding or glazing meats, knowing the exact weight of molasses helps avoid overly sweet or dry results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking game.</p>  
 

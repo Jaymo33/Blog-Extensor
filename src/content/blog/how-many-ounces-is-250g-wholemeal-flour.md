@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250g of wholemeal flour equals approximately 8.82 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're whipping up air fryer cakes or bread, getting your flour quantities spot-on ensures perfect results every time.</p>
 

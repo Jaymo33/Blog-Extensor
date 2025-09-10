@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of olive oil is equivalent to approximately 270 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're baking, frying, or roasting, knowing the exact gram measurement ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accuracy in cooking, especially when using an air fryer. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>
 

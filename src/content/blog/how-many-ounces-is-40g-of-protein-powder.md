@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-protein-powder"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40 grams (40g) of protein powder equals approximately 1.41 ounces (oz). If you're using an air fryer for meal prep or baking, knowing this conversion ensures accurate measurements for perfect results every time. Whether you're making protein pancakes, shakes, or energy bites, getting the right amount of protein powder is key.</p>  
 

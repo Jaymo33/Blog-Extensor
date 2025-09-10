@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of rice weighs approximately 5.3 ounces, which is a common measurement for single servings or specific recipes. Getting this conversion right is essential for anyone using an air fryer, as precise measurements lead to perfectly cooked meals. Whether you are meal prepping or following a new recipe, knowing the exact weight saves time and reduces waste. This guide will help you understand not just the conversion, but how to use it effectively in your kitchen. For more handy measurement tips, check out the comprehensive resources at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>
 

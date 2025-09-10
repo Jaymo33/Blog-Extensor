@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tbsp of almond butter equals approximately 37.5 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you’re making energy bites, sauces, or baked goods, knowing the exact weight helps avoid mishaps. Almond butter’s density can vary slightly, but this measurement is a reliable standard. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>
 

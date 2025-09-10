@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-fish-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of fish sauce equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Fish sauce, a staple in many Asian-inspired meals, adds depth and umami, but using the right amount ensures balance. Whether you’re marinating chicken or seasoning shrimp for the air fryer, knowing how many ounces are in 0.33 cup of fish sauce helps you stay on track. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

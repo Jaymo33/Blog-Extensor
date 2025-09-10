@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-golden-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of golden syrup equals approximately 2.5 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making sticky toffee pudding or glazing roasted vegetables, knowing the exact weight ensures consistency. Golden syrup, a staple in British baking, has a thick, sticky consistency, so measuring by weight is often more reliable than volume. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

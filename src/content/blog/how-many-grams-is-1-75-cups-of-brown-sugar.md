@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.75 cups of brown sugar equals approximately 350 grams. This conversion is essential for air fryer baking, where precision ensures even cooking and perfect texture. Whether you’re making cookies, cakes, or glazes, knowing how many grams 1.75 cups of brown sugar is will help you achieve consistent results every time.</p>  
 

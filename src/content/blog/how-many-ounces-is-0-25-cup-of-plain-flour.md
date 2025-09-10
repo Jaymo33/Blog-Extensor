@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-plain-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of plain flour equals approximately 1.06 ounces (30 grams). This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or coating chicken for the air fryer, knowing the exact weight of your flour makes all the difference.</p>  
 

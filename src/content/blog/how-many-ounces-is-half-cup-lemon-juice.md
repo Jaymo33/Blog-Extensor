@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Ounces in 0.5 Cup of Lemon Juice?</h2>  
 <p>0.5 cup of lemon juice equals approximately 4 fluid ounces (oz). This conversion is essential for air fryer recipes, where precise measurements ensure the perfect balance of acidity and flavour. Whether you’re marinating chicken or adding zest to desserts, knowing how many ounces are in 0.5 cup of lemon juice helps avoid over-pouring. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Lemon juice’s density means it weighs slightly more than water, so always measure carefully.</p>  

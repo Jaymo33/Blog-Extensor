@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-greek-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons of Greek yogurt equals approximately 45 grams. This measurement is key for precise cooking, especially when using an air fryer where ingredient ratios matter. Whether you're meal prepping or baking, knowing the exact grams in 3 tbsp of Greek yogurt ensures consistent results every time.</p>  
 

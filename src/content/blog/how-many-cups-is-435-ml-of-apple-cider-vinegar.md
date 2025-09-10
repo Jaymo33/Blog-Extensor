@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-apple-cider-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>435 ml of apple cider vinegar is approximately 1.84 cups. This conversion is essential for accurate measurements in cooking, baking, and especially air fryer recipes where precision matters. Whether you're marinating chicken or whipping up a tangy glaze, knowing how to convert 435 ml of apple cider vinegar to cups ensures your dish turns out perfectly every time.</p>  
 

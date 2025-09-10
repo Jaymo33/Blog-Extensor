@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-margarine"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 tablespoon (tbsp) of margarine weighs approximately 14 grams. This measurement is essential for air fryer recipes, where precision can make or break your dish. Whether you’re whipping up crispy roast potatoes or a moist cake, knowing the exact grams in 1 tbsp of margarine ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we believe accurate measurements are the key to perfect cooking. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>  
 

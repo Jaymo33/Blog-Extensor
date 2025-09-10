@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of buttermilk equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for precise baking and air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re whipping up pancakes, fried chicken, or a moist cake, knowing how to convert 3 cups of buttermilk to ounces is a game-changer.</p>  
 

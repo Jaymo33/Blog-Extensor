@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-plain-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>275 grams of plain flour is approximately 2.2 cups in the UK and 2.3 cups in the US. This slight difference is due to variations in cup sizes between regions. Whether you're baking a cake or preparing air fryer recipes, getting the measurement right is crucial for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when converting grams to cups for consistent baking.</p>  
 

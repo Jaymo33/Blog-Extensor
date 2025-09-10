@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-wheat-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of wheat flour equals approximately 1.5 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a batch of air fryer cookies or bread, knowing the exact weight ensures consistency.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/460-fan-oven-to-conventional-oven-conversion-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>460°F in a fan oven converts to approximately 425°F in a conventional oven. This 35°F reduction accounts for the more efficient heat distribution in fan-assisted cooking. When using an air fryer, which operates similarly to a fan oven, you'll often find recipes at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> specify fan oven temperatures that need converting for traditional ovens.</p>
 

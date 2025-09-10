@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-sunflower-seeds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 2 cups of sunflower seeds?</h2>  
 <p>2 cups of sunflower seeds weigh approximately 9.6 ounces (272 grams) in the UK. This conversion is essential for air fryer recipes, ensuring accurate measurements for consistent results. Whether you’re roasting seeds or adding them to a dish, knowing the weight helps avoid over or under-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Sunflower seeds are a versatile ingredient, perfect for snacks or meal prep.</p>  

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150 grams of brown sugar equals approximately 0.75 cups when lightly packed, or roughly 3/4 of a standard UK or US measuring cup. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re whipping up cookies, cakes, or glazes, knowing how many cups is 150 grams of brown sugar ensures consistent results every time.</p>
 

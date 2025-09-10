@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75g of brown sugar equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking cookies or glazing meats, knowing how to convert grams to ounces simplifies your cooking process. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements effortless so you can focus on creating delicious meals.</p>  
 

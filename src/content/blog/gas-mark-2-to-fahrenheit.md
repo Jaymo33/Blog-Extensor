@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Gas Mark 2 to Fahrenheit Conversion</h2>
 <p>Gas Mark 2 converts to 300°F in Fahrenheit, making it ideal for slow cooking in your air fryer. This moderate temperature works perfectly for roasting vegetables, baking cakes, or reheating meals without drying them out. Many traditional British recipes specify Gas Mark 2, but modern air fryers typically use Fahrenheit or Celsius. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend setting your air fryer to 300°F when a recipe calls for Gas Mark 2. This temperature ensures even cooking while preserving moisture in your food.</p>

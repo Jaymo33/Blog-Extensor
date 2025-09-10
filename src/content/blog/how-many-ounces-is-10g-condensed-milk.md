@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 grams of condensed milk is equal to approximately 0.35 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when dealing with sweet treats or sauces. Whether you're making a dessert or a glaze, knowing this conversion ensures your dish turns out perfectly every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-chopped-garlic"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of chopped garlic equals approximately 20 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you’re making garlic-infused dishes or meal prepping, knowing this conversion saves time and avoids guesswork.</p>
 

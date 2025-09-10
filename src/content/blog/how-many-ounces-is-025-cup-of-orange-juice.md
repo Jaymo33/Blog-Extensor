@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-orange-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of orange juice equals 2 fluid ounces (oz) in the UK. This measurement is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're preparing a marinade, glaze, or sauce, knowing how many ounces are in 0.25 cup of orange juice ensures your dish turns out perfectly every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>910 ml of lemon juice is roughly equivalent to 3.85 cups (US) or 3.2 cups (UK). Whether you're whipping up a tangy dessert or a citrusy marinade for your air fryer, knowing this conversion ensures your recipe turns out perfectly. Precise measurements matter, especially when working with acidic ingredients like lemon juice, which can affect the balance of flavours and textures in your dish.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-passata"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Ounces Is 2 Cups of Passata?</h2>  
 <p>2 cups of passata equals approximately 16 ounces. This measurement is essential for air fryer recipes where precise ingredient quantities can affect cooking times and results. Passata, a smooth tomato puree, is a staple in many dishes, from pasta sauces to casseroles. Knowing the exact weight ensures your recipes turn out perfectly every time. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

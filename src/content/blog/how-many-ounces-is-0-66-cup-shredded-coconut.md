@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-shredded-coconut"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of shredded coconut equals approximately 2.64 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes, where precise ingredient weights ensure perfect results. Whether you're baking coconut cookies or adding texture to a dish, knowing the exact ounce equivalent helps avoid kitchen mishaps.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sunflower-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5 tablespoons (tbsp) of sunflower oil equals approximately 68 grams (g). This conversion is essential for air fryer cooking, where precise measurements ensure perfect results every time. Whether you're frying, roasting, or baking, knowing the exact weight helps maintain consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we believe accurate conversions make cooking easier and more enjoyable. Keep reading to learn why grams matter and how to measure sunflower oil correctly.</p>  
 

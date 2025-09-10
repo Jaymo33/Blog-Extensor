@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>335 ml of lemon juice equals approximately 1.42 cups in the UK or 1.41 cups in the US. This conversion is essential for recipes, especially when using an air fryer for dishes like lemon drizzle cake or tangy marinades. Whether you're baking or cooking, knowing how many cups is 335 ml of lemon juice ensures your dish turns out perfectly every time.</p>
 

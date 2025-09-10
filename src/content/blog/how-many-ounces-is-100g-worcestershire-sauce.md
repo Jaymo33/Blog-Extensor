@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-worcestershire-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100g of worcestershire sauce equals approximately 3.53 ounces. Whether you’re preparing a marinade or adding flavour to your air fryer dishes, getting the measurements right is crucial. Worcestershire sauce is a staple in many kitchens, and knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>  
 

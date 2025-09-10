@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-5-kg-cod-fillet-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you have a 4.5 kg cod fillet and need to know its weight in pounds, the answer is straightforward: 4.5 kilograms is equal to approximately 9.92 pounds. This conversion is essential when you're preparing a large batch of fish in your air fryer, especially if your recipe or packaging uses imperial measurements. Knowing the exact weight helps you calculate cooking times, portion sizes, and even how much seasoning or coating you'll need. Whether you're meal prepping for the week or cooking for a crowd, getting the measurements right from the start makes everything easier. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

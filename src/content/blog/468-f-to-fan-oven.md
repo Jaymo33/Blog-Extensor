@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/468-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>468 F converts to approximately 242 C in a fan oven. This high-temperature setting is ideal for achieving crispy results in both air fryers and fan-assisted ovens. Understanding this conversion is crucial when following recipes from <a href=https://www.airfryerrecipe.co.uk/recipes>American sources</a> or adjusting cooking times for different appliances.</p>
 

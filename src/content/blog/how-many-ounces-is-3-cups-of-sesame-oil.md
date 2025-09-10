@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-sesame-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of sesame oil equals approximately 24 fluid ounces (or 24 oz). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Sesame oil is a staple in many dishes, from stir-fries to dressings, and knowing its weight helps streamline cooking. Whether you're using an air fryer or traditional methods, accurate conversions prevent mishaps. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  
 

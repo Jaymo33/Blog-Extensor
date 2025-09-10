@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/442-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>442°F converts to Gas Mark 8 in UK ovens. This high temperature is perfect for professional baking, pizza cooking, or achieving crispy results in your air fryer. While most home ovens max out around Gas Mark 9 (475°F/246°C), 442°F sits just below this at Gas Mark 8, making it ideal for many recipes you'll find on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>
 

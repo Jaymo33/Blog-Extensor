@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-8-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 8 converts to 230°C, a crucial temperature for air fryer cooking. This high heat setting is perfect for achieving crispy textures while maintaining moisture inside. Whether you're adapting traditional oven recipes or following air fryer-specific instructions from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, understanding this conversion ensures consistent results every time.</p>
 

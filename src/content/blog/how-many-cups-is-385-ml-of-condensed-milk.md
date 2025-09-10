@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>385 ml of condensed milk is approximately 1.63 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make all the difference. Whether you're making a creamy dessert or a rich cake, knowing how to convert 385 ml of condensed milk to cups ensures your recipe turns out perfectly every time.</p>
 

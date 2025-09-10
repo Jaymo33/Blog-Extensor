@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/43-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>43 kg equals approximately 94.8 pounds, making it a substantial weight that might relate to larger food quantities or appliance specifications. When working with air fryers, understanding weight conversions becomes particularly useful for portioning ingredients, following recipes accurately, and ensuring even cooking results. Many British cooks find themselves needing to convert between metric and imperial measurements, especially when dealing with imported appliances or international recipes. Whether you're meal prepping for a family or calculating the weight of frozen foods, knowing that 43 kg converts to about 94.8 pounds provides practical kitchen knowledge. This conversion skill becomes especially valuable when using resources from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> that might use different measurement systems.</p>
 

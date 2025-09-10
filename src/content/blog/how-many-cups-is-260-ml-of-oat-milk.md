@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-oat-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260 ml of oat milk is approximately 1.1 cups. This conversion is essential for anyone using oat milk in recipes, especially when cooking or baking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing the exact measurement ensures perfect results every time.</p>  
 

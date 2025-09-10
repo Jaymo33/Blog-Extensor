@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "microwaveairfryer"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-microwave-meal-tray-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>No, you should not put a microwave meal tray in an air fryer. Most microwave meal trays are made from thin plastic or cardboard materials that can melt, warp, or even catch fire when exposed to the high heat of an air fryer. The circulating hot air inside an air fryer typically reaches temperatures between 160°C to 200°C - far exceeding what microwave-safe containers are designed to handle.</p>
 

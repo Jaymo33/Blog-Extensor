@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/390-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>390 degrees Fahrenheit converts to Gas Mark 6, which is the standard equivalent for most baking and roasting recipes. This temperature is commonly used for everything from crispy roast potatoes to golden baked goods in both conventional ovens and air fryers. Understanding this conversion helps when following recipes or adjusting cooking times between different appliances.</p>
 

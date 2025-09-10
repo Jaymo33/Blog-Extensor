@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/137-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>137°C in a fan oven equals approximately 125°C in a conventional oven. This 12-degree reduction accounts for the fan oven's efficient heat distribution. When converting 137 fan oven to conventional oven temperatures, this adjustment ensures your baked goods and air fryer recipes cook evenly without burning.</p>
 

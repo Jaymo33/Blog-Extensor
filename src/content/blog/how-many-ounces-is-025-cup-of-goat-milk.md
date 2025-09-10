@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-goat-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of goat milk equals approximately 2 ounces. This conversion is handy when you're measuring ingredients for air fryer recipes or any other cooking needs. Goat milk is a popular alternative to cow's milk, especially in recipes where its unique flavour shines. Whether you're making a creamy sauce or a baked good, knowing this conversion ensures accuracy.</p>
 

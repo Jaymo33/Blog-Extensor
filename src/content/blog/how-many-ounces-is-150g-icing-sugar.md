@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-icing-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150g of icing sugar equals approximately 5.29 ounces. This conversion is essential for air fryer baking, where precision ensures perfect textures and flavours. Whether you’re making cakes, cookies, or glazes, knowing how to convert grams to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify these conversions so you can focus on creating delicious treats. No more guesswork—just accurate measurements for flawless results.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/149-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>149 C in a fan oven is equivalent to approximately 140 C in a conventional oven or air fryer with fan-assisted settings. This slight reduction accounts for the efficient heat circulation in fan ovens, which cook food faster and more evenly. Whether you're baking, roasting, or air frying, understanding this conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master temperature adjustments for any appliance. Let's dive deeper into why this conversion matters for your cooking.</p>
 

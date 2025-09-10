@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-chopped-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of chopped onion equals approximately 3.17 ounces (90 grams). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect texture. Whether you’re making crispy onion rings or adding onions to a stir-fry, knowing the exact weight helps you nail the recipe every time.</p>
 

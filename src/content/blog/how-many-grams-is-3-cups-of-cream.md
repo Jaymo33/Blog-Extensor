@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you're wondering how many grams is 3.0 cups of cream, the answer depends on whether you're using UK or US measurements. In the UK, 3.0 cups of double cream weigh approximately 720 grams, while in the US, 3.0 cups of heavy cream are closer to 710 grams. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency.</p>  
 

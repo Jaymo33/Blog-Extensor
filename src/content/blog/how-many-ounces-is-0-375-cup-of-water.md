@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of water equals exactly 3 ounces. This conversion is essential for precise measurements in cooking, especially when using an air fryer where accuracy can make or break a recipe. Whether you're preparing a marinade, sauce, or batter, knowing how many ounces are in 0.375 cup of water ensures consistency and delicious results.</p>
 

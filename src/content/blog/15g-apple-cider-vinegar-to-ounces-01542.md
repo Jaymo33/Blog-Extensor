@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/15g-apple-cider-vinegar-to-ounces-01542"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15g of apple cider vinegar equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're marinating chicken or adding a tangy twist to roasted vegetables, knowing how many ounces 15g of apple cider vinegar is ensures your dish turns out just right.</p>  
 

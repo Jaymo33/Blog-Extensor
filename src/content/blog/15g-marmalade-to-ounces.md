@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/15g-marmalade-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15g of marmalade equals approximately 0.53 ounces. This conversion is essential for UK cooks using air fryers, where precise measurements can affect cooking times and results. Whether you're making a glaze for ham or adding sweetness to desserts, knowing how many ounces are in 15g of marmalade ensures recipe success.</p>
 

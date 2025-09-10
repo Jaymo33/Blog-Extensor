@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/12-75-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>12.75 kg is equal to approximately 28.108 pounds. Whether you're portioning meat, vegetables, or frozen goods for your air fryer, knowing how to convert kilograms to pounds is essential for accurate cooking and meal planning. This conversion helps you follow recipes precisely, avoid overloading your appliance, and achieve perfectly cooked meals every time. Many air fryer recipes, especially those from international sources or bulk cooking guides, use metric measurements. Converting 12.75 kg to pounds ensures you use the right amount of ingredients for your family's needs.</p>
 

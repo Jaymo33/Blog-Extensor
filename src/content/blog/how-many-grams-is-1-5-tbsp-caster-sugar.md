@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-caster-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 tablespoons (tbsp) of caster sugar equals approximately 22.5 grams. This conversion is essential for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Whether you're making cakes, cookies, or desserts in your air fryer, knowing the exact weight ensures consistent results every time.</p>
 

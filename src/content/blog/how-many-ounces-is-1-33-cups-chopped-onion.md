@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-chopped-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of chopped onion equals approximately 5.3 ounces (150 grams) in the UK. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect texture. Whether you’re making crispy onion rings or adding onions to a stir-fry, knowing the exact weight saves time and guarantees consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you master air frying. Keep reading for tips on measuring onions and adapting recipes for your air fryer.</p>  
 

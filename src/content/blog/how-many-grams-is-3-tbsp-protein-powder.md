@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-protein-powder"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons (tbsp) of protein powder typically weigh around 24 grams, though this can vary slightly depending on the brand and density. If you're using your air fryer for protein-packed recipes, knowing this conversion ensures accuracy. Whether you're meal prepping or baking, precise measurements matter—especially when using tools like an air fryer for consistent results.</p>
 

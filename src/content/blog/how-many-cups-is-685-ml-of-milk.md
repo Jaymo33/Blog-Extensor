@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>685 ml of milk is roughly 2.89 cups in the US measurement system and approximately 2.74 cups in the UK metric system. Whether you're whipping up a cake, preparing a creamy sauce, or using your air fryer for a delicious recipe, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating incorrect conversions can be, so we’ve broken it all down for you.</p>  
 

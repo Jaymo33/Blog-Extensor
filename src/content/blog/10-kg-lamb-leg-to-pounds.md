@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10-kg-lamb-leg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 10 kg lamb leg equals approximately 22.046 pounds. This conversion is essential for anyone cooking a large cut of meat, especially when using an air fryer where precise weight affects cooking time and temperature. Knowing the exact weight in pounds helps you follow recipes accurately, whether you're roasting, grilling, or air frying. It ensures your lamb cooks evenly and reaches the desired doneness. For more conversion tips, visit <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

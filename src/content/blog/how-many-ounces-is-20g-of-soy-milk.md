@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-soy-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of soy milk is approximately 0.705 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're preparing a creamy dessert or a savoury dish, knowing how to convert grams to ounces ensures your cooking is spot-on every time.</p>
 

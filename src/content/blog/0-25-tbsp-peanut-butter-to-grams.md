@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/0-25-tbsp-peanut-butter-to-grams"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 tbsp of peanut butter equals approximately 3.75 grams. This measurement is essential for air fryer recipes where precision matters, especially when working with small quantities of ingredients like peanut butter. Whether you're making sauces, dressings, or baked goods, knowing the exact weight ensures consistent results every time.</p>  
 

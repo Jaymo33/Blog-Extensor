@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-meatballs-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat meatballs in an air fryer, preheat to 160°C (320°F) and cook for 3–5 minutes until heated through. This method ensures they stay juicy while crisping up beautifully—far better than a microwave. Whether you’ve got leftover homemade meatballs or store-bought ones, your air fryer is the best tool for the job. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  
 

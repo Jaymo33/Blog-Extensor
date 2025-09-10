@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-plain-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of plain flour equals approximately 10.6 ounces (oz). This conversion is essential for accurate baking, especially when using an air fryer for recipes like cakes or bread. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing the exact weight ensures consistent results.</p>  
 

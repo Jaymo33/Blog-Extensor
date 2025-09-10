@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-chopped-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of chopped onion equals approximately 5 ounces (or 142 grams). This measurement is essential for air fryer recipes where precision ensures even cooking and perfect flavour balance. Whether you’re making crispy onion rings or adding onions to a stir-fry, knowing this conversion helps you nail the recipe every time.</p>
 

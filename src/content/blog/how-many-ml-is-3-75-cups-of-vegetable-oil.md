@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vegetable-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.75 cups of vegetable oil equals approximately 887.21 millilitres (ml). This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you're baking, frying, or roasting, knowing how many ml is 3.75 cups of vegetable oil helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make conversions straightforward so you can focus on cooking delicious meals.</p>  
 

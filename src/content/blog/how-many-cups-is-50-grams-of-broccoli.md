@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50 grams of broccoli is roughly equivalent to 0.5 cups when chopped. This measurement can vary slightly depending on how finely the broccoli is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re making roasted broccoli or adding it to a stir-fry, knowing this conversion ensures consistent results every time.</p>  
 

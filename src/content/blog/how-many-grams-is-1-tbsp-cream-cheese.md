@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cream-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 tablespoon (tbsp) of cream cheese weighs approximately 14 grams in the UK. This measurement is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re whipping up a cheesecake or adding cream cheese to a savoury dish, knowing this conversion helps avoid kitchen mishaps.</p>  
 

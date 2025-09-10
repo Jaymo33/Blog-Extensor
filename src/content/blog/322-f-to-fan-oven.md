@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/322-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>322 F converts to approximately 160 C in a fan oven. This is a common temperature for slow-roasting vegetables, baking delicate desserts, or reheating meals in an air fryer. Understanding this conversion ensures your dishes turn out perfectly every time, whether you're using a traditional oven or an air fryer.</p>
 

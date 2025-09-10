@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/231-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>231 C converts to Gas Mark 4. This is the standard UK oven temperature equivalent that works perfectly for most baking and roasting in both conventional ovens and air fryers. Whether you're adapting a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or converting an old family favourite, knowing this conversion ensures consistent results.</p>
 

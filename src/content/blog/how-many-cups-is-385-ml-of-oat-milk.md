@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-oat-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>385 ml of oat milk is approximately 1.63 cups in the US measurement system and 1.52 cups in the UK measurement system. Whether you're whipping up a cake or preparing a creamy sauce in your air fryer, knowing this conversion ensures your recipes turn out perfectly. Oat milk has become a staple in many kitchens, especially for those who prefer plant-based alternatives. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless results.</p>
 

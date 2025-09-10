@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-cocoa-powder"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75 grams of cocoa powder equals approximately 0.63 cups (or just over half a cup) when measured correctly. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break your recipe. Whether you’re whipping up brownies, cakes, or cookies, knowing how many cups 75 grams of cocoa powder translates to ensures consistent results every time.</p>
 

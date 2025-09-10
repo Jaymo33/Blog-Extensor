@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.75 cups of milk is approximately 660 grams if using US cups or 688 grams if using UK cups. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight of your ingredients makes all the difference.</p>  
 

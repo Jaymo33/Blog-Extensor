@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1-kg-cod-fillet-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 kg of cod fillet is equal to approximately 2.20462 pounds. This conversion is essential for anyone using an air fryer, as many recipes, especially those from American sources, use pounds rather than kilograms. Knowing how to quickly convert 1 kg cod fillet to pounds ensures you can accurately follow portion sizes and cooking times, leading to perfectly cooked fish every time. It’s a fundamental piece of knowledge for getting the most out of your appliance. For a broader range of helpful conversions, check out the comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>
 

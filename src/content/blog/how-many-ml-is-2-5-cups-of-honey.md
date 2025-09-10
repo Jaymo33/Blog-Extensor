@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of honey equals approximately 591 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where exact measurements can make or break a recipe. Whether you're whipping up cakes, glazes, or marinades, knowing how to convert cups to millilitres ensures consistency and perfect results every time.</p>  
 

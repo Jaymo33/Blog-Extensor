@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-evaporated-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260 ml of evaporated milk is approximately 1.1 cups. This conversion is essential for recipes requiring precise measurements, especially in baking or air fryer cooking. Whether you're making a creamy dessert or a savoury dish, knowing how to convert 260 ml of evaporated milk to cups ensures consistency and perfect results every time.</p>
 

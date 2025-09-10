@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-plain-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1 cup of plain yogurt?</h2>  
 <p>1 cup of plain yogurt equals approximately 8.64 ounces (245 grams) in the UK. This measurement is essential for air fryer recipes, ensuring accuracy for consistent results. Whether you’re making dips, marinades, or baked goods, knowing the weight helps avoid over or under-measuring. For more conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Yogurt’s density can vary slightly, but this standard measurement works for most recipes.</p>  

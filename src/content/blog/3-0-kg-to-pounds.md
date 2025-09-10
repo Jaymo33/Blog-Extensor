@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-0-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.0 kilograms is equal to 6.61387 pounds, a conversion that is incredibly useful for anyone using an air fryer to prepare meals with precision. Whether you are portioning meat, vegetables, or frozen goods, knowing this exact weight in both metric and imperial units ensures your cooking times and temperatures are spot on. This is especially crucial for air fryers, where even small weight discrepancies can affect how evenly and quickly your food cooks. Bookmarking a handy resource like the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk can make this process effortless. Getting your measurements right is the first step to achieving that perfectly crispy, golden finish we all love.</p>
 

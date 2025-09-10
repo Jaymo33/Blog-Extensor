@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-minced-beef"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Grams Is 1.75 Cups of Minced Beef?</h2>
 <p>1.75 cups of minced beef equals approximately 350 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re preparing burgers, meatballs, or a hearty beef stir-fry, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Minced beef is a versatile ingredient, and getting the measurements right is key to perfect cooking.</p>

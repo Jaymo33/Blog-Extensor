@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50 grams of cream is approximately 0.21 cups (UK) or 0.20 cups (US). This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a dessert or a savoury dish, knowing the exact measurement ensures perfect results every time.</p>  
 

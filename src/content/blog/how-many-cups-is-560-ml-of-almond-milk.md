@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>560 ml of almond milk equals approximately 2.37 cups. Whether you're whipping up a dairy-free cake or a creamy sauce in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. Almond milk is a popular alternative for those avoiding dairy, and precise measurements are key to nailing textures and flavours.</p>
 

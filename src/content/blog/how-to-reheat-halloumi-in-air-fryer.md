@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-halloumi-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat halloumi in an air fryer, preheat to 180°C and cook for 3-4 minutes until warmed through and crispy. This method preserves the cheese’s texture far better than microwaving. Whether you’re working with leftovers or pre-cooked halloumi, your air fryer can restore that perfect golden crust.</p>
 

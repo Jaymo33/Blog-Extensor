@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>450 grams of olive oil is approximately 1.9 cups, making it a handy measurement for cooking and baking. Whether you're preparing a dish in your air fryer or following a recipe, knowing this conversion ensures accuracy. Olive oil's density means it doesn't weigh the same as water, so grams-to-cups conversions are essential. For air fryer enthusiasts, precise measurements like 450 grams of olive oil in cups can make all the difference. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a> for more handy conversion tips.</p>
 

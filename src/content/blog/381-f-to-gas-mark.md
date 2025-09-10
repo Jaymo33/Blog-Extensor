@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/381-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>381°F converts to Gas Mark 5, a standard setting for roasting and baking in both air fryers and conventional ovens. This temperature is commonly used for dishes like roasted meats, casseroles, and certain baked goods where moderate heat ensures even cooking without burning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend Gas Mark 5 (381°F) as a versatile setting that adapts well to most air fryer models.</p>
 

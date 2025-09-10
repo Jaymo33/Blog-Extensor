@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-maple-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of maple syrup equals approximately 0.042 cups (or roughly 1/24 of a cup). If you're using an air fryer for baking or glazing, this conversion ensures your recipes turn out perfectly every time. Whether you're making air-fried pancakes or drizzling syrup over roasted vegetables, knowing how to measure 10 ml of maple syrup in cups is essential for consistency.</p>  
 

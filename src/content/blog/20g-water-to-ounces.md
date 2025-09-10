@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-water-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20 grams of water equals approximately 0.705 ounces. This conversion is essential for precise measurements in air fryer recipes, where accuracy can make or break your dish. Whether you’re adjusting a recipe or scaling ingredients, knowing how to convert 20g of water to ounces ensures consistency in your cooking.</p>  
 

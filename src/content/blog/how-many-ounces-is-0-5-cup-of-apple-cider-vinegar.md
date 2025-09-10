@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-apple-cider-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of apple cider vinegar equals 4 fluid ounces (oz). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or glazes. Whether you're preparing a tangy chicken dish or a zesty vegetable roast, knowing how many ounces are in 0.5 cup of apple cider vinegar helps maintain consistency in your cooking.</p>  
 

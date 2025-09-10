@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-maple-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of maple syrup equals approximately 10.64 ounces (oz) in UK measurements. This conversion is essential for air fryer recipes that require precise amounts of maple syrup to achieve the perfect balance of sweetness and texture. Whether you’re glazing salmon or drizzling over air-fried desserts, knowing the exact weight ensures consistent results.</p>  
 

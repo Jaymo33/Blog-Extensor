@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-porridge-oats"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons (tbsp) of porridge oats weigh approximately 20 grams (g). This conversion is essential for precise measurements, especially when preparing air fryer recipes where accuracy impacts texture and cooking times. Whether you're making breakfast oats or baking, knowing how to convert 2.5 tbsp porridge oats to grams ensures consistent results every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-plain-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>200g of plain flour equals approximately 7.05 ounces. This conversion is essential for UK bakers who need precise measurements for air fryer recipes. Whether you’re making cakes, cookies, or bread, getting the flour weight right ensures perfect results every time. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  
 

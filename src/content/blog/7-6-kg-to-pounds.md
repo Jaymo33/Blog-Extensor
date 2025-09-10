@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/7-6-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>7.6 kg is equal to approximately 16.755 pounds. This conversion is essential when you're preparing ingredients for your air fryer, especially if you're following a recipe that uses imperial measurements. Knowing how to convert 7.6 kg to pounds ensures you use the right amount of food, leading to perfectly cooked meals every time. Whether you're meal prepping or trying a new dish, accurate measurements make all the difference. For more handy conversions, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

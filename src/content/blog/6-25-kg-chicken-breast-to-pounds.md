@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-25-kg-chicken-breast-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you're wondering what 6.25 kg chicken breast is in pounds, the answer is approximately 13.78 pounds. This conversion is essential for anyone using an air fryer, as accurate measurements ensure even cooking and perfect results. Whether you're preparing a large batch for meal prep or cooking for a family gathering, knowing how to convert 6.25 kg chicken breast to pounds helps you follow recipes precisely. You can find more handy conversion tips and guides at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>. Keeping this conversion in mind will make your air frying experience smoother and more enjoyable.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-soy-sauce-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of soy sauce equals approximately 0.705 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when marinating meats or seasoning dishes. Whether you're whipping up a quick stir-fry or a flavourful glaze, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>
 

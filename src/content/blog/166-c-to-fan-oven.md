@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 166 C in a Fan Oven</h2>
 <p>166°C in a fan oven is equivalent to approximately 150°C in a conventional oven. This conversion is crucial for achieving perfect results when baking or roasting. Fan ovens circulate hot air evenly, allowing for lower temperatures and faster cooking times. If you're using an air fryer, which operates similarly to a fan oven, you might need to adjust recipes accordingly. For more detailed conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

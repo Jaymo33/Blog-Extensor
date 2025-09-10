@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-corn-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of corn syrup equals 355 ml, making it easy to measure for recipes. Whether you're baking or cooking in your air fryer, precise measurements ensure perfect results every time. Corn syrup is a common ingredient in many desserts and sauces, so knowing this conversion is handy. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>
 

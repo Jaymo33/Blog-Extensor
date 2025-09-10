@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-sesame-seeds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of sesame seeds equals approximately 1.2 ounces (34 grams) in UK measurements. This conversion is essential for air fryer recipes, where precise ingredient quantities can make or break your dish. Whether you’re sprinkling sesame seeds over salmon or mixing them into a crispy tofu coating, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you nail every recipe. Keep reading for tips on measuring sesame seeds and how to use them in your air fryer.</p>
 

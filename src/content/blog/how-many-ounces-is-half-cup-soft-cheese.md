@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Half a cup of soft cheese, such as cream cheese or mascarpone, weighs approximately 4 ounces. This conversion is essential for air fryer cooking, where precision ensures your recipes have the perfect texture and consistency. Whether you are making a creamy dip, a stuffed chicken breast, or a decadent dessert, knowing this measurement is the first step to success. Getting the weight right prevents your dish from being too dry or overly wet. You can find countless recipes that utilise this measurement on our site, <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>
 

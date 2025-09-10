@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-fish-fingers-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat fish fingers in an air fryer, set the temperature to 180°C (350°F) and cook for 3–5 minutes until crispy. This method restores the crunch without drying them out, making it the best way to reheat fish fingers in an air fryer. Whether you’re working with leftovers or refrigerated fish fingers, the air fryer delivers consistent results every time.</p>  
 

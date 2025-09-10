@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-maple-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>60 ml of maple syrup equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes, where precise measurements ensure the best texture and flavour. Whether you're making glazes, marinades, or baked goods, knowing how to convert millilitres to cups saves time and avoids kitchen mishaps.</p>  
 

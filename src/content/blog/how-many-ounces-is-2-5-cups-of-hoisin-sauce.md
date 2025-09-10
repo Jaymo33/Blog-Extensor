@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-hoisin-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of hoisin sauce equals approximately 20 fluid ounces (or 20 oz). This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you’re marinating chicken or glazing salmon, knowing how many ounces are in 2.5 cups of hoisin sauce helps you nail the flavour every time.</p>
 

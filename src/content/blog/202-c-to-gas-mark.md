@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/202-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>202°C converts to Gas Mark 6 for conventional ovens and air fryers. This temperature is commonly used for baking cakes, roasting vegetables, and cooking many air fryer recipes to perfection. Understanding this conversion helps when switching between appliances or following older recipes that use Gas Mark measurements.</p>
 

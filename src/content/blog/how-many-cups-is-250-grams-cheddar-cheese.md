@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-cheddar-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250 grams of cheddar cheese is roughly equivalent to 2.5 cups when grated. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re making cheesy nachos, stuffed mushrooms, or a gooey casserole, knowing how many cups 250 grams of cheddar cheese equals ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results every time.</p>
 

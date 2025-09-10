@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/258-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>258°F converts to Gas Mark 1/4, which is the lowest setting on most traditional ovens. This gentle heat is perfect for slow cooking or keeping dishes warm in your air fryer. Many air fryer recipes call for higher temperatures, but understanding this conversion helps when adapting traditional oven recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your appliance's manual as some models may not maintain stable temperatures this low.</p>
 

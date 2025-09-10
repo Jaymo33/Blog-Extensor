@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-evaporated-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>310 ml of evaporated milk is approximately 1.31 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're making custards, cakes, or creamy sauces, knowing how to convert 310 ml of evaporated milk to cups ensures your recipes turn out perfectly every time.</p>  
 

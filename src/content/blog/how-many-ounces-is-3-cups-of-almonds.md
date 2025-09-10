@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of almonds weigh approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, ensuring accurate ingredient measurements for perfect results every time. Whether you're making almond-crusted chicken or a batch of roasted almonds, knowing this measurement helps maintain consistency.</p>  
 

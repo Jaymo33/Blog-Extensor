@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/23-5-kg-to-pounds-fe8f2"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>23.5 kg is equal to approximately 51.81 pounds. This conversion is essential for air fryer users who encounter recipes or packaging with metric measurements. Whether you're weighing ingredients, portioning meat, or calculating capacity, knowing how to convert 23.5 kg to pounds ensures accuracy and perfect results. Many air fryer recipes, especially those from international sources, use kilograms, so this skill is incredibly useful. Getting your quantities right is the first step to delicious, evenly cooked meals every time.</p>
 

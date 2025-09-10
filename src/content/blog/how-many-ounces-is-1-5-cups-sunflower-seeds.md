@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-sunflower-seeds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of sunflower seeds equals approximately 7.5 ounces (213 grams). This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're roasting seeds for a snack or incorporating them into a dish, knowing the exact weight helps maintain consistency.</p>  
 

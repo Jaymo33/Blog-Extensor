@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>910 ml of lime juice is approximately 3.85 cups in the US measurement system and 3.6 cups in the UK system. Whether you're preparing a zesty marinade or a tangy dessert, knowing this conversion ensures your air fryer recipes turn out perfectly every time. Accurate measurements are key in cooking, especially when working with potent ingredients like lime juice. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these details for flawless results.</p>
 

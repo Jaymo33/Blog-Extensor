@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/251-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 251 C to Gas Mark?</h2>
 <p>251°C converts to Gas Mark 9, a high heat setting perfect for roasting, baking, and air frying. This temperature is commonly used for dishes that need a crispy exterior, like roasted vegetables or Yorkshire puddings. If you're using an air fryer, you might find that cooking times are shorter than in a conventional oven. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>. Always preheat your air fryer or oven to ensure even cooking.</p>

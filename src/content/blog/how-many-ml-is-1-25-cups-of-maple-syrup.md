@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-maple-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of maple syrup equals approximately 295.74 ml. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re drizzling it over air-fried pancakes or using it as a glaze for roasted vegetables, knowing the exact ml equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making conversions effortless so you can focus on cooking. Keep reading to learn more about measuring maple syrup and other handy tips.</p>
 

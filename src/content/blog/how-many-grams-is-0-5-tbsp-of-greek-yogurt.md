@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-greek-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 tbsp of greek yogurt equals approximately 7.5 grams. This measurement is essential for air fryer recipes where precision matters, whether you're making dips, marinades, or baked goods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that accurate conversions can make or break a dish, especially when working with creamy ingredients like greek yogurt.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-powdered-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of powdered milk weighs approximately 4.4 ounces (125 grams) in the UK. This measurement is essential for air fryer recipes that require precise ingredient quantities, ensuring your dishes turn out perfectly every time. Whether you're baking, cooking, or meal prepping, knowing how to convert 1 cup of powdered milk to ounces is a game-changer.</p>
 

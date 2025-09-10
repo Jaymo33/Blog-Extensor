@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/366-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>366 F to Gas Mark Conversion Explained</h2>
 <p>366°F converts to Gas Mark 5 in UK ovens and air fryers. This moderate oven temperature is perfect for baking, roasting, and air frying a variety of dishes. Whether you're adapting an American recipe or checking your air fryer settings, knowing this conversion ensures your food cooks perfectly every time. Many modern air fryers at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> feature both Fahrenheit and Gas Mark displays for convenience. The 366 F to Gas Mark conversion is particularly useful for British cooks using international recipes.</p>

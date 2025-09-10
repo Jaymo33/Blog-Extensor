@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-glass-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put glass in an air fryer, but only if it's borosilicate or tempered glass specifically rated for high temperatures. Regular drinking glasses or bakeware often can't handle the rapid heating and may shatter. At airfryerrecipe.co.uk, we always recommend checking manufacturer guidelines before attempting to use any glass in your appliance.</p>
 

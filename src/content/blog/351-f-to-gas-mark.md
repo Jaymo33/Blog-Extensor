@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/351-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 351 F in Gas Mark?</h2>
 <p>351 F converts to Gas Mark 4, a common setting for baking and roasting in both traditional ovens and air fryers. This temperature is perfect for achieving even cooking without burning your dishes. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out just right. Many British recipes use Gas Mark, so this conversion is especially handy for home cooks. For more temperature guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

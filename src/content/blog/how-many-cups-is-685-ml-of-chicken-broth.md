@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>685 ml of chicken broth is roughly 2.9 cups in the UK or 2.75 cups in the US. This conversion is handy for air fryer recipes where precise liquid measurements matter. Whether you're making a stew, gravy, or marinade, knowing how to switch between millilitres and cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs. Let’s break down the details so you can measure with confidence.</p>  
 

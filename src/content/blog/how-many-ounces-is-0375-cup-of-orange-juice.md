@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-orange-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of orange juice equals exactly 3 ounces (UK measurement). This conversion is essential for air fryer recipes, ensuring precise ingredient ratios for perfect results every time. Whether you're whipping up a marinade or a glaze, knowing how to convert 0.375 cup of orange juice to ounces is a game-changer.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>375 grams of yogurt is approximately 1.5 cups in standard US measurements and roughly 1.6 cups in UK metric measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a creamy marinade or a fluffy cake, knowing how to convert grams to cups ensures consistent results every time.</p>  
 

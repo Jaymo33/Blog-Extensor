@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>160 ml of water equals approximately 0.68 cups in the UK or 0.67 cups in the US. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're preparing a cake, a sauce, or even a marinade, knowing how many cups is 160 ml of water ensures consistency in your dishes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right for perfect results every time.</p>  
 

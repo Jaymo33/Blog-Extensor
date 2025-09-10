@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/284-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>284°F converts to approximately 140°C in a fan oven. This is a common temperature for slow roasting or baking delicate dishes, and it’s useful to know when adapting recipes for your air fryer. Fan ovens circulate hot air for even cooking, much like an air fryer, but their temperature scales differ slightly. Whether you’re using a conventional oven or an air fryer, getting the conversion right ensures your food cooks perfectly every time.</p>
 

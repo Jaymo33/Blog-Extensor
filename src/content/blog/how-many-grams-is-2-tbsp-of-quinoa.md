@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-quinoa"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 tablespoons (tbsp) of quinoa weigh approximately 25 grams. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you’re meal prepping or whipping up a quick dish, knowing this conversion saves time and hassle.</p>
 

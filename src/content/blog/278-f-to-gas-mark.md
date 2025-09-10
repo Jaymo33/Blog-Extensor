@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/278-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>278°F converts to Gas Mark 1 for oven cooking. This is a gentle heat ideal for slow roasting, proofing dough, or keeping dishes warm. When using an air fryer, you'll typically set the temperature directly rather than converting to Gas Mark, but understanding oven equivalents helps when adapting traditional recipes.</p>
 

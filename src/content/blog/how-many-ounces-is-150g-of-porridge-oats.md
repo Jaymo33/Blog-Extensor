@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-porridge-oats"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150g of porridge oats equals approximately 5.29 ounces. This conversion is essential for UK cooks using air fryers, where precise measurements can make all the difference in your breakfast results. Whether you're making overnight oats or crispy oat toppings, knowing this conversion helps achieve perfect texture every time.</p>
 

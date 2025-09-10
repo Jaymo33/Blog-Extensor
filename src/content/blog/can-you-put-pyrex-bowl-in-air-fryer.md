@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-pyrex-bowl-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>No, you should not put a Pyrex bowl in an air fryer. While Pyrex is oven-safe, the intense, direct heat and rapid air circulation in air fryers can cause thermal shock, potentially shattering the glass. At airfryerrecipe.co.uk, we always prioritise safety alongside convenience in kitchen gadgets.</p>
 

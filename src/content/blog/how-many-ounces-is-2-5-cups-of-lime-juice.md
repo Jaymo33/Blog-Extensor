@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of lime juice equals 20 fluid ounces (UK measurement). This conversion is essential for air fryer recipes, ensuring precise marinades, dressings, or sauces. Whether you're whipping up a zesty glaze for chicken or a tangy dip for veggies, accurate measurements make all the difference. Lime juice adds brightness to dishes, and getting the quantity right ensures balanced flavours. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>
 

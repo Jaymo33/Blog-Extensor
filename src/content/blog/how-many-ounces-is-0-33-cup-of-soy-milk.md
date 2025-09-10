@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-soy-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of soy milk equals approximately 2.64 fluid ounces (UK). If you're preparing an air fryer recipe and need precise measurements, this conversion ensures your dish turns out perfectly every time. Whether you're making a creamy dessert or a savoury breakfast, knowing how to convert cups to ounces is essential for accuracy.</p>  
 

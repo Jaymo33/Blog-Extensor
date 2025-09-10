@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-8-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.8 kilograms is equal to approximately 10.5822 pounds. This conversion is incredibly useful for anyone using an air fryer, as many recipes and packaging use different measurement systems. Knowing how to quickly switch between metric and imperial units ensures you use the correct amount of ingredients every time. Whether you're portioning meat or weighing vegetables, this knowledge is key to air fryer success. For a comprehensive guide on all things conversion, be sure to bookmark <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/13-25-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>13.25 kg is equal to approximately 29.21 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or following recipes that use imperial measurements. Getting your weights right ensures even cooking and perfect results every time. Whether you're preparing a big family meal or meal prepping for the week, accurate conversions make all the difference. Trust us, your air fryer will thank you for the precision.</p>
 

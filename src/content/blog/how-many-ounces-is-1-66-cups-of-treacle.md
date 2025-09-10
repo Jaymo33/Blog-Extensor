@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-treacle"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.66 cups of treacle equals approximately 13.28 ounces. This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements matter. Treacle, a thick syrup, can vary slightly in weight, but this standard conversion ensures accuracy for your recipes.</p>  
 

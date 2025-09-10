@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-teriyaki-chicken-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat teriyaki chicken in an air fryer, set the temperature to 160°C (320°F) and cook for 3–5 minutes until heated through. This method ensures the chicken stays moist while crisping up the glaze, giving you restaurant-quality results from leftovers. Whether you’re using freshly cooked or refrigerated teriyaki chicken, the air fryer is the best appliance for reviving its texture and flavour.</p>  
 

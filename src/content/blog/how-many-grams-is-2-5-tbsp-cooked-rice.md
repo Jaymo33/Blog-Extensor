@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-cooked-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons (tbsp) of cooked rice equals approximately 37.5 grams (g) in UK measurements. This conversion is handy for air fryer recipes where precision matters, whether you’re reheating leftovers or cooking a fresh batch. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements can make or break a dish—especially when portioning rice for crispy air-fried rice cakes or balanced meals.</p>  
 

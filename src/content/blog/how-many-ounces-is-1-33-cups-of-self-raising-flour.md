@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of self-raising flour equals approximately 5.3 ounces (150 grams). This conversion is essential for air fryer baking, where precision ensures perfect texture and rise. Whether you're making cakes, muffins, or bread, knowing the exact weight of your flour can make or break your recipe.</p>  
 

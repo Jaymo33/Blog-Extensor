@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of flour equals approximately 1.5 ounces (oz) in UK measurements. This conversion is essential for precise baking, especially when using air fryers where ingredient ratios affect texture and cooking times. Whether you're making air fryer cookies or cakes, getting your flour measurements right ensures consistent results every time.</p>
 

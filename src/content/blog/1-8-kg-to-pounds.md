@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.8 kg is equal to approximately 3.968 pounds, a conversion that is incredibly useful when preparing ingredients for your air fryer. Many recipes, especially those from American sources or older cookbooks, use pounds and ounces, so knowing how to convert 1.8 kg to pounds ensures you never get your quantities wrong. This is particularly important for air fryer cooking, where precise ingredient weights can affect cooking times and final texture. Getting this conversion right means your meals will be perfectly cooked every single time. For a comprehensive guide to all your conversion needs, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our air fryer conversion chart</a>.</p>
 

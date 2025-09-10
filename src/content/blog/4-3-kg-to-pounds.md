@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-3-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.3 kg is equal to approximately 9.48 pounds, a conversion that's incredibly useful when preparing ingredients for your air fryer. Whether you're portioning meat, vegetables, or frozen goods, knowing how to convert 4.3 kg to pounds ensures you use the right amounts for even cooking and fantastic results. This is especially handy for British cooks who use a mix of metric and imperial measurements in their kitchens. Getting your weights spot-on means your air fryer can work its magic efficiently, giving you crispy, delicious meals every time. For more handy conversions, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

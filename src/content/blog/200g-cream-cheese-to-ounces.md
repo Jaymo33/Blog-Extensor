@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/200g-cream-cheese-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>200g of cream cheese equals approximately 7.05 ounces. This conversion is essential for UK bakers who follow recipes using both metric and imperial measurements. Whether you're preparing a New York cheesecake in your air fryer or whipping up a creamy frosting, knowing this conversion ensures perfect results every time.</p>
 

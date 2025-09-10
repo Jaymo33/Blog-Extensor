@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/199-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 199 C to Gas Mark?</h2>
 <p>199 degrees Celsius is equivalent to Gas Mark 6. This conversion is essential for air fryer and oven cooking, ensuring your recipes turn out perfectly every time. Whether you're baking, roasting, or air frying, knowing the Gas Mark equivalent helps you adjust settings accurately. Many air fryer recipes, like those on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, provide temperatures in Celsius, but some traditional recipes still use Gas Mark. Understanding this conversion ensures you never undercook or overcook your meals. It’s particularly useful for dishes like cakes, casseroles, or roasted vegetables.</p>

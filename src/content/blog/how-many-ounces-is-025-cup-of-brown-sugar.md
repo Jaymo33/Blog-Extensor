@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of brown sugar equals approximately 2 ounces (or 56.7 grams) in UK measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're baking cookies or glazing meats, knowing how to convert 0.25 cup of brown sugar to ounces helps avoid kitchen mishaps.</p>  
 

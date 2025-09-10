@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you're wondering how many ounces is 3 cups of soft cheese, the straightforward answer is approximately 24 ounces. This conversion is essential for air fryer recipes where precision can make or break your dish. Whether you're making a creamy dip, a stuffed chicken breast, or a cheesecake bite, getting the measurement right ensures perfect texture and flavour. Soft cheese, like cream cheese or ricotta, is often used in air fryer cooking for its versatility and melt-in-the-mouth quality. For more handy conversions, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>
 

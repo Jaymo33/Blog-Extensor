@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-silicone-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can safely use food-grade silicone in an air fryer as it withstands typical cooking temperatures up to 220°C. High-quality silicone won't melt, catch fire, or release harmful chemicals when used properly in air fryers. Many home cooks regularly use silicone liners, moulds, and baskets to make air frying easier and cleanup quicker.</p>
 

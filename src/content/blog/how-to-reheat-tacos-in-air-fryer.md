@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tacos-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat tacos in an air fryer, set the temperature to 160°C (320°F) and cook for 3-4 minutes until warmed through. This method keeps the shells crispy while gently reheating the fillings without drying them out. Whether you have leftover beef, chicken, or veggie tacos, the air fryer is your best bet for reviving them. For more air fryer tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> to adjust recipes perfectly.</p>
 

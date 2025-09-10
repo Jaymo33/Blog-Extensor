@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/5-5-kg-to-pounds-b9780"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5.5 kg is equal to approximately 12.125 pounds, which is a crucial conversion for anyone using an air fryer and working with recipes that use imperial measurements. Getting your weights accurate ensures your cooking times and results are spot on, especially when preparing larger batches of food. Whether you're cooking a whole chicken, a big batch of roast potatoes, or meal prepping for the week, knowing how to convert 5.5 kg to pounds is an essential kitchen skill. This conversion helps avoid under or overcooking, which is vital for achieving that perfect crispness we all love from our air fryers. For more handy conversion tools, be sure to bookmark the helpful resources at <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

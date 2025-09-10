@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-tomato-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>460 ml of tomato sauce is roughly equivalent to 1.94 cups in the US or 1.62 cups in the UK. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making pasta sauce, casseroles, or marinades, getting the measurement right makes all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, so let’s dive into the details.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/471-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>471°F is equivalent to Gas Mark 9, the highest standard setting on most UK ovens. This high temperature is ideal for achieving crispy results in air fryers or traditional ovens, perfect for roasting meats or baking pastries. Whether you're using an air fryer or a conventional oven, knowing this conversion ensures your dishes cook evenly and efficiently. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless cooking every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-blueberries"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125 grams of blueberries equals approximately 0.75 UK cups or 0.9 US cups. This conversion is essential for air fryer recipes where precise measurements matter. Whether you’re making blueberry muffins or a fruity compote, knowing how many cups is 125 grams of blueberries ensures consistent results every time.</p>
 

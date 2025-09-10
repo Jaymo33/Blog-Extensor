@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-chilli-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 tbsp of chilli sauce weighs approximately 7.5 grams. This measurement is essential for air fryer recipes where precision ensures perfect flavour and texture. Whether you're whipping up a spicy marinade or adding a kick to your dish, knowing the exact weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make cooking effortless. Keep reading to learn more about measuring chilli sauce and other handy tips.</p>
 

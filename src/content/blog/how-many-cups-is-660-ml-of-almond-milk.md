@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>660 ml of almond milk equals approximately 2.79 cups in the UK or 2.8 cups in the US. This conversion is essential for air fryer recipes, baking, and cooking where precision matters. Whether you're whipping up a dairy-free cake or a creamy sauce, knowing how to measure almond milk correctly ensures perfect results every time.</p>
 

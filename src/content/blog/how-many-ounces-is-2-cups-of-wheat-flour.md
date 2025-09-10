@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of wheat flour equals approximately 9 ounces (oz) in weight. This conversion is essential for bakers who rely on precise measurements to achieve perfect textures in cakes, bread, and air fryer recipes. Whether you're using a kitchen scale or measuring cups, knowing this conversion ensures consistency in your baking.</p>  
 

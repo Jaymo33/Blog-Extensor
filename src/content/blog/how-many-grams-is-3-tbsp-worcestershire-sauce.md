@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-worcestershire-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons (tbsp) of worcestershire sauce weigh approximately 45 grams (g) in the UK. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you’re marinating chicken, beef, or vegetables, knowing the exact gram equivalent ensures consistent results every time.</p>  
 

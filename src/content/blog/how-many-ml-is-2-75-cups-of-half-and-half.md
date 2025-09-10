@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.75 cups of half and half equals approximately 650.62 millilitres (ml). This conversion is essential for air fryer recipes, ensuring precise measurements for creamy sauces, desserts, or baked goods. Whether you’re following a British or American recipe, knowing how to convert cups to ml guarantees consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify kitchen conversions so you can focus on cooking.</p>  
 

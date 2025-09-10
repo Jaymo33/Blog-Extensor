@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/452-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>452 F converts to approximately 233 C in a fan oven, which is the standard setting for high-temperature roasting or baking. This conversion is essential for air fryer users who need to replicate recipes designed for conventional ovens. At airfryerrecipe.co.uk, we specialise in making these conversions simple and accurate for home cooks.</p>
 

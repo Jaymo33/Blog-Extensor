@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/46-5-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>46.5 kg is equal to approximately 102.515 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when buying ingredients in bulk. Knowing how to convert 46.5 kg to pounds can help you portion meals accurately, avoid overloading your air fryer basket, and ensure even cooking. Whether you're meal prepping for the week or trying out a new dish, getting the weight right makes all the difference. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

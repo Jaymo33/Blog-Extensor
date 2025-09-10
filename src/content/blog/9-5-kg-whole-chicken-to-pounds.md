@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/9-5-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 9.5 kg whole chicken to pounds is simple: it equals approximately 20.94 pounds. This conversion is essential for air fryer users who need to adjust cooking times and temperatures based on the bird's weight. Whether you're planning a Sunday roast or meal prepping for the week, knowing the exact weight in pounds helps achieve perfectly cooked, juicy chicken. Many recipes, especially those from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, use imperial measurements, so this conversion is a handy skill. Always double-check your chicken's weight to ensure the best results in your air fryer.</p>
 

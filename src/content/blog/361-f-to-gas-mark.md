@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 361 F to Gas Mark Conversion</h2>
 <p>361 degrees Fahrenheit converts to Gas Mark 4.5 in UK ovens and air fryers. This temperature sits between Gas Mark 4 and 5, making it ideal for moderate baking and roasting. When using an air fryer, you'll often find recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> that require precise temperature control. The 361 F to Gas Mark conversion is particularly useful for British cooks who prefer using the Gas Mark system. Many air fryer models allow you to switch between temperature scales for convenience.</p>

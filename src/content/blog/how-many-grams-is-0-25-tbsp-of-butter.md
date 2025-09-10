@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 tbsp of butter equals approximately 3.55 grams in the UK. This conversion is essential for precision in air fryer recipes, where accurate measurements can make or break a dish. Whether you’re whipping up a batch of cookies or preparing a savoury dish, knowing the exact weight of butter ensures consistent results every time.</p>
 

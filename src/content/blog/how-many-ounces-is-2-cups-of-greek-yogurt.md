@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-greek-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of Greek yogurt equals approximately 16 ounces (or 454 grams) in weight. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, knowing this measurement ensures consistency.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-cooked-rice-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of cooked rice equals approximately 0.71 ounces. This conversion is essential for air fryer users who need precise measurements for perfect results every time. Whether you're preparing a quick rice dish or measuring portions for meal prep, understanding this conversion will help you achieve consistent cooking outcomes in your air fryer.</p>
 

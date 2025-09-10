@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/388-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>388°F converts to Gas Mark 5 in conventional ovens and requires slight adjustments for air fryer cooking. This temperature is commonly used for baking cookies, cakes, and some roasted vegetables. Whether you're using a traditional oven or modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>
 

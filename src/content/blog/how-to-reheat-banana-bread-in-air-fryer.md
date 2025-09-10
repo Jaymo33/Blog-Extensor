@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-banana-bread-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating banana bread in an air fryer is simple: set it to 160°C (320°F) for 3-5 minutes for a warm, moist slice. This method keeps the texture perfect without drying it out, making it ideal for leftovers or next-day treats. Whether your banana bread is fresh or from the fridge, the air fryer delivers even heat distribution for consistent results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>  
 

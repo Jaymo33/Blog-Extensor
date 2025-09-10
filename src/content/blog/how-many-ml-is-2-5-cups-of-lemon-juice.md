@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of lemon juice is equivalent to 591.47 ml. This conversion is crucial for precision in cooking, especially when preparing air fryer recipes that rely on exact measurements for the perfect balance of flavours. Whether you're making a tangy glaze or a citrusy marinade, knowing how many ml is 2.5 cups of lemon juice ensures your dish turns out just right.</p>
 

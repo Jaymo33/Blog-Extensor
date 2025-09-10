@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.75 cups of lemonade equals 14 fluid ounces (fl oz). This conversion is essential for precise measurements, especially when preparing air fryer recipes that require exact liquid quantities. Whether you're making a glaze, marinade, or a refreshing drink to pair with your air-fried dishes, knowing this conversion ensures consistency.</p>
 

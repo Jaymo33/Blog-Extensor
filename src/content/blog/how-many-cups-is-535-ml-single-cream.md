@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-single-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>535 ml of single cream is approximately 2.26 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy sauce or a decadent dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>
 

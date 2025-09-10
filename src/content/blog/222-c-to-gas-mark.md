@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/222-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 222 C to Gas Mark?</h2>
 <p>222°C converts to Gas Mark 7. This is the standard equivalent for most ovens and air fryers in the UK. Knowing this conversion is essential for baking, roasting, or air frying recipes that require precise temperatures. Whether you’re using a traditional oven or a modern air fryer, Gas Mark 7 ensures your dishes cook evenly. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

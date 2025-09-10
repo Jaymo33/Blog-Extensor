@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/444-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 444 F in Gas Mark?</h2>
 <p>444°F converts to Gas Mark 8 in UK ovens and air fryers. This high temperature is ideal for roasting meats, baking crusty bread, or achieving crispy textures in your air fryer. Many modern air fryers allow you to switch between Fahrenheit and Gas Mark settings, making it easier to follow traditional British recipes. If you're using an older model without this feature, you'll need to manually set the temperature to 444°F. For more conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

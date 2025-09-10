@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-chicken-broth"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>360 ml of chicken broth equals approximately 1.52 cups. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you're preparing a hearty soup or a savoury sauce, knowing how to convert millilitres to cups ensures consistent results every time. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  
 

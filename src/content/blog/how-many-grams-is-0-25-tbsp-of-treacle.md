@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-treacle"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 tbsp of treacle equals approximately 4.5 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Treacle, a thick, dark syrup, is commonly used in British baking and cooking, so getting the measurement right is key. Whether you’re making sticky toffee pudding or a glaze for meats, knowing how many grams are in 0.25 tbsp of treacle will help you achieve the best results. For more air fryer tips and conversions, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our handy conversion chart</a>.</p>
 

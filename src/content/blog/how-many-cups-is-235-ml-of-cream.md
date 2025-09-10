@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>235 ml of cream is roughly equivalent to 1 cup in both UK and US measurements. This conversion is handy for recipes, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a dessert or adding richness to a sauce, knowing how to measure cream accurately ensures perfect results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>
 

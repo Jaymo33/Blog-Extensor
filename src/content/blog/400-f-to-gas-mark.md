@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/400-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>400°F converts to Gas Mark 6, which is the standard setting for roasting, baking, and air frying in the UK. This temperature is perfect for achieving crispy textures while keeping food moist inside. Whether you're using an air fryer or a conventional oven, knowing this conversion ensures your recipes turn out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend Gas Mark 6 for dishes like roasted vegetables, chicken, and even baked goods. It’s a versatile temperature that works well for most cooking methods.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-cheddar-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>175 grams of cheddar cheese equals approximately 1.75 cups when grated or 1.5 cups when cubed. This conversion is essential for air fryer recipes where precise measurements affect texture and melting. Whether you're making cheesy nachos or a baked pasta dish in your air fryer, getting the cheese quantity right makes all the difference. Our guide at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> helps you nail these measurements every time.</p>
 

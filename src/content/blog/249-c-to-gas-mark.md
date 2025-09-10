@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/249-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>249°C converts to Gas Mark 9, which is the highest standard Gas Mark setting on most ovens. This high temperature is ideal for achieving crispy results in air fryers, especially when roasting meats or baking goods that need a quick blast of heat. Whether you're using a traditional oven or an air fryer, knowing this conversion ensures your dishes cook perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless cooking. Keep reading to learn more about using 249 C to Gas Mark in your air fryer recipes.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-broccoli"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250 grams of broccoli is roughly equivalent to 2.5 to 3 cups when chopped, depending on how finely it’s cut. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re prepping a quick stir-fry or roasting florets, knowing how many cups 250 grams of broccoli equals ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>
 

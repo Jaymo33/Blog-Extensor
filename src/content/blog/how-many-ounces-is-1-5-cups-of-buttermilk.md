@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of buttermilk equals 12 fluid ounces (or approximately 340 grams). Whether you're preparing a marinade, baking a cake, or whipping up a batch of fluffy pancakes in your air fryer, knowing this conversion ensures your recipes turn out just right. Precise measurements are key, especially when working with buttermilk, as its thickness can affect the outcome of your dish.</p>  
 

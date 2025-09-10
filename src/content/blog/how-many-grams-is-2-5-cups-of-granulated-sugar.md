@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-granulated-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of granulated sugar equals 500 grams. This conversion is essential for baking, especially when using an air fryer, where precision ensures even cooking. Whether you're making cakes, cookies, or desserts, knowing the exact weight helps avoid mishaps. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>
 

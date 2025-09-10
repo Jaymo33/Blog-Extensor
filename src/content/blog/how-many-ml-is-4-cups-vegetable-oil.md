@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-vegetable-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.0 cups of vegetable oil equals 946 ml, making it easy to measure for air fryer recipes. Whether you’re preparing crispy chips or baking a cake, precise measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for perfect dishes. This conversion is essential for both UK and US cooks, as cups and millilitres vary slightly by region. Let’s break down the details to help you measure like a pro.</p>
 

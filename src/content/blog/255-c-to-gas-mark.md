@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/255-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 255 C in Gas Mark?</h2>
 <p>255°C converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is ideal for roasting meats, baking pastries, or achieving crispy results in your air fryer. Many traditional oven recipes, especially those for pies or roasted vegetables, call for this temperature setting. If you're using an air fryer, you might need to adjust cooking times slightly compared to a conventional oven. For more air fryer temperature conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

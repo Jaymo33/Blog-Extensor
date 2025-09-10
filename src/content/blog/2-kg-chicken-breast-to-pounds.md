@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 kg of chicken breast converts to approximately 4.41 pounds, making it essential knowledge for anyone cooking with precise measurements. This conversion is particularly useful when preparing air fryer recipes that require specific weights for perfect cooking times and results. Whether you're meal prepping or following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, understanding this measurement ensures your dishes turn out exactly as intended. Many British recipes use metric measurements, while some older cookbooks might use imperial, so being able to convert between the two is a valuable kitchen skill. Getting this right means your chicken will cook evenly and reach the ideal internal temperature for safe and delicious eating.</p>
 

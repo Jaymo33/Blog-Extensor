@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of lime juice equals approximately 0.042 cups (or roughly 1/24 of a cup). This small but crucial measurement is often needed for recipes, especially when using an air fryer for zesty marinades or dressings. Whether you're whipping up a tangy glaze for chicken or adding a citrus kick to desserts, knowing this conversion ensures precision. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these details for flawless cooking every time.</p>  
 

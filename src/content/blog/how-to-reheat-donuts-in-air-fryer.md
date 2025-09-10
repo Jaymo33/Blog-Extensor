@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-donuts-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating donuts in an air fryer takes just 2-3 minutes at 160°C (320°F), restoring their crispiness without drying them out. This method works brilliantly for glazed, filled, or plain donuts, giving them a second life with minimal effort. Whether you’ve got day-old bakery treats or homemade batches, your air fryer can revive them better than a microwave or oven. For more air fryer tips, explore <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>
 

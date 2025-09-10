@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-greek-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100g of Greek yogurt equals approximately 3.53 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially when following British or international cooking guides. Whether you're meal prepping or whipping up a quick breakfast, knowing how to convert grams to ounces ensures your dishes turn out perfectly.</p>
 

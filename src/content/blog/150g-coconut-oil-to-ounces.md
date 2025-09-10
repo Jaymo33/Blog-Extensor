@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/150g-coconut-oil-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150g of coconut oil equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re making crispy roasted vegetables or a decadent dessert, getting the right amount of coconut oil ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for cooking success. Let’s dive deeper into why this measurement matters and how to use it in your air fryer.</p>
 

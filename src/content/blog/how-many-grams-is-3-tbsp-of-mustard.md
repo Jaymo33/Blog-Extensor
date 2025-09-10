@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-mustard"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons of mustard weigh approximately 45 grams. This measurement is essential for air fryer recipes where precision ensures the best results. Whether you’re making a glaze, marinade, or dipping sauce, knowing the exact weight helps you nail the recipe every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking game. Let’s dive deeper into mustard measurements and their role in air frying.</p>
 

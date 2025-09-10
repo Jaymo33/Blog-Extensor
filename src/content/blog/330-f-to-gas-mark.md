@@ -5,8 +5,11 @@ pubDate: 2025-07-20T00:00:00.000Z
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/330-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>330°F converts to Gas Mark 3, which is a moderate oven temperature perfect for baking and roasting in both air fryers and conventional ovens. This temperature is commonly used for cookies, cakes, and slow-roasted meats, ensuring even cooking without burning. Whether you're using an air fryer or a traditional oven, knowing this conversion helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide detailed guides to make cooking effortless. Let’s dive deeper into how this conversion works and its practical applications.</p>
 

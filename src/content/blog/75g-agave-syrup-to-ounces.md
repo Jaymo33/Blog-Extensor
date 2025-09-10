@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/75g-agave-syrup-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Converting 75g of agave syrup to ounces</h2>
 <p>75g of agave syrup equals approximately 2.65 ounces. This conversion is essential for UK cooks using American recipes or precise air fryer measurements. Agave syrup's thick consistency means weight measurements are more accurate than volume. Whether you're making air fryer desserts or marinades, getting this conversion right ensures perfect results. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference.</p>

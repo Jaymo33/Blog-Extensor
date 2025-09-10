@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-cranberries"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of cranberries weigh approximately 12 ounces (340 grams). This measurement is essential for air fryer recipes, ensuring accurate ingredient ratios for the best results. Whether you're making cranberry sauce, baked goods, or a festive side dish, knowing this conversion helps streamline your cooking process.</p>  
 

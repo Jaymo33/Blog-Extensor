@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tofu-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating tofu in an air fryer takes just 3-5 minutes at 180°C (350°F), restoring its crispy exterior while keeping the inside tender. This method beats microwaving hands down, preventing that dreaded soggy texture. Whether you’ve got leftover takeaway tofu or meal-prepped batches from <a href="https://www.airfryerrecipe.co.uk/recipes">our tofu recipes</a>, your air fryer delivers superior results.</p>
 

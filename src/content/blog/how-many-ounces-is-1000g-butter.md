@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1000 grams of butter equals approximately 35.27 ounces. This conversion is essential for anyone using recipes that list ingredients in grams or ounces, especially when preparing dishes in an air fryer. Whether you're baking, frying, or meal prepping, knowing how to convert 1000g butter to ounces ensures accuracy and perfect results every time.</p>
 

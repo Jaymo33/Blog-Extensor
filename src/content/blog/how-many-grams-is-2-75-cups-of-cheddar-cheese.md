@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-cheddar-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.75 cups of cheddar cheese equals approximately 310 grams. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making cheesy fries, stuffed mushrooms, or a gooey casserole, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know that accuracy is key to delicious results.</p>  
 

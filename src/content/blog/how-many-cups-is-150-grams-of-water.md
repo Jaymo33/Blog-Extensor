@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150 grams of water equals approximately 0.63 cups in the UK or 0.64 cups in the US. This conversion is essential for air fryer recipes where precise liquid measurements affect texture and cooking times. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know accuracy makes the difference between soggy and crispy results.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-frozen-corn"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of frozen corn equals approximately 3.17 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results. Whether you’re whipping up a quick side dish or adding corn to a hearty meal, knowing the exact weight saves time and avoids waste.</p>
 

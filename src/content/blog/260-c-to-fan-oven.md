@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/260-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260°C in a conventional oven converts to approximately 220°C in a fan oven. This 20% reduction accounts for the fan's efficient heat distribution, ensuring even cooking without overheating. When using an air fryer, which operates similarly to a fan oven, you'll often find recipes calling for this adjusted temperature.</p>
 

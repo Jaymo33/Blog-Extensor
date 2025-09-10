@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-porridge-oats"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500g of porridge oats is equivalent to approximately 17.64 ounces. This conversion is essential for anyone using recipes that list ingredients in ounces, especially when preparing meals in an air fryer. Whether you’re meal prepping or whipping up a quick breakfast, knowing how to convert 500g of porridge oats to ounces ensures accuracy and perfect results every time.</p>
 

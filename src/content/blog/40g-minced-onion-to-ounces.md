@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/40g-minced-onion-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40g of minced onion is approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference in flavour and texture. Whether you’re whipping up a quick stir-fry or a hearty casserole, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with ingredients like minced onion that can vary in density.</p>  
 

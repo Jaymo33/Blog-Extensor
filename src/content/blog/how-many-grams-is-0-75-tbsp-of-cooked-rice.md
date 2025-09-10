@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 tbsp of cooked rice equals approximately 11 grams. This conversion is essential for precise meal prep, especially when using an air fryer where accurate measurements can make or break a recipe. Whether you're meal prepping or following a specific diet, knowing the exact weight of your ingredients ensures consistent results every time.</p>
 

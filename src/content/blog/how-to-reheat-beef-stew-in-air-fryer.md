@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-beef-stew-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating beef stew in an air fryer is simple: set it to 160°C (320°F) for 5–8 minutes, stirring halfway. This method keeps the meat tender while crisping the edges slightly, giving leftovers a fresh taste. Unlike microwaving, which can make stew soggy, the air fryer circulates heat evenly for better texture. Whether you’re using leftovers from the fridge or freezer, adjusting the time ensures perfect results. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/155-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 155 C in Fan Ovens</h2>
 <p>155 C converts directly to 135 C in a fan oven, as you typically reduce the temperature by 20 degrees when using convection settings. This adjustment accounts for the efficient heat circulation in fan-assisted ovens, which cook food more evenly than conventional ovens. When using an air fryer, which operates similarly to a fan oven, you can use this same 135 C setting for most recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking specific cooking times as air fryers often cook faster than traditional ovens. This conversion works perfectly for delicate bakes like soufflés or custards that require precise temperature control.</p>

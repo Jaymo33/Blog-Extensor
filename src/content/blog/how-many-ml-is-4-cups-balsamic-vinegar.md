@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-balsamic-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.0 cups of balsamic vinegar equals 946 ml, making it easy to measure for your recipes. Whether you’re using an air fryer or oven, precise measurements ensure the best results. Balsamic vinegar adds depth to dishes, and knowing the exact conversion helps avoid guesswork. This guide simplifies the process, so you can focus on cooking. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips.</p>
 

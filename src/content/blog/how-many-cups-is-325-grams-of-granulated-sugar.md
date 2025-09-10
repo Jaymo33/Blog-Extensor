@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-granulated-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>325 grams of granulated sugar equals approximately 1.6 cups in the UK and 1.63 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for desserts. Whether you're making cakes, cookies, or sweet treats, precise measurements ensure perfect results every time.</p>  
 

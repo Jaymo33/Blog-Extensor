@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/7-5-kg-lamb-leg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 7.5 kg lamb leg converts to approximately 16.53 pounds, making it a substantial cut perfect for feeding a crowd or meal prepping. This conversion is essential for air fryer users who need to adjust cooking times and temperatures based on weight. Whether you're roasting a whole leg or preparing smaller portions, knowing the exact pound equivalent ensures even cooking and delicious results. Using your air fryer for such a large joint might seem daunting, but with the right know-how, it's entirely achievable. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

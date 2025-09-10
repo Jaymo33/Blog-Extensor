@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/435-fan-oven-to-conventional-oven-conversion-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 435 fan oven to Fahrenheit for a conventional oven is straightforward: it equals 435°F. Fan ovens circulate hot air, so they cook faster and at lower temperatures than conventional ovens. This means you don’t need to adjust the temperature when converting from a fan oven to a conventional oven in Fahrenheit. However, cooking times may vary slightly due to differences in heat distribution. Always keep an eye on your dish to avoid overcooking.</p>
 

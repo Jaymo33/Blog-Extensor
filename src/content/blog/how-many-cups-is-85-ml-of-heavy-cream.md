@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-heavy-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>85 ml of heavy cream is approximately 0.36 cups in the US measurement system and roughly 0.3 cups in the UK. Whether you're whipping up a dessert or adding richness to a sauce, knowing this conversion ensures your recipes turn out just right. Heavy cream is a staple in many dishes, from air fryer cakes to creamy pasta, so getting the measurement spot-on matters. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>  
 

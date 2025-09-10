@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-agave-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4 tablespoons (tbsp) of agave syrup equals approximately 85 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making glazes, marinades, or baked goods, knowing the exact weight of agave syrup helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking. Keep reading to learn more about converting tablespoons to grams and why it matters for air fryer success.</p>
 

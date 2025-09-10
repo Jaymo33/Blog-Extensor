@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>960 ml of honey is equivalent to approximately 4.06 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're whipping up a glaze or sweetening a marinade, knowing how to convert 960 ml of honey to cups ensures your dishes turn out perfectly every time.</p>
 

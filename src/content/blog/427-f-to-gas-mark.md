@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/427-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>427 F converts to Gas Mark 7, which is the standard equivalent for this temperature in UK ovens and air fryers. This conversion is essential for anyone following British recipes or using appliances with gas mark settings. Whether you're baking, roasting, or air frying, knowing this conversion ensures your dishes cook perfectly every time.</p>
 

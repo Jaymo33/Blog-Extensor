@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>210 ml of vinegar is approximately 0.89 cups (just under 1 cup). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a marinade or a tangy glaze, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>  
 

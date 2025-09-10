@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-mustard"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 tbsp of mustard weighs approximately 3.75 grams. This measurement is essential for precise cooking, especially when using an air fryer where exact quantities can make a big difference. Whether you're whipping up a marinade or adding a tangy kick to your dish, knowing this conversion ensures consistency in your recipes.</p>
 

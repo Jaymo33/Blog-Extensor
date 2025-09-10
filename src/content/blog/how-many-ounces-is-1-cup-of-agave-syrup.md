@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-agave-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of agave syrup equals approximately 11.5 ounces (or 11.5 oz). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly sweetened every time. Whether you're making glazes, marinades, or desserts, knowing how to convert 1 cup of agave syrup to ounces is a game-changer.</p>
 

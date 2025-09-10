@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.66 cups of grated cheese equals approximately 6.64 ounces (or 188 grams) in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re making crispy nachos, cheesy garlic bread, or a gooey gratin, knowing the weight of your ingredients ensures perfect results every time.</p>
 

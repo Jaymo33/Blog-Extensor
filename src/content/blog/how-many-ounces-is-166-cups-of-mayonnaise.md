@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-of-mayonnaise"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.66 cups of mayonnaise equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results every time. Whether you're whipping up a batch of crispy chicken or a creamy dip, knowing the exact weight of your ingredients makes all the difference.</p>
 

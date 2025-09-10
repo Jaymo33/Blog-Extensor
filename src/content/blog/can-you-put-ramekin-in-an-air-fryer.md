@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-ramekin-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put a ramekin in an air fryer if it's oven-safe and fits properly within the basket. Most ceramic ramekins designed for baking withstand air fryer temperatures up to 200°C, making them ideal for individual desserts like crème brûlée or mini casseroles. At airfryerrecipe.co.uk, we've tested various ramekin types across different air fryer models to create foolproof guidelines.</p>
 

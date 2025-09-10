@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>475 grams of self-raising flour is approximately 3.8 cups when measured correctly. This conversion is essential for bakers who prefer using cups over scales, especially when following recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>. Whether you're whipping up cakes, muffins, or bread, knowing how to convert grams to cups ensures consistency in your baking.</p>  
 

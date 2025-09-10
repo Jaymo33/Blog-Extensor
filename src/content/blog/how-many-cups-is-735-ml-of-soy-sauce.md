@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>735 ml of soy sauce equals approximately 3.1 cups. This conversion is essential for air fryer recipes, ensuring your marinades and sauces are perfectly balanced. Whether you're cooking Asian-inspired dishes or experimenting with new flavours, accurate measurements make all the difference.</p>  
 

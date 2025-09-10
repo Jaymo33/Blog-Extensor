@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/37-75-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>37.75 kg is equal to approximately 83.22 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that specify weights in pounds or when purchasing ingredients in bulk. Accurate measurements ensure your meals cook evenly and come out perfectly every time. Whether you're meal prepping or trying a new dish, knowing how to convert 37.75 kg to pounds can make your cooking experience smoother. For more handy conversion tips, check out the guides available at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>
 

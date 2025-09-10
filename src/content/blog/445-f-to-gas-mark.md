@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/445-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 445 F in Gas Mark?</h2>
 <p>445°F converts to Gas Mark 8 in UK ovens and air fryers. This high-temperature setting is perfect for roasting meats, baking pizzas, or achieving crispy results in your air fryer. Many modern appliances like those featured on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> allow you to switch between Fahrenheit and Gas Mark settings easily. When converting 445 Fahrenheit to Gas Mark, remember that Gas Mark 8 represents a very hot oven environment. This temperature works particularly well for recipes requiring quick browning or caramelisation.</p>

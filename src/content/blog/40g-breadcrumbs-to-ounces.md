@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/40g-breadcrumbs-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40 grams of breadcrumbs equals approximately 1.41 ounces. If you're preparing an air fryer recipe that calls for 40g of breadcrumbs and need the ounce equivalent, this quick conversion ensures your dish turns out perfectly crispy. Whether you're coating chicken, fish, or vegetables, accurate measurements make all the difference in texture and flavour.</p>  
 

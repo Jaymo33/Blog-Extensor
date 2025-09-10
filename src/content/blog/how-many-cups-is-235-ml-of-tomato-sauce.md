@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-tomato-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>235 ml of tomato sauce is roughly equivalent to 1 cup (or 0.99 cups to be precise). This conversion is essential for air fryer recipes, where precise measurements can affect cooking times and textures. Whether you're making a rich pasta sauce or a homemade pizza, knowing how to convert millilitres to cups ensures consistent results every time.</p>  
 

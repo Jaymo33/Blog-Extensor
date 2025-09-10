@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-cooked-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5g of cooked rice equals approximately 0.18 ounces. This conversion is handy for air fryer meal prep, ensuring accurate portions for recipes. Whether you’re tracking calories or scaling dishes, knowing how to convert 5g cooked rice to ounces makes cooking easier. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love simplifying measurements for fuss-free air frying.</p>  
 

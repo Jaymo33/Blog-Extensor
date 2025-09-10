@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/410-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 410 F to Gas Mark Conversion</h2>
 <p>410°F converts to Gas Mark 6 in UK ovens and air fryers. This medium-high temperature is perfect for roasting meats, baking pastries, and achieving crispy textures in your air fryer. Many modern air fryers display temperatures in Fahrenheit, while traditional British recipes often use Gas Marks. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend Gas Mark 6 (410°F) for dishes like roast chicken, homemade sausage rolls, or crispy potato wedges. The conversion remains consistent whether you're using an oven or air fryer basket.</p>

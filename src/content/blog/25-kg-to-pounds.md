@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/25-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>25 kg equals approximately 55.12 pounds, a conversion that's particularly useful when preparing ingredients for your air fryer. Whether you're portioning meat, vegetables, or frozen foods, understanding weight conversions ensures consistent cooking results. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use metric measurements, making this conversion valuable for British cooks. Getting your quantities right means perfectly crispy food every time, without overloading your appliance. This basic conversion forms the foundation for successful air fryer cooking.</p>
 

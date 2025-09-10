@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250g of cottage cheese equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, meal prep, or any cooking where precise measurements matter. Whether you're whipping up a cheesy breakfast bake or a light lunch, knowing the exact weight ensures perfect results every time.</p>
 

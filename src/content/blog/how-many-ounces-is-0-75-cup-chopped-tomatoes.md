@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-chopped-tomatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of chopped tomatoes equals approximately 6 ounces (170 grams) in the UK. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a fresh salsa or a hearty stew, knowing the exact weight saves time and guarantees consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to help you cook with confidence. Keep reading for more tips on measuring ingredients for your air fryer.</p>
 

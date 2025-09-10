@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-harissa-paste"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of harissa paste equals approximately 3 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the perfect balance of spice and flavour. Whether you’re marinating chicken or adding a kick to roasted vegetables, knowing how many ounces are in 0.375 cup of harissa paste helps you nail the recipe every time.</p>  
 

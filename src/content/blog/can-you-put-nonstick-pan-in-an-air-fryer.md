@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-nonstick-pan-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can technically put a nonstick pan in an air fryer, but it’s not always recommended due to potential safety risks. The high heat and rapid airflow in air fryers can damage nonstick coatings over time, leading to flaking or even toxic fumes. If you do use one, opt for a high-quality, oven-safe nonstick pan and avoid temperatures above 200°C.</p>
 

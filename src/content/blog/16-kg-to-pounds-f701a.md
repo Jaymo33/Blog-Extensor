@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/16-kg-to-pounds-f701a"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>16 kilograms equals approximately 35.27 pounds, making this conversion particularly useful when working with larger quantities of ingredients for your air fryer. Whether you're meal prepping for the week or cooking for a crowd, understanding weight conversions ensures you use the right amounts for perfect results. This knowledge helps with portion control, cooking times, and even shopping for ingredients at markets that use different measurement systems. Many air fryer recipes from <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a> provide measurements in both metric and imperial units, but knowing how to convert between them gives you greater flexibility. Mastering this conversion will make your air fryer cooking experience more efficient and successful.</p>
 

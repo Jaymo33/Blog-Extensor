@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.125 cup of almond milk equals 1 fluid ounce (oz) in the UK measurement system. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a breakfast bake or a creamy dessert, knowing how to convert 0.125 cup of almond milk to ounces ensures accuracy.</p>
 

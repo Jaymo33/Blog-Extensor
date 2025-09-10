@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-wholemeal-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons (tbsp) of wholemeal flour weigh approximately 24 grams (g) in UK measurements. This conversion is essential for precise baking, especially when using an air fryer where accurate measurements can make or break a recipe. Wholemeal flour has a slightly denser texture compared to plain flour, so getting the right weight ensures perfect results every time.</p>  
 

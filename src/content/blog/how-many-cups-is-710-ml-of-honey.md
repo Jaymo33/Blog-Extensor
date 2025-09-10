@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>710 ml of honey is roughly equivalent to 3 cups in both UK and US measurements. However, honey’s thickness can slightly affect the exact volume, so it’s always best to measure carefully for precise results. Whether you’re whipping up a glaze for air fryer chicken or a sweet drizzle for desserts, knowing how to convert 710 ml of honey to cups ensures your recipes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking conversions hassle-free.</p>  
 

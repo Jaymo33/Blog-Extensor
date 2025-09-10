@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>325 grams of water equals approximately 1.37 cups, a crucial measurement for air fryer cooking precision. Whether you're baking, steaming, or prepping ingredients, knowing how many cups 325 grams of water translates to ensures consistent results. This conversion is especially handy for air fryer recipes, where exact liquid measurements can make or break a dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you nail these details for flawless meals every time.</p>
 

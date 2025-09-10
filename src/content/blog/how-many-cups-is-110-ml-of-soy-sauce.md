@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>110 ml of soy sauce is roughly 0.46 cups (just under half a cup). This conversion is handy when following air fryer recipes that list ingredients in millilitres but require cup measurements. Whether you're marinating chicken or seasoning tofu, knowing this conversion ensures your dish turns out perfectly.</p>  
 

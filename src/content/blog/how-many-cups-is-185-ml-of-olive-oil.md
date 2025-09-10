@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>185 ml of olive oil is approximately 0.78 cups (just under ¾ cup). This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re whipping up crispy roasted vegetables or a moist cake, knowing how to convert 185 ml of olive oil to cups ensures consistent results every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-porridge-oats-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of porridge oats equals approximately 0.71 ounces. This conversion is handy for air fryer recipes, ensuring you get the perfect texture and consistency every time. Whether you’re meal prepping or whipping up a quick breakfast, knowing how to convert grams to ounces is essential for precision cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you nail those measurements for flawless results.</p>
 

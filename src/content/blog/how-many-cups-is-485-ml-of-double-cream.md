@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-double-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>485 ml of double cream is approximately 2.05 cups. This conversion is essential for baking and cooking, especially when using precise measurements for air fryer recipes. Whether you're whipping up a dessert or adding richness to a sauce, knowing how to convert 485 ml of double cream to cups ensures consistency in your dishes.</p>
 

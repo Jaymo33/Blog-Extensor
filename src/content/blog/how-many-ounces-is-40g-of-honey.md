@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40g of honey equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference between sticky success and a messy disaster. Whether you're glazing chicken wings or sweetening baked goods, knowing how to convert 40g honey to ounces ensures consistent results every time.</p>
 

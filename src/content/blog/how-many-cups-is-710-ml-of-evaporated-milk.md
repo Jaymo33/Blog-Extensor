@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>710 ml of evaporated milk equals approximately 3 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make all the difference. Whether you're whipping up a creamy dessert or a savoury dish, knowing how to convert 710 ml of evaporated milk to cups ensures your recipes turn out perfectly every time.</p>
 

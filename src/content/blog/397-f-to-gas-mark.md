@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/397-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 397 F in Gas Mark?</h2>
 <p>397°F converts directly to Gas Mark 6, a common setting for roasting and baking. This temperature is ideal for achieving crispy textures in air fryers while ensuring even cooking. Whether you're preparing chicken, vegetables, or baked goods, Gas Mark 6 delivers consistent results. Many recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use this temperature for perfect roasts. It’s a versatile setting that works well for both air fryers and conventional ovens.</p>

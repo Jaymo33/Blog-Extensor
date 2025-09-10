@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/299-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>299 F converts to approximately 148 C in a fan oven. This is a common temperature for slow roasting or baking delicate dishes in an air fryer. Whether you're adapting an American recipe or fine-tuning your air fryer settings, knowing this conversion ensures perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions hassle-free for home cooks. The fan oven's circulating air mimics an air fryer's convection cooking, making this conversion particularly useful.</p>
 

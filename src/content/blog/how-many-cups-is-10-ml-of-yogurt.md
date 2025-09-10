@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of yogurt equals approximately 0.042 cups (US) or 0.035 cups (UK). This small but precise measurement is essential for air fryer recipes where accuracy ensures perfect texture and flavour. Whether you're baking or making sauces, knowing how to convert 10 ml of yogurt to cups helps avoid kitchen mishaps.</p>  
 

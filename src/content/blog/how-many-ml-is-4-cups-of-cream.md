@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.0 cups of cream equals 946 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a dessert or a creamy sauce, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you get the measurements spot on for perfect results every time.</p>
 

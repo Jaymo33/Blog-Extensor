@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>60 ml of double cream is approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>  
 

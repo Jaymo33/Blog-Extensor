@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-coconut-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>360 ml of coconut milk is approximately 1.52 cups. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a creamy curry or a decadent dessert, knowing the exact measurement helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to elevate your cooking. Keep reading for more details on measuring coconut milk for air fryer meals.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-chopped-spinach"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of chopped spinach equals approximately 1.5 ounces (or 1½ oz) in weight. This conversion is particularly useful when preparing air fryer recipes that require precise measurements for perfect results. Whether you're making spinach-stuffed chicken or a healthy vegetable side, knowing this measurement ensures consistency in your cooking.</p>
 

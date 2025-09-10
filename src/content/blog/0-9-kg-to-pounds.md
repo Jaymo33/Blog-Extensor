@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/0-9-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.9 kg is equal to 1.98416 pounds, or roughly 1 pound and 15.75 ounces. This conversion is essential for air fryer users who follow recipes with imperial measurements or need to portion ingredients accurately. Whether you're cooking chicken, vegetables, or even baking, knowing how to convert 0.9 kg to pounds ensures your meals turn out perfectly every time. Many air fryer recipes, especially those from the UK or US, might list ingredients in pounds, making this a handy piece of knowledge. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

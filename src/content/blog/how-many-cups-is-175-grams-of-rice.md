@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>175 grams of rice equals approximately 0.88 cups in UK measurements or 0.74 US cups. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're meal prepping or trying a new rice dish in your air fryer, getting the quantities right ensures perfect texture every time.</p>
 

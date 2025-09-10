@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/484-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 484 F to Fan Oven Conversion</h2>
 <p>484 F equals approximately 250 C in a fan oven. This conversion is essential for those using recipes designed for conventional ovens or air fryers. Fan ovens circulate hot air, cooking food more evenly and often faster. If you're adapting a recipe from <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>, knowing this temperature is key. Many air fryer recipes, like those for crispy chicken or roasted vegetables, benefit from precise fan oven settings.</p>

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/405-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 405 F in Gas Mark?</h2>
 <p>405 F is equivalent to Gas Mark 6. This conversion is essential for those using British ovens or air fryers with Gas Mark settings. Whether you're baking, roasting, or air frying, knowing this conversion ensures your dishes cook perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often recommend this temperature for crispy chicken or golden baked goods. It's a versatile setting that works well for many recipes.</p>

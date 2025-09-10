@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>910 ml of water equals approximately 3.85 cups in the UK or 3.84 cups in the US. This conversion is essential for air fryer recipes, where precise liquid measurements can affect texture and cooking times. Whether you're making a cake, steaming vegetables, or preparing a sauce, knowing how to convert millilitres to cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect dishes every time.</p>  
 

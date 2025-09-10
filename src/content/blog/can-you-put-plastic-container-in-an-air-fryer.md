@@ -5,8 +5,11 @@ pubDate: 2025-07-22T00:00:00.000Z
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-plastic-container-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>No, you should never put a plastic container in an air fryer. Most plastics melt at temperatures above 160°C, while air fryers typically operate between 180°C–200°C, posing fire and toxicity risks. Even microwave-safe plastics aren’t designed for the intense, direct heat of an air fryer’s rapid air circulation. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we always recommend heatproof alternatives like ceramic, glass, or silicone to avoid damaging your appliance or food.</p>
 

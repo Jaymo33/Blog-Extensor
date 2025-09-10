@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of vinegar equals 6 fluid ounces. Whether you're preparing a marinade, dressing, or pickling solution for your air fryer dishes, getting the measurements right is crucial. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision matters, especially when working with tangy ingredients like vinegar.</p>  
 

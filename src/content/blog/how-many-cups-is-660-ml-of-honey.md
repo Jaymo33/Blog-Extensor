@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>660 ml of honey is roughly equivalent to 2.8 cups in the UK and 2.79 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you're whipping up a glaze or sweetening a marinade, knowing how to convert 660 ml of honey to cups ensures your recipes turn out perfectly every time.</p>
 

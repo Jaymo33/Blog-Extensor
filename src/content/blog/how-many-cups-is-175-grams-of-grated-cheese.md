@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>175 grams of grated cheese is roughly equivalent to 1.75 cups. This measurement can vary slightly depending on how finely the cheese is grated and how tightly it's packed, but 1.75 cups is a reliable starting point for most recipes. Whether you're making a cheesy air fryer dish or prepping for baking, knowing this conversion ensures your dishes turn out perfectly every time.</p>
 

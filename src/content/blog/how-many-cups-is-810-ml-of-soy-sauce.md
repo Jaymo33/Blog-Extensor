@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>810 ml of soy sauce is approximately 3.42 cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're whipping up a marinade or adjusting a recipe, knowing this conversion ensures consistent results every time.</p>  
 

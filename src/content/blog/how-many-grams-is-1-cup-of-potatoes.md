@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-potatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.0 cups of diced or chopped potatoes weigh approximately 150 grams, though this can vary slightly based on potato type and how tightly packed the cup is. If you're using an air fryer, precise measurements help ensure even cooking and perfect texture. Whether you're making crispy roast potatoes or a quick hash, knowing this conversion is key.</p>  
 

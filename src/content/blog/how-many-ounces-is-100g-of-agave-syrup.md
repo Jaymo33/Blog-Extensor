@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-agave-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100g of agave syrup is approximately 3.53 ounces. This conversion is essential for anyone using agave syrup in their air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're baking a cake or glazing chicken, knowing how many ounces 100g of agave syrup is can make all the difference.</p>
 

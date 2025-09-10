@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-margarine"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 tablespoons (tbsp) of margarine equals approximately 21 grams in UK measurements. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're whipping up crispy roast potatoes or a batch of air-fried cookies, knowing the exact weight of margarine can make all the difference.</p>
 

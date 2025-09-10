@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/254-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>254°F converts to Gas Mark 1/2, which is the perfect setting for slow cooking or gentle baking in your air fryer. This temperature is ideal for delicate dishes that require low, even heat without browning too quickly. Many traditional oven recipes call for Gas Mark settings, so knowing this conversion helps when adapting them for air frying. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Whether you’re preparing a <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cake</a> or slow-roasting vegetables, this guide ensures accuracy.</p>
 

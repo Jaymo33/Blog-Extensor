@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>510 ml of soy sauce equals approximately 2.15 cups. This conversion is essential for air fryer recipes, ensuring your marinades and sauces are perfectly balanced. Whether you're whipping up a stir-fry or glazing chicken wings, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precision is key to delicious results. Let’s dive deeper into how this conversion works and why it matters.</p>
 

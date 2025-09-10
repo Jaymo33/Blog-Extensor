@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>510 ml of lime juice equals approximately 2.15 cups in standard US measurements. Whether you're preparing a zesty marinade or a tangy dessert, knowing this conversion ensures your air fryer recipes turn out perfectly. Lime juice is a versatile ingredient, often used in dishes like <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>air fryer chicken</a> or <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>citrus-infused desserts</a>, so getting the measurement right is key.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>85 ml of cream is approximately 0.36 cups in the UK and 0.35 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert 85 ml of cream to cups ensures consistency and perfect results every time.</p>
 

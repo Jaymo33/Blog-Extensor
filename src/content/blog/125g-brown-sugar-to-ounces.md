@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/125g-brown-sugar-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125g of brown sugar equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking air fryer cookies or whipping up a dessert, knowing how to convert grams to ounces ensures perfect results every time.</p>  
 

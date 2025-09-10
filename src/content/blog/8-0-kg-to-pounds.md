@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/8-0-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>8.0 kg is equal to approximately 17.637 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger quantities of ingredients or planning meals for the family. Whether you're converting a recipe from metric to imperial or simply trying to understand packaging weights, knowing how to convert 8.0 kg to pounds can make your cooking experience smoother and more accurate. It's a common weight for bulk buys, like a large bag of potatoes or a whole chicken, which are perfect for air frying. Getting this conversion right ensures your portions are spot-on and your meals turn out perfectly every time.</p>
 

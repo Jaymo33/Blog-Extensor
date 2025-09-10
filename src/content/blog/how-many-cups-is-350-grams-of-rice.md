@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>350 grams of rice is roughly equivalent to 1.75 cups in standard US measurements or 1.5 cups in UK measurements. This conversion is essential for air fryer cooking, where precise measurements ensure even cooking and perfect texture. Whether you're preparing a quick rice dish or meal prepping, knowing how to convert grams to cups saves time and avoids guesswork.</p>  
 

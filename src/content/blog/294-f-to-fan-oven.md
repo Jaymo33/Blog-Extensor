@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/294-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>294 F converts to approximately 140 C in a fan oven. This temperature is ideal for slow-cooking meats, baking delicate desserts, or dehydrating fruits in your air fryer. Understanding this conversion helps you adapt recipes from American cookbooks or older appliances to modern fan-assisted cooking.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>235 ml of buttermilk is approximately 1 cup (0.99 cups to be precise). This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you’re making fluffy pancakes or a moist cake, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-single-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of single cream equals approximately 24 fluid ounces (fl oz) in the UK. This conversion is essential for air fryer recipes that require precise measurements to achieve the perfect consistency. Whether you're making a creamy pasta sauce or a decadent dessert, knowing how to convert cups to ounces ensures your dish turns out just right.</p>
 

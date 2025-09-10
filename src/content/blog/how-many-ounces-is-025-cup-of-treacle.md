@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-treacle"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of treacle equals approximately 2.5 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Treacle, a thick, sweet syrup, is a staple in many British desserts and sauces, so getting the amount right is crucial. Whether you’re making sticky toffee pudding or glazing meats in your air fryer, knowing this conversion ensures perfect results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>
 

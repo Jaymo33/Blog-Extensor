@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-plain-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4 tablespoons (tbsp) of plain flour equals approximately 30 grams (g). This conversion is essential for precise baking and air fryer recipes, ensuring consistent results every time. Whether you're whipping up a cake or coating chicken for your air fryer, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating guesswork can be, so we've broken it down for you.</p>  
 

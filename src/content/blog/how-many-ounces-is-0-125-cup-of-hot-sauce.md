@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.125 cup of hot sauce equals exactly 1 fluid ounce. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up spicy wings or a zesty marinade, knowing how to convert 0.125 cup of hot sauce to ounces ensures consistency and flavour balance.</p>
 

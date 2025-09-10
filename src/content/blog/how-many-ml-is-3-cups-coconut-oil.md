@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-coconut-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.0 cups of coconut oil equals approximately 709.76 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you’re whipping up crispy fried chicken or baking a moist cake, knowing how many ml is 3.0 cups of coconut oil ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless so you can focus on creating delicious meals.</p>
 

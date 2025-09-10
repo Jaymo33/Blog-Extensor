@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>375 grams of mozzarella cheese is roughly equivalent to 3.75 cups when shredded or grated. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making a cheesy garlic bread or a crispy mozzarella snack, knowing this conversion helps streamline your cooking process.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>635 ml of soy sauce is roughly 2.68 cups in US measurements or 2.23 cups in UK imperial measurements. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting a marinade for your air fryer, knowing this conversion ensures accuracy. Soy sauce is a staple in many dishes, from stir-fries to glazes, so getting the measurement right matters. This guide will help you convert 635 ml of soy sauce to cups with ease.</p>  
 

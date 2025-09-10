@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/18-3-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>18.3 kg is equal to 40.344 pounds (lbs). This conversion is crucial for air fryer users who need to measure ingredients accurately, especially when dealing with larger quantities of meat, vegetables, or frozen foods. Whether you're meal prepping for the week or scaling a recipe to feed a crowd, knowing how to convert 18.3 kg to pounds ensures your cooking times and results are consistent. Many popular air fryer recipes, especially those for family meals or batch cooking, specify weights in kilograms or pounds, so being able to switch between them is a handy skill. Getting your measurements right is the first step to air fryer success, and resources like <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> can make it effortless.</p>
 

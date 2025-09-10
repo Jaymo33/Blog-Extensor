@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>810 ml of milk equals approximately 3.42 cups in the UK or 3.42 US cups (since 1 UK cup = 237 ml and 1 US cup = 240 ml). This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're whipping up a cake or a creamy sauce, knowing how to measure 810 ml of milk in cups ensures consistent results every time.</p>
 

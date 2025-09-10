@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>885 ml of buttermilk is approximately 3.7 cups in the UK or 3.5 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a cake or marinating chicken, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>  
 

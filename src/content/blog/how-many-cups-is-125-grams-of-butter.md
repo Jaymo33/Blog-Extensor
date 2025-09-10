@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125 grams of butter is roughly equivalent to 1/2 cup (or 0.53 cups to be precise) in standard US measurements. In UK measurements, it's slightly different due to varying cup sizes - about 0.55 UK cups. Whether you're preparing a cake or cooking in your air fryer, accurate butter measurements make all the difference in your recipes.</p>
 

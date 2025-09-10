@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-rapeseed-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5 tablespoons (tbsp) of rapeseed oil equals approximately 68 grams (g). This conversion is essential for precise cooking, especially when using an air fryer where exact measurements can impact texture and crispiness. Whether you’re adapting a recipe or scaling ingredients, knowing the weight of 5 tbsp rapeseed oil ensures consistency in your dishes.</p>
 

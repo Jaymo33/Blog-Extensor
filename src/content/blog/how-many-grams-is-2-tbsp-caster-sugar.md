@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-caster-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 tablespoons (tbsp) of caster sugar weigh approximately 25 grams. This measurement is crucial for air fryer recipes where precision ensures perfect results. Whether you’re baking a cake or preparing a dessert, knowing how many grams are in 2 tbsp of caster sugar helps avoid mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide accurate conversions to make your cooking effortless.</p>
 

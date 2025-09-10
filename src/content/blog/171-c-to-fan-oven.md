@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/171-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>171 C in a fan oven is equivalent to approximately 150 C in a conventional oven without the fan. This conversion is crucial for baking and roasting, especially when using recipes designed for traditional ovens. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we often get asked about these conversions as more home cooks switch to fan-assisted cooking.</p>
 

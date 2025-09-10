@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>200 grams of self-raising flour equals approximately 1.6 cups when measured correctly. This conversion is essential for baking in an air fryer, where precise measurements can make or break your recipe. Whether you're whipping up cakes, muffins, or scones, knowing how to convert grams to cups ensures consistent results every time. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  
 

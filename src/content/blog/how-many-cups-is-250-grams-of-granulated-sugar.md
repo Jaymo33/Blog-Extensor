@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-granulated-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250 grams of granulated sugar equals approximately 1.25 cups in the UK and 1.2 cups in the US. Getting this measurement right is crucial for baking, especially when using an air fryer where precise ratios affect texture and browning. Whether you're making cookies or a sponge cake, knowing how to convert grams to cups ensures consistent results every time.</p>  
 

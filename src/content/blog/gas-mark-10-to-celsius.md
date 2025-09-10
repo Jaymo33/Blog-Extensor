@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-10-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding Gas Mark 10 in Celsius</h2>
 <p>Gas Mark 10 converts to 240°C in Celsius, which is the standard temperature for high-heat cooking in both conventional ovens and air fryers. This blazing temperature is perfect for achieving crispy exteriors while keeping interiors moist, whether you're roasting joints or baking puff pastry. Many traditional British recipes, especially those for Yorkshire puddings or quick-bake items, specify Gas Mark 10 as the ideal setting. When using an air fryer, you'll find this temperature works wonders for frozen foods and last-minute meal prep. For more conversion help, check out our comprehensive <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

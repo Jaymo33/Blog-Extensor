@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-chickpeas"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of chickpeas equals approximately 2.64 ounces (74.8 grams). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making crispy roasted chickpeas or adding them to a hearty meal, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precision in cooking, especially when using an air fryer.</p>  
 

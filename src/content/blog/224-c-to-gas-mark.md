@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/224-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 224 C in Gas Mark?</h2>
 <p>224 C converts directly to Gas Mark 7, a common setting for roasting meats and baking in UK ovens. This temperature is ideal for achieving crispy exteriors while keeping interiors juicy, whether you're using a conventional oven or an air fryer. Many British recipes, especially those for Sunday roasts or baked goods, specify Gas Mark rather than Celsius. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often recommend Gas Mark 7 (224 C) for perfect roast potatoes or chicken. The conversion remains consistent whether you're working with 224 celsius to gas mark or 224 degrees c to gas mark.</p>

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-granulated-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>350 grams of granulated sugar is approximately 1.75 cups in the UK or 1.67 cups in the US. Getting this conversion right is essential for baking success, especially when using an air fryer where precise measurements can affect texture and browning. Whether you're making cookies, cakes, or other sweet treats, knowing how to convert grams to cups ensures consistent results every time.</p>
 

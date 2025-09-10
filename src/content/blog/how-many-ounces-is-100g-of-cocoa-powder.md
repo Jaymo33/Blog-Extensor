@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-cocoa-powder"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100g of cocoa powder equals approximately 3.53 ounces. This conversion is essential for bakers and home cooks who need precise measurements for their recipes, especially when using an air fryer for desserts. Whether you're making a chocolate cake or brownies, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>
 

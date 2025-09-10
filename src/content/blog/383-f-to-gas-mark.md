@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/383-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>383°F converts to Gas Mark 5, making it a moderate oven temperature ideal for roasting and baking in both conventional ovens and air fryers. This temperature is commonly used for cooking meats, vegetables, and baked goods where you want thorough cooking without excessive browning. When using your air fryer at this temperature, you'll typically need to reduce cooking times by about 20% compared to conventional oven recipes.</p>
 

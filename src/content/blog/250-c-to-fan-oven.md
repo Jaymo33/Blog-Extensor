@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250°C in a conventional oven equals approximately 220°C in a fan oven. The general rule is to reduce the temperature by 20-30°C when using a fan-assisted oven, as the circulating air cooks food more efficiently. This conversion is crucial for baking, roasting, and especially when adapting recipes for air fryers, which work similarly to fan ovens.</p>
 

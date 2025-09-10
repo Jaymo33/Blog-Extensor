@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>435 ml of water equals approximately 1.84 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you’re preparing a sauce, baking a cake, or making a marinade, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>
 

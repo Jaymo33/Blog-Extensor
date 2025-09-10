@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>310 ml of condensed milk equals approximately 1.31 cups in the UK or 1.25 cups in the US. This conversion is essential for air fryer recipes that require precise measurements for perfect results every time. Whether you're making fudge, banoffee pie, or a creamy sauce, knowing how to convert 310 ml of condensed milk to cups will save you from kitchen mishaps.</p>
 

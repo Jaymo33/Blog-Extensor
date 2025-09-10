@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-2-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is Gas Mark 2 in Celsius?</h2>
 <p>Gas Mark 2 converts to 150°C, a low to moderate oven temperature ideal for slow cooking and baking. This temperature is perfect for dishes that require gentle heat, such as custards, meringues, or slow-roasted vegetables. If you're using an air fryer, you'll find that many recipes originally designed for conventional ovens can be adapted to this setting. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often recommend starting with a slightly lower temperature in your air fryer to account for its efficiency. Gas Mark 2 to Celsius is a common conversion, especially for those transitioning from traditional ovens to air fryers.</p>

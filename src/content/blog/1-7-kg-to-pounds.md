@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1-7-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.7 kg is equal to approximately 3.74786 pounds, which is the standard conversion used in cooking and especially helpful for air fryer recipes. Knowing this conversion is essential because many air fryer models and recipes, especially those from the UK or Europe, might list ingredients in kilograms, while you're more familiar with pounds. Getting your measurements spot on ensures your food cooks evenly, crisps perfectly, and doesn't end up under or overdone. Whether you're cooking a family-sized portion of chicken or a batch of roast potatoes, this accuracy matters. For more handy conversion tips, check out the comprehensive guide at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>
 

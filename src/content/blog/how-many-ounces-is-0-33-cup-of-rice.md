@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of rice weighs approximately 2.64 ounces, a crucial measurement for anyone using an air fryer to create perfectly portioned meals. This precise conversion ensures you get consistent results every time you cook, whether you're preparing a single serving or a family feast. Understanding this measurement can transform your cooking experience, eliminating guesswork and wasted ingredients. It's a fundamental skill for anyone serious about their kitchen efficiency, especially when using versatile appliances like an air fryer. For more handy conversions, our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> is an invaluable resource.</p>
 

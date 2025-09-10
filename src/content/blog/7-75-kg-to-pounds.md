@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/7-75-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>7.75 kilograms is equal to approximately 17.085 pounds. This conversion is particularly useful when working with air fryer recipes that use imperial measurements, ensuring you get the perfect portion sizes and cooking results. Whether you're preparing a large batch of chicken or weighing ingredients for meal prep, knowing how to convert 7.75 kg to pounds helps maintain accuracy in your kitchen. Many British cooks find themselves needing this conversion when following international recipes or using kitchen scales with dual units. At airfryerrecipe.co.uk, we understand the importance of precise measurements for achieving the best air fryer results every time.</p>
 

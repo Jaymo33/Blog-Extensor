@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>485 ml of buttermilk equals approximately 2.05 cups in standard US measurements or 1.71 cups in UK imperial measurements. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you’re making fluffy pancakes or tender fried chicken, knowing how to convert 485 ml of buttermilk to cups ensures consistent results every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/253-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>253°F converts to Gas Mark 1/2 (½) in UK ovens. This moderate temperature is perfect for slow cooking, dehydrating, or keeping dishes warm. When using an air fryer, you'll typically need to reduce the temperature by 20°C (or about 36°F) compared to conventional oven settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your specific model's manual as conversion can vary between brands.</p>
 

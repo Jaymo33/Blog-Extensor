@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.125 cup of rice equals approximately 1 ounce (28.35 grams). This measurement is particularly useful when preparing small portions in your air fryer, ensuring perfect results every time. Whether you're cooking for one or prepping ingredients for <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing this conversion helps maintain consistency.</p>
 

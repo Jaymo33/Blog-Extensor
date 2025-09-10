@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of soft cheese is equivalent to 2 ounces. This precise measurement is essential for anyone using an air fryer, as accurate quantities ensure your recipes turn out perfectly every single time. Whether you are making a creamy dip, a stuffed chicken breast, or a cheesy sauce, knowing this conversion eliminates guesswork. Getting the amount right affects texture, flavour, and cooking performance directly in your air fryer. For more handy measurement guides, check out the comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> available on airfryerrecipe.co.uk.</p>
 

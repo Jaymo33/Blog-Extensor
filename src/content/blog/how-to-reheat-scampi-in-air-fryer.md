@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat scampi in an air fryer, preheat to 160°C and cook for 3-5 minutes until piping hot and crispy. This method beats microwaving hands down, as it restores texture without drying out your seafood. Whether you’ve got leftover pub-style scampi or homemade breaded prawns, your air fryer’s rapid hot air circulation works wonders.</p>
 

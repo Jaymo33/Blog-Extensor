@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-tomato-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>435 ml of tomato sauce equals approximately 1.84 cups in the UK or 1.8 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a rich pasta sauce or a hearty casserole, knowing how to convert 435 ml of tomato sauce to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>  
 

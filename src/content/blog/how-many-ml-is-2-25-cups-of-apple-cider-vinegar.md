@@ -5,8 +5,11 @@ pubDate: 2025-07-28T00:00:00.000Z
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-apple-cider-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.25 cups of apple cider vinegar equals approximately 532.32 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken, baking, or making dressings, knowing the exact ml equivalent ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

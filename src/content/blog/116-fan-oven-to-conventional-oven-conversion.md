@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/116-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 116 fan oven to conventional oven is straightforward: 116°C in a fan oven equals approximately 100°C in a conventional oven. This 16°C difference occurs because fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures your dishes turn out perfectly every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-diced-peppers"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of diced peppers equals approximately 1.5 ounces (42.5 grams) when measured for air fryer recipes. This conversion is essential for getting your air fryer dishes just right, whether you're making fajitas, stir-fries, or stuffed peppers. Precise measurements ensure even cooking and perfect texture in your air fryer creations.</p>
 

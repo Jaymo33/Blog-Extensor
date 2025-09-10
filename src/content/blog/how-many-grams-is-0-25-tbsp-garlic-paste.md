@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-garlic-paste"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 tbsp of garlic paste equals approximately 3.75 grams. This precise measurement is essential for air fryer recipes where accuracy can make or break your dish. Whether you’re whipping up a quick marinade or adding flavour to your favourite <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing the exact weight ensures consistency. Garlic paste is a staple in many dishes, and getting the measurement right means your food will taste just as intended. For more conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>
 

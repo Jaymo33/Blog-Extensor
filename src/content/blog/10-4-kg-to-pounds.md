@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10-4-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10.4 kg is equal to 22.928 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when weighing ingredients for meal prep. Knowing how to convert 10.4 kg to pounds accurately ensures your portions are correct, leading to better cooking results and perfectly cooked meals. Whether you're preparing a large batch of chicken or portioning out vegetables, getting this conversion right matters. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

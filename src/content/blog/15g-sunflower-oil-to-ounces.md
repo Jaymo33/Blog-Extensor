@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/15g-sunflower-oil-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15 grams of sunflower oil is approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and flavour. Whether you’re frying, roasting, or baking, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>  
 

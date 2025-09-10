@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/371-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>371 F to Gas Mark Conversion Explained</h2>
 <p>371 degrees Fahrenheit converts to Gas Mark 5 in UK ovens and air fryers. This medium-high temperature is perfect for baking cookies, roasting vegetables, or cooking poultry in your air fryer. The Gas Mark system, used predominantly in British kitchens, provides a simpler way to set oven temperatures without dealing with precise numbers. When converting 371 F to Gas Mark, you'll find it falls neatly into the Gas Mark 5 category, which ranges from 190°C to 200°C (374°F to 392°F). This makes it incredibly versatile for most <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> that require moderate heat.</p>

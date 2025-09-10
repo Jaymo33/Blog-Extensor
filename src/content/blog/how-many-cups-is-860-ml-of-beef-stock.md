@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>860 ml of beef stock equals approximately 3.63 US cups or 3.03 UK cups. Whether you're making a rich gravy, a hearty stew, or a flavourful sauce in your air fryer, getting the liquid measurements right is crucial. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, especially when adapting recipes for smaller or larger batches. This guide will help you convert 860 ml of beef stock to cups accurately, whether you're using US or UK measurements.</p>  
 

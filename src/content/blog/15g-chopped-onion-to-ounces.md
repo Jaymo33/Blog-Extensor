@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/15g-chopped-onion-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15g of chopped onion equals approximately 0.53 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams but require ounces for measurement. Whether you’re whipping up a quick stir-fry or prepping veggies for crispy air-fried onions, knowing this conversion ensures accuracy.</p>
 

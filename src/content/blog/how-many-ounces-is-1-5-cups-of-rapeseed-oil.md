@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-rapeseed-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1.5 cups of rapeseed oil?</h2>
 <p>1.5 cups of rapeseed oil equals 12 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference to your results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dishes, knowing this conversion ensures perfect texture and flavour. Rapeseed oil is a popular choice for air frying due to its high smoke point and neutral taste. Keep this measurement handy when preparing everything from crispy potatoes to golden chicken wings.</p>

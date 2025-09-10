@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheatgerm"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of wheatgerm equals approximately 5.3 ounces. This measurement is essential for air fryer recipes where precision ensures perfect texture and cooking times. Whether you’re making granola, breading, or healthy snacks, knowing the exact weight helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to elevate your cooking game. Keep reading for detailed tips and FAQs about measuring wheatgerm.</p>  
 

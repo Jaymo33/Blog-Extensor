@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>935 ml of vinegar equals approximately 3.95 cups (using the US cup measurement) or 3.3 cups (using the UK metric cup). This conversion is essential for air fryer recipes, marinades, and baking where precision matters. Whether you're whipping up a tangy glaze or a pickling solution, knowing how to measure vinegar correctly ensures your dish turns out perfectly.</p>  
 

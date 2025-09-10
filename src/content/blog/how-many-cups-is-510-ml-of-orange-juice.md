@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-orange-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>510 ml of orange juice is approximately 2.15 cups. This conversion is essential for precise baking, cooking, or preparing air fryer recipes where liquid measurements impact the final result. Whether you're making a glaze, marinade, or a citrus-infused dessert, knowing how to convert millilitres to cups ensures consistency.</p>
 

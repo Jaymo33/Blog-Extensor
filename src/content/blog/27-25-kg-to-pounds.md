@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/27-25-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>27.25 kg is equal to approximately 60.08 pounds. This conversion is essential when you're working with larger quantities of ingredients, especially if you're meal prepping or cooking for a crowd using your air fryer. Understanding weight conversions helps you follow recipes accurately and achieve consistent results every time. Whether you're preparing a big batch of chicken or portioning out vegetables, knowing how to convert 27.25 kg to pounds ensures you get the measurements spot on. For more handy conversion tips, check out our comprehensive guide at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you are wondering how many ounces is 1.75 cups of soft cheese, the straightforward answer is approximately 14 ounces. This conversion is essential for anyone using an air fryer to create delicious, creamy dishes that require precise measurements for the perfect consistency. Whether you are making a decadent cheesecake, a rich dip, or stuffed mushrooms, getting the cheese quantity right makes all the difference. Using accurate measurements ensures your recipes turn out perfectly every time, avoiding any disappointments. For more handy conversion tips, be sure to bookmark <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">our comprehensive air fryer conversion chart</a>.</p>
 

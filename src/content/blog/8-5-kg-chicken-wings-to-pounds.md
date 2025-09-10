@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/8-5-kg-chicken-wings-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>8.5 kg of chicken wings is equal to approximately 18.74 pounds. This conversion is essential when you're preparing a large batch of wings in your air fryer, especially if you're following a recipe that uses imperial measurements. Whether you're cooking for a family gathering, a party, or just stocking up the freezer, knowing how to convert 8.5 kg chicken wings to pounds ensures you get your quantities spot on. Accurate measurements help with seasoning distribution, cooking time estimates, and achieving that perfectly crispy texture we all love. Trust us, getting this right makes all the difference between good wings and great wings.</p>
 

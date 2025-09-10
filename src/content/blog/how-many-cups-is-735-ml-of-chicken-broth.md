@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-chicken-broth"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>735 ml of chicken broth equals approximately 3.1 cups in US measurements or 3.3 cups in UK measurements. Whether you're preparing a soup, stew, or sauce in your air fryer, knowing this conversion ensures your recipe turns out just right. Accurate measurements are key to achieving the perfect consistency and flavour, especially when using an air fryer, where precision matters.</p>  
 

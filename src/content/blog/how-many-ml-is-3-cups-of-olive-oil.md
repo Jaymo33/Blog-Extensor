@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.0 cups of olive oil equals 710 ml, making it easy to measure for recipes. Whether you’re using an air fryer or traditional oven, precise measurements ensure perfect results every time. Olive oil is a staple in many dishes, from roasting vegetables to baking cakes, so knowing the exact conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions for hassle-free cooking. Keep reading for more details on measuring olive oil accurately.</p>  
 

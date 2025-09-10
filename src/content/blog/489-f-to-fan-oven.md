@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/489-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 489 F to Fan Oven Conversion</h2>
 <p>489 F converts to approximately 254 C in a fan oven. This conversion is essential when using recipes designed for conventional ovens in your fan-assisted appliance or air fryer. The fan circulates hot air, allowing for more even cooking at slightly lower temperatures. Many modern air fryers and fan ovens automatically adjust for this difference, but knowing the conversion helps when following older recipes. For precise cooking, always verify your appliance's specific guidelines at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a>.</p>

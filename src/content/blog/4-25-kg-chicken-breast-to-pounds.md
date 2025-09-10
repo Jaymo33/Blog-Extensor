@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-25-kg-chicken-breast-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.25 kg of chicken breast is equal to approximately 9.37 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes or planning meals that require precise measurements. Whether you're meal prepping for the week or cooking for a crowd, knowing how to convert 4.25 kg chicken breast to pounds ensures you get your portions just right. Accurate measurements help avoid under or overcooking, leading to perfectly juicy chicken every time. For more handy conversion tips, check out our full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

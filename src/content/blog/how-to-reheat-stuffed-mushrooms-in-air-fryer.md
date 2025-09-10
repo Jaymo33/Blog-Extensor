@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-mushrooms-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat stuffed mushrooms in an air fryer, preheat to 160°C and cook for 3-5 minutes until piping hot. This method restores crispiness while preventing the filling from drying out – far superior to microwave reheating. Whether you’ve got leftovers from last night’s dinner or prepped stuffed mushrooms from the fridge, your air fryer delivers restaurant-quality results in minutes.</p>
 

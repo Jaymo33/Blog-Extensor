@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of olive oil equals approximately 8 fluid ounces (or 7.7 ounces by weight). Whether you're preparing a delicious air fryer recipe or simply need precise measurements, knowing this conversion ensures your dishes turn out perfectly every time. Olive oil is a staple in many kitchens, especially for air fryer cooking, where accurate quantities can make all the difference.</p>  
 

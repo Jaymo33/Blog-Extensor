@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/387-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>387°F converts to Gas Mark 5, which is the standard setting for many baking recipes in both conventional ovens and air fryers. This temperature is ideal for achieving perfectly cooked goods without burning or undercooking. Whether you're using an air fryer or traditional oven, understanding this conversion ensures your dishes turn out just right every time.</p>
 

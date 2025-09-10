@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/196-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 196 Fan Oven to Conventional Oven Conversion</h2>
 <p>196°C in a fan oven equals approximately 180°C in a conventional oven. This 10-20°C reduction is crucial because fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. When converting 196 fan oven to conventional oven settings, you'll need to adjust both temperature and cooking time for best results. Many modern recipes at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> now include both fan and conventional oven instructions, but understanding the conversion helps when using older cookbooks. The same principle applies when converting 196 fan oven to air fryer equivalent temperatures.</p>

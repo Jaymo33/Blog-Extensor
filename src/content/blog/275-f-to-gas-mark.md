@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/275-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>275°F converts to Gas Mark 1 in UK ovens and air fryers. This is a gentle heat ideal for slow roasting, dehydrating, or keeping dishes warm without overcooking. Whether you’re adapting a recipe from Fahrenheit to Gas Mark or checking your air fryer settings, this conversion ensures perfect results every time.</p>
 

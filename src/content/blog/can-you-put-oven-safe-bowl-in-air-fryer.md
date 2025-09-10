@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-oven-safe-bowl-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can use oven-safe bowls in most air fryers, provided they fit properly and are made from materials that withstand rapid air circulation at high temperatures. The key factors are bowl material, size compatibility, and avoiding direct contact with heating elements. Many ceramic, glass, and metal bowls labelled "oven-safe" will work, but always check manufacturer guidelines first.</p>
 

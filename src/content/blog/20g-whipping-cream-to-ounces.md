@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-whipping-cream-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20 grams of whipping cream equals approximately 0.71 ounces. This precise conversion is essential when following air fryer recipes that require exact measurements for perfect results. Whether you're making desserts or savoury dishes in your air fryer, knowing how to convert between grams and ounces ensures your creations turn out just right.</p>
 

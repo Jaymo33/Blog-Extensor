@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/360-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>360 F to Gas Mark Conversion Explained</h2>
 <p>360°F converts to Gas Mark 4 in UK ovens and air fryers. This is a common temperature for baking cookies, roasting vegetables, or cooking poultry in an air fryer. The Gas Mark system is widely used in British recipes, making this conversion essential for home cooks. If you're using an air fryer, you'll find many recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> that specify temperatures in both Fahrenheit and Gas Mark. Understanding this conversion helps when adapting traditional oven recipes for your air fryer.</p>

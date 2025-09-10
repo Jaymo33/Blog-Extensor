@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-breadcrumbs"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of breadcrumbs equals approximately 1.5 ounces. This measurement is essential for air fryer recipes, ensuring your coatings and toppings are perfectly portioned. Whether you're preparing crispy chicken, fish, or veggie dishes, knowing this conversion helps achieve consistent results every time.</p>  
 

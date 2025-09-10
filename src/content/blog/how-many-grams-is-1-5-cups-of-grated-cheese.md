@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of grated cheese equals approximately 170 grams. This conversion is essential for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you’re making cheesy nachos, crispy melts, or a gooey gratin, knowing the exact weight saves time and avoids kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking game. Let’s dive deeper into why grams matter and how to nail this conversion every time.</p>  
 

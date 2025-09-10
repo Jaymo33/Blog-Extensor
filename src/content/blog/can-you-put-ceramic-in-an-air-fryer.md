@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-ceramic-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put ceramic in an air fryer if it's marked as oven-safe and fits properly within the basket. The key is ensuring your ceramic cookware can withstand the high temperatures of air frying, typically between 180°C to 200°C. Many ceramic dishes are perfectly safe for air frying, but there are important precautions to consider before using them in your appliance.</p>
 

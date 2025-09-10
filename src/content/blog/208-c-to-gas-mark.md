@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/208-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 208 C in Gas Mark?</h2>
 <p>208°C converts to Gas Mark 6. This is a common temperature for baking, roasting, and air frying, offering a balance between gentle cooking and achieving a golden finish. Whether you're using an oven or an air fryer, knowing this conversion ensures your dishes cook evenly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we recommend checking your appliance’s manual for slight variations. Gas Mark 6 is ideal for cakes, casseroles, and even crispy roast potatoes.</p>

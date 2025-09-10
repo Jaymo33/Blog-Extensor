@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/490-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>490 F converts to approximately 250 C in a fan oven. This high-temperature setting is ideal for achieving crispy, restaurant-quality results in your air fryer or fan-assisted oven. Whether you're cooking chips, roasting vegetables, or baking, knowing this conversion ensures your dishes turn out perfectly every time.</p>
 

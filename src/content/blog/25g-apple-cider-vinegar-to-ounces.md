@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/25g-apple-cider-vinegar-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>25g of apple cider vinegar equals approximately 0.88 ounces. This conversion is essential for air fryer recipes that require precise measurements, ensuring your dishes turn out perfectly every time. Whether you're making a tangy marinade or a light dressing, knowing how to convert grams to ounces can make all the difference.</p>  
 

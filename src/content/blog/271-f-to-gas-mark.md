@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/271-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 271 F in Gas Mark?</h2>
 <p>271°F converts to approximately Gas Mark 1 on the UK temperature scale. This low heat setting is perfect for slow roasting, dehydrating, or keeping dishes warm in both air fryers and conventional ovens. While Gas Mark 1 technically starts at 275°F, 271°F is close enough to use the same setting without compromising results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend rounding up slightly when converting 271 Fahrenheit to Gas Mark for consistent cooking. This temperature works beautifully for dishes like slow-cooked meats or delicate baked goods that need gentle heat.</p>

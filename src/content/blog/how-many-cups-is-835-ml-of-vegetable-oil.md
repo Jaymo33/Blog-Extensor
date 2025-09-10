@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-vegetable-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>835 ml of vegetable oil is approximately 3.5 cups in the UK and roughly 3.52 cups in the US. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making crispy chips or moist cakes, knowing how to convert millilitres to cups can make all the difference.</p>  
 

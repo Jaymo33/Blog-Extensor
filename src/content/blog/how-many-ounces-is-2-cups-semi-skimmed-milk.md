@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-semi-skimmed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of semi skimmed milk equals approximately 16.9 ounces (or 480 millilitres). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can impact texture and consistency. Whether you’re whipping up a creamy sauce or a fluffy cake, knowing the exact weight ensures perfect results every time.</p>  
 

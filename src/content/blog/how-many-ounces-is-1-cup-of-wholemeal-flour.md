@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wholemeal-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of wholemeal flour weighs approximately 4.5 ounces (or 128 grams) in UK measurements. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a cake or preparing a savoury dish, knowing the exact weight ensures consistent results every time.</p>  
 

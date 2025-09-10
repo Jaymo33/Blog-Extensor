@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of condensed milk is roughly equal to 0.042 cups. This small but precise measurement is crucial for air fryer recipes where accuracy can make or break your dish. Whether you're whipping up a dessert or adding a touch of sweetness to a savoury meal, knowing how to convert 10 ml of condensed milk to cups ensures perfect results every time.</p>
 

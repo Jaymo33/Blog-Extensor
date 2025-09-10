@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260 ml of vinegar is approximately 1.1 cups in the UK or 1.09 cups in the US. This conversion is essential for precise cooking, especially when using an air fryer, where exact measurements can make or break a recipe. Whether you're marinating chicken or preparing a tangy glaze, knowing how to convert 260 ml of vinegar to cups ensures consistency in your dishes. For more air fryer-friendly conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>
 

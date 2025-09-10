@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>935 ml of buttermilk equals approximately 3.95 cups in US measurements or 3.29 cups in UK imperial measurements. Getting this conversion right is crucial for air fryer baking recipes where precise liquid ratios affect texture and rise. Whether you're making fluffy pancakes or tender fried chicken, accurate buttermilk measurements make all the difference.</p>
 

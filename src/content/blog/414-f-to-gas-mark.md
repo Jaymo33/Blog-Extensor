@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/414-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 414 F in Gas Mark?</h2>
 <p>414 F converts to Gas Mark 7, which is a common setting for baking and roasting in both ovens and air fryers. This temperature is ideal for achieving a golden crust on baked goods or perfectly cooked meats. Whether you're using a traditional oven or an air fryer, knowing this conversion ensures your recipes turn out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking every time. Gas Mark 7 is a versatile setting that works well for everything from cakes to roasted vegetables.</p>

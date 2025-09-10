@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-orange-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of orange juice equals approximately 10.64 ounces. This conversion is essential for precise measurements in recipes, especially when using an air fryer where accuracy can affect cooking times and results. Whether you're making a marinade, glaze, or sauce, knowing how many ounces are in 1.33 cups of orange juice ensures your dish turns out perfectly every time.</p>
 

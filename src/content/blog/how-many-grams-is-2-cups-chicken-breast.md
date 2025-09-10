@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-chicken-breast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.0 cups of chicken breast equals approximately 280 grams, making it easier to measure for air fryer recipes. This conversion ensures accuracy whether you're cooking, baking, or meal prepping. Chicken breast is a lean protein staple, and knowing its weight in grams helps with portion control and recipe consistency. If you're using an air fryer, precise measurements like this ensure even cooking and perfect results every time. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy conversion chart</a>.</p>  
 

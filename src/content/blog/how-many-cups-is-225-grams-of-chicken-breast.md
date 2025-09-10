@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-chicken-breast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>225 grams of chicken breast equals roughly 1.5 cups when diced or shredded. This conversion is essential for air fryer recipes, ensuring consistent results every time. Whether you're meal prepping or cooking a quick dinner, knowing how to measure chicken breast accurately can make all the difference.</p>
 

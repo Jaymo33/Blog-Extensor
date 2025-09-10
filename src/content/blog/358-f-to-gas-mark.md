@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/358-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Converting 358 F to Gas Mark for Air Fryer Cooking</h2>
 <p>358°F converts to Gas Mark 4 in UK ovens and air fryers. This medium heat setting is perfect for baking cookies, roasting vegetables, or cooking poultry in your air fryer. Many traditional recipes use Gas Mark temperatures, so knowing this conversion helps when adapting them for your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for other common temperature equivalents. Whether you're making <a href=https://www.airfryerrecipe.co.uk/recipe-category/cookies>cookies</a> or roasting chicken, 358 F (Gas Mark 4) delivers even, reliable heat.</p>

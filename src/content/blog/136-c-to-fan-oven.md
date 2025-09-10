@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/136-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>136 C in a fan oven is equivalent to approximately 120 C in a conventional oven. This adjustment accounts for the efficient heat circulation of a fan oven, which cooks food faster and more evenly. If you're using an air fryer, 136 C translates directly, as air fryers operate similarly to fan ovens. For perfect results, always preheat your appliance and check recipes for specific guidance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend verifying temperatures with a reliable oven thermometer.</p>  
 

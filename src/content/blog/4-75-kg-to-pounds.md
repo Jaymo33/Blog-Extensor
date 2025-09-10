@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-75-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.75 kg is equal to approximately 10.47 pounds, a conversion that comes in handy when preparing ingredients for your air fryer. Whether you're portioning out chicken, beef, or even vegetables, knowing how to convert 4.75 kg to pounds ensures you follow recipes accurately and avoid overloading your appliance. This is particularly useful when using resources from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, where many recipes provide weights in metric or imperial measurements. Getting your quantities right not only improves cooking results but also helps with meal planning and grocery shopping. Let's explore why this conversion matters and how to apply it in your kitchen.</p>
 

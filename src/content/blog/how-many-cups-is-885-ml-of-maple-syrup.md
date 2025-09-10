@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-maple-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>885 ml of maple syrup is approximately 3.74 cups in the US and 3.52 cups in the UK. This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making glazes, marinades, or desserts, knowing how to convert 885 ml of maple syrup to cups can save you from kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide detailed conversion guides to help you master your air fryer recipes.</p>
 

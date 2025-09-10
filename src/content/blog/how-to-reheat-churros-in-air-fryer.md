@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-churros-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating churros in an air fryer at 160°C for 3-4 minutes restores their crispiness perfectly. This method beats microwaving, which often leaves them soggy, and avoids the mess of deep-frying again. Your air fryer circulates hot air evenly, crisping the exterior while keeping the inside soft. Whether you’ve stored churros in the fridge or left them out, this technique works wonders. For best results, space them out in the basket so air can flow freely around each piece.</p>
 

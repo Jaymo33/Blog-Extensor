@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>860 ml of yogurt is approximately 3.63 cups. This conversion is essential for precision in baking and cooking, especially when using an air fryer where exact measurements can affect texture and consistency. Whether you're whipping up a cake, marinade, or dip, knowing how to convert 860 ml of yogurt to cups ensures your dish turns out perfectly every time.</p>  
 

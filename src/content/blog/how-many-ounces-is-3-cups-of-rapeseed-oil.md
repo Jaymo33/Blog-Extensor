@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rapeseed-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 3 cups of rapeseed oil?</h2>
 <p>3 cups of rapeseed oil equals approximately 24 ounces. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Rapeseed oil, a popular choice for air frying due to its high smoke point, is often measured in cups, but many recipes require ounces for accuracy. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting portions, knowing this conversion is a game-changer. Keep reading to explore why this measurement matters and how to use it effectively.</p>

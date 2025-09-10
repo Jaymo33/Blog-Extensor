@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-breakfast-sandwich-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat a breakfast sandwich in an air fryer, set it to 160°C (320°F) for 3-4 minutes. This gentle heat revives the bread's crispiness while thoroughly warming the fillings without drying them out. Whether you're working with homemade creations or shop-bought sandwiches, your air fryer delivers superior results compared to microwaving.</p>
 

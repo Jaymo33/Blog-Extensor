@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-corn-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.0 cups of corn syrup equals 473 ml, making it easy to measure for your air fryer recipes. Whether you’re whipping up a glaze for desserts or adding sweetness to baked goods, precise measurements ensure consistent results. Corn syrup is a staple in many recipes, and knowing how to convert cups to millilitres helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can focus on cooking. Keep reading for tips on measuring sticky ingredients like corn syrup in your air fryer.</p>  
 

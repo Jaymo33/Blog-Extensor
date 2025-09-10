@@ -6,8 +6,9 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipe.co.uk"
-schema: |
-    <script type="application/ld+json">
+
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -205,7 +206,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put a baking tin in an air fryer if it fits properly and is made of oven-safe metal. Most standard baking tins work perfectly fine in air fryers, provided they don't obstruct the airflow or touch the heating element. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we've tested numerous bakeware options to help you achieve the best results.</p>
 

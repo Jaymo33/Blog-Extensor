@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/303-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>303 F converts to approximately 150 C in a fan oven. This is a moderate temperature ideal for slow baking, roasting vegetables, or cooking delicate dishes in your air fryer. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using a conventional oven or an air fryer with fan-assisted cooking.</p>
 

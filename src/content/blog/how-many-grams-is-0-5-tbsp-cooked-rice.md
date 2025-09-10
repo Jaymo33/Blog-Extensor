@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-cooked-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 tbsp of cooked rice weighs approximately 6 grams. This measurement is useful when preparing small portions in your air fryer or tracking nutritional intake. Whether you're meal prepping or following a recipe, knowing exact weights ensures consistency in your cooking. For more air fryer conversions, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>comprehensive conversion chart</a>.</p>
 

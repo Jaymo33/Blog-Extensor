@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-cocoa-powder"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.25 cups of cocoa powder equals approximately 225 grams. This conversion is essential for baking accuracy, especially when using an air fryer, where precise measurements can make or break your recipe. Whether you're making brownies, cakes, or chocolate desserts, knowing the exact weight ensures consistency and perfect results every time.</p>  
 

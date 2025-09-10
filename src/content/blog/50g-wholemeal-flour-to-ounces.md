@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/50g-wholemeal-flour-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50g of wholemeal flour equals approximately 1.76 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break your recipes. Whether you're adapting a family favourite or trying a new creation from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a>, getting your flour measurements right is crucial.</p>
 

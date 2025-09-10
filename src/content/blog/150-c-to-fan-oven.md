@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/150-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150 C in a fan oven is equivalent to approximately 130 C in a conventional oven with the fan setting. This 20-degree reduction is standard for fan-assisted cooking, as the circulating air distributes heat more efficiently. When using an air fryer, which works similarly to a fan oven, you'll often find recipes calling for this precise 150 C fan oven temperature.</p>
 

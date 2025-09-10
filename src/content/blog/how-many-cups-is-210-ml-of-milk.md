@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>210 ml of milk equals approximately 0.89 cups in the UK or 0.88 cups in the US. This small difference matters in baking and air fryer recipes where precision is key. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 210 ml of milk to cups ensures perfect results every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-6-to-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 6 converts to 400°F (200°C) - the perfect temperature for most air fryer recipes. This medium-high heat works brilliantly for everything from crispy roast potatoes to golden baked goods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we use this conversion daily for foolproof cooking results.</p>
 

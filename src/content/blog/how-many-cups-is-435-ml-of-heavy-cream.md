@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-heavy-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>435 ml of heavy cream is approximately 1.84 cups. This conversion is essential for accurate baking and cooking, especially when using an air fryer where precise measurements can make or break a dish. Whether you're making a rich sauce, fluffy whipped cream, or a creamy dessert, knowing how to convert millilitres to cups ensures consistent results every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/75g-icing-sugar-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75g of icing sugar equals approximately 2.65 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for desserts like cakes or cookies. Whether you’re following a UK recipe or adapting one from abroad, knowing how to convert grams to ounces ensures your baked goods turn out perfectly every time.</p>  
 

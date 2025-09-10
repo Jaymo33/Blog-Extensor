@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/9-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 9 kg beef joint equals approximately 19.84 pounds. This conversion is essential when preparing large cuts of meat for your air fryer, as cooking times and temperatures often depend on accurate weight measurements. Whether you're roasting a joint for a family gathering or meal prepping for the week, knowing how to convert 9 kg beef joint to pounds ensures perfect results every time. Many air fryer recipes and guidelines use imperial measurements, so this knowledge is particularly useful for UK cooks. Understanding this conversion helps you follow recipes accurately and achieve delicious, evenly cooked beef.</p>
 

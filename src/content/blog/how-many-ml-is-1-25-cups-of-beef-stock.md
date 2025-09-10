@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of beef stock equals approximately 295.74 ml. This conversion is essential for air fryer recipes, ensuring accurate liquid measurements for marinades, sauces, or broths. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> or improvising, precise measurements guarantee consistent results.</p>  
 

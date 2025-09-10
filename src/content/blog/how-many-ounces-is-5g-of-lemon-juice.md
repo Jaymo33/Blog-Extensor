@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5 grams (5g) of lemon juice equals approximately 0.18 ounces (0.18 oz). This conversion is essential for precise cooking, especially when using an air fryer where ingredient accuracy can impact texture and flavour. Whether you're whipping up a zesty marinade or adding a tangy twist to desserts, knowing how to convert 5g lemon juice to ounces ensures consistency in your recipes.</p>  
 

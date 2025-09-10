@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/221-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 221 C in Gas Mark?</h2>
 <p>221 C converts to Gas Mark 7. This is a common temperature for baking, roasting, and air frying in the UK. Whether you're using an oven or an air fryer, knowing this conversion ensures your dishes cook perfectly. Many recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use Gas Mark settings, so this conversion is handy. If you're unsure about other temperatures, check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for quick reference.</p>

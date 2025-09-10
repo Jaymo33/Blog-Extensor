@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/190-fan-oven-to-conventional-oven-conversion-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 190 Fan Oven to Conventional Oven Conversion</h2>
 <p>190 fan oven equals approximately 374°F in a conventional oven. This conversion is essential for baking and cooking, especially when using recipes designed for fan ovens. Fan ovens circulate hot air, which means they cook food faster and at lower temperatures compared to conventional ovens. If you're using an air fryer, which operates similarly to a fan oven, you might need to adjust the temperature slightly. For more tips on air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

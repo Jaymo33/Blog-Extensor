@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-cream-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons (tbsp) of cream cheese equals approximately 35 grams. This conversion is essential for air fryer recipes where precision matters, whether you're making stuffed mushrooms, cheesecake bites, or creamy dips. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know that accurate measurements can make or break a dish, especially when working with rich ingredients like cream cheese.</p>  
 

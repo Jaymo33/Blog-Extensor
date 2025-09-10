@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/246-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>246°C in a fan oven is equivalent to approximately 220°C with the fan setting on. This adjustment accounts for the efficient heat distribution in fan-assisted ovens, which cook food faster and more evenly than conventional ovens. If you're using an air fryer, which operates similarly to a fan oven, this conversion ensures your recipes turn out perfectly every time. For more precise cooking, always refer to your appliance’s manual or check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>
 

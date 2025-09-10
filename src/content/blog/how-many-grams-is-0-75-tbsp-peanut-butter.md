@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-peanut-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 tablespoons (tbsp) of peanut butter equals approximately 11.25 grams (g) in UK measurements. This conversion is essential for air fryer recipes where precision matters, especially when baking or preparing sauces. Peanut butter's density can vary slightly between brands, but this measurement provides a reliable standard for most cooking needs. If you're using an air fryer for recipes like peanut butter cookies or satay sauces, knowing this conversion ensures consistent results. Bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for quick reference during your cooking sessions.</p>
 

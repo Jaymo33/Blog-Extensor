@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>400 grams of brown sugar is roughly equivalent to 2 cups when lightly packed, but this can vary slightly depending on how tightly it's measured. For precise baking, especially in air fryers where ingredient ratios matter, knowing exact conversions ensures perfect results every time. Whether you're whipping up air fryer cookies or cakes, getting the sugar measurement right is crucial for texture and sweetness.</p>  
 

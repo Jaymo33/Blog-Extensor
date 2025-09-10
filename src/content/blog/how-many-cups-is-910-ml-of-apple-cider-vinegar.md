@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-apple-cider-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>910 ml of apple cider vinegar is approximately 3.85 cups. This conversion is essential for air fryer recipes that require precise liquid measurements. Whether you're marinating chicken or whipping up a tangy glaze, knowing how to convert millilitres to cups ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Keep reading to learn more about measuring apple cider vinegar and other liquids for air fryer cooking.</p>
 

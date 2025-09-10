@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Ounces Are in 1.66 Cups of Lemon Juice?</h2>  
 <p>1.66 cups of lemon juice equals approximately 13.28 ounces. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Lemon juice is a common ingredient in marinades, dressings, and even desserts, so getting the measurement right matters. If you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion ensures your dish turns out perfectly. Whether you're making crispy lemon chicken or a zesty dessert, accuracy is key.</p>  

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-cheese-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put cheese in an air fryer, but it requires careful handling to prevent burning or melting mishaps. Cheese behaves differently under high heat, so knowing which types work best and how to time them is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’ve tested countless methods to help you air fry cheese safely and deliciously.</p>
 

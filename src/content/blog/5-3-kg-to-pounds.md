@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/5-3-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5.3 kilograms is equal to approximately 11.68 pounds. This conversion is incredibly useful in the kitchen, especially when you are preparing larger quantities of food for your air fryer. Whether you are portioning a big joint of meat or scaling up a family favourite recipe, knowing how to convert 5.3 kg to pounds ensures you get your ingredient measurements spot on. Accurate measurements are the secret to consistent and delicious air fryer results every single time. For a comprehensive guide on all your cooking conversions, be sure to bookmark the handy resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a>.</p>
 

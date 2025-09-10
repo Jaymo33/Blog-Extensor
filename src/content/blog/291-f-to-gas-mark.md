@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/291-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>291°F converts to Gas Mark 1, making it a low-temperature setting ideal for slow cooking or gentle baking in both air fryers and ovens. This conversion is particularly useful for recipes that require precise heat control, ensuring your dishes turn out perfectly every time. Whether you’re using an air fryer or a conventional oven, knowing the Gas Mark equivalent helps streamline your cooking process. For more air fryer tips and recipes, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>
 

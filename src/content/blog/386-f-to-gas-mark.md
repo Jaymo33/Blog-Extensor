@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/386-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 386 F in Gas Mark?</h2>
 <p>386°F converts to Gas Mark 5 in UK ovens and air fryers. This is a moderate oven temperature ideal for roasting meats, baking cakes, or crisping vegetables. Gas Mark 5 sits between 190°C and 200°C, making it versatile for many recipes. Whether you're using a traditional oven or an air fryer, this temperature ensures even cooking without burning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend Gas Mark 5 for dishes needing gentle browning.</p>

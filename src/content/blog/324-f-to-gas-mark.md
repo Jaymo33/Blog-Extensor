@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/324-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>324°F converts to Gas Mark 3, the standard UK measurement for moderate oven temperatures. This temperature is perfect for slow roasting, baking cookies, or gently cooking casseroles in both traditional ovens and air fryers. If you're adapting a recipe from Fahrenheit to Gas Mark, this conversion ensures your dishes cook evenly without burning.</p>
 

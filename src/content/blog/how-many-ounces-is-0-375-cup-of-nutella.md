@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-nutella"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of Nutella equals 3 ounces, making it easy to measure for your air fryer recipes. Whether you're baking brownies or making stuffed pastries, precise measurements ensure perfect results every time. Nutella’s rich, creamy texture means it’s best measured by weight for accuracy, especially in air fryer cooking where consistency matters. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we know how important precise conversions are for flawless desserts.</p>  
 

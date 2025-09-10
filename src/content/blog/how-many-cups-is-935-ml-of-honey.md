@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>935 ml of honey equals approximately 3.95 cups (or just under 4 cups) when measured accurately. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a glaze, marinade, or dessert, knowing how to convert 935 ml of honey to cups ensures consistent results every time.</p>  
 

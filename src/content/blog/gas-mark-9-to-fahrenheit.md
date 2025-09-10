@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Gas Mark 9 to Fahrenheit Conversion</h2>
 <p>Gas Mark 9 converts to 475°F (246°C), perfect for high-heat air frying. This temperature is commonly used for roasting meats, baking pizzas, or achieving crispy textures in your air fryer. At airfryerrecipe.co.uk, we recommend this setting for dishes that need a quick, intense heat. Whether you're converting recipes or experimenting with your air fryer, knowing Gas Mark 9 in Fahrenheit ensures consistent results. Many UK cooks find this conversion essential when using American recipes or appliance manuals.</p>

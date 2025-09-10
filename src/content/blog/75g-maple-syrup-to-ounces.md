@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/75g-maple-syrup-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75g of maple syrup equals approximately 2.65 ounces. This conversion is essential for UK cooks who need precise measurements for air fryer recipes and baking. Whether you're making glazes, marinades, or sweet treats, knowing how to convert grams to ounces ensures perfect results every time.</p>
 

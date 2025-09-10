@@ -5,8 +5,11 @@ pubDate: 2025-08-21T00:00:00.000Z
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/15-kg-to-pounds-09ba7"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15 kg equals exactly 33.0693 pounds, which is the precise conversion you need for air fryer cooking and food preparation. This conversion is particularly useful when dealing with larger quantities of ingredients or when following recipes that use imperial measurements. Many air fryer users find themselves needing to convert weights when working with meat portions, frozen foods, or bulk ingredients. Whether you're meal prepping for the week or cooking for a crowd, knowing how to convert 15 kg to pounds ensures accurate portioning and perfect results. Understanding this conversion can make your cooking experience at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> much more straightforward and successful.</p>
 

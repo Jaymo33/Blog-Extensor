@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-chopped-walnuts"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of chopped walnuts equals approximately 5.3 ounces (150 grams). This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're baking walnut-crusted chicken or whipping up a quick dessert, knowing the exact weight saves time and guarantees consistency.</p>  
 

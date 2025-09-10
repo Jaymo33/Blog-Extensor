@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of flour equals approximately 4.4 ounces (or 4.41 oz to be precise). This conversion is essential for air fryer baking, where precision ensures even cooking and perfect texture. Whether you're whipping up air fryer cookies or bread, knowing how many ounces are in 1 cup of flour helps avoid dense or crumbly results. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  
 

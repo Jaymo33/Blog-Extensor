@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-cottage-cheese-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of cottage cheese equals approximately 0.71 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference to texture and cooking times. Whether you're making crispy cottage cheese bites or adding it to an air fryer breakfast bake, knowing your weights ensures perfect results every time.</p>
 

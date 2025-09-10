@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75g of minced garlic equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're making garlic butter shrimp or a savoury marinade, knowing the exact weight helps avoid overpowering or underwhelming your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking. Keep reading for tips on measuring minced garlic and using it in your air fryer.</p>  
 

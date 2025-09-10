@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-yeast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of yeast equals approximately 4.8 ounces (or 4.8 oz) in standard UK measurements. This conversion is crucial for bakers using air fryers to create perfect doughs, from pizza bases to fluffy rolls. Precise measurements ensure your yeast activates properly, giving your baked goods the ideal rise and texture.</p>
 

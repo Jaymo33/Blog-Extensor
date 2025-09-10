@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/211-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 211 C in Gas Mark?</h2>
 <p>211 C converts to Gas Mark 6.5, a common setting for roasting and baking. This temperature is perfect for dishes that need a steady, moderate heat, like casseroles or cakes. If you're using an air fryer, you might need to adjust slightly as air fryers cook faster. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>. Whether you're baking or roasting, knowing 211 C to Gas Mark ensures consistent results.</p>

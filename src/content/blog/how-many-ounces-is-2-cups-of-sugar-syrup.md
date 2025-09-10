@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-sugar-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of sugar syrup equals approximately 16 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require accuracy. Sugar syrup, a common ingredient in desserts and glazes, can vary slightly in weight depending on its density, but 2 cups generally translate to 16 ounces. Whether you're making a sticky glaze for air-fried doughnuts or a sweet marinade, knowing this conversion ensures your dish turns out perfectly every time.</p>  
 

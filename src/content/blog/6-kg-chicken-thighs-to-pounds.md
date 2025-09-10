@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-kg-chicken-thighs-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>6 kg of chicken thighs converts to approximately 13.23 pounds, making it essential knowledge for anyone preparing large batches in their air fryer. This conversion is particularly useful when dealing with bulk purchases or family-sized meals that require precise measurements. Understanding this 6 kg chicken thighs to pounds conversion ensures your recipes turn out perfectly every time. Whether you're following a specific dish from airfryerrecipe.co.uk or creating your own, accurate measurements are key. Getting this right means your chicken thighs will cook evenly and deliver that delicious crispy texture we all love.</p>
 

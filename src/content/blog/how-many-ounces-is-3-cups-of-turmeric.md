@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-turmeric"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of turmeric weigh approximately 24 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Turmeric, a staple in many kitchens, is often used in both cooking and baking, so knowing its weight is crucial. Whether you're preparing a curry or a spiced dessert, accurate measurements make all the difference. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more tips on measuring ingredients for your air fryer.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-egg-rolls-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating egg rolls in an air fryer takes just 3-5 minutes at 180°C (350°F), restoring their crispy texture without drying them out. This method beats microwaving or oven reheating, as the rapid hot air circulation mimics deep-frying results. Whether you’ve stored them in the fridge or freezer, your air fryer can bring back that satisfying crunch.</p>
 

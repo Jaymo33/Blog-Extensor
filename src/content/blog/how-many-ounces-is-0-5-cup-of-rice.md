@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Half a cup of uncooked, long-grain white rice weighs approximately 3.5 ounces. This measurement is a fantastic starting point for anyone looking to prepare the perfect portion of rice in their air fryer. Whether you are meal prepping or cooking a single serving, knowing this conversion ensures your grains cook evenly and absorb the right amount of moisture. Getting this fundamental measurement correct can elevate your entire dish, making it a crucial piece of knowledge for home cooks. For more handy conversions, our comprehensive <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> is an invaluable resource.</p>
 

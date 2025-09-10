@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.0 cups of milk is equivalent to 946 millilitres (ml). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking a cake or preparing a creamy sauce, knowing how many ml is 4.0 cups of milk helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make conversions straightforward so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/151-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 151 Fan Oven to Conventional Oven Conversion</h2>
 <p>151°C in a fan oven equals approximately 171°C in a conventional oven. This 20°C difference occurs because fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. When converting recipes between these oven types, this adjustment ensures your dishes cook perfectly every time. Many modern recipes, especially those on <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>, specify fan oven temperatures, so knowing how to convert them is essential. The same principle applies when using an air fryer, which operates similarly to a fan oven.</p>

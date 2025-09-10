@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/215-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 215 C in Gas Mark?</h2>
 <p>215 C converts to Gas Mark 7 for conventional ovens and air fryers. This is a common temperature for baking cakes, roasting vegetables, and cooking meats to perfection. When using an air fryer, you’ll often find recipes that require this precise heat level for crispy results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your appliance’s manual as some models may vary slightly. Understanding this conversion helps adapt traditional oven recipes for your air fryer effortlessly.</p>

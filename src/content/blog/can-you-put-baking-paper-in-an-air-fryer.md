@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-baking-paper-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put baking paper in an air fryer if you follow specific safety guidelines. The key is using the right type of baking paper and ensuring proper airflow to prevent fire hazards. Many air fryer users at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> successfully use baking paper for easier cleanup when making <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> or roasting vegetables.</p>
 

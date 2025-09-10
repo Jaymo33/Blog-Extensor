@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-eclairs-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat eclairs in an air fryer, set it to 160°C (320°F) for 3–4 minutes. This gentle heat revives the pastry’s crispness without overcooking the delicate cream filling. Whether you’ve stored them in the fridge or have day-old leftovers, your air fryer can bring back that just-baked quality.</p>
 

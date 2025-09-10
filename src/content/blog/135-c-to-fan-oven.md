@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/135-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 135 C in Fan Ovens</h2>
 <p>135 C converts directly to 135 C in a fan oven - no adjustment needed. Fan ovens circulate hot air evenly, meaning the set temperature matches the actual cooking temperature precisely. This differs from conventional ovens where you'd typically reduce temperatures by 20 C. When using an air fryer, which works similarly to a fan oven, you can trust the 135 C setting to deliver consistent results. Many recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use this temperature for delicate baking. It's ideal for drying herbs, slow-cooking meats, or making perfect meringues.</p>

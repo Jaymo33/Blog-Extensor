@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/47-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>47 kg equals approximately 103.617 pounds, making it easy to convert metric weights for your air fryer recipes. This conversion is particularly useful when dealing with larger cuts of meat or bulk ingredients that need portioning for family meals. Many British cooks find themselves needing to convert between kilograms and pounds when following international recipes or using kitchen scales with different measurement systems. Whether you're preparing a large batch of <a href="https://www.airfryerrecipe.co.uk/recipe-category/chicken">chicken</a> for Sunday roast or portioning ingredients for meal prep, understanding this conversion ensures perfect results every time. At airfryerrecipe.co.uk, we believe accurate measurements are the foundation of great cooking.</p>
 

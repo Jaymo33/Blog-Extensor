@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-hot-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1.75 cups of hot sauce?</h2>  
 <p>1.75 cups of hot sauce equals approximately 14 fluid ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken wings or adding a spicy kick to your meal, knowing the exact ounces helps. Hot sauce density can vary slightly, but for most standard brands, 1.75 cups will weigh close to 14 ounces. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

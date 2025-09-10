@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250 grams of grated cheese is roughly equivalent to 2.5 cups, though this can vary slightly depending on how finely the cheese is grated and whether you're using UK or US cup measurements. Getting this conversion right is essential for recipes, especially when using an air fryer where precise measurements can make all the difference. Whether you're making a cheesy bake or topping a dish, knowing how many cups 250 grams of grated cheese equals ensures consistency and delicious results every time.</p>
 

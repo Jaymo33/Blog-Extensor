@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cocoa-powder"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>425 grams of cocoa powder equals approximately 3.5 cups when using the standard UK metric cup (250ml). For US measurements, it’s closer to 3.75 cups due to the slight difference in cup sizes. Whether you're baking a chocolate cake or whipping up air fryer brownies, accurate measurements ensure perfect results every time.</p>  
 

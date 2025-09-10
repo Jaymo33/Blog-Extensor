@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-breakfast-wrap-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating a breakfast wrap in an air fryer is simple: preheat to 160°C (320°F), place the wrap inside for 3-4 minutes, and check for crispness. This method keeps the wrap from drying out while restoring its texture far better than a microwave. Whether you’ve stored it in the fridge or have leftovers, your air fryer can revive it perfectly.</p>
 

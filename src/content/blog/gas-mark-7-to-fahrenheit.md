@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-7-to-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 7 converts to 425°F, making it a medium-high heat perfect for air fryer cooking. This temperature works brilliantly for roasting vegetables, baking goods, or crisping up frozen foods. Many traditional oven recipes use Gas Mark 7, which translates directly to your air fryer with minor timing adjustments. At airfryerrecipe.co.uk, we specialise in helping you adapt conventional cooking methods to your air fryer.</p>
 

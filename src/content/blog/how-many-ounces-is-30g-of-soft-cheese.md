@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>30g of soft cheese equals approximately 1.06 ounces. If you're preparing an air fryer recipe that calls for precise measurements, this conversion is essential for getting the right consistency and flavour. Whether you're making a creamy dip or a cheesy topping, knowing how to convert grams to ounces ensures your dish turns out just right.</p>  
 

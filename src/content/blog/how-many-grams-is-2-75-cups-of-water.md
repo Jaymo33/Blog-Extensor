@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.75 cups of water equals approximately 650 grams. This conversion is essential for precision in cooking, especially when using an air fryer where exact measurements can impact texture and cooking times. Whether you're preparing a cake, a savoury dish, or even reheating leftovers, knowing how many grams 2.75 cups of water weighs ensures consistent results every time.</p>
 

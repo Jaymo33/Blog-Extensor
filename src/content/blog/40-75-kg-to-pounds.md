@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/40-75-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40.75 kg is equal to approximately 89.84 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger quantities of ingredients or comparing appliance weights. Understanding how to convert 40.75 kg to pounds can make your cooking experience smoother and more precise. Whether you're meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, getting your measurements right is key. Let's explore why this conversion matters and how to use it effectively.</p>
 

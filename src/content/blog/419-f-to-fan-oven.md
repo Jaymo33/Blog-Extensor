@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/419-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>419°F converts to approximately 215°C in a fan oven. This temperature is ideal for roasting, baking, and achieving crispy textures in dishes like roasted vegetables or air-fried chicken. Understanding this conversion helps bridge the gap between traditional oven recipes and air fryer cooking, ensuring your meals turn out perfectly every time.</p>
 

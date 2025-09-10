@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons of self-raising flour weigh approximately 24 grams in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect results every time. Whether you're whipping up cakes, muffins, or savoury bakes in your air fryer, knowing exact weights helps avoid dense or uneven textures. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy for foolproof recipes. Let’s dive deeper into conversions and tips for measuring self-raising flour.</p>  
 

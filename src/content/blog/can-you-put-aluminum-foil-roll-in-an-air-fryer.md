@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-aluminum-foil-roll-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can use aluminum foil roll in an air fryer, but with important precautions. The key is ensuring proper airflow and preventing contact with heating elements. Many air fryer users at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> successfully use foil for easier cleanup and better cooking results when following safety guidelines.</p>
 

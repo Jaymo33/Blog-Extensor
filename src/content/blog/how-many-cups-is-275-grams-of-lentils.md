@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-lentils"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>275 grams of lentils equals approximately 1.5 cups when measured using standard UK or US cup measurements. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up a lentil curry or a protein-packed salad, knowing how many cups 275 grams of lentils translates to ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Keep reading to learn more about measuring lentils and how to use them in your air fryer.</p>
 

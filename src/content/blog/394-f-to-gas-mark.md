@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/394-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>394°F converts to Gas Mark 6, a common setting for roasting meats, baking cakes, and air frying crispy dishes. This temperature is a staple in British kitchens, whether you're using a conventional oven or a modern air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend Gas Mark 6 for recipes requiring a balance of browning and gentle cooking. It's equivalent to 200°C in fan ovens, making it versatile across appliances. Understanding this conversion ensures your dishes cook evenly, whether you're preparing a Sunday roast or batch-cooking <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a>.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of soy sauce equals 295.74 ml. This precise conversion is essential for air fryer recipes, where accurate measurements can make or break your dish. Whether you're marinating chicken, seasoning tofu, or whipping up a stir-fry, knowing how many ml is 1.25 cups of soy sauce ensures consistent flavour and texture. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we specialise in helping you nail these conversions for hassle-free cooking.</p>  
 

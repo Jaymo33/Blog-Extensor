@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-kg-prawns-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>6 kg of prawns equals approximately 13.23 pounds, making it essential knowledge for air fryer enthusiasts who need precise measurements for cooking. Whether you're preparing a large batch for a family gathering or meal prepping for the week, understanding this conversion ensures your prawns cook evenly and come out perfectly succulent. Many air fryer recipes, especially those on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, use imperial measurements, so converting 6 kg prawns to pounds helps you follow instructions accurately. This conversion is particularly useful when dealing with frozen prawns or when scaling recipes up or down. Getting the weight right means your seasoning and cooking times will be spot on, leading to delicious results every time.</p>
 

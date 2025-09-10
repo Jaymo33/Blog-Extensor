@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 3 converts to 160°C in Celsius, making it a moderate oven temperature perfect for slow cooking and baking. This temperature is commonly used for roasting meats, baking cakes, and preparing casseroles. When using an air fryer, you'll often need to adjust cooking times as they heat up faster than conventional ovens.</p>
 

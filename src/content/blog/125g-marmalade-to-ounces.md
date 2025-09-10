@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/125g-marmalade-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125g of marmalade equals approximately 4.41 ounces. This conversion is essential when preparing air fryer recipes that require precise measurements for perfect results. Whether you're making glazes, sauces or baked goods, knowing how to convert grams to ounces ensures your dishes turn out just right every time.</p>
 

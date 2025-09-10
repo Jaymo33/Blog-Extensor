@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-75-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you're looking to convert 4.75 kg whole chicken to pounds, the answer is straightforward: 4.75 kilograms is equal to approximately 10.47 pounds. This conversion is essential for anyone using an air fryer, as many recipes and cooking guidelines are provided in pounds, especially if you're following American or traditional British recipes. Knowing the exact weight in pounds helps you adjust cooking times and temperatures accurately, ensuring your chicken comes out perfectly juicy and crispy every time. Whether you're meal prepping or cooking for a family dinner, this conversion makes your life easier. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>
 

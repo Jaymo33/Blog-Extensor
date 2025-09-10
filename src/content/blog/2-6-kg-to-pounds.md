@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-6-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.6 kg is equal to approximately 5.73 pounds, a conversion that comes in very handy when preparing ingredients for your air fryer. Whether you're portioning out chicken, potatoes, or even baking a cake, knowing how to convert 2.6 kilograms to pounds ensures you use the right amount for your recipes. Accurate measurements are key to achieving that perfect crispness and even cooking that air fryers are famous for. Getting your weights spot-on means no guesswork and consistently delicious meals. For more handy conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>
 

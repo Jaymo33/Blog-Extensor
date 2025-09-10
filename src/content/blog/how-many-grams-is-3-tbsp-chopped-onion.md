@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 tablespoons (tbsp) of chopped onion weighs approximately 30 grams. This conversion is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're prepping a stir-fry, casserole, or seasoning mix, knowing the exact weight helps avoid over or under-seasoning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking game. Use this guide to convert 3 tbsp chopped onion to grams effortlessly.</p>  
 

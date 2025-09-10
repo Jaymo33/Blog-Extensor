@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1-25-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 1.25 kg whole chicken is approximately 2.76 pounds. This conversion is essential for air fryer users who need to adjust cooking times and temperatures based on weight. Whether you're preparing a Sunday roast or a quick weeknight dinner, knowing the exact weight in pounds helps achieve perfectly cooked, juicy chicken every time. Many air fryer recipes and presets are calibrated in pounds, making this conversion a handy piece of kitchen knowledge. Bookmark this page or visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> for more useful conversions.</p>
 

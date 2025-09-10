@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-harissa-paste"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of harissa paste equals approximately 4 ounces (oz). This conversion is essential for air fryer recipes, ensuring accurate measurements for the perfect spice level. Whether you're marinating chicken or adding a kick to roasted vegetables, knowing how many ounces are in 0.5 cup of harissa paste helps avoid over- or under-seasoning.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-breadcrumbs-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of breadcrumbs equals approximately 0.71 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure crispy, evenly cooked results. Whether you’re coating chicken, fish, or vegetables, knowing the exact weight helps avoid soggy or overly dry dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions effortless so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  
 

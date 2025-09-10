@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of soft cheese is equal to 3 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're making a creamy dip, a stuffed chicken breast, or a delicious cheesecake bite, knowing exactly how many ounces you need saves time and ensures perfect results. Getting your quantities right means your air fryer creations will turn out exactly as intended every single time. For more handy conversions and tips, always check back with <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/441-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>441 F to Gas Mark Conversion Explained</h2>
 <p>441°F converts directly to Gas Mark 8 in UK ovens and air fryers. This high heat is ideal for roasting meats, baking crusty bread, or achieving crispy textures in your air fryer. Many traditional British recipes, especially those involving puff pastry or Sunday roasts, rely on this temperature range. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your appliance’s manual as some models may require slight adjustments. Gas Mark 8 delivers intense, consistent heat that mimics professional kitchen results.</p>

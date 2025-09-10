@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10g-garlic-paste-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10g of garlic paste is approximately 0.35 ounces. Whether you're whipping up a quick marinade or adding flavour to your air fryer dishes, knowing this conversion ensures your recipes turn out just right. Garlic paste is a staple in many kitchens, especially for those who love the convenience of pre-prepared ingredients. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial accurate measurements are for perfect results every time.</p>  
 

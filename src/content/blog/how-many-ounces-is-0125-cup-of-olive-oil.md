@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.125 cup of olive oil equals 1 fluid ounce (oz) in the UK. This measurement is essential for air fryer recipes where precision matters. Whether you’re making crispy roast potatoes or a marinade, knowing the exact conversion ensures perfect results every time. Olive oil is a staple in many air fryer dishes, so getting the measurements right is key. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips.</p>
 

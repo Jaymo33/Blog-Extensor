@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/214-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>214 C converts to Gas Mark 7, the standard UK oven setting for baking and roasting. This temperature is ideal for everything from cakes to roast dinners, and it's just as useful when using an air fryer. If you're adapting recipes between conventional ovens and air fryers, knowing how to convert 214 C to Gas Mark ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Whether you're working with 214 celsius to gas mark or other temperatures, our guides take the guesswork out of cooking.</p>
 

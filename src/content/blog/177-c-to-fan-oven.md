@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/177-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>177 C in a fan oven is equivalent to approximately 157 C in a conventional oven or the same temperature in an air fryer. This conversion is essential for achieving perfectly baked or roasted dishes without over or undercooking. Fan ovens circulate hot air evenly, allowing for lower temperatures compared to traditional ovens. If you're using an air fryer, you can often stick to 177 C as it operates similarly to a fan oven. For more detailed conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

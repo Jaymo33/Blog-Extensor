@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 3 converts to 325°F (163°C), making it a moderate oven temperature ideal for baking and slow roasting in both conventional ovens and air fryers. This temperature is perfect for recipes requiring gentle, even heat without excessive browning. Whether you're converting a family recipe or adapting cooking times for your air fryer, understanding Gas Mark 3 to Fahrenheit conversions ensures consistent results.</p>
 

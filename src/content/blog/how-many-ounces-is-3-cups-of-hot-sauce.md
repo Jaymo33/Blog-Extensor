@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Ounces Are in 3 Cups of Hot Sauce?</h2>  
 <p>3 cups of hot sauce equals approximately 24 fluid ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re whipping up a spicy marinade or adding heat to your favourite <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing this conversion ensures consistency. Hot sauce density can vary slightly, but for most standard sauces, 1 cup equals 8 fluid ounces. This makes scaling recipes up or down a breeze, especially when using an air fryer.</p>  

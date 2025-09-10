@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>200 grams of mozzarella cheese is roughly equivalent to 2 cups when shredded or grated. This conversion is essential for air fryer recipes, ensuring you get the perfect cheesy texture every time. Whether you’re making crispy mozzarella sticks, a gooey pizza, or a cheesy pasta bake, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how frustrating incorrect conversions can be, so we’ve broken it all down for you.</p>  
 

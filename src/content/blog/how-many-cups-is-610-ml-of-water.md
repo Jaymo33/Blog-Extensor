@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>610 ml of water equals approximately 2.58 cups in the UK or 2.57 cups in the US. This conversion is essential for precise cooking, baking, or air frying, where accurate measurements can make or break a dish. Whether you’re preparing a sauce, batter, or marinade, knowing how many cups is 610 ml of water ensures consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions so you can focus on creating delicious meals.</p>
 

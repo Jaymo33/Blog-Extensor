@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-almond-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Ounces Is 1.75 Cups of Almond Butter?</h2>  
 <p>1.75 cups of almond butter equals approximately 14 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and consistency. Whether you're making cookies, energy bites, or sauces, knowing how to convert cups to ounces helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Almond butter’s density means it weighs slightly more than liquid ingredients, so accurate measuring is key.</p>  

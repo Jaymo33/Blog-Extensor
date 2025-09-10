@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/391-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>391 F converts to Gas Mark 6, which is the standard equivalent for this temperature in UK ovens and air fryers. This conversion is essential when following recipes that use Gas Mark measurements, ensuring your dishes cook perfectly every time. Whether you're baking, roasting, or air frying, knowing this conversion helps maintain accuracy across different cooking methods. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. The Gas Mark system is particularly useful for those using traditional ovens alongside modern air fryers.</p>
 

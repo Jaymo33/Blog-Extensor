@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 tbsp of soy sauce equals approximately 3.75 grams. This conversion is essential for air fryer recipes where precision matters, especially when marinating meats or adding flavour to dishes. Whether you're cooking chicken, tofu, or vegetables in your air fryer, knowing the exact weight of 0.25 tbsp of soy sauce ensures consistent results every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>860 ml of lemon juice equals approximately 3.63 cups in the UK or 3.64 cups in the US. This slight difference comes from the variation in cup sizes between the two measurement systems. Whether you're whipping up a zesty marinade or a tangy dessert in your air fryer, getting the conversion right ensures your dish turns out perfectly balanced.</p>  
 

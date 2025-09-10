@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/0-66-cup-sweet-chilli-sauce-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of sweet chilli sauce equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're whipping up a marinade or a dipping sauce, knowing the exact weight helps avoid guesswork. Sweet chilli sauce is a versatile ingredient, and getting the right amount can make or break your dish. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>
 

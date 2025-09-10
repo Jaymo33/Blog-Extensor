@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>585 ml of milk is approximately 2.47 cups in the US measurement system and 2.06 cups in the UK system. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 585 ml of milk to cups ensures your dish turns out perfectly every time.</p>
 

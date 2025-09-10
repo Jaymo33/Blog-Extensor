@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you have ever wondered how many ounces is 1.66 cups of rice, the straightforward answer is approximately 13.28 ounces. This conversion is based on the standard that one cup of uncooked, long-grain white rice weighs about 8 ounces, making the calculation for 1.66 cups a simple multiplication task. Getting this measurement right is absolutely crucial when you are preparing meals in your air fryer, as precise quantities ensure even cooking and perfect results every single time. Whether you are meal prepping for the week or cooking a family dinner, knowing your conversions takes the guesswork out of the kitchen. For a huge range of recipes that use precise measurements like this, be sure to explore the fantastic collection at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>
 <p>Understanding these measurements helps you avoid the common pitfalls of under or overloading your air fryer basket, which can lead to unevenly cooked food. Rice, in particular, can be tricky because its volume changes dramatically after cooking, so starting with the correct dry weight is a fundamental step. This is especially important for air fryer recipes that incorporate rice, such as stuffed peppers or arancini, where the texture of the cooked rice is paramount to the dish's success. Having a reliable conversion to hand means you can adapt any recipe with confidence, knowing your portions will be perfect. It is a small piece of knowledge that makes a huge difference to your cooking outcomes.</p>

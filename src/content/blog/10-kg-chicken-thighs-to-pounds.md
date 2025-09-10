@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-thighs-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 kg of chicken thighs equals approximately 22.046 pounds, making it essential knowledge for anyone preparing large batches in their air fryer. This conversion is particularly useful when dealing with bulk purchases or family-sized meals that require precise measurements. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dishes, understanding weight conversions ensures consistent results. Getting this measurement right helps with cooking times and temperature settings in your air fryer. It's a fundamental skill for any home cook looking to master their kitchen appliances.</p>
 

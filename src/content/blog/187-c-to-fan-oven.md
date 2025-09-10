@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/187-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>187 C in a fan oven is equivalent to approximately 170 C with the fan setting. This 17-degree reduction accounts for the fan's efficient heat distribution, ensuring even cooking without over-browning. Whether you're baking cakes or roasting vegetables, this conversion is essential for perfect results in modern ovens and air fryers.</p>
 

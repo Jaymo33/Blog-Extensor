@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-potatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of potatoes weigh approximately 375 grams, though this can vary slightly depending on the type and cut of the potato. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect results. Whether you're making crispy fries, roasted wedges, or a hearty potato bake, knowing the gram equivalent of 2.5 cups of potatoes helps you follow recipes accurately.</p>
 

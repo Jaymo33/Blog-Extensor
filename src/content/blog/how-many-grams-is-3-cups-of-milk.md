@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.0 cups of milk is equivalent to approximately 720 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a cake or a creamy sauce, knowing how many grams 3.0 cups of milk translates to ensures your dish turns out perfectly every time.</p>
 

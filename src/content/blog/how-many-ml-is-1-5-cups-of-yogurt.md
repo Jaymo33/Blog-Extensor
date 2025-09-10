@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of yogurt is equivalent to 355 ml. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a creamy dessert or a savoury marinade, knowing how many ml are in 1.5 cups of yogurt ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve the best results. Let’s dive deeper into why this conversion matters and how to use it in your cooking.</p>
 

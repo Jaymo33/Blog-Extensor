@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-icing-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500 grams of icing sugar is approximately 4 cups when lightly spooned into a measuring cup. This conversion is essential for bakers who rely on precise measurements for perfect cakes, cookies, and frostings. If you're using an air fryer for baking, knowing this conversion ensures your recipes turn out just right. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>
 

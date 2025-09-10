@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of miso soup equals approximately 24 fluid ounces (fl oz) or about 21 ounces (oz) by weight, depending on the density of your miso soup. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're meal prepping or adjusting portion sizes, knowing how to convert cups to ounces ensures your dishes turn out perfectly every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/500g-hot-sauce-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500 grams of hot sauce equals approximately 17.64 ounces. This conversion is essential for anyone using an air fryer, as precise measurements ensure perfectly balanced flavours in your dishes. Whether you're whipping up a spicy marinade or adding a kick to your air-fried wings, knowing how to convert grams to ounces is a game-changer.</p>  
 

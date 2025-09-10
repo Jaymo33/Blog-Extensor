@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>308°F converts to Gas Mark 2 for oven cooking. This moderate temperature is perfect for slow roasting, baking, and many air fryer recipes that require gentle, even heat. Whether you're adapting an oven recipe for your air fryer or simply need to understand temperature conversions, knowing how 308 Fahrenheit translates to Gas Mark is essential for British kitchens.</p>
 

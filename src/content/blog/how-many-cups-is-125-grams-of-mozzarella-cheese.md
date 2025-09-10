@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125 grams of mozzarella cheese equals approximately 1.25 UK cups or 1.18 US cups when lightly packed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making crispy mozzarella sticks, stuffed chicken, or a cheesy pizza, knowing how to convert 125 grams of mozzarella cheese to cups ensures perfect results every time.</p>
 

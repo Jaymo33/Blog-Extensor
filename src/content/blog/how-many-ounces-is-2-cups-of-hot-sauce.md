@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hot-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of hot sauce equals approximately 16 fluid ounces (or 16 oz) in standard US measurements. This conversion is essential for air fryer recipes, where precision ensures the perfect balance of flavour and texture. Whether you're making spicy wings, marinating chicken, or adding a kick to veggies, knowing this measurement helps avoid over or under-seasoning. For UK cooks, fluid ounces remain the same, so no adjustment is needed. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy tips.</p>
 

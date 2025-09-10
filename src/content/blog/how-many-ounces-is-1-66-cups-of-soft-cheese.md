@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.66 cups of soft cheese is equivalent to approximately 13.3 ounces. This conversion is essential for anyone using an air fryer, as precise measurements ensure your recipes turn out perfectly every time. Whether you are making a creamy dip, a stuffed chicken breast, or a decadent dessert, knowing the exact weight helps maintain the right consistency and flavour. Using a kitchen scale is the most accurate method, but this handy conversion saves you the hassle. For more fantastic recipes and tips, be sure to visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>
 

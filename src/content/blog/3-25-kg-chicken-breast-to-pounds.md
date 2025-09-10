@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversion"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-25-kg-chicken-breast-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.25 kg of chicken breast is equal to approximately 7.17 pounds. This conversion is essential for anyone using recipes with imperial measurements or buying chicken in bulk for meal prepping. Knowing the exact weight helps you portion correctly, especially when using an air fryer where cooking times depend on weight. Whether you're following a British recipe or an American one, getting the conversion right ensures your chicken cooks evenly and deliciously. For more handy conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>
 

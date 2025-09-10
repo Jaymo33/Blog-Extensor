@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>35 ml of vinegar is approximately 0.148 cups (or roughly 1/7 of a cup). This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're marinating chicken or whipping up a tangy glaze, knowing how to convert 35 ml of vinegar to cups ensures consistency in your dishes.</p>
 

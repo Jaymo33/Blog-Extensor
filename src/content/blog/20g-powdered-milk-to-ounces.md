@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-powdered-milk-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of powdered milk equals approximately 0.71 ounces. This conversion is essential when following air fryer recipes that require precise measurements, especially for baked goods where ingredient ratios matter. Whether you're making air fryer cakes or creamy sauces, knowing how to convert 20g powdered milk to ounces ensures consistent results every time.</p>
 

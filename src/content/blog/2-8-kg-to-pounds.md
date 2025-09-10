@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-8-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.8 kg is equal to approximately 6.17 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that list ingredients in different measurement systems. Whether you're preparing a large batch of chicken wings or portioning out potatoes, knowing how to convert 2.8 kg to pounds ensures you use the right amount for even cooking. Accurate measurements help avoid overloading your air fryer basket, which can lead to uneven results. Trust us, getting this right makes all the difference for crispy, perfectly cooked meals every time.</p>
 

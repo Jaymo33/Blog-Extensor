@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-chicken-breast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500 grams of chicken breast is roughly equivalent to 2.5 to 3 cups when chopped or shredded. This conversion can vary slightly depending on how finely the chicken is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re meal prepping or cooking a family dinner, knowing how to convert grams to cups ensures perfect portions every time.</p>  
 

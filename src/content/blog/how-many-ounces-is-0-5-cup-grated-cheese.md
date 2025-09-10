@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of grated cheese equals approximately 2 ounces (56 grams). This measurement is essential for air fryer recipes, where precise ingredient quantities can make all the difference in texture and flavour. Whether you're making cheesy nachos, crispy melts, or stuffed mushrooms, knowing how many ounces are in 0.5 cup of grated cheese ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide accurate conversions to help you perfect your air-fried dishes.</p>  
 

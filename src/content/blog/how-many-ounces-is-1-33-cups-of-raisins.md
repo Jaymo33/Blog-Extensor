@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-raisins"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of raisins equals approximately 6.5 ounces (or 6.5 oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a batch of air-fried oatmeal raisin cookies or adding raisins to a savoury pilaf, knowing the exact weight ensures consistency.</p>  
 

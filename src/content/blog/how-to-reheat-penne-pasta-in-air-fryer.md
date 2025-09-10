@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-penne-pasta-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating penne pasta in an air fryer takes just 3-5 minutes at 160°C (320°F), giving it a deliciously crispy texture while keeping the inside moist. This method beats microwaving, which often leaves pasta rubbery or unevenly heated. Whether you’ve got a saucy bake or plain penne, your air fryer can revive leftovers brilliantly.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.75 cups of water equals 887.21 millilitres (ml). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re preparing a cake, a savoury dish, or even reheating leftovers, knowing the exact ml equivalent of 3.75 cups of water ensures consistency and perfection.</p>
 

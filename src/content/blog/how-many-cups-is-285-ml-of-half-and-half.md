@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>285 ml of half and half is approximately 1.2 cups. This conversion is essential for anyone using half and half in their air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're whipping up a creamy sauce or baking a delicious dessert, knowing how to convert 285 ml of half and half to cups can make all the difference.</p>
 

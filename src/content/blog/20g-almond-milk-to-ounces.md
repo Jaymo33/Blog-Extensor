@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of almond milk is approximately 0.71 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or preparing sauces. Whether you’re making a creamy dessert or a light breakfast, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  
 

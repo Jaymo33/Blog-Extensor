@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-balsamic-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>760 ml of balsamic vinegar equals approximately 3.2 cups in the US measurement system or 3.3 cups in the UK. Whether you're whipping up a marinade or a glaze for your air fryer dishes, knowing this conversion ensures accuracy. Balsamic vinegar adds depth to recipes, so getting the measurement right is key. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for inspiration on how to use it.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-chicken-breast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.0 cups of diced or shredded chicken breast weighs approximately 140 grams. This measurement is based on cooked, boneless, skinless chicken breast, which is a staple for many air fryer recipes. Whether you’re meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, getting the right grams-to-cups ratio ensures your dish turns out perfectly every time.</p>
 

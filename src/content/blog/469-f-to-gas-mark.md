@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/469-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>469 F to Gas Mark Conversion Explained</h2>
 <p>469°F converts exactly to Gas Mark 9 in UK ovens and air fryers. This high temperature is perfect for professional baking, pizza cooking, and achieving crispy results in your air fryer. Many modern air fryers display temperatures in Fahrenheit, while traditional British recipes often use Gas Mark settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your appliance's manual as some models may vary slightly. The 469 F to Gas Mark conversion remains consistent whether you're using an oven, combi oven, or air fryer with gas mark settings.</p>

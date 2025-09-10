@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-almond-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 tablespoons (tbsp) of almond butter weigh approximately 32 grams. This conversion is essential for air fryer recipes where precision matters, whether you’re baking, cooking, or meal prepping. Almond butter’s density can vary slightly, but 32 grams is the standard measurement for 2 tbsp in the UK. If you’re using an air fryer, getting this right ensures your dishes turn out perfectly every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-kg-chicken-thighs-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 kg of chicken thighs converts to approximately 6.61 pounds, making it essential knowledge for air fryer cooking and meal preparation. This conversion helps you portion meals accurately, ensuring even cooking and perfect results every time you use your air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dishes, knowing this measurement is crucial. Many British recipes use metric measurements, while some family favourites might reference pounds, so this conversion bridges the gap beautifully. Getting your quantities right means your air fryer chicken thighs will cook evenly and come out wonderfully crispy.</p>
 

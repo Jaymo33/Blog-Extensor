@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-canned-beans"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of canned beans equals approximately 6 ounces. This conversion is handy when preparing air fryer recipes, ensuring accurate measurements for consistent results. Whether you're making chilli, bean salads, or crispy roasted beans, knowing the exact weight helps balance flavours and textures. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Keep reading for more tips on converting cups to ounces for canned beans.</p>  
 

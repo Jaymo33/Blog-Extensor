@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-5-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 5 converts to 190°C, making it one of the most versatile oven temperatures for air fryer cooking. Whether you're baking, roasting or reheating, this moderate heat works perfectly for achieving golden results without burning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we use this temperature conversion daily for everything from crispy chicken to Victoria sponge cakes.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/9-3-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>9.3 kg is equal to 20.503 pounds, a conversion that comes in handy when you're preparing ingredients for your air fryer. Whether you're weighing out chicken breasts, potatoes, or even dessert ingredients, getting the measurements right ensures everything cooks evenly and to perfection. Many air fryer recipes, especially those from the United States, use pounds as their primary unit of measurement, making this conversion essential for UK cooks. Understanding how to convert 9.3 kilograms to pounds opens up a world of international recipes you can try in your own kitchen. Bookmarking a handy resource like the conversion chart at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk/air-fryer-conversion-chart</a> can save you time and guesswork.</p>
 

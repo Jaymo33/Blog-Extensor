@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-molasses"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.125 cup of molasses equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're baking gingerbread cookies or glazing a ham, knowing the exact weight ensures consistency. Molasses, being a thick and sticky liquid, can be tricky to measure accurately by volume alone. That's why converting 0.125 cup of molasses to ounces is so helpful for air fryer enthusiasts.</p>  
 

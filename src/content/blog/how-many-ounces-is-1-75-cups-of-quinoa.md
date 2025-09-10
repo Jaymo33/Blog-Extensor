@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-quinoa"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces in 1.75 cups of quinoa?</h2>
 <p>1.75 cups of quinoa equals approximately 10.5 ounces (or 10.5 oz) when measured uncooked. This conversion is essential for air fryer cooking, where precise measurements can affect texture and cooking time. Quinoa expands about 3 times when cooked, so this amount yields roughly 3.5 cups of fluffy quinoa - perfect for meal prep or family dinners. Whether you're making quinoa bowls or using it as a base for <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, accurate measurements ensure consistent results. Remember that UK and US cup measurements are identical for dry ingredients like quinoa.</p>

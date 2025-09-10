@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>610 ml of beef stock equals approximately 2.58 cups. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're making a rich gravy, a hearty stew, or a flavourful sauce, knowing how to convert millilitres to cups ensures your cooking is spot-on every time.</p>
 

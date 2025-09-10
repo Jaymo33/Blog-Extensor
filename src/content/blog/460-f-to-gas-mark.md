@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/460-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 460 F in Gas Mark?</h2>
 <p>460°F converts to Gas Mark 9, which is the highest standard Gas Mark setting on most ovens. This high temperature is ideal for searing meats, baking pizzas, or achieving a crispy finish on roasted vegetables in your air fryer. If you’re using an air fryer, you might not need to convert temperatures as often, but it’s handy to know for recipes that specify Gas Mark. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often recommend checking conversions to ensure your dishes turn out perfectly. Whether you’re using an oven or air fryer, understanding 460 F to Gas Mark helps you cook with confidence.</p>

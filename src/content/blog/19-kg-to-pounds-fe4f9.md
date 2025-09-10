@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/19-kg-to-pounds-fe4f9"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>19 kg equals approximately 41.89 pounds, making it a useful conversion for those working with larger quantities in the kitchen. This conversion is particularly handy when dealing with bulk ingredients, meal prepping for families, or understanding packaging labels on imported goods. Many modern air fryers have generous capacities, meaning you might be cooking larger batches than you realise. Whether you're preparing a big batch of roasted vegetables or marinating several kilograms of chicken, knowing how to convert 19 kg to pounds helps ensure accuracy. For more conversion tips and charts, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>
 

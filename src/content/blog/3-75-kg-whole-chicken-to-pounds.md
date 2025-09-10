@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-75-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you're looking to convert 3.75 kg whole chicken to pounds, the answer is straightforward: 3.75 kilograms is equal to approximately 8.27 pounds. This conversion is essential for anyone preparing a whole chicken in an air fryer, as cooking times and temperatures often depend on the weight in pounds. Knowing the exact weight helps you achieve that perfectly crispy skin and juicy meat we all love. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or using your own method, accurate measurements are key. This guide will walk you through everything you need to know about converting and cooking a 3.75 kg whole chicken.</p>
 

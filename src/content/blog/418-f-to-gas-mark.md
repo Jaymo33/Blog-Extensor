@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/418-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 418 F in Gas Mark?</h2>
 <p>418°F converts to Gas Mark 7. This is the standard equivalent used in British ovens and is essential for adapting recipes between air fryers and conventional ovens. If you're using an air fryer, you might need to adjust cooking times slightly, as air fryers cook faster than traditional ovens. For precise results, always check your food a few minutes earlier than the recipe suggests. You can find more air fryer conversion tips at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

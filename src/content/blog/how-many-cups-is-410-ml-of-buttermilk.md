@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>410 ml of buttermilk is approximately 1.73 cups. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up fluffy pancakes or a tender cake, knowing how to convert 410 ml of buttermilk to cups ensures consistency and delicious results every time.</p>
 

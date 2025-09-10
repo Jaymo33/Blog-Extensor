@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-maple-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of maple syrup equals approximately 6 ounces, making it easy to measure for your air fryer recipes. Whether you're glazing salmon or adding sweetness to roasted vegetables, precise measurements ensure perfect results every time. Maple syrup’s thick consistency means it’s best measured by weight for accuracy, especially in air fryer cooking where even distribution matters. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend using a kitchen scale for the most reliable conversions. This measurement is particularly useful for UK cooks who prefer ounces over cups.</p>  
 

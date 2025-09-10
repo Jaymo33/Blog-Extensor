@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/378-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>378°F converts to Gas Mark 5 in UK ovens and air fryers. This medium-high temperature is perfect for baking, roasting, and air frying everything from cakes to chicken. Understanding temperature conversions ensures your recipes turn out perfectly whether you're using a conventional oven or modern air fryer.</p>
 

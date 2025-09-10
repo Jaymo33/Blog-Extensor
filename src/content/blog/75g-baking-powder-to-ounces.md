@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/75g-baking-powder-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75g of baking powder equals approximately 2.65 ounces. This conversion is essential for anyone using UK recipes or air fryer cooking, where precise measurements can make or break a dish. Whether you’re baking a cake or preparing a savoury recipe, knowing how to convert grams to ounces ensures consistency and perfect results every time.</p>  
 

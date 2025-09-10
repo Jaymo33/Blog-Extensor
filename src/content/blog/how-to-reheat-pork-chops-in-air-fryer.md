@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pork-chops-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating pork chops in an air fryer at 160°C for 3-4 minutes restores their crispiness while keeping them juicy. This method outperforms microwaving, which often leaves them rubbery, or oven reheating, which dries them out. The air fryer's rapid hot air circulation ensures even heating, making it ideal for leftovers. Whether you're working with fridge-cold chops or frozen ones, adjusting the time slightly yields perfect results every time. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more genius ways to revive meals.</p>
 

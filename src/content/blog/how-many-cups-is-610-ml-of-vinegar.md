@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>610 ml of vinegar is approximately 2.57 cups in the UK or 2.58 cups in the US. This conversion is essential for air fryer recipes, marinades, and cleaning solutions. Whether you're whipping up a tangy glaze or disinfecting your air fryer basket, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accuracy saves time and avoids kitchen mishaps. Let’s dive deeper into vinegar measurements for flawless results.</p>
 

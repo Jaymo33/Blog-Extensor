@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/0-5-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 kg is equal to approximately 1.1023 pounds. This simple conversion is incredibly useful when you're preparing ingredients for your air fryer, especially if you're following a recipe that uses imperial measurements or you're portioning meat, vegetables, or other foods. Getting your quantities right is the first step to achieving that perfect crispy-on-the-outside, tender-on-the-inside result that air fryers are famous for. Whether you're cooking for one or meal prepping for the family, knowing how to convert 0.5 kilograms to pounds ensures you never over or under-season your dishes. For more handy guides like this, be sure to bookmark <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

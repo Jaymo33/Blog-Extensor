@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/16-1-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>16.1 kilograms is equal to 35.494 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes that list ingredients in different measurement systems. Knowing how to convert 16.1 kg to pounds ensures you use the correct amount of food, leading to perfectly cooked meals every time. Whether you're preparing a large batch of chicken or weighing potatoes for roasting, accurate measurements are key. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

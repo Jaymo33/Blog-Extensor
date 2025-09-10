@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/457-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>457 F converts to approximately 236 C in a fan oven, making it ideal for high-heat air frying. This temperature is perfect for achieving crispy textures while ensuring even cooking throughout your dish. Whether you're using an air fryer or a conventional fan oven, understanding this conversion is key to nailing recipes that require intense heat.</p>
 

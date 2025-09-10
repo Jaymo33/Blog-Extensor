@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>485 ml of lime juice equals approximately 2.05 cups. If you're working with an air fryer recipe that calls for lime juice, knowing this conversion ensures your dish turns out perfectly balanced. Whether you're marinating chicken, whipping up a zesty dessert, or preparing a tangy glaze, accurate measurements matter.</p>  
 

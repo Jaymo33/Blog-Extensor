@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-kg-beef-mince-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 kg of beef mince is equivalent to approximately 6.614 pounds. This conversion is essential when following recipes or meal prepping, especially if you're using an air fryer and need precise measurements for consistent results. Whether you're making burgers, meatballs, or a hearty bolognese, knowing how to convert 3 kg beef mince to pounds ensures you use the right amount of ingredients. Accurate measurements help avoid waste and guarantee your dishes turn out perfectly every time. For more handy conversion tips, check out the resources at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>
 

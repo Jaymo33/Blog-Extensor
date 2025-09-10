@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>35 ml of half and half is approximately 0.15 cups (UK) or 0.148 cups (US). Whether you're whipping up a creamy sauce or baking a delicious dessert, knowing this conversion ensures your air fryer recipes turn out perfectly every time. Half and half, a blend of equal parts milk and cream, is a staple in many dishes, so getting the measurements right is key.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-single-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.75 cups of single cream equals approximately 650 ml, making it easy to measure for air fryer recipes and baking. This conversion ensures precision, whether you’re whipping up a creamy sauce or a decadent dessert. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on simplifying measurements so your cooking is hassle-free. Single cream is a staple in many dishes, and knowing its exact ml equivalent helps avoid guesswork. Perfect for everything from soups to cakes, this conversion keeps your recipes consistent.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-chicken-tenders-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat chicken tenders in an air fryer, set the temperature to 180°C (350°F) and cook for 3-5 minutes until heated through and crispy. This method ensures your leftovers retain their juiciness while getting that desirable crunch. Whether you’re working with homemade tenders or store-bought, the air fryer delivers consistent results every time.</p>
 

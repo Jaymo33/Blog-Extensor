@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-75-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you have a 3.75 kg beef joint and need to know its weight in pounds, the answer is straightforward: 3.75 kilograms is equal to approximately 8.267 pounds. This conversion is essential for anyone using an air fryer, as cooking times and temperatures often rely on accurate weight measurements. Whether you're preparing a classic roast or experimenting with new recipes, knowing the exact weight ensures perfect results every time. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk. Understanding these basics helps you make the most of your kitchen appliances and enjoy delicious meals with ease.</p>
 

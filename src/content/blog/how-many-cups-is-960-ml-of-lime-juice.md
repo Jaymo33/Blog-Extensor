@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>960 ml of lime juice equals approximately 4.06 cups. This conversion is essential for air fryer recipes that require precise measurements, ensuring your dishes turn out perfectly balanced every time. Whether you're making a citrusy marinade for chicken or a refreshing lime-infused dessert, knowing how to convert millilitres to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>
 

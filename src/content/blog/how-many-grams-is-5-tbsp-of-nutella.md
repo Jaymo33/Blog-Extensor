@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5 tablespoons of Nutella equals approximately 85 grams. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making Nutella-stuffed cookies or a decadent air fryer dessert, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking. Keep reading to learn more about converting tablespoons to grams and why it matters.</p>
 

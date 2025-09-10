@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-pasta"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>450 grams of pasta is roughly equivalent to 4.5 to 5 cups, depending on the pasta shape and density. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking. Whether you're making a crispy pasta bake or reheating leftovers, knowing how many cups 450 grams of pasta equals helps streamline your cooking process.</p>  
 

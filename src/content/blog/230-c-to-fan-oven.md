@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/230-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>230 C in a fan oven is equivalent to approximately 210 C with the fan setting on. This conversion accounts for the more efficient heat distribution in fan-assisted ovens, which cook food faster and more evenly than conventional ovens. When using an air fryer, which operates similarly to a fan oven, you'll often find recipes calling for 230 C that need slight adjustment for optimal results.</p>
 

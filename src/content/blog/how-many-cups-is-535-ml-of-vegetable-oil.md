@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-vegetable-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>535 ml of vegetable oil is equivalent to approximately 2.26 cups in the US or 2.11 cups in the UK. This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or crisping some veggies in your air fryer, knowing how to measure 535 ml of vegetable oil in cups is a game-changer.</p>  
 

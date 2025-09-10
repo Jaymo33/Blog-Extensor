@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/141-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 141 C in Fan Ovens</h2>
 <p>141 C converts to approximately 125 C in a fan oven. This 15-20 degree reduction accounts for the fan oven's efficient heat distribution. When using an air fryer, which operates similarly to a convection oven, you'll typically follow the same principle. Many modern air fryers automatically adjust for this difference, but it's good practice to verify your specific model's settings. For perfect results, always preheat your appliance and use an oven thermometer to confirm temperatures. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a> for detailed conversion charts.</p>

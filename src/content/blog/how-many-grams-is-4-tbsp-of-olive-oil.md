@@ -5,8 +5,11 @@ pubDate: 2025-08-04T00:00:00.000Z
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4 tablespoons (tbsp) of olive oil equals approximately 54 grams (g). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re drizzling oil over chips or marinating chicken, knowing the exact weight ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

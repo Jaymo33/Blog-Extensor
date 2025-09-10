@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-breadcrumbs"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 tablespoons (tbsp) of breadcrumbs equals approximately 18 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and crispiness. Whether you're coating chicken, fish, or vegetables, knowing exactly how many grams are in 2.5 tbsp of breadcrumbs ensures consistent results every time.</p>
 

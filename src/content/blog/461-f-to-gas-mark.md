@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/461-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>461°F converts to Gas Mark 9, the standard equivalent for high-temperature baking and roasting. This temperature is ideal for achieving crispy textures in air fryers or traditional ovens, especially for dishes like roasted meats or baked goods. Whether you're using an air fryer or oven, knowing this conversion ensures your recipes turn out perfectly every time.</p>
 

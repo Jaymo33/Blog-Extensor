@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/5g-cornflour-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5g of cornflour equals approximately 0.18 ounces. This conversion is essential for precision in cooking, especially when using an air fryer where exact measurements can impact texture and consistency. Whether you’re thickening a sauce or coating ingredients for a crispy finish, knowing how many ounces 5g of cornflour is ensures your dish turns out perfectly.</p>  
 

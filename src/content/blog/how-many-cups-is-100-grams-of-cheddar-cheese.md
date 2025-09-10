@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-cheddar-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100 grams of cheddar cheese equals approximately 1 cup when grated or 0.4 cups when cubed. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios matter. Whether you're making cheesy air fryer recipes or baking, knowing how to measure 100 grams of cheddar cheese in cups ensures consistent results every time.</p>  
 

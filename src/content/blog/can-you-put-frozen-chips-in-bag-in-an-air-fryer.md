@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "frozen"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-frozen-chips-in-bag-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put frozen chips in the bag in an air fryer, but it's not recommended for safety and cooking performance reasons. The plastic packaging can melt or release harmful fumes when exposed to high heat, potentially damaging your air fryer and affecting food quality. For the best results, always remove frozen chips from their bag before air frying.</p>
 

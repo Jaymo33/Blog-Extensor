@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50 grams of mozzarella cheese is roughly equivalent to 0.5 cups when shredded or grated. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a cheesy pizza or a gooey melt, knowing how to convert grams to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you achieve the best results. Keep reading to learn more about converting 50 grams of mozzarella cheese to cups.</p>
 

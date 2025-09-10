@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>760 ml of lime juice equals approximately 3.2 cups in the UK or 3.21 cups in the US. This conversion is essential for air fryer recipes, baking, and cooking where precise measurements matter. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert 760 ml of lime juice to cups ensures consistent results every time.</p>
 

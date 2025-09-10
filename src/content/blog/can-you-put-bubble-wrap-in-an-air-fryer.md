@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-bubble-wrap-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>No, you should never put bubble wrap in an air fryer. Bubble wrap is made from plastic, which can melt, release harmful fumes, or even catch fire when exposed to high heat. Air fryers typically operate between 150°C and 200°C, far exceeding the melting point of most plastics. Instead, use air fryer-safe liners or parchment paper for a safer cooking experience. For more tips on safe air frying, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  
 

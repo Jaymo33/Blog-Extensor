@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-brownies-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating brownies in an air fryer is simple: preheat to 160°C (320°F), warm for 3–5 minutes, and enjoy gooey, fresh-tasting results. The air fryer’s rapid hot air circulation ensures even heating without drying them out, making it the best way to reheat brownies quickly. Whether you’ve stored them in the fridge or left them at room temperature, this method works brilliantly.</p>  
 

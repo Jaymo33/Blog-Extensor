@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-shredded-carrot"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of shredded carrot equals approximately 8 ounces in weight. This measurement is essential for air fryer recipes where precision can affect cooking times and results. Whether you’re making carrot fries, adding shredded carrot to a stir-fry, or prepping ingredients for meal prep, knowing this conversion ensures consistency.</p>
 

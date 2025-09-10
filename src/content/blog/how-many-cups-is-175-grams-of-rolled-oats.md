@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rolled-oats"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>175 grams of rolled oats equals approximately 2 cups when measured using standard UK or US cup measurements. This conversion is essential for air fryer recipes where precise measurements can affect texture and cooking times. Whether you're making granola, oat bars, or porridge in your air fryer, knowing how many cups is 175 grams of rolled oats ensures consistent results every time.</p>
 

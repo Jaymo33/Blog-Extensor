@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/42-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>42 kg equals approximately 92.594 pounds, a conversion that becomes particularly useful when working with larger quantities of ingredients for your air fryer. Whether you're meal prepping in bulk or adjusting recipe quantities, understanding this conversion ensures you get your measurements spot on every time. Many air fryer recipes from international sources use metric measurements, making this knowledge invaluable for British cooks. Getting your weights right means your food cooks evenly and comes out perfectly crispy. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

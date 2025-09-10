@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many grams is 1.5 tbsp of self-raising flour?</h2>  
 <p>1.5 tablespoons (tbsp) of self-raising flour equals approximately 12 grams. This conversion is essential for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're whipping up cakes, bread, or batters, knowing the exact weight helps avoid dense or dry results. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>. Always use a digital scale for the most accurate measurements, especially when adapting traditional oven recipes for your air fryer.</p>  

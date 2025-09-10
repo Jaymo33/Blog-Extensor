@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>350 grams of milk is roughly equivalent to 1.48 cups in the UK or 1.47 cups in the US. This conversion is essential for anyone using recipes that list ingredients by weight rather than volume, especially when preparing dishes in an air fryer. Whether you're whipping up a cake, a creamy sauce, or a breakfast bake, knowing how many cups is 350 grams of milk ensures accuracy and perfect results every time.</p>
 

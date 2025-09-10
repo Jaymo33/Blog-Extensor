@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-5-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 kg is equal to 5.51156 pounds, or roughly 5 pounds and 8.2 ounces. This conversion is incredibly useful for air fryer cooking, where precise ingredient weights can make all the difference between perfectly crispy and underwhelming results. Whether you're portioning chicken, potatoes, or frozen goods, knowing how to convert 2.5 kg to pounds helps you follow recipes accurately and avoid overloading your basket. Many popular air fryer recipes, especially those designed for family meals or meal prep, specify weights in kilograms or pounds depending on their origin. Getting your quantities right ensures even cooking and fantastic flavour, which is why we always recommend keeping a kitchen scale handy. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

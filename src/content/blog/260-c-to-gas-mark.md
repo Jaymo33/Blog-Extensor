@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/260-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 260 C in Gas Mark?</h2>
 <p>260°C converts to Gas Mark 9, a high heat setting perfect for roasting meats, baking pastries, or crisping vegetables in your air fryer or oven. This temperature is commonly used for dishes requiring a quick, intense heat, such as Yorkshire puddings or flaky pastries. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your appliance’s manual, as some models may vary slightly. Gas Mark 9 ensures a crispy exterior while keeping the inside tender, making it a favourite for many air fryer recipes. Always preheat your air fryer or oven to 260°C (Gas Mark 9) for consistent results.</p>

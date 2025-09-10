@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-canned-beans"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>One cup of canned beans weighs approximately 8 ounces (or 225 grams). This measurement is essential for air fryer recipes, ensuring accurate portions and perfect results every time. Whether you're making chilli, salads, or crispy bean snacks, knowing this conversion helps streamline your cooking process.</p>  
 

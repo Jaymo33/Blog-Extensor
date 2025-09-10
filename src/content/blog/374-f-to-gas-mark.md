@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/374-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>374°F converts to Gas Mark 5, which is a common setting for roasting and baking in both ovens and air fryers. This temperature is perfect for dishes like roasted vegetables, cakes, and casseroles. If you're using an air fryer, you might need to adjust cooking times slightly compared to a conventional oven. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we have plenty of recipes tailored for this temperature.</p>
 

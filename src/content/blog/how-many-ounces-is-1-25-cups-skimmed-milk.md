@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-skimmed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of skimmed milk equals approximately 10 fluid ounces (fl oz) in the UK. This conversion is essential for precision in cooking, especially when using an air fryer, where exact measurements can impact texture and consistency. Whether you're whipping up a creamy sauce or baking a light dessert, knowing how to convert cups to ounces ensures your recipes turn out perfectly every time.</p>  
 

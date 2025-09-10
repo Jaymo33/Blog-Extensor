@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/337-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 337 F in Gas Mark?</h2>
 <p>337°F converts to Gas Mark 3 in UK ovens and air fryers. This moderate temperature is perfect for slow roasting, baking cakes, or cooking casseroles in your air fryer. Many traditional recipes use Gas Mark settings, so knowing this conversion helps when adapting them for modern appliances. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for other common temperature equivalents. Whether you're cooking vegetables or meats, 337°F (Gas Mark 3) provides gentle, even heat.</p>

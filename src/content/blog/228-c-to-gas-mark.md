@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/228-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 228 C in Gas Mark?</h2>
 <p>228°C converts to Gas Mark 8. This is a common temperature for baking, roasting, and air frying, especially for dishes that need a crisp finish. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out perfectly. Many British recipes use Gas Mark, so this conversion is handy for home cooks. If you're adapting an oven recipe for your air fryer, you might need to adjust the cooking time slightly.</p>

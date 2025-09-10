@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating nuggets in an air fryer at 180°C for 3-5 minutes restores their crispiness better than a microwave. The hot circulating air revives the coating while keeping the inside tender, making it the best way to reheat nuggets in an air fryer. Whether you’ve got leftover takeaway nuggets or homemade batches from the fridge, this method beats soggy microwave results every time.</p>
 

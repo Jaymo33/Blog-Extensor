@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/24-1-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>24.1 kg is equal to approximately 53.131 pounds. This conversion is especially useful for air fryer users who need to weigh ingredients or check the maximum capacity of their appliance. Many recipes, particularly those from international sources or larger batch cooking, might list weights in kilograms, so being able to quickly convert to pounds ensures you use the right amounts. Whether you’re meal prepping or trying a new dish, knowing how to convert 24.1 kg to pounds helps keep your cooking precise and successful. For more handy conversion tips, check out the guides available at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>
 

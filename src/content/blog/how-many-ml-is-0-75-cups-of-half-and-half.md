@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-75-cups-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cups of half and half equals approximately 177 ml. This conversion is essential for air fryer recipes where precision matters, whether you're making creamy sauces, desserts, or baked goods. Half and half, a blend of milk and cream, is a common ingredient in many dishes, and knowing its exact measurement in millilitres ensures consistent results every time.</p>
 

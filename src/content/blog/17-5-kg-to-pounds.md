@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/17-5-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>17.5 kg is equal to 38.58 pounds, a conversion that comes in handy for everything from portioning large cuts of meat to understanding food packaging weights. Whether you're meal prepping for the family or tackling a big batch of air fryer favourites, getting your measurements right is the first step to cooking success. Many recipes, especially those from American sources or older British cookbooks, use pounds instead of kilograms, so knowing how to switch between them is a useful kitchen skill. This particular weight, 17.5 kg, might represent a whole turkey, a large joint of beef, or a big bag of potatoes destined for roasting. Getting the conversion correct ensures your cooking times and temperatures are accurate, leading to perfectly cooked meals every time you use your appliance.</p>
 <p>Understanding the relationship between kilograms and pounds is fundamental for any home cook. The conversion factor is simple: 1 kilogram equals approximately 2.20462 pounds. To find out what is 17.5 kg in pounds, you just multiply 17.5 by 2.20462. Doing the math, 17.5 kg * 2.20462 = 38.58085 pounds, which we typically round to 38.58 pounds for everyday use. This calculation is vital when you're following a recipe that specifies weight in a unit you're not familiar with, preventing costly mistakes and food waste. For air fryer users, precise weight is crucial because it directly impacts cooking time and the final result, making this conversion a key piece of knowledge. You can find more handy tools like this on our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

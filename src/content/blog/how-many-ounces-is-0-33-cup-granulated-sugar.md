@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of granulated sugar equals approximately 2.64 ounces (oz) in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect results every time. Whether you're whipping up cakes, cookies, or desserts, knowing how to convert 0.33 cup granulated sugar to ounces helps you follow recipes accurately.</p>
 

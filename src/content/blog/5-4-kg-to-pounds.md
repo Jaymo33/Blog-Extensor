@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/5-4-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5.4 kg is equal to 11.9 pounds, or more precisely 11 pounds and 14.5 ounces. This conversion is crucial when you're preparing ingredients for your air fryer, especially if you're following recipes that use imperial measurements or need to portion larger cuts of meat. Getting your weights right ensures everything cooks evenly and comes out perfectly crispy. Whether you're cooking a whole chicken or batch-prepping vegetables, accurate conversions make all the difference. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

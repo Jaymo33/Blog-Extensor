@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-double-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>660 ml of double cream is approximately 2.8 cups in UK measurements or 2.79 cups in US measurements. This conversion is essential for baking, cooking, and especially when using an air fryer for creamy recipes. Whether you're whipping up a dessert or adding richness to a dish, knowing the exact measurement ensures perfect results every time.</p>
 

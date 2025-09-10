@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/9-2-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>9.2 kg is equal to approximately 20.2825 pounds. This conversion is essential for anyone using an air fryer, especially when following recipes or preparing ingredients that use imperial measurements. Whether you're weighing meat, vegetables, or frozen goods, knowing how to convert kilograms to pounds ensures your meals are portioned correctly. Accurate measurements help achieve the best cooking results and prevent under or overcooking. For more handy conversion tips, check out the air fryer conversion chart on <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk</a>.</p>
 

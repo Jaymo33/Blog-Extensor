@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/212-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>212 C converts to Gas Mark 7 in a conventional oven. This temperature is ideal for baking cakes, roasting meats, and achieving crispy results in your air fryer. Whether you're using a traditional oven or an air fryer, knowing how to convert 212 C to Gas Mark ensures perfect cooking every time.</p>
 

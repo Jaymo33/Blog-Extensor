@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-peanut-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many grams is 0.5 tbsp of peanut butter?</h2>
 <p>0.5 tbsp of peanut butter equals approximately 7.5 grams in the UK. This measurement is crucial for air fryer recipes where precision ensures perfect texture and consistency. Whether you’re making peanut butter cookies or a savoury satay sauce, knowing this conversion helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Peanut butter’s density means slight variations can occur, but 7.5g is the standard weight.</p>

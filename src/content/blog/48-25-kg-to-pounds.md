@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/48-25-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>48.25 kg is equal to approximately 106.35 pounds, a conversion that comes in handy for anyone using an air fryer and working with recipes or ingredients listed in different measurement systems. Whether you are meal prepping, following a specific diet, or simply trying out a new dish from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, understanding how to convert kilograms to pounds ensures accuracy and consistency. This is particularly useful when dealing with larger quantities of meat, vegetables, or frozen foods that need precise portioning for even cooking. Air fryers excel at delivering crispy, delicious results, but they rely on correct ingredient weights to perform optimally. Getting your measurements right from the start means better texture, flavour, and overall satisfaction with every meal you create.</p>
 

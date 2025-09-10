@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>275 grams of grated cheese is roughly equivalent to 2.75 cups, though this can vary slightly depending on the cheese type and how finely it's grated. If you're using an air fryer, precise measurements ensure your dishes turn out perfectly every time. Whether you're making cheesy nachos, stuffed mushrooms, or a crispy topping for a casserole, knowing how to convert grams to cups is essential. For more air fryer recipe inspiration, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  
 

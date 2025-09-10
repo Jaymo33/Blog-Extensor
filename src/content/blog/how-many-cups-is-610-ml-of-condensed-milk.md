@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>610 ml of condensed milk is approximately 2.57 cups. This conversion is essential for air fryer recipes, ensuring your desserts and baked goods turn out perfectly every time. Whether you're making a caramel drizzle or a creamy filling, getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you nail those tricky conversions.</p>
 

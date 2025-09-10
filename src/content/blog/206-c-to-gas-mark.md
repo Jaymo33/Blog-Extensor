@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/206-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 206 C in Gas Mark?</h2>
 <p>206°C converts to Gas Mark 6 in UK ovens and air fryers. This is a common temperature for baking cakes, roasting vegetables, and cooking many air fryer recipes. The conversion stays consistent whether you're using a conventional oven, fan-assisted model, or modern air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this temperature for perfect sponge cakes and crispy roast potatoes. Understanding these conversions helps adapt recipes between different cooking appliances.</p>

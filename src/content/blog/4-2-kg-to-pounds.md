@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-2-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.2 kilograms is equal to 9.2594 pounds, which we typically round to 9.26 pounds for practical kitchen use. This conversion is crucial for air fryer enthusiasts who follow recipes with imperial measurements or need to portion ingredients accurately. Getting your weights right ensures even cooking and perfect results every time you use your appliance. Whether you're preparing a large family meal or meal prepping for the week, understanding this conversion eliminates guesswork. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cups of mozzarella cheese equals approximately 85 grams. This conversion is essential for air fryer recipes where precision ensures even melting and perfect texture. Whether you're making crispy mozzarella sticks, a cheesy pizza, or a gooey pasta bake, knowing the exact weight helps avoid over or under-measuring. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking game. Keep reading for detailed tips and conversions.</p>
 

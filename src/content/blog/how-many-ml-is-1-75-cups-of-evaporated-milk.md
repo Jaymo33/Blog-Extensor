@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-evaporated-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.75 cups of evaporated milk equals approximately 414 ml in the UK and 414 ml in the US, as both use the same standard cup measurement for liquids. Whether you're baking a creamy dessert or preparing a savoury dish in your air fryer, getting the right measurement ensures perfect results every time. Conversions like these are essential for recipes that require precision, especially when working with air fryers, where ingredient ratios can affect cooking times and textures.</p>  
 

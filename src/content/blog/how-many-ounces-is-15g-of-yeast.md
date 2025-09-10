@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-yeast"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15g of yeast equals approximately 0.53 ounces. This conversion is essential for bakers who need precise measurements, especially when using an air fryer for recipes like bread or dough-based dishes. Whether you're following a UK recipe or adapting an international one, knowing how to convert 15g of yeast to ounces ensures your baked goods turn out perfectly every time.</p>
 

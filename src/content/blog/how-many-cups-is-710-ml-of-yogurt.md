@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>710 ml of yogurt is roughly equivalent to 3 cups (or 3.004 cups to be precise). If you're preparing an air fryer recipe that calls for yogurt, getting the measurement right ensures your dish turns out perfectly. Whether you're making marinades, cakes, or dips, knowing how to convert millilitres to cups is essential for consistent results.</p>  
 

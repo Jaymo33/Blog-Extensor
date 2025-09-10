@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of beef stock equals 10 fluid ounces (UK) or approximately 9.25 ounces by weight. This conversion is essential for air fryer recipes where precise liquid measurements can affect cooking times and textures. Whether you're making a rich gravy or a hearty stew, knowing how to measure beef stock accurately ensures consistent results every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-lamb-chops-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat lamb chops in an air fryer, preheat to 160°C and cook for 3-4 minutes until heated through. This method preserves juiciness while restoring that desirable crispy exterior – far superior to microwaving. Whether you’ve got leftover grilled chops or refrigerated roast lamb, your air fryer can revive them beautifully.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-fries-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating fries in an air fryer is simple: preheat to 180°C (350°F), spread fries in a single layer, and cook for 3–5 minutes until crispy. This method restores that fresh-from-the-fryer crunch without drying them out. Whether you’re working with leftover takeaway chips or homemade wedges, your air fryer is the best tool for the job.</p>  
 

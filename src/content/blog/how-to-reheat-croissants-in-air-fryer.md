@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-croissants-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat croissants in an air fryer, set the temperature to 160°C (320°F) and cook for 3-4 minutes until warmed through. This gentle heat revives the flaky layers without burning the delicate pastry, giving you results that rival a fresh bakery batch. Whether you’re dealing with leftovers from yesterday’s breakfast or a supermarket pack that’s lost its crunch, your air fryer is the secret weapon for pastry perfection.</p>
 

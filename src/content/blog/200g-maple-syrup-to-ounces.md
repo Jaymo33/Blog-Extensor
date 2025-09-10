@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/200g-maple-syrup-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>200g of maple syrup equals approximately 7.05 ounces. This conversion is handy for air fryer recipes, ensuring you get the perfect sweetness without guesswork. Whether you're drizzling it over air-fried pancakes or using it in a glaze, precise measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accuracy makes all the difference in cooking. Let’s dive deeper into why this conversion matters and how to use it.</p>  
 

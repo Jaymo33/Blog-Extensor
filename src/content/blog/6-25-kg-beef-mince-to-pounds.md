@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-25-kg-beef-mince-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>6.25 kg of beef mince is equal to approximately 13.78 pounds. This conversion is essential when you're working with larger quantities of meat, especially if you're preparing family meals, batch cooking, or following a recipe that uses imperial measurements. Getting the weight right ensures your dishes turn out perfectly every time, whether you're making burgers, meatballs, or a hearty bolognese. Understanding how to convert 6.25 kg beef mince to pounds can save you from kitchen mishaps and guarantee consistent results. It's a handy skill for any home cook, particularly when using versatile appliances like your air fryer.</p>
 

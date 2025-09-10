@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/23-25-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>23.25 kg is equal to approximately 51.26 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk ingredient prep, or following international recipes that use imperial measurements. Getting your weights right ensures your food cooks evenly and comes out perfectly crispy every time. Whether you're meal prepping for the week or cooking a feast for friends, knowing how to convert 23.25 kg to pounds takes the guesswork out of the kitchen. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

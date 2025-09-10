@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1-25-kg-lamb-leg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you're wondering what is 1.25 kg lamb leg in pounds, the answer is approximately 2.76 pounds. This conversion is essential for air fryer users who follow recipes using imperial measurements or need to adjust cooking times based on weight. Knowing the exact weight in pounds helps you achieve perfectly cooked, tender lamb every time. Whether you're preparing a Sunday roast or a midweek feast, accurate conversions make all the difference. You can find more handy conversion tools and guides at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to simplify your cooking process.</p>
 

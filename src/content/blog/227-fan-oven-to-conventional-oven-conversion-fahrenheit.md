@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/227-fan-oven-to-conventional-oven-conversion-fahrenheit"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 227°F Fan Oven to Conventional Oven Conversion</h2>
 <p>227°F in a fan oven equals approximately 250°F in a conventional oven. This 23-degree difference accounts for the fan oven's efficient heat circulation. When converting temperatures for baking or roasting, this adjustment ensures your dishes cook evenly. Many modern recipes specify fan oven temperatures, so knowing this conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these kitchen calculations for perfect results.</p>

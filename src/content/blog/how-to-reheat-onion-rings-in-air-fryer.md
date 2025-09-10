@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-onion-rings-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating onion rings in an air fryer takes just 3-5 minutes at 180°C (350°F) for optimal crispiness. Unlike microwaving, which turns them rubbery, or oven baking that dries them out, air frying circulates hot air to revive that golden crunch. Whether you’ve got leftovers from last night’s takeaway or prepped batches from your freezer, this method works like magic.</p>
 

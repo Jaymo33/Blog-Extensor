@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-margarine"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of margarine equals 10 ounces, making it easy to measure for your air fryer recipes. Whether you're whipping up a cake or preparing a savoury dish, accurate conversions ensure perfect results every time. Margarine, a common butter substitute, is often measured in cups, but many recipes—especially those on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>—require ounces for precision. Understanding this conversion helps streamline your cooking process.</p>  
 

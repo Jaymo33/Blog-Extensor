@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pineapple-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of pineapple juice equals 4 fluid ounces (oz). This measurement is essential for precise cooking, especially when preparing air fryer recipes that require exact liquid quantities. Whether you're marinating chicken or creating a glaze, knowing how to convert 0.5 cup of pineapple juice to ounces ensures consistent results every time.</p>  
 

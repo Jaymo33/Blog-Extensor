@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>85 ml of yogurt is approximately 0.36 cups in the US measurement system and 0.3 cups in the UK. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're whipping up a cake or marinating chicken for the air fryer, knowing how to convert 85 ml of yogurt to cups ensures your dish turns out perfectly.</p>  
 

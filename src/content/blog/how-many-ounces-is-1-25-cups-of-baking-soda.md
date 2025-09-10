@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-baking-soda"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of baking soda equals approximately 10 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up crispy <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer chicken</a> or fluffy baked goods, knowing the exact weight ensures consistency. Baking soda is a key ingredient in many recipes, and getting the amount right is crucial for texture and rise. Let’s dive deeper into why accurate conversions matter and how to measure baking soda perfectly every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>4.0 cups of lime juice equals 946 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you’re whipping up a zesty marinade or a tangy dessert, knowing how many ml is 4.0 cups of lime juice ensures consistency and flavour balance.</p>  
 

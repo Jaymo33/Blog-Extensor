@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-muffins-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat muffins in an air fryer, set the temperature to 160°C (320°F) and warm them for 3–4 minutes. This method restores their freshness while keeping the inside moist and the top slightly crisp. Whether you’ve stored muffins in the fridge or left them out overnight, an air fryer is the perfect tool for bringing them back to life.</p>
 

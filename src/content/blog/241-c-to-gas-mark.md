@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/241-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 241 C in Gas Mark?</h2>
 <p>241 C is equivalent to Gas Mark 9. This high temperature is often used for baking, roasting, or air frying dishes that require a crisp finish or quick cooking time. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend double-checking your appliance settings to avoid under or overcooking. Many modern air fryers allow you to toggle between Celsius and Gas Mark, making it easier to follow traditional recipes.</p>

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-peanut-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of peanut butter equals approximately 2 ounces (56.7 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you're making peanut butter cookies, satay sauce, or energy bites, knowing how many ounces are in 0.25 cup of peanut butter helps avoid kitchen mishaps.</p>  
 

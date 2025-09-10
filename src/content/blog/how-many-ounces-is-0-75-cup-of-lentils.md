@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-lentils"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of lentils equals approximately 5.29 ounces (150 grams) when measured for UK cooking. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're preparing a hearty lentil stew or crispy air-fried lentil falafels, knowing the exact weight saves time and guarantees consistency.</p>  
 

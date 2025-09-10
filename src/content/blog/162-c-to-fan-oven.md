@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/162-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>162 C in a fan oven is equivalent to approximately 142 C in a conventional oven. This 20-degree reduction is standard for fan-assisted cooking, where circulating air distributes heat more efficiently. When using your air fryer - essentially a compact fan oven - this conversion becomes particularly important for achieving consistent results.</p>
 

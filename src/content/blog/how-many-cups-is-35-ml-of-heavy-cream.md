@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Cups Is 35 ml of Heavy Cream?</h2>
 <p>35 ml of heavy cream is roughly 0.15 cups in the US measurement system and 0.12 cups in the UK. This conversion is essential for recipes requiring precise amounts, especially in baking. Whether you're whipping up a dessert or adding richness to a sauce, knowing this measurement ensures consistency. For more air fryer-friendly recipes, visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>. Heavy cream is a staple in many dishes, so getting the conversion right matters.</p>

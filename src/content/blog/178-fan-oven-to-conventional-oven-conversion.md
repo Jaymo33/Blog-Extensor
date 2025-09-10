@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/178-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 178 fan oven to conventional oven is straightforward: 178°C in a fan oven equals approximately 160°C in a conventional oven. This adjustment ensures your recipes cook evenly, whether you're baking cakes or roasting vegetables. Understanding this conversion is especially useful when adapting recipes for air fryers, which often follow conventional oven settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these temperature conversions with ease.</p>
 

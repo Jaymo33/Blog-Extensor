@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/283-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>283 F converts to approximately 140 C in a fan oven. This is the standard equivalent for most UK fan-assisted ovens and air fryers. Whether you're adapting an American recipe or fine-tuning your air fryer settings, this conversion ensures consistent cooking results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we recommend rounding to 140 C for simplicity when using fan ovens or convection settings.</p>
 

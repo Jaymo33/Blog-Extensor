@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/219-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>219 C in a fan oven is equivalent to 200 C with the fan setting on. This 19-degree reduction accounts for the fan's efficient heat distribution, ensuring even cooking without over-browning. Whether you're baking cakes or roasting vegetables, this conversion is essential for perfect results. For air fryer users, this same principle applies since air fryers operate similarly to fan ovens. Bookmark this guide or check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for quick reference.</p>
 

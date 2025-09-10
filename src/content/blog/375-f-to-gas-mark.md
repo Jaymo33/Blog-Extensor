@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/375-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 375 F to Gas Mark Conversion</h2>
 <p>375 Fahrenheit converts to Gas Mark 5 in UK ovens and air fryers. This medium-high temperature is perfect for roasting vegetables, baking cakes, or cooking chicken in your air fryer. The Gas Mark system, used primarily in the UK, provides a simpler way to set oven temperatures without dealing with exact degrees. When converting 375 F to Gas Mark for air fryer recipes, you'll find most appliances accommodate this common baking temperature. At airfryerrecipe.co.uk, we recommend checking your specific model's manual as some air fryers may require slight adjustments.</p>

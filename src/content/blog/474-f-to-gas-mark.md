@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/474-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>474°F converts to Gas Mark 9 in UK ovens. This high temperature is ideal for professional-style roasting, baking pizzas, or creating extra-crispy finishes in both conventional ovens and air fryers. Understanding this conversion helps British cooks follow recipes accurately, whether using traditional appliances or modern air frying technology.</p>
 

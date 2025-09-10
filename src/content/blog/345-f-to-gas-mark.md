@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/345-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>345 F converts to Gas Mark 4 in UK ovens and air fryers. This medium heat setting is perfect for baking cookies, roasting vegetables, or cooking poultry in your air fryer. Whether you're following an American recipe or adjusting your favourite dishes, knowing this conversion ensures consistent results every time.</p>
 

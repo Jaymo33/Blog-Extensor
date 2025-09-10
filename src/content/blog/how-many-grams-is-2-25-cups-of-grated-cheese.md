@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-grated-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.25 cups of grated cheese equals approximately 225 grams, though this can vary slightly depending on the cheese type and how finely it’s grated. For air fryer recipes, precision is key to achieving the perfect melt and texture, so using a kitchen scale is highly recommended. Whether you’re making cheesy air fryer nachos or a gooey gratin, knowing this conversion ensures consistent results every time.</p>  
 

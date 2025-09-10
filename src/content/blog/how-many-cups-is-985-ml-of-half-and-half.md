@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>985 ml of half and half is approximately 4.16 cups in the US measurement system and 3.46 cups in the UK measurement system. This conversion is essential for anyone using half and half in baking, cooking, or air fryer recipes. Whether you're whipping up a creamy sauce or a decadent dessert, knowing the exact measurement ensures perfect results every time.</p>
 

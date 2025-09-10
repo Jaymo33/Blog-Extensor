@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-heavy-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>660 ml of heavy cream is approximately 2.79 cups in the US measurement system and 2.32 cups in the UK measurement system. Whether you're baking a cake, making a creamy sauce, or preparing a dessert in your air fryer, knowing this conversion ensures accuracy. Heavy cream is a versatile ingredient, and getting the measurement right can make or break your recipe.</p>
 

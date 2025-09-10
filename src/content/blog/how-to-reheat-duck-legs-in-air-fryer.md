@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-duck-legs-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating duck legs in an air fryer is simple and ensures crispy skin without drying out the meat. Set your air fryer to 160°C (320°F) and reheat for 8–10 minutes, flipping halfway for even crispiness. This method works brilliantly for leftover duck legs, whether they’re from the fridge or frozen.</p>  
 

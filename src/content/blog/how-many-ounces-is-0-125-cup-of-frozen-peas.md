@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.125 cup of frozen peas equals approximately 1 ounce (28 grams) in weight. This conversion is essential for precise measurements when preparing air fryer recipes, ensuring consistent results every time. Whether you're making a quick side dish or incorporating peas into a main meal, knowing this measurement helps with portion control and recipe accuracy.</p>
 

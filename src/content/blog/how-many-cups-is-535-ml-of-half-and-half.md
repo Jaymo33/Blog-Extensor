@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>535 ml of half and half is approximately 2.26 cups. This conversion is handy when you're following recipes, especially those designed for air fryers where precise measurements matter. Whether you're whipping up a creamy sauce or baking a delicious dessert, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>
 

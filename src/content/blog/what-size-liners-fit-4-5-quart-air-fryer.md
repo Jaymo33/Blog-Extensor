@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "liner"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-4-5-quart-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>For a 4.5 quart air fryer, the ideal liner size is typically 6.5 to 7 inches in diameter for round liners or 7x7 inches for square liners. These dimensions ensure a snug fit, preventing food from slipping underneath while allowing proper air circulation. Whether you prefer parchment paper, silicone, or reusable liners, getting the right size is key to effortless cooking and cleaning. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend measuring your basket before purchasing to avoid any mishaps.</p>  
 

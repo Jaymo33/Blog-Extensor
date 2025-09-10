@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>510 ml of buttermilk is approximately 2.15 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make all the difference. Whether you're whipping up pancakes, cakes, or marinades, knowing how to convert 510 ml of buttermilk to cups ensures your recipes turn out perfectly every time.</p>
 

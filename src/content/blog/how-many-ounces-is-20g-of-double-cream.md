@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-20g-of-double-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20 grams of double cream equals approximately 0.71 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when making desserts, sauces, or creamy dishes. Whether you're whipping up a batch of scones or a rich carbonara, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  
 

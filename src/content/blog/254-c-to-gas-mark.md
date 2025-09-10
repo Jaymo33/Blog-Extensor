@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/254-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 254 C to Gas Mark?</h2>
 <p>254°C converts to Gas Mark 9, which is the highest standard setting on most UK ovens. This temperature is ideal for high-heat cooking methods like roasting, baking, and air frying. If you're using an air fryer, you might need to adjust cooking times slightly compared to a conventional oven. Many air fryer recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> provide specific timings for Gas Mark conversions. Always preheat your air fryer for best results when cooking at this high temperature.</p>

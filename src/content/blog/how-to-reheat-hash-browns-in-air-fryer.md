@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-hash-browns-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating hash browns in an air fryer is simple: set the temperature to 180°C (350°F) and cook for 3–5 minutes until crispy. This method restores that golden crunch without drying them out, making it the best way to reheat hash browns in an air fryer. Whether you’ve got leftovers from breakfast or stored hash browns in the fridge, your air fryer can bring them back to life with minimal effort.</p>
 

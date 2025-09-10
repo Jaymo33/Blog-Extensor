@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pizza-slices-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating pizza slices in an air fryer takes just 3–4 minutes at 160°C (320°F), giving you crispy crust and evenly melted cheese without drying out the toppings. Unlike microwaves that leave pizza limp or ovens that take too long, air fryers circulate hot air to revive leftovers like they’re fresh from the takeaway. Whether you’re working with fridge-cold slices or day-old pepperoni, this method beats all others for speed and texture.</p>
 

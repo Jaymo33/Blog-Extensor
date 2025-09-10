@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 6 kg beef joint converts to approximately 13.23 pounds, making it a substantial cut perfect for feeding a crowd or meal prepping for the week. This conversion is essential for air fryer users who need precise measurements to calculate cooking times and temperatures accurately. Whether you're using a compact model or a large family-sized air fryer, knowing the exact weight in pounds helps ensure even cooking and perfect results. Many recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide cooking times based on pound measurements, making this conversion particularly valuable. Understanding this basic conversion will transform how you approach cooking large cuts of meat in your air fryer.</p>
 

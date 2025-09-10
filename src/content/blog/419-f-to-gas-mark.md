@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/419-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 419 F in Gas Mark?</h2>
 <p>419°F converts to Gas Mark 7, which is a common setting for baking and roasting in air fryers. This temperature is ideal for achieving crispy textures while keeping the inside tender. Whether you’re cooking meats, pastries, or vegetables, knowing this conversion ensures your dishes turn out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your air fryer’s manual for precise settings. Gas Mark 7 is a versatile temperature that works well for many recipes, from roasted chicken to homemade cookies.</p>

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-wholemeal-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of wholemeal flour equals approximately 6.35 ounces (180 grams) in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your baked goods turn out perfectly every time. Whether you’re making bread, muffins, or pancakes, knowing the exact weight of your flour can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve the best results with accurate measurements. Keep reading to learn more about converting cups to ounces and why it’s crucial for air fryer cooking.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-chia-seeds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of chia seeds equals approximately 7.5 ounces (213 grams). This conversion is essential for accurate measurements in recipes, especially when using an air fryer for baking or meal prep. Chia seeds are a versatile ingredient, often used in puddings, smoothies, and even as an egg substitute, so knowing their weight ensures perfect results every time.</p>  
 

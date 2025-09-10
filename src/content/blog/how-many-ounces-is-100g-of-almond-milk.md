@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 100g of almond milk?</h2>  
 <p>100g of almond milk equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re whipping up a dairy-free sauce or baking a moist cake, knowing this conversion helps avoid kitchen mishaps. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Almond milk’s consistency can vary, so weighing it ensures accuracy.</p>  

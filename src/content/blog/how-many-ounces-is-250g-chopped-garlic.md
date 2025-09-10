@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-chopped-garlic"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250g of chopped garlic equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, ensuring you get the right flavour balance without overpowering your dish. Whether you’re making garlic bread, roasted vegetables, or a marinade, knowing the exact weight in ounces helps achieve consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking game. Keep reading to learn more about converting grams to ounces and how it impacts your air fryer meals.</p>  
 

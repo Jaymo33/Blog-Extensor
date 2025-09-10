@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.0 cups of shredded mozzarella cheese equals approximately 340 grams. This conversion is essential for air fryer recipes where precision matters, whether you're making crispy mozzarella sticks or a gooey pizza. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate measurements can make or break a dish, so let’s dive into the details.</p>
 

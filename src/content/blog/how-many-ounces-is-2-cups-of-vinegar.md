@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of vinegar equals 16 fluid ounces (or approximately 16 oz by weight for most types of vinegar). This conversion is essential for air fryer recipes, where precise measurements can make all the difference in flavour and texture. Whether you're making a tangy marinade or a zesty glaze, knowing how to convert cups to ounces ensures your dish turns out perfectly every time.</p>
 

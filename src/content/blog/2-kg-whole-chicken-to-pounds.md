@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 2 kg whole chicken converts to approximately 4.4 pounds, making it a medium-sized bird perfect for most family meals. This conversion is essential when following recipes that use imperial measurements or when shopping for poultry in countries that use pounds. Knowing this weight helps you plan cooking times accurately, especially when using an air fryer where precise sizing matters. Many air fryer recipes specify chicken weights in pounds, so this conversion ensures your results match expectations. You can find more helpful conversion tips at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your cooking experience smoother.</p>
 

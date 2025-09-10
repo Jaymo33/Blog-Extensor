@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of almond milk equals approximately 4 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for baking, sauces, or smoothies. Whether you're whipping up a quick dessert or a savoury dish, knowing how many ounces are in 0.5 cup of almond milk helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we prioritise precision to make your cooking effortless. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  
 

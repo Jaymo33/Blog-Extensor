@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/274-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>274 F converts to Gas Mark 1/4, which is the lowest setting on the Gas Mark scale. This gentle temperature is perfect for slow cooking, dehydrating, or keeping dishes warm in your air fryer. Many air fryer recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use this temperature for delicate tasks like drying herbs or proofing dough.</p>
 

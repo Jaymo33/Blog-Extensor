@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-apple-cider-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>985 ml of apple cider vinegar is approximately 4.16 cups. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of acidity and flavour. Whether you're marinating chicken or baking a tangy dessert, knowing how many cups 985 ml of apple cider vinegar equals helps streamline your cooking process.</p>  
 

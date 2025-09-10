@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-vegetable-broth"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of vegetable broth equals 12 fluid ounces (or approximately 12 oz by weight for most standard broths). This conversion is essential for air fryer recipes where precise liquid measurements can affect cooking times and textures. Whether you’re making soups, stews, or marinades, knowing how many ounces are in 1.5 cups of vegetable broth ensures consistent results.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260 ml of milk is approximately 1.1 cups in standard US measurements or 1.04 cups in UK metric measurements. This conversion is essential for precise baking, cooking, or air fryer recipes where accuracy matters. Whether you're whipping up a cake or a creamy sauce, knowing how to measure 260 ml of milk in cups ensures your dish turns out perfectly every time.</p>
 

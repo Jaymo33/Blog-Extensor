@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-pasta"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>350 grams of pasta is roughly equivalent to 3.5 to 4 cups, depending on the pasta shape and density. This conversion is essential for air fryer cooking, where precise measurements ensure even cooking and perfect textures. Whether you're making a quick weeknight dinner or meal prepping, knowing how to convert grams to cups saves time and hassle.</p>  
 

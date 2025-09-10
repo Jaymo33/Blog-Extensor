@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-semi-skimmed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 2.5 cups of semi skimmed milk?</h2>  
 <p>2.5 cups of semi skimmed milk equals approximately 20.29 ounces (oz). This conversion is essential for precise measurements, especially when preparing air fryer recipes where accuracy matters. Whether you're making a creamy sauce or baking a cake in your air fryer, knowing the exact weight ensures perfect results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. Semi skimmed milk is a common ingredient in many dishes, so getting the measurement right is key.</p>  

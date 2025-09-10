@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-grill-mat-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put a grill mat in an air fryer if it's specifically designed for high-heat cooking and fits properly within your appliance. Many UK air fryer owners use silicone grill mats as a convenient alternative to parchment paper, especially when cooking greasy foods or delicate items that might stick. However, not all grill mats are created equal, and using the wrong type could lead to melting, smoke, or even fire hazards.</p>
 

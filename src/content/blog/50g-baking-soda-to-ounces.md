@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/50g-baking-soda-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50g of baking soda equals approximately 1.76 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up fluffy cakes or crispy snacks, knowing how to convert 50g baking soda to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify these conversions so you can focus on cooking. Let’s dive deeper into why this matters for your air fryer creations.</p>  
 

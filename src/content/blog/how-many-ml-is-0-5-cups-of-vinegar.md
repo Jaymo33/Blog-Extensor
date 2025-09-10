@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cups of vinegar equals approximately 118 ml. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're marinating chicken or whipping up a tangy sauce, knowing how many ml is 0.5 cups of vinegar ensures consistent results every time.</p>
 

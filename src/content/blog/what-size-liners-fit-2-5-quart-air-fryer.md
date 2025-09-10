@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "liner"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-2-5-quart-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>If you own a 2.5 quart air fryer, you’ll need liners that measure approximately 6.5 to 7 inches in diameter for a snug fit. Using the correct liner size ensures even cooking and makes cleaning a breeze. Whether you prefer parchment paper, silicone, or reusable liners, getting the right dimensions is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’ve tested dozens of liners to find the best options for your 2.5 quart model. Let’s dive into the details so you can cook with confidence.</p>  
 

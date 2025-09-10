@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-shredded-coconut"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of shredded coconut weighs approximately 3 ounces (85 grams). This measurement is key for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're making coconut-crusted shrimp or a tropical dessert, knowing the exact weight helps avoid overpacking or underfilling your air fryer basket.</p>  
 

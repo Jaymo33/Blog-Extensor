@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/480-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>480°F converts to Gas Mark 9, the highest standard setting on most UK ovens and a common temperature for air fryer recipes requiring intense heat. This scorching temperature is ideal for achieving crispy skins on meats, blistering pizzas, or quick-roasting vegetables while locking in moisture. Whether you're using an air fryer or conventional oven, understanding this conversion ensures your dishes cook perfectly every time.</p>
 

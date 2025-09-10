@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20-5-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20.5 kg is equal to 45.194 pounds (lbs). This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when weighing larger cuts of meat or bulk ingredients. Getting your quantities right is the first step to perfect air frying, and a precise conversion from 20.5 kg to pounds ensures your cooking times and temperatures are spot on. Whether you're meal prepping or cooking for a crowd, knowing how to convert 20.5 kilograms to pounds is a fundamental kitchen skill. For a comprehensive guide to all your air fryer conversion needs, be sure to bookmark <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

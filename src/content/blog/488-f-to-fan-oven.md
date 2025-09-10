@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/488-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 488 F to Fan Oven Conversion</h2>
 <p>488 F converts to approximately 253 C in a fan oven. This temperature is ideal for high-heat cooking methods like roasting or baking crispy dishes. Fan ovens circulate hot air, which means they cook food more evenly and often faster than conventional ovens. If you're using an air fryer, which works similarly to a fan oven, you might need to adjust cooking times slightly. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for more details.</p>

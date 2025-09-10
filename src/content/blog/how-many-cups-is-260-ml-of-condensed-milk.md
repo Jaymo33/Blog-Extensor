@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260 ml of condensed milk equals approximately 1.1 cups in standard US measurements or 1.05 cups in UK metric measurements. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that call for precise measurements. Whether you're making a creamy dessert or a savoury dish, knowing how to convert 260 ml of condensed milk to cups ensures accuracy and perfect results every time.</p>  
 

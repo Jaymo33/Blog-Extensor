@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-breaded-chicken-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating breaded chicken in an air fryer is simple: set it to 160°C (320°F) for 3-5 minutes. This method restores crispiness while keeping the interior moist, making it far superior to microwaving. Whether you’ve got leftover fried chicken, schnitzel, or nuggets, your air fryer can revive them like new.</p>
 

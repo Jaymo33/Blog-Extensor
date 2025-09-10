@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jam-doughnuts-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating jam doughnuts in an air fryer takes just 3-4 minutes at 160°C (320°F), restoring their crispiness while keeping the jam filling warm and gooey. This method beats microwaving, which often leaves them soggy, and is quicker than using a conventional oven. Whether you’ve got leftover bakery treats or homemade doughnuts, your air fryer delivers café-quality results with minimal effort.</p>
 

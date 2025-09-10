@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-mozzarella-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>450 grams of mozzarella cheese is roughly equivalent to 4.5 cups when shredded. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're making a cheesy garlic bread or a loaded nacho dish, knowing how to convert grams to cups saves time and avoids guesswork.</p>
 

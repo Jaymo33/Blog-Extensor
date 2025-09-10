@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Gas Mark 1 to Celsius Conversion</h2>
 <p>Gas Mark 1 converts to 140°C, making it one of the lowest oven temperatures for gentle cooking. This temperature is perfect for slow-roasting vegetables or keeping dishes warm in your air fryer. Many traditional British recipes still reference Gas Marks, so knowing this conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend reducing cooking times by 20% when converting oven recipes. The precise heat control of modern air fryers makes them ideal for low-temperature cooking.</p>

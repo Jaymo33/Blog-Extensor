@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-rice-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating rice in an air fryer takes just 3-5 minutes at 160°C (320°F), giving you evenly warmed grains with a delightful light crispness. Unlike microwaving which often leaves rice soggy or clumpy, air frying circulates heat to revive leftovers while adding subtle texture. This guide from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> covers everything from fridge-cold rice to portion sizes for perfect results every time.</p>
 

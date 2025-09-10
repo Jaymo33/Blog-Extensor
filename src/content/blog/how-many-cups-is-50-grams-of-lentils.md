@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-lentils"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50 grams of lentils equals approximately 0.25 cups (or 1/4 cup) when measured uncooked. This conversion is essential for air fryer recipes, ensuring precise portions for perfect results every time. Whether you're whipping up a lentil-based dish or adjusting a recipe, knowing how many cups 50 grams of lentils translates to can make cooking effortless.</p>  
 

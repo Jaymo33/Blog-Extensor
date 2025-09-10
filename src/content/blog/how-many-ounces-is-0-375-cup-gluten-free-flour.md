@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-gluten-free-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of gluten-free flour equals approximately 1.5 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and consistency. Whether you're baking gluten-free cookies or coating chicken for a crispy finish, knowing this conversion helps avoid kitchen mishaps.</p>
 

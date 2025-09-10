@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of sunflower seeds equals approximately 1.6 ounces (oz) in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and crispiness. Whether you’re making a crunchy topping or a healthy snack, knowing the exact weight ensures consistent results every time.</p>  
 

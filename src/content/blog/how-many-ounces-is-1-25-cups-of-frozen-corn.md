@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-frozen-corn"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of frozen corn equals approximately 10 ounces. This conversion is handy when preparing recipes, especially for air fryer dishes where precise measurements matter. Frozen corn is a versatile ingredient, perfect for quick meals, sides, or even snacks when cooked in an air fryer. If you're using a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing this conversion ensures your dish turns out just right.</p>  
 

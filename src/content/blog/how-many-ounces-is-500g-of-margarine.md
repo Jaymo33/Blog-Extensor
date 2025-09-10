@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-margarine"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500g of margarine equals approximately 17.64 ounces. If you're using an air fryer and need to measure margarine for a recipe, this conversion ensures accuracy. Whether you're baking, frying, or preparing a dish, knowing the exact weight in ounces helps achieve consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide handy conversions to make cooking effortless. Keep reading for more tips on measuring margarine and using it in your air fryer.</p>  
 

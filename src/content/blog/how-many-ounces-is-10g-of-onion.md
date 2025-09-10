@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-of-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 grams of onion equals approximately 0.35 ounces. This conversion is handy when preparing air fryer recipes, especially if you’re working with UK measurements. Whether you’re dicing onions for a stir-fry or caramelising them for a topping, knowing the exact weight ensures your dish turns out perfectly every time.</p>  
 

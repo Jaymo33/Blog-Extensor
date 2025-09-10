@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-335-ml-of-oat-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>335 ml of oat milk is approximately 1.42 cups (US) or 1.18 cups (UK). Whether you're whipping up a creamy dessert or a savoury dish in your air fryer, knowing this conversion ensures your recipes turn out just right. Oat milk is a popular dairy-free alternative, and getting the measurements spot-on can make all the difference in texture and flavour.</p>  
 

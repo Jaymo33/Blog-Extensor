@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/339-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>339 F to Gas Mark Conversion Explained</h2>
 <p>339°F converts to Gas Mark 3 in UK ovens and air fryers. This moderate temperature is ideal for slow baking, roasting vegetables, or cooking delicate items that need gentle heat. Many traditional British recipes use Gas Mark settings rather than Fahrenheit, making this conversion essential for home cooks. Whether you're using a conventional oven or an air fryer, knowing that 339 F equals Gas Mark 3 helps ensure your dishes cook perfectly every time. For more temperature conversions, check out our comprehensive <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

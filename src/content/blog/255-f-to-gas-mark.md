@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/255-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>255°F converts to Gas Mark 1/4 (one-quarter) in UK ovens. This low-temperature setting is perfect for slow cooking, dehydrating, or keeping food warm in both conventional ovens and air fryers. When using your air fryer at 255 F (Gas Mark 1/4), you'll achieve gentle heating ideal for certain recipes.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-potatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50 grams of potatoes is roughly equivalent to 0.25 cups when diced or sliced. This measurement can vary slightly depending on how finely the potatoes are chopped, but it’s a reliable starting point for air fryer recipes. Whether you’re making crispy roast potatoes or a quick hash, knowing this conversion ensures your dish turns out just right.</p>  
 

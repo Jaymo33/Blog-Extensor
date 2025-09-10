@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/100g-plain-yogurt-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100g of plain yogurt is approximately 3.53 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require exact quantities. Whether you're whipping up a creamy dip or a marinade, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>
 

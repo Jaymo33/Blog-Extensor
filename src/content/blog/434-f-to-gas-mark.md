@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/434-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 434 F in Gas Mark?</h2>
 <p>434°F converts to Gas Mark 8, which is a common setting for roasting and baking in traditional ovens. This temperature is ideal for achieving a crispy exterior while keeping the inside tender, whether you're using an oven or an air fryer. Many recipes, especially those for meats and baked goods, call for this high heat to ensure proper cooking. If you're using an air fryer, you might need to adjust cooking times slightly, as air fryers cook faster than conventional ovens. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

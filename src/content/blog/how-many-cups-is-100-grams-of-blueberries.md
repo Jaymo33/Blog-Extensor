@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-blueberries"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100 grams of blueberries is roughly equivalent to 0.75 cups (¾ cup). This conversion is essential for air fryer recipes, ensuring accurate measurements for consistent results. Whether you're baking blueberry muffins or adding them to a breakfast dish, knowing how many cups is 100 grams of blueberries helps avoid guesswork.</p>  
 

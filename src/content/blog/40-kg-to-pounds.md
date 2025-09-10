@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/40-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40 kg equals approximately 88.18 pounds, making it a crucial conversion for air fryer users working with larger quantities of ingredients. Whether you're preparing a big family meal or batch cooking for the week, understanding this 40 kg to pounds conversion ensures accurate portioning and perfect cooking results. Many air fryer recipes from American sources use imperial measurements, so converting 40 kg to lbs becomes essential for British cooks. This conversion helps when dealing with larger cuts of meat, bulk vegetable purchases, or even when calculating capacity limits for your air fryer basket. Getting your measurements right from the start means your air fryer will cook everything evenly and efficiently.</p>
 

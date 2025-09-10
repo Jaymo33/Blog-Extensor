@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/377-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>377°F converts to Gas Mark 5 in UK ovens and air fryers. This medium-high heat setting is ideal for roasting, baking, and achieving crispy textures in your air fryer. Whether you're adapting traditional oven recipes or experimenting with new dishes, knowing this conversion ensures consistent results.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-spaghetti-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating spaghetti in an air fryer takes just 3-5 minutes at 160°C, giving you perfectly warmed pasta with slightly crisp edges. This method beats microwaving as it prevents that soggy texture while maintaining moisture. Whether you're dealing with plain spaghetti or saucy leftovers, your air fryer can revive them beautifully.</p>
 

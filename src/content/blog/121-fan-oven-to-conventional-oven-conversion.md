@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/121-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 121°C in a fan oven to a conventional oven temperature is straightforward: it equals approximately 140°C in a standard oven. This adjustment accounts for the more efficient heat distribution of fan-assisted ovens. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures your dishes turn out perfectly every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-diced-peppers"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of diced peppers equals approximately 5.28 ounces (or 150 grams). This measurement is crucial for air fryer recipes where precise ingredient quantities affect cooking times and results. Whether you're making stuffed peppers or a veggie stir-fry, knowing this conversion ensures your dish turns out perfectly every time.</p>
 

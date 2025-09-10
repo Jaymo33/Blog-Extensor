@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of brown sugar equals approximately 5.28 ounces (or 5 ¼ oz) in UK measurements. This conversion is essential for air fryer recipes, where precision ensures perfect texture and sweetness. Whether you’re whipping up cookies, cakes, or glazes, knowing how many ounces are in 0.66 cup of brown sugar saves time and avoids kitchen mishaps.</p>  
 

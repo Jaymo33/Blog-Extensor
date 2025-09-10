@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/94-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 94 Fan Oven to Conventional Oven Conversion</h2>
 <p>94°C in a fan oven equals approximately 110-120°C in a conventional oven. This conversion is essential for adapting recipes between different oven types. Fan ovens circulate hot air, cooking food faster and at lower temperatures than conventional ovens. When you see a recipe calling for 94 fan oven, you'll need to adjust upwards for traditional ovens. Many modern recipes at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> include both temperature settings for convenience.</p>

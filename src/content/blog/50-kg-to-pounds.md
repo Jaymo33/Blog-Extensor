@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/50-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50 kg is equal to 110.231 pounds, a conversion that comes in handy when working with larger quantities of ingredients for your air fryer. Whether you're meal prepping, buying in bulk, or scaling up a favourite recipe, knowing how to convert 50 kg to pounds ensures accuracy and consistency. This is especially useful for proteins like chicken or beef, where precise weights affect cooking times and results. You'll find this conversion useful across various <a href="https://www.airfryerrecipe.co.uk/recipe-category/Chicken">chicken recipes</a> or when planning big batch cooking sessions. Trusted resources like <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a> often use both metric and imperial measurements to cater to all home cooks.</p>
 

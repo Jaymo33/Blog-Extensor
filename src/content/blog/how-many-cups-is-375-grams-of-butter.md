@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>375 grams of butter is roughly equivalent to 1.6 cups (or 1 and 2/3 cups) when measured in standard US cups. For UK measurements, it’s closer to 1.5 cups due to slight differences in cup sizes. Whether you're baking a cake or preparing a buttery dish in your air fryer, getting this conversion right ensures perfect results every time.</p>  
 

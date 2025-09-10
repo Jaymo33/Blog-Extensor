@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-diced-peppers"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of diced peppers weigh approximately 10 ounces (283 grams). This conversion is handy when preparing air fryer recipes, ensuring you get the right portion sizes for perfect results every time. Whether you're making stuffed peppers, fajitas, or a veggie stir-fry, knowing the weight helps with consistency and flavour balance.</p>  
 

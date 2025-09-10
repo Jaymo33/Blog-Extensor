@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-single-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>460 ml of single cream equals approximately 1.94 cups in UK measurements or 1.95 cups in US measurements. Whether you're baking, cooking, or prepping an air fryer recipe, getting the right measurement is key. Single cream is a staple in many dishes, from sauces to desserts, and knowing how to convert millilitres to cups ensures consistency.</p>
 

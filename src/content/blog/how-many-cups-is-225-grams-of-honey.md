@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>225 grams of honey is approximately 0.67 cups in the US measurement system and 0.56 cups in the UK measurement system. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you're whipping up a cake or glazing chicken, knowing how to convert grams to cups ensures perfect results every time.</p>
 

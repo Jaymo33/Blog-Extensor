@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/24-kg-to-pounds-639a5"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>24 kg equals approximately 52.91 pounds, making it essential knowledge for anyone working with larger quantities in the kitchen, especially when using an air fryer. This conversion is particularly useful when dealing with bulk ingredients, meal prepping, or adjusting recipes to suit your needs. Understanding how to convert 24 kg to pounds ensures you can accurately portion and cook food without guesswork. Whether you're preparing a large batch of chicken or vegetables, getting the measurements right is key to perfect results. Many air fryer recipes and cooking guides use pounds, so knowing this conversion helps you follow instructions precisely.</p>
 

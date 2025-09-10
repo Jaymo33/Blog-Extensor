@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-meatloaf-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat meatloaf in an air fryer, set it to 160°C and cook for 5-8 minutes until piping hot. This method restores crispiness while keeping the interior tender – far superior to microwaving. Whether you’re working with fridge-cold leftovers or frozen portions, your air fryer delivers restaurant-quality results with minimal effort.</p>
 

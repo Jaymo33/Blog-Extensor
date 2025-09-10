@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/264-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>264°F converts to Gas Mark 1, making it a low-temperature setting ideal for slow cooking or gentle baking in air fryers and ovens. This temperature is perfect for dishes that require even, gentle heat without browning too quickly. Whether you're adapting a recipe or troubleshooting your air fryer settings, knowing this conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for flawless results. Let’s dive deeper into how to use this temperature effectively.</p>
 

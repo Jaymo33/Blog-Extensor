@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/292-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>292°F converts to Gas Mark 1.5 for conventional ovens and air fryers. This moderate temperature is perfect for slow baking, gentle roasting, and maintaining warmth without over-browning. Whether you're adapting recipes between appliances or checking your air fryer settings, understanding this conversion ensures consistent cooking results.</p>
 

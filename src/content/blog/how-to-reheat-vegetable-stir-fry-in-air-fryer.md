@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-vegetable-stir-fry-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat vegetable stir fry in an air fryer, preheat to 160°C (320°F) and cook for 3–5 minutes, shaking halfway. This method keeps your veggies crisp while warming them evenly, making it the best way to reheat vegetable stir fry without turning it soggy. Whether you’re using leftovers from the fridge or last night’s takeaway, your air fryer can bring back that just-cooked texture.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>85 ml of olive oil is approximately 0.36 cups in the US measurement system and 0.30 cups in the UK system. Whether you're preparing a delicious air fryer recipe or baking, accurate measurements are key to perfect results. Olive oil is a staple in many kitchens, and knowing how to convert millilitres to cups ensures your dishes turn out just right.</p>  
 

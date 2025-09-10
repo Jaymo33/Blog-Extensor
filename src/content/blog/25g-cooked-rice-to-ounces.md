@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/25g-cooked-rice-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>25g of cooked rice equals approximately 0.88 ounces. This conversion is handy when preparing air fryer meals, especially for portion control or following UK recipes. Whether you're meal prepping or cooking a quick side dish, knowing how to convert grams to ounces ensures accuracy in your air fryer recipes.</p>  
 

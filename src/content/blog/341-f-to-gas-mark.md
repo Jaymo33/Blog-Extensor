@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/341-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 341 F in Gas Mark?</h2>
 <p>341°F is equivalent to Gas Mark 4. This conversion is essential for air fryer and oven cooking, especially when following recipes that use Gas Mark settings. Whether you're baking, roasting, or reheating, knowing the correct temperature ensures your food cooks evenly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide precise conversions to make cooking effortless. Gas Mark 4 is a moderate heat, ideal for dishes like casseroles, cakes, and roasted vegetables.</p>

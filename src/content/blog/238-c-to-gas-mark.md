@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/238-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>238°C converts to Gas Mark 9, which is the standard equivalent for this high cooking temperature. This conversion is essential when using recipes that specify Gas Mark settings, especially for baking or roasting in both traditional ovens and air fryers. Whether you're preparing crispy roast potatoes or baking a Victoria sponge, knowing your 238 c to gas mark conversion ensures perfect results every time.</p>
 

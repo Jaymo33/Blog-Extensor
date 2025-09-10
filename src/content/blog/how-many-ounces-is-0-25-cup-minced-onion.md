@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-minced-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.25 cup of minced onion equals approximately 1 ounce. This measurement is crucial for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you’re making a savoury stir-fry or a hearty casserole, knowing how many ounces are in 0.25 cup of minced onion helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of precise measurements for consistent results. Keep reading to learn more about converting minced onion measurements and how to use them in your air fryer.</p>
 

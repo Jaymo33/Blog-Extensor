@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-tomato-ketchup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 0.125 cup of tomato ketchup?</h2>
 <p>0.125 cup of tomato ketchup equals exactly 1 ounce. This conversion is essential for precise measurements, especially when preparing air fryer recipes where accuracy can make or break a dish. Whether you're making a glaze, marinade, or dipping sauce, knowing this measurement ensures consistency. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>. This small but mighty measurement is perfect for portion control and recipe scaling.</p>

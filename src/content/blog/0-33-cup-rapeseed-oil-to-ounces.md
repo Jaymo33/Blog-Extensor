@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.33 cup of rapeseed oil equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up crispy chips or succulent chicken, knowing how many ounces are in 0.33 cup of rapeseed oil ensures consistent results every time.</p>
 

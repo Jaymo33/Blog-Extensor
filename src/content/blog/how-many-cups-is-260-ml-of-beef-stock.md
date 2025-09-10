@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>260 ml of beef stock equals approximately 1.1 cups in the UK or 1.09 cups in the US. This conversion is essential for air fryer recipes where precise liquid measurements can affect texture and flavour. Whether you're making a rich gravy or a hearty stew, knowing how to convert 260 ml of beef stock to cups ensures consistency in your cooking.</p>  
 

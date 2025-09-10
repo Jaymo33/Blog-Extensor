@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1000g-almond-butter-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1000g of almond butter equals approximately 35.27 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially when working with nut butters like almond butter. Whether you're making energy bites, sauces, or baked goods, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>  
 

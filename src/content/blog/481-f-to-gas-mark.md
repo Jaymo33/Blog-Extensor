@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/481-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>481 F converts to Gas Mark 9, the ideal setting for high-temperature roasting, baking, and air frying. This temperature is perfect for achieving crispy textures and even cooking in both traditional ovens and air fryers. Whether you're preparing a Sunday roast or baking artisan bread, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in simplifying cooking conversions for home chefs. Below, we’ll explore how to use 481 F to Gas Mark in different appliances and recipes.</p>  
 

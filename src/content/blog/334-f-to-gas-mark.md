@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/334-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 334 F to Gas Mark Conversion</h2>
 <p>334 F converts to Gas Mark 3 in UK ovens and air fryers. This temperature is commonly used for slow baking, roasting vegetables, or cooking delicate desserts. When using an air fryer, you might need to adjust cooking times slightly as they heat faster than conventional ovens. Many recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> provide both Fahrenheit and Gas Mark equivalents for convenience. Always preheat your appliance for consistent results.</p>

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>250 grams of cream is roughly equal to 1 cup in US measurements or 1.06 cups in UK measurements. This conversion is essential for baking, cooking, or even whipping up air fryer recipes where precision matters. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert grams to cups ensures your dish turns out perfectly every time.</p>
 

@@ -5,8 +5,11 @@ pubDate: 2025-08-17T00:00:00.000Z
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-ground-almonds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1 cup of ground almonds?</h2>
 <p>1 cup of ground almonds equals approximately 3.5 ounces (100 grams) in UK measurements. This conversion is essential for baking and cooking, especially when using air fryers where precise ingredient ratios affect texture and cooking times. Whether you're making almond flour cakes or coating chicken cutlets, knowing this measurement ensures consistent results. Many <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> call for ground almonds as a gluten-free alternative to breadcrumbs. Bookmark this page or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for quick reference during meal prep.</p>

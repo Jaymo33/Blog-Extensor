@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/321-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 321 F in Gas Mark?</h2>
 <p>321°F converts to Gas Mark 3 in UK ovens and air fryers. This moderate temperature is ideal for slow roasting, baking delicate pastries, or reheating dishes without drying them out. Many air fryer recipes, especially those adapted from traditional oven methods, will reference Gas Mark settings. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking conversions like 321 F to Gas Mark to ensure consistent results. Whether you’re cooking frozen goods or fresh ingredients, precise temperatures matter.</p>

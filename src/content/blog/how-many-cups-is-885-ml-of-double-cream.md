@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-double-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>885 ml of double cream is equivalent to approximately 3.75 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistency in your cooking. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pita-bread-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating pita bread in an air fryer takes just 2-3 minutes at 160°C (320°F), restoring its soft interior and lightly crispy edges. This method outperforms microwaving, which often leaves pitas rubbery, and toasting, which can dry them out. Your air fryer circulates hot air evenly, mimicking a traditional oven but in a fraction of the time – perfect for last-minute meal prep or reviving yesterday’s leftovers.</p>
 

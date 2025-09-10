@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-potatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500 grams of potatoes equals approximately 2.5 to 3 cups, depending on how finely they’re chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy roast potatoes or a hearty potato bake, knowing how many cups 500 grams of potatoes yields ensures consistent results every time.</p>
 

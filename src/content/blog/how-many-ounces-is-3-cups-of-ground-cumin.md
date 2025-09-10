@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of ground cumin equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise spice measurements can make or break a dish. Whether you're whipping up a batch of spiced chicken or a fragrant vegetable curry, knowing how to convert 3 cups of ground cumin to ounces ensures consistency and flavour balance.</p>
 

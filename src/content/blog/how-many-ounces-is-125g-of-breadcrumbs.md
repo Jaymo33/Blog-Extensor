@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125g-of-breadcrumbs"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125g of breadcrumbs equals approximately 4.41 ounces. This conversion is essential for air fryer recipes, where precise measurements ensure perfectly crispy results. Whether you’re coating chicken, fish, or vegetables, knowing how to convert grams to ounces helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions easy so you can focus on cooking delicious meals.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-chopped-onion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 tbsp of chopped onion equals approximately 5 grams. This measurement is crucial for air fryer recipes where precision matters, especially when working with strong-flavoured ingredients like onions that can overpower a dish if used incorrectly. Whether you're making air fryer onion rings or adding onions to a stir-fry, knowing this conversion helps maintain perfect flavour balance. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how important accurate measurements are for air frying success. Keep reading for detailed conversion charts and tips for measuring chopped onions in your air fryer recipes.</p>
 

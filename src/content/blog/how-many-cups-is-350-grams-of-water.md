@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>350 grams of water equals approximately 1.48 cups in the UK or 1.48 US cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're preparing a sauce, baking, or adjusting liquid ingredients, knowing how many cups is 350 grams of water ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions. Keep reading for detailed tips and why this measurement matters in air frying.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>400 grams of olive oil is roughly equivalent to 1.8 cups (or 1 and 4/5 cups). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re baking, frying, or drizzling, knowing how many cups 400 grams of olive oil equals ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on creating delicious meals.</p>  
 

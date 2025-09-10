@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sugar-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1.25 cups of sugar syrup?</h2>
 <p>1.25 cups of sugar syrup equals approximately 10 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Sugar syrup, often used in glazes, marinades, or desserts, needs accurate measuring to ensure the right consistency and sweetness. Whether you’re making a sticky glaze for air-fried chicken or a sweet drizzle for desserts, knowing this conversion saves time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

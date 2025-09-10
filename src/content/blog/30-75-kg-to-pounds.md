@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/30-75-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>30.75 kilograms is equal to approximately 67.79 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk ingredients, or meal prepping in bigger quantities. Knowing how to convert 30.75 kg to pounds accurately ensures your recipes turn out perfectly and helps with portion control. Whether you’re following a British recipe or using imported ingredients, this conversion is a handy piece of knowledge. For more helpful conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

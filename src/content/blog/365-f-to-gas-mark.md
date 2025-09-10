@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/365-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 365 F to Gas Mark?</h2>
 <p>365°F converts to Gas Mark 4.5 in the UK temperature scale. This is a common temperature for baking, roasting, and air frying dishes like cakes, casseroles, or vegetables. While most ovens use Gas Mark settings, air fryers typically display temperatures in Fahrenheit or Celsius. If your air fryer recipe calls for 365°F but your oven uses Gas Mark, this conversion ensures perfect results. For more air fryer temperature guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

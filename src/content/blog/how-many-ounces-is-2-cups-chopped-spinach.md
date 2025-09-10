@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-chopped-spinach"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of chopped spinach equals approximately 2.5 ounces (70 grams). This measurement is key for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making spinach-stuffed chicken or crispy veggie bites, knowing the weight helps avoid over or under-seasoning.</p>  
 

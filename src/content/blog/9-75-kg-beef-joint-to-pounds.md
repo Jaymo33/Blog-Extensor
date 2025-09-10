@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/9-75-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 9.75 kg beef joint to pounds gives you approximately 21.5 pounds. This conversion is essential for accurately following air fryer recipes, setting the correct cooking time, and ensuring your roast is perfectly cooked. Whether you're preparing a Sunday dinner or a special occasion feast, knowing the weight in pounds helps you use your air fryer more effectively. Many recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> use pound measurements, so this conversion is a handy skill. Getting it right means your beef joint will be juicy, tender, and cooked to your liking every time.</p>
 

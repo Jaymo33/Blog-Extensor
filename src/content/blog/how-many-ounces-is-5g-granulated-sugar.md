@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-granulated-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5 grams of granulated sugar equals approximately 0.176 ounces. This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up desserts or adjusting sweeteners, knowing how to convert 5g of granulated sugar to ounces ensures consistency in your dishes.</p>
 

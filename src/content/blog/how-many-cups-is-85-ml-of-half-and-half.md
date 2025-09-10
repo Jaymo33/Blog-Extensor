@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-half-and-half"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>85 ml of half and half is approximately 0.36 cups. This conversion is handy for recipes that require precise measurements, especially when using an air fryer. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert ml to cups ensures your dish turns out perfectly. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>
 

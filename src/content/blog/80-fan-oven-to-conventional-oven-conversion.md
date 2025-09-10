@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/80-fan-oven-to-conventional-oven-conversion"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Converting 80 fan oven to conventional oven temperature is straightforward: 80°C in a fan oven equals approximately 100°C in a conventional oven. This 20°C difference accounts for the fan oven's efficient heat distribution. Whether you're using an air fryer or traditional oven, understanding this conversion ensures perfectly cooked meals every time.</p>
 

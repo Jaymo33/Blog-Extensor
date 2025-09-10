@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 10 kg whole chicken converts to approximately 22.046 pounds, which is crucial information for air fryer cooking. Understanding this conversion helps you select the right sized bird for your air fryer basket and ensures even cooking throughout. Many British recipes use metric measurements, while air fryer instructions often reference pounds, making this conversion particularly valuable. Whether you're meal prepping or cooking for a family dinner, knowing that 10 kg equals about 22 pounds helps with portion planning. This conversion is especially important when browsing recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> that might use different measurement systems.</p>
 

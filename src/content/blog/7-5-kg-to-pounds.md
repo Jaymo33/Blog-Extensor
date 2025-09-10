@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/7-5-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>7.5 kilograms is equal to 16.5347 pounds, which is typically rounded to 16.5 pounds for practical cooking purposes. This conversion is particularly useful when dealing with larger meat joints or bulk ingredients that need precise measurement for air frying. Whether you're preparing a big family meal or meal prepping for the week, getting your weights right ensures everything cooks evenly and to perfection. Many modern air fryers have generous capacities, making them ideal for handling these larger quantities. Understanding how to convert 7.5 kg to pounds opens up a world of culinary possibilities with your appliance.</p>
 

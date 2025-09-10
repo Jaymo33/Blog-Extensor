@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>175 grams of self-raising flour equals approximately 1.4 cups in the UK or 1.25 cups in the US. This conversion is essential for air fryer baking, where precise measurements can make or break your cakes, muffins, or batters. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a> or adapting a traditional oven recipe, knowing how many cups is 175 grams of self-raising flour ensures consistent results every time.</p>
 

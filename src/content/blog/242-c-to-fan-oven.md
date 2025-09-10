@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/242-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>242 C converts to approximately 220 C in a fan oven. This 20-degree reduction is standard for fan-assisted cooking, ensuring even heat distribution without overcooking. Whether you're baking cakes or roasting meats, this conversion keeps your recipes on track. For air fryer users, this same principle applies—adjusting temperatures prevents drying out your food. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> for more precise adjustments.</p>
 

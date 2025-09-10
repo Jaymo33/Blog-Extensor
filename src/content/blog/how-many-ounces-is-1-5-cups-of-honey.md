@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of honey equals approximately 18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Honey’s thick, sticky consistency means it’s often easier to weigh than measure by volume, especially when adapting recipes for your air fryer. Whether you’re making glazes, marinades, or sweet treats, knowing how many ounces are in 1.5 cups of honey ensures perfect results every time.</p>  
 

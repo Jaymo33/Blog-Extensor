@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversion"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/5-kg-chicken-breast-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>5 kg of chicken breast converts to approximately 11.02 pounds, making it essential knowledge for anyone preparing large batches of meals in their air fryer. This conversion is particularly useful when following recipes from different measurement systems or when buying in bulk from your local butcher. Understanding this weight conversion ensures you can accurately portion your chicken for perfect air frying results every time. Whether you're cooking for a family gathering or meal prepping for the week, getting the measurements right is crucial. You'll find this conversion incredibly helpful when browsing the fantastic chicken recipes available at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>
 

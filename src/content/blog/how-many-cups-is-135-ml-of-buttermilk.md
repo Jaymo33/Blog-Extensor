@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>135 ml of buttermilk is roughly 0.57 cups, making it just over half a standard US cup. This conversion is essential for baking and cooking, especially when using precise measurements for air fryer recipes. Whether you're whipping up pancakes or a tender cake, knowing how to convert 135 ml of buttermilk to cups ensures consistent results every time.</p>
 

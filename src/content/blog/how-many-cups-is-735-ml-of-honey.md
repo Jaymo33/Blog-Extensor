@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>735 ml of honey equals approximately 3.1 cups in standard US measurements or 3.3 cups in UK imperial measurements. Whether you're baking a cake, whipping up a glaze, or preparing a marinade for your air fryer, knowing this conversion ensures accuracy. Honey's thick consistency means measuring it precisely is key for perfect results every time.</p>
 

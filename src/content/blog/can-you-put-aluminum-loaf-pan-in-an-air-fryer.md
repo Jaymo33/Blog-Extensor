@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-aluminum-loaf-pan-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can safely use an aluminum loaf pan in an air fryer as long as it fits properly and doesn't block the airflow. Aluminum is heat-resistant up to 660°C, far beyond typical air fryer temperatures, so it won't melt during normal use. Many home cooks successfully use aluminum loaf pans for baking bread, meatloaf, or cakes in their air fryers at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">recommended temperatures</a>.</p>
 

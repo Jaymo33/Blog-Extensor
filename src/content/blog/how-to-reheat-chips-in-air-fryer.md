@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-chips-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat chips in an air fryer, set the temperature to 180°C (350°F) and cook for 3-5 minutes until piping hot and crispy. This method works brilliantly for leftover chips, whether they’re from last night’s takeaway or homemade wedges. The air fryer’s rapid hot air circulation revives the texture far better than a microwave, which tends to make chips soggy. For best results, avoid overcrowding the basket and shake halfway through. You’ll find more handy tips like this at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>
 

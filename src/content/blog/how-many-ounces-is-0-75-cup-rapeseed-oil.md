@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-rapeseed-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of rapeseed oil equals approximately 6 ounces (5.96 oz to be precise). This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re frying, roasting, or baking, knowing the exact weight ensures consistent results every time. Rapeseed oil is a popular choice for air fryers due to its high smoke point and neutral flavour. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>
 

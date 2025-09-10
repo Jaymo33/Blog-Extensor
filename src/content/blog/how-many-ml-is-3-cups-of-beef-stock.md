@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.0 cups of beef stock equals 710 ml, making it easy to measure for your next recipe. Whether you're using an air fryer or cooking on the hob, precise measurements ensure the best results. This conversion is especially handy for dishes like stews, gravies, or soups, where liquid ratios matter. If you're browsing <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing this conversion will help you adjust quantities effortlessly. Keep this guide handy for stress-free cooking every time.</p>  
 

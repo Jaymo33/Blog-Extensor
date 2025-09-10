@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-butter"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of butter equals 16 ounces (or 1 pound) in the UK and US measurement systems. This conversion is essential for baking, cooking, and especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a cake or preparing a buttery dish in your air fryer, knowing how to convert 2 cups of butter to ounces ensures consistency and delicious results.</p>
 

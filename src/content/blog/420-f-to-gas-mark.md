@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/420-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>420°F converts to Gas Mark 7 in UK ovens and air fryers. This high temperature is perfect for roasting meats, baking pizzas, or achieving crispy textures in your air fryer. Whether you're following an American recipe or adjusting your cooking times, knowing this conversion is essential for perfect results every time.</p>
 

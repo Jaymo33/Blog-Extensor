@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-plain-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>25g of plain yogurt equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for ingredients like yogurt that can affect texture and moisture. Whether you're making a marinade, a sauce, or a baked good, knowing how to convert grams to ounces ensures your dish turns out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we often see questions about measurements, so we're here to simplify it for you. Let's dive deeper into why this conversion matters and how to use it in your cooking.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/250g-self-raising-flour-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 250g of self-raising flour?</h2>  
 <p>250g of self-raising flour equals approximately 8.82 ounces. This conversion is essential for bakers who prefer using imperial measurements or follow recipes with ounce-based quantities. Whether you're making cakes, bread, or air fryer-friendly treats, getting the measurements right ensures consistent results. If you're using an air fryer for baking, precise measurements like this can make all the difference. For more conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

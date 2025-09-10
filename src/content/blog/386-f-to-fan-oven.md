@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/386-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>386 F converts to approximately 170 C in a fan oven. This is a common temperature for roasting vegetables, baking cakes, or crisping up air fryer favourites. Understanding this conversion ensures your dishes cook evenly and efficiently, whether you're using a traditional oven or an air fryer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we specialise in making these conversions effortless for home cooks. Let’s dive deeper into why this temperature matters and how to use it effectively.</p>
 

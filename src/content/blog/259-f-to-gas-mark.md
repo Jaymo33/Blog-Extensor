@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/259-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>259 F converts to Gas Mark 1, which is the lowest setting on most UK ovens. This temperature is perfect for slow cooking, warming dishes, or dehydrating foods in your air fryer. Many traditional recipes use Gas Mark measurements, so knowing this conversion helps when adapting them for modern appliances.</p>
 

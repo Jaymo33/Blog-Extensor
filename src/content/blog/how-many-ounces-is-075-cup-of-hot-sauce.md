@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-hot-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of hot sauce equals 6 fluid ounces (oz) in standard US measurements. This conversion is essential for air fryer recipes, where precise quantities ensure the perfect balance of flavour. Whether you're marinating chicken wings or adding a kick to vegetables, knowing how many ounces are in 0.75 cup of hot sauce helps avoid over or under-seasoning. For UK cooks, fluid ounces remain consistent, making this measurement universal for air fryer enthusiasts. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips.</p>  
 

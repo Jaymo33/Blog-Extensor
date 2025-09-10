@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-75-cups-of-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.75 cups of vinegar is equivalent to approximately 887.5 millilitres (ml). This conversion is essential for precise measurements in cooking, especially when using an air fryer for recipes that require exact liquid quantities. Whether you’re marinating chicken, pickling vegetables, or baking, knowing this conversion ensures your dishes turn out perfectly every time.</p>  
 

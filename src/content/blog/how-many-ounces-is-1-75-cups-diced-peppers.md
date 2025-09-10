@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.75 cups of diced peppers equals approximately 14 ounces (or 14 oz) in UK measurements. This conversion is essential for air fryer recipes, ensuring accurate portioning and perfect results every time. Whether you're making stuffed peppers, fajitas, or a stir-fry, knowing the weight helps streamline your cooking process.</p>  
 

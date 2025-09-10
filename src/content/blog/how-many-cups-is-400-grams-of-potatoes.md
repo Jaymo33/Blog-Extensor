@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-potatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>400 grams of potatoes is roughly equivalent to 2.5 to 3 cups, depending on how finely they are chopped or sliced. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making crispy fries, roasted potatoes, or a hearty bake, knowing how many cups 400 grams of potatoes yields ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>
 

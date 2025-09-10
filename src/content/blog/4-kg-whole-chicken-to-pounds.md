@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 4 kg whole chicken converts to approximately 8.82 pounds, which is crucial information for air frying preparation and cooking time calculations. This conversion helps you understand the size of bird you're working with and ensures you select the right air fryer basket capacity. Many modern air fryers can comfortably handle a chicken of this size, but checking your specific model's limitations is always wise. Knowing the weight in both metric and imperial measurements makes following recipes from various sources much easier. This conversion knowledge is particularly valuable when planning meals for family gatherings or Sunday roasts using your air fryer.</p>
 

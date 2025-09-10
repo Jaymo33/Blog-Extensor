@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-baking-soda"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15 grams of baking soda equals approximately 0.53 ounces. This conversion is essential for anyone using UK recipes or working with air fryers, where precise measurements can make or break a dish. Whether you’re baking, cleaning, or experimenting with <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, knowing how to convert grams to ounces ensures consistency and success.</p>  
 

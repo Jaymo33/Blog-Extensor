@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/362-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>362°F converts to Gas Mark 4.5 in UK ovens and air fryers. This precise temperature is crucial for baking, roasting, and air frying where moderate heat delivers perfect results without burning. Whether you're adapting traditional recipes or experimenting with your air fryer, understanding this conversion unlocks consistent cooking performance.</p>
 

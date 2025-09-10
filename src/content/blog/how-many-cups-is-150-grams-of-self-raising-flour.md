@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-self-raising-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>150 grams of self-raising flour equals approximately 1.2 UK cups or 1.25 US cups. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're making fluffy scones or light cakes in your air fryer, getting the flour ratio right ensures consistent results every time. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy measurement guides and recipes tailored for your appliance.</p>
 

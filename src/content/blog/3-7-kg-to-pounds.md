@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-7-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.7 kilograms is equal to approximately 8.1571 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with recipe measurements, portion sizes, or buying the right amount of ingredients. Whether you're meal prepping, following a specific recipe, or just trying to understand packaging labels, knowing how to convert 3.7 kg to pounds can make your cooking experience much smoother. Accurate measurements ensure your food cooks evenly and comes out perfectly crispy every time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>
 

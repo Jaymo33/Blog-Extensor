@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/500g-balsamic-vinegar-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>500g of balsamic vinegar equals approximately 17.64 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you’re whipping up a glaze or marinating meats, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  
 

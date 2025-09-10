@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bagels-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat bagels in an air fryer, set the temperature to 160°C and cook for 3-4 minutes. This method restores that freshly-baked texture while keeping the inside soft and the exterior slightly crisp. Whether you're reviving day-old bagels or ones from the freezer, your air fryer does the job better than a microwave or conventional oven.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/36-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>36 kg equals approximately 79.37 pounds, making it a useful conversion for those working with larger quantities in the kitchen. This conversion is particularly handy when you're preparing family meals or batch cooking with your air fryer. Understanding weight conversions helps ensure you use the right amounts for recipes, especially when dealing with ingredients like meat or vegetables. Whether you're following a British recipe or an international one, getting your measurements right is key to success. You can find more helpful conversion tools at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your cooking even easier.</p>
 

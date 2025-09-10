@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-potatoes"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100 grams of potatoes equals roughly 0.6 to 0.7 cups, depending on how finely they’re chopped or grated. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you’re making crispy roast potatoes or a hearty potato bake, knowing how to convert grams to cups ensures consistent results every time.</p>
 

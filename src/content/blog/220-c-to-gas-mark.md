@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/220-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>220°C converts to Gas Mark 7, a common setting for roasting, baking, and air frying. This temperature works perfectly for crispy potatoes, golden cakes, and juicy meats. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend Gas Mark 7 (220°C) for recipes requiring a balance of browning and tenderness. It's a versatile heat level for everything from Sunday roasts to air-fryer cookies.</p>
 

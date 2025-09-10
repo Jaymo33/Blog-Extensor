@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-minced-beef"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>275 grams of minced beef is roughly equivalent to 1.1 to 1.2 cups when lightly packed. This measurement can vary slightly depending on the fat content and how tightly the beef is packed, but it’s a reliable starting point for air fryer recipes. Whether you’re prepping for burgers, meatballs, or a savoury mince dish, knowing this conversion ensures consistent results every time.</p>
 

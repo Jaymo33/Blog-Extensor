@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/227-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>227°C converts to Gas Mark 8 in standard UK ovens. This high temperature is perfect for baking, roasting, and achieving crispy results in both conventional ovens and air fryers. Whether you're following a recipe that uses Celsius or Gas Mark, knowing this conversion ensures your dishes cook perfectly every time.</p>
 

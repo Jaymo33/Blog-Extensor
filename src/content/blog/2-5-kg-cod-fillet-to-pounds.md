@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 kg of cod fillet is equal to approximately 5.51 pounds, a crucial conversion for anyone using an air fryer to cook this delicious and versatile fish. Getting your weights accurate ensures your cooking times are perfect and your results are consistently excellent, whether you're following a specific recipe or experimenting with your own creations. This conversion is particularly useful when dealing with larger fillets or batch cooking, where precision really matters for even cooking throughout. Many air fryer recipes, especially those on resources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, provide guidance based on weight, making this knowledge invaluable. Understanding how to convert 2.5 kg cod fillet to pounds empowers you to tackle any recipe with confidence.</p>
 <p>Cod is a fantastic choice for the air fryer thanks to its firm texture and mild flavour, which crisps up beautifully with minimal oil. Knowing that your 2.5 kg cod fillet translates to roughly 5.51 pounds helps you gauge how much will fit in your specific air fryer basket without overcrowding. Overcrowding is the enemy of crispiness, as it leads to steaming rather than air frying, so this weight awareness is key to technical success. This conversion also assists in portion control, allowing you to divide the fillet appropriately for serving if you're not cooking it all at once. For more fantastic cod ideas, explore the dedicated <a href=https://www.airfryerrecipe.co.uk/recipe-category/cod>cod category on airfryerrecipe.co.uk</a>.</p>

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversion"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 10 kg beef joint equals approximately 22.046 pounds. This conversion is essential for anyone cooking large cuts of meat, especially when using an air fryer where precise weight affects cooking time and temperature. Understanding this measurement helps you follow recipes accurately and achieve perfect results every time. Whether you're preparing a family feast or meal prepping for the week, knowing how to convert 10 kg beef joint to pounds ensures your cooking is consistent and reliable. For more conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>
 

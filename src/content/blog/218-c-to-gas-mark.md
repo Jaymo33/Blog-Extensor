@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/218-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>218 C converts to Gas Mark 7, which is the perfect setting for many air fryer recipes. Whether you're baking cookies, roasting vegetables, or preparing a main dish, knowing this conversion ensures your food cooks evenly. At airfryerrecipe.co.uk, we specialise in helping you master temperature conversions for flawless results. Gas Mark 7 is a common setting for many baked goods and roasted dishes, making it a versatile temperature to remember. Keep reading to learn more about how this conversion works and why it matters for your air fryer.</p>
 

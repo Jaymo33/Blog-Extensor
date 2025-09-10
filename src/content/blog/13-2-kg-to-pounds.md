@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/13-2-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>13.2 kg is equal to 29.10 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat or bulk ingredients. Many air fryer recipes, particularly those from American sources, use pounds instead of kilograms. Getting this conversion right ensures your cooking times and temperatures are accurate. A precise 13.2 kg to pounds calculation prevents under or overcooking your favourite dishes.</p>
 <p>Understanding weight conversions like 13.2 kilograms to pounds is a fundamental kitchen skill. It becomes particularly important when you are meal prepping or cooking for a crowd. Your air fryer's capacity is often listed in pounds or kilograms, so knowing both helps you avoid overloading it. An overloaded air fryer won't cook food evenly, leading to disappointing results. Mastering this simple conversion empowers you to tackle any recipe with confidence.</p>

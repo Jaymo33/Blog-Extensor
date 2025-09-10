@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>160 ml of corn syrup is approximately 0.68 cups in US measurements or 0.56 cups in UK imperial measurements. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can affect texture and consistency. Whether you're making sticky buns or glazes, knowing how to convert 160 ml of corn syrup to cups ensures your recipes turn out perfectly every time.</p>  
 

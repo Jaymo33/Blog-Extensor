@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/40g-almond-butter-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>40 grams of almond butter equals approximately 1.41 ounces. Whether you're whipping up a batch of energy balls or perfecting an air fryer dessert, knowing this conversion ensures your recipes turn out just right. Almond butter is a popular ingredient in healthy snacks and baked goods, so getting the measurements spot-on matters. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail every detail, from conversions to cooking times.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/200g-granulated-sugar-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>200g of granulated sugar equals approximately 7.05 ounces. This conversion is essential for baking, especially when using an air fryer where precise measurements can make or break your recipe. Whether you’re whipping up cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>
 

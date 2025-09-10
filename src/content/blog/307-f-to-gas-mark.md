@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/307-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>307°F converts to Gas Mark 2 for conventional ovens. This moderate temperature is perfect for slow roasting, baking delicate cakes, or dehydrating foods in both traditional ovens and air fryers. When using an air fryer, you'll often need to adjust cooking times as they heat up faster than conventional ovens.</p>
 

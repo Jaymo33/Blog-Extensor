@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/11-6-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>11.6 kg is equal to 25.57 pounds, a conversion that comes in handy when you are preparing larger cuts of meat or batch cooking for your air fryer. Many recipes, especially those from American sources or older British cookbooks, still use imperial measurements like pounds and ounces. Knowing how to quickly convert 11.6 kilograms to pounds ensures you can follow any recipe accurately and achieve the perfect cook every time. This is particularly useful for air fryer users who need precise portions for even cooking. Getting your weights right is the first step to a delicious meal from your air fryer.</p>
 

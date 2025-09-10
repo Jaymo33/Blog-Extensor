@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/gas-mark-7-to-celsius"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Gas Mark 7 converts to 220°C in Celsius, which is the perfect temperature for most air fryer cooking. This medium-high heat works brilliantly for roasting vegetables, baking cakes, and crisping up frozen foods in your air fryer. Whether you're converting a traditional recipe or experimenting with new dishes, knowing your Gas Mark 7 to Celsius conversion is essential for UK cooks.</p>
 

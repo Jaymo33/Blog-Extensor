@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/4-5-kg-salmon-fillet-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 4.5 kg salmon fillet is equal to approximately 9.92 pounds. This conversion is essential for anyone cooking a large piece of salmon, especially when using an air fryer where precise weight affects cooking time and temperature. Whether you’re meal prepping, hosting a dinner party, or simply love salmon, knowing the exact weight in pounds helps you follow recipes accurately and achieve perfect results. Understanding this conversion ensures your salmon is cooked evenly, retaining its moisture and flavour. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

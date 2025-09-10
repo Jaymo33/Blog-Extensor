@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-semolina"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of semolina equals approximately 2.5 ounces (70 grams). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and consistency. Whether you're making crispy semolina-coated chicken or a fluffy semolina cake in your air fryer, knowing the exact weight saves time and guarantees great results.</p>  
 

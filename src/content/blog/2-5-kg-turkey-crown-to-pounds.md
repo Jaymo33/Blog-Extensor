@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-5-kg-turkey-crown-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 2.5 kg turkey crown is equivalent to approximately 5.51 pounds. Knowing this conversion is essential for accurate cooking, especially when using an air fryer where precise timing and temperature are key to a perfectly cooked turkey crown. Whether you're preparing a Sunday roast or a festive centrepiece, understanding weight conversions helps you follow recipes correctly and avoid under or overcooking. This guide will walk you through everything you need to know about converting 2.5 kg turkey crown to pounds, along with practical tips for air frying. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/44-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>44 kilograms equals approximately 97 pounds, specifically 97.0034 pounds to be precise. This conversion is particularly useful when working with larger quantities of ingredients for your air fryer recipes. Whether you're meal prepping for the week or cooking for a crowd, understanding weight conversions ensures consistent results. Many air fryer recipes from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide measurements in both metric and imperial units. Getting your measurements right is the first step toward perfect air fried meals every time.</p>
 

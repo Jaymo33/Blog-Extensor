@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of soft cheese is equivalent to approximately 10.64 ounces. This conversion is essential for anyone preparing recipes that require precise measurements, especially when using an air fryer where ingredient ratios can impact cooking success. Whether you're making a creamy dip, a stuffed chicken breast, or a decadent dessert, knowing exactly how many ounces you need saves time and ensures consistency. Getting your measurements right from the start means your dishes will turn out perfectly every single time. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

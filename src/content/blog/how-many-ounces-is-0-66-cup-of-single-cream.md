@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-single-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.66 cup of single cream equals approximately 5.28 ounces (5 1/4 oz) in UK measurements. This conversion is essential when adapting recipes for your air fryer, where precise measurements can affect cooking results. Whether you're making creamy pasta sauces, desserts, or other dishes requiring single cream, getting the quantities right ensures perfect texture and flavour every time.</p>
 

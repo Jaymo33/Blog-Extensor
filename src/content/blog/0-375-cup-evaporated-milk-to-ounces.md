@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/0-375-cup-evaporated-milk-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.375 cup of evaporated milk equals exactly 3 ounces. This precise measurement is essential for air fryer recipes where accuracy ensures perfect results every time. Whether you’re whipping up a creamy dessert or a savoury dish, knowing how many ounces are in 0.375 cup of evaporated milk takes the guesswork out of cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making conversions simple so you can focus on creating delicious meals. Keep reading for more details on measuring evaporated milk and other handy air fryer tips.</p>
 

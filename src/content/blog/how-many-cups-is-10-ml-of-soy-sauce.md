@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of soy sauce is equal to approximately 0.042 cups (UK) or 0.04 cups (US). This small but crucial measurement is often needed for air fryer recipes, marinades, or sauces. Whether you're whipping up a quick stir-fry or marinating chicken for the air fryer, knowing the exact conversion ensures your dish turns out perfectly.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/50g-gelatin-powder-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>50g of gelatin powder equals approximately 1.76 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Gelatin powder is a common ingredient in desserts, jellies, and even some air fryer-friendly treats. Knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>
 

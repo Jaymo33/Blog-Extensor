@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-worcestershire-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 3 cups of Worcestershire sauce?</h2>
 <p>3 cups of Worcestershire sauce equals approximately 24 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Worcestershire sauce is a staple in many kitchens, adding depth and umami to dishes like marinades, stews, and even <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>. Knowing how to convert cups to ounces helps you follow recipes accurately, whether you're cooking for one or preparing a family meal. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements right for the best results.</p>

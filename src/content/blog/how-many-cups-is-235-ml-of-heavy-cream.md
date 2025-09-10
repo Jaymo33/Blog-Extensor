@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-heavy-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>235 ml of heavy cream is approximately 1 cup in US measurements or just under 1 cup (0.99 cups) in UK metric conversions. This small difference matters in baking, so knowing the exact conversion ensures your recipes turn out perfectly every time. Whether you're whipping up a creamy dessert or adding richness to a sauce, accurate measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precision, especially when using an air fryer for delicate dishes.</p>  
 

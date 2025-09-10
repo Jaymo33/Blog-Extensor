@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How Many Cups Is 735 ml of Almond Milk?</h2>  
 <p>735 ml of almond milk equals approximately 3.1 cups. This conversion is essential for baking, cooking, or using your air fryer, where precise measurements matter. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> or improvising, knowing this conversion ensures consistency. Almond milk is a popular dairy-free alternative, and measuring it correctly can make or break a dish. Keep reading for tips on measuring liquids and adapting recipes for your air fryer.</p>  

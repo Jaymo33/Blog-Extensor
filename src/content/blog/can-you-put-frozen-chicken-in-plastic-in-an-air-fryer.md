@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-frozen-chicken-in-plastic-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>No, you should never put frozen chicken in plastic packaging directly into an air fryer. The high heat can melt the plastic, potentially releasing harmful chemicals and creating a fire hazard. At airfryerrecipe.co.uk, we always recommend removing all plastic packaging before cooking frozen chicken in your air fryer for both safety and food quality reasons.</p>
 

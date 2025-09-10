@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-tomato-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.0 cups of tomato sauce equals 240 millilitres (ml). This standard conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re making a rich pasta sauce or a flavourful marinade, knowing the exact ml measurement helps avoid guesswork. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we prioritise accuracy to help you achieve restaurant-quality results at home.</p>
 

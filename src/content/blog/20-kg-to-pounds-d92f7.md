@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20-kg-to-pounds-d92f7"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20 kilograms is equivalent to 44.092 pounds, a conversion that comes in handy when scaling recipes or understanding food packaging for your air fryer. Whether you're meal prepping or following an international recipe, knowing how to convert 20 kg to pounds ensures you use the right quantities for perfect results. This is especially useful when dealing with larger cuts of meat or bulk ingredients that need precise portioning. Many air fryer recipes from sites like <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide weights in metric or imperial, so being confident with conversions avoids mistakes. Getting your measurements right means your food cooks evenly and comes out delicious every time.</p>
 

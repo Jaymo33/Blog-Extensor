@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/210-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 210 C in Gas Mark?</h2>
 <p>210°C converts to Gas Mark 6 in UK ovens and air fryers. This is a medium-high heat setting perfect for baking cakes, roasting vegetables, or cooking poultry in your air fryer. Many recipes at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use this temperature for achieving golden-brown results. Whether you're converting an oven recipe for air fryer use or checking your appliance settings, knowing that 210 C equals Gas Mark 6 is essential. This conversion works for both conventional ovens and air fryers with temperature displays.</p>

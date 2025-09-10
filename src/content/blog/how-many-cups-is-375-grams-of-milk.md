@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>375 grams of milk is roughly equivalent to 1.5 cups in UK measurements or 1.6 cups in US measurements. This conversion is essential for anyone using precise measurements in baking, cooking, or air fryer recipes. Whether you're whipping up a cake or preparing a creamy sauce, knowing how to convert grams to cups ensures consistent results every time.</p>
 

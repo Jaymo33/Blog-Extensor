@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/365-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>365°F converts to approximately 180°C in a fan oven, making it a moderate heat ideal for roasting, baking, and air frying. This temperature is commonly used for everything from crispy chicken to golden baked goods, ensuring even cooking without drying out your food. Whether you're using an air fryer or a conventional fan oven, understanding this conversion helps adapt recipes seamlessly.</p>
 

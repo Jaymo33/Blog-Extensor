@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-brown-sugar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1.25 cups of brown sugar?</h2>
 <p>1.25 cups of brown sugar equals approximately 10 ounces (9.96 oz to be precise). This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re whipping up cookies, cakes, or glazes, knowing this conversion ensures consistent results. Brown sugar’s density means it packs differently than granulated sugar, so measuring by weight (ounces) is often more reliable than volume (cups). For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

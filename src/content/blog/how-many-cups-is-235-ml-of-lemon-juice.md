@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-lemon-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>235 ml of lemon juice equals approximately 1 cup in US measurements and just under 1 cup (0.98 cups) in UK measurements. This conversion is essential for recipes requiring precise amounts of lemon juice, especially in baking or air fryer cooking where accuracy matters. Whether you're making a zesty marinade or a tangy dessert, knowing how to convert 235 ml of lemon juice to cups ensures your dish turns out perfectly every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-bottle-cap-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>No, you should not put bottle caps in an air fryer as they can melt, release toxins, or even catch fire at high temperatures. Air fryers typically operate between 150°C to 200°C (300°F to 400°F), which exceeds the melting point of most plastics and can damage metal caps. This guide explains why bottle caps and air fryers don't mix, along with safer alternatives for your cooking needs.</p>
 

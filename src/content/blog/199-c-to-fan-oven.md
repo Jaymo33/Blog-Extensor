@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/199-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>199°C in a conventional oven converts to approximately 180°C in a fan oven. This 20°C reduction is standard for most fan-assisted cooking, ensuring even heat distribution without overcooking. If you're using an air fryer, which operates similarly to a fan oven, this conversion is especially handy. Many recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use fan oven temperatures for precision. Whether you're baking or roasting, this conversion ensures perfect results every time.</p>
 

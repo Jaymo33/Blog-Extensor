@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-turmeric"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 cup of turmeric weighs approximately 2.4 ounces (68 grams). This measurement is essential for air fryer recipes, ensuring your dishes have the perfect balance of flavour without overpowering spices. Whether you’re making a curry, roasted vegetables, or marinating chicken, accurate turmeric measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precision to help you achieve restaurant-quality results at home. Let’s dive deeper into turmeric measurements and how they impact your cooking.</p>
 

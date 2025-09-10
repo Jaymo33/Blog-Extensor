@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-cups-tomato-ketchup-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of tomato ketchup equals approximately 16 ounces (or 1 pound) in standard UK measurements. This conversion is essential for air fryer recipes, ensuring accurate ingredient portions for perfect results every time. Whether you're whipping up a batch of homemade BBQ sauce or glazing chicken wings, knowing how many ounces are in 2 cups of tomato ketchup keeps your cooking precise.</p>  
 

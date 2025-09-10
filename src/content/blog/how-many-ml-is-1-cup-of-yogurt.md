@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.0 cups of yogurt equals approximately 240 ml in the US measurement system and 284 ml in the UK system. If you're using an air fryer for baking or cooking, precise measurements ensure your recipes turn out just right. Whether you're whipping up a cake, marinating chicken, or preparing a creamy dessert, knowing how to convert cups to ml is essential.</p>  
 

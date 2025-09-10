@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-heavy-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.25 cups of heavy cream equals approximately 768 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up a dessert or a creamy sauce, knowing how many ml is 3.25 cups of heavy cream ensures consistency and perfect results every time.</p>
 

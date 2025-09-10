@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-4-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.4 kg is equal to approximately 7.5 pounds (or 7 pounds and 8 ounces). This conversion is essential for anyone using an air fryer, as many recipes and packaging labels use different measurement systems. Getting your weights right ensures your food cooks evenly, your portions are accurate, and your meal timings are spot on. Whether you're preparing a large batch of chicken or portioning out ingredients for meal prep, knowing how to convert 3.4 kg to pounds is a fundamental kitchen skill. For more handy conversion tools, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our air fryer conversion chart</a>.</p>
 

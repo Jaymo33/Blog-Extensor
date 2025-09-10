@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/8-5-kg-chicken-thighs-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>8.5 kg of chicken thighs is equal to approximately 18.74 pounds. This conversion is essential for anyone preparing large batches of chicken thighs, especially when using an air fryer for efficient and even cooking. Whether you're meal prepping, cooking for a crowd, or simply following a recipe that uses imperial measurements, knowing how to convert 8.5 kg chicken thighs to pounds ensures you get your quantities spot on. Accurate measurements lead to better cooking results and perfectly portioned meals. For more handy conversion tools, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our air fryer conversion chart</a>.</p>
 

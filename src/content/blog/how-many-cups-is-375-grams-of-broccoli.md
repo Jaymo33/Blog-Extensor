@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-broccoli"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>375 grams of broccoli is roughly equivalent to 4.5 to 5 cups when chopped. This measurement can vary slightly depending on how finely the broccoli is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re prepping a veggie stir-fry or roasting florets, knowing this conversion ensures consistent results every time.</p>
 

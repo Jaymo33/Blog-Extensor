@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/5-5-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 5.5 kg beef joint is equivalent to approximately 12.125 pounds, making it a substantial cut ideal for feeding a crowd or meal prepping. This conversion is essential for accurately following recipes, calculating cooking times, and ensuring your roast turns out perfectly juicy and tender. Whether you’re using a traditional oven or an air fryer, knowing the weight in pounds helps you adjust settings and avoid under or overcooking. Many British recipes and cooking guides use imperial measurements, so converting 5.5 kg beef joint to pounds is a practical kitchen skill. For more handy conversion tools, check out the <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> on our site.</p>
 

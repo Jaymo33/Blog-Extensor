@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-condensed-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>685 ml of condensed milk is roughly equivalent to 2.9 cups in the UK and 2.8 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a cake or a creamy dessert, knowing how to convert 685 ml of condensed milk to cups ensures consistency and delicious results every time.</p>  
 

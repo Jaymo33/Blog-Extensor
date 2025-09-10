@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/380-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>380 F converts to approximately 190 C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures while ensuring even cooking. If you're adapting recipes from conventional ovens to air fryers, this conversion is essential for perfect results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions effortlessly. Whether you're cooking chicken, vegetables, or desserts, knowing your 380 F to fan oven equivalent ensures consistency.</p>
 

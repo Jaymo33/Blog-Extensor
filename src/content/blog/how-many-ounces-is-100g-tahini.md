@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>100g of tahini equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and flavour. Whether you’re making dips, dressings, or marinades, knowing how to convert 100g tahini to ounces ensures your dishes turn out perfectly every time.</p>
 

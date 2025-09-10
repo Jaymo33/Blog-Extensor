@@ -8,8 +8,9 @@ tags:
   - "Measurement"
 author: "AirFryerRecipes.co.uk"
 canonical: "https://www.airfryerrecipe.co.uk/blog/1-5-kg-fish-fingers-to-pounds"
-schema: |
-    <script type="application/ld+json">
+
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -189,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 kg of fish fingers is equal to approximately 3.31 pounds. This conversion is essential for air fryer users who want to portion their food correctly, follow recipes accurately, or understand packaging labels from different regions. Whether you're meal prepping, cooking for the family, or just fancy a quick tea, knowing how to convert 1.5 kg fish fingers to pounds can make your life easier. It ensures you don't overcrowd your air fryer basket, which is key to getting that lovely crispy texture we all love. For more handy conversion tips, check out the full guide at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>
 

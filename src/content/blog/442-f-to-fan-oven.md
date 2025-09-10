@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/442-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>442°F converts to approximately 227°C in a fan oven. This high-temperature setting is ideal for roasting meats, baking pizzas, or achieving crispy textures in dishes like air-fried chicken or roasted vegetables. Understanding this conversion ensures your recipes turn out perfectly, whether you're using a conventional fan oven or an air fryer.</p>
 

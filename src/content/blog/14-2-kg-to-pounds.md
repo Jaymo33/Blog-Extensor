@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/14-2-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>14.2 kg is equal to 31.305 pounds. Getting your measurements right is absolutely crucial when you are using an air fryer, as precise ingredient weights ensure everything cooks evenly and comes out perfectly. Whether you are portioning out meat for a family dinner or weighing vegetables for a healthy side, knowing how to convert 14.2 kg to pounds is an essential kitchen skill. This conversion is particularly useful for following recipes from different sources that might use imperial or metric units. For a huge range of recipes that use these measurements, be sure to check out the fantastic collection at <a href="https://www.airfryerrecipe.co.uk/recipes">airfryerrecipe.co.uk/recipes</a>.</p>
 <p>Understanding the conversion from 14.2 kilograms to pounds helps you shop accurately and avoid food waste. Many pre-packaged foods, especially meat and produce, are sold by weight, and these weights can be listed in either unit depending on your location. A digital kitchen scale that can toggle between metric and imperial units is one of the best investments you can make for your kitchen. It takes the guesswork out of cooking and baking, leading to much more consistent and delicious results every single time. This is especially true for air frying, where the correct food mass affects cooking time and temperature.</p>

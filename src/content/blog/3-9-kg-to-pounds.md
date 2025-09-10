@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-9-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3.9 kg is equal to approximately 8.6 pounds, a conversion that is incredibly useful for anyone using an air fryer with recipes that use imperial measurements. Getting this conversion right is the first step to ensuring your ingredients are weighed correctly, which directly impacts cooking times and final results. Whether you're preparing a large batch of chicken wings or a family-sized portion of roast potatoes, accurate measurements are key. This is especially true for air frying, where precision leads to perfectly crispy and evenly cooked food. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

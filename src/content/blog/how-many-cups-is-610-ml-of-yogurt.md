@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-yogurt"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>610 ml of yogurt is approximately 2.57 cups in the US measurement system and roughly 2.15 cups in the UK. This conversion is essential for anyone using yogurt in recipes, especially when baking or preparing meals in an air fryer. Whether you're making a creamy dessert or a savoury marinade, knowing the exact measurement ensures consistency and perfect results every time.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>325 grams of honey is approximately 0.95 cups, or just under 1 cup. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you're whipping up a glaze or sweetening a marinade, knowing how many cups is 325 grams of honey ensures your dish turns out perfectly.</p>
 

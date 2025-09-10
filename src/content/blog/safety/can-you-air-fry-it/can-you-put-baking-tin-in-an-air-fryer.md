@@ -6,8 +6,9 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "safety"
 author: "AirFryerRecipe.co.uk"
-schema: |
-    <script type="application/ld+json">
+
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -205,7 +206,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put a baking tin in an air fryer if it fits properly and is heat-resistant. Most metal baking tins are safe up to 220°C, which covers typical air frying temperatures. However, you must ensure the tin doesn’t block the air fryer’s fan or heating elements.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>110 ml of cream is approximately 0.46 cups. This conversion is essential for anyone using recipes that list ingredients in millilitres but prefer measuring in cups. Whether you're whipping up a dessert or preparing a savoury dish in your air fryer, knowing how to convert 110 ml of cream to cups ensures accuracy and consistency.</p>
 

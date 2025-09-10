@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/262-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>262°F converts to Gas Mark 1 in UK ovens and air fryers. This moderate temperature is ideal for slow cooking, dehydrating, or keeping dishes warm without overcooking. Whether you're adapting a traditional oven recipe for your air fryer or checking baking times, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making temperature conversions hassle-free for home cooks. Let's explore how to use 262 F to Gas Mark effectively.</p>
 

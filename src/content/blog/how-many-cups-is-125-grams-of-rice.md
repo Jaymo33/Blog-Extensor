@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>125 grams of rice equals approximately 0.63 cups in the US measurement system and 0.53 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements ensure even cooking and perfect texture. Whether you're preparing a quick rice dish or using rice as an ingredient in an air fryer meal, knowing how many cups is 125 grams of rice helps avoid guesswork.</p>  
 

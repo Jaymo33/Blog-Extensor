@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-pasta-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating pasta in an air fryer takes just 3–5 minutes at 160°C (320°F), keeping it moist while adding a slight crisp. Unlike microwaving, which can leave pasta soggy, air frying circulates heat evenly, reviving leftovers with better texture. Whether you’re reheating spaghetti, lasagne, or macaroni cheese, your air fryer can handle it—just follow these simple steps for perfect results every time.</p>
 

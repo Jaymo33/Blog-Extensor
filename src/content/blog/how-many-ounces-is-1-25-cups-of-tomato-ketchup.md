@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-tomato-ketchup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of tomato ketchup equals approximately 10 ounces. This conversion is handy when following air fryer recipes that require precise measurements. Whether you're whipping up a batch of <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer chicken wings</a> or a tangy glaze for ribs, knowing the exact weight ensures consistent results every time.</p>
 

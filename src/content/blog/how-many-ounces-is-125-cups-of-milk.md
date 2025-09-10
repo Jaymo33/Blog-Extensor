@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125-cups-of-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.25 cups of milk equals 10 fluid ounces (oz) in the UK and US measurement systems. This conversion is essential for air fryer recipes where precision ensures perfect results every time. Whether you’re whipping up a cake or a creamy sauce, knowing how to convert cups to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it in your air fryer.</p>
 

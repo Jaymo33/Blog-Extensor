@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-gnocchi-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating gnocchi in an air fryer takes just 3-5 minutes at 180°C (350°F), giving you crispy-edged, pillowy-soft results that beat microwaving every time. This method revitalises leftover gnocchi better than any other reheating technique, preserving that perfect al dente texture while adding delightful crunch.</p>
 

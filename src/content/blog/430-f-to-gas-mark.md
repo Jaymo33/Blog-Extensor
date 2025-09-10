@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/430-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>430°F converts to approximately Gas Mark 8, which is the standard equivalent for most ovens and air fryers. This high temperature is perfect for achieving crispy textures when roasting meats or baking pastries. Many modern air fryers display both Fahrenheit and Gas Mark settings, making conversions straightforward. At airfryerrecipe.co.uk, we recommend this temperature for dishes like roast chicken or flaky pastries. Always check your specific appliance manual as some models may vary slightly.</p>
 

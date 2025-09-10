@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/75g-worcestershire-sauce-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>75g of Worcestershire sauce equals approximately 2.65 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for marinades or sauces. Whether you're whipping up a quick glaze or a flavourful base, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-point-5-cups-of-soft-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of soft cheese is equivalent to 12 ounces. This conversion is essential for anyone using an air fryer to create delicious, consistent recipes where precise measurements can make all the difference. Whether you are making a creamy dip, a stuffed chicken breast, or a decadent dessert, knowing the exact weight ensures your dish turns out perfectly every single time. Soft cheese, such as cream cheese or ricotta, is a common ingredient in many air fryer favourites, and getting the amount right is crucial for both texture and flavour. For more handy conversions and tips, be sure to visit <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

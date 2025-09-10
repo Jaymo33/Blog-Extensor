@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-buttermilk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of buttermilk equals approximately 0.042 cups (or roughly 1/24 of a cup). This small measurement is crucial for baking and cooking, especially when using an air fryer where precision can make or break a recipe. Whether you're whipping up pancakes or a tender cake, knowing how to convert 10 ml of buttermilk to cups ensures your dish turns out perfectly.</p>
 

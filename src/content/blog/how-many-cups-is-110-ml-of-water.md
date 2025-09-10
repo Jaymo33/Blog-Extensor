@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-water"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>110 ml of water equals approximately 0.46 cups in the UK or 0.47 cups in the US. This small but precise measurement is crucial for air fryer recipes, where exact liquid ratios can affect texture and cooking times. Whether you’re making cakes, sauces, or marinades, knowing how to convert 110 ml of water to cups ensures consistent results every time.</p>  
 

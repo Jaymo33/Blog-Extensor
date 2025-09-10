@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-golden-syrup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.5 tbsp of golden syrup equals approximately 10.5 grams. This measurement is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're baking cakes or glazing meats, knowing the exact weight helps avoid overly sweet or dry results. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more conversion tips and delicious recipes.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>510 ml of honey is approximately 2.15 cups. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Honey’s thickness can make measuring tricky, but knowing the exact cup equivalent ensures your dishes turn out perfectly every time. Whether you’re making glazes, marinades, or desserts, this conversion will save you time and hassle. Bookmark this guide for quick reference on <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversions</a>.</p>  
 

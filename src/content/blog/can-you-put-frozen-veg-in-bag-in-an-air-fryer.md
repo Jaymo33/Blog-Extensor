@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "frozen"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/can-you-put-frozen-veg-in-bag-in-an-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Yes, you can put frozen vegetables in their bag into an air fryer, but it's not recommended due to potential melting and fire risks. The plastic packaging isn't designed for high heat exposure, which could lead to dangerous situations. For safe air frying, always transfer frozen veg to the air fryer basket or use oven-safe containers instead.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>785 ml of cream is roughly equivalent to 3.3 cups in the UK or 3.1 cups in the US. This conversion is essential for anyone using an air fryer to create creamy desserts, sauces, or baked goods. Precise measurements ensure your recipes turn out perfectly every time, whether you're following a classic British pudding or an American-style cheesecake.</p>
 

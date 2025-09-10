@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-apple-cider-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>60 ml of apple cider vinegar equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements matter. Whether you're whipping up a marinade or a tangy glaze, knowing how many cups 60 ml of apple cider vinegar is will ensure your dish turns out perfectly every time.</p>
 

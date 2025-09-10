@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-balsamic-vinegar"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.5 cups of balsamic vinegar equals approximately 20 fluid ounces (or 19.7 oz to be precise). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re marinating chicken or drizzling over roasted vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time. Understanding these conversions is especially useful for UK cooks who might need to switch between metric and imperial units.</p>
 

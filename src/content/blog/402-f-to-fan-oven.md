@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/402-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>402°F converts to approximately 205°C in a fan oven. This temperature is ideal for achieving crispy, evenly cooked results in both air fryers and fan-assisted ovens. Whether you're adapting recipes or troubleshooting cooking times, understanding this conversion ensures your dishes turn out perfectly every time.</p>
 

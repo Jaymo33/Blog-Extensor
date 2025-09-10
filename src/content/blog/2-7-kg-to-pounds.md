@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/2-7-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2.7 kg is equal to 5.95248 pounds, or roughly 5 pounds and 15.24 ounces. This conversion is essential for anyone using an air fryer, especially when following recipes that use imperial measurements or when portioning ingredients correctly. Getting your weights right ensures your food cooks evenly and comes out perfectly crispy every single time. Whether you're preparing a large family meal or meal prepping for the week, knowing how to convert 2.7 kg to pounds is a fundamental kitchen skill. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 

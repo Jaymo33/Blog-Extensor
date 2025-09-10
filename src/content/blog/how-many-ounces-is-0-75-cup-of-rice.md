@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>0.75 cup of standard long grain white rice weighs approximately 5.3 ounces. This conversion is essential for anyone using an air fryer, as precise measurements lead to perfectly cooked rice dishes every single time. Whether you are meal prepping or cooking a family dinner, knowing this weight ensures consistency. Understanding how many ounces is 0.75 cup of rice removes the guesswork from your kitchen routine. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>
 <p>Rice is a staple in many households, and its weight can vary slightly depending on the type. However, for standard uncooked long grain white rice, 0.75 cup is reliably around the 5.3-ounce mark. This measurement is crucial when you are adapting stovetop recipes for your air fryer. The air fryer's intense, circulating heat requires accurate ingredient ratios for the best texture and taste. Getting the 0.75 cup rice to ounces conversion right is the first step to a successful dish.</p>

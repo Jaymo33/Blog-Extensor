@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/20g-wholemeal-flour-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>20g of wholemeal flour equals approximately 0.705 ounces. Whether you're baking bread, muffins, or air fryer treats, getting the measurements right is crucial for perfect results. Wholemeal flour, with its nutty flavour and dense texture, is a staple in many kitchens, especially for those who love healthier baking options. If you're using an air fryer for recipes like wholemeal flour-based cookies or cakes, precise measurements ensure even cooking. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>
 

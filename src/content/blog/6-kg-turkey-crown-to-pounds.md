@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-kg-turkey-crown-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 6 kg turkey crown converts to approximately 13.23 pounds, making it a substantial cut perfect for family gatherings and holiday feasts. This conversion is essential for those using air fryers, as knowing the exact weight helps determine cooking times and temperatures accurately. Whether you're planning a Christmas dinner or a special Sunday roast, understanding this measurement ensures your turkey crown cooks evenly and deliciously. Many recipes, especially those on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, provide instructions based on pound measurements, so converting from kilograms is a handy skill. Getting this right means your turkey will be juicy, tender, and perfectly cooked every time.</p>
 

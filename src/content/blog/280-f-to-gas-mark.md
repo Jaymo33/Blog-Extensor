@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/280-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 280 F in Gas Mark?</h2>
 <p>280°F converts to Gas Mark 1 in UK ovens. This is a low-temperature setting ideal for slow cooking or gentle baking. If you're using an air fryer, you might need to adjust the time slightly as air fryers cook faster than conventional ovens. For precise results, always check your food halfway through cooking. You can find more air fryer conversion tips at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a>.</p>

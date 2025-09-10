@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-beef-stock"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>460 ml of beef stock equals approximately 1.94 cups in the UK or 1.95 cups in the US. This conversion ensures you get the right consistency for soups, stews, or sauces in your air fryer recipes. Precise measurements matter, especially when working with rich ingredients like beef stock, as too much or too little can alter the dish’s flavour and texture.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/156-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>156 C in a fan oven is equivalent to approximately 140 C when using the convection setting. This 10-20% reduction is standard for fan-assisted cooking, whether you're using a traditional oven or an air fryer. The circulating hot air in fan ovens cooks food more efficiently, meaning you'll often get better results at slightly lower temperatures. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this conversion for everything from cakes to roasted vegetables.</p>
 

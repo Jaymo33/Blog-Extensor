@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/3-kg-beef-joint-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>A 3 kg beef joint equals approximately 6.61 pounds, making it a substantial cut perfect for roasting in your air fryer. This conversion is essential for accurate cooking times and temperature settings when preparing a delicious Sunday roast or special occasion meal. Understanding weight conversions helps ensure your beef joint cooks evenly and reaches the perfect level of doneness throughout. Many air fryer recipes use pound measurements, so knowing this conversion opens up a world of culinary possibilities. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>
 

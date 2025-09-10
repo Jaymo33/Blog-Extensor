@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-tomato-ketchup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.5 cups of tomato ketchup equals approximately 12 ounces (340 grams) in UK measurements. This conversion is essential when preparing air fryer recipes that require precise amounts of ketchup for glazes, sauces or marinades. Whether you're making <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>air fryer chicken wings</a> or homemade burgers, getting the measurements right ensures perfect results every time.</p>
 

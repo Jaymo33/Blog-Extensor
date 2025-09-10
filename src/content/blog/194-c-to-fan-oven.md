@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/194-c-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>194 C converts to approximately 170 C in a fan oven. This is because fan ovens circulate hot air, allowing you to reduce the temperature by around 20-25 degrees while maintaining the same cooking results. Whether you're using a conventional oven or an air fryer, understanding this conversion is key to perfect dishes every time.</p>
 

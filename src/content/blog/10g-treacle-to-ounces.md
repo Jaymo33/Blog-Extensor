@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10g-treacle-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10g of treacle equals approximately 0.35 ounces. This conversion is handy for UK bakers and air fryer enthusiasts who need precise measurements for recipes. Treacle, a staple in British desserts like parkin or treacle tart, often requires accurate weighing for perfect results. Whether you’re using an air fryer or a conventional oven, knowing how many ounces 10g of treacle is ensures your dish turns out just right. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
 

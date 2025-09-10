@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/34-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>34 kg equals exactly 74.96 pounds, which is crucial information when preparing ingredients for your air fryer. Whether you're measuring meat, vegetables, or frozen foods, accurate conversions ensure perfect cooking results every time. Many air fryer recipes use imperial measurements, so knowing how to convert 34 kg to pounds helps you follow instructions precisely. This conversion is particularly useful when dealing with larger quantities or meal prepping for families. Getting your measurements right from the start means your air fryer will cook everything evenly and efficiently.</p>
 

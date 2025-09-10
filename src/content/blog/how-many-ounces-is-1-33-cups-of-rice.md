@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.33 cups of rice is approximately 10.64 ounces. This conversion is essential for anyone using an air fryer, as precise measurements ensure your rice cooks evenly and comes out perfectly every single time. Whether you're making a quick side dish or a more elaborate meal, knowing exactly how many ounces is 1.33 cups of rice takes the guesswork out of your cooking. Getting this measurement right is the first step towards a flawless air fryer recipe, and it's a question we see all the time here at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>. Let's dive into the details so you can cook with complete confidence.</p>
 

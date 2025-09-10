@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/1-kg-whole-chicken-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 kg whole chicken equals approximately 2.2 pounds, making it a perfect size for most air fryer baskets. This conversion is essential for British cooks who follow recipes using imperial measurements or need to adjust cooking times. Whether you're preparing a Sunday roast or a quick weekday dinner, knowing this conversion ensures your chicken cooks evenly. Many air fryer recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> provide measurements in both metric and imperial for convenience. Understanding this basic conversion opens up a world of culinary possibilities with your appliance.</p>
 

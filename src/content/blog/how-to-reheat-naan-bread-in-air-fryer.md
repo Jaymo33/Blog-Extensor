@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-naan-bread-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat naan bread in an air fryer, set it to 160°C (320°F) and warm for 2-3 minutes. This method restores the bread’s soft interior while adding a light crisp to the exterior, mimicking fresh-from-the-oven quality. Whether you’ve got leftover garlic naan or plain, your air fryer can bring it back to life without drying it out.</p>
 

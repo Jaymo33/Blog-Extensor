@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/6-kg-chicken-wings-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>6 kg of chicken wings converts to approximately 13.23 pounds, making it essential knowledge for anyone preparing large batches in their air fryer. This conversion is particularly useful when following recipes from different measurement systems or when buying in bulk. Getting the weight right ensures your cooking times and seasoning ratios are perfect every single time. Whether you're hosting a party or simply stocking up the freezer, understanding this conversion takes the guesswork out of meal preparation. For more helpful conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>
 

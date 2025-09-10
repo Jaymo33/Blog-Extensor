@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-lime-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1.75 cups of lime juice?</h2>
 <p>1.75 cups of lime juice equals 14 fluid ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken or whipping up a zesty dressing, knowing this conversion ensures consistency. Lime juice is a staple in many recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, from tangy marinades to refreshing desserts. Get your measurements right, and your dishes will shine every time.</p>

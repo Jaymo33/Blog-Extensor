@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 cups of cottage cheese equals approximately 16 ounces (or 1 pound) in UK measurements. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making a cheesy bake or a protein-packed snack, knowing the weight of cottage cheese helps with consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make cooking effortless. Keep reading to learn why this measurement matters and how to use it in your air fryer dishes.</p>  
 

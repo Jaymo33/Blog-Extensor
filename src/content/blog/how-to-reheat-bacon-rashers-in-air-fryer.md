@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bacon-rashers-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>Reheating bacon rashers in an air fryer takes just 2-3 minutes at 180°C, giving you perfectly crispy results without drying out the meat. This method beats microwaving hands down, preserving that irresistible texture we all love in properly cooked bacon. Whether you're dealing with leftovers from breakfast or pre-cooked bacon for meal prep, your air fryer is the secret weapon for bringing it back to life.</p>
 

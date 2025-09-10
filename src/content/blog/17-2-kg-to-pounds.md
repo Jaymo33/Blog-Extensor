@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/17-2-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>17.2 kg is equal to approximately 37.92 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, bulk meal prep, or frozen food packages that use metric measurements. Getting your weights right ensures even cooking and perfect results every time. Whether you're roasting a joint or preparing multiple portions, knowing how to convert 17.2 kg to pounds is a fundamental kitchen skill. For more handy conversion tools, check out the <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>
 

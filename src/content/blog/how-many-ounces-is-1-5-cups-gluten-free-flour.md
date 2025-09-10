@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-gluten-free-flour"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 1.5 cups of gluten-free flour?</h2>  
 <p>1.5 cups of gluten-free flour equals approximately 6.35 ounces (180 grams). This conversion is essential for baking, especially when using an air fryer, where precise measurements ensure even cooking. Gluten-free flour behaves differently than regular flour, so getting the weight right matters. Whether you’re making air fryer cookies or cakes, knowing this conversion helps avoid dry or dense results. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

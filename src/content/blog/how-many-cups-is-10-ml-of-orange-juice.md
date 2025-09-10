@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-orange-juice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of orange juice equals approximately 0.042 cups. This small measurement is often used in air fryer recipes for glazes, marinades, or dressings. Precise conversions ensure your dishes turn out perfectly every time. Whether you're whipping up a citrusy glaze for chicken or adding a splash to a cake batter, knowing this conversion is key. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more air fryer measurement guides.</p>
 

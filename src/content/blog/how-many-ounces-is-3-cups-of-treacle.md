@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-treacle"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>3 cups of treacle equals approximately 24 ounces. This conversion is essential for precise baking or cooking, especially when using an air fryer where measurements matter. Treacle, a thick syrup popular in British baking, can vary slightly in density, but this standard conversion ensures accuracy. Whether you're making gingerbread or sticky toffee pudding, knowing how many ounces are in 3 cups of treacle helps avoid recipe mishaps. For more air fryer conversions, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our handy chart</a>.</p>  
 

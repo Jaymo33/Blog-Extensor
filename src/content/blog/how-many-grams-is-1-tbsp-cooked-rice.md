@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cooked-rice"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 tablespoon (tbsp) of cooked rice weighs approximately 12 grams. This measurement is essential for precise portion control, especially when preparing meals in your air fryer. Whether you're meal prepping or following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, knowing this conversion helps maintain consistency.</p>
 

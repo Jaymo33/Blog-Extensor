@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-prawns-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat prawns in an air fryer, set the temperature to 160°C (320°F) for 2-3 minutes until piping hot. This gentle heat prevents overcooking while restoring crispness to battered or breaded prawns. Whether you're working with leftovers from last night's curry or refrigerated cocktail prawns, your air fryer can revive them better than a microwave.</p>
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/252-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>252°F converts to Gas Mark 1/2 (½) in UK ovens and air fryers. This precise conversion helps when adapting recipes between different cooking appliances, especially when using an air fryer for traditional oven dishes. At airfryerrecipe.co.uk, we specialise in making these temperature conversions simple for home cooks.</p>
 

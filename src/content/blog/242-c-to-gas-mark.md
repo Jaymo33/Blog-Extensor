@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/242-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>242°C converts to Gas Mark 9, the standard high-heat setting for ovens and air fryers. This temperature is ideal for roasting meats, baking crusty bread, or achieving crispy textures in your air fryer. Whether you're adapting a traditional recipe or experimenting with air fryer settings, knowing this conversion ensures perfect results every time.</p>
 

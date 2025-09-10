@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-coconut-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>960 ml of coconut oil equals approximately 4 cups in both UK and US measurements. This conversion is essential for baking, frying, or air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a batch of cookies or crisping chicken in your air fryer, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions straightforward so you can focus on cooking. Let’s dive deeper into how this measurement works and why it’s useful for air fryer recipes.</p>  
 

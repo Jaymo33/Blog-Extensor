@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/251-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>Understanding 251 F to Gas Mark Conversion</h2>
 <p>251°F converts to Gas Mark ½, which is the standard equivalent for this temperature. This conversion is particularly useful when adapting traditional oven recipes for your air fryer. Many air fryer users find themselves needing to convert between Fahrenheit and Gas Mark, especially when following British recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking temperatures carefully as air fryers cook faster than conventional ovens. The 251 F to Gas Mark conversion becomes essential for delicate baking where precise temperature control matters.</p>

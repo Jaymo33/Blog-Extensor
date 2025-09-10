@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-quinoa"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15 grams of quinoa equals approximately 0.53 ounces. Whether you're preparing a healthy air fryer meal or measuring ingredients for meal prep, knowing this conversion ensures accuracy. Quinoa is a versatile ingredient, often used in salads, sides, and even <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>, so getting the measurements right matters.</p>  
 

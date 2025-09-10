@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-harissa-paste"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>How many ounces is 0.25 cup of harissa paste?</h2>
 <p>0.25 cup of harissa paste equals approximately 2 ounces. This measurement is crucial for air fryer recipes where precise ingredient quantities can make or break a dish. Harissa paste, a spicy North African condiment, adds depth and heat to marinades, sauces, and rubs. Whether you're cooking chicken, lamb, or vegetables in your air fryer, knowing this conversion ensures consistent flavour. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

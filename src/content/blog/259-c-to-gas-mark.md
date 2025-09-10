@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/259-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>259°C converts to Gas Mark 10, which is the highest setting on most UK ovens. This high temperature is perfect for professional-style baking and achieving crispy results in your air fryer. Whether you're making puff pastry, Yorkshire puddings, or roasting vegetables, knowing this conversion ensures your dishes cook perfectly every time.</p>
 

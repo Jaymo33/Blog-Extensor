@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-olive-oil"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>485 ml of olive oil equals approximately 2.05 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're following a dish from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adjusting a family favourite, knowing how to convert 485 ml of olive oil to cups ensures consistency.</p>
 

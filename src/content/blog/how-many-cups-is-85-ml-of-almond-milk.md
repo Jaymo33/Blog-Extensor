@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>85 ml of almond milk equals approximately 0.36 cups in the UK or 0.35 cups in the US. This conversion is handy for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>
 

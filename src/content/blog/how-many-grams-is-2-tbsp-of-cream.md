@@ -5,8 +5,11 @@ pubDate: 2025-08-04T00:00:00.000Z
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-cream"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -182,7 +185,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>2 tablespoons (tbsp) of cream weigh approximately 30 grams. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're whipping up a creamy sauce or baking a dessert, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>
 

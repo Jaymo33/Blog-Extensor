@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-rolled-oats"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>425 grams of rolled oats equals approximately 4.25 cups when measured using standard UK or US cup measurements. This conversion is essential for anyone using rolled oats in recipes, especially when preparing air fryer-friendly meals. Whether you're baking oat cookies or making granola in your air fryer, knowing the exact measurement ensures perfect results every time.</p>  
 

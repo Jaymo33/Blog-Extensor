@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-tomato-ketchup"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1 cup of tomato ketchup equals approximately 8.5 ounces. This measurement is crucial when preparing sauces, glazes, or marinades for your air fryer recipes. Getting the quantities right ensures consistent flavour and texture in dishes like <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer chicken wings</a> or homemade burgers.</p>
 

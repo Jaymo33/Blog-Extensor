@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/15g-almond-butter-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>15 grams of almond butter is equal to approximately 0.53 ounces. This conversion is handy when following air fryer recipes that require precise measurements, especially for baking or creating nut-based sauces. Whether you're whipping up a batch of almond butter cookies or adding a creamy touch to your air fryer desserts, knowing this conversion ensures accuracy.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>25g of porridge oats equals approximately 0.88 ounces. This conversion is essential for anyone using an air fryer to prepare breakfast recipes, ensuring accurate measurements for perfect results every time. Whether you're making overnight oats or a quick morning porridge, knowing how to convert grams to ounces can make all the difference.</p>
 

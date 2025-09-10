@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/478-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>478 F converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is perfect for professional-style baking, achieving crisp results in air fryers, or creating the perfect roast. Whether you're following an American recipe or adjusting your air fryer settings, knowing this conversion is essential for cooking success.</p>
 

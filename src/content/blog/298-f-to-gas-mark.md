@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/298-f-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>298°F converts to Gas Mark 2 for oven cooking, which translates perfectly to air fryer temperatures. This conversion is essential when adapting traditional oven recipes for your air fryer, ensuring your dishes cook evenly and come out perfectly every time. Whether you're baking, roasting, or reheating, knowing this temperature equivalent helps bridge the gap between conventional and air fryer cooking methods.</p>
 

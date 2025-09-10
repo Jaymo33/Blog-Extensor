@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-tomato-sauce"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10 ml of tomato sauce equals approximately 0.042 cups (or roughly 1/24 of a cup). This small measurement is often used in air fryer recipes for sauces, dressings, or marinades where precision matters. Whether you're preparing a quick pasta dish or a flavourful glaze, knowing this conversion ensures your meals turn out just right.</p>  
 

@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "conversions"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/10-8-kg-to-pounds"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>10.8 kilograms is equal to approximately 23.81 pounds. This conversion is crucial for anyone using an air fryer, as many recipes, especially those from international sources or for larger batches, list ingredients by weight. Getting your measurements right from the start ensures your food cooks evenly, crisps perfectly, and delivers the fantastic results you expect from your appliance. Whether you're meal prepping a large quantity of chicken or portioning out potatoes for a family feast, knowing that 10.8 kg to pounds is 23.81 lbs gives you the confidence to scale recipes accurately. For a comprehensive guide on all things conversion, always refer back to the handy resources at <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>.</p>
 

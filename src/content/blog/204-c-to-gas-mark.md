@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/204-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <h2>What is 204 C to Gas Mark?</h2>
 <p>204°C converts to Gas Mark 6, a common setting for roasting and baking. This temperature is ideal for dishes like roast chicken, cakes, and casseroles. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend checking your appliance’s manual for slight variations. Gas Mark 6 delivers steady, even heat, making it a versatile choice for many recipes.</p>

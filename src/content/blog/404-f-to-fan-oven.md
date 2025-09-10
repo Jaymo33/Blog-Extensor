@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "fanoven"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/404-f-to-fan-oven"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>404 F converts to approximately 207 C in a fan oven. This is a moderately high temperature perfect for roasting vegetables, baking crispy chicken, or achieving golden-brown finishes on your favourite dishes. When using an air fryer, you'll often find similar results at slightly lower temperatures due to the concentrated heat circulation.</p>
 

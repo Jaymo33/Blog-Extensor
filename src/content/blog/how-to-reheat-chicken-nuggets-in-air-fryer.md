@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "reheat"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-chicken-nuggets-in-air-fryer"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>To reheat chicken nuggets in an air fryer, set the temperature to 180°C (350°F) and cook for 3-5 minutes. This method restores crispiness better than microwaving while preventing the rubbery texture that plagues reheated fast food. Your air fryer circulates hot air to evenly crisp every nugget without needing extra oil.</p>
 

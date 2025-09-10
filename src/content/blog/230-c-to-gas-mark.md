@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "gasmark"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/230-c-to-gas-mark"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -146,7 +149,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>230 C converts to Gas Mark 8, a common setting for roasting meats, baking pastries, and achieving crispy results in both ovens and air fryers. This temperature is ideal for dishes that need a high heat to develop colour and texture, from Sunday roasts to flaky pastries. Whether you're using a conventional oven or an air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt oven recipes for air fryers with ease. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>
 

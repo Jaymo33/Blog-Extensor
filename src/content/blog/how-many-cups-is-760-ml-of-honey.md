@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "measurement"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>760 ml of honey is approximately 3.2 cups in standard US measurements or 3.3 cups in UK measurements. This conversion is essential for baking, cooking, or air frying recipes where precision matters. Whether you're whipping up a glaze for air-fried chicken or a sweet drizzle for desserts, knowing the exact measurement ensures perfect results every time. Visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more handy conversion tips and delicious recipes.</p>  
 

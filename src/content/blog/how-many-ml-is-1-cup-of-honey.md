@@ -6,8 +6,11 @@ heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Sh
 tags:
   - "volume"
 author: "AirFryerRecipes.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-honey"
 schema: |
-    <script type="application/ld+json">
+  <!-- Schema will be generated automatically -->
+---
+<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -187,7 +190,6 @@ schema: |
     }
 }
 </script>
----
 
 <p>1.0 cups of honey equals approximately 340 millilitres (ml). This conversion is essential for accurate baking and cooking, especially when using an air fryer where precision can make or break a dish. Whether you're whipping up a glaze, marinade, or dessert, knowing the exact ml measurement ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we believe precise measurements are the key to perfect results. Let’s dive deeper into honey conversions and how they impact your air fryer cooking.</p>
 
