@@ -53,37 +53,37 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-            ""@type": "Question",
-            ""name": "Can I use honey instead of 0.375 cup agave syrup in air fryer recipes?",
+            "@type": "Question",
+            "name": "Can I use honey instead of 0.375 cup agave syrup in air fryer recipes?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, you can substitute honey for agave syrup in a 1:1 ratio, but be aware that honey has a stronger flavour and may brown faster in the air fryer. Reduce the temperature slightly and check your food earlier to prevent overcaramelisation."
         }
         },
     {
-            ""@type": "Question",
-            ""name": "How do I clean sticky agave syrup from my air fryer basket?",
+            "@type": "Question",
+            "name": "How do I clean sticky agave syrup from my air fryer basket?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "Mix warm water with a mild detergent and let the basket soak for 10-15 minutes. Use a soft sponge to gently remove residue, then rinse thoroughly. For stubborn spots, a paste of baking soda and water works well—just avoid abrasive scrubbers that could damage the non-stick coating."
         }
         },
     {
-            ""@type": "Question",
-            ""name": "Is 0.375 cup of agave syrup the same weight as other liquids?",
+            "@type": "Question",
+            "name": "Is 0.375 cup of agave syrup the same weight as other liquids?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "No, different liquids have different densities. While 0.375 cup of water weighs about 3 ounces, thicker liquids like agave syrup may vary slightly. Always check specific conversion charts for accurate measurements, especially in air fryer cooking where precision matters."
         }
         },
     {
-            ""@type": "Question",
-            ""name": "Can I reduce the amount of agave syrup in my air fryer recipe?",
+            "@type": "Question",
+            "name": "Can I reduce the amount of agave syrup in my air fryer recipe?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "Absolutely! If you prefer less sweetness, start by reducing the 0.375 cup measurement by half and adjust to taste. Remember that reducing sweeteners may affect texture in baked goods, so consider adding a bit more moisture (like applesauce) to compensate."
         }
         }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "WebPage",
-            ""name": "How many ounces is 0.375 cup of agave syrup?",
-            ""url": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces",
+            "@type": "WebPage",
+            "name": "How many ounces is 0.375 cup of agave syrup?",
+            "url": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces",
     "description": "Discover how to convert 0.375 cup of agave syrup to ounces for precise air fryer recipes. Perfect measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "BreadcrumbList",
-            ""name": "Breadcrumbs",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces#breadcrumbs",
     "itemListElement": [
     {
-            ""@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-            ""name": "Home",
+            "name": "Home",
     "item": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
         }
         },
     {
-            ""@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-            ""name": "blogs",
+            "name": "blogs",
     "item": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
         }
         },
     {
-            ""@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-            ""name": "How many ounces is 0.375 cup of agave syrup?",
+            "name": "How many ounces is 0.375 cup of agave syrup?",
     "item": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces"
         }
         }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "WebSite",
-            ""url": "https://www.airfryerrecipe.co.uk",
-            ""name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
         }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "Organization",
-            ""name": "Air Fryer Recipes",
-            ""url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            ""@type": "ImageObject",
-            ""url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
         },
     "areaServed": [
     {
-            ""@type": "Country",
-            ""name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
         },
     {
-            ""@type": "Country",
-            ""name": "United States"
+            "@type": "Country",
+            "name": "United States"
         }
     ],
     "contactPoint": {
-            ""@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",

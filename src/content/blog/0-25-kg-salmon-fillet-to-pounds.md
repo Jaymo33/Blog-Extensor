@@ -10,40 +10,40 @@ schema: |
     <script type="application/ld+json">d+json">
     {
     "@context": "https://schema.org",
-            ""@type": "BlogPosting",
-            ""url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds",
+            "@type": "BlogPosting",
+            "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds",
     "mainEntityOfPage": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds"
         },
     "headline": "Quick 0.25 kg Salmon Fillet to Pounds Conversion Guide",
     "description": "Convert 0.25 kg salmon fillet to pounds easily for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
     "author": {
-            ""@type": "Person",
-            ""name": "AirFryerRecipes.co.uk",
-            ""url": "https://www.airfryerrecipe.co.uk/about",
-            ""image": {
-            ""@type": "ImageObject",
-            ""url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+            "@type": "Person",
+            "name": "AirFryerRecipes.co.uk",
+            "url": "https://www.airfryerrecipe.co.uk/about",
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
         },
     "publisher": {
-            ""@type": "Organization",
-            ""name": "Air Fryer Recipe",
+            "@type": "Organization",
+            "name": "Air Fryer Recipe",
     "logo": {
-            ""@type": "ImageObject",
-            ""url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
         },
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00",
-            ""image": {
-            ""@type": "ImageObject",
-            ""url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-salmon-fillet-to-pounds.webp"
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-salmon-fillet-to-pounds.webp"
         },
     "about": {
-            ""@type": "Thing",
-            ""name": "Measurement"
+            "@type": "Thing",
+            "name": "Measurement"
         },
     "articleSection": "Measurement",
     "inLanguage": "en-GB"
@@ -53,37 +53,37 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "FAQPage",
+            "@type": "FAQPage",
     "mainEntity": [
     {
-            ""@type": "Question",
-            ""name": "How do I convert 0.25 kg salmon fillet to pounds without a calculator?",
+            "@type": "Question",
+            "name": "How do I convert 0.25 kg salmon fillet to pounds without a calculator?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "You can easily convert 0.25 kg salmon fillet to pounds by remembering that 1 kilogram is approximately 2.2 pounds. So, 0.25 kg multiplied by 2.2 gives you 0.55 pounds. This quick mental math is handy when you're in the kitchen and need a fast conversion. For more precise measurements, using a digital scale with unit conversion is always best."
         }
         },
     {
-            ""@type": "Question",
-            ""name": "Why is it important to know the weight of my salmon fillet in pounds for air frying?",
+            "@type": "Question",
+            "name": "Why is it important to know the weight of my salmon fillet in pounds for air frying?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "Knowing the weight of your salmon fillet in pounds is crucial for air frying because cooking times are often based on weight. A 0.25 kg salmon fillet (0.55 pounds) will cook faster than a heavier piece, so accurate measurement ensures perfect results. It also helps you follow recipes correctly, especially those using imperial measurements. This precision prevents under or overcooking, giving you delicious, flaky salmon every time."
         }
         },
     {
-            ""@type": "Question",
-            ""name": "Can I use this conversion for other types of fish in the air fryer?",
+            "@type": "Question",
+            "name": "Can I use this conversion for other types of fish in the air fryer?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "Yes, the conversion from kilograms to pounds applies to all types of fish, not just salmon. Whether you're cooking cod, tuna, or white fish, 0.25 kg will always be approximately 0.55 pounds. This consistency makes it easy to adapt recipes and cooking times for different fish. Always adjust air fryer settings based on the specific fish's thickness and density for best results."
         }
         },
     {
-            ""@type": "Question",
-            ""name": "How does the conversion change if I need to know 0.25 kg salmon fillet in pounds and ounces?",
+            "@type": "Question",
+            "name": "How does the conversion change if I need to know 0.25 kg salmon fillet in pounds and ounces?",
     "acceptedAnswer": {
-            ""@type": "Answer",
+            "@type": "Answer",
     "text": "0.25 kg salmon fillet is about 0.55 pounds, which converts to 8.8 ounces. This is useful for recipes that require more precise measurements in smaller units. To calculate, multiply the pound value by 16 (since there are 16 ounces in a pound). So, 0.55 pounds x 16 = 8.8 ounces. This level of detail can help with portion control and accurate seasoning."
         }
         }
@@ -94,9 +94,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "WebPage",
-            ""name": "0.25 kg salmon fillet to pounds",
-            ""url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds",
+            "@type": "WebPage",
+            "name": "0.25 kg salmon fillet to pounds",
+            "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds",
     "description": "Convert 0.25 kg salmon fillet to pounds easily for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
@@ -107,35 +107,35 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "BreadcrumbList",
-            ""name": "Breadcrumbs",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds#breadcrumbs",
+            "@type": "BreadcrumbList",
+            "name": "Breadcrumbs",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
     {
-            ""@type": "ListItem",
+            "@type": "ListItem",
     "position": 1,
-            ""name": "Home",
+            "name": "Home",
     "item": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk"
         }
         },
     {
-            ""@type": "ListItem",
+            "@type": "ListItem",
     "position": 2,
-            ""name": "blogs",
+            "name": "blogs",
     "item": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog"
         }
         },
     {
-            ""@type": "ListItem",
+            "@type": "ListItem",
     "position": 3,
-            ""name": "0.25 kg salmon fillet to pounds",
+            "name": "0.25 kg salmon fillet to pounds",
     "item": {
-            ""@type": "WebPage",
-            ""@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds"
+            "@type": "WebPage",
+            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-salmon-fillet-to-pounds"
         }
         }
     ]
@@ -145,9 +145,9 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "WebSite",
-            ""url": "https://www.airfryerrecipe.co.uk",
-            ""name": "Air Fryer Recipes",
+            "@type": "WebSite",
+            "url": "https://www.airfryerrecipe.co.uk",
+            "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
         }
@@ -156,25 +156,25 @@ schema: |
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
-            ""@type": "Organization",
-            ""name": "Air Fryer Recipes",
-            ""url": "https://www.airfryerrecipe.co.uk",
+            "@type": "Organization",
+            "name": "Air Fryer Recipes",
+            "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            ""@type": "ImageObject",
-            ""url": "https://www.airfryerrecipe.co.uk/brand"
+            "@type": "ImageObject",
+            "url": "https://www.airfryerrecipe.co.uk/brand"
         },
     "areaServed": [
     {
-            ""@type": "Country",
-            ""name": "United Kingdom"
+            "@type": "Country",
+            "name": "United Kingdom"
         },
     {
-            ""@type": "Country",
-            ""name": "United States"
+            "@type": "Country",
+            "name": "United States"
         }
     ],
     "contactPoint": {
-            ""@type": "ContactPoint",
+            "@type": "ContactPoint",
     "contactType": "customer support",
     "areaServed": [
     "GB",
