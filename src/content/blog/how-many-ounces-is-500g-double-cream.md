@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-double-cream"
-  },
+        },
         "headline": "Quick 500g double cream to ounces conversion for UK cooks",
         "description": "Convert 500g of double cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-double-cream.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute single cream, the results will differ. Double cream has about 48% fat content compared to single cream's 18%, meaning it's thicker and more stable when heated. For best results in air fryer recipes, stick to the specified cream type or adjust cooking times accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 500g of double cream to cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "500g of double cream is roughly 2¼ UK cups or 2 US cups. However, we recommend weighing for accuracy as cream density can vary. For air fryer recipes where precision matters, use digital scales or our conversion chart for the most reliable results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify weight instead of volume for cream?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight measurements are more accurate because cream's volume can change with temperature and handling. 500g of double cream will always be 500g, but its cup measurement might vary slightly. This precision is especially important in air fryer cooking where exact quantities affect cooking times and textures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze leftover 500g portions of double cream?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can freeze double cream, though the texture may become slightly grainy when thawed. It's best used in cooked dishes after freezing rather than for whipping. Portion your 500g into recipe-sized amounts before freezing for convenience. Thaw in the refrigerator overnight before use."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-double-cream"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

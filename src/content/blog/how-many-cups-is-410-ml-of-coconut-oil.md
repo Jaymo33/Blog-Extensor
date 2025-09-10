@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-coconut-oil"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 410 ml of Coconut Oil?",
         "description": "Discover how to convert 410 ml of coconut oil to cups for perfect baking and air frying every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-410-ml-of-coconut-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 410 ml of coconut oil equals approximately 1.73 cups in both the UK and US. While the UK typically uses metric measurements, standard cup sizes are the same internationally for cooking. Always use a liquid measuring cup for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use solid coconut oil instead of melted for measuring 410 ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For precise measurements, it's best to melt solid coconut oil before measuring 410 ml (1.73 cups). Melted oil ensures an accurate pour, especially for baking and air frying. Solid oil can vary in density, leading to inconsistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 410 ml of coconut oil affect air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Using 410 ml (1.73 cups) of coconut oil in an air fryer ensures even coating and crispiness. Too much oil can make food greasy, while too little may dry it out. Stick to the measurement for perfect air-fried dishes every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the weight equivalent of 410 ml of coconut oil in grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "410 ml of coconut oil weighs roughly 380 grams. While cups are convenient for measuring liquids, grams provide precision for baking. Use a kitchen scale if your recipe calls for weight measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-coconut-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

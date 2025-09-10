@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-butter-wrapper-in-air-fryer"
-  },
+        },
         "headline": "Butter Wrapper in Air Fryer: Safety & Risks Explained",
         "description": "Wondering if you can put a butter wrapper in an air fryer? Learn the risks, safety tips, and alternatives for air frying with butter.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T23:30:57.071Z",
         "dateModified": "2025-07-22T23:30:57.071Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-butter-wrapper-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, Ninja specifically advises against using butter wrappers in their air fryers. The company's manuals state that only approved parchment or silicone liners should be used to prevent fire hazards and maintain warranty coverage."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What temperature makes butter wrappers melt in air fryers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Butter wrappers typically begin melting around 120-150°C, well below most air frying temperatures. The wax coating liquefies first, followed by the paper potentially scorching or igniting at higher heats common in air fryer cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any butter wrappers safe for air fryers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Currently, no major manufacturers produce butter wrappers rated for air fryer use. Always opt for purpose-made air fryer parchment or silicone mats instead, which are designed to withstand the appliance's intense circulating heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I clean my air fryer after accidental butter wrapper use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First ensure the unit is completely cool. Remove any visible paper fragments, then wash the basket with warm soapy water. For wax residue, use a baking soda paste or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> before running an empty cycle to eliminate odours."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-butter-wrapper-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

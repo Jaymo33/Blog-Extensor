@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-oat-milk"
-  },
+        },
         "headline": "Quick Conversion: How Many ml Is 1.25 Cups of Oat Milk?",
         "description": "Convert 1.25 cups of oat milk to ml effortlessly with our simple guide—perfect for air fryer recipes and baking accuracy.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T21:44:47.209Z",
         "dateModified": "2025-07-28T21:44:47.209Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-25-cups-of-oat-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 1.25 cups of oat milk and regular milk both equal roughly 296 ml in volume. While oat milk is slightly denser, the difference is negligible for most recipes. Always measure liquids in a jug for accuracy, especially in air fryer cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for oat milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A kitchen scale isn’t ideal for liquids like oat milk because ml measurements are based on volume, not weight. For 1.25 cups (296 ml), a liquid measuring jug is best. If you must use a scale, note that 296 ml of oat milk weighs about 300 grams, but this can vary by brand."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do air fryer recipes sometimes specify ml instead of cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Ml measurements are more precise, which is crucial for air fryer cooking where excess liquid can affect crispiness. Recipes from the UK and Europe often use ml, while cups are more common in the US. Converting 1.25 cups to 296 ml ensures consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust recipes if I only have a 250 ml measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For 1.25 cups (296 ml), measure 250 ml first, then add an extra 46 ml (about 3 tablespoons). Alternatively, use a 1-cup measure (240 ml) plus 2 tablespoons (30 ml) to get close enough. Small variations won’t ruin most air fryer dishes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T21:44:47.209000+00:00",
     "dateModified": "2025-07-28T21:44:47.209000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-oat-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

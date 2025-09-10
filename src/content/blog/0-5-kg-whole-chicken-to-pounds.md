@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 0.5 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 0.5 kg whole chicken to pounds quickly with our simple guide. Perfect for air fryer cooking and recipe adjustments. Get accurate results now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-5-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 0.5 kg whole chicken is approximately 1.1 pounds. This conversion is based on the standard factor where 1 kilogram equals 2.20462 pounds. For air frying, this weight is ideal for small households and cooks quickly and evenly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 0.5 kg whole chicken to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 0.5 kg whole chicken to pounds ensures you follow air fryer recipes accurately, as many use imperial measurements. Correct weight affects cooking time and temperature, preventing under or overcooking. Precise conversions lead to better texture and flavour."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a 0.5 kg whole chicken in recipes calling for a 1-pound chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but note that 0.5 kg is about 1.1 pounds, slightly more than 1 pound. Adjust cooking time by adding a few extra minutes in the air fryer. Always check the internal temperature reaches 75°C for safety and doneness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more conversion guides for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Visit airfryerrecipe.co.uk for comprehensive conversion charts and guides. Our resources include weight, temperature, and time conversions tailored for air fryer users. These tools help you cook with confidence and precision."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semi-skimmed-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 0.75 Cup Semi Skimmed Milk to Ounces",
         "description": "Learn how to convert 0.75 cup of semi skimmed milk to ounces in seconds. Perfect for air fryer recipes and precise measurements!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-semi-skimmed-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.75 cup of semi skimmed milk equals exactly 6 fluid ounces. This measurement remains consistent because milk has a standard density. Whether you're using UK or US measuring cups, the volume-to-weight conversion stays the same for liquid milk measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other types of milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. While we're specifically discussing semi skimmed milk here, this 0.75 cup to 6 ounces conversion works for all milk types including whole, skimmed, and plant-based alternatives. The slight density variations between milk types are negligible for most cooking purposes, especially in air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.75 cup without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have measuring cups, you can use common household items. A standard teacup in the UK typically holds about 6 ounces (0.75 cup), making it perfect for measuring semi skimmed milk. Alternatively, use a kitchen scale - pour milk until it reaches 6 ounces (170 grams) for perfect accuracy in your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some air fryer recipes use ounces instead of cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many professional recipes use weight measurements (ounces) because they're more precise than volume measurements (cups). When baking in air fryers, where cooking conditions are intense and fast, exact measurements like 6 ounces instead of 0.75 cup can make the difference between success and failure, especially for delicate items like cakes or soufflés."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semi-skimmed-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

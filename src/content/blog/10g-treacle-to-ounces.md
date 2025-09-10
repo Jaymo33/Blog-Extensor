@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-treacle-to-ounces"
-  },
+        },
         "headline": "Quick 10g treacle to ounces conversion for UK bakers",
         "description": "Convert 10g of treacle to ounces in seconds with our easy guide. Perfect for air fryer recipes and British baking.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-treacle-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, golden syrup can substitute treacle, but adjust quantities as it’s sweeter. For 10g of treacle (0.35 oz), use about 8g (0.28 oz) golden syrup. The flavour profile will be lighter, so consider adding a touch of molasses for depth in air fryer bakes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer treacle glaze burn?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Treacle’s high sugar content makes it prone to burning in air fryers. For a 10g (0.35 oz) treacle glaze, reduce temperature by 10°C and check frequently. Mixing treacle with a little oil or water helps prevent burning while maintaining shine."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I accurately measure 10g of treacle for small batches?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For precise 10g treacle measurements, use digital kitchen scales or a graduated syringe. If converting to ounces (0.35 oz), a lightly greased teaspoon measure works. Remember to scrape all the treacle from your measuring tool for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze leftover treacle for future air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, treacle freezes well for up to 3 months. Portion it in 10g (0.35 oz) amounts in ice cube trays for easy use. Thaw at room temperature before adding to air fryer recipes – the texture remains perfect for glazes or baking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-treacle-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

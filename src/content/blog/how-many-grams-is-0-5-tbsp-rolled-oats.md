@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-rolled-oats"
-  },
+        },
         "headline": "Quick Answer: 0.5 tbsp rolled oats to grams UK",
         "description": "Convert 0.5 tbsp of rolled oats into grams instantly with our easy guide. Perfect for air fryer recipes and precise measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-rolled-oats.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but the weight may differ slightly. Instant oats are more finely cut, so 0.5 tbsp could be around 3.5 grams. For air fryer recipes where texture matters, stick to rolled oats unless the recipe specifies otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe turn out dry when using rolled oats?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Oats absorb moisture, so using even 0.5 tbsp extra can affect results. Always measure by weight for accuracy. If your mixture seems dry, add a teaspoon of liquid (water or oil) to balance it before air frying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store opened rolled oats to keep them fresh?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Transfer oats to an airtight container in a cool, dark place. They’ll last up to 6 months. For longer storage, freeze them in portions—this prevents clumping and maintains quality for future air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute 0.5 tbsp rolled oats with flour in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not directly. Oats provide structure and chew, while flour acts as a binder. Replace with 0.5 tbsp almond flour (3g) for gluten-free options, but expect a denser texture. Adjust cooking times by 1-2 minutes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-rolled-oats"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

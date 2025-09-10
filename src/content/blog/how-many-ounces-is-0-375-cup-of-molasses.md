@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-molasses"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 0.375 cup of molasses?",
         "description": "Discover how to convert 0.375 cup of molasses to ounces for perfect air fryer recipes every time. Get precise measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-17T23:33:52.556Z",
         "dateModified": "2025-08-17T23:33:52.556Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-molasses.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a kitchen scale is the most accurate way to measure molasses. Simply set your scale to ounces and pour until it reads 3 ounces, which equals 0.375 cup. This method avoids sticky measuring cups and ensures precision for air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does molasses affect air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Molasses can caramelise quickly in the air fryer due to its sugar content, so watch for over-browning. Recipes with molasses may cook slightly faster, so check a few minutes early. Adjust temperatures slightly lower if needed to prevent burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 0.375 cup of molasses the same as 3 fluid ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, in weight, 0.375 cup of molasses equals 3 ounces. However, fluid ounces measure volume, not weight, so for thick liquids like molasses, weighing is more reliable. Always use ounces (weight) for baking accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute honey for molasses in a 0.375 cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute honey, but use 20% less (about 2.4 ounces) since it’s sweeter and thinner. Adjust other liquids in the recipe slightly to compensate. Note that flavour and browning will differ, so expect slight texture changes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-molasses"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-beef-stock"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 760 ml of Beef Stock?",
         "description": "Convert 760 ml of beef stock to cups easily for air fryer recipes. Get precise measurements for perfect cooking every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-beef-stock.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 760 ml of beef stock is approximately 3.2 cups. This conversion is based on the standard UK cup measurement of 250 ml per cup. If you're using US cups (240 ml), it’s slightly more—about 3.17 cups. For most recipes, the difference is negligible, but it’s worth noting if precision is key."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 760 ml of beef stock?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. Since 1 ml of beef stock weighs roughly 1 gram, 760 ml would be about 760 grams on a kitchen scale. This method is especially useful if you don’t have a measuring cup handy. Just ensure your scale is set to grams for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust a recipe if I only have 760 ml of beef stock but need more?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your recipe calls for more than 760 ml of beef stock, you can dilute it with water or use a stock cube to stretch it further. Alternatively, reduce the other liquid ingredients slightly to compensate. Always taste as you go to ensure the flavour isn’t compromised."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste different when I use 760 ml of beef stock instead of cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This could be due to slight variations in cup measurements (UK vs. US) or how the stock is reduced during cooking. Air fryers circulate hot air, which can evaporate liquids faster than stovetop methods. If the flavour is too intense, try using slightly less stock next time or adjust cooking times."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-beef-stock"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

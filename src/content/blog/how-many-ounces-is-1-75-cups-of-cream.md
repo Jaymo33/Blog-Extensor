@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-cream"
-  },
+        },
         "headline": "Quick Guide: Convert 1.75 Cups of Cream to Ounces Easily",
         "description": "Discover how to convert 1.75 cups of cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-11T22:11:18.984Z",
         "dateModified": "2025-08-11T22:11:18.984Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-cream.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Whipped cream isn’t a direct substitute for liquid cream in measurements. 1.75 cups of whipped cream will have more air, altering the recipe’s texture. Stick to liquid cream for accurate conversions like 1.75 cups to 14 oz."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of cream affect the 1.75 cups to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The type of cream (single, double, or heavy) doesn’t change the volume-to-weight conversion. 1.75 cups of any cream will still be roughly 14 oz. However, fat content may affect recipe outcomes, so choose the right cream for your dish."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 1.75 cups of cream without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a kitchen scale to measure 14 oz (the equivalent of 1.75 cups). Alternatively, a standard UK mug holds about 1 cup, so 1.75 cups would be roughly 1 mug and three-quarters. For precision, a measuring cup is best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze cream measured as 1.75 cups (14 oz) for later use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can freeze 1.75 cups of cream (14 oz), but it may separate when thawed. Stir well before using it in recipes. For best results, use fresh cream in air fryer dishes like sauces or desserts."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-cream"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

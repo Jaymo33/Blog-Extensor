@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-brown-sugar"
-  },
+        },
         "headline": "Quick Answer: How Many Grams Is 1.0 Cups of Brown Sugar?",
         "description": "Discover the exact gram measurement for 1.0 cups of brown sugar—perfect for air fryer baking and cooking conversions.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T16:11:26.196Z",
         "dateModified": "2025-07-27T16:11:26.196Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-brown-sugar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 1.0 cups of brown sugar is generally the same in both the UK and USA, weighing approximately 220 grams. However, measuring cups can vary slightly, so using a kitchen scale is the most accurate method."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use granulated sugar instead of brown sugar in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute granulated sugar, but it will change the flavour and texture. Brown sugar adds moisture and a caramel note, so adjustments may be needed. For best results, stick to the recipe’s specified sugar type."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent brown sugar from hardening in my air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store brown sugar in an airtight container to keep it soft. If it hardens, place a slice of bread in the container overnight to restore moisture. This ensures accurate measurements for your air fryer dishes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too sweet with 1.0 cups of brown sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your dish is overly sweet, you may have packed the brown sugar too tightly, adding extra grams. Always measure lightly for the correct 220 grams. Adjust to taste if needed, especially in savoury recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:26.196000+00:00",
     "dateModified": "2025-07-27T16:11:26.196000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-brown-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

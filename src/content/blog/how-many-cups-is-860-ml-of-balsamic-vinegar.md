@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-balsamic-vinegar"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 860 ml of Balsamic Vinegar?",
         "description": "Discover how to convert 860 ml of balsamic vinegar to cups for perfect recipes every time. Get precise measurements for cooking and baking.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-balsamic-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 860 ml of balsamic vinegar converts to approximately 3.63 cups in both the UK and US. The standard cup measurement is 236.588 ml, making the conversion universal. This ensures consistency in recipes regardless of your location."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a regular measuring cup for 860 ml of balsamic vinegar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! A standard measuring cup works fine for 860 ml of balsamic vinegar. Just remember that 860 ml equals roughly 3.63 cups. If your cup doesn’t have metric markings, use a conversion chart or calculator for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 860 ml of balsamic vinegar affect air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Using 860 ml of balsamic vinegar in air fryer recipes adds depth of flavour. Whether you're marinating or glazing, precise measurements ensure balanced taste. Too much can overpower, while too little may lack flavour, so stick to the conversion for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to measure 860 ml of balsamic vinegar without a jug?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a measuring jug, use a standard cup and multiply. Since 860 ml is about 3.63 cups, you can measure three full cups and roughly two-thirds of another. For more precision, consider investing in a metric measuring jug."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-balsamic-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

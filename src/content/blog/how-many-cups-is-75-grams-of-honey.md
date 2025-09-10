@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-honey"
-  },
+        },
         "headline": "Quick Guide: Convert 75 Grams of Honey to Cups Easily",
         "description": "Learn how to convert 75 grams of honey to cups for baking and cooking with this simple guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T19:05:43.270Z",
         "dateModified": "2025-07-27T19:05:43.270Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-honey.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, due to slight differences in cup sizes. In the US, 75 grams of honey is about 0.24 cups, while in the UK, it’s approximately 0.21 cups. Always check which measurement system your recipe uses for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I measure 75 grams of honey without a scale?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a scale, lightly grease a measuring cup and fill it to just under a quarter cup (US) or 0.21 cups (UK) for 75 grams. For sticky ingredients like honey, using oil or non-stick spray helps it slide out cleanly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 75 grams of honey in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Honey works well in air fryer recipes like glazes for chicken, salmon, or vegetables. Just remember to adjust cooking times slightly, as honey can caramelise quickly under high heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of honey affect the conversion from grams to cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Slightly. Thicker honeys like manuka may pack more densely, while runny varieties like acacia measure differently. For most types, 75 grams will still be close to 0.24 US cups or 0.21 UK cups, but adjust if your honey is unusually thick or thin."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-honey"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

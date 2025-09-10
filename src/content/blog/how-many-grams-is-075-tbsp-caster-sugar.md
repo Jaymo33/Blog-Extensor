@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-caster-sugar"
-  },
+        },
         "headline": "Quick Answer: 0.75 tbsp caster sugar to grams conversion",
         "description": "Discover how many grams are in 0.75 tbsp of caster sugar with our easy UK conversion guide—perfect for air fryer baking!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-075-tbsp-caster-sugar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but granulated sugar is slightly denser. 0.75 tbsp of granulated sugar weighs about 10 grams, compared to 9.4 grams for caster sugar. For best results in air fryer recipes, stick to caster sugar unless the recipe specifies otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.75 tbsp of caster sugar if I only have a teaspoon?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.75 tbsp equals 2.25 teaspoons. Measure 2 level teaspoons, then add a quarter teaspoon. If you don’t have a ¼ teaspoon measure, eyeball half of a half-teaspoon for a close approximation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does caster sugar weigh less than granulated sugar per tablespoon?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Caster sugar has finer grains, so it packs less densely into a tablespoon. This means 0.75 tbsp of caster sugar (9.4 grams) is lighter than the same volume of granulated sugar (10 grams). The difference matters in precise baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 0.75 tbsp of caster sugar to grams for savoury dishes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! While 0.75 tbsp (9.4 grams) of caster sugar is often used in desserts, it’s also handy for balancing flavours in glazes or marinades. For savoury air fryer recipes, check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken category</a> for ideas."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-caster-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

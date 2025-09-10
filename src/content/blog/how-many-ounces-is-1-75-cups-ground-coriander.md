@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-ground-coriander"
-  },
+        },
         "headline": "Quick Guide: Convert 1.75 Cups of Ground Coriander to Ounces",
         "description": "Learn how to convert 1.75 cups of ground coriander to ounces with our easy guide—perfect for air fryer recipes and precise cooking!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-ground-coriander.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use a measuring cup and the spoon-and-level method. Gently spoon the ground coriander into the cup without packing it down, then level it off with a knife. This method gives you roughly 7 ounces for 1.75 cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the density of ground coriander affect the conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, ground spices vary in density, which is why weighing is more accurate. However, our tested conversion of 1.75 cups to 7 ounces accounts for typical ground coriander density. For other spices, check our conversion chart."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for whole coriander seeds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, whole coriander seeds have a different density. If your recipe calls for whole seeds, you’ll need to adjust the measurement or grind them first. For precise conversions, a kitchen scale is best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find air fryer recipes using ground coriander?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> features plenty of dishes using ground coriander, from curries to roasted veggies. You can also explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/vegetables>vegetables category</a> for more ideas."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-ground-coriander"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

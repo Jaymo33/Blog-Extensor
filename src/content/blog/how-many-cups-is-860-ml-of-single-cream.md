@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-single-cream"
-  },
+        },
         "headline": "Quick Guide: Convert 860 ml of Single Cream to Cups Easily",
         "description": "Learn how to convert 860 ml of single cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-single-cream.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 860 ml of single cream is not the same as 860 grams. The weight depends on the cream's density, which is roughly 1.01 grams per ml. This means 860 ml of single cream weighs about 868.6 grams. Always check your recipe for weight or volume requirements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 860 ml of single cream in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use 860 ml of single cream in an air fryer for recipes like custards or creamy sauces. Just ensure the dish is in a suitable container to prevent spills. Avoid overfilling, as the air fryer's fan can cause liquids to splatter."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 860 ml of single cream to tablespoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "There are 15 ml in one tablespoon, so 860 ml of single cream equals roughly 57.3 tablespoons. For precision, use a measuring spoon or scale, especially when making air fryer recipes where exact amounts matter."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does single cream thicken when heated in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Single cream will thicken slightly when heated, but it won't reduce as much as double cream. For thicker sauces, consider adding a cornflour slurry or reducing the cream on the stove before transferring it to the air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-single-cream"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

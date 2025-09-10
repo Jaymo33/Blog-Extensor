@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/40g-almond-butter-to-ounces"
-  },
+        },
         "headline": "Quick 40g almond butter to ounces conversion for UK cooks",
         "description": "Convert 40g of almond butter to ounces in seconds with our easy guide – perfect for air fryer recipes and precise baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-almond-butter-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, crunchy and smooth almond butter weigh the same at 40g (1.41 oz). The texture difference won't affect the weight, though it may slightly alter recipe outcomes. For air fryer baking, smooth blends distribute more evenly, while crunchy adds texture to coatings or toppings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list almond butter in grams and others in ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Grams are standard in metric-system countries like the UK, while ounces are more common in the US. At 40g (1.41 oz), the amount is identical – just measured differently. Always check which unit your recipe uses, especially with air fryer recipes where precision impacts cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does almond butter's oil content affect the 40g to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Natural separation doesn't change the weight – 40g of almond butter with oil on top still equals 1.41 oz when stirred and measured. For consistent air fryer results, thoroughly mix separated almond butter before measuring to distribute the oils evenly throughout."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 40g of almond butter the same as 40ml when measuring by volume?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, weight (grams/ounces) and volume (millilitres) measure differently. While 40g of almond butter equals 1.41 oz by weight, its volume in millilitres varies based on density and aeration. For air fryer recipes, always use weight measurements (grams or ounces) for reliable results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/40g-almond-butter-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

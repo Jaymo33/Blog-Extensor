@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-baking-soda"
-  },
+        },
         "headline": "Quick Guide: Convert 0.75 Cup Baking Soda to Ounces Easily",
         "description": "Discover how to convert 0.75 cup of baking soda to ounces with our simple guide. Perfect for air fryer recipes and precise measurements!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-11T22:11:18.984Z",
         "dateModified": "2025-08-11T22:11:18.984Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-baking-soda.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use a standard measuring cup to convert 0.75 cup of baking soda to ounces. One cup of baking soda is roughly 8 ounces, so 0.75 cup equals 6 ounces. Level off the measuring cup with a straight edge for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 0.75 cup of baking soda for cleaning my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.75 cup of baking soda (6 ounces) mixed with water makes an effective cleaner for your air fryer. It helps remove grease and odours without harsh chemicals. Always rinse thoroughly after cleaning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 0.75 cup of baking soda the same in the UK and US?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.75 cup of baking soda is the same in both the UK and US, equalling 6 ounces. However, UK recipes might list weights in grams (170g) instead of cups. Always check the measurement system used."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What happens if I use too much baking soda in my air fryer recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Using more than 0.75 cup of baking soda (6 ounces) can leave a bitter taste and cause over-rising. Stick to the recommended amount for best results. If unsure, refer to our conversion chart for precise measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-baking-soda"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-turkey-crown-to-pounds"
-  },
+        },
         "headline": "Easy 6 kg Turkey Crown to Pounds Conversion Guide",
         "description": "Convert 6 kg turkey crown to pounds instantly with our simple guide. Perfect for air fryer cooking and holiday meal planning.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-kg-turkey-crown-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 6 kg turkey crown to pounds, simply multiply the kilogram value by 2.20462. This gives you approximately 13.23 pounds, which is the weight you'll use for air fryer recipes and timing guidelines. Knowing this conversion ensures you can accurately follow cooking instructions for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between US pounds and imperial pounds for converting 6 kg turkey crown?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there is no difference between US pounds and imperial pounds when converting 6 kg turkey crown to pounds. Both systems use the same standard, so 6 kg always equals approximately 13.23 pounds regardless of where you are. This makes it easy to use any air fryer recipe without worrying about regional measurement variations."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the pound equivalent of a 6 kg turkey crown for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the pound equivalent of a 6 kg turkey crown is crucial for air frying because most recipes and appliance guidelines use pounds to determine cooking times and temperatures. Accurate weight conversion ensures your turkey crown cooks evenly and safely, preventing undercooking or drying out. It also helps you select the right size air fryer and adjust settings for optimal performance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use an online converter for 6 kg turkey crown to pounds, and is it reliable?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, using an online converter for 6 kg turkey crown to pounds is generally reliable and convenient for quick calculations. Most converters use the standard conversion factor of 2.20462, giving you accurate results for cooking purposes. For added confidence, you can cross-reference with trusted cooking resources like airfryerrecipe.co.uk to ensure precision."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-turkey-crown-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

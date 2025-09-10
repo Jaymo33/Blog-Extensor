@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-almond-milk"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 310 ml of Almond Milk?",
         "description": "Discover how to convert 310 ml of almond milk to cups for perfect air fryer recipes every time. Get precise measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:32:39.600Z",
         "dateModified": "2025-07-30T23:32:39.600Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-almond-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While the volume is the same (310 ml equals 1.31 cups), almond milk has a thinner consistency and slightly sweeter taste than dairy milk. In most air fryer recipes, you can substitute them 1:1, but you may need to adjust cooking times or thickeners for sauces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 310 ml of almond milk in savoury air fryer dishes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Almond milk works well in savoury recipes like creamy pasta sauces or mashed potatoes. Just ensure you measure accurately—310 ml converts to 1.31 cups—and balance flavours, as almond milk has a subtle nutty taste."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 310 ml of almond milk if I don’t have metric cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a kitchen scale—310 ml weighs about 310 grams. Alternatively, a standard UK mug holds roughly 250 ml, so 310 ml is just over one full mug. For precision, consider investing in a measuring jug with both metric and imperial markings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 310 ml of almond milk froth well for air fryer beverages?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Almond milk can froth, but not as thickly as dairy milk. For best results, use chilled almond milk and a frother. A 310 ml portion (1.31 cups) is ideal for 1-2 lattes or hot chocolates made in your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-almond-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

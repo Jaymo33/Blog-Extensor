@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-evaporated-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 485 ml of Evaporated Milk to Cups Easily",
         "description": "Learn how to convert 485 ml of evaporated milk to cups for perfect baking and cooking results every time. Simple, accurate, and hassle-free!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-evaporated-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but you'll need to adjust the quantity. Since evaporated milk is concentrated, replace 485 ml with 970 ml of fresh milk and simmer it to reduce by half. Alternatively, mix 485 ml of fresh milk with 120 ml of powdered milk for a similar consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 485 ml of evaporated milk compare to condensed milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Evaporated milk is unsweetened, while condensed milk has added sugar. If substituting, use the same amount (485 ml) but reduce other sweeteners in the recipe. Condensed milk is thicker, so you may need to adjust liquids accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 485 ml of evaporated milk the same in the UK and US?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 485 ml is a metric measurement and remains the same in both regions. However, cup sizes differ slightly: a US cup is 240 ml, while a UK cup is 250 ml. For 485 ml, this means roughly 2.02 US cups or 1.94 UK cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze leftover 485 ml of evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Pour any unused evaporated milk into ice cube trays and freeze. Once solid, transfer the cubes to a freezer bag. Thaw in the fridge overnight or use directly in cooked dishes for convenience."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-evaporated-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

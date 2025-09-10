@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/250g-porridge-oats-to-ounces"
-  },
+        },
         "headline": "Quick 250g porridge oats to ounces conversion for UK cooks",
         "description": "Convert 250g of porridge oats to ounces in seconds with our simple guide. Perfect for air fryer recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T23:45:58.474Z",
         "dateModified": "2025-08-10T23:45:58.474Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250g-porridge-oats-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 250g (8.82 oz) of porridge oats is perfect for a batch of air fryer granola. Mix with honey, nuts, and a pinch of salt, then air fry at 160°C for 10–12 minutes, stirring halfway. Check our breakfast recipes for variations."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does 250g of porridge oats sometimes look like more or less?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The appearance of 250g of oats can vary based on the oat type (rolled vs. jumbo) and how they’re packed. Weight is always accurate, but volume measurements like cups can differ. Always weigh for air fryer recipes to ensure consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 250g of porridge oats make?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "250g (8.82 oz) yields about 4–5 servings of cooked porridge or 10–12 energy balls. For air fryer recipes like granola, it makes roughly 6 servings. Adjust based on your recipe at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 250g of porridge oats the same as 250ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, grams measure weight (250g = 8.82 oz), while millilitres measure volume. Porridge oats weigh differently depending on compaction. For accuracy in air fryer cooking, always use weight measurements like grams or ounces."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/250g-porridge-oats-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

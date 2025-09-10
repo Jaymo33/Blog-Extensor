@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-minced-onion"
-  },
+        },
         "headline": "Quick Guide: Convert 0.375 Cup Minced Onion to Ounces Easily",
         "description": "Learn how to convert 0.375 cup of minced onion to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0375-cup-of-minced-onion.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, minced onion is more densely packed than chopped onion. While 0.375 cup of minced onion equals 1.5 ounces, the same volume of chopped onion would weigh slightly less due to larger pieces creating more air gaps. For precise measurements in air fryer recipes, it's best to use minced onion as specified."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use dried minced onion instead of fresh in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute dried minced onion, but the conversion differs. For 0.375 cup (1.5 ounces) fresh minced onion, use about 2 tablespoons dried minced onion. Rehydrate it with a bit of water before adding to your air fryer recipe for best texture and flavour distribution."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover minced onion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Leftover minced onion can be stored in an airtight container in the fridge for 3-5 days. For longer storage, freeze measured portions (like 0.375 cup/1.5 ounce servings) in freezer bags. When ready to use, you can add frozen minced onion directly to your air fryer recipes, though cooking time may need slight adjustment."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes specify weight (ounces) instead of volume (cups) for minced onion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight measurements are more accurate because how finely you mince the onion affects how much fits in a cup. 0.375 cup could vary slightly in actual onion content based on mince size, but 1.5 ounces will always be the same amount of onion. This precision is especially important in air fryer cooking where ingredient ratios affect cooking results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-minced-onion"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

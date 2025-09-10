@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-peanut-butter"
-  },
+        },
         "headline": "Quick Answer: How Many Ounces is 25g of Peanut Butter?",
         "description": "Discover how to convert 25g of peanut butter to ounces for precise air fryer recipes. Get accurate measurements and cooking tips here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-peanut-butter.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use tablespoons for a rough estimate. Two level tablespoons of peanut butter equal approximately 25g or 0.88 ounces. Lightly grease the spoon first to help the peanut butter slide off easily."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of peanut butter affect the weight conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, creamy and natural peanut butter may vary slightly in density. Commercial brands are thicker, while natural versions can be runnier. For accuracy, always weigh 25g if possible, but the 0.88-ounce conversion works as a general rule."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 25g of peanut butter in savoury air fryer dishes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 25g of peanut butter works well in marinades, glazes, or sauces for meats or tofu. Combine it with spices, soy sauce, or citrus for a flavourful twist. It’s great for balancing sweet and savoury notes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is my air fryer recipe with peanut butter turning out too dry?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your dish is dry, you might have used too little peanut butter or overcooked it. Double-check your measurements—25g (0.88 oz) is key. Also, reduce cooking time slightly and consider adding a splash of oil or water to the mix."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-peanut-butter"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

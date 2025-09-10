@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-self-raising-flour"
-  },
+        },
         "headline": "Quick Answer: How many grams is 1 tbsp of self-raising flour?",
         "description": "Find out exactly how many grams are in 1 tbsp of self-raising flour for perfect baking every time. Includes UK conversions and air fryer tips!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-self-raising-flour.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but you'll need to add baking powder. For every 100 grams of plain flour, mix in 1 teaspoon of baking powder to replicate self-raising flour. Adjust measurements accordingly—remember, 1 tbsp of self-raising flour is about 8 grams."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer cake turn out dense when using self-raising flour?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Dense cakes often result from overmeasuring flour or outdated self-raising flour. Ensure you're using the correct conversion (1 tbsp = 8 grams) and check your flour's freshness. Also, avoid overmixing the batter, as this develops gluten and leads to a heavier texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert grams to tablespoons for larger quantities of self-raising flour?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Divide the gram measurement by 8 to get the number of tablespoons. For example, 200 grams of self-raising flour equals 25 tablespoons (200 ÷ 8 = 25). For precision, use a scale or refer to <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of self-raising flour affect the weight per tablespoon?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most UK brands are consistent, with 1 tbsp weighing around 8 grams. However, always check the packaging for specific density notes. For critical recipes, weighing flour is more reliable than volume measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-self-raising-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

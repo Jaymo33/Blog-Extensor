@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/46-25-kg-to-pounds"
-  },
+        },
         "headline": "Quick 46.25 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 46.25 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T00:37:28.394Z",
         "dateModified": "2025-08-22T00:37:28.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/46-25-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "46.25 kilograms is exactly 101.94 pounds when converted using the standard conversion factor of 1 kilogram equals 2.20462 pounds. This conversion is precise and useful for portioning ingredients for your air fryer, ensuring even cooking and perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 46.25 kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 46.25 kg to pounds if you’re working with a large quantity of food, like a big cut of meat or bulk vegetables, and need to divide it into air fryer-friendly portions. Knowing the weight in pounds helps you follow recipes accurately, manage batch cooking, and avoid overloading your air fryer basket for better cooking performance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 46.25 kg to pounds for baking in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, converting 46.25 kg to pounds is helpful for baking in the air fryer, especially if you’re scaling up a recipe or working with pre-measured bulk ingredients like flour or sugar. Accurate weight conversions ensure your baked goods have the right texture and rise, as air fryers can be sensitive to ingredient proportions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 46.25 kg to pounds the same as 46.25 kg to lbs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 46.25 kg to pounds and 46.25 kg to lbs are the same conversion, as "lbs" is the abbreviation for pounds. Both terms refer to the imperial unit of weight, and converting 46.25 kg gives you approximately 101.94 pounds regardless of which phrasing you use."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/46-25-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

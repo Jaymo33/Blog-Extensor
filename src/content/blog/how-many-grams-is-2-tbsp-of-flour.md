@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-flour"
-  },
+        },
         "headline": "Quick Answer: How many grams is 2 tbsp of flour?",
         "description": "Find out exactly how many grams are in 2 tbsp of flour for perfect air fryer baking every time. Get the UK conversion now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-of-flour.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different flours have slightly different weights. Plain and self-raising flour weigh about 16g per 2 tablespoons, while wholemeal flour is denser at around 17g. Gluten-free flour blends may vary more significantly depending on their ingredients."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this 2 tbsp to grams conversion for all air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This conversion works for most standard air fryer baking recipes. However, for very precise recipes like macarons or soufflés, it's better to use a digital scale for absolute accuracy. The small differences matter more in these delicate baked goods."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do UK and US tablespoon measurements differ for flour?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "UK tablespoons are exactly 15ml while US tablespoons are 14.2ml, leading to slight measurement variations. However, the difference in flour weight is minimal - about 0.5g per 2 tablespoons. Our conversion uses standard UK measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store flour to maintain accurate measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Keep flour in an airtight container in a cool, dry place to prevent moisture absorption. Humidity can make flour compact, affecting volume measurements. For consistent results in air fryer baking, weigh your flour just before use if possible."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

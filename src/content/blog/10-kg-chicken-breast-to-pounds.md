@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 10 kg chicken breast to pounds conversion guide",
         "description": "Convert 10 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer meal prep and portion planning. Get cooking today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 10 kg of chicken breast to pounds for several practical reasons. Many recipes, particularly older British recipes or American cookbooks, use imperial measurements rather than metric. Butchers and markets sometimes price chicken per pound, so knowing the conversion helps you understand exactly what you're buying and compare prices accurately. If you're meal prepping or cooking for a large group, understanding the pound equivalent helps with portion planning and ensuring you have enough chicken for everyone. The conversion becomes especially useful for air fryer cooking, where basket capacity is measured in pounds or kilograms depending on your model."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is the conversion exactly 22 pounds or should I expect variation?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The precise conversion of 10 kg chicken breast to pounds is 22.046 pounds, but for all practical cooking purposes, you can round this to 22 pounds. The minor decimal difference is negligible when cooking such a large quantity of chicken. Variations might occur due to moisture content in the packaging or slight differences in how the chicken was processed and trimmed. For air fryer cooking and most recipe applications, considering 10 kg as 22 pounds will give you perfectly accurate results. The important thing is consistency in your measurements rather than mathematical precision to multiple decimal places."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does this conversion affect my air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing that 10 kg chicken breast converts to approximately 22 pounds helps you determine how many batches you'll need to cook in your air fryer. Air fryers have limited basket capacity, and overcrowding leads to uneven cooking. If your air fryer basket holds 2 pounds of chicken, you'll know you need to cook 11 batches to prepare all 22 pounds. This knowledge helps you plan your cooking schedule and adjust times accordingly - each batch might take 15-20 minutes depending on thickness and temperature. Accurate measurement conversion ensures you don't overload the basket and guarantees perfectly cooked chicken every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this same conversion for other types of chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion rate of 1 kg to 2.20462 pounds applies to all chicken parts, not just breast meat. Whether you're working with thighs, wings, drumsticks, or a whole chicken, the weight conversion remains the same. The density might vary slightly between different cuts, but the mass conversion is identical. This consistency makes it easy to convert any chicken quantity from metric to imperial measurements. For air fryer cooking, different cuts might require slightly adjusted cooking times, but the weight conversion itself remains constant regardless of which part of the chicken you're preparing."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

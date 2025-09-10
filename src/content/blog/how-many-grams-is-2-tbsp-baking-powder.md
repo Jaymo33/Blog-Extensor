@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-baking-powder"
-  },
+        },
         "headline": "Quick Answer: How many grams is 2 tbsp of baking powder?",
         "description": "Discover the exact grams in 2 tbsp of baking powder for perfect air fryer recipes. Get precise conversions and baking tips here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-baking-powder.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not all recipes require 2 tbsp of baking powder. The amount depends on the recipe’s volume and other ingredients. Too much can leave a metallic taste, so always follow the recipe closely. For air fryer-specific measurements, check trusted sources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 2 tbsp of baking powder to grams without a scale?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a scale, remember that 1 tbsp of baking powder weighs about 14 grams, so 2 tbsp equals 28 grams. Use a proper measuring spoon and level it off for accuracy. For more conversion tips, see our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of baking powder affect the weight of 2 tbsp?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most brands have similar densities, so 2 tbsp should weigh around 28 grams. However, always check the packaging for specific guidance. For consistent results in air fryer baking, stick to one trusted brand."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute baking soda for 2 tbsp of baking powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, baking soda is three times stronger than baking powder. If substituting, use ⅔ tsp baking soda for every 2 tbsp of baking powder, and add an acid like lemon juice. For best results, follow air fryer-specific recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-baking-powder"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

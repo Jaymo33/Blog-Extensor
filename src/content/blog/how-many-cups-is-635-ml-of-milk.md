@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 635 ml of Milk to Cups Easily",
         "description": "Learn how to convert 635 ml of milk to cups for perfect baking and cooking every time. Get precise measurements with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, in the US, 635 ml of milk equals approximately 2.68 cups, as 1 US cup is 240 ml. This conversion is essential for recipes, especially when using an air fryer for baking or cooking. Always use a liquid measuring cup for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 635 ml of milk convert in UK measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "In the UK, 1 cup is 284 ml, so 635 ml of milk is about 2.24 cups. This difference is important when following UK-based recipes or using an air fryer for dishes like custards or sauces. Check the recipe's origin to ensure the right conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use plant-based milk instead of regular milk in a 635 ml measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, plant-based milk like almond or soy can be substituted in the same 635 ml quantity. The volume remains the same, though the texture and taste may vary slightly. This works well for air fryer recipes, such as vegan cakes or creamy soups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to measure 635 ml of milk without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a measuring cup, use a standard UK mug (284 ml) or US coffee cup (240 ml) to estimate. For 635 ml, you’d need about 2.24 UK mugs or 2.68 US cups. While not perfect, it’s a handy trick for quick conversions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

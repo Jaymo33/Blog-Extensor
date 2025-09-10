@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-chilli-sauce-to-ounces"
-  },
+        },
         "headline": "Quick 10g chilli sauce to ounces conversion for UK cooks",
         "description": "Convert 10g of chilli sauce to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise UK measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-chilli-sauce-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use volume measurements, weight is more accurate for chilli sauce due to variations in thickness. Approximately two level teaspoons equal 10g, but this can vary by brand. For precise results, especially in air fryer cooking, we recommend using digital scales."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 10g of chilli sauce compare to fresh chillies?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "10g of chilli sauce typically contains concentrated chilli flavour, so it's stronger than fresh chillies. As a rough guide, 10g of medium-heat chilli sauce equals about 1-2 small fresh red chillies in terms of heat. Always adjust to taste when substituting between fresh and sauce forms."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do UK recipes sometimes use grams for liquids like chilli sauce?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "UK recipes often use grams for liquids because weight measurements are more precise than volume. The density of chilli sauce can vary between brands, so 10g will always be 10g regardless of thickness. This ensures consistent results, especially important in air fryer cooking where precise quantities matter."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze portions of 10g chilli sauce for later use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can freeze 10g portions of chilli sauce in ice cube trays for convenient use. Once frozen, transfer the cubes to an airtight container. Thaw as needed - this method works perfectly for adding precise amounts to air fryer recipes without needing to measure each time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-chilli-sauce-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

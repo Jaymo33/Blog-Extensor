@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-oil"
-  },
+        },
         "headline": "Quick Conversion: 3.25 Cups of Coconut Oil to ml",
         "description": "Convert 3.25 cups of coconut oil to ml effortlessly for precise air fryer cooking. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T08:54:58.618Z",
         "dateModified": "2025-07-30T08:54:58.618Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-coconut-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 3.25 cups of coconut oil equals 768 ml in both the UK and USA. Cup measurements are standardized for volume, so the conversion remains consistent. However, always double-check if using a recipe with regional variations."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 768 ml of coconut oil for deep frying in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers require far less oil than traditional deep frying. For most recipes, a light coating (1-2 tbsp) is sufficient. Using 768 ml would be excessive and could cause smoking or uneven cooking. Stick to smaller amounts for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover coconut oil after measuring 3.25 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store unused coconut oil in a cool, dark place or the refrigerator. It solidifies below 24°C but remelts easily. Ensure the container is airtight to prevent absorption of other flavours. Proper storage keeps it fresh for months."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to measure 3.25 cups of coconut oil if I don’t have a measuring jug?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a kitchen scale: 3.25 cups of coconut oil weighs roughly 720 grams. Alternatively, fill a standard 250 ml mug three full times, then add half of another mug. For precision, invest in a measuring jug for future recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

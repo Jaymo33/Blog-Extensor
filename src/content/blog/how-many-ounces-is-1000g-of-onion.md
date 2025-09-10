@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-onion"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 1000g of onion? UK Guide",
         "description": "Discover how to convert 1000g of onion to ounces easily for your air fryer recipes. Perfect for UK cooks needing precise measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-onion.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion of 1000g to 35.27 ounces applies to all onion varieties including red, white, and brown onions. While densities might vary slightly between types, the weight conversion remains consistent for cooking purposes in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many cups is 1000g of chopped onion in ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "1000g of chopped onion equals about 35.27 ounces, which is approximately 8-9 cups. However, cup measurements can vary based on how finely you chop the onions. For air fryer recipes, we always recommend weighing onions for the most accurate results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the 1000g to ounces conversion change if the onions are cooked?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, cooked onions weigh less due to water loss during cooking. 1000g of raw onion reduces to about 600g (21.16 oz) when cooked. Always measure onions raw for air fryer recipes unless the recipe specifically states otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust air fryer cooking times for 1000g of onions?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For 1000g (35.27 oz) of onions in an air fryer, cook at 180°C for 12-15 minutes, shaking halfway. Cooking times may vary based on your air fryer model and how the onions are cut. Always check for desired doneness a few minutes before the recommended time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-onion"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

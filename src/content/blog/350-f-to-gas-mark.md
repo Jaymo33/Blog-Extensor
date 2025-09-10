@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/350-f-to-gas-mark"
-  },
+        },
         "headline": "350 F to Gas Mark: Oven & Air Fryer Conversion Guide",
         "description": "Convert 350 F to Gas Mark for ovens and air fryers. Learn the exact Gas Mark equivalent and tips for perfect cooking every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T20:12:50.910Z",
         "dateModified": "2025-07-20T20:12:50.910Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/350-f-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 350 F (Gas Mark 4) works for most recipes, some foods like steaks or delicate fish may need higher or lower temperatures. Always check specific recipe recommendations for best results in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 350 F compare to fan oven temperatures?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "In a fan-assisted oven, you'd typically reduce 350 F by about 20 F (to 330 F) for equivalent results. However, Gas Mark 4 remains the same whether using conventional or fan ovens, making it simpler for conversions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer cook faster at 350 F than my oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate hot air more efficiently around food, cooking it faster than conventional ovens at the same temperature. At Gas Mark 4 (350 F), you'll typically need to reduce cooking times by 15-20% in an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook frozen food at 350 F to Gas Mark 4?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Frozen foods like chips, chicken nuggets, or fish fingers cook perfectly at 350 F (Gas Mark 4) in air fryers. You may need to add 2-3 minutes to the cooking time compared to fresh equivalents."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T20:12:50.910000+00:00",
     "dateModified": "2025-07-20T20:12:50.910000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/350-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

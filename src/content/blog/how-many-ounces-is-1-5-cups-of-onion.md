@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-onion"
-  },
+        },
         "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Onion?",
         "description": "Find out exactly how many ounces are in 1.5 cups of onion for perfect air fryer recipes. Get precise conversions and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-onion.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but minimally. Red, white, and sweet onions all weigh roughly 4 ounces per cup when chopped. Sweet onions might be slightly denser, but the difference is negligible for most recipes. Always measure after chopping for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use frozen onions instead of fresh for 1.5 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Frozen chopped onions are pre-measured and often list cup-to-ounce conversions on the package. Thaw and drain excess liquid before air frying to prevent sogginess. One 10-oz bag typically contains about 2.5 cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust air fryer time for 1.5 cups of onion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "At 6 ounces (1.5 cups), cook onions at 180°C for 8–12 minutes, shaking halfway. For caramelisation, extend time to 15 minutes. Always check progress, as air fryer models vary. Overcrowding may require batch cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my 1.5 cups of onion measurement look different after cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Onions shrink significantly as moisture evaporates. Raw 1.5 cups (6 oz) may reduce to 1/2 cup when caramelised. For consistent results, weigh after chopping but before cooking. This is especially important for meal prepping."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-onion"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

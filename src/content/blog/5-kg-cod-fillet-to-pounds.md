@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-cod-fillet-to-pounds"
-  },
+        },
         "headline": "Quick 5 kg Cod Fillet to Pounds Conversion Guide",
         "description": "Convert 5 kg cod fillet to pounds instantly. Master portioning for perfect air fryer meals with our easy guide and handy chart.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-kg-cod-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 5 kg cod fillet to pounds, multiply the kilogram value by 2.20462. This gives you 11.0231 pounds, which is typically rounded to 11.02 pounds for practical cooking purposes. Using a digital kitchen scale with unit conversion features ensures accuracy and saves time.\n\nFor air frying, this precise conversion helps you portion the fish correctly, preventing overcrowding and ensuring even cooking. Always verify the weight before seasoning and cooking to achieve the best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the pound equivalent of a 5 kg cod fillet for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the pound equivalent of a 5 kg cod fillet is crucial for air frying because it helps you follow recipes correctly and avoid overloading the basket. Overcrowding can lead to uneven cooking, steaming instead of crisping, and longer cooking times.\n\nAccurate portioning also ensures that seasoning and marinades are properly proportioned, enhancing flavour without over- or under-seasoning. This knowledge leads to perfectly cooked, delicious cod every time you use your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for other types of fish?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from kilograms to pounds is the same for all types of fish, including cod, salmon, or haddock. The formula 1 kg = 2.20462 pounds applies universally, so a 5 kg salmon fillet would also be approximately 11.02 pounds.\n\nThis consistency makes it easy to switch between different fish varieties in recipes without recalculating. Always adjust cooking times based on the thickness and density of the fish, not just the weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for cod?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a wide variety of air fryer cod recipes on our website, airfryerrecipe.co.uk, specifically in the cod recipe category. These recipes include cooking times, temperatures, and seasoning ideas tailored for air fryers.\n\nExploring these recipes helps you make the most of your cod fillet, whether you're cooking a small portion or a large 5 kg batch. Regular visits to our site ensure you always have new and inspiring ideas for air-fried meals."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/5-kg-cod-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

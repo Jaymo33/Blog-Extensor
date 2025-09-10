@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-baking-powder"
-  },
+        },
         "headline": "Quick Guide: Convert 0.125 Cup Baking Powder to Ounces Easily",
         "description": "Discover how to convert 0.125 cup of baking powder to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-baking-powder.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, different ingredients have different densities, so their cup-to-ounce conversions vary. For example, 0.125 cup of flour weighs about 0.5 ounces, while 0.125 cup of sugar is roughly 0.875 ounces. Always check specific conversion charts for each ingredient when adapting recipes for your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe need such a small amount of baking powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate hot air rapidly, which can make baked goods rise more quickly than in conventional ovens. Using just 0.125 cup (1 oz) of baking powder prevents over-rising or a bitter taste. The compact cooking space also means smaller quantities are often sufficient compared to traditional baking methods."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.125 cup without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.125 cup equals 2 tablespoons or 6 teaspoons. You can use standard measuring spoons if you don't have a 1/8 cup measure. For baking powder, it's best to weigh 1 ounce on a kitchen scale for absolute accuracy, especially in air fryer recipes where precision matters."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of baking powder affect the conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most commercial baking powders have similar densities, so 0.125 cup should still equal about 1 ounce across brands. However, some specialty or aluminum-free varieties might vary slightly. When in doubt, weigh your baking powder for the most reliable results in air fryer cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-baking-powder"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

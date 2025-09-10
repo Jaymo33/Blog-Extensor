@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-cocoa-powder"
-  },
+        },
         "headline": "Quick Guide: Convert 475 Grams of Cocoa Powder to Cups Easily",
         "description": "Learn how to convert 475 grams of cocoa powder to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T22:50:32.271Z",
         "dateModified": "2025-07-26T22:50:32.271Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-cocoa-powder.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a kitchen scale, use the spoon-and-level method. Lightly spoon the cocoa powder into a measuring cup until it’s slightly heaped, then level it off with a straight edge. This method ensures you’re not overpacking the cup, giving you roughly 4.75 cups for 475 grams."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of cocoa powder affect the conversion from grams to cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different cocoa powders (natural vs. Dutch-processed) can vary slightly in density. However, the difference is minimal for most home baking. Stick to the general conversion of 475 grams equalling about 4.75 cups, and adjust slightly if your recipe seems too dry or wet."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other dry ingredients like flour or sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, each dry ingredient has a different weight-to-volume ratio. For example, 475 grams of flour equals about 3.75 cups, while sugar is closer to 2.25 cups. Always check a conversion chart for accurate measurements, especially when baking in an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer chocolate cake taste bitter when I use 475 grams of cocoa powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Bitterness can occur if the cocoa powder is over-measured or packed too tightly. Ensure you’re using the correct conversion (4.75 cups for 475 grams) and avoid compacting the powder. Also, balance the cocoa with enough sugar and fat in your recipe for a smoother taste."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:32.271000+00:00",
     "dateModified": "2025-07-26T22:50:32.271000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-cocoa-powder"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

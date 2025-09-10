@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125-cups-chopped-tomatoes"
-  },
+        },
         "headline": "Quick Guide: Convert 1.25 Cups of Chopped Tomatoes to Ounces",
         "description": "Learn how to convert 1.25 cups of chopped tomatoes to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T23:44:02.193Z",
         "dateModified": "2025-08-14T23:44:02.193Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-125-cups-chopped-tomatoes.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute canned chopped tomatoes for fresh in most recipes. Just drain any excess liquid before measuring to ensure accuracy. One 14-ounce can typically yields about 1.5 cups, so adjust accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover chopped tomatoes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store leftover chopped tomatoes in an airtight container in the fridge for up to 3 days. For longer storage, freeze them in portions—they’ll soften when thawed but work well in cooked dishes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the size of the tomato chunks affect the weight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, larger chunks may leave more gaps in the measuring cup, slightly reducing the weight. For the most accurate 10-ounce measurement, aim for uniformly small to medium-sized pieces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use cherry tomatoes instead of chopped tomatoes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Halved or quartered cherry tomatoes can replace chopped tomatoes. Just note that their sweeter flavour might slightly alter the taste of your dish. Measure by volume (1.25 cups) for consistency."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-125-cups-chopped-tomatoes"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

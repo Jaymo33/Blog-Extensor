@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almond-milk"
-  },
+        },
         "headline": "Quick Answer: 0.125 Cup Almond Milk to Ounces UK",
         "description": "Convert 0.125 cup of almond milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T23:45:58.474Z",
         "dateModified": "2025-08-10T23:45:58.474Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-almond-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute other milks like oat or dairy milk for almond milk in 0.125 cup (1 oz) measurements. The volume remains the same, but be aware that thicker milks may slightly affect texture in air fryer recipes. Adjust cooking times if needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.125 cup of almond milk without measuring cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Without measuring cups, use tablespoons - 0.125 cup equals exactly 2 tablespoons. Alternatively, use a kitchen scale to weigh 1 oz (28 grams) of almond milk. These methods ensure accuracy for your air fryer recipes when precise amounts matter."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 0.125 cup of almond milk weigh the same as water?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Almond milk is slightly denser than water, but for practical purposes in air fryer cooking, 0.125 cup (1 oz) of almond milk can be treated as equivalent in weight to water. The small difference won't significantly affect most recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some air fryer recipes specify 0.125 cup almond milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Recipes specify 0.125 cup (1 oz) almond milk when small amounts are needed to maintain perfect moisture balance. In air fryers, excess liquid can create steam and affect crispiness, so precise measurements like this are crucial for best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-almond-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

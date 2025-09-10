@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/13-0-kg-to-pounds"
-  },
+        },
         "headline": "Quick 13.0 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 13.0 kg to pounds instantly for perfect air fryer portions. Master ingredient weights for flawless recipes and consistent results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:57:43.961Z",
         "dateModified": "2025-08-20T17:57:43.961Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/13-0-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 13.0 kg to pounds is crucial for air frying because most recipes provide cooking times and temperatures based on the weight of the food. An air fryer cooks by circulating hot air, and the mass of the ingredient directly affects how long it takes to cook through. If you use the wrong weight, you risk undercooking or burning your food. Knowing the accurate pound equivalent (28.66 lbs) ensures you can follow recipes precisely for perfect, safe results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What is the easiest way to convert 13.0 kilograms to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The easiest way to convert 13.0 kilograms to pounds is to use a digital kitchen scale with a unit conversion feature. Simply place your item on the scale, and with one button press, it will switch from displaying kilograms to showing the weight in pounds and ounces. Alternatively, you can use a trusted online converter or a simple calculator app by multiplying 13.0 by 2.20462 to get the answer of 28.66 pounds instantly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My recipe asks for pounds and ounces; what is 13.0 kg in pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "13.0 kg converts to 28 pounds and 10.56 ounces. We get this by first converting the entire weight to pounds (28.66 lbs). The whole number, 28, is the pounds. We then take the decimal part, 0.66, and multiply it by 16 (as there are 16 ounces in a pound), which gives us 10.56 ounces. This precise breakdown is helpful for recipes that require very specific measurements, particularly in baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I have a 13.0 kg turkey; how long do I cook it in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 13.0 kg turkey is a very large bird, weighing approximately 28.66 pounds. Most standard countertop air fryers cannot accommodate a turkey of this size whole. You would likely need to spatchcock (butterfly) the turkey or cook it in parts. For a spatchcocked turkey of that weight, cooking time would still be extensive and would require careful monitoring with a meat thermometer. It's always best to consult a specific recipe designed for large poultry in an air fryer, adjusting time based on the actual weight in pounds."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:57:43.961000+00:00",
     "dateModified": "2025-08-20T17:57:43.961000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/13-0-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

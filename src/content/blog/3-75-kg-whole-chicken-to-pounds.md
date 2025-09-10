@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 3.75 kg whole chicken to pounds conversion guide",
         "description": "Convert 3.75 kg whole chicken to pounds instantly. Get perfect air fryer cooking times with our simple weight conversion chart and tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-75-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3.75 kg whole chicken, which is approximately 8.27 pounds, typically takes about 60-70 minutes to cook thoroughly in an air fryer at 180°C. The exact time can vary depending on your specific air fryer model and whether the chicken was refrigerated or at room temperature before cooking. Always use a meat thermometer to check that the thickest part of the thigh reaches at least 75°C for food safety."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I adjust the temperature when air frying a 3.75 kg whole chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a 3.75 kg whole chicken, maintaining a consistent temperature of 180°C is generally recommended in most air fryers. This temperature allows the skin to become crispy while the meat cooks through without drying out. If your chicken is browning too quickly, you can reduce the temperature slightly to 170°C for the remainder of the cooking time. Avoid higher temperatures as they may cause the outside to burn before the interior is fully cooked."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert chicken weights from kg to pounds for other sizes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert any chicken weight from kilograms to pounds, simply multiply the kilogram measurement by 2.20462. For example, a 2 kg chicken would be 4.40924 pounds (roughly 4.4 pounds), while a 1.5 kg chicken would be about 3.3 pounds. Keeping a simple conversion chart in your kitchen can be helpful for quick reference when planning meals and cooking times. Many modern digital scales also offer unit conversion features to make this process effortless."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 3.75 kg whole chicken in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While many air fryers can accommodate a 3.75 kg whole chicken, it's important to check your specific model's capacity first. Larger basket-style air fryers typically work best for birds of this size, ensuring proper air circulation around the chicken. If your air fryer is on the smaller side, you might need to spatchcock the chicken (remove the backbone and flatten it) for even cooking. Always consult your air fryer's manual for maximum weight recommendations and avoid overcrowding the basket for best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

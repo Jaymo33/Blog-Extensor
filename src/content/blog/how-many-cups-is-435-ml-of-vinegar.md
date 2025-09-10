@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vinegar"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 435 ml of Vinegar?",
         "description": "Discover how to convert 435 ml of vinegar to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, cup measurements vary by region. In the US, 435 ml equals 1.84 cups (240 ml per cup), while in the UK, it’s approximately 1.53 cups (284 ml per cup). Always check your recipe’s origin to confirm which standard it uses."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a regular drinking glass to measure 435 ml of vinegar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While possible, it’s not ideal. A typical UK mug holds about 300 ml, so you’d need roughly 1.5 mugs for 435 ml. For accuracy, use a liquid measuring cup with clear millilitre markings to avoid over- or under-pouring."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of vinegar affect the cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The volume remains the same, but thicker vinegars (like balsamic) may cling to measuring tools. Lightly coating the cup with oil helps ensure you get the full 435 ml. For thin vinegars (white or apple cider), no adjustments are needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 435 ml of vinegar to tablespoons for smaller recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "435 ml equals about 29 tablespoons (1 tbsp = 15 ml). This is handy for dressings or sauces where you need smaller increments. For air fryer marinades, sticking to cups or millilitres is often easier for larger quantities."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

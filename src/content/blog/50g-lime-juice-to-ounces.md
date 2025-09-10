@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/50g-lime-juice-to-ounces"
-  },
+        },
         "headline": "Quick 50g lime juice to ounces conversion for air fryer recipes",
         "description": "Convert 50g of lime juice to ounces in seconds with our easy guide. Perfect for air fryer marinades, dressings, and more!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-lime-juice-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, bottled lime juice can substitute fresh in a pinch, and 50g will still equal roughly 1.76 ounces. However, bottled juice often lacks the vibrant flavour of fresh lime and may contain additives. For best results in air fryer recipes, opt for freshly squeezed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many limes do I need for 50g of juice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "One large lime typically yields 50g of juice, while smaller limes may require 1.5–2. Roll limes firmly on a counter before juicing to maximise yield. If precision matters, strain the juice and measure with a scale or tablespoons."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 50g of lime juice equal 50ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For lime juice, 50g is roughly equivalent to 50ml, as its density is close to water. However, factors like pulp or temperature can cause slight variations. When accuracy is crucial, weigh the juice for consistent results in air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute lemon juice for lime juice in a 50g measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 50g of lemon juice also equals about 1.76 ounces and can replace lime in most recipes. The flavour will be slightly different—less tropical, more tart—but it works well in marinades, dressings, and glazes for air-fried dishes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/50g-lime-juice-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-maple-syrup"
-  },
+        },
         "headline": "Quick Conversion: How Many ml Is 2.75 Cups of Maple Syrup?",
         "description": "Discover the exact ml measurement for 2.75 cups of maple syrup with our easy guide. Perfect for baking and air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T08:54:43.455Z",
         "dateModified": "2025-07-30T08:54:43.455Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-maple-syrup.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 2.75 cups of maple syrup equals approximately 650 ml in both the UK and USA. While cup sizes can vary slightly by country, the difference is negligible for most recipes, especially when using an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for maple syrup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Maple syrup weighs about 312 grams per cup, so 2.75 cups would be roughly 858 grams. Using a scale can be more accurate than measuring cups, especially for sticky ingredients."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 2.75 cups of maple syrup last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An unopened bottle of maple syrup can last up to a year in the pantry and even longer in the fridge. Once opened, store it in the fridge and use it within 6 months for best quality."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to clean maple syrup from my air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For sticky residues, soak the basket in warm, soapy water, then scrub gently. Avoid abrasive tools to prevent damage. For more tips, check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a>."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:43.455000+00:00",
     "dateModified": "2025-07-30T08:54:43.455000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-maple-syrup"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

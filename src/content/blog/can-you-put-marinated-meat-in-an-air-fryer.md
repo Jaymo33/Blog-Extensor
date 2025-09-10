@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-marinated-meat-in-an-air-fryer"
-  },
+        },
         "headline": "Can You Put Marinated Meat in an Air Fryer? UK Guide",
         "description": "Wondering if marinated meat works in an air fryer? Learn safety tips, best practices, and delicious results for UK air fryer cooking.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T22:38:02.529Z",
         "dateModified": "2025-07-22T22:38:02.529Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-marinated-meat-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Properly prepared marinated chicken won't catch fire, but excess oil or sugary marinades can cause smoking. Always pat dry chicken pieces before air frying and monitor during cooking. Keeping your air fryer clean prevents flare-ups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long should I marinate meat for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Marinate thin cuts like chicken breasts for 30 minutes to 2 hours. Thicker cuts like pork shoulder benefit from 4-12 hours. Overnight marinating works well for large roasts. Avoid exceeding 24 hours with acidic marinades as they can make meat mushy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the leftover marinade as sauce after air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Never reuse marinade that contacted raw meat unless you boil it vigorously for at least 5 minutes first. Better to reserve some fresh marinade before adding to meat, or make extra sauce separately for food safety."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my marinated meat stick to the air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sticking usually occurs from insufficient oil in the marinade or overcrowding. Lightly spray the basket with oil, leave space between pieces, and flip halfway. Using parchment liners with holes also prevents sticking while allowing airflow."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
     "dateModified": "2025-07-22T22:38:02.529000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-marinated-meat-in-an-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

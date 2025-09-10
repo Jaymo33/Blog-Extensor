@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-evaporated-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 410 ml of Evaporated Milk to Cups Easily",
         "description": "Learn how to convert 410 ml of evaporated milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-410-ml-of-evaporated-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, evaporated milk is thicker and more concentrated than regular milk. While 410 ml of evaporated milk equals about 1.73 cups, regular milk would measure the same in volume but differ in consistency and flavour. Always adjust recipes accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 410 ml of evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a kitchen scale can be used if you know the density. Evaporated milk weighs roughly 252 grams per 250 ml, so 410 ml would be around 413 grams. However, using a measuring cup is often quicker and more convenient for liquid measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of cup (UK vs. US) affect the conversion for 410 ml of evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The difference is minimal. In the UK, 410 ml is about 1.73 cups (240 ml per cup), while in the US, it's also roughly 1.73 cups (236.59 ml per cup). For most recipes, this small variance won’t impact the outcome."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What can I substitute for 410 ml of evaporated milk in a recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use an equal amount of half-and-half or a mix of regular milk and powdered milk. For a dairy-free option, coconut milk works well, though it will alter the flavour slightly. Always adjust other ingredients if needed."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-evaporated-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

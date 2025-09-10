@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-mozzarella-cheese"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 325 Grams of Mozzarella Cheese?",
         "description": "Discover how to convert 325 grams of mozzarella cheese to cups for perfect air fryer recipes. Get precise measurements and cooking tips today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:34:06.484Z",
         "dateModified": "2025-07-26T21:34:06.484Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-mozzarella-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 325 grams of mozzarella cheese is the same weight in both the UK and USA. However, cup sizes can vary slightly between countries. In the UK, 325 grams of shredded mozzarella cheese is roughly 2.7 cups, while in the USA, it's about the same. Always use a kitchen scale for the most accurate measurement."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use pre-shredded mozzarella cheese for 325 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use pre-shredded mozzarella cheese for 325 grams. Pre-shredded cheese is convenient and works well in air fryer recipes. Just ensure you measure it accurately, as pre-shredded cheese may contain anti-caking agents that slightly affect volume. For best results, lightly pack the cheese into the measuring cup."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover mozzarella cheese after measuring 325 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store leftover mozzarella cheese in an airtight container or resealable bag in the fridge. It will stay fresh for up to a week. If you won't use it soon, consider freezing it for up to 3 months. Thaw frozen mozzarella in the fridge before using it in your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What air fryer recipes work best with 325 grams of mozzarella cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "325 grams of mozzarella cheese is perfect for air fryer pizzas, stuffed mushrooms, or cheesy garlic bread. It's also great for making mozzarella sticks or adding a cheesy topping to casseroles. For more recipe ideas, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> and explore our collection."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-mozzarella-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

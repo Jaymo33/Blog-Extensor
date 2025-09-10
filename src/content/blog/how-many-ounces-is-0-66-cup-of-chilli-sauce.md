@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-chilli-sauce"
-  },
+        },
         "headline": "Quick Answer: 0.66 Cup of Chilli Sauce to Ounces UK",
         "description": "Find out exactly how many ounces are in 0.66 cup of chilli sauce with this easy UK conversion guide—perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-chilli-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, UK and US cup measurements are the same for liquid ingredients like chilli sauce. Just ensure you’re using a standard metric cup (240ml) and not a teacup. For precision, weighing out 5.28 ounces is even better."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust the recipe if I only have a 1-cup measure?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fill your 1-cup measure two-thirds full to approximate 0.66 cup. Alternatively, use 1/3 cup twice. For exact results, weigh 5.28 ounces on a kitchen scale. This method eliminates guesswork in air fryer cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of chilli sauce affect the ounce conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Thicker sauces may weigh slightly more, but the difference is minimal for most recipes. Stick to the 5.28-ounce conversion unless your sauce is extremely dense. Always taste and adjust seasonings as needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze 0.66 cup portions of chilli sauce for later use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Freezing 5.28-ounce portions in airtight containers works well. Thaw in the fridge before using in your air fryer. This is great for meal prep or saving leftover sauce from larger bottles."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-chilli-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

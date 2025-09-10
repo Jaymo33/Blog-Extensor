@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-7-kg-to-pounds"
-  },
+        },
         "headline": "Quick 4.7 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 4.7 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-7-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.7 kg is equal to 10.3617 pounds. This conversion is done by multiplying the kilogram value by the conversion factor of 2.20462. It's a very useful figure to know for portioning larger items like joints of meat or big bags of vegetables for your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 4.7 kilograms to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert 4.7 kg to pounds, which is 10.3617 lbs. The whole number is 10 pounds. Then, take the decimal part (0.3617) and multiply it by 16 (since there are 16 ounces in a pound), which gives you approximately 5.8 ounces. So, 4.7 kg is 10 pounds and 5.8 ounces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is a 4.7 kg chicken too big for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a 4.7 kg chicken, which is over 10 pounds, is almost certainly too large to fit whole in a standard air fryer basket. For best results, you would need to spatchcock (butterfly) the chicken or break it down into smaller pieces like breasts, thighs, and drumsticks before air frying. This ensures the hot air can circulate properly for even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert weights for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Accurate weight conversions are crucial for air fryer cooking because these appliances rely on hot air circulation. Overloading the basket with too much food, calculated by weight, blocks the airflow and leads to steamed, soggy results instead of crispy ones. Converting weights like 4.7 kg to pounds helps you portion correctly for perfect batches every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-7-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

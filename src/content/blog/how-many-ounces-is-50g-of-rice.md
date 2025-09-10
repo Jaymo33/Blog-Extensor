@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-rice"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 50g of rice?",
         "description": "Find out how many ounces 50g of rice equals for perfect air fryer portions. Includes UK conversions and cooking tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T23:45:58.474Z",
         "dateModified": "2025-08-10T23:45:58.474Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-50g-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 50g of rice is not the same as 50ml. Grams measure weight, while millilitres measure volume. The volume of 50g of rice depends on the type and how it’s packed, but it’s roughly ¼ cup or 60ml. For accuracy in air fryer recipes, always weigh rice in grams or ounces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many calories are in 50g of rice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "50g of uncooked white rice contains about 180 calories, while brown rice has roughly 170 calories. Cooking increases the volume but not the calorie count per gram. For healthier air fryer meals, pair 50g of rice with lean proteins or veggies from our recipe collection."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 50g of rice directly in the air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It’s best to cook 50g of rice in a heatproof dish inside the air fryer, not directly in the basket. The dish helps retain moisture and prevents rice grains from falling through. Use a small oven-safe bowl or foil tray for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover cooked rice from 50g uncooked?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After cooking 50g of rice, let it cool before storing in an airtight container in the fridge for up to 3 days. Reheat portions in the air fryer at 160°C for 5 minutes, sprinkling with water to prevent dryness. Always ensure rice is piping hot before serving."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

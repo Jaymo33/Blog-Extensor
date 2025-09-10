@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-vegetable-oil"
-  },
+        },
         "headline": "Quick Guide: Convert 660 ml of Vegetable Oil to Cups Easily",
         "description": "Learn how to convert 660 ml of vegetable oil to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-vegetable-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 660 ml of vegetable oil is not the same as 660 grams. Vegetable oil has a density of about 0.92 grams per ml, so 660 ml equals roughly 607 grams. Always check your recipe’s requirements for accurate measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use olive oil instead of vegetable oil in the same quantity?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute olive oil for vegetable oil in the same quantity (660 ml or 2.79 cups). However, olive oil has a stronger flavour, which may affect the taste of your dish. For neutral flavours, stick to vegetable oil."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 660 ml of vegetable oil without a measuring jug?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a measuring jug, use a standard drinking glass or mug. A typical UK mug holds about 284 ml, so 660 ml would be roughly 2.3 mugs. For better accuracy, use tablespoons (44.6 tablespoons for 2.79 cups)."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do air fryer recipes often specify ml instead of cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer recipes use ml because it’s a more precise measurement, especially for liquids like oil. Cups can vary slightly depending on the country or measuring tool, while ml provides consistency. Always convert carefully for best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-vegetable-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

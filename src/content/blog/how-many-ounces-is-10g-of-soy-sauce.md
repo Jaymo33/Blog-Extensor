@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-of-soy-sauce"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 10g of soy sauce?",
         "description": "Find out how many ounces 10g of soy sauce is with our simple conversion guide. Perfect for air fryer recipes and precise measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T23:46:47.435Z",
         "dateModified": "2025-08-08T23:46:47.435Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-10g-of-soy-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can approximate 10g of soy sauce (0.35 oz) using two teaspoons. While this isn’t as precise as a digital scale, it works in a pinch. For air fryer recipes, consistency matters, so we recommend using a scale for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to measure soy sauce accurately in air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers cook food quickly and evenly, so precise measurements prevent over-seasoning or under-seasoning. Too much soy sauce can make dishes overly salty, while too little may lack flavour. Accurate conversions, like 10g to 0.35 oz, ensure balanced results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 10g of soy sauce in marinades for air fryer chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 10g of soy sauce (0.35 oz) is perfect for marinating air fryer chicken, adding rich umami flavour without overpowering the dish. Check out our chicken recipes for marinade ideas and cooking times."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of soy sauce affect the 10g to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most soy sauces have a similar density, so 10g will generally equal 0.35 oz regardless of type (light, dark, or tamari). However, thicker sauces like kecap manis may vary slightly. Stick to standard soy sauce for consistent results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-of-soy-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

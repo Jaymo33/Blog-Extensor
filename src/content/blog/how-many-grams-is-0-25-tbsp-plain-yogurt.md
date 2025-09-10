@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-plain-yogurt"
-  },
+        },
         "headline": "Quick Answer: 0.25 tbsp plain yogurt to grams conversion",
         "description": "Discover how many grams are in 0.25 tbsp of plain yogurt with our easy UK conversion guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-plain-yogurt.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Greek yogurt is thicker than regular plain yogurt, so while you can use it, you'll need to adjust the quantity. For 0.25 tbsp plain yogurt (3.75g), you might use about 0.2 tbsp Greek yogurt to get a similar weight. Always check the consistency of your mixture when substituting."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.25 tbsp of yogurt without special spoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a 1/4 tablespoon measure, you can use a teaspoon - 0.25 tbsp equals 3/4 teaspoon. Alternatively, use your 1 tbsp measure and fill it just to the 25% mark. For ultimate precision, weighing 3.75g on digital scales is most accurate."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the fat content affect the grams per tablespoon measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, slightly. Full-fat yogurts tend to be denser than low-fat versions, but the difference is minimal for small quantities like 0.25 tbsp. The standard 15g per tablespoon (3.75g for 0.25 tbsp) works for most plain yogurts regardless of fat content."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need such a small yogurt measurement for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Tiny measurements like 0.25 tbsp are perfect for single-serving recipes or when dividing larger recipes. They're also useful for adding just a hint of yogurt to marinades or glazes without overwhelming other flavours. The air fryer's efficiency means small quantities can have big flavour impact."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-plain-yogurt"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-balsamic-vinegar"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 3 cups of balsamic vinegar?",
         "description": "Discover how many ounces are in 3 cups of balsamic vinegar with our simple conversion guide. Perfect for air fryer recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-balsamic-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For balsamic vinegar and most liquids, fluid ounces measure volume rather than weight. 3 cups (24 fluid ounces) of balsamic vinegar will have a slightly different weight in ounces due to density, but for cooking purposes, fluid ounces are typically used in recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this same conversion for other types of vinegar in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion of 3 cups to 24 fluid ounces applies to all types of vinegar, including white, apple cider, and red wine vinegar. The density is similar enough that the volume measurement works across varieties for air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the UK fluid ounce measurement affect this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While UK fluid ounces are about 4% larger than US fluid ounces, the difference is minimal for home cooking. Unless you're making very large batches or need laboratory precision, you can safely use the 3 cups = 24 fluid ounces conversion in the UK."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to measure 3 cups of balsamic vinegar without making a mess?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a liquid measuring cup with a spout and measure on a flat surface. For sticky balsamic vinegar, lightly coat the measuring cup with oil first to help it pour out cleanly. This technique works well when preparing air fryer marinades or glazes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-balsamic-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

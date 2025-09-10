@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-granulated-sugar"
-  },
+        },
         "headline": "Quick Guide: Convert 325 Grams of Granulated Sugar to Cups",
         "description": "Learn how to convert 325 grams of granulated sugar to cups for perfect baking every time. Includes UK and US measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:34:06.484Z",
         "dateModified": "2025-07-26T21:34:06.484Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-granulated-sugar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there's a slight difference. In the UK, 325 grams of granulated sugar equals about 1.6 cups, while in the US, it's approximately 1.63 cups. This is due to minor variations in cup sizes between the two regions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 325 grams of granulated sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but accuracy may vary. Use the spoon-and-level method for best results. Fluff the sugar first, then lightly spoon it into the cup and level it off. For precision, a kitchen scale is recommended, especially for air fryer baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 325 grams of granulated sugar affect air fryer desserts?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sugar impacts texture, browning, and moisture in desserts. 325 grams ensures proper caramelisation and structure in treats like cakes or cookies. Too much or too little can alter the final result, so measuring carefully is key."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What recipes commonly use 325 grams of granulated sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This amount is ideal for cakes, cookies, and caramel-based desserts. It's a standard measurement for many baking recipes, including air fryer-friendly options like brownies or sponges. Always adjust based on your specific recipe requirements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-granulated-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

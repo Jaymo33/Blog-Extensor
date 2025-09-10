@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-harissa-paste"
-  },
+        },
         "headline": "Quick Guide: Convert 0.5 Cup Harissa Paste to Ounces Easily",
         "description": "Discover how many ounces are in 0.5 cup of harissa paste with our simple conversion guide—perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-17T23:33:52.556Z",
         "dateModified": "2025-08-17T23:33:52.556Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-harissa-paste.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Harissa powder and paste aren't interchangeable in equal amounts. For 0.5 cup of harissa paste (4 oz), you'd need about 2-3 tablespoons of powder mixed with oil or water. Adjust to taste, as powder tends to be more concentrated."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 0.5 cup of harissa paste last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A sealed 0.5 cup (4 oz) portion of harissa paste stays fresh for 3-4 weeks refrigerated. For longer storage, freeze it in smaller portions. Always check for mould or off smells before use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 0.5 cup of harissa paste too spicy for most recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.5 cup (4 oz) of harissa paste suits medium-spicy dishes serving 4-6 people. For milder results, reduce to 2-3 oz or mix with yogurt or tomato paste to temper the heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute sriracha for harissa paste in a 0.5 cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sriracha works as a substitute but has a different flavour profile. Use slightly less (about 3 oz) for 0.5 cup harissa paste, as sriracha is thinner and more vinegar-forward. Adjust other seasonings accordingly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-harissa-paste"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

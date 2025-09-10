@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-diced-peppers"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 1.33 cups of diced peppers?",
         "description": "Find out exactly how many ounces are in 1.33 cups of diced peppers for perfect air fryer recipes. Convert measurements effortlessly!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-diced-peppers.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use frozen diced peppers, but ensure they’re thawed and drained first. Excess moisture from freezing can affect weight, so pat them dry before measuring 1.33 cups or weighing 10.6 ounces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of pepper affect the weight per cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Slightly—denser peppers like bell peppers may weigh a bit more than thinner varieties. However, the difference is minimal, and 1.33 cups will still be close to 10.6 ounces for most common peppers."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust air fryer time for 1.33 cups of diced peppers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "At 180°C, diced peppers usually take 8–10 minutes. For 1.33 cups (10.6 ounces), stick to the lower end if cooking alone, or add a minute if mixed with other ingredients. Shake the basket halfway for even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute jarred roasted peppers for fresh in this measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Jarred peppers are softer and may pack differently, so weigh them instead. Aim for 10.6 ounces, and reduce added oil in the recipe since jarred peppers often come in oil. Pat them dry to avoid excess moisture."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-diced-peppers"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

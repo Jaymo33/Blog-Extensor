@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-olive-oil"
-  },
+        },
         "headline": "Quick & Easy Conversion: 2.75 Cups of Olive Oil to ml",
         "description": "Convert 2.75 cups of olive oil to ml in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T08:54:40.475Z",
         "dateModified": "2025-07-30T08:54:40.475Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-olive-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, US and UK cup sizes differ slightly. In the US, 2.75 cups of olive oil equals 651 ml, while in the UK, it’s approximately 781 ml. For air fryer recipes, it’s best to stick to one measurement system to avoid inconsistencies."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for olive oil?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a kitchen scale works well for measuring olive oil by weight. Since olive oil weighs about 0.92 grams per ml, 651 ml (2.75 cups) would weigh roughly 599 grams. This method is especially handy for precise baking recipes in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long will 2.75 cups of olive oil last in air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on your usage. For a standard air fryer recipe using 1-2 tablespoons per batch, 651 ml (2.75 cups) could last for 20-30 meals. Store unused oil properly to maintain freshness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to clean my air fryer after using olive oil?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After cooking with olive oil, let your air fryer cool slightly, then wipe it with a damp cloth. For tougher residue, use warm soapy water or a dedicated <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid harsh scrubbing to protect non-stick coatings."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:40.475000+00:00",
     "dateModified": "2025-07-30T08:54:40.475000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-olive-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

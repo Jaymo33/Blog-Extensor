@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/29-75-kg-to-pounds"
-  },
+        },
         "headline": "Quick 29.75 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 29.75 kg to pounds instantly for perfect air fryer portions. Get easy kg to lb charts, tips, and avoid recipe confusion with our guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T22:25:08.238Z",
         "dateModified": "2025-08-21T22:25:08.238Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/29-75-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 29.75 kg to pounds is essential for air frying because recipes and appliance guidelines often use different measurement systems. Many air fryer recipes from American sources use pounds, while UK and European recipes might use kilograms. Accurate conversion ensures proper cooking times and temperatures, which is crucial for achieving perfect results in your air fryer. Getting the weight right prevents undercooking or overcooking, especially with larger items like joints of meat or batch-cooked vegetables."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 29.75 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can convert 29.75 kg to pounds without a calculator by using a simple approximation method. Remember that 1 kilogram is roughly equal to 2.2 pounds, so multiply 29.75 by 2.2 to get approximately 65.45 pounds. For a more accurate mental calculation, use 2.2046 pounds per kilogram, which gives you about 65.59 pounds for 29.75 kg. Keeping a conversion chart in your kitchen or using a smartphone app can make these calculations even easier when you're preparing air fryer meals."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion from 29.75 kg to pounds affect cooking time in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from 29.75 kg to pounds directly affects cooking time in your air fryer. Air fryers cook by circulating hot air around food, and the weight of the ingredients determines how long they need to cook. A 65.59-pound item (converted from 29.75 kg) will require significantly longer cooking time than smaller portions. Always adjust cooking times based on the actual weight of your ingredients, and consult your air fryer's manual for guidance on cooking larger items. Proper weight conversion ensures your food cooks evenly and reaches the desired internal temperature."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion factor for all weight measurements in air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use the same conversion factor (1 kg = 2.20462 pounds) for all weight measurements in air frying. This consistency ensures accuracy whether you're converting 29.75 kg to pounds or any other amount. However, remember that different foods may have different density characteristics that affect how they cook in the air fryer. While the weight conversion remains constant, cooking times may vary based on the specific food type, not just its weight. Always consider the food's properties alongside weight conversions for the best air frying results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/29-75-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

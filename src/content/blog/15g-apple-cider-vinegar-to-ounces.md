@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/15g-apple-cider-vinegar-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 15g of Apple Cider Vinegar to Ounces",
         "description": "Learn how to convert 15g of apple cider vinegar to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T23:46:47.435Z",
         "dateModified": "2025-08-08T23:46:47.435Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-apple-cider-vinegar-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 15g of apple cider vinegar can often substitute white or red wine vinegar in equal amounts. Its mild acidity and fruity notes work well in most recipes. However, avoid swapping it for stronger vinegars like malt vinegar unless you adjust the quantity."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store apple cider vinegar after measuring 15g?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store apple cider vinegar in a cool, dark place with the lid tightly sealed. It doesn’t need refrigeration and can last for years. If you’ve poured out 15g, simply wipe the bottle’s rim to prevent residue buildup."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 15g of apple cider vinegar affect air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 15g of apple cider vinegar won’t significantly alter cooking times. However, it can enhance browning and tenderness in meats. Always follow your recipe’s recommended timings and check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for adjustments."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 15g of apple cider vinegar the same as 15ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 15g of apple cider vinegar is roughly 14.2ml due to its density. For precise liquid measurements, use a graduated measuring spoon or jug. Weight (grams) is more accurate for recipes requiring exact proportions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/15g-apple-cider-vinegar-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

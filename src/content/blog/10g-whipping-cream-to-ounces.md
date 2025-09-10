@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-whipping-cream-to-ounces"
-  },
+        },
         "headline": "Quick 10g whipping cream to ounces conversion for UK cooks",
         "description": "Convert 10g of whipping cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-whipping-cream-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can approximate 10g of whipping cream (about 0.35 ounces) with measuring cups, it's not as precise. One tablespoon equals roughly 15g, so 10g would be about two-thirds of a tablespoon. For air fryer recipes where precision matters, we recommend using digital kitchen scales for the most accurate 10g whipping cream to ounces conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the fat content affect the 10g to ounces conversion for whipping cream?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The fat content slightly affects the density of whipping cream, but not enough to significantly change the 10g to ounces conversion. Whether single (18% fat) or double (48% fat) cream, 10 grams will still equal approximately 0.35 ounces. The main difference is in texture and whipping properties rather than weight conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many calories are in 10g of whipping cream?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "There are approximately 34 calories in 10 grams (0.35 ounces) of standard whipping cream (35% fat). If you're using lighter or heavier cream, the calorie count may vary slightly. When incorporating 10g whipping cream into air fryer recipes, this small amount adds richness without excessive calories."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute milk for 10g of whipping cream in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute milk for 10g whipping cream (0.35 ounces) in some recipes, but the results will differ. Milk has less fat, so it won't provide the same richness or stability when whipped. For best results in air fryer cooking, stick to whipping cream when the recipe specifically calls for it, especially in delicate desserts or sauces."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-whipping-cream-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

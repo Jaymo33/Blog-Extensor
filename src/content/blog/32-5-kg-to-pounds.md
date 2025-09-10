@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/32-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick 32.5 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 32.5 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T22:25:08.238Z",
         "dateModified": "2025-08-21T22:25:08.238Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/32-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 32.5 kg to pounds is essential for air frying because many recipes and ingredient packages use different measurement systems. Accurate conversions ensure you use the right portion sizes for your air fryer basket, preventing overcrowding and promoting even cooking. This is especially important for achieving that perfect crispy texture we all love from air-fried foods."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple 2.2 multiplier to convert 32.5 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While using 2.2 as a multiplier for converting 32.5 kg to pounds is common for rough estimates, it's not perfectly accurate. The precise conversion factor is 2.20462, which gives you 71.65 pounds instead of 71.5 pounds when using 2.2. For most cooking purposes, the difference is negligible, but for precision baking or large quantities, using the exact factor is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 32.5 kg to pounds help with meal prepping?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 32.5 kg to pounds helps with meal prepping by allowing you to accurately portion bulk ingredients into air fryer-friendly sizes. Knowing the exact weight in pounds makes it easier to divide large purchases into individual servings that fit your air fryer's capacity. This approach saves time during busy weeks and ensures each portion cooks evenly and efficiently."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tools that can convert 32.5 kg to pounds automatically?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, several tools can automatically convert 32.5 kg to pounds for you. Most digital kitchen scales have a unit conversion button that switches between kilograms and pounds instantly. There are also smartphone apps and voice assistants that can handle the conversion quickly, eliminating any need for manual calculations while you're preparing ingredients."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/32-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

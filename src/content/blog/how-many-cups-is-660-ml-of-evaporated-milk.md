@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-evaporated-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 660 ml of Evaporated Milk to Cups Easily",
         "description": "Learn how to convert 660 ml of evaporated milk to cups for perfect baking and cooking results every time. Simple, accurate measurements!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-evaporated-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 660 ml of evaporated milk and regular milk occupy the same volume, evaporated milk is thicker due to its reduced water content. This means it will pour more slowly and may measure slightly differently if you're using displacement methods. For cup measurements, however, 660 ml equals approximately 2.8 cups for both."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a different measurement if I don't have exactly 660 ml of evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can adjust recipes if you're slightly off the 660 ml mark. For small differences (like 50 ml more or less), your recipe will likely still work. For larger adjustments, you may need to tweak other ingredients to maintain the right consistency, especially in baked goods or sauces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 660 ml of evaporated milk convert to fluid ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "660 ml of evaporated milk converts to approximately 22.3 UK fluid ounces or 22.3 US fluid ounces. While the fluid ounce measurements are the same numerically between UK and US for this conversion, it's worth noting that UK and US fluid ounces differ slightly in volume for other measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes specifically call for 660 ml of evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "660 ml is a common can size for evaporated milk in many countries, making it a convenient measurement for recipes. This quantity is often enough to provide richness and creaminess without overpowering dishes. Many traditional recipes have been developed using this standard can size, which is why you'll see it frequently in cookbooks and online recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-evaporated-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

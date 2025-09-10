@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-balsamic-vinegar"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 160 ml of Balsamic Vinegar?",
         "description": "Discover how to convert 160 ml of balsamic vinegar to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:32:39.600Z",
         "dateModified": "2025-07-30T23:32:39.600Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-balsamic-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 160 ml of balsamic vinegar is not the same as 160 grams. The weight depends on the vinegar’s density, which can vary. Generally, 160 ml of balsamic vinegar weighs around 168 grams, but it’s best to measure by volume for accuracy in recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 160 ml of balsamic vinegar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but ensure it’s a metric measuring cup for precision. A standard US cup is 240 ml, so 160 ml of balsamic vinegar would be roughly two-thirds of a cup. For best results, use a jug with millilitre markings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I reduce 160 ml of balsamic vinegar for a glaze?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Simmer 160 ml of balsamic vinegar in a saucepan over low heat until it thickens, about 10-15 minutes. Stir occasionally to prevent burning. The reduced vinegar will be sweeter and more concentrated, perfect for drizzling over air-fried dishes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What recipes can I make with 160 ml of balsamic vinegar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use 160 ml of balsamic vinegar in marinades, glazes, dressings, or even reductions. Try it with air-fried chicken, roasted vegetables, or as a drizzle over strawberries. Check our recipe section for more creative ideas."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-balsamic-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

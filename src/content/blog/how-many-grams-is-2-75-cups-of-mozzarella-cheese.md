@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-mozzarella-cheese"
-  },
+        },
         "headline": "Quick Guide: Convert 2.75 Cups of Mozzarella Cheese to Grams",
         "description": "Learn how to convert 2.75 cups of mozzarella cheese to grams for perfect air fryer recipes every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T16:03:14.463Z",
         "dateModified": "2025-07-28T16:03:14.463Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-mozzarella-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 2.75 cups of mozzarella cheese is roughly 310 grams in both the UK and US. While cup sizes can vary slightly by country, the weight in grams remains consistent. For air fryer recipes, using grams ensures accuracy regardless of where your recipe originates."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use pre-shredded mozzarella for this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Pre-shredded mozzarella works fine for this conversion. Just lightly pack it into the measuring cup to get 2.75 cups, which equals about 310 grams. However, freshly shredded cheese often melts better, so consider that for dishes like pizza or mozzarella sticks."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust the measurement if my mozzarella is very wet?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If using fresh, high-moisture mozzarella, you might need slightly less by volume to reach 310 grams. We recommend weighing it for precision. Excess moisture can affect air fryer cooking, so patting the cheese dry before use can also help."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to store leftover mozzarella after measuring?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store leftover mozzarella in an airtight container in the fridge for up to a week. For longer storage, freeze it in portions. When ready to use, thaw it in the fridge overnight. This ensures your cheese stays fresh for future air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T16:03:14.463000+00:00",
     "dateModified": "2025-07-28T16:03:14.463000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-mozzarella-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

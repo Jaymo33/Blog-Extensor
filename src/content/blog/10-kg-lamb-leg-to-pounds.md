@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Easy 10 kg lamb leg to pounds conversion for perfect roasting",
         "description": "Convert 10 kg lamb leg to pounds quickly for accurate cooking times and delicious results with our simple guide and air fryer tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 10 kg lamb leg to pounds is essential because most air fryer recipes and manufacturer guidelines use pounds for weight-based cooking times and temperatures. Air fryers cook food faster than traditional ovens, and precise weight ensures you don't undercook or overcook your lamb. Knowing the pound equivalent helps you set the correct settings for juicy, perfectly cooked meat every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a whole 10 kg lamb leg in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most standard air fryers cannot accommodate a whole 10 kg lamb leg due to its size—it converts to about 22 pounds. You'll likely need to cut it into smaller portions that fit your air fryer basket. Cooking in batches ensures even air circulation and proper cooking. Always check your air fryer's maximum capacity and consider using a larger model if you frequently cook large cuts."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 10 kg lamb leg to pounds affect cooking time?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking time directly correlates with weight, so converting 10 kg lamb leg to pounds (approximately 22 pounds) helps you calculate accurate air frying durations. Larger weights require longer cooking times, but air fryers often cook faster than ovens. Use a meat thermometer to check for an internal temperature of 145°F for medium-rare or 160°F for medium, adjusting time based on your air fryer's performance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tips for seasoning a 10 kg lamb leg after conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After converting 10 kg lamb leg to pounds (22 pounds), scale your seasoning accordingly—for example, use about 22 tablespoons of rub if a recipe calls for 1 tablespoon per pound. Ensure even coverage by making small incisions and rubbing seasoning into the meat. For air frying, lightly oil the surface to help spices adhere and promote crisping. Let the lamb rest after cooking to redistribute juices for maximum flavor."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jam-doughnuts-in-air-fryer"
-  },
+        },
         "headline": "Reheat Jam Doughnuts in Air Fryer – Quick & Crispy Guide",
         "description": "Learn how to reheat jam doughnuts in an air fryer for crispy perfection. Ideal temperature, timings & tips to avoid drying out. British-tested methods!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T18:39:33.442Z",
         "dateModified": "2025-07-22T18:39:33.442Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-jam-doughnuts-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but thaw them first for even heating. Frozen doughnuts reheated directly may have a cold centre or burnt exterior. Defrost at room temperature for 30 minutes, then air fry at 160°C for 3.5-4 minutes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to reheat jam doughnuts without drying them out?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly mist doughnuts with water before air frying or add a heatproof water cup to the basket. Reheat at 160°C for no more than 3 minutes, checking every 30 seconds after the 2-minute mark."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I reheat jam doughnuts in an air fryer if they’re refrigerated?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Increase reheating time by 30-45 seconds compared to room-temperature doughnuts. Use the same 160°C setting but check at 3 minutes—they may need up to 4 minutes total depending on size."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why did my jam leak out when reheating doughnuts in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Overheating or high temperatures can cause jam to bubble through the dough. Reduce the time to 2.5 minutes initially and lower the temperature to 150°C if your air fryer runs hot. Ensure doughnuts aren’t overstuffed."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:39:33.442000+00:00",
     "dateModified": "2025-07-22T18:39:33.442000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-jam-doughnuts-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

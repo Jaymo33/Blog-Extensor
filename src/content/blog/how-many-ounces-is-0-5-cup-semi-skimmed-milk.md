@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-semi-skimmed-milk"
-  },
+        },
         "headline": "Quick Answer: 0.5 Cup Semi Skimmed Milk to Ounces UK",
         "description": "Discover how many ounces are in 0.5 cup of semi skimmed milk with our easy UK conversion guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-semi-skimmed-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute full-fat milk for semi skimmed milk in most air fryer recipes. However, keep in mind that full-fat milk is richer and may slightly alter the texture of baked goods or sauces. The conversion remains the same—0.5 cup equals about 4.2 ounces—but the final dish might be creamier or denser."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.5 cup of semi skimmed milk without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a measuring cup, you can use a kitchen scale to weigh out 4.2 ounces of semi skimmed milk. Alternatively, a standard UK tablespoon holds 0.5 ounces, so 8.5 tablespoons would approximate 0.5 cup. For best results, though, investing in a measuring cup is recommended for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the temperature of semi skimmed milk affect air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, using cold semi skimmed milk straight from the fridge can slightly increase cooking times in the air fryer, especially for batters or doughs. For quicker and more even results, let the milk sit at room temperature for 10–15 minutes before use. This is particularly helpful for recipes like cakes or bread."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use almond milk instead of semi skimmed milk in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Almond milk can be used as a substitute, but it has a thinner consistency and different flavour profile. The conversion is the same—0.5 cup equals 4.2 ounces—but you may need to adjust other ingredients slightly. Almond milk works well in lighter dishes but might not provide the same richness in creamy sauces or baked goods."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-semi-skimmed-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-prawns-in-air-fryer"
-  },
+        },
         "headline": "Reheat Prawns in Air Fryer – Quick & Crispy Results",
         "description": "Learn how to reheat prawns in an air fryer without drying them out. Get perfect temperature, timing & tips for crispy reheated prawns every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T19:59:55.735Z",
         "dateModified": "2025-07-22T19:59:55.735Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-prawns-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you should never reheat prawns multiple times. Cooked prawns should only be reheated once after their initial cooking for food safety reasons. Repeated reheating increases the risk of foodborne illness and ruins the prawns' texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do you reheat breaded prawns in an air fryer without them going soggy?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For crispy breaded prawns, preheat your air fryer to 170°C first. Arrange prawns in a single layer without overlapping. Cook for 2-3 minutes, shaking the basket halfway. A light spray of oil before reheating helps restore crispness to the coating."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the safest internal temperature for reheated prawns?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Reheated prawns should reach 74°C (165°F) internally to ensure food safety. Use a food thermometer to check the thickest part of the largest prawn. At this temperature, any potential bacteria are destroyed while keeping the prawns juicy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat frozen cooked prawns directly in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can reheat frozen cooked prawns straight from the freezer. Set your air fryer to 160°C and cook for 3-4 minutes, shaking the basket halfway. No need to thaw first – the air fryer's rapid circulation thaws and reheats simultaneously."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-prawns-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-gluten-free-flour"
-  },
+        },
         "headline": "Quick Guide: Convert 1.75 Cups of Gluten-Free Flour to Ounces",
         "description": "Learn how to convert 1.75 cups of gluten-free flour to ounces for perfect air fryer baking every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-16T23:30:04.315Z",
         "dateModified": "2025-08-16T23:30:04.315Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-gluten-free-flour.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight measurements are more precise because different gluten-free flour blends can vary significantly in density. A cup of one brand might weigh more than another due to how finely it's ground or its ingredient composition. Using ounces ensures you always get the exact amount needed, especially important for air fryer baking where precise ratios affect cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for all types of gluten-free flour?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While most gluten-free flours convert similarly (about 4.2 ounces per cup), some specialty blends may differ slightly. Almond flour, for example, is typically heavier per cup. Always check your specific flour's packaging for weight equivalents if available. When in doubt, weighing 1.75 cups of your particular gluten-free flour will give you the most accurate ounce measurement for air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does air frying affect gluten-free baking compared to conventional ovens?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate hot air rapidly, which can dry out gluten-free baked goods faster than conventional ovens. When using 1.75 cups of gluten-free flour (7.4 ounces), you might need to reduce cooking time by 10-15% or add slightly more moisture to the recipe. The precise measurement helps compensate for these differences, ensuring your gluten-free treats turn out perfectly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to store gluten-free flour for accurate measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store gluten-free flour in an airtight container in a cool, dry place to maintain consistent density. Before measuring 1.75 cups (7.4 ounces), give the container a gentle shake to aerate the flour. Avoid storing near strong odors as gluten-free flours can absorb smells, which might affect your air fryer recipes' final flavor. Proper storage ensures your ounce measurements remain accurate over time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-gluten-free-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

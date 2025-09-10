@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/50-kg-to-pounds"
-  },
+        },
         "headline": "Quick 50 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 50 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T00:37:28.394Z",
         "dateModified": "2025-08-22T00:37:28.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 50 kg to pounds is essential for air fryer cooking because many recipes and pre-set functions use imperial measurements. If you're working with ingredients labelled in kilograms, converting to pounds ensures you use the correct amount for even cooking and perfect results. It also helps with portion control and avoiding overloading the basket, which can lead to unevenly cooked food."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 50 kg exactly 110 pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 50 kg is not exactly 110 pounds—it's approximately 110.231 pounds. The exact conversion factor is 1 kg = 2.20462 pounds, so 50 multiplied by 2.20462 gives the precise figure. For most practical purposes in air frying, rounding to 110 pounds is acceptable, but for baking or precise recipes, using the decimal ensures accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 50 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 50 kg to pounds without a calculator, you can use a simple approximation: multiply by 2.2. So, 50 kg × 2.2 = 110 pounds. This is close enough for most air fryer cooking needs, like portioning meats or vegetables. For more precision, remember that 1 kg is about 2.2 pounds and adjust mentally if needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do air fryer recipes commonly use kg or pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryer recipes commonly use pounds and ounces in the UK and US, but kilograms are frequently used in European and Australian recipes. Many modern air fryer models have settings based on weight in pounds, so converting measurements like 50 kg to pounds helps you use these features correctly. Always check the recipe source and convert as needed for best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/50-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

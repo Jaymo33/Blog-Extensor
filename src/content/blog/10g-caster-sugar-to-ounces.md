@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-caster-sugar-to-ounces"
-  },
+        },
         "headline": "Quick 10g caster sugar to ounces conversion for UK bakers",
         "description": "Convert 10g of caster sugar to oz in seconds with our easy guide. Perfect for air fryer baking recipes and precise measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-caster-sugar-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute granulated sugar for caster sugar, the texture may differ slightly. Caster sugar's finer grains dissolve more easily, which is particularly important in air fryer baking where cooking times are shorter. For best results, stick to caster sugar when the recipe specifies it."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 10g of caster sugar without scales?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Without scales, you can use measuring spoons - 2 level teaspoons equal approximately 10g (0.35 oz) of caster sugar. However, for air fryer recipes where precision matters, we recommend using digital scales for the most accurate results, especially when baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does sugar measurement matter more in air fryers than conventional ovens?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers cook food faster and more intensely than conventional ovens. This means sugar caramelises quicker, and small measurement differences can significantly impact browning and texture. Getting your 10g (0.35 oz) measurement exact helps prevent burning and ensures even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert other sugar quantities using the same ratio?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion ratio remains consistent - 1 gram equals approximately 0.035 ounces. So whether you're converting 10g, 50g or 100g of caster sugar, you can use the same calculation. For larger quantities, our air fryer conversion chart makes scaling recipes simple."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-caster-sugar-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

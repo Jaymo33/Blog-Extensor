@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds"
-  },
+        },
         "headline": "Easy 6.5 kg Turkey Crown to Pounds Conversion Guide",
         "description": "Convert 6.5 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your Christmas centrepiece.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-turkey-crown-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 6.5 kg turkey crown is exactly 14.33005 pounds. For practical cooking purposes, this is almost always rounded to 14.33 pounds or simply 14 and a third pounds. This precise conversion is vital for calculating accurate air fryer cooking times to ensure your turkey is cooked through perfectly and safely."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer recipes and cooking guidelines, especially those from American sources or older cookbooks, use pounds rather than kilograms. Converting your turkey crown's weight from kg to pounds allows you to use these resources accurately. This ensures you apply the correct cooking time and temperature for a safe and delicious result in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is a 6.5 kg turkey crown too big for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends entirely on the size and capacity of your specific air fryer model. Many large family-sized air fryers can accommodate a turkey crown of this size, but you must always check the manufacturer's guidelines for maximum weight and basket dimensions. The crown must fit comfortably without touching the heating element or sides for air to circulate properly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long do I cook a 14.33 pound turkey crown in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "As a general rule, cook a turkey crown in an air fryer for approximately 25-30 minutes per pound. For a 14.33-pound crown, this translates to a total cooking time of roughly 6 to 7.25 hours. However, you must always use a meat thermometer to check the internal temperature has reached 75°C in the thickest part, as this is the only reliable way to confirm it is cooked."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

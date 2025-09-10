@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-to-pounds"
-  },
+        },
         "headline": "Quick 4.75 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 4.75 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T16:38:42.976Z",
         "dateModified": "2025-08-21T16:38:42.976Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-75-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.75 kg is exactly 10.47195 pounds, but for most practical purposes in cooking and air frying, it's rounded to 10.47 pounds. This conversion uses the standard multiplier of 2.20462 pounds per kilogram. When preparing ingredients for your air fryer, this level of precision ensures you don't overload the basket and achieve even cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert 4.75 kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.75 kg to pounds helps you follow recipes accurately and avoid overloading your air fryer basket, which can lead to uneven cooking. Many recipes and food packages use different measurement systems, and knowing the conversion ensures you use the right quantity for optimal air circulation and crisping. It's especially useful for meal prepping and portion control."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale to convert 4.75 kg to pounds directly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, most digital kitchen scales allow you to switch between kilograms and pounds with the press of a button. Simply place your ingredient on the scale, select the pound unit, and it will display the weight equivalent—around 10.47 pounds for 4.75 kg. This eliminates manual calculation errors and saves time during meal preparation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 4.75 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.75 kg is a larger quantity often found in bulk buys of meat, frozen foods, or vegetables, making it useful for meal prepping or cooking for groups. While you wouldn't cook 4.75 kg at once in a standard air fryer, converting it to pounds (10.47 lb) helps you divide it into smaller, batch-friendly portions. This is common for foods like chicken wings, chips, or roast potatoes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T16:38:42.976000+00:00",
     "dateModified": "2025-08-21T16:38:42.976000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

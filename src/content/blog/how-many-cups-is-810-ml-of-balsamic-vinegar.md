@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar"
-  },
+        },
         "headline": "Quick Guide: Convert 810 ml of Balsamic Vinegar to Cups",
         "description": "Learn how to convert 810 ml of balsamic vinegar to cups for perfect air fryer recipes every time. Simple, accurate, and hassle-free!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-810-ml-of-balsamic-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there’s a slight difference. A UK cup is 250 ml, so 810 ml equals 3.42 cups. A US cup is 240 ml, making it approximately 3.38 cups. For air fryer recipes, this small variance usually doesn’t affect the outcome, but for precision, use a scale."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute another vinegar for balsamic vinegar in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but adjust for flavour and acidity. Red wine vinegar or apple cider vinegar can work, but they’re less sweet. For 810 ml substitutions, add a teaspoon of sugar per cup to mimic balsamic’s richness. Always taste-test before committing to a full batch."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 810 ml of balsamic vinegar last once opened?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Stored properly in a cool, dark place, opened balsamic vinegar lasts 3–5 years. Its acidity acts as a natural preservative. If you’ve reduced 810 ml into a glaze, refrigerate it and use within two weeks for best quality."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to clean balsamic vinegar residue from my air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Soak the basket in warm, soapy water for 15 minutes, then scrub with a soft sponge. For stubborn spots, a paste of baking soda and water works wonders. Avoid abrasive tools to prevent scratching. Regular cleaning prevents sticky build-up."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-balsamic-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

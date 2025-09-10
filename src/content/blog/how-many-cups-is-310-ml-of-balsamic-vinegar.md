@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-balsamic-vinegar"
-  },
+        },
         "headline": "Quick Conversion: 310 ml of Balsamic Vinegar to Cups",
         "description": "Discover how to convert 310 ml of balsamic vinegar to cups for perfect air fryer recipes every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:32:39.600Z",
         "dateModified": "2025-07-30T23:32:39.600Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-balsamic-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a measuring cup, use a kitchen scale. Balsamic vinegar weighs roughly 1.04 grams per ml, so 310 ml equals about 322 grams. Alternatively, a standard UK tablespoon holds 15 ml, so 20 tablespoons plus 2 teaspoons will give you 310 ml."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of balsamic vinegar affect the cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the viscosity of balsamic vinegar doesn’t change the volume. Whether it’s aged or cheap, 310 ml of balsamic vinegar will always be approximately 1.31 cups. However, thicker reductions may coat measuring tools differently, so scrape the cup for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 310 ml of balsamic vinegar interchangeably with 1.31 cups in recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 310 ml of balsamic vinegar equals 1.31 cups, so they’re interchangeable. This is useful for air fryer recipes where precision matters. Always check if the recipe uses metric or imperial measurements to avoid confusion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover balsamic vinegar after measuring 310 ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store opened balsamic vinegar in a cool, dark place with the lid tightly sealed. It lasts up to 3 years, but quality may decline over time. For best results, use it within a year for optimal flavour in your air fryer dishes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-balsamic-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

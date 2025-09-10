@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Easy 3.5 kg chicken thighs to pounds conversion guide",
         "description": "Convert 3.5 kg chicken thighs to pounds quickly and accurately with our simple guide. Perfect for air fryer recipes and meal prep.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 3.5 kg chicken thighs to pounds accurately, multiply 3.5 by 2.20462, which gives approximately 7.72 pounds. This conversion factor is standard and ensures precision for recipe measurements. Using a digital kitchen scale that switches between metric and imperial units can make this process effortless and error-free."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 3.5 kg chicken thighs to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 3.5 kg chicken thighs to pounds is important for air frying because accurate measurements ensure proper cooking times and prevent overcrowding in the air fryer basket. Overcrowding can lead to uneven cooking, as air circulation is restricted. Correct quantities also help with seasoning ratios, ensuring your chicken thighs are flavourful and perfectly cooked every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 3.5 kg chicken thighs in pounds for any air fryer recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use the converted weight of 3.5 kg chicken thighs to pounds (7.72 pounds) in any air fryer recipe that specifies chicken thigh quantities in pounds. However, always consider your air fryer's capacity to avoid overcrowding. If your appliance is smaller, cook in batches to maintain air flow and achieve even results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 3.5 kg chicken thighs to pounds affect cooking time?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 3.5 kg chicken thighs to pounds accurately helps you adhere to recipe cooking times, which are often based on specific weights. If the weight is incorrect, cooking times may be too short or long, leading to undercooked or dry chicken. Always use the converted weight to follow recommended times and temperatures for best results in your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

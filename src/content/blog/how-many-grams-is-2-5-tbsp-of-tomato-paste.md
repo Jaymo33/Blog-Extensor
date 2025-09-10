@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-tomato-paste"
-  },
+        },
         "headline": "Quickly convert 2.5 tbsp tomato paste to grams for perfect recipes",
         "description": "Discover how to convert 2.5 tbsp of tomato paste into grams for precise cooking in your air fryer. Get accurate measurements every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T22:47:35.785Z",
         "dateModified": "2025-08-04T22:47:35.785Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-of-tomato-paste.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Tomato puree has a thinner consistency and milder flavour than concentrated tomato paste. For air fryer cooking, you'll need to use about double the amount of puree to match 2.5 tbsp (37.5g) of paste. Reduce other liquids in your recipe slightly to compensate for the extra moisture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of tablespoons for tomato paste?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Grams provide more accuracy since tomato paste's density can vary between brands. Air fryers circulate hot air intensely, so precise measurements prevent dishes from becoming too dry or soggy. Weight measurements also make scaling recipes up or down simpler without recalculating volumes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 2.5 tbsp of tomato paste last in the fridge after opening?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Once opened, tomato paste stays fresh for 5-7 days in the fridge if transferred to an airtight container. For longer storage, freeze measured portions like 2.5 tbsp (37.5g) in ice cube trays or small bags. Properly stored frozen paste keeps for 3-4 months without quality loss."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute fresh tomatoes for 2.5 tbsp of tomato paste in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You'd need about 3 medium fresh tomatoes, blended and reduced by half, to replace 2.5 tbsp (37.5g) of paste. However, this adds significant moisture to air fryer dishes, potentially affecting texture. For best results, stick to paste unless the recipe specifically allows fresh tomato substitutions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-tomato-paste"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

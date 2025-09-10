@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-yogurt"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 200 Grams of Yogurt?",
         "description": "Find out exactly how many cups 200 grams of yogurt equals for perfect baking and cooking every time. Includes UK and US conversions.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:31:11.567Z",
         "dateModified": "2025-07-26T21:31:11.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-yogurt.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 200 grams of yogurt is roughly 0.85 US cups or 0.8 UK cups. A full cup is about 240 grams, so using 200 grams ensures your air fryer recipes aren’t overly moist. Always measure carefully for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of yogurt affect the cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, thicker yogurts like Greek or skyr take up less space per gram compared to regular yogurt. For 200 grams of Greek yogurt, you might need slightly less than 0.85 cups. Stir well before measuring for consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 200 grams of yogurt in air-fryer baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Yogurt adds moisture to air-fryer cakes and muffins. Just ensure you measure 200 grams accurately (about 0.85 cups) to avoid texture issues. Check our air fryer dessert recipes for inspiration."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 200 grams of yogurt to ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "200 grams of yogurt equals approximately 7 ounces. This conversion is handy for recipes using imperial measurements. For air fryer cooking, sticking to grams or cups is often easier for precision."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.567000+00:00",
     "dateModified": "2025-07-26T21:31:11.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-yogurt"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

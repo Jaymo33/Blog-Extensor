@@ -14,7 +14,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/330-f-to-gas-mark"
-  },
+        },
         "headline": "330 F to Gas Mark: Quick Conversion Guide for Air Fryers",
         "description": "Convert 330°F to Gas Mark for air fryers and ovens. Learn the exact Gas Mark equivalent and tips for perfect cooking every time.",
         "author": {
@@ -22,24 +22,24 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T19:42:35.102Z",
         "dateModified": "2025-07-20T19:42:35.102Z",
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -56,34 +56,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 330°F in an air fryer is equivalent to Gas Mark 3 in a conventional oven. Air fryers provide similar results with faster cooking times, so adjust recipes accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 330 F to Gas Mark for a fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For fan ovens, 330°F typically converts to Gas Mark 3, but reduce the temperature by 10-20°F to account for the fan’s efficiency. Always check your oven’s manual."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What foods cook best at 330 F or Gas Mark 3?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cookies, cakes, roasted vegetables, and slow-cooked meats perform exceptionally well at 330°F (Gas Mark 3). This temperature ensures even cooking without burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my oven at 330 F?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate hot air more efficiently than ovens, reducing cooking times by up to 20%. Monitor food closely and check a few minutes early to prevent overcooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -96,7 +96,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T19:42:35.102000+00:00",
     "dateModified": "2025-07-20T19:42:35.102000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -113,8 +113,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -122,8 +122,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -131,10 +131,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/330-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -145,7 +145,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -157,16 +157,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -179,8 +179,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

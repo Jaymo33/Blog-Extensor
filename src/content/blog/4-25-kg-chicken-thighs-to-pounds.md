@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-25-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Easy 4.25 kg chicken thighs to pounds conversion guide",
         "description": "Convert 4.25 kg chicken thighs to pounds instantly with our simple guide. Perfect for air fryer meal prep and recipe scaling. Get cooking faster!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-25-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.25 kg chicken thighs to pounds is essential for following recipes accurately, especially those from countries using imperial measurements. It ensures you use the correct amount of chicken for air frying, preventing overcrowding and promoting even cooking. This conversion also helps with grocery shopping and meal planning, making it easier to buy the right quantity and budget effectively."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 4.25 kg chicken thighs to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 4.25 kg chicken thighs to pounds and ounces, first convert to pounds (4.25 kg × 2.20462 = 9.37 lbs). Then, take the decimal part (0.37) and multiply by 16 to get ounces (0.37 × 16 ≈ 5.92 oz). So, 4.25 kg is approximately 9 pounds and 6 ounces. This level of detail can be useful for very precise recipes or when dividing portions for air frying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if the chicken thighs are bone-in or boneless?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion from 4.25 kg to pounds remains the same regardless of bone-in or boneless thighs, as it's a weight conversion. However, bone-in thighs have less actual meat per pound due to the bone weight. When air frying, bone-in thighs may require slightly longer cooking times. For recipe purposes, if the recipe specifies boneless, you might need slightly more bone-in thighs by weight to yield the same amount of edible meat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other types of chicken or meat?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion factor (1 kg = 2.20462 pounds) applies to any type of chicken or meat, including breasts, wings, or even other meats like beef or pork. So, 4.25 kg of any protein converts to approximately 9.37 pounds. This consistency makes it easy to switch between metrics for all your air frying needs, whether you're cooking chicken thighs or other favourites."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-25-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

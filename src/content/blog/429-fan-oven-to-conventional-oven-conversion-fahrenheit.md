@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/429-fan-oven-to-conventional-oven-conversion-fahrenheit"
-  },
+        },
         "headline": "Quick Guide: Convert 429 Fan Oven to Conventional Oven Easily",
         "description": "Learn how to convert 429 fan oven to conventional oven in Fahrenheit with our simple guide. Perfect for baking and air frying conversions.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-25T21:48:02.255Z",
         "dateModified": "2025-07-25T21:48:02.255Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/429-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you shouldn't use 429 fan oven temperature directly in a conventional oven. Fan ovens cook about 20-25°F hotter than conventional ovens due to the circulating air. For conventional ovens, you should reduce the temperature to about 400°F to achieve similar cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 429 fan oven affect cooking time in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When converting 429 fan oven to air fryer, you'll need to reduce both temperature and cooking time. Air fryers cook faster than fan ovens, so reduce the temperature by 20-25°F and check food 5-10 minutes earlier than the recipe suggests. The exact adjustment depends on your air fryer model and the food being cooked."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do fan ovens need different temperatures than conventional ovens?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fan ovens have a built-in fan that circulates hot air, cooking food more quickly and evenly. This means they can achieve the same results as conventional ovens at slightly lower temperatures. The forced air movement transfers heat more efficiently to the food's surface, reducing the need for higher temperatures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find a reliable conversion chart for oven temperatures?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a comprehensive conversion chart at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>. This resource covers conversions between fan ovens, conventional ovens, and air fryers for various cooking scenarios. It's regularly updated to ensure accuracy across different appliance types."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-25T21:48:02.255000+00:00",
     "dateModified": "2025-07-25T21:48:02.255000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/429-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

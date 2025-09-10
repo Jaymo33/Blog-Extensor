@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/415-f-to-gas-mark"
-  },
+        },
         "headline": "415 F to Gas Mark: Oven & Air Fryer Conversion Guide",
         "description": "Convert 415°F to Gas Mark for ovens & air fryers. Includes baking tips, temperature equivalents, and UK conversion charts for perfect results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T22:44:37.112Z",
         "dateModified": "2025-07-20T22:44:37.112Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/415-f-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 415°F converts to about 190°C in a fan oven (Gas Mark 7 equivalent). Fan ovens circulate heat more efficiently, so you may need to reduce cooking times by 10-15% compared to conventional Gas Mark 7 settings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 415 F compare to other common Gas Mark temperatures?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "415°F (Gas Mark 7) sits between Gas Mark 6 (400°F) and Gas Mark 8 (450°F). It's hotter than standard baking temperatures but lower than maximum oven settings, making it ideal for recipes needing strong browning without burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would my air fryer recipe specify 415 F instead of Gas Mark?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer manufacturers use Fahrenheit scales as standard. 415°F provides the precision needed for air fryer cooking where small temperature differences significantly affect results. Gas Marks are broader ranges more suited to conventional ovens."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 415 F too hot for delicate foods in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 415°F (Gas Mark 7) works well for most foods, delicate items like fish or custards may need lower temperatures. For these, try 350-375°F (Gas Mark 4-5) and adjust cooking times accordingly to prevent over-browning."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T22:44:37.112000+00:00",
     "dateModified": "2025-07-20T22:44:37.112000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/415-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

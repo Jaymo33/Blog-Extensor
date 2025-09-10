@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-breadcrumbs"
-  },
+        },
         "headline": "Quick Answer: 0.25 tbsp of breadcrumbs to grams UK",
         "description": "Discover how to convert 0.25 tbsp of breadcrumbs into grams for perfect air fryer recipes. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-breadcrumbs.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 0.25 tbsp (about 1.5 grams) of breadcrumbs is perfect for coating small items like shrimp, tofu cubes, or vegetable pieces in the air fryer. This small quantity ensures even coverage without waste. For best results, combine with a light mist of oil to help the crumbs adhere and crisp up."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 0.25 tbsp of panko breadcrumbs compare to regular breadcrumbs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Panko breadcrumbs are lighter and flakier than regular breadcrumbs. While 0.25 tbsp of regular breadcrumbs weighs about 1.5 grams, the same volume of panko might be slightly lighter (around 1.2-1.3 grams). However, panko creates a crispier texture, so the slight weight difference rarely affects air fryer results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to measure 0.25 tbsp without a measuring spoon?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have measuring spoons, you can estimate 0.25 tbsp as about a pinch between thumb and two fingers. For more accuracy, measure 1 tbsp and divide it visually into four equal parts. Alternatively, use a teaspoon - 0.25 tbsp equals ¾ teaspoon, though a digital scale gives the most precise measurement."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do I need to adjust cooking time when using small amounts of breadcrumbs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When using just 0.25 tbsp of breadcrumbs, cooking times generally remain the same as the thin coating cooks quickly. However, always check a few minutes early as small quantities can brown faster. For perfect timing, refer to specific recipes on airfryerrecipe.co.uk that use similar breadcrumb quantities."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-breadcrumbs"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

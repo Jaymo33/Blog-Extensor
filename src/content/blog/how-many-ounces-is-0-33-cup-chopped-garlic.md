@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-chopped-garlic"
-  },
+        },
         "headline": "Quick Answer: 0.33 Cup Chopped Garlic to Ounces UK",
         "description": "Convert 0.33 cup of chopped garlic to ounces easily with our precise guide—perfect for air fryer recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-chopped-garlic.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.33 cup of chopped garlic and minced garlic weigh roughly the same—about 1.76 ounces. However, minced garlic may pack slightly denser in a measuring cup, potentially adding an extra 0.1-0.2 oz. For absolute precision in air fryer recipes, weighing with a kitchen scale is best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use jarred garlic instead of fresh for the 0.33 cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Jarred garlic can be substituted, but its weight per cup may differ due to added preservatives or oils. Typically, 0.33 cup of jarred chopped garlic weighs closer to 1.9 ounces. Adjust seasonings accordingly, as jarred garlic often has a milder flavour than fresh."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover chopped garlic after measuring 0.33 cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store unused chopped garlic in an airtight container in the fridge for up to 2 weeks. For longer storage, freeze pre-portioned 0.33 cup (1.76 oz) amounts in ice cube trays with a bit of olive oil. This works perfectly for future air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list garlic in ounces rather than cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight measurements (ounces) are more accurate than volume (cups) because garlic’s density can vary. A 0.33 cup measurement equals 1.76 oz, but scales eliminate guesswork. Many UK air fryer recipes prefer weights for consistency, especially in baking or marinades."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-chopped-garlic"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

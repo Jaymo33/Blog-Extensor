@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-evaporated-milk"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 210 ml of Evaporated Milk?",
         "description": "Convert 210 ml of evaporated milk to cups effortlessly for perfect baking and cooking every time. Get precise measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:32:39.600Z",
         "dateModified": "2025-07-30T23:32:39.600Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-210-ml-of-evaporated-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, evaporated milk is concentrated and has about 60% of the water removed, making it thicker and richer. While you can substitute regular milk in some recipes, the texture and taste will differ. For precise results, stick to the recipe’s instructions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 210 ml of evaporated milk in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Evaporated milk works well in air fryer recipes, especially for creamy sauces or desserts. Just ensure you measure accurately—210 ml is just under 1 cup. Check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for recipe ideas."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 210 ml of evaporated milk to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Since evaporated milk has a density of about 1.2 g/ml, 210 ml weighs roughly 252 grams. Use a kitchen scale for the most accurate measurement, especially in baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What if I only have sweetened condensed milk instead of evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sweetened condensed milk is much sweeter and thicker. For 210 ml of evaporated milk, you’d need to dilute condensed milk with water (1:1 ratio) and adjust sugar in the recipe. It’s not a perfect substitute, so use it sparingly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-evaporated-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

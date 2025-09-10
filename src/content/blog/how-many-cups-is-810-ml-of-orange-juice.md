@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-orange-juice"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 810 ml of Orange Juice?",
         "description": "Find out exactly how many cups 810 ml of orange juice equals for baking, cooking, or air fryer recipes. Simple conversions made easy!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-810-ml-of-orange-juice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, cup measurements vary by country. In the US, 810 ml of orange juice equals roughly 3.42 cups (240 ml per cup). In the UK, it's closer to 2.85 cups (284 ml per cup). Always check your recipe's measurement system to ensure accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 810 ml of orange juice in air fryer marinades?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 810 ml (3.42 cups) of orange juice works well for marinating chicken, pork, or even tofu in the air fryer. The acidity helps tenderise the meat while adding flavour. Just ensure you pat the food dry before air frying to avoid excess moisture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 810 ml of orange juice without a jug?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a measuring jug, use a standard cup (240 ml for US, 284 ml for UK) and multiply accordingly. For 810 ml, you'd need about 3.42 US cups or 2.85 UK cups. A kitchen scale can also help—810 ml weighs roughly 810 grams."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does orange juice affect air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, recipes using 810 ml of orange juice might require slight adjustments. Marinades can add moisture, so you may need to cook for a few extra minutes. For glazes or sauces, apply them towards the end to prevent burning. Always check food for doneness before serving."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-810-ml-of-orange-juice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

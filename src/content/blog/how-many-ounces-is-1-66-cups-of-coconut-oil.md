@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-coconut-oil"
-  },
+        },
         "headline": "Quickly Convert 1.66 Cups of Coconut Oil to Ounces",
         "description": "Learn how to convert 1.66 cups of coconut oil to ounces with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T23:44:02.193Z",
         "dateModified": "2025-08-14T23:44:02.193Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-coconut-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use measuring cups for 1.66 cups of coconut oil—fill one cup completely, then measure two-thirds of another cup. For melted coconut oil, pour it to the 1 and 2/3 cup mark on a liquid measuring cup. If using solid coconut oil, pack it firmly into the cups to avoid air gaps."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use coconut oil in my air fryer for all recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Coconut oil works well for most air fryer recipes due to its high smoke point and mild flavor. However, it may not be ideal for very high-temperature cooking (above 350°F/175°C) as it can start to smoke. For best results, stick to recipes that specifically call for coconut oil or similar fats."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of coconut oil affect the ounce measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the type of coconut oil (refined, unrefined, virgin) doesn’t change the weight per cup. All varieties will weigh approximately 8 ounces per cup, so 1.66 cups will always equal 13.28 ounces. The difference lies in flavor and smoke point, not density."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I clean my air fryer after using coconut oil?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After cooking with coconut oil, let your air fryer cool slightly, then wipe it with a damp cloth or sponge. For stubborn residue, use a mild dish soap or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid abrasive scrubbers to protect the non-stick coating. Regular cleaning prevents buildup and maintains performance."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-coconut-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

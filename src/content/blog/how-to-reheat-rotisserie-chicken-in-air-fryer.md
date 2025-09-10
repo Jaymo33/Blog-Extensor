@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-rotisserie-chicken-in-air-fryer"
-  },
+        },
         "headline": "Reheat Rotisserie Chicken in Air Fryer – Crispy & Juicy",
         "description": "Learn the best way to reheat rotisserie chicken in an air fryer—crispy skin, tender meat, and no dryness. Quick, easy, and foolproof!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T19:59:55.735Z",
         "dateModified": "2025-07-22T19:59:55.735Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-rotisserie-chicken-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>It’s not recommended to reheat rotisserie chicken multiple times, as repeated heating increases the risk of dryness and bacterial growth. Reheat only the portion you plan to eat immediately for best quality and safety.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do you reheat rotisserie chicken in an air fryer without drying it out?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Use a lower temperature (160°C/320°F) and shorter cooking time (3–5 minutes). Lightly brushing the chicken with broth or oil before reheating helps retain moisture. Avoid overcooking by checking the internal temperature early.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to reheat a whole rotisserie chicken in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Break the chicken into smaller pieces (breasts, thighs, etc.) for even reheating. If your air fryer is large enough, you can reheat halves at 160°C (320°F) for 6–8 minutes, flipping halfway through.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat rotisserie chicken straight from the fridge in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Yes, fridge-cold rotisserie chicken reheats perfectly in an air fryer. Just extend the time by 1–2 minutes if the chicken is very cold. Avoid reheating frozen chicken without thawing first.</p>"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-rotisserie-chicken-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

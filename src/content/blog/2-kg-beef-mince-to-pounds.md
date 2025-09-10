@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-beef-mince-to-pounds"
-  },
+        },
         "headline": "Easy 2 kg Beef Mince to Pounds Conversion Guide",
         "description": "Convert 2 kg beef mince to pounds quickly with our simple guide. Perfect for air fryer recipes and meal prep. Get accurate results every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-beef-mince-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 2 kg beef mince to pounds is crucial for air fryer cooking because many recipes, especially those from the UK and US, use imperial measurements. Accurate conversions ensure you use the right amount of meat, which affects cooking time, texture, and flavour. Using the correct weight helps avoid undercooking or overcrowding the air fryer basket, leading to perfectly cooked dishes every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for other types of mince, like turkey or lamb?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from kilograms to pounds is the same regardless of the type of mince, as it's a weight-based measurement. Whether you're working with beef, turkey, lamb, or even plant-based mince, 2 kg will always equal approximately 4.4 pounds. This consistency makes it easy to adapt recipes across different proteins without recalculating, though cooking times may vary slightly based on fat content and density."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 2 kg beef mince to pounds and ounces for more precision?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 2 kg beef mince to pounds and ounces, first calculate the total pounds (4.409). The whole number is 4 pounds, and the decimal (0.409) multiplied by 16 gives ounces—approximately 6.5 ounces. So, 2 kg is about 4 pounds and 6.5 ounces. This level of precision is useful for recipes requiring exact portions, such as when making uniform patties or meatballs for consistent air frying results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find air fryer recipes that use 2 kg of beef mince?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find numerous air fryer recipes using 2 kg of beef mince on dedicated cooking websites like airfryerrecipe.co.uk. Their beef recipe category includes ideas for burgers, meatballs, stuffed peppers, and more, often providing measurements in both metric and imperial units. These recipes are tailored for air fryer cooking, ensuring you get the most out of your ingredients with step-by-step guidance for perfect results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-beef-mince-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick 4.5 kg Chicken Thighs to Pounds Conversion Guide",
         "description": "Convert 4.5 kg chicken thighs to pounds instantly with our easy guide. Perfect for air fryer recipes and meal prep. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.5 kg chicken thighs to pounds is crucial for air frying because it helps you portion correctly based on your appliance's capacity. Air fryers require space for hot air to circulate, and overcrowding can lead to uneven cooking. Knowing the weight in pounds ensures you don't overfill the basket, resulting in crispier, more evenly cooked chicken thighs every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use boneless chicken thighs for the same conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from 4.5 kg to pounds applies to both bone-in and boneless chicken thighs. However, keep in mind that boneless thighs will yield less actual meat weight due to the removed bones. If your recipe specifies meat weight rather than total weight, you may need to adjust slightly. Always check your recipe notes for clarity on which type to use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 4.5 kg (approximately 10 pounds) of chicken thighs provide?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.5 kg of chicken thighs, which is about 10 pounds, typically serves 20-30 people, assuming a standard portion of 150-200 grams per person. This can vary based on appetite and whether the thighs are bone-in or boneless. It's perfect for meal prepping or feeding a crowd, and you can easily divide the batch for multiple air frying sessions or freeze some for later."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tools to help convert 4.5 kg chicken thighs to pounds quickly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Digital kitchen scales that toggle between kilograms and pounds are very helpful for instant conversion. You can also use online converters or mobile apps for quick maths. For a handy reference, keep a conversion chart like the one on airfryerrecipe.co.uk bookmarked in your kitchen. These tools make it easy to get accurate measurements without any guesswork."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-cottage-cheese"
-  },
+        },
         "headline": "Quick Guide: 0.375 Cup of Cottage Cheese to Ounces Conversion",
         "description": "Discover how many ounces are in 0.375 cup of cottage cheese with our easy conversion guide. Perfect for air fryer recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-cottage-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! If you prefer metric, 0.375 cup of cottage cheese equals about 85 grams. Many UK recipes use grams for more precision, especially in baking. Digital scales make measuring cottage cheese by weight quick and accurate."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the fat content affect the weight of cottage cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The fat content changes the density slightly, but not enough to impact most recipes. Full-fat cottage cheese might weigh a tiny bit more per cup than low-fat, but the difference is minimal. For air fryer cooking, you can safely use the standard 0.375 cup to 3 ounces conversion regardless of fat content."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover cottage cheese after measuring?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Always store opened cottage cheese in an airtight container in the fridge. It typically lasts 5-7 days after opening. If you've measured out 0.375 cup (3 ounces) for a recipe, press plastic wrap directly onto the remaining cheese's surface before sealing to prevent drying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze cottage cheese if I have leftovers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can freeze cottage cheese, but the texture changes upon thawing - it becomes grainy. Frozen cottage cheese works best in cooked dishes like air fryer casseroles or baked goods where texture matters less. For fresh eating, it's better to use it within a week of opening."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-cottage-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

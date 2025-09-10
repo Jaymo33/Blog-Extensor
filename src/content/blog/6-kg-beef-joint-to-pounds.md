@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-beef-joint-to-pounds"
-  },
+        },
         "headline": "Easy 6 kg beef joint to pounds conversion for perfect cooking",
         "description": "Convert 6 kg beef joint to pounds instantly with our simple guide. Get accurate measurements for perfect air fryer results every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-kg-beef-joint-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "6 kilograms of beef joint converts exactly to 13.22772 pounds, though for practical cooking purposes, most people round this to 13.23 pounds. This precise conversion uses the standard calculation where 1 kilogram equals 2.20462 pounds, multiplied by 6 to get the exact pound measurement.\n\nWhen working with air fryer recipes, this level of precision ensures accurate cooking times and temperature settings for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 6 kg beef joint in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Whether you can cook a 6 kg beef joint in your air fryer depends entirely on your specific model's capacity and basket size. Larger family-sized air fryers can typically accommodate joints of this size, while compact models might require cutting the joint into smaller sections.\n\nAlways check your air fryer's maximum weight capacity in the manual before attempting to cook such a large piece of meat to ensure safe and even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does a 6 kg beef joint take to cook in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 6 kg beef joint (approximately 13.23 pounds) typically takes between 20-25 minutes per pound in an air fryer set at 180°C, depending on your desired level of doneness. This means total cooking time would range from approximately 4.5 to 5.5 hours for a joint of this size.\n\nAlways use a meat thermometer to check the internal temperature, as cooking times can vary based on your specific air fryer model and the cut of beef."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting kilograms to pounds for air fryer cooking is essential because most air fryer recipes and preset functions use pound measurements for accuracy. Since cooking times are weight-dependent, using the correct measurement system ensures your food cooks evenly and reaches the proper internal temperature.\n\nAdditionally, many air fryer manufacturers provide cooking guidelines based on pound measurements, making conversion knowledge necessary for achieving perfect results with larger cuts like a 6 kg beef joint."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-beef-joint-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

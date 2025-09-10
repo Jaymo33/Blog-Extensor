@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-cheddar-cheese"
-  },
+        },
         "headline": "Quick Guide: Convert 1.0 Cups of Cheddar Cheese to Grams Easily",
         "description": "Learn how to convert 1.0 cups of cheddar cheese to grams for perfect air fryer recipes every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T16:11:37.491Z",
         "dateModified": "2025-07-27T16:11:37.491Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-cheddar-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 1.0 cups of cheddar cheese is generally the same in both the UK and USA, weighing around 113 grams. However, measuring cups can vary slightly in size, so using a kitchen scale ensures accuracy. For air fryer recipes, precise measurements help achieve consistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese instead of block cheddar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Pre-shredded cheese works fine, but it may contain anti-caking agents that affect melting. For best results in air fryer recipes, freshly grated cheddar is ideal. If using pre-shredded, lightly pack it into the measuring cup to match the 113-gram weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 1.0 cups of cheddar cheese to ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "1.0 cups of cheddar cheese (113 grams) equals roughly 4 ounces. This conversion is useful for recipes that list cheese by weight rather than volume. A kitchen scale simplifies the process, especially for air fryer cooking where precision matters."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my cheese measurement seem off when I pack it tightly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Packing cheese tightly into a measuring cup increases its weight, leading to more cheese than the recipe calls for. For accurate results, fill the cup loosely or use a scale. Over-measuring cheese in air fryer dishes can make them greasy or unevenly cooked."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
     "dateModified": "2025-07-27T16:11:37.491000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-cheddar-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

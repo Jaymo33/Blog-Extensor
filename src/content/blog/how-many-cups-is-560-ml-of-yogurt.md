@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-yogurt"
-  },
+        },
         "headline": "Quick Conversion: How Many Cups Is 560 ml of Yogurt?",
         "description": "Find out exactly how many cups 560 ml of yogurt equals for perfect baking and cooking every time. Simple, accurate conversions here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-yogurt.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 560 ml of yogurt is not exactly the same as 560 grams. The weight of yogurt can vary slightly depending on its density and type. On average, 560 ml of yogurt weighs around 580 grams. For precise measurements, especially in baking, it’s best to use a kitchen scale."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use Greek yogurt instead of regular yogurt for 560 ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute Greek yogurt for regular yogurt, but keep in mind that Greek yogurt is thicker. You may need to adjust the quantity slightly or thin it with a bit of milk or water to match the consistency of regular yogurt. The flavour will be richer, which can enhance your dish."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 560 ml of yogurt without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a measuring cup, you can use a kitchen scale to weigh the yogurt—560 ml is roughly 580 grams. Alternatively, use a standard tablespoon (15 ml) and measure out 37 tablespoons, though this method is less precise. For best results, invest in a set of measuring cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list yogurt in ml and others in cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Recipes may use millilitres or cups depending on their origin. Metric countries like the UK often use millilitres, while the US prefers cups. Always check the recipe’s source and convert accordingly. For air fryer recipes, precise measurements are crucial, so double-check your conversions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-yogurt"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

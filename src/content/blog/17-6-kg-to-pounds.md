@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/17-6-kg-to-pounds"
-  },
+        },
         "headline": "Quick 17.6 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 17.6 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T19:54:05.768Z",
         "dateModified": "2025-08-20T19:54:05.768Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/17-6-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The exact conversion of 17.6 kilograms to pounds is 38.801 pounds. This is calculated by multiplying 17.6 by the international conversion factor of 2.20462 pounds per kilogram. For most practical kitchen and air fryer uses, you can confidently round this figure to 38.8 pounds."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 17.6 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 17.6 kg to pounds is essential for air fryer cooking because recipes and cooking times are almost always based on weight in pounds or ounces. Knowing that 17.6 kg equals 38.8 lbs allows you to portion food correctly to avoid overloading the basket, which ensures proper air circulation and even cooking. It also enables you to accurately calculate total cooking time, which is often given as minutes per pound, guaranteeing your food is perfectly cooked and safe to eat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 17.6 kg the same as 17.6 kilograms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, absolutely. 'kg' is the standard abbreviation for kilogram, so 17.6 kg and 17.6 kilograms represent the exact same weight. Therefore, converting 17.6 kg to pounds yields the same result as converting 17.6 kilograms to pounds, which is 38.8 pounds. The terms are interchangeable in both measurement and conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 17.6 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a quick and easy mental estimate to convert 17.6 kg to pounds, you can use a simplified conversion factor. Remember that 1 kg is roughly equal to 2.2 lbs. Multiply 17.6 by 2.2 to get an approximate answer of 38.72 pounds, which is very close to the precise figure of 38.8 pounds. For a more accurate result without a calculator, use the fraction 2 1/5 (which is 2.2) for your multiplication."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T19:54:05.768000+00:00",
     "dateModified": "2025-08-20T19:54:05.768000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/17-6-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

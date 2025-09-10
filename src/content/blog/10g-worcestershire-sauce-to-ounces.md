@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-worcestershire-sauce-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 10g of Worcestershire Sauce to Ounces",
         "description": "Learn how to convert 10g of Worcestershire sauce to ounces for precise cooking. Perfect for air fryer recipes and UK measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T23:46:47.435Z",
         "dateModified": "2025-08-08T23:46:47.435Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-worcestershire-sauce-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use tablespoons for rough measurements. One tablespoon of Worcestershire sauce is about 15g, so 10g would be roughly two-thirds of a tablespoon. However, for precise recipes, especially in air fryer cooking, using a scale or our conversion chart is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of Worcestershire sauce affect the weight-to-volume conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most Worcestershire sauces have a similar density, so brand differences are minimal. However, thicker or artisanal versions might vary slightly. For accuracy, stick to standard conversions like 10g = 0.35 oz unless the recipe specifies otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I clean Worcestershire sauce spills from my air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For sticky sauces like Worcestershire, wipe the basket with warm, soapy water immediately after use. For stubborn residue, soak the basket and use a non-abrasive sponge. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> has more tips to keep your air fryer spotless."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute soy sauce for Worcestershire sauce in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Soy sauce can work as a substitute, but it’s saltier and lacks the tang of Worcestershire. If replacing 10g (0.35 oz) of Worcestershire, use slightly less soy sauce and add a splash of lemon juice or vinegar to mimic the flavour. Adjust to taste for best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-worcestershire-sauce-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-almonds"
-  },
+        },
         "headline": "Quick Guide: Convert 0.5 Cup of Almonds to Ounces Easily",
         "description": "Learn how to convert 0.5 cup of almonds to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T23:45:58.474Z",
         "dateModified": "2025-08-10T23:45:58.474Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-almonds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, almond flour is lighter due to its fine texture. While 0.5 cup whole almonds weighs 2.5 oz (70g), the same volume of almond flour weighs about 1.75 oz (50g). Always check your recipe’s requirements—some specify “packed” or “sifted” measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use UK measuring cups for 0.5 cup almonds in US recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but be cautious with liquid measurements. UK and US cups differ for fluids, but dry ingredients like almonds have nearly identical weights. 0.5 cup almonds equals 2.5 oz in both systems. For absolute precision, weigh your almonds or use grams."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust cooking time for almond-coated foods in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Almond crusts brown faster than breadcrumbs. Reduce temperature by 10°C and check halfway through cooking. For 0.5 cup almond coatings (like on chicken or fish), cook at 180°C for 8-10 minutes instead of 12-15 minutes with traditional coatings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my 0.5 cup almond measurement look different each time?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Whole versus sliced almonds and settling affect volume. For consistency, weigh your almonds or use the spoon-and-level method. If packed tightly, 0.5 cup could hold up to 3 oz—always aerate almonds before measuring for air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-almonds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

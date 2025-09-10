@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-5-to-fahrenheit"
-  },
+        },
         "headline": "Gas Mark 5 to Fahrenheit Conversion Guide | Air Fryer Tips",
         "description": "Convert Gas Mark 5 to Fahrenheit (375°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipe adjustments for UK kitchens.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T12:06:53.392Z",
         "dateModified": "2025-07-21T12:06:53.392Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-5-to-fahrenheit.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Gas Mark 5 converts directly to 375°F in Fahrenheit. This is the ideal air fryer temperature for most roasting and baking recipes. Remember to reduce cooking times by about 20% compared to conventional oven instructions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use Gas Mark 5 temperatures for all air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 375°F (Gas Mark 5) works well for many foods, some recipes require higher or lower temperatures. Delicate items like fish might need lower heat, while crispy foods like chicken wings often benefit from slightly higher temperatures around 400°F."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my gas oven at Gas Mark 5?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate hot air more efficiently than conventional ovens, so food cooks faster at the same temperature (375°F/Gas Mark 5). The concentrated heat and airflow can reduce cooking times by up to 25% compared to traditional gas ovens."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is Gas Mark 5 the same as 375°F in a fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, Gas Mark 5 equals 375°F in both conventional and fan ovens. However, fan ovens (like air fryers) cook faster due to air circulation, so you'll typically need to reduce cooking times or lower the temperature slightly compared to standard oven settings."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
     "dateModified": "2025-07-21T12:06:53.392000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-5-to-fahrenheit"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

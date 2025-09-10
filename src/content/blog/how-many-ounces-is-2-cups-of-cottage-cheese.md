@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 2 cups of cottage cheese?",
         "description": "Find out exactly how many ounces are in 2 cups of cottage cheese with this simple UK conversion guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-cottage-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can easily convert ounces to grams for cottage cheese. Since 2 cups equal 16 ounces, this translates to approximately 454 grams. Many UK recipes use grams, so this conversion can be helpful for precision. Just remember that air fryer recipes often work best with weight measurements rather than volume."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the fat content of cottage cheese affect the weight per cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The fat content doesn't significantly change the weight, but it can affect the texture. Full-fat, low-fat, and fat-free cottage cheese all weigh roughly the same per cup (about 8 ounces). However, fuller-fat varieties may be slightly denser, so it's always best to measure by weight for air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover cottage cheese after measuring?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After measuring out 2 cups (16 ounces), store any remaining cottage cheese in an airtight container in the fridge. It typically lasts 5-7 days after opening. For longer storage, you can freeze cottage cheese, though the texture may become grainy when thawed. Use frozen cottage cheese in cooked air fryer dishes rather than fresh applications."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list cottage cheese in cups and others in ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Recipes may use cups for convenience or ounces for precision. Cups are easier to measure without scales, while ounces provide more accuracy, especially for air fryer cooking where exact amounts matter. Many professional recipes use weight measurements to ensure consistent results every time. When in doubt, 2 cups equal 16 ounces for cottage cheese."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

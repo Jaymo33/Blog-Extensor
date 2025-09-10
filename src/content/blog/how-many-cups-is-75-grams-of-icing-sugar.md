@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-icing-sugar"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 75 Grams of Icing Sugar?",
         "description": "Discover how to convert 75 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T19:05:43.270Z",
         "dateModified": "2025-07-27T19:05:43.270Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-icing-sugar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, granulated sugar and icing sugar have different densities, so their cup measurements vary. While 75 grams of granulated sugar is roughly 0.375 cups, 75 grams of icing sugar is about 0.6 cups in the UK. Always check the type of sugar specified in your recipe for accurate conversions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 75 grams of icing sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but for the best results, use a standard measuring cup designed for dry ingredients. Avoid packing the sugar down, as this can lead to an inaccurate measurement. If possible, use a kitchen scale for precision, especially when baking delicate desserts like macarons or meringues."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 75 grams of icing sugar to tablespoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "75 grams of icing sugar is approximately 9-10 tablespoons, depending on how tightly packed the sugar is. For the most accurate measurement, lightly spoon the sugar into the tablespoon and level it off with a knife. This method ensures consistency in your recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my icing sugar measurement seem off when I use cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Icing sugar can vary in density due to settling or humidity, leading to inconsistent cup measurements. Always fluff the sugar with a fork before measuring, and consider using a scale for critical recipes. For more tips, visit our <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> conversion guides."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-icing-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

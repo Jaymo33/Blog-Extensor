@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-ramekin-in-an-air-fryer"
-  },
+        },
         "headline": "Can You Put Ramekin in an Air Fryer? Safety Guide",
         "description": "Wondering if ramekins are air fryer safe? Learn whether you can use ramekins in your air fryer without risks like melting or fire hazards.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T23:30:57.071Z",
         "dateModified": "2025-07-22T23:30:57.071Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-ramekin-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Plastic ramekins, thin glass versions not labelled as oven-safe, and decorative ceramic with metallic paints or glazes should never go in air fryers. These materials can melt, shatter, or release toxic fumes at high temperatures. Stick to plain, high-quality ceramic or porcelain marked for oven use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I stack ramekins in my air fryer to cook multiple portions?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Stacking ramekins blocks proper air circulation, leading to uneven cooking. Instead, cook in batches or use a lower rack if your air fryer model has one. Some larger air fryers can accommodate 2-3 ramekins placed side by side with adequate space between them."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why did my ramekin crack in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sudden temperature changes or pre-existing hairline cracks usually cause ramekins to break. Always preheat your air fryer gradually and avoid placing cold ramekins directly into a hot basket. Inspect ramekins for chips or cracks before each use, especially if they've been refrigerated."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent my ramekin contents from drying out in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cover ramekins with foil for the first half of cooking time, or place a small heatproof bowl of water in the air fryer basket to create steam. For custards and flans, using a water bath method (placing ramekins in a shallow pan with water) helps maintain moisture when air frying."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-ramekin-in-an-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

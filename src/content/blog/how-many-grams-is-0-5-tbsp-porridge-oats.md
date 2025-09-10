@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-porridge-oats"
-  },
+        },
         "headline": "Quick Answer: 0.5 tbsp porridge oats to grams UK",
         "description": "Find out exactly how many grams are in 0.5 tbsp of porridge oats with our simple UK conversion guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-porridge-oats.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 0.5 tbsp (about 4g) of porridge oats works perfectly in air fryer recipes. This small quantity is ideal for making toppings, adding crunch to yogurt, or creating single-serving oat bakes. The air fryer's rapid cooking helps toast the oats beautifully without burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 0.5 tbsp of porridge oats without special spoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have measuring spoons, you can estimate half a tablespoon by filling a regular tablespoon halfway. For more accuracy, measure 1 full tablespoon (8g) and then divide it in half visually. Alternatively, use digital scales to weigh out exactly 4 grams of oats."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of oat affect the 0.5 tbsp to grams conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, slightly. Our 4g measurement is for standard porridge oats. Steel-cut oats are denser (about 10g per tablespoon), while instant oats are lighter (about 7g per tablespoon). For precise air fryer recipes, it's best to weigh your specific oat type or check its packaging for weight information."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need such a small amount as 0.5 tbsp of porridge oats?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Small quantities like 0.5 tbsp (4g) are perfect for adding texture to dishes without overwhelming them. You might use this amount to top a single air-fried apple crumble, mix into a small batch of granola, or add to a smoothie bowl. The air fryer excels at cooking small portions efficiently, making these tiny measurements practical."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-porridge-oats"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

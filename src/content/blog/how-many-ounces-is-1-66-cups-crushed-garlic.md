@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-crushed-garlic"
-  },
+        },
         "headline": "Quick Answer: 1.66 Cups Crushed Garlic to Ounces UK",
         "description": "Convert 1.66 cups of crushed garlic to ounces easily with our air fryer-friendly guide. Perfect for recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-crushed-garlic.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but minced garlic is less dense than crushed, so you’ll need slightly more to match the weight. For 1.66 cups (13.28 oz) of crushed garlic, use about 1.75 cups of minced garlic. Adjust to taste, especially in air fryer recipes where flavours concentrate."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 1.66 cups of crushed garlic last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Stored properly in an airtight container, crushed garlic lasts up to two weeks in the fridge. For longer storage, freeze it in portions. Thawed garlic works well in cooked dishes like air-fried meats or veggies, though the texture may soften slightly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of garlic affect the weight measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Freshness and variety can slightly alter weight. Younger garlic is juicier, while older cloves are drier. For consistency, use fresh garlic and measure after crushing. If using pre-packaged crushed garlic, check the label for weight equivalents."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute garlic powder for crushed garlic in this quantity?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but the conversion differs. One teaspoon of garlic powder equals about one fresh garlic clove (roughly 0.17 oz). For 13.28 oz of crushed garlic, you’d need around 78 teaspoons (or 26 tablespoons) of powder—though we recommend fresh for better flavour in air fryer dishes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-crushed-garlic"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

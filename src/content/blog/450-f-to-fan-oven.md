@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/450-f-to-fan-oven"
-  },
+        },
         "headline": "450 F to Fan Oven Conversion Guide | Air Fryer Tips",
         "description": "Convert 450 F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-23T15:58:49.538Z",
         "dateModified": "2025-07-23T15:58:49.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/450-f-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "At 450 F (232 C in fan ovens), conventional ovens would typically need about 25°F/15°C higher to achieve similar results due to less efficient heat circulation. Fan ovens and air fryers cook faster and more evenly at this temperature."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 450 F for baking cakes in a fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While possible, 450 F/232 C is generally too high for most cakes - they'd brown too quickly while staying raw inside. For perfect cakes, try our <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cake recipes</a> with recommended lower temperatures around 180°C fan."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my fan oven at 450 F?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers' compact size means heat transfers more intensely to food at 450 F/232 C. Their powerful fans circulate hot air more directly around food compared to larger fan ovens, typically reducing cooking times by 15-20%."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to check if my fan oven is actually reaching 450 F?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use an independent oven thermometer placed in the center of the oven. Preheat for 20 minutes at 232 C (450 F equivalent), then check the reading. If it's significantly off, you may need to calibrate your oven or adjust cooking times accordingly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-23T15:58:49.538000+00:00",
     "dateModified": "2025-07-23T15:58:49.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/450-f-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

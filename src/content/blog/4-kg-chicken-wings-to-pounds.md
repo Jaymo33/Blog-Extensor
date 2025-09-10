@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-wings-to-pounds"
-  },
+        },
         "headline": "Quick 4 kg Chicken Wings to Pounds Conversion Guide",
         "description": "Convert 4 kg chicken wings to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T20:06:59.565Z",
         "dateModified": "2025-08-22T20:06:59.565Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-chicken-wings-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversion"
-  },
+        },
         "articleSection": "Conversion",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4 kg of chicken wings converts to exactly 8.81848 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For practical cooking purposes, most recipes will round this to 8.82 pounds or even 8.8 pounds to simplify measurements while maintaining accuracy for air fryer cooking times and portioning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert 4 kg chicken wings to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4 kg chicken wings to pounds is essential for air frying because most air fryer recipes use pound measurements for determining cooking times and portion sizes. Accurate conversions ensure you don't overcrowd your air fryer basket, which is crucial for achieving crispy rather than steamed chicken wings. Proper measurement also helps with seasoning ratios and sauce proportions for perfect flavor distribution."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if my chicken wings are frozen versus fresh?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion from 4 kg to pounds remains the same regardless of whether your chicken wings are fresh or frozen, as weight is weight. However, frozen wings often have a protective ice glaze that adds extra weight, so your 4 kg package might contain slightly less actual chicken. For most accurate results, thaw and pat dry your wings before weighing for conversion and recipe purposes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many people will 4 kg (8.82 lbs) of chicken wings serve?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4 kg of chicken wings (approximately 8.82 pounds) typically serves 8-10 people as a main course or 12-15 as an appetizer or party food. This estimate accounts for the bone content in wings, which reduces the actual edible meat yield. When air frying, you may need to cook this quantity in batches to avoid overcrowding and ensure all wings cook evenly and become properly crispy."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-wings-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-marmalade"
-  },
+        },
         "headline": "Quick Answer: How many grams is 2.5 tbsp of marmalade?",
         "description": "Convert 2.5 tbsp of marmalade to grams effortlessly with our precise UK measurement guide for perfect air fryer recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T22:47:35.785Z",
         "dateModified": "2025-08-04T22:47:35.785Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-marmalade.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 2.5 tbsp of marmalade is equivalent to 37.5 grams, so you can use them interchangeably in most recipes. For absolute precision, especially in baking, weighing is best, but tablespoon measurements work well for glazes and sauces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of marmalade affect the gram conversion for 2.5 tbsp?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Thicker or chunkier marmalades may weigh slightly more per tablespoon due to higher fruit content. Smooth marmalades typically match the 15g per tbsp standard. If using a dense variety, press it lightly into the spoon for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 2.5 tbsp of marmalade without making a mess?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly grease your measuring spoon with oil to help the marmalade slide off easily. Level each tablespoon with a knife, and wipe the spoon between measurements for clean results. A mini silicone spatula can also help scrape every bit."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What air fryer recipes commonly use 2.5 tbsp of marmalade?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This amount is perfect for glazing air-fried ham or chicken, topping pastries, or mixing into cake batters. It’s also ideal for citrusy sauces in <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>air fryer chicken dishes</a> or as a sweetener in breakfast recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-marmalade"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

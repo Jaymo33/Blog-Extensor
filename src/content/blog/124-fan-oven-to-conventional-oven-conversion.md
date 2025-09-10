@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/124-fan-oven-to-conventional-oven-conversion"
-  },
+        },
         "headline": "Quick 124 Fan Oven to Conventional Oven Conversion Guide",
         "description": "Learn how to convert 124 fan oven to conventional oven temperatures easily with our simple guide for perfect baking every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-23T18:19:54.581Z",
         "dateModified": "2025-07-23T18:19:54.581Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/124-fan-oven-to-conventional-oven-conversion.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "124 fan oven converts to 140°C in a conventional oven. This adjustment ensures proper heat distribution for even baking results, especially important for cakes and pastries."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the difference between 124 fan oven and conventional oven cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Conventional ovens typically need 5-10 minutes longer than fan ovens at equivalent temperatures. When converting 124 fan to 140° conventional, start checking doneness 5 minutes before the recipe's suggested time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 124 fan oven temperature in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, air fryers can use similar temperatures to fan ovens. Set your air fryer to 140°C (equivalent to 124 fan) but reduce cooking time by 20-30% due to the air fryer's more efficient heat circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my food cook differently at 124 fan vs conventional oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fan ovens circulate hot air constantly, cooking food faster and more evenly. Conventional ovens have still air and potential hot spots, requiring higher temperatures (140°C) to achieve similar results to 124 fan settings."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-23T18:19:54.581000+00:00",
     "dateModified": "2025-07-23T18:19:54.581000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/124-fan-oven-to-conventional-oven-conversion"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

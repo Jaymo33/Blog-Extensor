@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/75g-worcestershire-sauce-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 75g Worcestershire Sauce to Ounces Easily",
         "description": "Learn how to convert 75g of Worcestershire sauce to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T23:46:47.435Z",
         "dateModified": "2025-08-08T23:46:47.435Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-worcestershire-sauce-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use tablespoons (about 5 tbsp for 75g), we recommend using digital scales for accuracy. Worcestershire sauce's viscosity means volume measurements can vary slightly. For air fryer recipes where precision matters, weighing gives more consistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of Worcestershire sauce affect the 75g to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the brand doesn't affect the weight conversion. All Worcestershire sauces have similar density, so 75g will always equal about 2.65 ounces regardless of brand. However, flavour profiles may vary between brands, which could slightly affect your recipe's taste."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long will 75g of Worcestershire sauce last in an air fryer recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "75g of Worcestershire sauce typically seasons 4-6 portions in most air fryer recipes. It's often used in marinades or sauces where a little goes a long way. The exact amount needed depends on the recipe and your personal taste preferences."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute other sauces if I don't have 75g of Worcestershire sauce?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While Worcestershire sauce has a unique flavour, you can substitute soy sauce or balsamic vinegar in a pinch. Use about the same weight (75g or 2.65 oz), but expect slightly different results. For best outcomes in air fryer recipes, we recommend using the specified Worcestershire sauce."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/75g-worcestershire-sauce-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-salmon-fillet-to-pounds"
-  },
+        },
         "headline": "Easy 4.5 kg Salmon Fillet to Pounds Conversion Guide",
         "description": "Convert 4.5 kg salmon fillet to pounds instantly with our simple guide. Perfect for air fryer cooking and meal prep. Get accurate results now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-salmon-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 4.5 kg salmon fillet is exactly 9.92079 pounds when using the standard conversion factor of 1 kg equals 2.20462 pounds. For most practical purposes in the kitchen, especially when preparing to air fry, this is rounded to 9.92 pounds. This precision helps in dividing the fillet into portions that fit your air fryer basket and ensures accurate cooking times based on weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a whole 4.5 kg salmon fillet in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is unlikely that a whole 4.5 kg salmon fillet will fit in a standard home air fryer basket, as it converts to nearly 10 pounds and is often too long or thick. For best results, we recommend portioning the fillet into smaller pieces, typically 1 to 2 pounds each, which allows for even cooking and crispy skin throughout. Cooking in batches ensures each piece is perfectly air fried without overcrowding."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long should I air fry a 4.5 kg salmon fillet portion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For portions cut from a 4.5 kg salmon fillet, a good rule of thumb is to air fry at 180°C for 10-12 minutes per pound. Since 4.5 kg is roughly 9.92 pounds, a 2-pound portion would take about 20-24 minutes. Always check for doneness by ensuring the salmon flakes easily with a fork and has an internal temperature of 63°C. Adjust time based on your air fryer model and desired crispiness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 4.5 kg salmon fillet to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.5 kg salmon fillet to pounds is crucial because most air fryer recipes and cooking guidelines use imperial measurements for weight. Accurate conversion ensures you apply the correct cooking time and temperature, preventing undercooked or dry salmon. It also helps in portioning the large fillet into air fryer-friendly sizes, promoting even circulation of hot air for perfectly cooked results every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-salmon-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

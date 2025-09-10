@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-gelatin-powder"
-  },
+        },
         "headline": "Quick Answer: 0.66 Cup Gelatin Powder to Ounces Conversion",
         "description": "Discover how to convert 0.66 cup of gelatin powder to ounces for perfect air fryer desserts. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-gelatin-powder.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Gelatin sheets and powder aren’t interchangeable by volume. If your recipe calls for 0.66 cup of gelatin powder (5.28 oz), you’ll need to convert based on sheet weight. Typically, one sheet equals about 2g, so you’d need approximately 14 sheets to match 5.28 oz of powder. Always check your packet instructions for exact equivalents."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of gelatin powder affect the 0.66 cup to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most gelatin powders have similar densities, so 0.66 cup will still be around 5.28 ounces. However, flavoured or sweetened varieties might vary slightly. For precision, weigh your specific brand. This is especially important in air fryer recipes, where exact measurements impact texture and setting."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover gelatin powder after measuring 0.66 cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Keep unused gelatin powder in an airtight container in a cool, dry place. Moisture can cause clumping, which affects future measurements. If you frequently use 0.66 cup (5.28 oz) portions, consider pre-measuring and labelling batches for convenience."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I halve a recipe that uses 0.66 cup of gelatin powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes! Halving 0.66 cup gives you 0.33 cup, or about 2.64 ounces of gelatin powder. Just adjust other ingredients proportionally. Air fryer recipes often scale well, but keep an eye on cooking times, as smaller quantities may set faster."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-gelatin-powder"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

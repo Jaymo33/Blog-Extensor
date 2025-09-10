@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-plain-flour-to-ounces"
-  },
+        },
         "headline": "Quick & Easy 10g Plain Flour to Ounces Conversion Guide",
         "description": "Convert 10g of plain flour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-plain-flour-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but with caution. Self-raising flour contains baking powder, which may alter the texture of coatings or batters. For every 10g of plain flour, you can substitute self-raising flour, but reduce added leavening agents in the recipe to avoid over-rising in the air fryer's compact space."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 10g of plain flour to cups for air fryer baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "10g of plain flour is roughly 0.08 UK cups (or 2 level teaspoons). However, cup measurements are less precise than weight. For air fryer recipes where accuracy matters, we recommend using scales or referring to our gram-to-ounce conversion for consistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of plain flour (UK vs. US) affect the 10g-to-ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the conversion remains the same (10g = 0.35 oz) regardless of flour origin. However, UK plain flour has slightly lower protein content than US all-purpose flour, which may slightly affect texture in air-fried baked goods. Adjust liquids if needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some air fryer recipes list flour in grams rather than ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Grams offer greater precision for small quantities like 10g, which is crucial for air fryer cooking where space is limited. Most professional recipes and UK sources (including <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>) use metric measurements for reliability. Our conversion tools help bridge the gap for ounce users."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-plain-flour-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

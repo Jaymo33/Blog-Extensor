@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-maple-syrup"
-  },
+        },
         "headline": "Quick Guide: Convert 435 ml of Maple Syrup to Cups Easily",
         "description": "Learn how to convert 435 ml of maple syrup to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-maple-syrup.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the type of maple syrup (Grade A, Grade B, etc.) doesn't change the volume-to-cup conversion. 435 ml of any maple syrup will still equal approximately 1.84 US cups or 1.53 UK cups. However, thicker syrups may pour more slowly, so measure carefully to avoid spills."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 435 ml of maple syrup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's best to use a liquid measuring cup for accuracy, as dry cups aren't designed for viscous liquids like maple syrup. A liquid cup with a spout allows you to level off the syrup precisely. If you must use a dry cup, lightly grease it first to help the syrup slide out."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 435 ml of maple syrup compare to honey in cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "435 ml of honey is slightly denser than maple syrup, but the cup conversion is nearly identical—about 1.84 US cups or 1.53 UK cups. The small difference won't affect most recipes, but for precision baking, it's best to weigh ingredients instead of using volume measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for 435 ml of maple syrup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The difference stems from historical measurement standards. A US cup is 240 ml, while a UK cup is 284 ml. This means 435 ml converts to fewer cups in the UK (1.53) than in the US (1.84). Always check which standard your recipe uses to ensure accuracy, especially in air fryer cooking where precision matters."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-maple-syrup"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

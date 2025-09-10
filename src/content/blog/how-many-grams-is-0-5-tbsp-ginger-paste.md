@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-ginger-paste"
-  },
+        },
         "headline": "Quick Answer: 0.5 tbsp ginger paste to grams UK",
         "description": "Discover how to convert 0.5 tbsp ginger paste into grams for perfect air fryer recipes. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-ginger-paste.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute fresh ginger for paste. Use about 1 tablespoon of freshly grated ginger to replace 0.5 tbsp ginger paste (7.5g). Fresh ginger has a brighter, more vibrant flavor while paste offers convenience and longer shelf life. Adjust to taste as fresh ginger's potency can vary."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my 0.5 tbsp ginger paste measurement seem inconsistent?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Inconsistencies usually come from how the paste settles in the container or whether it's properly stirred. Ginger paste can separate, with liquid rising to the top. Always stir well before measuring. For absolute precision, weighing 7.5 grams eliminates these variables entirely."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does opened ginger paste last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Opened ginger paste typically lasts 2-3 weeks refrigerated in an airtight container. For longer storage, freeze it in portions. Proper storage ensures your 0.5 tbsp measurements remain accurate, as dried-out paste becomes more concentrated and changes the gram equivalent."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of ginger paste affect the 0.5 tbsp to gram conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Different brands can vary slightly in density and water content, which affects the gram measurement. Most commercial ginger pastes will be close to 7.5g per 0.5 tbsp, but it's worth checking your specific brand's nutrition label if extreme precision matters for your recipe. Homemade pastes may vary more."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-ginger-paste"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

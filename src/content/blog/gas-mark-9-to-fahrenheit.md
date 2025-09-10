@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-fahrenheit"
-  },
+        },
         "headline": "Gas Mark 9 to Fahrenheit Conversion Guide",
         "description": "Convert Gas Mark 9 to Fahrenheit (475°F) for perfect air fryer cooking. Includes tips, conversions, and recipes for UK kitchens.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T12:06:53.392Z",
         "dateModified": "2025-07-21T12:06:53.392Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-9-to-fahrenheit.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While Gas Mark 9 (475°F) works for many recipes, it's best suited for foods needing quick, high-heat cooking. Delicate items or longer cooks often require lower temperatures to prevent burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does Gas Mark 9 compare to air fryer presets?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryers don't use Gas Mark numbers, but their 'Roast' or 'Pizza' presets typically reach similar temperatures to Gas Mark 9 (475°F). Always verify with your model's manual."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my food cook faster at Gas Mark 9 in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate heat more efficiently than conventional ovens, so cooking times are shorter. At 475°F, this effect is more pronounced – typically reducing times by 25-30% compared to oven cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert Gas Mark 9 recipes directly for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but reduce cooking time by about 20-25% and check food earlier. The intense air circulation means foods cook faster at 475°F in an air fryer than in a traditional oven."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
     "dateModified": "2025-07-21T12:06:53.392000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-9-to-fahrenheit"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

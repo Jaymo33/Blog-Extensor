@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-wedges-in-air-fryer"
-  },
+        },
         "headline": "How to Reheat Wedges in an Air Fryer – Quick & Crispy",
         "description": "Learn how to reheat wedges in an air fryer for perfect crispiness every time. Get the right temperature, time, and tips for leftover wedges.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T19:59:55.735Z",
         "dateModified": "2025-07-22T19:59:55.735Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-wedges-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes! Reheating wedges at 180°C (350°F) for 3–5 minutes with a light spritz of oil keeps them crispy without drying. Avoid overcrowding the basket for even results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best temperature to reheat wedges in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "180°C (350°F) is ideal—it crisps the exterior without burning. Thicker wedges may need a slightly lower temp (170°C) for longer to heat through evenly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do you reheat wedges in an air fryer if they’re from the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Spread them in a single layer at 180°C for 4–6 minutes, shaking halfway. A quick oil spray helps restore crispiness. Check thicker wedges for doneness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat frozen wedges directly in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It’s better to thaw them first for even reheating. If short on time, cook frozen wedges at 180°C for 6–8 minutes, shaking occasionally."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-wedges-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

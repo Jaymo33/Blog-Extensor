@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-honey"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 125 Grams of Honey?",
         "description": "Discover how to convert 125 grams of honey to cups for perfect baking and air frying every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T21:00:05.870Z",
         "dateModified": "2025-07-27T21:00:05.870Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-honey.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a measuring cup and remember that 125 grams of honey is roughly 0.42 cups (or 1/3 cup plus 1 tablespoon). Lightly grease the cup for easier pouring, and level off the top for accuracy. Warming the honey slightly can also help it pour more smoothly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of honey affect the cup measurement for 125 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While all honey is dense, thicker varieties (like manuka) may pack slightly more into a cup. For most recipes, the difference is minimal, so 125 grams of honey in cups will still be close to 0.42 cups. Stirring the honey before measuring ensures consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 125 grams of honey in savoury air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Honey works well in glazes for meats like chicken or salmon, or in marinades for vegetables. Its sweetness balances spicy or tangy flavours. Try mixing 125 grams of honey with soy sauce, garlic, or chilli for a delicious glaze."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is measuring honey by weight better than by cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Honey’s sticky texture can make cup measurements inconsistent, as air pockets or uneven pouring affect volume. Weighing 125 grams of honey ensures precision, especially in baking or air frying, where exact ratios matter for texture and flavour. A kitchen scale is the most reliable tool."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T21:00:05.870000+00:00",
     "dateModified": "2025-07-27T21:00:05.870000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-honey"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

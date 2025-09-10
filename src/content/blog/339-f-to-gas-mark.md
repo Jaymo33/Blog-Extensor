@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/339-f-to-gas-mark"
-  },
+        },
         "headline": "339 F to Gas Mark: Quick Conversion Guide for Ovens & Air Fryers",
         "description": "Convert 339°F to Gas Mark easily for oven and air fryer cooking. Includes conversion chart, tips, and why this temperature matters for perfect results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T20:12:50.910Z",
         "dateModified": "2025-07-20T20:12:50.910Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/339-f-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 339 F is the exact Fahrenheit equivalent of Gas Mark 3. Air fryers can use either temperature scale - just remember cooking times may be slightly shorter due to the air fryer's efficient heat circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes specify Gas Mark instead of Fahrenheit?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Gas Mark is traditional in UK recipes as it corresponds to the numbered dials on British gas ovens. While modern appliances often show both, many classic recipes maintain Gas Mark references for consistency with older cookbooks."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust cooking times when converting 339 F to Gas Mark 3 in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Reduce oven cooking times by about 15% when using 339 F/Gas Mark 3 in an air fryer. Check food 5 minutes before the recipe's suggested time, as air fryers cook faster due to their concentrated heat and air circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 339 F (Gas Mark 3) suitable for cooking frozen foods?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 339 F works well for frozen foods though you may need to extend cooking time by 20-25% compared to fresh. This moderate temperature prevents the outside from burning before the inside thaws and cooks through."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T20:12:50.910000+00:00",
     "dateModified": "2025-07-20T20:12:50.910000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/339-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

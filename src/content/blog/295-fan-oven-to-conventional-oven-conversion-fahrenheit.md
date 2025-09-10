@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/295-fan-oven-to-conventional-oven-conversion-fahrenheit"
-  },
+        },
         "headline": "Easy 295 Fan Oven to Fahrenheit Conversion for Perfect Baking",
         "description": "Learn how to convert 295 fan oven to Fahrenheit with our simple guide. Master oven temperatures for flawless results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-25T17:57:01.963Z",
         "dateModified": "2025-07-25T17:57:01.963Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/295-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The 20°F adjustment (295 fan to 325 conventional) works for most moderate oven temperatures. However, at very high temperatures (above 400°F), the conversion might need slight tweaking. Always check your specific appliance's manual for guidance, as some models vary in their heat distribution."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 295 fan oven compare to air fryer temperatures?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers work similarly to fan ovens but with more intense air circulation. Generally, you can use the same temperature (295°F) in an air fryer as in a fan oven, but reduce cooking time by about 20%. Always check food earlier than the recipe suggests when using an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do British recipes use fan oven temperatures by default?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fan ovens are the standard in the UK and most of Europe because they're more energy efficient and cook food more evenly. British recipes assume you're using a fan oven unless specified otherwise. This differs from American recipes, which typically use conventional oven temperatures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I adjust the temperature when converting fan oven recipes for baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, baking requires precise temperature control. When converting 295 fan to conventional oven for baking, the 325°F adjustment is crucial. Baking is less forgiving than roasting, so accurate temperature conversion helps ensure proper rise, texture, and browning in your baked goods."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-25T17:57:01.963000+00:00",
     "dateModified": "2025-07-25T17:57:01.963000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/295-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

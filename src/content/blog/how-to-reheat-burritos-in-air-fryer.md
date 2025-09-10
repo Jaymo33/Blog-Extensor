@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-burritos-in-air-fryer"
-  },
+        },
         "headline": "Reheat Burritos in Air Fryer – Crispy & Quick Guide",
         "description": "Learn how to reheat burritos in an air fryer for crispy results without drying out. Perfect temps, timings & tips for leftovers.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T17:33:17.416Z",
         "dateModified": "2025-07-22T17:33:17.416Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-burritos-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can reheat frozen burritos directly in the air fryer without thawing. Cook at 180°C (350°F) for 6-8 minutes, flipping halfway. The extra time ensures the centre thaws and heats thoroughly while crisping the exterior."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I stop my burrito from drying out when reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To prevent drying, wrap the burrito in foil for the first half of cooking or place a small water dish in the air fryer. You can also lightly brush the tortilla with oil or sprinkle a few drops of water on it before reheating."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to reheat multiple burritos at once?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For multiple burritos, arrange them in a single layer with space between each. Increase cooking time by 1-2 minutes and shake the basket halfway. Avoid stacking as this leads to uneven heating and soggy spots."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat burritos that contain sour cream or guacamole?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's best to remove dairy-based toppings before reheating, then add fresh after. The high heat can cause separation or curdling. For guacamole, either remove it or accept it may darken slightly during reheating."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T17:33:17.416000+00:00",
     "dateModified": "2025-07-22T17:33:17.416000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-burritos-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

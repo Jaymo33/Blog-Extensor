@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-25-cups-of-vegetable-oil"
-  },
+        },
         "headline": "Quick Answer: How Many ml Is 0.25 Cups of Vegetable Oil?",
         "description": "Discover the exact ml measurement for 0.25 cups of vegetable oil—perfect for air fryer recipes and precise cooking conversions.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T20:10:55.774Z",
         "dateModified": "2025-07-28T20:10:55.774Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-25-cups-of-vegetable-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 0.25 cups of vegetable oil is approximately 59 ml, not 60 ml. While the difference is minimal, precise measurements matter in air fryer cooking for optimal texture and browning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 0.25 cups of vegetable oil?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes! Since one tablespoon is about 15 ml, four tablespoons equal roughly 60 ml—close enough to 59 ml for most recipes. For exact measurements, use a metric jug or kitchen scale."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of vegetable oil change the ml measurement for 0.25 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most vegetable oils have similar densities, so 0.25 cups will still be around 59 ml regardless of the oil type. Thicker oils, like melted coconut oil, may vary slightly but not enough to affect most recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is 0.25 cups of vegetable oil a common measurement in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This small quantity is enough to coat food lightly without making it greasy, which is ideal for air fryers. It ensures crispiness while keeping meals healthier compared to deep frying."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:55.774000+00:00",
     "dateModified": "2025-07-28T20:10:55.774000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-25-cups-of-vegetable-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

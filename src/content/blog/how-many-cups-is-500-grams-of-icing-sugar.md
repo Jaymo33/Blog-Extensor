@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-icing-sugar"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 500 Grams of Icing Sugar?",
         "description": "Discover how to convert 500 grams of icing sugar to cups for perfect baking results every time. Get accurate measurements and tips here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T22:50:32.779Z",
         "dateModified": "2025-07-26T22:50:32.779Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-icing-sugar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 500 grams of icing sugar is roughly 4 cups when lightly spooned into a measuring cup. However, compaction or scooping directly can alter this, so it's best to fluff the sugar first or use a scale for precision."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of icing sugar affect the cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Standard icing sugar (powdered sugar) and confectioners' sugar have the same density, so the conversion remains the same. However, if your sugar has added cornstarch (common in some brands), it may slightly affect volume, though 500 grams will still be close to 4 cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a liquid measuring cup for icing sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, dry ingredients like icing sugar should be measured in dry measuring cups for accuracy. Liquid cups are designed for fluids and can lead to overpacking or uneven measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust recipes if I don’t have a scale?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your recipe lists grams, use the 500 grams = 4 cups conversion as a guide. For smaller amounts, divide accordingly (e.g., 250 grams = 2 cups). For best results, invest in a kitchen scale, especially for air fryer baking where precision matters."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:32.779000+00:00",
     "dateModified": "2025-07-26T22:50:32.779000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-icing-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

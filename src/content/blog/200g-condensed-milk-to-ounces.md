@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/200g-condensed-milk-to-ounces"
-  },
+        },
         "headline": "Quick 200g condensed milk to ounces conversion guide",
         "description": "Convert 200g of condensed milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and baking accuracy.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-condensed-milk-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 200g of condensed milk equals approximately 7.05 ounces. While 7 ounces is close, the slight difference can affect recipes, especially in air fryer baking where precision matters. Always use exact conversions for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a measuring cup for 200g of condensed milk instead of a scale?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While possible, a measuring cup is less accurate for 200g (7.05 oz) of condensed milk due to its thick consistency. A digital kitchen scale ensures precision, but if using a cup, spoon the condensed milk in and level it off."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 200g of condensed milk convert to fluid ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "200g of condensed milk is roughly 6.8 fluid ounces (fl oz), as it’s denser than water. Weight ounces (7.05 oz) and fluid ounces differ, so always check your recipe’s requirements—especially for air fryer desserts."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do UK recipes often use grams instead of ounces for condensed milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The UK primarily uses metric measurements (grams), while ounces are more common in the US. Recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> often list both, but 200g (7.05 oz) ensures consistency for British cooks. Always double-check conversions for accuracy."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/200g-condensed-milk-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

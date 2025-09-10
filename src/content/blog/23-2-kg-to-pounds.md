@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/23-2-kg-to-pounds"
-  },
+        },
         "headline": "Easy 23.2 kg to Pounds Conversion for Your Air Fryer",
         "description": "Quickly convert 23.2 kg to pounds for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/23-2-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The exact conversion of 23.2 kilograms to pounds is 51.147184 pounds. For most practical kitchen and cooking purposes, this is typically rounded to 51.15 pounds. This precise figure is derived by multiplying 23.2 by the standard conversion factor of 2.20462, which is the number of pounds in a single kilogram."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 23.2 kg to pounds for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 23.2 kg to pounds for your air fryer to understand the weight capacity of your appliance or to accurately portion large batches of food. Many air fryer recipes, especially for large roasts or bulk meal prep, provide weights, and knowing the pound equivalent helps you avoid overloading the basket. This ensures even cooking, proper crisping, and the safety of your appliance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 23.2 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert 23.2 kg to pounds, which is 51.15 lbs. To find the ounces, take the decimal portion (0.15) and multiply it by 16, as there are 16 ounces in a pound. 0.15 x 16 = 2.4 ounces. Therefore, 23.2 kg is equivalent to 51 pounds and 2.4 ounces. This detailed breakdown is useful for very precise recipes or portioning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 23.2 kg too heavy to cook in a standard air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 23.2 kg (over 51 pounds) is far too heavy for any standard home air fryer. Most domestic air fryers have a maximum capacity of between 2 to 7 kg (approximately 4.4 to 15.4 pounds). A weight of 23.2 kg would be for a very large quantity of raw ingredients intended for bulk preparation or a commercial setting, not for a single cooking cycle in a home appliance."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/23-2-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

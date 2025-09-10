@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-plain-flour"
-  },
+        },
         "headline": "Quick Guide: Convert 200 Grams of Plain Flour to Cups Easily",
         "description": "Learn how to convert 200 grams of plain flour to cups for perfect baking every time. Includes UK & US measurements for accuracy.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-25T23:55:27.950Z",
         "dateModified": "2025-07-25T23:55:27.950Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-plain-flour.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, grams measure weight, while millilitres measure volume. Since flour’s density varies, 200 grams won’t always equal 200ml. For plain flour, 200 grams is roughly 1.6 UK cups or 1.5 US cups, not 200ml."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my flour measurement differ between UK and US cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The UK uses a 250ml cup, while the US uses a 240ml cup. This small difference means 200 grams of plain flour fills slightly more in a UK cup (1.6 cups) compared to a US cup (1.5 cups). Always check which standard your recipe follows."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use self-raising flour instead of plain flour for 200 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute self-raising flour, but it contains baking powder, which affects texture. For every 200 grams of plain flour, you’d need to reduce baking powder elsewhere in the recipe. Stick to plain flour unless the recipe specifies otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store flour to keep measurements accurate?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store flour in an airtight container in a cool, dry place to prevent moisture absorption. Humidity can compact flour, making it denser. Fluff it with a fork before measuring to ensure consistent results in your baking or air frying."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-25T23:55:27.950000+00:00",
     "dateModified": "2025-07-25T23:55:27.950000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-plain-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

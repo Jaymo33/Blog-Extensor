@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/40g-almond-milk-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 40g of Almond Milk to Ounces Easily",
         "description": "Discover how to convert 40g of almond milk to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/40g-almond-milk-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, almond milk works well as a dairy-free substitute in most air fryer recipes. Since 40g of almond milk is roughly 1.41 ounces, it can replace dairy milk in equal amounts for batters, sauces, or baking. Just note that almond milk is slightly thinner, so adjust cooking times if needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 40g of almond milk without a scale?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don’t have a scale, use tablespoons—one tablespoon of almond milk weighs about 15g. For 40g, you’ll need just over 2.5 tablespoons. A liquid measuring cup with metric markings can also help, as 40ml of almond milk is close to 40g in weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 40g of almond milk have the same calories as 40g of dairy milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, almond milk is typically lower in calories than dairy milk. Unsweetened almond milk has about 15–20 calories per 40g, while whole dairy milk has around 24–28 calories. Always check the label for exact nutritional info based on the brand you’re using."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze 40g portions of almond milk for later use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Freeze almond milk in ice cube trays—each cube holds about 30g, so two cubes will give you roughly 60g. Thaw in the fridge overnight or melt directly into warm recipes. Avoid freezing sweetened or flavoured varieties, as they may separate."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/40g-almond-milk-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

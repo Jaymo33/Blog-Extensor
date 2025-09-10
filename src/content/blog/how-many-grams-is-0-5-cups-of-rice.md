@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-rice"
-  },
+        },
         "headline": "Quick Answer: How Many Grams Is 0.5 Cups of Rice?",
         "description": "Discover the exact gram measurement for 0.5 cups of rice and simplify your air fryer cooking with precise conversions. Perfect for meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T16:11:23.457Z",
         "dateModified": "2025-07-27T16:11:23.457Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different rice types have slightly varying weights due to grain size and density. For example, 0.5 cups of basmati rice weighs about 95 grams, while brown rice may be closer to 105 grams. Always check packaging or use a scale for precision."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a regular measuring cup for 0.5 cups of rice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but ensure it’s a dry measuring cup, not a liquid one. For the most accurate conversion to grams, lightly spoon the rice into the cup and level it off. Avoid packing the rice down, as this can lead to over-measuring."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is measuring rice in grams better for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers rely on precise measurements for even cooking. Grams provide a more consistent measurement than cups, which can vary based on how the rice is packed. This ensures your rice dishes cook evenly and achieve the right texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert other rice measurements to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a kitchen scale for the most accurate results, or refer to a conversion chart. Generally, 1 cup of white rice is about 200 grams, so halve that for 0.5 cups. For specific types, check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion guide</a>."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:23.457000+00:00",
     "dateModified": "2025-07-27T16:11:23.457000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

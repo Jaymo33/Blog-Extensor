@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-sliced-mushrooms"
-  },
+        },
         "headline": "Quick Answer: 0.125 Cup Sliced Mushrooms to Ounces Conversion",
         "description": "Discover how many ounces are in 0.125 cup of sliced mushrooms with our easy conversion guide. Perfect for air fryer recipes and precise cooking.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-16T23:30:04.315Z",
         "dateModified": "2025-08-16T23:30:04.315Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-sliced-mushrooms.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a measuring cup, you can estimate using common household items. 0.125 cup is equivalent to 2 tablespoons, or about half a large egg's volume. For weight, aim for approximately 1 ounce on kitchen scales. Remember that mushroom sizes vary, so these are rough estimates. For precise air fryer recipes, investing in basic measuring tools is worthwhile."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of mushroom affect the weight per cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different mushroom varieties can vary slightly in weight. Button mushrooms might weigh less per cup than denser varieties like portobello. However, for 0.125 cup of sliced mushrooms, the difference is minimal - roughly 1 ounce across most common types. If using exotic mushrooms, it's best to weigh them for accuracy, especially in air fryer cooking where precision matters."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for dried mushrooms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, dried mushrooms have a completely different weight and volume. 0.125 cup of dried sliced mushrooms would weigh much less and require rehydration before use. Always check specific instructions when working with dried ingredients in your air fryer. For fresh mushrooms, the 0.125 cup to 1 ounce conversion remains reliable."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many mushrooms equal 0.125 cup when sliced?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This depends on the mushroom size, but typically 2-3 medium button mushrooms sliced will give you about 0.125 cup. For precise measurements in air fryer recipes, it's best to slice first then measure. Remember that 0.125 cup of sliced mushrooms equals approximately 1 ounce by weight, which is more reliable than counting individual mushrooms."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-sliced-mushrooms"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

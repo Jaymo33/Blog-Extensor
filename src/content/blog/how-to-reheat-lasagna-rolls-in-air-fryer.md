@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-lasagna-rolls-in-air-fryer"
-  },
+        },
         "headline": "Reheat Lasagna Rolls in Air Fryer – Quick & Crispy Guide",
         "description": "Learn how to reheat lasagna rolls in an air fryer for crispy edges and gooey cheese. Perfect temperature and timing tips for leftovers!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T18:39:33.442Z",
         "dateModified": "2025-07-22T18:39:33.442Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-lasagna-rolls-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>While possible, it's best to thaw frozen lasagna rolls in the fridge overnight first. Reheating from frozen requires nearly double the time (5-7 minutes at 160°C), risking uneven cooking where the outside burns before the centre thaws.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to prevent lasagna rolls from drying out when reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Lightly brush or spray the rolls with olive oil or water before air frying. Keeping the temperature at 160°C and checking frequently after 3 minutes prevents overcooking. Covering with foil for the first half of cooking also helps retain moisture.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I reheat multiple lasagna rolls at once without overcrowding?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Most standard air fryers comfortably fit 4-6 lasagna rolls in a single layer. For larger quantities, reheat in batches or use an air fryer with stacked trays. Between batches, keep cooked rolls warm in a 90°C oven while others cook.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do my reheated lasagna rolls sometimes explode in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>This usually happens when the filling expands faster than the pasta can stretch. To prevent it, pierce each roll with a fork before reheating to create steam vents. Also, avoid overpacking the cheese filling when originally making the rolls.</p>"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:39:33.442000+00:00",
     "dateModified": "2025-07-22T18:39:33.442000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-lasagna-rolls-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

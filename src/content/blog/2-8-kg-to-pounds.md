@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-8-kg-to-pounds"
-  },
+        },
         "headline": "Quick 2.8 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 2.8 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-8-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can estimate 2.8 kg to pounds by remembering that 1 kg is roughly 2.2 pounds. Multiply 2.8 by 2.2 to get approximately 6.16 pounds. For more precision, use the exact factor of 2.20462, but for most kitchen purposes, the rounded number works perfectly well. Keeping a conversion chart on your fridge or bookmarking a reliable site like airfryerrecipe.co.uk can also help."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 2.8 kilograms to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Recipes often use different measurement systems, and converting 2.8 kilograms to pounds ensures you use the correct ingredient amounts for even cooking. Air fryers have basket weight limits, so knowing that 2.8 kg is about 6.17 pounds helps avoid overloading. This is especially important for foods like meats or potatoes, where weight affects cooking time and texture. Accurate conversions lead to better results and appliance longevity."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 2.8 kg the same as 2.8 kilograms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, kg is the abbreviation for kilograms, so 2.8 kg and 2.8 kilograms are identical. Both refer to the same metric unit of mass. This is useful to know when reading recipes or product labels, as they might use the full word or the abbreviation interchangeably. When converting to pounds, the calculation remains the same regardless of how it's written."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale to convert 2.8 kg to pounds directly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, many digital kitchen scales allow you to switch between units like kilograms and pounds with the press of a button. Simply place your ingredient on the scale and select the desired unit. The scale will display the weight in pounds instantly, eliminating manual math. This is a hassle-free way to ensure accuracy, especially when working with larger quantities like 2.8 kg."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-8-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

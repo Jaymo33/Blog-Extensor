@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-vegetable-oil"
-  },
+        },
         "headline": "Quick Answer: How many grams is 3 tbsp of vegetable oil?",
         "description": "Find out exactly how many grams are in 3 tbsp of vegetable oil for perfect air fryer recipes every time. Get the UK conversion now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T22:47:35.785Z",
         "dateModified": "2025-08-04T22:47:35.785Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-vegetable-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While different vegetable oils have slightly varying densities, the difference in weight for 3 tablespoons is minimal. Most common vegetable oils (rapeseed, sunflower, etc.) will weigh approximately 41 grams per 3 tablespoons. More viscous oils like coconut oil would measure differently."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use olive oil instead of vegetable oil in the same gram amount?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute olive oil using the same 41 gram measurement for 3 tablespoons. However, olive oil has a lower smoke point, so reduce your air fryer temperature by about 10°C to prevent smoking. The flavour profile will also be different in your finished dish."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 3 tbsp of vegetable oil without scales or measuring spoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have proper measuring tools, a UK standard eating tablespoon holds about 15ml when filled to the brim. For 3 tablespoons, use three of these level servings. Alternatively, a shot glass often holds 45ml (equivalent to 3 tablespoons), but this method is less precise for getting exactly 41 grams."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes use grams instead of tablespoons for oil measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Gram measurements are more accurate because tablespoon measures can vary based on how the oil is poured and the shape of the spoon. Grams ensure consistency, especially important in air fryer cooking where precise oil amounts affect texture and cooking time. Professional recipes often prefer weight measurements for this reason."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-vegetable-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

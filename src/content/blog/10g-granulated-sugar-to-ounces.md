@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-granulated-sugar-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 10g Granulated Sugar to Ounces Easily",
         "description": "Learn how to convert 10g of granulated sugar to ounces in seconds. Perfect for baking and air fryer recipes with precise measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-granulated-sugar-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but it’s less precise. A level tablespoon holds about 12.5g of granulated sugar, so you’d need slightly less than one tablespoon to measure 10g (approximately 0.35 oz). For accuracy, a digital scale is best, especially for air fryer recipes where precision matters."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does 10g of granulated sugar equal 0.35 oz?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion comes from the metric-to-imperial weight ratio, where 1 gram equals 0.035 ounces. Multiplying 10g by this factor gives you 0.35 oz. This standard conversion ensures consistency in recipes, whether you’re baking traditionally or using an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does granulated sugar weight compare to brown sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Brown sugar is slightly denser due to its moisture content. 10g of packed brown sugar is roughly the same weight as granulated sugar (0.35 oz), but it takes up less volume. Always check your recipe’s sugar type for the best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes with gram measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Explore <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk’s recipe hub</a> for a wide range of dishes with gram and ounce measurements. From desserts to savoury meals, you’ll find detailed guides to perfect your air fryer cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-granulated-sugar-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

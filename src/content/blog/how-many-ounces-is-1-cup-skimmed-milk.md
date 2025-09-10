@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-skimmed-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 1 Cup of Skimmed Milk to Ounces Easily",
         "description": "Learn how to convert 1 cup of skimmed milk to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T23:44:02.193Z",
         "dateModified": "2025-08-14T23:44:02.193Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-skimmed-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, while the volume is the same (1 cup equals 8.45 ounces for both), whole milk is slightly denser due to its higher fat content. However, the difference is minimal for most cooking purposes, especially in air fryer recipes where small variations won't dramatically affect results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use millilitres instead of ounces for measuring skimmed milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. 1 cup of skimmed milk equals about 240 millilitres. Many measuring jugs in the UK show both metric and imperial measurements, making it easy to switch between systems. For air fryer cooking, millilitres can be just as accurate as ounces when measuring liquids."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does skimmed milk perform in air fryer recipes compared to other milks?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Skimmed milk works well in most air fryer recipes, though it may produce slightly less browning than whole milk due to its lower fat content. For creamy dishes like custards or sauces, you might need to reduce cooking time by a minute or two as skimmed milk heats faster."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 1 cup of powdered skimmed milk the same weight as liquid?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, powdered skimmed milk is much lighter. When reconstituted, follow the package instructions to achieve the equivalent of 1 cup (8.45 oz) liquid skimmed milk. Typically, about 1/3 cup powdered milk mixed with water makes 1 cup liquid milk for air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-skimmed-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

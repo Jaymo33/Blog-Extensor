@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-rapeseed-oil"
-  },
+        },
         "headline": "Quick Guide: Convert 2.5 tbsp rapeseed oil to grams easily",
         "description": "Learn how to convert 2.5 tbsp of rapeseed oil into grams for precise air fryer cooking. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T22:47:35.785Z",
         "dateModified": "2025-08-04T22:47:35.785Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-rapeseed-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Measuring oil in grams provides greater accuracy because volume measurements like tablespoons can vary based on how the oil is poured. Grams account for density differences between oil types and ensure consistent results, especially important in air fryer cooking where precise oil amounts affect texture and crispiness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same gram measurement for other oils like olive or sunflower?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 2.5 tbsp of most oils will be close to 34g, there are slight variations. Olive oil is denser (about 36g for 2.5 tbsp), while lighter oils might be slightly less. For critical recipes, it's best to check specific oil densities or use a kitchen scale for perfect accuracy every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 2.5 tbsp rapeseed oil affect air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The 34g of oil helps conduct heat evenly and promotes browning, but shouldn't significantly change cooking times. However, too much oil can cause smoking, while too little might result in uneven cooking. Stick to recommended amounts like 2.5 tbsp for optimal air fryer performance and food texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is rapeseed oil the best choice for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Rapeseed oil is excellent for air frying due to its high smoke point and neutral flavour. While other oils work, rapeseed oil's stability at high temperatures makes it particularly suitable for air fryers. Its light taste won't overpower dishes, making it versatile for various recipes from savoury to sweet."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-rapeseed-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/17-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick & Easy 17.5 kg to Pounds Conversion Guide",
         "description": "Convert 17.5 kg to pounds instantly for perfect air fryer portions. Get precise measurements for recipes, shopping, and more with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T19:54:05.768Z",
         "dateModified": "2025-08-20T19:54:05.768Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/17-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting weight accurately is crucial for air fryer cooking because the appliance's basket has a limited capacity. Overfilling it prevents hot air from circulating properly, leading to unevenly cooked, soggy food instead of a crispy finish. Knowing that 17.5 kg equals 38.58 pounds helps you understand if a large joint of meat or a big batch of vegetables needs to be cooked in separate portions to achieve the best results. This ensures everything cooks evenly and maintains that desirable texture air fryers are known for."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 17.5 kg to imperial pounds the same as US pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for all practical purposes in cooking and everyday use, the imperial pound and the US customary pound are identical. Both units are defined as exactly 0.45359237 kilograms, meaning the conversion factor from kilograms is the same. Therefore, when you convert 17.5 kg to pounds, the result of 38.58 pounds is accurate whether you are in the UK using imperial measurements or in the US using customary units. You can use this conversion with confidence for any recipe or shopping need."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I quickly convert 17.5 kilograms to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A handy rule of thumb for a rough conversion is to remember that 1 kg is approximately 2.2 pounds. For 17.5 kg, you can double the number (35) and then add 10% of it (3.5), which gives you 38.5 pounds—very close to the precise 38.58. For a more accurate mental calculation, you could use 2.2 as your multiplier: 17.5 x 2 = 35, and 17.5 x 0.2 = 3.5, adding them together to get 38.5. While not exact, these methods are perfect for quick estimations at the supermarket or when reading a recipe."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I need to convert 17.5 kg to pounds and ounces for a recipe. How do I do that?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert the entire weight to pounds. 17.5 kg is 38.58 pounds. The whole number, 38, is the pounds. To find the ounces, take the decimal part (0.58) and multiply it by 16, as there are 16 ounces in a pound. So, 0.58 x 16 = 9.28 ounces. Therefore, 17.5 kg is equivalent to 38 pounds and 9.28 ounces. For most recipes, you can round this to 38 pounds and 9 ounces. This level of precision is especially useful in baking or when dealing with very expensive ingredients where exact measurements are critical."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T19:54:05.768000+00:00",
     "dateModified": "2025-08-20T19:54:05.768000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/17-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

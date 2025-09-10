@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-75-kg-chicken-wings-to-pounds"
-  },
+        },
         "headline": "Easy 2.75 kg chicken wings to pounds conversion guide",
         "description": "Convert 2.75 kg chicken wings to pounds instantly with our simple calculator and cooking tips for perfect air fryer results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T20:06:59.565Z",
         "dateModified": "2025-08-22T20:06:59.565Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-75-kg-chicken-wings-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "2.75 kg of chicken wings, which converts to approximately 6.06 pounds, will serve about 8-12 people as a main course depending on appetites. If you're serving them as part of a buffet or as an appetiser before other dishes, you could stretch this to 15-20 servings. Remember that wings contain bones, so the actual meat yield is less than the total weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I adjust cooking time when converting 2.75 kg chicken wings to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, cooking time should be adjusted based on the weight conversion. For 6.06 pounds (2.75 kg) of chicken wings, you'll likely need to cook in batches to avoid overcrowding your air fryer basket, which affects cooking time. Each batch typically takes 20-25 minutes at 180-200°C, but always check that the internal temperature reaches at least 74°C for food safety."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use frozen chicken wings for the 2.75 kg to pounds conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use frozen wings, but they must be completely thawed before air frying for food safety and even cooking. Never place frozen chicken wings directly in the air fryer as this creates uneven cooking and food safety risks. Thaw them thoroughly in the refrigerator overnight, then pat them dry thoroughly before seasoning and cooking according to your recipe."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 2.75 kg chicken wings to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "2.75 kg converts to 6 pounds and approximately 1 ounce (6 lb 1 oz), though most home cooks round to the nearest whole pound for simplicity. For precise baking or professional recipes, you might need the exact conversion, but for most air fryer cooking, 6 pounds is close enough. Digital kitchen scales that switch between metric and imperial units are perfect for these precise measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-75-kg-chicken-wings-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

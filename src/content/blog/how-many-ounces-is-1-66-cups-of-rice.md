@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
-  },
+        },
         "headline": "Quickly Convert 1.66 Cups of Rice to Ounces for Perfect Cooking",
         "description": "Discover how many ounces are in 1.66 cups of rice for flawless air fryer meals. Get accurate conversions and cooking tips in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the weight can vary slightly depending on the type and grain of rice. Long-grain white rice, which is the standard used for the 8 ounces per cup measurement, is a common benchmark. However, short-grain or brown rice may have a different density, meaning a cup could weigh a little more or less. For absolute precision, especially in baking, it's always best to weigh your rice rather than rely on cup measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why should I weigh rice instead of using measuring cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weighing rice with a digital scale is far more accurate than using measuring cups because it eliminates human error. How you scoop rice into a cup—whether you pack it down or spoon it in lightly—can significantly change the actual volume and weight you end up with. A scale gives you a consistent, precise measurement every time, which is crucial for recipe success, especially in air frying where exact quantities affect cooking time and texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for cooked rice as well?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, this conversion specifically applies to uncooked rice. When rice is cooked, it absorbs water and increases in volume and weight dramatically. One cup of uncooked rice typically yields about three cups of cooked rice. Therefore, the conversion of 1.66 cups of uncooked rice to 13.28 ounces does not apply to cooked rice, which would be much heavier for the same volume."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My recipe is in grams; how do I convert 1.66 cups of rice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Since 1.66 cups of rice is approximately 13.28 ounces, you can easily convert this to grams. One ounce is equal to roughly 28.35 grams. Therefore, 13.28 ounces multiplied by 28.35 gives you about 377 grams. So, 1.66 cups of uncooked long-grain white rice weighs approximately 377 grams. Using a scale that measures in grams is often preferred for its precision in international recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

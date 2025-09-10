@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-oat-milk"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 10 ml of Oat Milk?",
         "description": "Discover how to convert 10 ml of oat milk to cups for precise cooking and baking in your air fryer. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:31:14.116Z",
         "dateModified": "2025-07-30T23:31:14.116Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-10-ml-of-oat-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, oat milk works as a 1:1 substitute for regular milk in most air fryer recipes. Since 10 ml is a small amount, it won’t significantly alter the texture. Just ensure it’s unsweetened if the recipe calls for plain milk."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 10 ml of oat milk without a measuring spoon?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A standard teaspoon holds about 5 ml, so two level teaspoons equal 10 ml. Alternatively, use a medicine syringe or a small shot glass marked with measurements. For accuracy, a kitchen scale set to grams (10.3 g) also works."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 10 ml of oat milk change the cooking time in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Typically, no—10 ml is too small to affect cooking time. However, if it’s part of a larger liquid mixture (like batter), monitor the dish closely. Excess moisture can lead to steaming instead of crisping."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 10 ml of oat milk the same in weight as water?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Almost: 10 ml of oat milk weighs about 10.3 grams, while water is exactly 10 grams per 10 ml. The slight difference comes from oat milk’s natural density, but it’s negligible for most air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:14.116000+00:00",
     "dateModified": "2025-07-30T23:31:14.116000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-oat-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

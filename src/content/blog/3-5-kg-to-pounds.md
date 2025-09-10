@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick 3.5 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 3.5 kg to pounds instantly for perfect air fryer portions. Get precise measurements for recipes, meal prep, and buying guides.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting weights accurately is crucial for air fryer success because cooking times are heavily dependent on the mass of food. A 3.5 kg (7.7 lb) joint of meat will require a significantly longer cooking time than a smaller one. Using the wrong weight can lead to undercooked food, which is a safety risk, or overcooked, dry results. Getting the conversion right ensures you follow recipes precisely for perfect meals every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 3.5 kg the same as 3.5 pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, absolutely not. This is a very common and critical mistake. A kilogram is a heavier unit than a pound. Specifically, 1 kilogram is equal to about 2.2 pounds. Therefore, 3.5 kilograms is much heavier than 3.5 pounds—it's actually over twice the weight. confusing the two would result in a massive measurement error that would completely ruin your recipe and likely overwhelm your air fryer's capacity."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I quickly estimate 3.5 kg in pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A great rule of thumb for a quick estimate is to double the kilogram value and then add 10% of it. For 3.5 kg, doubling gives you 7. Then, 10% of 3.5 is 0.35. Adding them together (7 + 0.35) gives you an estimate of 7.35 pounds, which is very close to the actual 7.7 pounds. For a slightly more accurate mental calculation, you can remember that 3 kg is 6.6 lbs and 0.5 kg is 1.1 lbs, so adding them gives you 7.7 lbs."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My recipe says 3.5 kg, but my kitchen scale only shows pounds. What should I do?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, check if your scale has a unit button—many digital scales allow you to switch between grams, kilograms, ounces, and pounds. If it can't switch, you'll need to use the conversion. Weigh your ingredient until the scale shows 7.7 pounds for 3.5 kg. If your scale only shows pounds and ounces, aim for 7 pounds and 11.5 ounces. If precision is less critical, 7 pounds and 12 ounces is a close enough approximation for most cooking purposes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

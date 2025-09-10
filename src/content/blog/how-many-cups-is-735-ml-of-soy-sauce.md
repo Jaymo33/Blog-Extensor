@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-soy-sauce"
-  },
+        },
         "headline": "Quick Guide: Convert 735 ml of Soy Sauce to Cups Easily",
         "description": "Learn how to convert 735 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T23:32:10.358Z",
         "dateModified": "2025-08-01T23:32:10.358Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-735-ml-of-soy-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Almost! 735 ml equals approximately 3.1 cups when using the US standard measurement (240 ml per cup). For UK cups (250 ml), it's slightly less at about 2.94 cups. In most cooking scenarios, you can safely round to 3 cups without affecting your recipe's outcome."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I measure 735 ml of soy sauce without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have measuring cups, you can use a kitchen scale. Soy sauce weighs roughly 1.04 grams per ml, so 735 ml would be about 764 grams. Alternatively, use a standard tablespoon (15 ml) - you'd need 49 tablespoons to reach 735 ml, though this method is time-consuming for large quantities."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute light and dark soy sauce when using 735 ml in a recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute them in a pinch, light and dark soy sauces have different intensities. Dark soy sauce is thicker and less salty, while light soy sauce is saltier and thinner. If substituting, you might need to adjust other seasonings in your air fryer recipe to balance the flavours."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long will 735 ml of soy sauce last once opened?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An opened bottle of soy sauce typically lasts 2-3 years when stored properly in the refrigerator. The high salt content acts as a natural preservative. However, for best quality, try to use within a year. Always check for changes in colour, smell, or flavour before using older soy sauce in your air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-soy-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

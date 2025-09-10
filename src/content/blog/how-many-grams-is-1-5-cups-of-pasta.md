@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-pasta"
-  },
+        },
         "headline": "Quick Answer: How Many Grams Is 1.5 Cups of Pasta?",
         "description": "Find out exactly how many grams 1.5 cups of pasta weighs for perfect air fryer meals every time. Get the conversion and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T23:31:14.679Z",
         "dateModified": "2025-07-27T23:31:14.679Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-cups-of-pasta.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, pasta shape and density change the weight per cup. Compact shapes like macaroni weigh slightly more (around 155g per 1.5 cups) than long strands like spaghetti (140g). Always check specific conversions for your recipe, especially when air frying for consistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 1.5 cups of cooked pasta instead of dry in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No—cooked pasta weighs much more (about double) and has different texture properties. Air fryer recipes specifying 1.5 cups (150g) mean dry pasta, which crisps better. Using cooked pasta may lead to soggy results or overcrowding in the basket."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust air fryer time for 1.5 cups of pasta versus other amounts?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For every 50g increase above 150g (1.5 cups), add 1-2 minutes to cooking time, shaking halfway. Smaller portions cook faster, so reduce time by 1 minute per 50g less. Always check for doneness since air fryer models vary."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air-fried 1.5 cups of pasta sometimes burn or stick?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Overcrowding or insufficient oil can cause sticking. For 150g (1.5 cups) of pasta, use 1 tbsp oil and cook in a single layer. Lighter pasta like spaghetti may need less time than denser shapes. Non-stick liners or shaking the basket halfway helps prevent burning."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:31:14.679000+00:00",
     "dateModified": "2025-07-27T23:31:14.679000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-cups-of-pasta"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

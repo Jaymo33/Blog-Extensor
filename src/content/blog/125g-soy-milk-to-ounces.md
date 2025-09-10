@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/125g-soy-milk-to-ounces"
-  },
+        },
         "headline": "Quick 125g soy milk to ounces conversion for UK cooks",
         "description": "Convert 125g of soy milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise UK measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T21:33:21.570Z",
         "dateModified": "2025-08-08T21:33:21.570Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-soy-milk-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For soy milk, 125g is approximately equal to 125ml because its density is similar to water. However, this can vary slightly between brands, especially with thicker or sweetened varieties. For air fryer recipes where precision matters, weighing is more accurate than volume measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use almond milk instead of soy milk in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, almond milk can generally substitute soy milk in a 1:1 ratio by weight (125g = 4.41 oz). However, almond milk is slightly thinner, so batters might be less rich. Adjust cooking times by 1-2 minutes as almond milk browns faster in the air fryer’s circulating heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some UK recipes use grams instead of ounces for liquids?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The UK officially uses metric measurements, with grams being standard for both solids and liquids in recipes. Grams provide more precision than ounces, especially important in air fryer cooking where small quantities are common. Digital scales in the UK typically default to grams for this reason."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does soy milk affect air fryer cooking times compared to dairy milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Soy milk may require slightly shorter cooking times (about 1 minute less per 125g used) as it contains less fat than whole dairy milk. The sugars in soy milk caramelise faster, so watch for browning. For crispy coatings, soy milk often creates a lighter texture than dairy alternatives."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/125g-soy-milk-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

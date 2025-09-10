@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Easy 4.5 kg chicken breast to pounds conversion guide",
         "description": "Convert 4.5 kg chicken breast to pounds quickly with our simple guide. Perfect for air fryer meal prep and recipe scaling.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.5 kg of chicken breast is exactly 9.92079 pounds, though it's commonly rounded to 9.92 pounds for practical use. This conversion uses the standard factor where 1 kilogram equals 2.20462 pounds. For most cooking purposes, especially in air frying, rounding to 9.9 or 10 pounds is perfectly acceptable and won't affect your results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 4.5 kg chicken breast to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.5 kg chicken breast to pounds helps you follow recipes accurately, especially those from the US or older UK sources that use imperial measurements. It also ensures you don't overcrowd your air fryer basket, as knowing the weight in pounds allows you to portion correctly for optimal air circulation. Overcrowding leads to uneven cooking, so this conversion is key for crispy, perfectly cooked chicken."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 4.5 kg of chicken breast in one go in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's not recommended to cook 4.5 kg (nearly 10 pounds) of chicken breast in one go in most air fryers, as baskets typically hold 2-5 pounds per batch. Cooking in batches ensures each piece cooks evenly and achieves a crispy exterior. Divide the chicken into smaller portions, and adjust cooking times slightly for each batch based on size and thickness for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between US pounds and UK pounds when converting 4.5 kg chicken breast?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there is no difference between US customary pounds and UK imperial pounds for weight conversions—both are identical units. 4.5 kg always converts to approximately 9.92 pounds regardless of the country. This consistency makes it easy to use recipes from various sources without worrying about measurement discrepancies affecting your air fryer cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

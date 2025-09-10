@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-kitchen-roll-in-an-air-fryer"
-  },
+        },
         "headline": "Can You Put Kitchen Roll in an Air Fryer? Safety Guide",
         "description": "Wondering if kitchen roll is safe in an air fryer? Learn the risks, alternatives, and expert tips for using kitchen roll correctly in your air fryer.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T22:38:02.529Z",
         "dateModified": "2025-07-22T22:38:02.529Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-kitchen-roll-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, it's not safe. Kitchen roll can block airflow or catch fire at high temperatures. Instead, use approved air fryer liners or silicone mats designed to handle the heat while absorbing grease."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Will kitchen roll melt or burn in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, regular kitchen roll can scorch, melt, or even ignite in an air fryer due to temperatures exceeding 200°C. Always use heat-resistant materials specifically made for air fryers instead."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is parchment paper safer than kitchen roll in air fryers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, perforated parchment paper designed for air fryers is heat-resistant and won't block airflow like kitchen roll. Just ensure it's properly weighted down with food to prevent it from blowing around."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I put kitchen roll under food in a Ninja air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Ninja specifically advises against using kitchen roll in their air fryers. Their manuals recommend using the included racks or Ninja-branded accessories to avoid fire hazards and ensure proper cooking performance."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
     "dateModified": "2025-07-22T22:38:02.529000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-kitchen-roll-in-an-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-crushed-garlic"
-  },
+        },
         "headline": "Quick Answer: How Many Grams in 2 Tbsp Crushed Garlic?",
         "description": "Discover the exact weight of 2 tbsp crushed garlic in grams for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-crushed-garlic.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use minced garlic as a substitute, but the weight may vary slightly. Minced garlic is typically finer than crushed, so 2 tbsp might weigh closer to 25 grams. For air fryer recipes, this small difference usually won't affect the outcome, but for precision, it's best to weigh it."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the UK conversion of 2 tbsp crushed garlic to grams differ from US measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "UK and US tablespoons are actually the same volume (15ml), so the 28 gram measurement applies to both. However, UK cooks tend to use metric measurements more consistently, making gram weights more common in recipes. The garlic itself doesn't differ between regions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my 2 tbsp of crushed garlic sometimes weigh more or less than 28 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The weight can vary based on how finely the garlic is crushed and how tightly it's packed into the spoon. Very finely crushed garlic may compact more, while coarsely crushed garlic leaves more air gaps. For absolute accuracy, always use scales rather than relying solely on volume measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use garlic powder instead of crushed garlic in my air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute garlic powder, but the conversion is different. Generally, 1/8 teaspoon of garlic powder equals one fresh garlic clove or about 1/2 tbsp crushed garlic. For 2 tbsp crushed garlic (28g), you'd need about 2 teaspoons of garlic powder. Adjust to taste as powdered garlic is more concentrated."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-crushed-garlic"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

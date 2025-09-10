@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-25-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 3.25 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 3.25 kg chicken breast to pounds easily for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T00:37:28.394Z",
         "dateModified": "2025-08-22T00:37:28.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-25-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversion"
-  },
+        },
         "articleSection": "Conversion",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 3.25 kg chicken breast to pounds accurately, multiply 3.25 by 2.20462. This gives you approximately 7.17 pounds. Using a precise conversion ensures your air fryer cooking times are correct and your chicken cooks evenly. Always double-check with a kitchen scale if possible for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 3.25 kg of chicken breast in one go in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on the size of your air fryer basket. 3.25 kg of chicken breast is about 7.17 pounds, which is a large quantity. Most home air fryers will require cooking in batches to avoid overcrowding. Overcrowding prevents proper air circulation and leads to uneven cooking. Check your air fryer's capacity guidelines and cook in layers if needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the pound equivalent of 3.25 kg chicken breast?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the pound equivalent helps you follow recipes correctly, especially those using imperial measurements. It also aids in portion control, meal planning, and comparing prices when shopping. For air frying, accurate weight ensures proper cooking time and temperature settings, resulting in perfectly cooked chicken every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tools to help convert 3.25 kg chicken breast to pounds quickly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, many kitchen scales have unit conversion functions, allowing you to switch between kilograms and pounds instantly. There are also mobile apps and online converters that can do the math for you. For a comprehensive guide, check out the conversion charts on airfryerrecipe.co.uk, which are tailored for air fryer users."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-25-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

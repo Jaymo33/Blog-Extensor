@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-soft-cheese"
-  },
+        },
         "headline": "Quick Answer: How Many Ounces in 0.66 Cup Soft Cheese",
         "description": "Find out exactly how many ounces 0.66 cup of soft cheese weighs for perfect air fryer recipes. Get accurate UK conversions and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-soft-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 0.66 cup of soft cheese is not the same weight as 0.66 cup of shredded hard cheese. Soft cheese, like cream cheese, is much denser and therefore heavier for the same volume. While 0.66 cup of soft cheese weighs approximately 5.28 ounces, the same volume of a lighter, shredded cheese like cheddar would weigh significantly less. Always check your specific recipe for the type of cheese required and convert based on that ingredient's density."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a liquid measuring cup for soft cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is not recommended to use a liquid measuring cup for soft cheese. Liquid measuring cups are designed for pourable liquids and will not give you an accurate measure for thick, spreadable ingredients like soft cheese. For the most accurate measure of 0.66 cup of soft cheese, you should use dry measuring cups and the spoon-and-level method, or ideally, use a digital kitchen scale to weigh out the correct amount in ounces for perfect results in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of soft cheese affect the weight per cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "There can be slight variations in density between different brands of soft cheese, which might cause a small difference in weight per cup. Full-fat cream cheese tends to be denser than lighter or spreadable versions. However, for most practical home cooking purposes, especially in air fryer recipes, the standard conversion of 8 ounces per cup is accurate enough. For absolute precision in recipes where texture is critical, such as baked cheesecakes, weighing your ingredients is always the best approach."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I measure 0.66 cup without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a measuring cup, you can use tablespoons to measure 0.66 cup of soft cheese. Since there are 16 tablespoons in a US cup, 0.66 cup equates to approximately 10.5 tablespoons. You would need to spoon out 10 tablespoons plus another half tablespoon of soft cheese. However, this method is less precise than using a scale. For the most accurate result, investing in an inexpensive digital kitchen scale to measure the required 5.28 ounces directly is highly recommended for air fryer cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-soft-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

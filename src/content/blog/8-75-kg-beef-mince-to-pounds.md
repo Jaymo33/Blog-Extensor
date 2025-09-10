@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-beef-mince-to-pounds"
-  },
+        },
         "headline": "Easy 8.75 kg Beef Mince to Pounds Conversion Guide",
         "description": "Convert 8.75 kg beef mince to pounds quickly and accurately for perfect air fryer recipes. Get precise measurements and cooking tips for juicy results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-beef-mince-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8.75 kg beef mince to pounds is crucial for air frying because most air fryer recipes and appliance presets are designed using imperial measurements. Accurate conversion ensures you load the correct amount into the basket, preventing overcrowding and promoting even cooking. This leads to better texture, juiciness, and overall dish quality, making your air-fried meals consistently delicious."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple rule to convert kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a quick rule of thumb is to multiply kilograms by 2.2 to get a rough pound equivalent. For 8.75 kg beef mince, this would give about 19.25 pounds, which is very close to the precise 19.29 pounds. While fine for estimation, for recipe accuracy—especially in air frying where precision affects cooking time—using the exact multiplier (2.20462) or a digital scale is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store 8.75 kg of beef mince after conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After converting 8.75 kg beef mince to pounds and portioning, store it in airtight freezer bags or containers labelled with the weight in both units. Freeze portions flat for quick thawing and space efficiency. Always thaw in the refrigerator overnight before air frying to ensure safe and even cooking. Proper storage maintains freshness and makes meal prep effortless."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are US pounds and imperial pounds the same for this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for practical kitchen purposes, US pounds and imperial pounds are identical, both equal to 0.453592 kilograms. So when converting 8.75 kg beef mince to pounds, you can use the standard conversion factor without worry. This consistency simplifies cooking and ensures accuracy across recipes from different sources, whether you're using UK or US-based guides."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-beef-mince-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

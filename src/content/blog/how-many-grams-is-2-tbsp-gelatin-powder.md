@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-gelatin-powder"
-  },
+        },
         "headline": "Quick Guide: Convert 2 tbsp of gelatin powder to grams easily",
         "description": "Discover how to convert 2 tbsp of gelatin powder to grams for perfect recipes every time. Get accurate measurements with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-gelatin-powder.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use gelatin sheets as a substitute for powder. One tablespoon of gelatin powder is roughly equivalent to 3-4 gelatin sheets, depending on their strength. For 2 tbsp of powder, you’d need about 6-8 sheets. Always soak the sheets in cold water first, then dissolve them in warm liquid. Check your recipe for specific instructions, as sheet gelatin can vary by brand."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my gelatin dessert turn out rubbery in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A rubbery texture usually means you’ve used too much gelatin. Stick to the recommended 14 grams for 2 tbsp to avoid this. Also, ensure your air fryer isn’t overheating, as high temperatures can affect gelatin’s setting properties. Preheating the air fryer and using a lower temperature can help. Always follow the recipe’s cooking times and temperatures for the best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert grams back to tablespoons if my recipe uses weight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert grams back to tablespoons, divide the weight by 7 (since 1 tbsp of gelatin powder is about 7 grams). For example, 14 grams would be 2 tbsp. Remember that this is an approximation, and slight variations can occur based on how the powder is packed. For precise baking, a kitchen scale is always best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use gelatin powder in savoury air fryer dishes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Gelatin powder works well in savoury dishes like terrines, sauces, or even glazes for meats. Dissolve it in warm broth or water before adding it to your dish. Just be mindful of the quantity—too much can make the texture unpleasant. Start with small amounts and adjust to taste. Gelatin can add a rich, silky mouthfeel to many savoury recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-gelatin-powder"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

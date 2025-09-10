@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-yeast"
-  },
+        },
         "headline": "Quick Answer: How many grams is 1 tbsp of yeast? UK Guide",
         "description": "Discover the exact weight of 1 tbsp of yeast in grams for UK baking. Perfect for air fryer recipes and precise measurements every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-yeast.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different yeast types have slightly varying weights. Active dry yeast weighs about 7 grams per tbsp, while instant yeast is closer to 8 grams. Fresh yeast is denser, so always check your recipe for the correct type and adjust measurements accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a teaspoon instead of a tablespoon for measuring yeast?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! If your recipe calls for smaller amounts, 1 teaspoon of yeast equals roughly 2.6 grams. Just remember to adjust the quantity if scaling up—for example, 3 teaspoons (1 tbsp) would be approximately 8 grams."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer bread sometimes turn out dense?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Dense bread can result from inaccurate yeast measurements, expired yeast, or insufficient rising time. Ensure you’re using the correct weight (8 grams per tbsp) and fresh yeast. Also, let the dough rise properly before air frying for optimal texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert grams to tablespoons for yeast if my recipe uses metric measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert grams to tablespoons, divide the gram amount by 8 (since 1 tbsp ≈ 8 grams). For example, 16 grams of yeast would be 2 tablespoons. For precise results, use a digital scale, especially for air fryer recipes where accuracy matters."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-yeast"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

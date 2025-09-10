@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-0-kg-to-pounds"
-  },
+        },
         "headline": "Quick 7.0 kg to Pounds Conversion for Your Air Fryer",
         "description": "Convert 7.0 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-0-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer recipes, especially those from the US or older cookbooks, use imperial measurements like pounds. Converting 7.0 kg to pounds (15.432 lb) ensures you use the exact ingredient weight specified, which is crucial for cooking times and results. Using the wrong amount can lead to undercooked, overcooked, or unevenly cooked food."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 7.0 kg the same as 7.0 kilograms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, absolutely. 'kg' is simply the standard abbreviation for kilogram. So, 7.0 kg and 7.0 kilograms represent the exact same weight. Therefore, converting 7.0 kg to pounds gives you the same result as converting 7.0 kilograms to pounds: approximately 15.432 pounds."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 7.0 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A quick and easy rule of thumb is to remember that 1 kilogram is roughly equal to 2.2 pounds. For 7.0 kg, you would multiply 7 by 2.2, which gives you 15.4 pounds. This is very close to the precise answer of 15.432 pounds and is perfectly accurate for most cooking purposes where a small variance won't impact the recipe."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My scale only shows pounds. How do I measure out 7.0 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your scale only displays pounds, you simply need to know that 7.0 kg is equivalent to 15.432 pounds. Place your empty container on the scale and use the tare function to zero it out. Then, add your ingredient until the scale reads 15.4 pounds (or 15.43 for more precision). This will give you the correct 7.0 kg amount you need for your recipe."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-0-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

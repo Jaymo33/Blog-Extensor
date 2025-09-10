@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Quick 9 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 9 kg whole chicken to pounds instantly with our easy guide. Perfect for air fryer cooking and recipe adjustments. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T20:06:59.565Z",
         "dateModified": "2025-08-22T20:06:59.565Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 9 kg whole chicken to pounds accurately, multiply 9 by 2.20462. This gives you 19.84158 pounds, which you can round to 19.8 or 20 pounds for most practical purposes. For air fryer cooking, this level of precision ensures your cooking times are correct for perfectly roasted chicken.\n\nRemember that slight variations won't dramatically affect your results, but being as accurate as possible helps achieve consistent outcomes. Always verify the weight if possible, as individual chickens can vary slightly even when labeled as 9 kg."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the pound equivalent of a 9 kg chicken for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the pound equivalent of a 9 kg chicken is crucial for air frying because most air fryer recipes and manufacturer guidelines use pound measurements. Air fryer cooking times are weight-dependent, so an accurate conversion ensures your chicken cooks through properly without being over or underdone.\n\nAdditionally, understanding the weight in pounds helps with portion planning and ensures your air fryer can accommodate the chicken's size. Overcrowding can lead to uneven cooking, so knowing the converted weight helps you make necessary adjustments or decide to spatchcock the bird."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 9 kg whole chicken in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most standard home air fryers cannot accommodate a 9 kg whole chicken due to its size. A 9 kg chicken converts to nearly 20 pounds, which is exceptionally large for typical air fryer baskets. You would likely need a commercial-sized air fryer or to spatchcock and possibly portion the chicken.\n\nFor large poultry, consider using your oven or a dedicated rotisserie oven if your air fryer isn't large enough. Always check your air fryer's maximum capacity before attempting to cook such a large bird to avoid damage or uneven cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long should I cook a 9 kg chicken in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a 9 kg chicken (approximately 20 pounds), air fry at 180°C for about 20 minutes per pound, plus an additional 15 minutes. This totals roughly 6-7 hours, but always use a meat thermometer to ensure doneness. The internal temperature should reach 75°C in the thickest part of the thigh.\n\nDue to the extended cooking time, you may need to pause and rotate the chicken periodically for even browning. Consider cooking in parts if your air fryer struggles with such a large item, and always allow the chicken to rest before carving to retain juices."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

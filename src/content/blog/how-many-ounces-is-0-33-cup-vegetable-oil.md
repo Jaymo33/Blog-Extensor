@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-vegetable-oil"
-  },
+        },
         "headline": "Quick Answer: Convert 0.33 cup vegetable oil to ounces easily",
         "description": "Discover how to convert 0.33 cup of vegetable oil to ounces for perfect air fryer recipes every time. Simple, accurate, and fast!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-18T23:44:06.726Z",
         "dateModified": "2025-08-18T23:44:06.726Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-vegetable-oil.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a kitchen scale is the most accurate way to measure 0.33 cup of vegetable oil. Simply set your scale to ounces and measure out 2.64 ounces, which equals 0.33 cup. This method eliminates the need for measuring cups and ensures precision in your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 0.33 cup of vegetable oil compare to other common measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.33 cup of vegetable oil (2.64 ounces) is equivalent to about 5 tablespoons plus 1 teaspoon. It's slightly more than 1/4 cup (2 ounces) but less than 1/2 cup (4 ounces). This measurement is perfect for coating ingredients evenly without overdoing the oil in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is my air fryer smoking when I use 0.33 cup of vegetable oil?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your air fryer smokes with 0.33 cup (2.64 ounces) of vegetable oil, you might be applying it incorrectly. Try using an oil spray for even distribution rather than pouring it in. Also, ensure you're not exceeding the recommended temperature for your specific oil type."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute other oils for vegetable oil in the same 0.33 cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute oils, their weights may vary slightly. For example, 0.33 cup of olive oil weighs about 2.6 ounces compared to vegetable oil's 2.64 ounces. The difference is minimal for most recipes, but for baking, it's best to measure by weight for perfect results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-18T23:44:06.726000+00:00",
     "dateModified": "2025-08-18T23:44:06.726000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-vegetable-oil"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

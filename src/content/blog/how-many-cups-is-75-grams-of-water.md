@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-water"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 75 Grams of Water?",
         "description": "Find out exactly how many cups 75 grams of water equals for baking and air frying. Simple conversions for perfect recipes every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T19:05:43.270Z",
         "dateModified": "2025-07-27T19:05:43.270Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-water.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for water, 75 grams equals 75 millilitres (ml) because water’s density is 1g/ml. This makes measuring easier—use a liquid measuring cup for ml or a scale for grams. Note that oils or syrups differ due to density."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 75 grams of water without a scale?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a liquid measuring cup: 75 grams is roughly 1/3 cup (minus 1 teaspoon). For better accuracy, UK cooks can use 5 UK tablespoons (15ml each). A <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> helps with smaller increments."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the cup type (US/UK) affect 75 grams of water?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Slightly. A US cup is 240ml (so 75g = ~0.31 cups), while a UK cup is 250ml (~0.3 cups). For 75 grams, the difference is negligible, but for larger quantities, stick to one measurement system."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 75 grams of water for air fryer steaming?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Add 75 grams of water to an oven-safe dish beneath foods like dumplings or fish to create steam. Just ensure it doesn’t touch the heating element. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>steaming recipes</a> for timing tips."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-water"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

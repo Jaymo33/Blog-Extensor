@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/24-kg-to-pounds"
-  },
+        },
         "headline": "Quickly Convert 24.0 kg to Pounds for Your Air Fryer",
         "description": "Easily convert 24.0 kg to pounds for perfect air fryer cooking. Get accurate measurements and portion sizes for any recipe in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/24-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 24.0 kg to pounds is essential for air frying because most recipes and appliance manuals use imperial measurements. Accurate conversions ensure you use the correct ingredient quantities, which directly affects cooking time and texture. Overloading your air fryer with too much food, or using too little, can lead to unevenly cooked, soggy, or burnt results. Knowing that 24.0 kg is roughly 52.91 pounds helps you portion correctly for perfect air frying every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 24.0 kg to US pounds the same as imperial pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for practical purposes, the US pound and the imperial pound are identical. Both are defined as exactly 0.45359237 kilograms, so the conversion of 24.0 kg to pounds is the same whether you are in the US or the UK. You will get approximately 52.91 pounds regardless. This standardisation makes it easy to follow international recipes or use kitchen scales from different regions without any confusion or adjustment needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I quickly convert 24.0 kilograms to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A quick and easy way to convert 24.0 kilograms to pounds in your head is to use a rough multiplier of 2.2. Multiply 24 by 2.2 to get 52.8 pounds, which is very close to the precise 52.91. For most cooking scenarios, this approximation is perfectly adequate. If you need more precision, remember that 1 kg is 2.20462 lbs, but for air frying portions, the rounded figure is usually sufficient to ensure great results without fuss."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My recipe uses 24.0 kg of potatoes. How many pounds is that, and how should I cook them in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "24.0 kg of potatoes is approximately 52.91 pounds. For air frying, you should never cook this entire amount at once, as air fryers have limited capacity. Instead, work in batches of 1-2 pounds per cook for the best crispness. Cut your potatoes into even-sized chips, wedges, or cubes, toss them in a little oil, and cook at 200°C for 15-20 minutes, shaking halfway. Cooking in small batches ensures hot air can circulate properly for perfectly crispy results every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/24-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

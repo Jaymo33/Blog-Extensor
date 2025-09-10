@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-25-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 4.25 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 4.25 kg whole chicken to pounds quickly and accurately. Perfect for air fryer cooking and recipe planning. Get the exact weight now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-25-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 4.25 kg whole chicken is approximately 9.37 pounds. This conversion uses the standard factor of 1 kilogram equals 2.20462 pounds. It's important for setting correct air fryer times and temperatures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert 4.25 kg whole chicken to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryer recipes and manufacturer guidelines use pounds for weight-based cooking settings. Converting 4.25 kg to pounds (9.37) ensures you select the right time and temperature, preventing under or overcooking. It also helps when using pre-programmed functions on your appliance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple 2.2 conversion for 4.25 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Using 2.2 instead of 2.20462 gives 9.35 pounds, which is very close but not exact. For most home cooking, this small difference won't matter significantly. However, for precision in air frying, especially with larger birds, using the accurate factor is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 4.25 kg whole chicken to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.25 kg is 9.37 pounds, which is 9 pounds and 5.92 ounces (since 0.37 pounds x 16 = 5.92 ounces). This level of detail can be useful for very precise recipe requirements or when using digital scales that display ounces."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-25-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

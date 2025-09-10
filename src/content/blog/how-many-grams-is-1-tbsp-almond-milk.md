@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-almond-milk"
-  },
+        },
         "headline": "Quick Guide: 1 Tbsp Almond Milk to Grams (UK Conversion)",
         "description": "Discover how many grams are in 1 tbsp of almond milk with our easy UK conversion. Perfect for air fryer recipes and precise baking!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T15:56:35.650Z",
         "dateModified": "2025-08-04T15:56:35.650Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-almond-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most almond milk brands hover around 15 grams per tablespoon, but thicker varieties (like barista editions) may weigh slightly more. Always check the nutritional label for density clues, or weigh your preferred brand for absolute accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use millilitres instead of grams for almond milk in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 1 tbsp of almond milk equals roughly 15ml, making millilitres a viable alternative. However, grams are more precise for baking, as they account for density variations. For most air fryer cooking, either unit works fine."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does almond milk weight compare to dairy milk in recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Dairy milk is slightly denser, weighing about 18 grams per tablespoon. When substituting almond milk, use the same volume (1 tbsp) but note the 3-gram difference won’t significantly impact most air fryer dishes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list almond milk in cups rather than tablespoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cups are common in bulk cooking, but tablespoons offer better control for smaller air fryer portions. One cup of almond milk equals 240 grams (16 tbsp), useful when scaling family-sized recipes down for air fryer batches."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T15:56:35.650000+00:00",
     "dateModified": "2025-08-04T15:56:35.650000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-almond-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-chicken-wings-to-pounds"
-  },
+        },
         "headline": "Quick 8 kg chicken wings to pounds conversion guide",
         "description": "Convert 8 kg chicken wings to pounds instantly with our easy calculator. Perfect for air fryer recipes and meal planning. Get cooking today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-chicken-wings-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "8 kg of chicken wings converts to exactly 17.63696 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For practical kitchen purposes, most people round this to 17.64 pounds or even 17.6 pounds to simplify measurements while maintaining sufficient accuracy for cooking. This conversion is essential when following air fryer recipes that use imperial measurements or when purchasing chicken wings from suppliers who use different measurement systems."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting kilograms to pounds for air fryer recipes ensures accurate portioning and proper cooking results. Many air fryer recipes, particularly those from American sources or older cookbooks, use pound measurements for ingredients. Accurate conversions prevent overfilling your air fryer basket, which can lead to uneven cooking and soggy food instead of crispy results. Additionally, seasoning and marinade quantities are often designed for specific weights, so proper conversion ensures balanced flavors throughout your dish."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if the chicken wings are frozen?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the weight conversion from 8 kg to pounds remains the same whether the chicken wings are fresh or frozen. The physical weight of the wings doesn't change based on their temperature state. However, you should note that frozen wings may contain ice crystals or freezer burn that could slightly affect the actual meat weight. For most practical purposes, you can use the same conversion factor, but many cooks prefer to thaw and pat dry frozen wings before weighing for the most accurate measurement for air frying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust air fryer time for 17.64 pounds of chicken wings?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When cooking 17.64 pounds of chicken wings (converted from 8 kg) in an air fryer, you'll need to cook in multiple batches rather than attempting to cook all at once. Most home air fryers can accommodate 1-2 pounds of wings per batch for optimal air circulation. Cook each batch at 200°C for 20-25 minutes, flipping halfway through, until the wings are crispy and reach an internal temperature of 74°C. Allow 5-10 minutes between batches for the air fryer to reheat properly for consistent results across all your wings."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-chicken-wings-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

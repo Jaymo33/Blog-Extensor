@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-wholemeal-flour"
-  },
+        },
         "headline": "Quick Answer: 0.25 Cup Wholemeal Flour to Ounces UK",
         "description": "Discover how many ounces are in 0.25 cup of wholemeal flour for perfect baking results every time. Includes UK conversions and air fryer tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-wholemeal-flour.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, wholemeal flour is denser than plain flour. While 0.25 cup of wholemeal flour weighs about 1.06 ounces (30 grams), the same volume of plain flour is approximately 1 ounce (28 grams). This difference matters in precise baking, especially for air fryer recipes where ingredient ratios affect cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the scoop-and-sweep method to measure 0.25 cup of wholemeal flour?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The scoop-and-sweep method often packs too much flour into the cup, leading to inaccurate measurements. For 0.25 cup of wholemeal flour (1.06 ounces), it's better to spoon the flour lightly into the measuring cup and level it off. For absolute precision in air fryer baking, weighing the flour is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does air frying affect wholemeal flour recipes compared to oven baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers circulate hot air rapidly, which can dry out wholemeal flour baked goods faster than conventional ovens. When converting recipes, you might need to slightly increase liquid ingredients or reduce cooking time. The 0.25 cup to ounces conversion remains the same, but texture outcomes may differ slightly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes using wholemeal flour?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> features numerous dishes using wholemeal flour, from breads to coatings. The <a href=https://www.airfryerrecipe.co.uk/recipe-category/breakfast>breakfast category</a> includes healthy wholemeal options perfect for air frying. Remember to use the correct 0.25 cup to ounces conversion for best results in all these recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-wholemeal-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

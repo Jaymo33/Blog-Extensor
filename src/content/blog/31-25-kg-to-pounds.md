@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/31-25-kg-to-pounds"
-  },
+        },
         "headline": "Quick 31.25 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 31.25 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T22:25:08.238Z",
         "dateModified": "2025-08-21T22:25:08.238Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/31-25-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "31.25 kilograms is exactly 68.89375 pounds, though it's commonly rounded to 68.89 pounds for practical use. This conversion uses the standard factor of 1 kilogram equaling 2.20462 pounds. For air fryer cooking, this level of precision helps with portioning larger ingredients like meat or vegetables, ensuring even cooking and avoiding overloading the basket."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 31.25 kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 31.25 kg to pounds is useful when following recipes that use imperial measurements or when buying ingredients sold in kilograms. Air fryer cooking often depends on precise weights to determine cooking time and temperature, especially for larger items like roasts or batch-cooked foods. Knowing the conversion helps you avoid mistakes and achieve perfectly crispy results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple trick to estimate 31.25 kg in pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, a quick estimation trick is to multiply kilograms by 2.2 for a close pound equivalent. For 31.25 kg, this gives roughly 68.75 pounds, which is very near the exact 68.89 pounds. This method is handy for mental math while shopping or prepping, though for recipe accuracy, using a digital scale or converter is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 31.25 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "31.25 kg is quite large for home air fryer use—it equates to nearly 69 pounds, which is more typical for commercial cooking or bulk buying. However, understanding the conversion helps when dividing large packages into smaller, air fryer-friendly portions. For example, if you buy a 31.25 kg bag of potatoes, converting to pounds helps you plan manageable batches for crispy fries or roasts."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/31-25-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

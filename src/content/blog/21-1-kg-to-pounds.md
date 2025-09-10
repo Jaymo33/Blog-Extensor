@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/21-1-kg-to-pounds"
-  },
+        },
         "headline": "Quick 21.1 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 21.1 kg to pounds instantly for perfect air fryer portions. Get precise measurements for better cooking results and easy meal prep.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/21-1-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "21.1 kg is exactly 46.517 pounds when using the standard conversion factor of 2.20462 pounds per kilogram. For most practical purposes, you can round this to 46.52 pounds. This level of precision is useful for recipes requiring accurate measurements, especially in baking or when using your air fryer for large batches."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 21.1 kg to pounds the same worldwide?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from 21.1 kg to pounds is consistent worldwide because the kilogram and pound are standardized units. The pound used is the international avoirdupois pound, which is equal to 0.45359237 kilograms. So whether you're in the UK, US, or elsewhere, 21.1 kg always converts to approximately 46.52 pounds. This makes it easy for air fryer users to follow recipes from any country."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 21.1 kg to pounds conversion for air fryer capacity?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. Converting 21.1 kg to pounds helps you understand your air fryer's capacity limits. Most air fryers specify their maximum capacity in pounds or kilograms, so knowing that 21.1 kg equals about 46.52 pounds allows you to avoid overloading. Overloading can lead to uneven cooking and longer cooking times, so this conversion is practical for everyday use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 21.1 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 21.1 kg to pounds without a calculator, you can use a simple approximation. Multiply the kilograms by 2.2 for a quick estimate—21.1 times 2.2 gives 46.42 pounds, which is very close to the exact 46.52. For more accuracy, remember that 1 kg is about 2.20462 pounds. Keeping a conversion chart in your kitchen can also help, especially when using your air fryer for large meals."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/21-1-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

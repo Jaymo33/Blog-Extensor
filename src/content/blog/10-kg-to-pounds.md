@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-to-pounds"
-  },
+        },
         "headline": "Quick 10.0 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 10.0 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and recipes for accurate meal prep every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T16:05:32.623Z",
         "dateModified": "2025-08-20T16:05:32.623Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The exact conversion of 10.0 kilograms to pounds is 22.05 pounds. This is calculated using the standard conversion rate where 1 kilogram is equal to approximately 2.205 pounds. Multiplying 10.0 by 2.205 gives you the precise figure of 22.05 lbs."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 10.0 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 10.0 kg to pounds is essential for air fryer cooking to ensure proper portioning and accurate cooking times. Many recipes, especially those from American sources or older cookbooks, use imperial measurements. Knowing that 10.0 kg equals 22.05 pounds helps you buy the right amount of ingredients and avoid overfilling your air fryer basket, which is crucial for achieving crispy, evenly cooked results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 10.0 kg the same as 10.0 kilo when converting to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, absolutely. "Kilo" is simply a common abbreviation for kilogram, so 10.0 kg and 10.0 kilo mean exactly the same thing. Therefore, 10.0 kilo to pounds is also 22.05 pounds. This is a standard conversion used in cooking and shopping worldwide."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 10.0 kg to pounds and ounces for baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 10.0 kg to pounds and ounces, first calculate that it is 22.05 pounds. The whole number is 22 pounds. To find the ounces, take the decimal part (0.05) and multiply it by 16, as there are 16 ounces in a pound. 0.05 x 16 = 0.8 ounces. So, 10.0 kg is equivalent to 22 pounds and 0.8 ounces. For most air fryer cooking, the pound measurement is sufficient, but this precision can be useful for certain baked goods."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T16:05:32.623000+00:00",
     "dateModified": "2025-08-20T16:05:32.623000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

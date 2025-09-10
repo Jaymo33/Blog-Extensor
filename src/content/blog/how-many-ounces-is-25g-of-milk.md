@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 25g of Milk to Ounces Easily",
         "description": "Learn how to convert 25g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 25g of milk to ounces ensures accuracy in air fryer recipes, where precise measurements affect texture and cooking times. Since air fryers cook faster than traditional ovens, even small discrepancies can lead to uneven results. Knowing that 25g equals roughly 0.88 ounces helps you follow recipes correctly, whether they use metric or imperial measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 25g of milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use a measuring cup if it has metric markings. 25g of milk is approximately 25 millilitres, which most measuring cups will display. However, a digital scale is more accurate, especially for baking. If your cup only shows ounces, remember that 25g is about 0.88 ounces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 25g of milk affect air fryer baking compared to conventional baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "In air fryer baking, 25g of milk must be measured precisely because the cooking process is faster and more intense. Unlike conventional baking, where slight variations might not matter as much, air fryers rely on exact ratios to ensure even cooking. Too much or too little milk can alter the texture of cakes, custards, or batters."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any air fryer recipes where 25g of milk is commonly used?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes! 25g of milk is often used in small-batch air fryer recipes like mug cakes, pancake batter, or creamy sauces. It's also common in glazes for pastries or as a binding agent for breaded dishes. For recipe ideas, check out our dessert or breakfast categories on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

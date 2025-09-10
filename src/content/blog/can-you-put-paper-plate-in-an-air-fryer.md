@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-paper-plate-in-an-air-fryer"
-  },
+        },
         "headline": "Can You Use a Paper Plate in an Air Fryer? Safety Guide",
         "description": "Wondering if you can put a paper plate in an air fryer? Learn the risks, safety tips, and alternatives for safe air frying.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T23:30:57.071Z",
         "dateModified": "2025-07-22T23:30:57.071Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-paper-plate-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, Ninja does not recommend using paper plates in their air fryers due to fire risks. Stick to silicone or metal accessories for safe cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Will a paper plate catch fire in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, paper plates can ignite if exposed to high heat for too long. Always use heat-resistant materials to avoid fire hazards."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best alternative to a paper plate in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Silicone liners or perforated parchment paper are the safest alternatives, allowing proper airflow without melting or burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat pizza on a paper plate in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, transfer pizza to a metal rack or oven-safe dish to prevent the plate from burning or releasing harmful chemicals."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-paper-plate-in-an-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

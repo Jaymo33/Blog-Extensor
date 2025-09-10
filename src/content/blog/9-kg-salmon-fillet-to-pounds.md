@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-kg-salmon-fillet-to-pounds"
-  },
+        },
         "headline": "Easy 9 kg salmon fillet to pounds conversion for perfect cooking",
         "description": "Convert 9 kg salmon fillet to pounds instantly for accurate air fryer recipes and perfect results every time. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-kg-salmon-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 9 kg salmon fillet is exactly 19.84158 pounds when using the standard conversion factor of 1 kilogram equals 2.20462 pounds. For most cooking purposes, you can round this to 19.84 pounds without losing significant accuracy. This precision is important for air fryer recipes where cooking times are often calculated per pound of protein."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do I need to adjust air fryer settings for a 9 kg salmon fillet?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you will likely need to adjust your air fryer settings when cooking a 9 kg salmon fillet (approximately 19.84 pounds). Due to its size, you may need to cook it in portions to ensure even cooking, and might require slightly lower heat for longer to prevent the exterior from burning before the interior is done. Always use a meat thermometer to check for an internal temperature of 63°C."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the conversion work for 9 kg salmon fillet to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 9 kg salmon fillet to pounds and ounces, first calculate the total pounds (19.84), then multiply the decimal portion (0.84) by 16 to get ounces. This gives you approximately 19 pounds and 13.44 ounces. This level of detail can be helpful when dividing the fillet into very precise portions or following recipes that specify ounces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between US pounds and imperial pounds for this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, for practical cooking purposes, there is no difference between US pounds and imperial pounds when converting 9 kg salmon fillet to pounds. Both systems use the avoirdupois pound of 16 ounces, so the conversion result is the same. This means you can confidently use the 19.84 pounds measurement whether you're following UK or US-based recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-kg-salmon-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

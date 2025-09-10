@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-25-kg-chicken-wings-to-pounds"
-  },
+        },
         "headline": "Easy 8.25 kg chicken wings to pounds conversion guide",
         "description": "Convert 8.25 kg chicken wings to pounds instantly with our simple guide. Perfect for air fryer meal prep and portion planning.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-25-kg-chicken-wings-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "8.25 kg of chicken wings, which converts to approximately 18.19 pounds, can feed quite a large gathering. As a main course, assuming每人半磅的分量，这大约可以满足36-45人的需求。如果是作为开胃菜或派对小吃，分量较小，最多可以供应90人。实际人数还会取决于配菜的数量和客人的食欲大小。"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I buy fresh or frozen chicken wings for large quantities?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For large quantities like 8.25 kg, both fresh and frozen options have their advantages. Fresh wings often have better texture and flavor but must be cooked within a day or two of purchase. Frozen wings are more convenient for storage and can be kept for months, but may contain ice glaze that adds to the weight. Consider your timeline - if cooking immediately, fresh might be preferable; for longer term storage, frozen offers more flexibility."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to cook 8.25 kg of chicken wings in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking 8.25 kg (18.19 pounds) of chicken wings in a standard home air fryer requires multiple batches. Each batch typically takes 20-25 minutes at 200°C, plus preheating time between batches. With approximately 9 batches needed, the total active cooking time would be around 3-4 hours. Using a larger capacity air fryer or multiple units simultaneously can significantly reduce this time. Remember to factor in preparation and resting time as well."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I prepare 8.25 kg of chicken wings in advance for a party?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Preparing 8.25 kg of chicken wings in advance is a great party strategy. You can season the wings a day ahead and keep them refrigerated, or even fully cook and freeze them beforehand. For best results, air fry them until nearly done, then freeze, and finish cooking for a few minutes before serving to restore crispiness. This approach saves time on the day of your event and ensures you can enjoy the party rather than being stuck in the kitchen."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-25-kg-chicken-wings-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

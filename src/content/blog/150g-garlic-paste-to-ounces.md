@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/150g-garlic-paste-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 150g of Garlic Paste to Ounces Easily",
         "description": "Learn how to convert 150g of garlic paste to ounces for precise cooking. Perfect for air fryer recipes and meal prep.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-garlic-paste-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute fresh garlic for garlic paste. Approximately 150g of garlic paste equals about 30-40 cloves of fresh garlic, depending on size. However, fresh garlic has a sharper flavour, so adjust to taste. For air fryer recipes, minced fresh garlic works well but may cook faster than paste."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 150g of garlic paste last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An opened container of 150g garlic paste lasts about 2-3 weeks in the fridge if stored properly. Keep it in an airtight container to maintain freshness. If you notice any discolouration or off smells, discard it. For longer storage, freeze portions in small containers."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 150g of garlic paste the same as 150g of minced garlic?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, garlic paste and minced garlic differ in texture and intensity. Garlic paste is smoother and more concentrated, while minced garlic has a chunkier texture. When substituting, use slightly less paste than minced garlic to avoid overpowering your dish. Always taste as you go."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze 150g portions of garlic paste?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Freezing 150g portions of garlic paste is a great way to extend its shelf life. Use ice cube trays or small containers for easy portioning. Thaw in the fridge before use. Frozen garlic paste retains its flavour well, making it handy for future air fryer meals."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/150g-garlic-paste-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-gas-mark"
-  },
+        },
         "headline": "368 F to Gas Mark Conversion for Air Fryers & Ovens",
         "description": "Convert 368°F to Gas Mark for air fryers & ovens. Includes baking tips, conversion charts, and UK-specific guidance for perfect results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T21:01:50.722Z",
         "dateModified": "2025-07-20T21:01:50.722Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/368-f-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For fan-assisted ovens, you'd typically reduce the temperature by about 20°C from the conventional oven setting. While 368°F converts to Gas Mark 5 in a regular oven, you might need to adjust to Gas Mark 4 or lower in a fan oven, depending on your specific model and recipe requirements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same 368 F to Gas Mark conversion in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the temperature conversion remains the same (368°F = Gas Mark 5), but air fryers cook faster due to their compact size and powerful fans. You'll typically need to reduce cooking time by about 15-20% compared to conventional oven recipes using the same Gas Mark setting."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes specify 368 F while others use Gas Mark 5?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This depends on the recipe's origin - American recipes typically use Fahrenheit while British ones use Gas Mark. Both represent the same temperature. At airfryerrecipe.co.uk, we provide both measurements to accommodate all cooks, whether using traditional ovens or modern air fryers."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What types of food cook best at 368 F (Gas Mark 5)?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "368 F (Gas Mark 5) is ideal for baking cakes, cookies, and breads, as well as roasting vegetables and cooking poultry. It's a versatile medium-high temperature that provides enough heat for browning while preventing burning. Our recipe section has specific cooking times for different foods at this temperature."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T21:01:50.722000+00:00",
     "dateModified": "2025-07-20T21:01:50.722000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

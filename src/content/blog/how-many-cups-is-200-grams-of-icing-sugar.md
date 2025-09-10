@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-icing-sugar"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 200 Grams of Icing Sugar?",
         "description": "Find out exactly how many cups 200 grams of icing sugar equals for perfect baking results every time. Includes UK and US conversions.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-25T23:55:27.950Z",
         "dateModified": "2025-07-25T23:55:27.950Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-icing-sugar.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, granulated and icing sugar have different densities. While 200 grams of granulated sugar equals about 1 cup (UK/US), icing sugar is lighter, so 200 grams fills approximately 1.6 UK cups or 1.5 US cups. Always check which type your recipe specifies."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 200 grams of icing sugar without scales?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Without scales, use the spoon-and-level method: lightly spoon icing sugar into a measuring cup until slightly heaped, then level off with a knife. For 200 grams, you'll need about 1.5 US cups or 1.6 UK cups. For accuracy, especially in air fryer baking, investing in a digital scale is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does sifted vs. unsifted icing sugar affect the cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, sifted icing sugar is fluffier and takes up more volume. If your recipe calls for sifted sugar, sift it before measuring. For 200 grams, you might need slightly more unsifted sugar to reach the same weight after sifting. This is crucial for air fryer recipes where texture impacts cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other powdered ingredients like flour or cocoa?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, each powdered ingredient has a unique density. For example, 200 grams of flour equals about 1.6 cups, while cocoa powder is closer to 2 cups. Always refer to specific conversion charts, like those on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, for accurate measurements across ingredients."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-25T23:55:27.950000+00:00",
     "dateModified": "2025-07-25T23:55:27.950000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-icing-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

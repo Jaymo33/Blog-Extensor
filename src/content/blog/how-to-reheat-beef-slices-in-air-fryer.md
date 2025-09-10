@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-beef-slices-in-air-fryer"
-  },
+        },
         "headline": "How to Reheat Beef Slices in Air Fryer – Quick & Juicy Results | AirFryerRecipe.co.uk",
         "description": "Learn the best way to reheat beef slices in your air fryer without drying them out. Get perfect temperature, timing and tips for juicy leftovers every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T16:12:00.810Z",
         "dateModified": "2025-07-22T16:12:00.810Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-beef-slices-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but thaw them in the fridge first for even reheating. Frozen beef slices straight into the air fryer will cook unevenly - the outside may overcook before the centre thaws. If in a hurry, use your air fryer's defrost setting for 2 minutes before switching to reheat mode."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to keep beef slices moist when reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly brush with oil, broth, or leftover juices before air frying. Placing a small oven-safe dish of water in the air fryer basket creates steam that prevents drying. For very lean cuts like fillet, wrapping in foil for the first half of cooking locks in moisture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent beef slices from getting tough in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use lower temperatures (150-160°C) and shorter cook times, checking frequently. Thicker slices benefit from a 1-minute rest after flipping. Avoid overcrowding the basket - this causes steaming rather than crisping, which can toughen the texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat beef slices with sauce in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's better to reheat plain beef first, then add sauce afterwards. Most sauces burn at air fryer temperatures or make the meat soggy. If you must reheat sauced beef, brush off excess sauce and cook at 140°C for just 2-3 minutes, checking frequently."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:12:00.810000+00:00",
     "dateModified": "2025-07-22T16:12:00.810000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-beef-slices-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

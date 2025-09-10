@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 7 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 7 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer meal prep and portion planning. Get cooking today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "7 kg of chicken breast is approximately 15.43 pounds. This conversion uses the standard factor where 1 kilogram equals 2.20462 pounds, making it easy to calculate for cooking and shopping. Knowing this helps when preparing large batches in your air fryer, ensuring you have the right amount for recipes and portion control."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 7 kg chicken breast to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 7 kg chicken breast to pounds is crucial for air frying because it helps you avoid overcrowding the basket, which can lead to uneven cooking. Accurate measurements ensure each piece cooks properly, achieving that desired crispiness and juiciness. It also aids in following recipes correctly and managing portion sizes for meal prep."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 7 kg chicken breast to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can convert 7 kg chicken breast to pounds and ounces for more precision. 7 kg equals 15.43 pounds, and since there are 16 ounces in a pound, 0.43 pounds is about 6.88 ounces. So, 7 kg is roughly 15 pounds and 7 ounces, useful for detailed recipe measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I cook 7 kg of chicken breast in an air fryer without overcrowding?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To cook 7 kg of chicken breast in an air fryer without overcrowding, cook in batches based on your air fryer's capacity, usually 2-5 pounds per batch. Keep cooked chicken warm in a low oven while finishing the rest. Ensure each batch is in a single layer with space for air circulation for even cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

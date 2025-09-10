@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Easy 4 kg Lamb Leg to Pounds Conversion for Perfect Roasts",
         "description": "Convert 4 kg lamb leg to pounds instantly for perfect air fryer cooking times and temperatures. Get juicy, evenly cooked roasts every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4 kg of lamb leg converts to exactly 8.81848 pounds, though for practical cooking purposes, most recipes will round this to 8.82 pounds. This precise conversion is important for calculating accurate air fryer cooking times, as even small weight variations can affect how long your lamb needs to cook. Using the exact conversion ensures your expensive cut of meat cooks perfectly rather than ending up over or underdone."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryer recipes and cooking guidelines use pounds as the standard measurement for meat weights, making conversion necessary if your lamb is labeled in kilograms. Air fryers cook food faster than conventional ovens, so precise weight measurements are critical for determining correct cooking times and temperatures. Converting ensures you follow recipes accurately and achieve consistent, perfectly cooked results every time you use your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a rough conversion of 2.2 instead of 2.20462 for kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While using 2.2 as a rough conversion factor will give you approximately 8.8 pounds instead of 8.82, this small difference usually won't dramatically affect your cooking results for a 4 kg lamb leg. However, for larger cuts or more precise recipes, using the exact conversion factor of 2.20462 is recommended. The difference becomes more significant with heavier pieces of meat, so developing the habit of using the precise conversion ensures consistency across all your cooking projects."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the converted weight affect cooking time in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The converted weight directly determines your cooking time, as air fryer recipes typically calculate cooking duration based on pounds of meat. For lamb leg, a general guideline is 20 minutes per pound plus an additional 20 minutes, so your 8.82-pound lamb would need approximately 196 minutes at 180°C. Precise weight conversion ensures you don't undercook or overcook your expensive cut of meat, resulting in perfectly juicy, evenly cooked lamb every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

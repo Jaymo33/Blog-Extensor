@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-25-kg-to-pounds"
-  },
+        },
         "headline": "Quick 11.25 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 11.25 kg to pounds instantly for perfect air fryer portions. Get easy measurements and cooking tips for better results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T17:56:15.635Z",
         "dateModified": "2025-08-21T17:56:15.635Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/11-25-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "11.25 kg is exactly 24.80175 pounds, though it is commonly rounded to 24.8 pounds for everyday use. This conversion uses the standard multiplier of 2.20462 pounds per kilogram. For most cooking purposes, especially with an air fryer, rounding to one decimal place is perfectly acceptable and makes measurements easier to work with."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely, converting 11.25 kg to pounds is very useful for air fryer cooking, particularly when dealing with larger ingredients or batch cooking. Knowing the weight in pounds helps you stay within your air fryer’s capacity limits, which is key for achieving crisp, evenly cooked results. Always check your appliance’s maximum weight recommendation to avoid overcrowding."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between US pounds and UK imperial pounds when converting 11.25 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there is no difference between US customary pounds and UK imperial pounds—both are exactly the same unit of weight. So, whether you're converting 11.25 kg to US pounds or imperial pounds, the result is identical: approximately 24.8 pounds. This consistency makes it easy to use recipes from either region without confusion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 11.25 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert 11.25 kg to pounds, which is 24.80175 pounds. The whole number is 24 pounds. To find the ounces, multiply the decimal part (0.80175) by 16, since there are 16 ounces in a pound. This gives approximately 12.83 ounces. So, 11.25 kg is roughly 24 pounds and 12.8 ounces. This level of detail is handy for precise portioning or baking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T17:56:15.635000+00:00",
     "dateModified": "2025-08-21T17:56:15.635000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-25-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

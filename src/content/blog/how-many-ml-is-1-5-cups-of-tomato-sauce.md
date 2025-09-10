@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-tomato-sauce"
-  },
+        },
         "headline": "Quick Answer: How Many ml Is 1.5 Cups of Tomato Sauce?",
         "description": "Discover the exact ml measurement for 1.5 cups of tomato sauce with our easy conversion guide—perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T21:44:47.980Z",
         "dateModified": "2025-07-28T21:44:47.980Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-5-cups-of-tomato-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there’s a slight difference. In the US, 1 cup equals 240 ml, while in the UK, it’s 284 ml. However, most modern recipes—especially online—use the US measurement. So, 1.5 US cups of tomato sauce is 355 ml, whereas 1.5 UK cups would be 426 ml. Always check which standard your recipe follows."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use passata instead of tomato sauce in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, passata works well as a substitute, but it’s thicker. For 1.5 cups (355 ml) of tomato sauce, you may need to thin passata with a little water or broth. Adjust cooking times slightly, as thicker sauces can affect how the air fryer circulates heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover tomato sauce after measuring 1.5 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Transfer unused sauce to an airtight container and refrigerate for up to 5 days. For longer storage, freeze it in portions. Reheat gently in a saucepan or microwave before using it in your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe turn out soggy with tomato sauce?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Too much sauce can trap steam, preventing crispiness. Stick to 1.5 cups (355 ml) or less, and spread it evenly. For dishes like meatballs, lightly coat them instead of drowning them in sauce. Preheating the air fryer also helps achieve a better texture."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T21:44:47.980000+00:00",
     "dateModified": "2025-07-28T21:44:47.980000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-tomato-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

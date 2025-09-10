@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/464-f-to-gas-mark"
-  },
+        },
         "headline": "464 F to Gas Mark: Oven & Air Fryer Conversion Guide",
         "description": "Convert 464°F to Gas Mark for ovens & air fryers. Includes baking tips, UK conversions, and how to adjust recipes for perfect results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T10:27:34.920Z",
         "dateModified": "2025-07-21T10:27:34.920Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/464-f-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryers have a maximum temperature of 200°C (392°F), so you can't directly replicate 464 F (Gas Mark 9). However, you can achieve similar results by cooking slightly longer and using techniques like preheating thoroughly or finishing under a grill for extra browning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What types of food are best cooked at 464 F (Gas Mark 9)?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "464 F (Gas Mark 9) is ideal for foods requiring quick, intense heat like pizza, artisan bread, puff pastry, or vol-au-vents. It's also excellent for achieving crispy textures on roasted vegetables or reheating certain takeaway foods to restore their original crunch."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert American recipes using 464 F to UK Gas Mark?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Simply convert 464 F to Gas Mark 9 for UK recipes. However, remember that cooking times may need adjustment as air fryers cook faster than conventional ovens. Start checking for doneness about 20% sooner than the recipe suggests when using an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is it safe to cook at 464 F in an air fryer regularly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While occasional high-temperature cooking at 464 F is fine, regular use may shorten your air fryer's lifespan. Always follow manufacturer guidelines, ensure proper ventilation, and clean your air fryer frequently to prevent smoke or oil buildup at these intense temperatures."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T10:27:34.920000+00:00",
     "dateModified": "2025-07-21T10:27:34.920000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/464-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-minced-beef"
-  },
+        },
         "headline": "Quick Conversion: 2.25 Cups of Minced Beef to Grams",
         "description": "Convert 2.25 cups of minced beef to grams effortlessly for perfect air fryer meals. Get precise measurements every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T23:33:52.667Z",
         "dateModified": "2025-07-27T23:33:52.667Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-minced-beef.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but minimally. Lean minced beef (5% fat) and standard (15-20% fat) differ slightly in density, but 2.25 cups will still weigh ~255 grams. For precise recipes like meatloaf, weigh the meat for consistency. Higher-fat mince may compact more, so fluff it before measuring."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for frozen minced beef?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Thaw frozen minced beef completely before measuring. Ice crystals alter volume, so 2.25 cups of frozen mince won’t equal 255 grams. Once thawed, drain excess liquid and fluff with a fork for an accurate cup-to-gram conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 2.25 cups (255g) of minced beef provide?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on the dish. For air fryer burgers, 255 grams makes 2-3 patties. In bolognese or chilli, it serves 3-4 people. For meatballs, you’ll get ~20 small (12g each) or 10 large (25g each)."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is minced beef the same weight after cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No—minced beef loses ~25% weight when cooked due to fat and moisture loss. If a recipe calls for 255g cooked beef, start with ~340g (3 cups) raw. Always preheat your air fryer to ensure even cooking and minimise shrinkage."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:33:52.667000+00:00",
     "dateModified": "2025-07-27T23:33:52.667000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-minced-beef"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

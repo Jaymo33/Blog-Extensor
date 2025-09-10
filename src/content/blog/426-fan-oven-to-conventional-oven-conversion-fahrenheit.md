@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/426-fan-oven-to-conventional-oven-conversion-fahrenheit"
-  },
+        },
         "headline": "Quick 426 Fan Oven to Fahrenheit Conversion Guide for Perfect Baking",
         "description": "Learn how to convert 426 fan oven to Fahrenheit with our easy guide. Achieve perfect baking results every time in your conventional oven or air fryer.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-25T21:48:02.255Z",
         "dateModified": "2025-07-25T21:48:02.255Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/426-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you shouldn't use 426 fan oven temperature directly in a conventional oven. Fan ovens cook more efficiently, so you need to reduce the temperature by about 20-25°F. For 426 fan, set your conventional oven to 400°F to achieve similar results without overcooking your food."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 426 fan oven conversion work for air fryers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers operate similarly to fan ovens but are more compact. When converting 426 fan oven to air fryer, reduce the temperature slightly to about 390-400°F. Also shorten cooking times by 20-30% since air fryers circulate heat even more efficiently than fan ovens. Always check food doneness early when adapting recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is there a difference between fan and conventional oven temperatures?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The difference exists because fan ovens circulate hot air constantly, cooking food faster and more evenly. Conventional ovens rely on natural heat circulation, creating hot and cold spots. The 20-25°F reduction compensates for this efficiency difference, preventing overcooked edges or undercooked centers in your baked goods."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do I need to adjust cooking times when converting 426 fan to conventional oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you'll typically need to increase cooking times by 10-15% when using conventional oven settings. While the temperature conversion (426 fan to 400 conventional) handles the heat intensity, the slower heat circulation in conventional ovens means food takes slightly longer to cook through. Always use visual cues and internal temperature checks for accuracy."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-25T21:48:02.255000+00:00",
     "dateModified": "2025-07-25T21:48:02.255000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/426-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

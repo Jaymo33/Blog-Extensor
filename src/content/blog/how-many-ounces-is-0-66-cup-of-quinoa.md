@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-quinoa"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 0.66 cup of quinoa?",
         "description": "Find out exactly how many ounces are in 0.66 cup of quinoa for perfect air fryer meal prep. Simple conversion guide inside!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-17T16:41:26.143Z",
         "dateModified": "2025-08-17T16:41:26.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-quinoa.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 0.66 cup (5.28 oz) of quinoa works well for air fryer baking. It’s ideal for recipes like quinoa bread or crispy quinoa toppings. Just ensure you adjust cooking times slightly, as quinoa can dry out faster in the air fryer than in a conventional oven."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 0.66 cup of quinoa compare to rice in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Quinoa and rice have different cooking properties. While 0.66 cup of quinoa equals 5.28 oz, the same volume of rice weighs slightly more. Quinoa cooks faster in the air fryer and doesn’t require pre-soaking. It also provides a nuttier flavour and higher protein content than white rice."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 0.66 cup of quinoa enough for two people?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.66 cup (5.28 oz) of dry quinoa expands to about 2 cups cooked, which comfortably serves two. It’s perfect for side dishes or as part of a larger meal. For heartier appetites, you might want to increase the portion slightly or pair it with protein-rich ingredients."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover cooked quinoa from 0.66 cup dry?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooked quinoa from 0.66 cup dry keeps well in an airtight container for 3-5 days in the fridge. You can also freeze it for up to 2 months. To reheat in the air fryer, sprinkle with water and heat at 160°C for 3-5 minutes, stirring halfway. This restores its fluffy texture perfectly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-17T16:41:26.143000+00:00",
     "dateModified": "2025-08-17T16:41:26.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-quinoa"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

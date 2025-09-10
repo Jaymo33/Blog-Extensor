@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/45-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick 45.5 kg to pounds conversion for air fryer cooks",
         "description": "Convert 45.5 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe confusion with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T00:37:28.394Z",
         "dateModified": "2025-08-22T00:37:28.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/45-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 45.5 kg to pounds is crucial for air fryer cooking because it ensures accurate portioning and even cooking. Many recipes, especially those from international sources, use kilograms, but your air fryer's capacity and cooking times are often better understood in pounds. Precise measurements help avoid overcrowding the basket, which can lead to unevenly cooked food. Knowing that 45.5 kg equals 100.31 pounds allows you to scale recipes correctly and achieve perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple rule of thumb to convert 45.5 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While a rough rule of thumb like multiplying by 2.2 can give you an approximate conversion, it's not precise enough for large quantities like 45.5 kg. Using 2.2 would give you 100.1 pounds, but the exact conversion is 100.31 pounds—a difference that can matter when cooking in bulk. For best results in your air fryer, especially with expensive ingredients, it's better to use the exact multiplier of 2.20462 or a reliable digital converter. This ensures your seasoning, cooking times, and portions are spot-on."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 45.5 kg to pounds help with meal prepping in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 45.5 kg to pounds helps with meal prepping by allowing you to divide large quantities into manageable portions for your air fryer. Knowing that 45.5 kg is 100.31 pounds lets you plan how many batches you'll need to cook and how to store them efficiently. This is especially useful for proteins like chicken or beef, which can be seasoned and frozen in meal-sized amounts. Accurate conversions mean you won't overestimate your air fryer's capacity, leading to better-cooked food and less waste. It also helps you budget and shop smarter for big cooking sessions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any air fryer models that display weights in both kg and pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, many modern air fryers come with digital displays and settings that allow you to switch between kilograms and pounds, making conversions like 45.5 kg to pounds unnecessary for daily use. Some high-end models even have pre-programmed settings for different weights and units, taking the guesswork out of cooking. If your air fryer doesn't have this feature, keeping a conversion chart or using a kitchen scale with unit switching capabilities is a great alternative. Always refer to your model's manual for specific functions, and check out reviews and guides on airfryerrecipe.co.uk for recommendations."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/45-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

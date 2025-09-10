@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-passata"
-  },
+        },
         "headline": "Quick Guide: Convert 1.75 Cups of Passata to Ounces Easily",
         "description": "Learn how to convert 1.75 cups of passata to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-passata.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute canned tomatoes for passata, the texture and flavour will differ. Passata is smoother and more concentrated. If using canned tomatoes, you may need to blend them and cook longer to reduce excess liquid. For best results in air fryer recipes, stick to the recommended 1.75 cups (14.8 ounces) of passata."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does passata weight compare to fresh tomatoes in air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fresh tomatoes contain more water than passata, so you'd need about 2.5 cups of chopped fresh tomatoes to equal 1.75 cups (14.8 ounces) of passata. In air fryer cooking, passata's concentrated flavour and thicker consistency often work better, especially for sauces and coatings that need to adhere to food."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is my air fryer passata sauce too watery?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your sauce is too watery, you might have used a particularly liquid passata brand or added extra liquid. Remember that 1.75 cups should equal about 14.8 ounces. Try reducing the sauce in a pan before air frying, or use less liquid in your recipe. Some air fryer models circulate air differently, which can affect sauce consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze measured portions of passata for future air fryer meals?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Freezing measured portions like 1.75 cup (14.8 ounce) amounts is a great time-saver. Use freezer-safe containers or bags, leaving some headspace for expansion. Thaw in the refrigerator before use. This method works perfectly for meal prep, ensuring you always have the right amount ready for your air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-passata"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

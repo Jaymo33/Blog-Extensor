@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/15-6-kg-to-pounds"
-  },
+        },
         "headline": "Quickly Convert 15.6 kg to Pounds for Your Air Fryer",
         "description": "Easily convert 15.6 kg to pounds for perfect air fryer cooking. Get precise measurements for recipes, meal prep, and portion control in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T19:54:05.768Z",
         "dateModified": "2025-08-20T19:54:05.768Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15-6-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 15.6 kg to pounds is essential for air frying because many recipes, especially those from the US, use imperial measurements. Accurate conversions ensure you use the right ingredient amounts, which affects cooking time and results. Overloading your air fryer basket can lead to uneven cooking, so knowing that 15.6 kg equals 34.392 pounds helps you portion correctly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use an online calculator for 15.6 kg to pounds conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, online calculators are a quick and easy way to convert 15.6 kg to pounds. Simply enter 15.6 kg, and the tool will display the equivalent in pounds, which is approximately 34.392. However, for kitchen accuracy, a digital scale with unit switching capabilities is recommended to avoid errors and ensure precision while cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 15.6 kg a common weight for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "15.6 kg is quite large for most air fryer recipes, as it equates to over 34 pounds. It is more common for bulk meal prepping or cooking for large groups rather than everyday meals. Air fryers typically handle smaller batches, so you would likely divide 15.6 kg into smaller portions that fit your appliance’s capacity for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 15.6 kg to pounds help with portion control?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 15.6 kg to pounds helps with portion control by giving you a clear imperial measurement, which is 34.392 pounds. This allows you to divide ingredients into manageable sizes that fit your air fryer basket, preventing overcrowding and ensuring even cooking. Proper portions also help in tracking servings and reducing food waste, making meal planning more efficient."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T19:54:05.768000+00:00",
     "dateModified": "2025-08-20T19:54:05.768000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/15-6-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

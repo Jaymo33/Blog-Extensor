@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-condensed-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 310 ml of Condensed Milk to Cups Easily",
         "description": "Learn how to convert 310 ml of condensed milk to cups for perfect baking results every time. Includes UK & US measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:32:39.600Z",
         "dateModified": "2025-07-30T23:32:39.600Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-condensed-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, in many cases 310 ml is the standard size for a small can of condensed milk. However, can sizes can vary by brand and country, so it's always best to check the label. If your recipe calls for 310 ml specifically, measuring it out ensures accuracy regardless of can size."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of condensed milk in a 310 ml measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, evaporated milk and condensed milk are not interchangeable, even in the same 310 ml quantity. Condensed milk is sweetened and much thicker, while evaporated milk is unsweetened with a different consistency. Substituting one for the other will significantly alter your recipe's outcome."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 310 ml of condensed milk without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have measuring cups, you can use a kitchen scale - 310 ml of condensed milk weighs approximately 390 grams. Alternatively, use tablespoons (20.5 tbsp equals 310 ml) or estimate using standard drinking glasses, though this method is less precise for air fryer recipes requiring accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for 310 ml of condensed milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The difference comes from historical measurement standards. A UK cup is 284 ml while a US cup is 240 ml. This means 310 ml converts to slightly different cup measurements in each system. For air fryer recipes, it's important to know which standard your recipe follows to ensure proper measurement of your 310 ml portion."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-condensed-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

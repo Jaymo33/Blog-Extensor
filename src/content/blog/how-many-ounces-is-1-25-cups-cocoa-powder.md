@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-cocoa-powder"
-  },
+        },
         "headline": "Quick Answer: 1.25 Cups Cocoa Powder to Ounces (UK Guide)",
         "description": "Discover how to convert 1.25 cups of cocoa powder to ounces for perfect air fryer baking every time. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T23:44:02.193Z",
         "dateModified": "2025-08-14T23:44:02.193Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-cocoa-powder.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, sifting makes a difference! Unsifted cocoa powder is more compact, so 1.25 cups could weigh slightly more than 4.5 oz. For consistent results, always sift before measuring or use weight measurements instead."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this 1.25 cups to ounces conversion for Dutch-processed cocoa powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. Dutch-processed cocoa powder has a similar density to natural cocoa powder, so 1.25 cups still equals about 4.5 oz. However, remember that Dutch-processed cocoa has a different acidity level, which may affect your recipe’s rising agents."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust air fryer baking time when using 1.25 cups of cocoa powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Recipes with 1.25 cups (4.5 oz) of cocoa powder may need slightly less time in the air fryer than traditional oven baking. Start checking 5 minutes earlier than the recipe suggests, as chocolate-rich batters cook faster in the air fryer’s concentrated heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between measuring cocoa powder for air frying vs conventional baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The measurement itself (1.25 cups = 4.5 oz) remains the same, but air fryer recipes often benefit from slightly less cocoa powder due to the intense heat. Consider reducing to 1 cup (3.6 oz) for very rich recipes to prevent overbearing chocolate flavour in the smaller cooking space."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-cocoa-powder"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

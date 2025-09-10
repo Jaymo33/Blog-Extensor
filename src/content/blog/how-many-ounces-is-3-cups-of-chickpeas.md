@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-chickpeas"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 3 cups of chickpeas?",
         "description": "Find out exactly how many ounces are in 3 cups of chickpeas for perfect air fryer recipes. Includes UK conversions and handy tips!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T23:44:02.193Z",
         "dateModified": "2025-08-14T23:44:02.193Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-chickpeas.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can use canned chickpeas for the 3 cups (24 ounces) measurement. Just be sure to drain and rinse them thoroughly first, as the liquid in the can isn't part of the measurement. Canned chickpeas are already cooked, so they'll save you preparation time compared to dried varieties."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the weight of 3 cups of chickpeas change if they're uncooked?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Uncooked dried chickpeas weigh less than cooked ones - about 6 ounces per cup. However, they expand significantly when soaked and cooked. For accurate measurements in recipes, it's best to measure chickpeas after cooking unless the recipe specifically states otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do my air-fried chickpeas sometimes turn out unevenly cooked?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Uneven cooking usually happens when the air fryer basket is overcrowded. Even with exactly 3 cups (24 ounces) of chickpeas, you might need to cook them in batches. Also, shaking the basket halfway through cooking helps ensure all chickpeas crisp evenly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze 3 cups of cooked chickpeas for later use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Three cups (24 ounces) of cooked chickpeas freeze beautifully. Spread them on a tray to freeze individually first, then transfer to a freezer bag. They'll keep for up to 3 months and can go straight from freezer to air fryer when you're ready to use them."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-chickpeas"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

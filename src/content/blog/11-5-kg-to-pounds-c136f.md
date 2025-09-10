@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-5-kg-to-pounds-c136f"
-  },
+        },
         "headline": "Quick 11.5 kg to pounds conversion for air fryer cooking",
         "description": "Convert 11.5 kg to pounds instantly for perfect air fryer portions. Get easy conversion charts and cooking tips for better results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T17:56:15.635Z",
         "dateModified": "2025-08-21T17:56:15.635Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/11-5-kg-to-pounds-c136f.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "11.5 kg is exactly 25.35313 pounds, though it's commonly rounded to 25.35 pounds for practical use. This conversion uses the standard rate where 1 kilogram equals approximately 2.20462 pounds. For most cooking purposes, especially with air fryers, rounding to 25.35 pounds is perfectly acceptable and won't affect your results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 11.5 kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 11.5 kg to pounds is useful when you're working with bulk ingredients or recipes that use imperial measurements. For example, if you buy a large 11.5 kg bag of frozen chips or chicken, converting to pounds (25.35) helps you portion it correctly for your air fryer basket. Overloading the basket can lead to uneven cooking, so accurate conversions ensure better results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 11.5 kg to pounds conversion for baking in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but with caution. While savoury dishes like meats and vegetables are forgiving, baking often requires more precision. If a recipe calls for a certain weight in pounds and you're starting with 11.5 kg of flour or sugar, converting accurately (25.35 pounds) ensures proper ratios. However, for most air fryer baking, smaller batches are common, so you might only use a fraction of that 11.5 kg."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 11.5 kg the same as 11.5 kilograms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, kg is the abbreviation for kilograms, so 11.5 kg means 11.5 kilograms. This is a metric unit of mass, and converting it to pounds (an imperial unit) helps those more familiar with the imperial system. Whether you see it written as 11.5 kg or 11.5 kilograms, the conversion to pounds remains the same: approximately 25.35 pounds."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T17:56:15.635000+00:00",
     "dateModified": "2025-08-21T17:56:15.635000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-5-kg-to-pounds-c136f"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

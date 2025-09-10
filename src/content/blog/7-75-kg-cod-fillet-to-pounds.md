@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-cod-fillet-to-pounds"
-  },
+        },
         "headline": "Easy 7.75 kg Cod Fillet to Pounds Conversion Guide",
         "description": "Convert 7.75 kg cod fillet to pounds instantly. Get accurate weights for perfect air fryer cooking and portioning every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-75-kg-cod-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 7.75 kg cod fillet to pounds accurately, multiply 7.75 by 2.20462, which is the number of pounds in one kilogram. This gives you approximately 17.09 pounds. For even more precision, you can use an online converter or kitchen scale that switches between units. Always use the exact conversion to ensure recipe accuracy and perfect air frying results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 7.75 kg cod fillet whole in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on the size of your air fryer basket. A 7.75 kg cod fillet is quite large, weighing about 17.09 pounds, so it may not fit whole in most home air fryers. It's better to cut it into smaller, even portions that fit in a single layer without overcrowding. This ensures proper air circulation and even cooking, giving you crispy, perfectly cooked cod every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the pound equivalent of 7.75 kg cod fillet for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the pound equivalent of 7.75 kg cod fillet (which is 17.09 pounds) is important because many air fryer recipes and guidelines use imperial measurements. Accurate weight ensures you use the correct cooking times, seasonings, and portion sizes. It helps prevent overcrowding the basket, which can lead to uneven cooking. This knowledge is especially useful for meal prepping and scaling recipes up or down."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more recipes for cooking cod in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a variety of delicious cod recipes tailored for air fryers on airfryerrecipe.co.uk. Our website offers everything from simple seasoned fillets to more elaborate dishes, all designed to make the most of your air fryer. We also provide tips on cooking times, temperatures, and techniques to ensure your cod turns out perfectly every time. Explore our cod category for inspiration and step-by-step guides."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-cod-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-9-kg-to-pounds"
-  },
+        },
         "headline": "Easy 6.9 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 6.9 kg to pounds instantly for perfect air fryer portions. Get accurate weights for recipes, meal prep, and buying guides.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-9-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 6.9 kg to pounds is crucial for air fryer cooking because recipes and appliance capacities are often listed in imperial measurements. Knowing that 6.9 kg equals 15.21 pounds allows you to accurately portion ingredients, ensuring you don't overload the basket. This leads to better air circulation, even cooking, and perfectly crispy results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 6.9 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 6.9 kg (or approximately 15.21 pounds) is a very common weight for larger items prepared in a family-sized air fryer. This includes whole birds like turkey or large chickens, big bags of potatoes for roasting, or bulk packs of chicken wings or drumsticks for a gathering. It represents a quantity that feeds a crowd perfectly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 6.9 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 6.9 kg to pounds and ounces, first multiply 6.9 by 2.20462 to get 15.211878 pounds. The whole number is 15 pounds. Then, multiply the decimal part (0.211878) by 16 (ounces in a pound) to get approximately 3.39 ounces. So, 6.9 kg is roughly 15 pounds and 3.4 ounces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale that only shows pounds for a 6.9 kg recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. If your kitchen scale only measures in pounds, simply set it to that unit. Since 6.9 kg is 15.21 pounds, you would measure out just over 15 pounds on the scale. For most air fryer recipes, this level of accuracy is perfectly sufficient. For more precision, look for a scale that can toggle between metric and imperial units."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-9-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

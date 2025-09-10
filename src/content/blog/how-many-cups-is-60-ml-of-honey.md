@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-honey"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 60 ml of Honey?",
         "description": "Find out exactly how many cups 60 ml of honey equals for perfect baking and cooking every time. Simple conversions for UK and US measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:31:16.289Z",
         "dateModified": "2025-07-30T23:31:16.289Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-honey.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 60 ml of honey weighs more than 60 ml of water due to its higher density. Honey is about 1.4 times denser than water, so 60 ml of honey will weigh roughly 84 grams, whereas water weighs 60 grams per 60 ml. This is why volume measurements like cups or millilitres aren’t always interchangeable by weight in recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 60 ml of honey?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use a dry measuring cup, a liquid measuring cup is better for accuracy. Honey’s sticky consistency makes it harder to level off in a dry cup, potentially leading to over-pouring. For 60 ml of honey (0.25 cups), a clear liquid cup with a spout allows you to measure at eye level and pour cleanly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust baking time when using honey in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Honey can cause faster browning due to its sugar content. If substituting 60 ml of honey for sugar in an air fryer recipe, reduce the temperature by about 10°C and check for doneness a few minutes early. Covering dishes with foil can also prevent over-browning while ensuring even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my honey measurement seem inconsistent?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Honey’s viscosity changes with temperature—cold honey is thicker and harder to pour, while warm honey flows more easily. For consistent 60 ml measurements, let honey reach room temperature or warm the container slightly in warm water. Always use the same measuring method (liquid cup vs. spoon) for repeatable results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:16.289000+00:00",
     "dateModified": "2025-07-30T23:31:16.289000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-honey"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

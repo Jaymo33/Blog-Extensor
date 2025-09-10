@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-evaporated-milk"
-  },
+        },
         "headline": "Quick Guide: Convert 35 ml of Evaporated Milk to Cups Easily",
         "description": "Learn how to convert 35 ml of evaporated milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T23:31:15.042Z",
         "dateModified": "2025-07-30T23:31:15.042Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-evaporated-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute regular milk for evaporated milk, but the results will be less rich and creamy. To replace 35 ml of evaporated milk, use about 70 ml of regular milk and simmer it gently to reduce slightly. However, for best results in air fryer recipes, stick to evaporated milk when specified."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does opened evaporated milk last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Once opened, evaporated milk lasts about 5-7 days in the refrigerator when stored in an airtight container. For best results, write the opening date on the can. If you're measuring out small amounts like 35 ml frequently, consider transferring it to a smaller container to minimize air exposure."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is evaporated milk the same as condensed milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, evaporated milk and condensed milk are different. Evaporated milk is unsweetened and simply has about 60% of the water removed. Condensed milk is sweetened and much thicker. Using condensed milk instead of evaporated milk will make your recipe much sweeter and could affect texture, especially in air fryer cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze leftover evaporated milk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can freeze evaporated milk for up to 3 months. Portion it into ice cube trays (about 35 ml per portion) before freezing for easy use later. Thaw in the refrigerator overnight and shake well before using. Note that the texture might be slightly grainy after freezing, but it's still fine for cooking and baking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:15.042000+00:00",
     "dateModified": "2025-07-30T23:31:15.042000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-evaporated-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

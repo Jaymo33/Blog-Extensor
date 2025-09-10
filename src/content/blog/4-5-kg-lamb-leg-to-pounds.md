@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Quick 4.5 kg Lamb Leg to Pounds Conversion Guide",
         "description": "Convert 4.5 kg lamb leg to pounds instantly. Perfect for air fryer recipes and portion planning. Get accurate results and cooking tips now.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 4.5 kg lamb leg is exactly 9.92079 pounds when using the standard conversion factor of 1 kg equals 2.20462 pounds. For most practical purposes, you can round this to 9.92 pounds or even 10 pounds without significantly affecting cooking times. This conversion is essential for following recipes that use imperial measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if the lamb leg is bone-in?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion from 4.5 kg to pounds remains the same regardless of whether the lamb leg is bone-in or boneless, as kilograms and pounds measure total weight. However, bone-in cuts have less actual meat, so cooking times may need adjustment. For bone-in lamb leg, reduce cooking time slightly per pound compared to boneless to avoid overcooking the meat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 4.5 kg lamb leg in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can cook a 4.5 kg lamb leg in an air fryer, but ensure your appliance is large enough to accommodate it without overcrowding. You may need to truss the leg or cook it in sections if the basket is too small. Cooking times will be shorter than in an oven due to the air fryer's efficiency, so use a meat thermometer to check for doneness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for lamb recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting kg to pounds for lamb recipes ensures accuracy when following instructions that use imperial measurements, which is common in UK and US recipes. This helps you apply correct cooking times and temperatures, especially important for air frying where precision affects texture and safety. It also aids in portion planning and cost calculations when shopping."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

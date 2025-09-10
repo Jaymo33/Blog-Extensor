@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Easy 9.5 kg chicken breast to pounds conversion for air fryers",
         "description": "Convert 9.5 kg chicken breast to pounds quickly for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-5-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 9.5 kg chicken breast to pounds is essential for air frying because most air fryer recipes and capacity guidelines use pounds or ounces. Knowing the exact weight in pounds helps you portion correctly for your air fryer basket, preventing overcrowding and ensuring even cooking. It also allows you to accurately scale recipes and seasonings, which is crucial when working with large quantities."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 9.5 kg chicken breast to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 9.5 kg chicken breast to pounds and ounces, first multiply 9.5 by 2.20462 to get approximately 20.94 pounds. Then, multiply the decimal part (0.94) by 16 to convert to ounces, which gives about 15 ounces. So, 9.5 kg is roughly 20 pounds and 15 ounces. This level of precision is helpful when dividing chicken into smaller portions for air frying or meal prep."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 9.5 kg of chicken breast in my air fryer at once?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you cannot cook 9.5 kg of chicken breast in a standard home air fryer at once. This amount converts to about 21 pounds, which far exceeds the capacity of most models. Air fryers typically hold 1-2 pounds per batch, so you would need to cook in multiple batches to avoid overcrowding. Overloading the basket prevents proper air circulation and results in unevenly cooked chicken."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for large quantities of chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find plenty of air fryer recipes designed for larger quantities at airfryerrecipe.co.uk. Their recipe section includes scaled-up versions of popular dishes, along with tips for batch cooking and meal prep. They also offer conversion charts and guides to help you adjust cooking times and temperatures for bigger portions, ensuring perfect results every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

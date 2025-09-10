@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-lemon-juice"
-  },
+        },
         "headline": "Quick Guide: Convert 460 ml of Lemon Juice to Cups Easily",
         "description": "Learn how to convert 460 ml of lemon juice to cups for perfect recipes every time. Get precise measurements for baking and cooking in minutes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-01T00:26:06.873Z",
         "dateModified": "2025-08-01T00:26:06.873Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-lemon-juice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 460 ml of lemon juice is approximately 1.94 cups, which is just under 2 cups. For precise recipes, especially in baking, it's best to measure accurately using a liquid measuring cup with ml and cup markings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use bottled lemon juice instead of fresh for 460 ml measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, bottled lemon juice can be used as a substitute for fresh lemon juice in most recipes. However, fresh lemon juice often has a brighter flavour. If using bottled, check for additives and adjust the quantity if needed, as some brands may be more concentrated."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 460 ml of lemon juice to other measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "460 ml of lemon juice equals roughly 15.5 fluid ounces or 0.46 litres. For tablespoons, it's about 31 tablespoons. Always use a reliable conversion chart or tool for precise measurements, especially when adapting recipes for your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What recipes can I make with 460 ml of lemon juice in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use 460 ml of lemon juice in various air fryer recipes, such as lemon garlic chicken, lemon drizzle cake, or citrus-glazed salmon. The tangy flavour enhances many dishes, and the acidity helps tenderise meats. Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for more inspiration."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-lemon-juice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

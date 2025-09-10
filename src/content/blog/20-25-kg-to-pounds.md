@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/20-25-kg-to-pounds"
-  },
+        },
         "headline": "Quick 20.25 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 20.25 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better meals.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T19:47:25.338Z",
         "dateModified": "2025-08-21T19:47:25.338Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20-25-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 20.25 kg to pounds (44.64 lb) helps you understand ingredient quantities in measurements more familiar to UK cooks. This is essential for air frying because weight directly affects cooking time and basket capacity. Knowing the conversion prevents overloading your air fryer and ensures even cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 20.25 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 20.25 kg to pounds and ounces, first multiply 20.25 by 2.20462 to get 44.64355 pounds. The whole number is 44 pounds. Multiply the decimal part (0.64355) by 16 to get ounces: 10.2968 ounces. So 20.25 kg equals 44 pounds and approximately 10.3 ounces. This level of precision can be helpful for certain recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can my air fryer handle cooking 20.25 kg of food?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most home air fryers cannot handle 20.25 kg (44.64 lb) of food at once. Typical air fryer capacities range from 1-5 kg (2.2-11 lb). You would need to divide 20.25 kg into smaller batches that fit your specific air fryer model. Overloading prevents proper air circulation and results in uneven cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more conversion help for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find comprehensive conversion charts and guides at airfryerrecipe.co.uk. We offer resources for various measurements including weight, temperature, and cooking times specifically tailored for air fryer users. These tools help ensure your air frying results are perfect every time, regardless of the recipe's original measurement system."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T19:47:25.338000+00:00",
     "dateModified": "2025-08-21T19:47:25.338000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/20-25-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

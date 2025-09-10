@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/24-1-kg-to-pounds"
-  },
+        },
         "headline": "Quickly Convert 24.1 kg to Pounds for Your Air Fryer",
         "description": "Easily convert 24.1 kg to pounds for perfect air fryer cooking. Get accurate measurements and handy tips for your kitchen conversions.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/24-1-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 24.1 kg to pounds is essential for air frying because many recipes and appliance guidelines use imperial measurements. If you’re working with a larger quantity, like a big batch of vegetables or meat, knowing the weight in pounds helps you avoid overloading your air fryer basket. Overloading can block air circulation, leading to uneven cooking and less crispy results. Accurate conversions ensure you stay within your air fryer’s capacity for perfect meals every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 24.1 kg to pounds conversion the same worldwide?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion of 24.1 kg to pounds is based on the international avoirdupois pound, which is standard worldwide for everyday weight measurements. One kilogram always equals approximately 2.20462 pounds, so 24.1 kg converts to about 53.131 pounds regardless of location. However, it’s worth noting that some historical or niche contexts might use different pounds, like the troy pound for precious metals, but for cooking and air frying, the avoirdupois pound is what you need. Always double-check if you’re using a recipe from a specialised source to avoid confusion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple 2.2 multiplier to convert 24.1 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Using 2.2 as a multiplier for converting 24.1 kg to pounds gives you 53.02 pounds, which is very close to the precise 53.131 pounds but not exact. For most everyday cooking, especially with air fryers, this small difference might not matter much. However, for baking or recipes requiring high precision, like soufflés or delicate pastries, it’s better to use the exact factor of 2.20462 to avoid errors. Digital scales or online converters can handle the maths for you instantly, ensuring accuracy without effort."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 24.1 kg to pounds help with meal prepping?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 24.1 kg to pounds is incredibly useful for meal prepping because it helps you portion ingredients accurately for your air fryer. If you buy in bulk, like a 24.1 kg bag of chicken breasts, converting to pounds (about 53.13) lets you divide it into smaller, equal portions for freezing or cooking. This ensures each air fryer batch is the right size for even cooking and prevents waste. It also makes it easier to track nutritional information, as many diet apps use pounds, helping you stay on top of your health goals while enjoying convenient, air-fried meals."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/24-1-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

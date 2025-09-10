@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-pasta"
-  },
+        },
         "headline": "Quick Answer: How Many Grams Is 0.75 Cups of Pasta?",
         "description": "Discover the exact gram measurement for 0.75 cups of pasta—perfect for air fryer recipes and precise cooking every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T16:11:23.455Z",
         "dateModified": "2025-07-27T16:11:23.455Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-pasta.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 0.75 cups of pasta generally weighs around 90 grams, slight variations exist based on shape and density. Smaller, denser pasta like macaroni may weigh slightly more, while long noodles like spaghetti could be lighter. For precision, weigh your pasta after measuring."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this measurement for air fryer pasta bakes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 0.75 cups (90g) of pasta works well for single-serving air fryer bakes. Just ensure you lightly oil the pasta and preheat the air fryer for even cooking. Avoid overcrowding to achieve the perfect crisp."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 0.75 cups of cooked pasta to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooked pasta expands, so 0.75 cups of uncooked pasta (90g) yields about 1.5 cups cooked. For cooked weight, it’s roughly 150–180 grams, depending on the pasta type and water absorption."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 0.75 cups of pasta enough for one person?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.75 cups (90g) is a standard single serving, ideal for light meals or side dishes. Pair it with proteins or veggies from our <a href=https://www.airfryerrecipe.co.uk/recipe-category/vegetables>vegetable recipes</a> for a balanced air fryer meal."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:23.455000+00:00",
     "dateModified": "2025-07-27T16:11:23.455000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-pasta"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

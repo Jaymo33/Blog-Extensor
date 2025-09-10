@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/307-f-to-fan-oven"
-  },
+        },
         "headline": "307 F to Fan Oven Conversion Guide | Air Fryer Tips",
         "description": "Convert 307 F to fan oven settings easily. Learn the exact temperature conversion for air fryers and fan-assisted ovens in the UK.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T19:59:54.203Z",
         "dateModified": "2025-07-21T19:59:54.203Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/307-f-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "307 F converts to Gas Mark 2 in a conventional oven, but for fan ovens you'd typically use the 153 C equivalent instead of gas marks. Fan ovens don't use the gas mark system as they operate differently to gas ovens."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 307 F for roasting vegetables in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 307 F (153 C) works beautifully for slow-roasting vegetables in an air fryer. It helps caramelise them gently without burning. Just toss your veggies in oil and cook for 20-25 minutes, shaking the basket occasionally for even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would a recipe specify 307 F instead of a round number?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Recipes sometimes specify precise temperatures like 307 F for specific chemical reactions in baking. This temperature might be ideal for stabilising egg-based dishes or slowly melting chocolate. When converting to fan oven, we round to the nearest practical setting."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 307 F suitable for cooking meat in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "307 F is generally too low for cooking most meats safely in an air fryer. While it's great for dehydrating or slow-cooking some cuts, poultry and pork should reach at least 165 F (74 C) internally for food safety. Always use a meat thermometer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T19:59:54.203000+00:00",
     "dateModified": "2025-07-21T19:59:54.203000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/307-f-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

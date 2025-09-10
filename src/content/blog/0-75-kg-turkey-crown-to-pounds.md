@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-75-kg-turkey-crown-to-pounds"
-  },
+        },
         "headline": "Quick 0.75 kg Turkey Crown to Pounds Conversion Guide",
         "description": "Convert 0.75 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your festive feast.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-75-kg-turkey-crown-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 0.75 kg turkey crown is approximately 1.65 pounds. This conversion is based on the standard metric to imperial calculation where 1 kilogram equals about 2.20462 pounds. Knowing this helps you follow air fryer recipes accurately and ensures perfect cooking times for a juicy result."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 0.75 kg turkey crown from frozen in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is not recommended to cook a frozen 0.75 kg turkey crown directly in the air fryer, as it can lead to uneven cooking and food safety risks. Always thaw the turkey crown completely in the refrigerator before air frying to ensure it cooks evenly and reaches a safe internal temperature of 75°C."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What temperature and time should I use for a 0.75 kg turkey crown in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a 0.75 kg turkey crown (about 1.65 pounds), preheat your air fryer to 180°C. Cook for approximately 25-30 minutes per pound, so roughly 40-50 minutes total, but always use a meat thermometer to check the internal temperature reaches 75°C. Adjust time based on your air fryer model and desired crispiness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 0.75 kg turkey crown to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 0.75 kg turkey crown to pounds and ounces, first calculate the total pounds (1.65 pounds). Then, multiply the decimal part (0.65) by 16 to get ounces, which is about 10.4 ounces. So, 0.75 kg is roughly 1 pound 10 ounces, useful for precise recipe adjustments."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-75-kg-turkey-crown-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

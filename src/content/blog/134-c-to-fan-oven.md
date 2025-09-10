@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/134-c-to-fan-oven"
-  },
+        },
         "headline": "134 C to Fan Oven Conversion Guide | Air Fryer Tips",
         "description": "Learn how to convert 134 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T12:06:53.392Z",
         "dateModified": "2025-07-21T12:06:53.392Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/134-c-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For baking cakes, set your fan oven to 120 C when the recipe states 134 C. This 14-degree reduction prevents over-browning while ensuring even cooking. Reduce baking time by about 10% and check for doneness 5 minutes early."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the air fryer equivalent of 134 C fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The air fryer equivalent is the same 120 C as a fan oven (from 134 C conventional). However, reduce cooking time by 20-25% since air fryers cook faster. Always preheat for 3 minutes and shake the basket halfway through."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 134 C conversion for roasting vegetables?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Roasting vegetables at 120 C fan (134 C conventional) yields tender results with concentrated flavours. Cut vegetables evenly, toss with oil, and spread in a single layer. Stir halfway through for perfect caramelisation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is temperature conversion necessary for fan ovens?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fan ovens cook more efficiently due to air circulation, so they need lower temperatures than conventional ovens. Converting 134 C to 120 C fan prevents over-cooking. This principle applies to air fryers too, which work similarly to mini fan ovens."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
     "dateModified": "2025-07-21T12:06:53.392000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/134-c-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

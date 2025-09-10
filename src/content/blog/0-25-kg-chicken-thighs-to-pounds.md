@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick 0.25 kg chicken thighs to pounds conversion guide",
         "description": "Convert 0.25 kg chicken thighs to pounds instantly. Perfect for air fryer recipes and meal prep. Get accurate measurements every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 0.25 kg chicken thighs to pounds is crucial for air frying because air fryers require precise portion sizes for optimal performance. The right amount of food ensures proper air circulation, which is essential for even cooking and achieving that perfect crispy texture. If you use incorrect measurements, you risk overcrowding the basket or underfilling it, both of which can lead to disappointing results.\n\nMost air fryer recipes provide cooking times based on specific weights, so accurate conversions help you follow these instructions correctly. Whether you're working with metric or imperial measurements, getting the conversion right means your chicken thighs will cook evenly and come out perfectly juicy every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a regular kitchen scale to convert 0.25 kg chicken thighs to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, most modern digital kitchen scales can easily handle converting 0.25 kg chicken thighs to pounds. Look for scales with a unit conversion button that allows you to switch between metric and imperial measurements with the press of a button. These scales automatically calculate the conversion for you, eliminating any potential math errors.\n\nIf your scale doesn't have this feature, you can weigh your chicken thighs in kilograms and then multiply by 2.20462 to get the equivalent in pounds. For 0.25 kg, this calculation gives you approximately 0.55 pounds. Either method works perfectly for ensuring you have the right amount of chicken for your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 0.25 kg chicken thighs to pounds affect cooking time in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 0.25 kg chicken thighs to pounds directly affects cooking time because air fryer recipes typically provide timing guidelines based on weight. Since 0.25 kg equals approximately 0.55 pounds, you'll need to adjust cooking times accordingly if a recipe specifies timing for a full pound of chicken thighs. Generally, smaller portions like this will cook slightly faster than larger quantities.\n\nMost air fryers will perfectly cook 0.25 kg chicken thighs in about 18-22 minutes at 190°C. However, always check for doneness using a meat thermometer, ensuring the internal temperature reaches 74°C regardless of the weight conversion. The precise measurement helps you estimate timing but should always be verified with proper food safety checks."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more conversion help for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find excellent conversion resources at airfryerrecipe.co.uk, which offers comprehensive conversion charts and guides specifically designed for air fryer cooking. Their conversion chart includes not just weight measurements but also temperature conversions and volume measurements that are particularly useful for air fryer recipes. The website also features a wide range of recipes that include both metric and imperial measurements, taking the guesswork out of conversions.\n\nAdditionally, many cooking apps and online conversion tools can help with specific measurements like 0.25 kg chicken thighs to pounds. Bookmarking reliable resources ensures you always have quick access to accurate conversion information when trying new air fryer recipes or adapting old favorites to different measurement systems."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

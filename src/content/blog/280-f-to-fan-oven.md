@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/280-f-to-fan-oven"
-  },
+        },
         "headline": "280°F to Fan Oven Conversion Guide | Air Fryer Tips",
         "description": "Discover how to convert 280°F to fan oven settings for perfect air fryer cooking. Get temperature tips and recipes at airfryerrecipe.co.uk.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T19:02:28.332Z",
         "dateModified": "2025-07-21T19:02:28.332Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/280-f-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 280°F (140°C fan) works well for delicate cakes like chiffon or angel food. Reduce the baking time by 5-7 minutes and check for doneness with a skewer. The lower heat prevents doming or cracking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 280°F in an air fryer compare to a fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers cook faster due to concentrated airflow, so 280°F may take 10-15% less time than a fan oven. Always preheat and monitor closely, especially for smaller items like fries or wings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 280°F suitable for roasting vegetables in a fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. At 280°F (140°C fan), veggies like carrots or Brussels sprouts caramelise slowly without burning. Toss them in oil and space evenly for crisp edges—ideal for meal prep."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to convert 280°F for a non-fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For conventional ovens, increase 280°F by 10-20°C (to 150-160°C) to compensate for lack of airflow. Use the middle rack and rotate dishes halfway for even cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T19:02:28.332000+00:00",
     "dateModified": "2025-07-21T19:02:28.332000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/280-f-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

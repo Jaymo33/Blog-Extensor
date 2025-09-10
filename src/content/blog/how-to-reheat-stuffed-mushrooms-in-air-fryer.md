@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-mushrooms-in-air-fryer"
-  },
+        },
         "headline": "Reheat Stuffed Mushrooms in Air Fryer – Quick & Crispy Guide",
         "description": "Learn how to reheat stuffed mushrooms in an air fryer perfectly – crispy outside, moist inside. Ideal temps, timings & pro tips for best results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T19:59:55.735Z",
         "dateModified": "2025-07-22T19:59:55.735Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-stuffed-mushrooms-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>It’s not recommended to reheat frozen stuffed mushrooms directly in the air fryer. Thaw them overnight in the fridge first, then reheat at 160°C for 4-5 minutes. Frozen mushrooms release too much moisture, making the filling watery and the topping soggy.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to keep reheated stuffed mushrooms crispy?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>For maximum crispiness, lightly spray the breadcrumb topping with oil before reheating. Use the air fryer’s crisping function or a final 30-second blast at 180°C. Avoid covering them after cooking – steam softens the crust.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long do reheated stuffed mushrooms last?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Consume reheated stuffed mushrooms immediately for best quality. They can be refrigerated for up to 2 days after initial cooking, but only reheat once. Dairy-based fillings particularly don’t tolerate multiple reheating cycles well.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why are my reheated stuffed mushrooms dry inside?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Dry fillings often result from overcooking or insufficient moisture in the original recipe. Before reheating, add a teaspoon of broth or cream to the filling. Reduce cooking time by 1 minute and check internal temperature at 3 minutes.</p>"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-mushrooms-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

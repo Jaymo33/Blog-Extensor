@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/12-kg-to-pounds"
-  },
+        },
         "headline": "Quick 12 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 12 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T17:56:15.635Z",
         "dateModified": "2025-08-21T17:56:15.635Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/12-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "12 kg is exactly equal to 26.4555 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For most practical kitchen purposes, this is typically rounded to 26.46 pounds or even 26.5 pounds when measuring ingredients for air fryer cooking. The slight rounding won't affect your cooking results since air fryer recipes typically have some flexibility in ingredient quantities."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 12 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 12 kg to pounds is essential when working with bulk ingredients or recipes that use different measurement systems. Many air fryer recipes developed in the UK use metric measurements, while some scales or packaging might display imperial units. Knowing that 12 kg equals approximately 26.46 pounds helps you portion ingredients correctly for your air fryer basket, ensuring even cooking and preventing overcrowding. This conversion is particularly useful when meal prepping, buying in bulk, or adapting recipes from international sources."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple conversion rule for kg to pounds instead of exact calculations?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for most air fryer cooking purposes, you can use a simple rule of thumb: multiply kilograms by 2.2 to get a close approximation of pounds. Using this method, 12 kg would be approximately 26.4 pounds, which is close enough to the precise 26.46 pounds for most cooking applications. This simplified conversion works well for ingredients like meats, vegetables, and frozen foods where exact precision isn't critical to the recipe's success. For baking or more precise recipes, you may want to use the exact conversion factor."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 12 kg to pounds help with air fryer portion control?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 12 kg to pounds (approximately 26.46) helps you understand how much food you're working with and how to divide it into appropriate portions for your air fryer. Most air fryers work best when not overcrowded, so knowing the weight in pounds helps you determine how many batches you'll need to cook and how to portion ingredients for even cooking. This knowledge prevents the common mistake of overloading the basket, which leads to uneven results and longer cooking times. Proper portioning based on accurate weight conversions ensures your air fryer meals cook evenly and come out perfectly crispy every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T17:56:15.635000+00:00",
     "dateModified": "2025-08-21T17:56:15.635000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/12-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

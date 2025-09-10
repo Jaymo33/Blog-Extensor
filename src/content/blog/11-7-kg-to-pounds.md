@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-7-kg-to-pounds"
-  },
+        },
         "headline": "Quickly Convert 11.7 kg to Pounds for Perfect Air Fryer Meals",
         "description": "Easily convert 11.7 kg to pounds for precise air fryer cooking. Get accurate measurements for perfect results every time with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:08:58.382Z",
         "dateModified": "2025-08-20T17:08:58.382Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/11-7-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 11.7 kg to pounds quickly, multiply 11.7 by 2.20462. This gives you approximately 25.79 pounds. You can also use a digital kitchen scale that switches between units or a reliable online converter for instant results. This is especially handy when you're mid-recipe and need a fast answer for air fryer cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 11.7 kg to pounds accurately for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Accurately converting 11.7 kg to pounds is crucial for air frying because cooking times and temperatures are weight-dependent. An incorrect conversion can lead to undercooked or overcooked food, affecting texture and safety. Precision ensures your air fryer performs optimally, giving you perfectly cooked meals every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 11.7 kg to pounds and ounces for more precision?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can convert 11.7 kg to pounds and ounces for finer accuracy. 11.7 kg is about 25.79 pounds. The decimal part (0.79) multiplied by 16 gives you roughly 12.64 ounces. So, 11.7 kg is approximately 25 pounds and 12.6 ounces. This level of detail is useful for recipes requiring exact measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tools to help convert 11.7 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely, there are many tools available to convert 11.7 kg to pounds. Smartphone apps, online conversion calculators, and multi-unit kitchen scales can all provide instant and accurate results. While these tools are convenient, understanding the basic formula (multiply by 2.20462) helps you verify their accuracy for confident cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:08:58.382000+00:00",
     "dateModified": "2025-08-20T17:08:58.382000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-7-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

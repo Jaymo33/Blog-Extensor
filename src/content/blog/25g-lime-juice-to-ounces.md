@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/25g-lime-juice-to-ounces"
-  },
+        },
         "headline": "Quick 25g lime juice to ounces conversion for air fryer recipes",
         "description": "Convert 25g of lime juice to ounces in seconds for perfect air fryer dishes. Get accurate measurements for zesty recipes every time!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-lime-juice-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but adjust for concentration. Bottled lime juice often has added water or preservatives, so 25g may taste weaker. For air fryer recipes, we recommend fresh lime juice when possible – its brighter flavour enhances dishes like citrus-glazed vegetables or marinades."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 25g of lime juice compare to lemon juice in ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "25g of lemon juice also equals 0.88 ounces, but the flavours differ. Lime juice is more tart and aromatic, while lemon juice is sharper. In air fryer cooking, lime works better in Mexican or Thai-inspired dishes, whereas lemon suits Mediterranean flavours."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list lime juice in millilitres instead of grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Liquid ingredients often use millilitres for volume measurements. Since lime juice has a similar density to water, 25g equals about 25ml (0.85 fl oz). For air fryer sauces or glazes, either measurement works if your tools measure precisely."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many calories are in 25g (0.88 oz) of lime juice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "25g of lime juice contains roughly 6 calories, making it a low-calorie flavour booster for air fryer dishes. It adds zest without significant carbs or fats, perfect for healthy recipes like lime-crusted tofu or citrus-dressed salads."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/25g-lime-juice-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

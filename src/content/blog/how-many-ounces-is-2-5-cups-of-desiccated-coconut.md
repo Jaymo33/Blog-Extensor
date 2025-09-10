@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-desiccated-coconut"
-  },
+        },
         "headline": "Quick Answer: 2.5 cups of desiccated coconut to ounces UK",
         "description": "Convert 2.5 cups of desiccated coconut to ounces with our easy guide. Perfect for air fryer recipes and baking measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-16T23:30:04.315Z",
         "dateModified": "2025-08-16T23:30:04.315Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-desiccated-coconut.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "2.5 cups of desiccated coconut equals approximately 212 grams. This conversion is useful for recipes requiring metric measurements. Remember that different brands might vary slightly in density, so for precise baking, it's best to weigh your ingredients."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use fresh coconut instead of desiccated in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use fresh coconut, the texture and moisture content will differ significantly from desiccated coconut. Desiccated coconut works better for coatings and toppings in air fryer recipes as it crisps up nicely. If substituting, adjust quantities as fresh coconut contains more water."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my coconut burn in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Coconut can burn if cooked at too high a temperature or for too long. When using 2.5 cups (7.5 ounces) of desiccated coconut in recipes, monitor cooking time carefully. Most air fryer recipes with coconut do best at 160-180°C for shorter periods, with occasional shaking for even browning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I measure desiccated coconut for the most accurate results?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For the most accurate measurement of 2.5 cups (7.5 ounces) of desiccated coconut, use the spoon-and-level method. Lightly spoon the coconut into your measuring cup without packing it down, then level off the top. For ultimate precision, especially in baking, use a digital kitchen scale to weigh your ingredients."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-desiccated-coconut"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

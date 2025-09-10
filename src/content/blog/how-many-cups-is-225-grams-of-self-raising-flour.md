@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-self-raising-flour"
-  },
+        },
         "headline": "Quick Guide: Convert 225g Self-Raising Flour to Cups Easily",
         "description": "Learn how to convert 225 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and air fryer-friendly tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:31:11.854Z",
         "dateModified": "2025-07-26T21:31:11.854Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-self-raising-flour.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, there is a slight difference. A UK cup is 250ml while a US cup is 240ml, meaning 225 grams of self-raising flour would be about 1.8 UK cups or slightly more in US cups. For air fryer recipes, we recommend sticking to one measurement system for consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour for 225g measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute plain flour, but you'll need to add 2 teaspoons of baking powder per 225g of flour to achieve similar results. Remember to mix the baking powder thoroughly through the flour before measuring if using this substitution method in your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store self-raising flour to maintain its raising power?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store self-raising flour in an airtight container in a cool, dry place. The raising agents lose effectiveness over time, especially when exposed to moisture. For best results in air fryer baking, use flour within 3-4 months of opening and always check the expiration date."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do my air fryer cakes made with 225g self-raising flour sometimes come out dense?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Dense results could be from overmeasuring the flour or overmixing the batter. Always spoon flour into measuring cups lightly without packing. Also, ensure your air fryer isn't overcrowded - proper air circulation is crucial for even rising. Check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> to maintain optimal airflow."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.854000+00:00",
     "dateModified": "2025-07-26T21:31:11.854000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-self-raising-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

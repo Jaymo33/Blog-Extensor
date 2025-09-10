@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-minced-beef"
-  },
+        },
         "headline": "Quick Guide: Convert 475 Grams of Minced Beef to Cups Easily",
         "description": "Learn how to convert 475 grams of minced beef to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T22:50:31.257Z",
         "dateModified": "2025-07-26T22:50:31.257Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-minced-beef.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 475 grams of minced beef makes about 20 medium-sized meatballs, perfect for air frying. Just shape them evenly and cook at 180°C for 12-15 minutes, shaking the basket halfway. For extra flavour, mix in breadcrumbs and herbs before shaping."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the fat content affect the cup measurement for minced beef?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, fattier minced beef may compact slightly more, but the difference is minimal. 475 grams of lean or regular minced beef will still be roughly 2.5 cups when loosely measured. For accuracy, weigh the beef if possible, especially for baking recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many burgers can I make with 475 grams of minced beef?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can make four generous 120-gram burgers or six smaller ones. Shape them evenly, and cook in the air fryer at 200°C for 8-10 minutes, flipping halfway. For juicy results, avoid overhandling the meat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze 475 grams of minced beef after measuring it?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, portion the minced beef into 2.5-cup amounts before freezing for easy use later. Store in airtight bags or containers, and thaw in the fridge before cooking. Frozen minced beef works well in sauces, chilli, or air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:31.257000+00:00",
     "dateModified": "2025-07-26T22:50:31.257000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-minced-beef"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

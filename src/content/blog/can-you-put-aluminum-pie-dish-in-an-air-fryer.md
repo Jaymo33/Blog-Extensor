@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-aluminum-pie-dish-in-an-air-fryer"
-  },
+        },
         "headline": "Aluminum Pie Dish in Air Fryer: Safety & Usage Guide",
         "description": "Wondering if you can use an aluminum pie dish in your air fryer? Learn safety tips, risks, and best practices for air frying with metal pans.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T23:30:57.071Z",
         "dateModified": "2025-07-22T23:30:57.071Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-aluminum-pie-dish-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, aluminum pie dishes won't catch fire in air fryers under normal use. Aluminum requires temperatures exceeding 660°C to ignite, while air fryers max out around 220°C. Just ensure proper clearance around the dish for airflow and never leave it empty during operation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use disposable aluminum pie tins in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but with caution. Disposable tins are thinner and more prone to warping. Choose heavy-duty versions and avoid using them above 180°C. Always place them on a stable surface in the basket and check midway through cooking for any deformation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does cooking with aluminum in air fryers affect food taste?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "High-quality aluminum pie dishes won't noticeably alter flavours. Some people detect slight metallic notes with acidic fillings (like lemon curd), but this is rare. For sensitive palates, line the dish with parchment paper or opt for ceramic alternatives when making fruit pies."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent my aluminum pie dish from scratching the air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Place a silicone trivet or heat-proof parchment circle beneath the dish. Alternatively, look for aluminum pie dishes with rolled edges rather than sharp rims. When removing, lift straight up rather than sliding to minimise contact with the basket's coating."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-aluminum-pie-dish-in-an-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

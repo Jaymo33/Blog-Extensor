@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Quick 3 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 3 kg whole chicken to pounds instantly with our easy guide. Perfect for air fryer cooking and recipe adjustments. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3 kg whole chicken is approximately 6.61 pounds. This conversion uses the standard factor of 1 kilogram equalling 2.20462 pounds. It's a useful measurement for air fryer recipes that often specify cooking times based on pound weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert 3 kg whole chicken to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 3 kg whole chicken to pounds ensures accurate cooking times and temperatures in your air fryer. Many air fryer manuals and recipes use imperial measurements, so knowing the weight in pounds helps you avoid undercooking or overcooking. This leads to juicier, more evenly cooked chicken every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a 3 kg whole chicken in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most standard air fryers can accommodate a 3 kg whole chicken, but it's important to check your model's capacity first. A 6.61-pound chicken may require spatchcocking or careful positioning to fit properly. Always ensure there's enough space for air circulation to cook the chicken evenly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to air fry a 3 kg whole chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3 kg whole chicken typically takes 50-60 minutes to air fry at 180°C. However, cooking time can vary based on your air fryer model and whether the chicken is stuffed or not. Always use a meat thermometer to check that the internal temperature reaches 75°C for safe consumption."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

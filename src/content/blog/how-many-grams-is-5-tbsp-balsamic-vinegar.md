@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-balsamic-vinegar"
-  },
+        },
         "headline": "Quick Guide: Convert 5 tbsp of balsamic vinegar to grams",
         "description": "Learn how to convert 5 tbsp of balsamic vinegar to grams for precise air fryer recipes. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-balsamic-vinegar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, slightly. Traditional aged balsamic vinegar is thicker and more concentrated, so 5 tbsp might weigh 77-80g instead of 75g. Commercial balsamic vinegar (the thinner, more common type) reliably converts to 15g per tablespoon. For precise air fryer recipes, it's best to weigh your specific vinegar."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use millilitres instead of grams for balsamic vinegar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use millilitres (5 tbsp is about 74ml), grams are more accurate for air fryer cooking. Millilitres measure volume, which can vary with temperature changes, while grams measure weight consistently. For best results with sticky liquids like balsamic vinegar, always opt for weight measurements when possible."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover balsamic vinegar after measuring?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store opened balsamic vinegar in a cool, dark place with the lid tightly sealed. It doesn't need refrigeration but lasts longer if kept away from heat and light. Proper storage maintains its flavour for air fryer recipes. The vinegar's acidity acts as a natural preservative, giving it a long shelf life."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do UK air fryer recipes use grams instead of tablespoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Grams provide precision that tablespoons can't match, especially important in air fryers where cooking times are shorter. A slight measurement variation can significantly affect results. UK recipes favour grams because they're standardised across all ingredients, making scaling recipes easier. Digital scales have also become affordable kitchen essentials."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-balsamic-vinegar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

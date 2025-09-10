@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/26-kg-to-pounds-17092"
-  },
+        },
         "headline": "Quick 26 kg to Pounds Conversion Guide for Air Fryer Cooking",
         "description": "Convert 26 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T22:25:08.238Z",
         "dateModified": "2025-08-21T22:25:08.238Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/26-kg-to-pounds-17092.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 26 kg to pounds is essential for air frying because many recipes, particularly from American sources, use imperial measurements. Air fryer cooking times and temperatures are often based on specific weights, so accurate conversions ensure your food cooks properly. If you're working with larger quantities for meal prep or family gatherings, knowing that 26 kg equals approximately 57.32 pounds helps you portion ingredients correctly and adjust cooking times accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the conversion from 26 kg to pounds affect cooking times in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion from 26 kg to pounds directly affects air fryer cooking times because most recipes provide timing guidelines based on weight. Heavier items generally require longer cooking times, so knowing the accurate pound equivalent (57.32 pounds) helps you determine appropriate cooking durations. However, remember that air fryer cooking times also depend on food density, thickness, and your specific appliance model, so always check for doneness rather than relying solely on timing charts."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple conversion factor instead of the precise 2.20462 for 26 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For most air frying purposes, you can use a simplified conversion factor of 2.2 pounds per kilogram when converting 26 kg to pounds. This gives you 57.2 pounds instead of the precise 57.32 pounds, which is close enough for cooking applications. The small difference won't significantly impact your air frying results since most appliances can handle slight variations in food weight. However, for more precise needs like baking or scientific measurements, using the exact conversion factor is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find a reliable conversion chart for air fryer measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find reliable air fryer conversion charts on cooking websites dedicated to air frying, including comprehensive charts at airfryerrecipe.co.uk/air-fryer-conversion-chart. These charts typically include weight conversions like 26 kg to pounds along with temperature conversions and cooking time adjustments. Many air fryer manufacturers also include conversion charts in their user manuals, and there are numerous mobile apps available that provide instant conversion calculations specifically for cooking measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/26-kg-to-pounds-17092"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

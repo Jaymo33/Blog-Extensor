@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-worcestershire-sauce"
-  },
+        },
         "headline": "Quick Guide: Convert 0.25 tbsp Worcestershire Sauce to Grams",
         "description": "Discover how to convert 0.25 tbsp of Worcestershire sauce to grams for precise air fryer cooking. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-025-tbsp-worcestershire-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use a regular spoon in a pinch, it won't give you the precise 3.75 grams that proper measuring spoons provide. For best results in air fryer cooking, invest in a set of measuring spoons that includes 1/4 tablespoon measurements or use a digital kitchen scale."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of Worcestershire sauce affect the gram measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Different brands may have slight variations in density, but generally 0.25 tbsp of any Worcestershire sauce will be approximately 3.75 grams. For absolute precision when air frying, especially with premium brands, weighing your sauce is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store Worcestershire sauce after measuring out 0.25 tbsp?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Always keep your Worcestershire sauce in a cool, dark place with the lid tightly sealed. The high vinegar content helps preserve it, but proper storage maintains optimal flavour for your next air fryer recipe requiring 0.25 tbsp (3.75g) portions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute soy sauce for Worcestershire sauce in the same gram amount?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute soy sauce, it won't provide the same complex flavour profile. If replacing 0.25 tbsp (3.75g) Worcestershire sauce with soy sauce in air fryer recipes, consider adding a pinch of sugar and dash of vinegar to better mimic the original taste."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-worcestershire-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 9 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 9 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer meal prep and portion planning.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "9 kg of chicken breast is exactly 19.84158 pounds when using the standard conversion factor of 1 kg equals 2.20462 pounds. For practical kitchen purposes, this is typically rounded to 19.84 pounds or even 19 pounds and 13.5 ounces if you need more precision. This conversion is essential for following recipes accurately, especially when using an air fryer where portion size affects cooking time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 9 kg chicken breast to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 9 kg chicken breast to pounds helps with portion control and recipe adherence, which is crucial for air frying. Air fryers cook best when not overcrowded, and knowing the weight in pounds allows you to divide the chicken into basket-sized batches. Many air fryer recipes specify weights in pounds, so converting ensures you use the right amount for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 9 kg chicken breast include bones, or is it boneless weight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When we refer to 9 kg chicken breast to pounds conversion, it typically assumes boneless, skinless chicken breast unless specified otherwise. If your 9 kg includes bones, the actual meat weight will be less after deboning, affecting your portion planning. Always check whether the weight listed is for bone-in or boneless to ensure accurate conversions and cooking times."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for frozen chicken breast, or does freezing affect the weight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The 9 kg chicken breast to pounds conversion applies to the weight as purchased, whether fresh or frozen. However, frozen chicken often has a slight weight addition from ice crystals, which may melt away during thawing. For precise recipe use, it's best to weigh after thawing or account for a small reduction in actual meat weight compared to the frozen state."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

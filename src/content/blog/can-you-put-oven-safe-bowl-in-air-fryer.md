@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-oven-safe-bowl-in-air-fryer"
-  },
+        },
         "headline": "Oven-Safe Bowl in Air Fryer: Safety & Tips | UK Guide",
         "description": "Wondering if oven-safe bowls work in air fryers? Discover safety tips, compatibility checks, and best practices for UK air fryer users.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T23:30:57.071Z",
         "dateModified": "2025-07-22T23:30:57.071Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-oven-safe-bowl-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, Pyrex bowls are generally safe for air fryers as they're made from heat-resistant borosilicate glass. Ensure the bowl fits with proper air circulation and avoid sudden temperature changes. Start with shorter cooking times at slightly lower temperatures than you'd use in an oven."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why did my oven-safe bowl crack in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cracking usually occurs from thermal shock - either placing a cold bowl into a hot air fryer or exposing it to rapid temperature changes. Always preheat bowls gradually and avoid using damaged or low-quality ceramics. Check for manufacturer's maximum temperature ratings before use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do metal bowls work differently than ceramic in air fryers?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Metal bowls heat up and cool down faster than ceramic, which may require adjusting cooking times. They're excellent for foods needing quick browning but can make baked goods cook unevenly. Stainless steel is generally the safest metal choice for air fryers."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use my air fryer bowl in a conventional oven too?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryer-safe bowls are oven-compatible, but always check the manufacturer's guidelines. The reverse isn't always true - some oven bowls may not withstand an air fryer's intense air circulation. When in doubt, look for dual-certified cookware labelled for both appliances."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-oven-safe-bowl-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

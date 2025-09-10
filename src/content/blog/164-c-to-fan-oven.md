@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/164-c-to-fan-oven"
-  },
+        },
         "headline": "164 C to Fan Oven Conversion Guide | Air Fryer Tips",
         "description": "Learn how to convert 164 C to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T13:18:32.394Z",
         "dateModified": "2025-07-21T13:18:32.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/164-c-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For baking, 164 C in a fan oven typically means reducing a conventional oven's temperature by about 20 degrees. So you'd set your fan oven to 164 C or your conventional oven to approximately 184 C. In an air fryer, you might reduce it further to 150-155 C due to the more intense heat circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 164 C the same in all fan ovens?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 164 C should be consistent in theory, actual oven temperatures can vary between models. We recommend using an oven thermometer to verify your specific appliance's accuracy, especially when converting recipes between conventional ovens, fan ovens, and air fryers."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to cook chicken at 164 C in a fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For chicken at 164 C in a fan oven, we recommend using boneless cuts and checking internal temperature reaches 74 C. In an air fryer, reduce cooking time by about 25% compared to fan oven instructions while maintaining the same temperature for juicy results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 164 C fan oven settings for frozen foods?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 164 C works well for reheating many frozen foods in a fan oven or air fryer. However, check packaging instructions as some frozen items may require higher temperatures. Always ensure frozen foods reach safe internal temperatures throughout."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T13:18:32.394000+00:00",
     "dateModified": "2025-07-21T13:18:32.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/164-c-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

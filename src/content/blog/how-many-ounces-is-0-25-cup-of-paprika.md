@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-paprika"
-  },
+        },
         "headline": "Quick Guide: Convert 0.25 Cup Paprika to Ounces Easily",
         "description": "Discover how to convert 0.25 cup of paprika to ounces for perfect air fryer recipes. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-18T23:44:06.726Z",
         "dateModified": "2025-08-18T23:44:06.726Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-paprika.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute smoked paprika for regular paprika in the same quantity (0.25 cup or 0.8 oz). However, smoked paprika has a stronger, woodier flavour, so you might want to use slightly less if you prefer a milder taste. Adjust to your preference and taste as you cook."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 0.25 cup of paprika compare to other spice measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.25 cup of paprika (0.8 oz) is roughly equivalent to 4 tablespoons or 12 teaspoons. This makes it easy to scale recipes up or down. For example, if a recipe calls for 1 tablespoon, you’d use about a quarter of your 0.25 cup measurement."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my paprika measurement seem different each time I measure 0.25 cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Paprika’s texture can vary—some brands are finely ground, while others are coarser. This affects how it settles in a measuring cup. For consistency, fluff the paprika with a spoon before measuring, or better yet, weigh it (0.25 cup = 0.8 oz)."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 0.25 cup of paprika in a rub for air fryer meats?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 0.25 cup of paprika (0.8 oz) works well in rubs for chicken, pork, or beef. Mix it with salt, garlic powder, and other spices, then coat the meat before air frying. For best results, let the rub sit on the meat for 30 minutes before cooking to deepen the flavours."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-18T23:44:06.726000+00:00",
     "dateModified": "2025-08-18T23:44:06.726000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-paprika"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

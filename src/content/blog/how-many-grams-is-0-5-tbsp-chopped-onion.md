@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-chopped-onion"
-  },
+        },
         "headline": "Quick Answer: 0.5 tbsp chopped onion to grams UK",
         "description": "Find out exactly how many grams are in 0.5 tbsp of chopped onion for perfect air fryer recipes every time. Includes UK conversion chart.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-chopped-onion.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different onion varieties can slightly affect the weight. Standard brown onions weigh about 5g per 0.5 tbsp when chopped, while sweeter varieties like Vidalia may be slightly heavier due to higher water content. Red onions are typically similar to brown onions in weight. For most air fryer recipes, the 5g approximation works well across onion types."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use dried onion instead of fresh for the 0.5 tbsp measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Dried onion has a completely different weight and flavour concentration. For 0.5 tbsp fresh chopped onion (5g), you'd only need about 1 teaspoon of dried onion flakes. Remember that dried onion rehydrates during cooking, so adjust liquid in your recipe if substituting. The texture will differ in air fried dishes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover chopped onion after measuring out 0.5 tbsp?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store unused chopped onion in an airtight container in the fridge for up to 5 days. For longer storage, freeze measured portions in ice cube trays - each cube holds about 0.5 tbsp (5g) when frozen. This makes it easy to grab the right amount for future air fryer recipes without repeated chopping."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes call for 0.5 tbsp onion instead of a full tablespoon?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers intensify flavours, so recipes often use smaller amounts of strong ingredients like onion. The 0.5 tbsp measurement (5g) provides enough flavour without overpowering other ingredients. This is especially important in compact air fryer baskets where ingredients cook in close proximity. The precise measurement ensures balanced results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-chopped-onion"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

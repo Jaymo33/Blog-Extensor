@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick 2.25 kg chicken thighs to pounds conversion guide",
         "description": "Convert 2.25 kg chicken thighs to pounds instantly. Perfect for air fryer recipes and meal planning with accurate measurements.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "2.25 kg of chicken thighs is exactly 4.9604 pounds when using the precise conversion factor of 1 kg equals 2.20462 pounds. For most practical cooking purposes, this is typically rounded to 5 pounds, which is close enough for recipe measurements and portioning. The slight difference rarely affects cooking results, especially for air fryer recipes where small weight variations are accommodated by checking doneness visually or with a meat thermometer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if the chicken thighs are boneless versus bone-in?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion from 2.25 kg to pounds remains the same regardless of whether the chicken thighs are boneless or bone-in, as the conversion is based on total weight. However, bone-in thighs will yield less actual meat after cooking, so if a recipe specifies meat weight rather than total weight, you might need to account for this. For air frying, bone-in thighs might require slightly longer cooking times due to the bone affecting heat distribution, but the weight conversion itself doesn't change."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 2.25 kg chicken thighs to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 2.25 kg chicken thighs to pounds when following recipes that use imperial measurements, particularly many American recipes that specify ingredients in pounds. Accurate conversions ensure proper seasoning ratios, cooking times, and portion sizes for your air fryer. Since air fryers cook best with properly portioned ingredients, knowing the pound equivalent helps prevent overcrowding and ensures even cooking. This conversion is also useful when meal prepping or calculating nutritional information that might be presented in different measurement systems."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this same conversion for other cuts of chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion factor of 1 kg equals 2.20462 pounds applies to all chicken cuts and most other foods, as it's a standard weight conversion. Whether you're working with chicken breasts, wings, or whole chickens, 2.25 kg will always equal approximately 4.96 pounds. The conversion is consistent across different types of meat and ingredients, making it a versatile kitchen calculation. This uniformity helps when adapting various recipes for your air fryer, regardless of the specific chicken cut being used."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

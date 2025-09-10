@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lentils"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 0.33 cup of lentils?",
         "description": "Find out exactly how many ounces 0.33 cup of lentils weighs for perfect air fryer recipes every time. Get the conversion now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-16T23:30:04.315Z",
         "dateModified": "2025-08-16T23:30:04.315Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-lentils.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different lentil varieties can vary slightly in weight due to size and density. While our standard conversion of 0.33 cup to 2.64 ounces works for most common brown or green lentils, smaller red lentils might weigh slightly more in the same volume, while larger varieties like Puy lentils might weigh slightly less. For absolute precision, weighing your lentils is recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for cooked lentils?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, this conversion applies only to dry lentils. Cooked lentils absorb water and expand, significantly changing their weight and volume. One cup of dry lentils yields about 2-2.5 cups cooked. If your recipe calls for cooked lentils, it's best to cook first then measure, or follow the recipe's specific instructions for cooked quantities."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I measure 0.33 cup if I don't have a 1/3 cup measure?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can measure 0.33 cup (1/3 cup) using a 1/4 cup measure plus 1 tablespoon, or 5 tablespoons plus 1 teaspoon. For even greater accuracy, use 16 level tablespoons to make a full cup, then measure out 5 tablespoons plus 1 teaspoon for your 0.33 cup portion. Alternatively, use a kitchen scale to weigh out 2.64 ounces directly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is weight measurement better than volume for lentils?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight measurement is more accurate because it isn't affected by how the lentils settle in the cup or variations in lentil size. Volume measurements can vary by up to 20% depending on how you scoop and level, while weight gives you the exact same amount every time. This precision is especially important in air frying where consistent results matter."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lentils"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

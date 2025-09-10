@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/19-1-kg-to-pounds"
-  },
+        },
         "headline": "Quick 19.1 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 19.1 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your kitchen scale.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/19-1-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 19.1 kg to pounds is essential for air frying because most appliance manuals and many recipes, especially from the US, use pounds to denote basket capacity and ingredient weights. Knowing that 19.1 kg equals 42.108 pounds prevents you from dangerously overloading your air fryer, which leads to uneven cooking, steaming instead of crisping, and potential safety issues. Accurate weight ensures you follow cooking times correctly and achieve the perfect texture for your food every single time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 19.1 kg too much food for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "In almost all cases, yes, 19.1 kg (42.1 pounds) is far too much food for a standard home air fryer. Most basket-style air fryers have a maximum capacity of 2 to 5 pounds of food per batch. Trying to cook 42 pounds would require at least 8-10 separate batches. It's crucial to convert the weight and then portion your food accordingly to fit your specific model's capacity, ensuring the hot air can circulate freely for crispy, evenly cooked results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 19.1 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 19.1 kg to pounds and ounces, first multiply 19.1 by 2.20462 to get the total pounds (42.108). The whole number is 42 pounds. Then, take the decimal (0.108) and multiply it by 16 (ounces in a pound), which gives you approximately 1.73 ounces. Therefore, 19.1 kg is equivalent to 42 pounds and 1.7 ounces. For most cooking purposes, however, the pound measurement alone is perfectly adequate."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are US pounds and UK (imperial) pounds the same for this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, absolutely. For weight measurements, the US pound and the UK (imperial) pound are identical. Both are defined as exactly 0.45359237 kilograms. Therefore, the conversion of 19.1 kg to pounds will be exactly the same (42.108 pounds) regardless of whether you are using a US or UK recipe or scale. You do not need to make any adjustments for the country of origin when converting weights."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/19-1-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

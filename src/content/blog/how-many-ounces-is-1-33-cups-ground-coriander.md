@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-coriander"
-  },
+        },
         "headline": "Quick Answer: 1.33 Cups of Ground Coriander to Ounces UK",
         "description": "Convert 1.33 cups of ground coriander to ounces with ease. Get precise UK measurements for air fryer recipes in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-ground-coriander.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fresh coriander (cilantro) has a completely different volume-to-weight ratio than ground coriander. While 1.33 cups of ground coriander equals 3.2 ounces, fresh coriander leaves would weigh much less and provide different flavour intensity. For air fryer recipes, ground coriander is generally preferred for even distribution and consistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of ground coriander affect the weight per cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Different brands of ground coriander can vary slightly in density due to grinding fineness and packing methods. However, the difference is usually minimal - typically within 0.1-0.2 ounces per cup. For most air fryer recipes at home, this small variation won’t significantly impact your dish. When precision matters (like in spice blends), weighing is always best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover ground coriander after measuring out 1.33 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After measuring your 1.33 cups (3.2 ounces) of ground coriander, store any leftovers in an airtight container away from heat and light. Ground spices lose potency faster than whole seeds, so try to use within 6 months for best flavour in your air fryer dishes. Consider labelling with the date you opened the container."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this same conversion for other ground spices in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, each ground spice has its own density and conversion rate. While 1.33 cups of ground coriander equals 3.2 ounces, other spices like cinnamon or cumin will have different weights for the same volume. Always check specific conversion charts for different spices when preparing air fryer recipes to ensure accurate measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-coriander"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

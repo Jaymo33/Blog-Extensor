@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-cheddar-cheese"
-  },
+        },
         "headline": "Quick Guide: Convert 100 Grams of Cheddar Cheese to Cups",
         "description": "Learn how to measure 100 grams of cheddar cheese in cups for perfect recipes every time. Get accurate conversions and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T20:38:06.577Z",
         "dateModified": "2025-07-27T20:38:06.577Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-cheddar-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, pre-shredded cheese works fine, but it often contains anti-caking agents that may affect meltability. For best results in air fryer recipes, freshly grated cheddar is ideal. If using pre-shredded, pack it lightly into the measuring cup for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the fat content of cheddar cheese affect the measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Higher-fat cheddar is slightly denser, so 100 grams may fill slightly less volume than low-fat varieties. However, the difference is minimal—stick to the standard 1 cup (grated) or 0.4 cups (cubed) for most recipes unless specified otherwise."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I freeze 100 grams of cheddar cheese for later use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, cheddar cheese freezes well. Portion it into 100-gram amounts, wrap tightly, and store for up to 3 months. Thaw in the fridge before using, though texture may change slightly—best for cooked dishes like air fryer melts or casseroles."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list cheese by weight instead of cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight measurements (grams) are more precise because cheese density varies. Cups can be inconsistent due to packing or shred size. For air fryer recipes, especially baked goods, weighing ensures accuracy. Use a kitchen scale for best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T20:38:06.577000+00:00",
     "dateModified": "2025-07-27T20:38:06.577000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-cheddar-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

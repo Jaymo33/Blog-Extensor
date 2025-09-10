@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick 2 kg chicken thighs to pounds conversion for air fryer cooking",
         "description": "Convert 2 kg chicken thighs to pounds instantly for perfect air fryer portions. Get accurate measurements for juicy, crispy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "2 kg of chicken thighs converts to exactly 4.40924 pounds, though for practical kitchen use, most people round this to 4.41 pounds. This conversion uses the standard rate where 1 kilogram equals approximately 2.20462 pounds. When preparing chicken thighs for your air fryer, this level of precision helps ensure proper portioning for even cooking and crispy results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change for boneless versus bone-in chicken thighs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The weight conversion itself remains the same regardless of whether the chicken thighs are boneless or bone-in – 2 kg always equals approximately 4.41 pounds. However, the actual meat yield will differ, with bone-in thighs containing less edible meat per pound than boneless varieties. For air fryer cooking, you may need to adjust cooking times slightly for bone-in thighs, as the bones can affect heat distribution and cooking efficiency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I convert 2 kg chicken thighs to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use a simple approximation method by remembering that 1 kg is roughly 2.2 pounds, so 2 kg would be about 4.4 pounds. For quick mental math, double the kilogram amount and add 10% of that result (2 kg × 2 = 4, then 4 + 0.4 = 4.4 pounds). This estimation is perfectly adequate for air fryer cooking purposes, where slight variations in weight won't significantly impact your results if you're not overcrowding the basket."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert measurements for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Accurate measurements are crucial for air fryer cooking because these appliances rely on proper air circulation around food for even cooking and crisping. Knowing that 2 kg of chicken thighs converts to about 4.41 pounds helps you avoid overcrowding the basket, which would block airflow and create steam instead of crispiness. Proper portioning also ensures that cooking times and temperatures work as intended, giving you consistently delicious results with every batch you prepare."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

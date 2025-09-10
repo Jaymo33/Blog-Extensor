@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-rolled-oats"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 0.375 cup of rolled oats?",
         "description": "Find out exactly how many ounces 0.375 cup of rolled oats weighs for perfect air fryer recipes every time. Get the UK conversion now.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-17T23:33:52.556Z",
         "dateModified": "2025-08-17T23:33:52.556Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-rolled-oats.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute quick oats, but be aware they're slightly denser. While 0.375 cup of rolled oats equals 1.5 ounces, the same volume of quick oats might weigh about 1.6 ounces. For best results in air fryer recipes, weigh your quick oats to get exactly 1.5 ounces if the recipe specifies rolled oats."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the 0.375 cup to ounces conversion affect air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The 0.375 cup (1.5 ounce) measurement impacts cooking times when oats are used as coatings or in baked goods. Proper measurement ensures even cooking - too many oats can extend cooking time as they absorb more moisture. For coatings, the right amount (1.5 ounces per 0.375 cup) creates the perfect crispness without over-drying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes use 0.375 cup instead of 1/3 or 1/2 cup measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.375 cup (3/8 cup) is often used in recipes scaled down from larger quantities or when precise ratios matter. In air fryer cooking where space is limited, this measurement might represent the perfect amount for coatings or mix-ins without overcrowding. It's also common in single-serving recipes where 1/3 cup would be too little and 1/2 cup too much."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I measure 0.375 cup of rolled oats without a 3/8 cup measure?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can measure 0.375 cup using standard measures: it's equal to 6 tablespoons or 1/4 cup plus 2 tablespoons. For the most accurate 1.5 ounce measurement though, using a scale is best. If using measuring cups, spoon the oats in without packing and level off for consistent results in your air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-rolled-oats"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

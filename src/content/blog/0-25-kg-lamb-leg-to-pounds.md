@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Quick Guide: Convert 0.25 kg Lamb Leg to Pounds Easily",
         "description": "Learn how to convert 0.25 kg lamb leg to pounds for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 0.25 kg lamb leg to pounds and ounces, first calculate the total pounds. 0.25 kg multiplied by 2.20462 equals approximately 0.55 pounds. Since there are 16 ounces in a pound, 0.55 pounds is equivalent to 8.8 ounces. This means your 0.25 kg lamb leg weighs about 0 pounds and 8.8 ounces, which is useful for precise recipe measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert kg to pounds for air frying lamb?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting kg to pounds ensures accurate cooking times and temperatures in your air fryer. Air fryers heat quickly and efficiently, so even small weight discrepancies can lead to undercooked or overcooked meat. Using the correct weight in pounds helps you follow recipes properly, especially those from American or British sources that might use different measurement systems. This precision guarantees juicy, perfectly cooked lamb every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for other cuts of lamb?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the same conversion factor applies to all cuts of lamb. Whether you're working with chops, shoulder, or shanks, multiplying the weight in kilograms by 2.20462 gives you the equivalent in pounds. This consistency makes it easy to adapt recipes and manage portion sizes. For example, 0.5 kg of lamb chops would be approximately 1.1 pounds, ensuring you never guesswork your measurements again."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for lamb?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a variety of delicious air fryer lamb recipes on our website, airfryerrecipe.co.uk. We have a dedicated section for lamb dishes, including roasts, chops, and minced lamb recipes. Each recipe includes precise measurements and cooking times to help you achieve fantastic results. Explore our collection to discover new ways to enjoy lamb in your air fryer, from quick dinners to special occasion meals."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

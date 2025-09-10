@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-turkey-crown-to-pounds"
-  },
+        },
         "headline": "Easy 3.5 kg Turkey Crown to Pounds Conversion Guide",
         "description": "Convert 3.5 kg turkey crown to pounds quickly for perfect air fryer cooking. Get accurate weights, cooking times, and juicy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-turkey-crown-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3.5 kg turkey crown is approximately 7.7 pounds. This conversion is based on the standard calculation where 1 kilogram equals 2.20462 pounds. For practical cooking purposes, it's perfectly fine to round to 7.7 pounds when planning your air fryer cooking time and portion sizes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for an air fryer turkey crown?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer recipes and cooking guidelines use imperial measurements like pounds, especially here in the UK where both metric and imperial units are commonly used. Converting 3.5 kg turkey crown to pounds ensures you follow cooking times accurately, which is crucial because air fryers cook faster than traditional ovens. Getting the weight right helps you avoid undercooking or drying out your turkey, leading to a perfectly juicy roast every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a 3.5 kg turkey crown in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not all air fryers can accommodate a 3.5 kg turkey crown, which is about 7.7 pounds. You need a large-capacity air fryer or an air fryer oven with enough vertical and horizontal space for even cooking. Always check the dimensions of your air fryer basket and the turkey crown before purchasing. If your appliance is too small, consider spatchcocking the crown or using a conventional oven instead for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to air fry a 3.5 kg turkey crown?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "As a general rule, air fry a turkey crown for about 20 minutes per pound. So for a 3.5 kg turkey crown (7.7 pounds), you're looking at roughly 2 hours and 34 minutes at 180°C. However, always use a meat thermometer to check that the internal temperature reaches 75°C in the thickest part of the breast. Let the turkey rest for 20-30 minutes after cooking for the juiciest results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-turkey-crown-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

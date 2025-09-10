@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-chicken-breast"
-  },
+        },
         "headline": "Quick Answer: How Many Grams Is 2.0 Cups of Chicken Breast?",
         "description": "Discover the exact gram measurement for 2.0 cups of chicken breast—perfect for air fryer recipes and meal prep. Get cooking with confidence!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T23:31:14.804Z",
         "dateModified": "2025-07-27T23:31:14.804Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-cups-chicken-breast.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, chicken loses about 25% of its weight when cooked due to moisture loss. If a recipe calls for 2.0 cups of cooked chicken breast, you'll need to start with roughly 1.5 times that amount raw. Always check whether your recipe specifies raw or cooked measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use boneless chicken thighs instead of breast in the same measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Boneless chicken thighs have a higher fat content, so 2.0 cups may weigh slightly more than breast meat. For best results, weigh the thighs to match the 280-gram equivalent. Adjust air fryer cooking times slightly, as thighs take longer to crisp up."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 2.0 cups of shredded chicken breast to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Shredded chicken is less dense, so 2.0 cups may weigh closer to 240 grams. Fluff it lightly in the measuring cup for accuracy. If precision matters, always use a kitchen scale for shredded chicken in air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes use cups instead of grams for chicken breast?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cups are more common in older or American recipes, while grams are standard in metric systems. For air fryer cooking, grams are more reliable since they account for density variations. If a recipe uses cups, converting to grams ensures better results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:31:14.804000+00:00",
     "dateModified": "2025-07-27T23:31:14.804000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-chicken-breast"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

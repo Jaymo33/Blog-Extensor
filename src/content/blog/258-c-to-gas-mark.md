@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/258-c-to-gas-mark"
-  },
+        },
         "headline": "258 C to Gas Mark Conversion for Air Fryers & Ovens",
         "description": "Convert 258°C to Gas Mark for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments for precise results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T15:10:58.488Z",
         "dateModified": "2025-07-20T15:10:58.488Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/258-c-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most modern air fryers accurately maintain 258°C (Gas Mark 9), but compact models may have slight variations. Check your manual for maximum temperature settings and heat distribution patterns. High-end models typically handle these conversions best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 258 C compare to Gas Mark in a fan oven versus conventional?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "258°C converts to Gas Mark 9 in both fan and conventional ovens. The fan circulates heat more evenly but doesn't change the temperature conversion. In air fryers, which work like mini fan ovens, you'll get faster cooking at the same Gas Mark equivalent."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What foods cook best at 258 C (Gas Mark 9) in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This high temperature excels for roasting potatoes, baking puff pastry, or crisping chicken skin. It's also ideal for reheating fried foods to restore crispiness. Avoid delicate items like fish or custards at Gas Mark 9 equivalents."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer smoke at 258 C (Gas Mark 9)?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Smoke at 258°C usually comes from oil residues or food particles. Clean your air fryer thoroughly before high-heat cooking, and avoid over-oiling. Some oils smoke at Gas Mark 9 temperatures - use avocado or refined peanut oil for high-heat air frying."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T15:10:58.488000+00:00",
     "dateModified": "2025-07-20T15:10:58.488000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/258-c-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

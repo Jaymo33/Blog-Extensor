@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-chopped-spinach"
-  },
+        },
         "headline": "Quick Answer: 0.25 Cup Chopped Spinach to Ounces UK",
         "description": "Discover how many ounces are in 0.25 cup of chopped spinach for perfect air fryer recipes. Get precise UK conversions in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-chopped-spinach.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but you'll need to adjust the preparation. Use 0.7 ounces (20g) of thawed frozen spinach, squeezed very dry to remove excess water. Frozen spinach is more compact, so volume measurements differ from fresh. Always drain thoroughly to prevent soggy results in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 0.25 cup chopped spinach compare to whole leaves in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.25 cup chopped spinach equals about 10-12 medium whole leaves before chopping. Chopped spinach cooks more evenly in the air fryer as it distributes better. Whole leaves might fly around in the air current, while chopped spinach stays put for consistent crisping or blending into dishes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air-fried spinach sometimes come out soggy?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sogginess usually comes from excess moisture. Ensure your 0.25 cup of chopped spinach is thoroughly dried before cooking. Also avoid overcrowding - the 0.7 ounce measurement is ideal for proper air circulation. If making chips, cook in single layers and consider blotting with paper towel mid-cook."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute baby spinach for regular spinach in the 0.25 cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. Baby spinach works fine in the same 0.25 cup (0.7oz) measurement, though it's more tender. You might need slightly more baby spinach by volume to reach the same weight as mature chopped leaves. The cooking time may be slightly shorter too, so check frequently."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-chopped-spinach"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

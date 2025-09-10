@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bread-rolls-in-air-fryer"
-  },
+        },
         "headline": "Reheat Bread Rolls in Air Fryer – Quick & Crispy Guide",
         "description": "Learn how to reheat bread rolls in an air fryer to restore crispiness without drying out. Perfect temps, timings & tips for fresh-tasting rolls every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T17:08:21.013Z",
         "dateModified": "2025-07-22T17:08:21.013Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-bread-rolls-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Frozen bread rolls reheat beautifully in an air fryer at 160°C (320°F) for 5-6 minutes without thawing. No need to adjust temperature – the extended time compensates for the frozen state. Just check internal warmth before serving."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent my bread rolls from drying out when reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly mist rolls with water before air frying or wrap them in damp kitchen paper for 10 seconds after reheating. Keeping the temperature at 150-160°C (300-320°F) and avoiding overcooking also preserves moisture. Enriched doughs like brioche benefit from lower heat settings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to reheat multiple bread rolls at once?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Arrange rolls in a single layer with at least 2cm spacing between each for proper air circulation. Cook in batches if your air fryer basket is small – overcrowding leads to uneven results. Reduce subsequent batch times by 30 seconds as the basket retains heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the air fryer to reheat filled bread rolls?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but take precautions with delicate fillings. Tent rolls with foil for the first 2-3 minutes to prevent burning, then uncover to crisp the exterior. Cheese-filled rolls benefit from lower temps (150°C) to allow fillings to heat through without leaking. Always check internal temperature reaches 74°C (165°F)."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T17:08:21.013000+00:00",
     "dateModified": "2025-07-22T17:08:21.013000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bread-rolls-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

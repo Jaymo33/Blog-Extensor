@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-chicken-tenders-in-air-fryer"
-  },
+        },
         "headline": "Reheat Chicken Tenders in Air Fryer – Crispy Results Every Time",
         "description": "Learn how to reheat chicken tenders in an air fryer to keep them crispy and juicy. Perfect temperature, timing, and tips for best results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T17:33:17.416Z",
         "dateModified": "2025-07-22T17:33:17.416Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-chicken-tenders-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's not recommended to reheat chicken tenders multiple times in an air fryer or any other method. Repeated reheating can dry out the meat and increase the risk of bacterial growth. For food safety and best quality, only reheat what you plan to eat immediately."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to reheat frozen chicken tenders in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For frozen chicken tenders, set your air fryer to 190°C (375°F) and cook for 8-10 minutes, flipping halfway through. You may need to add 1-2 minutes if they're particularly thick. There's no need to thaw first, but the cooking time will be longer than refrigerated tenders."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I keep my reheated chicken tenders from getting soggy?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To prevent sogginess, make sure your air fryer is properly preheated and don't overcrowd the basket. Cooking in a single layer with space between each tender allows for proper air circulation. A light spritz of oil can also help revive the crispiness of the coating."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat chicken tenders in an air fryer if they have sauce on them?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can reheat sauced chicken tenders in an air fryer, but the results may not be as crispy. The sauce can make the coating soggy. If possible, add fresh sauce after reheating. For saucy tenders, use a slightly lower temperature (170°C) and check frequently to prevent burning."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T17:33:17.416000+00:00",
     "dateModified": "2025-07-22T17:33:17.416000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-chicken-tenders-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

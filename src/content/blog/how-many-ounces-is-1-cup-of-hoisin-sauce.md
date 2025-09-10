@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-hoisin-sauce"
-  },
+        },
         "headline": "Quick Guide: 1 Cup of Hoisin Sauce to Ounces Conversion",
         "description": "Discover how many ounces are in 1 cup of hoisin sauce for perfect air fryer recipes. Get accurate measurements and cooking tips here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-16T23:30:04.315Z",
         "dateModified": "2025-08-16T23:30:04.315Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-hoisin-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can adjust quantities to taste, we recommend sticking to the 1 cup equals 8.5 ounces measurement for consistent results. Air fryer cooking relies on precise ratios, especially for marinades and glazes. Small variations can significantly affect texture and flavour."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does hoisin sauce behave differently in an air fryer compared to oven cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "In the air fryer, hoisin sauce caramelises faster due to the concentrated heat circulation. The 8.5 ounces from 1 cup will cover more surface area in an air fryer basket than on a baking tray. You might need to apply it in thinner layers to prevent burning while achieving that perfect sticky glaze."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between UK and US measurements for hoisin sauce?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The 1 cup to 8.5 ounces conversion applies to both UK and US measurements for hoisin sauce. However, UK cooks might prefer working in grams (240g per cup). The sauce's density remains consistent regardless of measurement system, making this conversion reliable for air fryer recipes worldwide."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to measure sticky hoisin sauce accurately?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For perfect 8.5 ounces from 1 cup, use a liquid measuring cup and spatula to ensure all sauce transfers to your dish. Lightly greasing the cup first helps the sauce slide out cleanly. Alternatively, weigh it directly in your mixing bowl using kitchen scales set to ounces for complete accuracy."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-hoisin-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

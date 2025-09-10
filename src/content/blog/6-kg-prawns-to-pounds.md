@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-prawns-to-pounds"
-  },
+        },
         "headline": "Easy 6 kg prawns to pounds conversion for air fryer cooking",
         "description": "Convert 6 kg prawns to pounds quickly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-kg-prawns-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "6 kg of prawns equals approximately 13.23 pounds. This conversion is based on the standard calculation where 1 kilogram equals 2.20462 pounds. For most practical cooking purposes, you can round this to 13.2 or 13.25 pounds without significantly affecting your recipe results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert prawn weights from kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting prawn weights from kilograms to pounds is essential because most air fryer recipes use imperial measurements. Accurate conversions ensure proper portioning for your air fryer's capacity, preventing overcrowding that leads to uneven cooking. It also helps with following seasoning measurements and cooking times precisely for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if the prawns are frozen or peeled?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the weight conversion from kilograms to pounds remains the same regardless of whether the prawns are fresh, frozen, peeled, or shell-on. The conversion is based on mass, not the prawns' state or preparation. However, remember that frozen prawns may require slightly longer cooking times in your air fryer compared to fresh ones."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 6 kg prawns to pounds and ounces for more precise measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can convert 6 kg prawns to pounds and ounces for more precise measurements. 6 kg equals approximately 13 pounds and 3.6 ounces (since 0.23 pounds × 16 ounces = 3.68 ounces). This level of precision can be useful when dividing large batches into exact portions or following recipes that require very specific measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-prawns-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

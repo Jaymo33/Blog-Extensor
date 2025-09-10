@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-soft-cheese"
-  },
+        },
         "headline": "Quick Answer: 0.375 Cup Soft Cheese to Ounces UK Guide",
         "description": "Convert 0.375 cup of soft cheese to ounces with our easy UK guide. Get perfect air fryer recipes and avoid measuring mistakes every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-soft-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For most common types of soft cheese like full-fat cream cheese, mascarpone, or ricotta, yes, 0.375 cup is equivalent to 3 ounces by weight. This is because their densities are quite similar. However, very low-fat cream cheese or whipped varieties might be slightly less dense, meaning 0.375 cup could weigh a little less than 3 ounces. For absolute precision in air fryer recipes, especially for baking, using a digital scale to measure the ounces directly is always recommended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I measure 0.375 cup without a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a 1/3 or 1/8 cup measure, you can use tablespoons. Since there are 16 tablespoons in a US cup, 0.375 cup equals 6 tablespoons. So, you would need 6 level tablespoons of soft cheese. For even more accuracy, you can use a kitchen scale. Since you now know that 0.375 cup of soft cheese is 3 ounces, you can simply weigh it out. This method is often more accurate than using volume measures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify weight instead of volume for soft cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryer recipes often specify weight because it is far more precise. How you scoop soft cheese into a cup can drastically change the actual amount you use—a heaped scoop packs in much more than a levelled one. This inconsistency can ruin a recipe in an air fryer, where cooking times are short and precise. Weight measurements in ounces or grams ensure that every cook, regardless of their scooping technique, uses the exact same amount of ingredient, leading to reliable and repeatable results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other creamy ingredients like yogurt or cottage cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This specific conversion of 1 cup = 8 ounces is standard for soft cheeses like cream cheese, but it does not apply universally. Greek yogurt, for example, is denser, so 1 cup weighs closer to 10 ounces. Cottage cheese can vary depending on curd size and cream content. For ingredients other than standard soft cheese, it is always best to consult a dedicated ingredient weight chart or use your kitchen scale to measure the required ounces directly for your air fryer recipe."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-soft-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

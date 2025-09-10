@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-prawns-to-pounds"
-  },
+        },
         "headline": "Easy 0.5 kg prawns to pounds conversion for perfect air frying",
         "description": "Convert 0.5 kg prawns to pounds quickly for accurate air fryer recipes. Get perfect results every time with our simple guide and cooking tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-5-kg-prawns-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.5 kg of prawns is equal to approximately 1.102 pounds. This conversion is based on the standard metric to imperial conversion where 1 kilogram equals 2.20462 pounds. For most practical cooking purposes, you can round this to 1.1 pounds. This measurement is important for air fryer recipes to ensure proper cooking times and results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I weigh prawns with or without shells when converting 0.5 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on what your recipe specifies. Most recipes will indicate whether the weight should include shells or not. If the recipe calls for "0.5 kg prawns, peeled," you should measure after removing shells. If it says "0.5 kg prawns in shells," measure them with shells on. The conversion from 0.5 kg to pounds remains the same regardless, but the actual amount of edible prawn meat will differ."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 0.5 kg prawns to pounds affect air fryer cooking time?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion itself doesn't affect cooking time, but the accurate weight measurement does. Knowing that 0.5 kg equals approximately 1.1 pounds helps you follow recipes correctly. Prawns typically cook in 5-8 minutes at 200°C in an air fryer, regardless of the measurement system used. The important factor is ensuring you have the correct weight for even cooking and proper portioning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for other seafood in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion factor from kilograms to pounds is the same for all ingredients, including other seafood. Whether you're working with prawns, fish, scallops, or other seafood, 0.5 kg will always equal approximately 1.1 pounds. However, cooking times will vary between different types of seafood, so always check specific recipe recommendations for each variety you prepare in your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-prawns-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

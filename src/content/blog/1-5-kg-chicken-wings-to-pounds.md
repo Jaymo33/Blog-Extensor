@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/1-5-kg-chicken-wings-to-pounds"
-  },
+        },
         "headline": "Quick 1.5 kg chicken wings to pounds conversion guide",
         "description": "Convert 1.5 kg chicken wings to pounds instantly with our easy guide. Perfect for air fryer recipes and meal planning. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T20:06:59.565Z",
         "dateModified": "2025-08-22T20:06:59.565Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-5-kg-chicken-wings-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "1.5 kg of chicken wings equals approximately 3.30693 pounds, though for practical kitchen purposes, most people round this to 3.31 pounds or even 3.3 pounds. This conversion uses the standard factor where 1 kilogram equals 2.20462 pounds, and when multiplied by 1.5 gives you the precise equivalent. The slight rounding makes no noticeable difference in cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I adjust cooking time when converting 1.5 kg chicken wings to pounds for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The cooking time itself doesn't change based on the weight conversion - what matters is the actual weight you're cooking. Whether you think of it as 1.5 kg or 3.3 pounds, you'll need to cook your chicken wings for 20-30 minutes at 200°C in most air fryers. The important factor is ensuring you don't overcrowd the basket, so you may need to cook in batches regardless of which measurement system you use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do I need to convert seasoning amounts when using 1.5 kg chicken wings to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you should adjust seasoning amounts when working with converted weights. Most seasoning recipes are designed for specific weights, so if a rub or sauce recipe is created for pounds but you're working with kilograms, you'll need to convert those measurements too. As a general guideline, use approximately ½ cup of sauce or 2 tablespoons of dry rub per pound of wings, which would mean about ⅔ cup sauce or 3 tablespoons rub for 1.5 kg (3.3 pounds)."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is the 1.5 kg chicken wings to pounds conversion different for frozen wings?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the weight conversion remains the same whether the chicken wings are fresh, frozen, or thawed. 1.5 kg always equals approximately 3.3 pounds regardless of the wing's temperature state. However, remember that frozen wings may require slightly longer cooking times in your air fryer, typically adding 5-10 minutes to account for the frozen state. Always ensure frozen wings reach a safe internal temperature of 74°C before serving."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/1-5-kg-chicken-wings-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

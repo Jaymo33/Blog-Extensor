@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-chopped-walnuts"
-  },
+        },
         "headline": "Quick Answer: 0.25 Cup Chopped Walnuts to Ounces UK",
         "description": "Discover how many ounces are in 0.25 cup of chopped walnuts for perfect air fryer recipes. Get accurate UK conversions now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-12T23:23:28.664Z",
         "dateModified": "2025-08-12T23:23:28.664Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-chopped-walnuts.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but you’ll need to adjust the quantity. Whole walnuts take up more space, so 0.25 cup of whole walnuts will weigh slightly less than chopped ones. For accuracy, weigh them—you’ll need about 0.8 ounces (23 grams) of whole walnuts to match the volume of 0.25 cup chopped."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I chop walnuts evenly for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Place walnuts in a sealed bag and gently crush them with a rolling pin for uniform pieces. Alternatively, pulse them in a food processor for a few seconds. Avoid over-processing, as this can turn them into walnut butter. Even chopping ensures consistent cooking in the air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do toasted walnuts weigh the same as raw walnuts?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Toasted walnuts are slightly lighter due to moisture loss, but the difference is minimal for small quantities like 0.25 cup. If precision is crucial, weigh them after toasting. Toasting enhances their flavour, making them ideal for air fryer recipes like crusted fish or salads."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute other nuts for chopped walnuts in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, almonds, pecans, or hazelnuts can work, but adjust the weight accordingly. For example, 0.25 cup of chopped pecans is about 1.1 ounces (31 grams). Always check weight conversions to ensure your air fryer dish turns out perfectly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-chopped-walnuts"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

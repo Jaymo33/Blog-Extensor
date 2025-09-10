@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-broccoli"
-  },
+        },
         "headline": "Quick Answer: How Many Grams Is 2.75 Cups of Broccoli?",
         "description": "Discover the exact gram measurement for 2.75 cups of broccoli to perfect your air fryer recipes. Get conversions and cooking tips here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T16:03:15.452Z",
         "dateModified": "2025-07-28T16:03:15.452Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-broccoli.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, the weight can vary slightly. Chopped broccoli florets may weigh less per cup (around 200g for 2.75 cups) compared to whole florets or stems. For precise air fryer cooking, weighing in grams is best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use frozen broccoli instead of fresh for this measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but frozen 2.75 cups of broccoli will weigh more (about 250g) due to ice content. Thaw and pat it dry before air frying to avoid soggy results. Adjust cooking time by 1–2 minutes if needed."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 2.75 cups (220g) of broccoli make?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This amount serves 2–3 people as a side dish or 1–2 as a main with other ingredients. It's ideal for air fryer recipes like crispy broccoli or stir-fries."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do I need to adjust air fryer time for 220g of broccoli?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cook 220g (2.75 cups) of broccoli at 190°C for 8–10 minutes, shaking halfway. Thicker stems may need 1–2 extra minutes. Always check for desired crispiness before serving."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T16:03:15.452000+00:00",
     "dateModified": "2025-07-28T16:03:15.452000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-broccoli"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-4-quart-air-fryer"
-  },
+        },
         "headline": "Best 4 Quart Air Fryer Liners – Perfect Fit Guide & Tips",
         "description": "Discover the perfect liner size for your 4 quart air fryer with our expert guide. Find reusable, silicone, or paper liners for easy cooking and cleaning.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T20:10:54.552Z",
         "dateModified": "2025-07-28T20:10:54.552Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/what-size-liners-fit-4-quart-air-fryer.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Liner"
-  },
+        },
         "articleSection": "Liner",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While aluminum foil can be used, it’s not ideal as it may block airflow and affect cooking performance. If you must use foil, ensure it’s perforated and doesn’t cover the entire basket. Silicone or parchment liners are safer and more effective for even heat distribution."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are square or round liners better for a 4 quart air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on your air fryer basket shape. Round liners suit most 4 quart models, but square ones work better for rectangular baskets. Measure your basket first to ensure a proper fit. Both types are effective if they match your air fryer’s dimensions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How often should I replace reusable liners for my 4 quart air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Reusable liners last 6–12 months with proper care. Silicone liners can endure longer, while fabric ones may wear out faster. Replace them if they show signs of fraying, stains, or loss of non-stick properties. Always follow the manufacturer’s care instructions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do liners affect cooking time in a 4 quart air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Liners may slightly increase cooking time by 1–2 minutes due to reduced direct heat. However, the difference is minimal, and liners prevent sticking and simplify cleanup. For best results, avoid overcrowding the liner and shake the basket halfway through cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:54.552000+00:00",
     "dateModified": "2025-07-28T20:10:54.552000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-4-quart-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

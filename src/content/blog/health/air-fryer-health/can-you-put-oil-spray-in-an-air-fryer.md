@@ -47,7 +47,7 @@ schema: |
         },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
-    }
+        }
 </script>
 
     <script type="application/ld+json">
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Regular Pam spray contains emulsifiers that can damage air fryer coatings over time. Opt for pure oil sprays or use a refillable mister with your preferred oil instead for safer air frying results."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "Will oil spray make my air fryer smoke?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Oil spray can cause smoking if over-applied or if using oils with low smoke points. Use high-smoke-point oils like avocado or refined rapeseed oil, and apply sparingly to minimise smoke in your air fryer."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "How often should I clean my air fryer when using oil spray?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Clean your air fryer basket after every use when using oil spray to prevent residue buildup. For thorough maintenance, do a deep clean weekly using our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning methods</a>."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "Can I use oil spray when reheating food in the air fryer?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "A light spritz of oil can help refresh leftovers like pizza or fried chicken, but many foods reheat well without added oil. For perfect reheating, check our recipe section at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for specific guidance."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -168,7 +168,7 @@ schema: |
             ""name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -180,16 +180,16 @@ schema: |
     "logo": {
             ""@type": "ImageObject",
             ""url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             ""@type": "Country",
             ""name": "United Kingdom"
-    },
+        },
     {
             ""@type": "Country",
             ""name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             ""@type": "ContactPoint",
@@ -202,8 +202,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

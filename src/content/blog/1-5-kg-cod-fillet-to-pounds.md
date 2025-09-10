@@ -15,7 +15,7 @@ schema: |
     "mainEntityOfPage": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk/blog/1-5-kg-cod-fillet-to-pounds"
-    },
+        },
     "headline": "Easy 1.5 kg Cod Fillet to Pounds Conversion Guide",
     "description": "Convert 1.5 kg cod fillet to pounds instantly with our simple guide. Perfect for air fryer cooking and portion planning.",
     "author": {
@@ -25,29 +25,29 @@ schema: |
             ""image": {
             ""@type": "ImageObject",
             ""url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-    },
+        }
+        },
     "publisher": {
             ""@type": "Organization",
             ""name": "Air Fryer Recipe",
     "logo": {
             ""@type": "ImageObject",
             ""url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-    },
+        }
+        },
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00",
             ""image": {
             ""@type": "ImageObject",
             ""url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-5-kg-cod-fillet-to-pounds.webp"
-    },
+        },
     "about": {
             ""@type": "Thing",
             ""name": "Conversion"
-    },
+        },
     "articleSection": "Conversion",
     "inLanguage": "en-GB"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "1.5 kg of cod fillet is approximately 3.31 pounds. This conversion is based on the standard factor where 1 kilogram equals about 2.20462 pounds. It's a handy measurement for air fryer recipes that use imperial units."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "Why do I need to convert cod fillet weight from kg to pounds for air frying?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Many air fryer recipes, especially those from the US or older UK sources, use pounds for ingredient weights. Converting ensures you use the correct amount for cooking times and portion sizes. This accuracy helps achieve perfectly cooked, flaky cod every time."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "Can I use an online converter for 1.5 kg cod fillet to lbs?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Yes, online converters are reliable and quick for converting 1.5 kg cod fillet to lbs. They eliminate calculation errors and often provide additional options like ounces or stones. Just enter the weight in kg, and the tool does the rest instantly."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "How do I convert 1.5 kg cod fillet to pounds and ounces?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "First, convert 1.5 kg to pounds (3.31). Then, multiply the decimal part (0.31) by 16 to get ounces—approximately 5 ounces. So, 1.5 kg cod fillet is about 3 pounds and 5 ounces. This is useful for precise recipe measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             ""@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             ""@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk/blog/1-5-kg-cod-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             ""name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             ""@type": "ImageObject",
             ""url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             ""@type": "Country",
             ""name": "United Kingdom"
-    },
+        },
     {
             ""@type": "Country",
             ""name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             ""@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

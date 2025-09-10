@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/277-f-to-gas-mark"
-  },
+        },
         "headline": "277 F to Gas Mark Conversion Guide for Air Fryers",
         "description": "Convert 277°F to Gas Mark for perfect air fryer cooking. Includes UK oven conversions, baking tips, and temperature charts.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-20T17:53:23.048Z",
         "dateModified": "2025-07-20T17:53:23.048Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/277-f-to-gas-mark.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "GasMark"
-  },
+        },
         "articleSection": "GasMark",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 277°F (Gas Mark 1) works well for delicate cakes like cheesecakes or flourless chocolate cakes in air fryers. Use a baking pan that fits your air fryer basket and reduce standard oven times by 15-20%. Cover with foil if the top browns too quickly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need 277°F temperature for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "277°F is ideal for slow-cooking tough meats, dehydrating fruits/herbs, or keeping dishes warm without overcooking. It's also perfect for recipes requiring gentle heat like custards or melting chocolate where higher temperatures would cause separation or burning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I set my air fryer to Gas Mark 1 if it only shows Celsius?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Set your air fryer to 136°C, which is the direct conversion from 277°F/Gas Mark 1. Most air fryers don't display gas marks, but the Celsius equivalent delivers identical results with potentially faster cooking times due to efficient air circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 277°F hot enough to cook chicken safely in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 277°F is too low for safely cooking raw poultry. Chicken requires at least 165°F (74°C) internal temperature to eliminate bacteria. Reserve 277°F/Gas Mark 1 for keeping cooked chicken warm or slow-cooking already-safe preserved meats like confit."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-20T17:53:23.048000+00:00",
     "dateModified": "2025-07-20T17:53:23.048000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/277-f-to-gas-mark"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

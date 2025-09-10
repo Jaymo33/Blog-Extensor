@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-1-kg-to-pounds"
-  },
+        },
         "headline": "Quickly Convert 6.1 kg to Pounds for Your Air Fryer",
         "description": "Easily convert 6.1 kg to pounds for perfect air fryer portions. Get precise measurements for recipes and meal prep in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-1-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "6.1 kilograms converts to approximately 13 pounds and 7 ounces. To get this, first convert the entire weight to pounds (6.1 kg * 2.20462 = 13.448 lbs). The whole number is 13 pounds. Then, take the decimal part (0.448) and multiply it by 16, as there are 16 ounces in a pound, which gives you about 7.17 ounces. For most cooking purposes, rounding to 13 pounds and 7 ounces is perfectly accurate."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 6.1 kg to pounds for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 6.1 kg to pounds for your air fryer for several practical reasons. Many recipes, especially those from American sources or older cookbooks, use pounds instead of kilograms. If you buy a large cut of meat like a turkey or a joint of beef that weighs 6.1 kg, converting it to pounds (about 13.45 lbs) allows you to accurately use cooking time charts, which are often based on weight per pound. This ensures your food cooks through perfectly without being over or underdone. It also helps you determine if a large item will physically fit in your specific air fryer model before you start cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 6.1 kg a common weight for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "6.1 kg is a very large weight and is not common for a single recipe meant for a standard home air fryer. This weight (approximately 13.45 pounds) is more typical for a very large turkey, a big beef brisket, or bulk buying ingredients for meal prepping. You would likely divide a 6.1 kg item into smaller portions to cook in batches in your air fryer. However, knowing the conversion is still crucial for calculating total cooking time if you're using a traditional oven for such a large item, or for understanding the size of what you've purchased before portioning it out for the air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the easiest way to convert 6.1 kilograms to lbs without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The easiest way to convert 6.1 kilograms to pounds without a calculator is to use a simple approximation. Remember that 1 kilogram is roughly equal to 2.2 pounds. Multiply 6.1 by 2.2 for a quick estimate: 6 x 2.2 = 13.2, and 0.1 x 2.2 = 0.22, so 13.2 + 0.22 = 13.42 pounds. This gives you a very close estimate of 13.4 pounds, which is accurate enough for most cooking purposes where a precise decimal isn't critical. For a perfect result, though, using a digital scale with unit conversion or a quick online tool is always best."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-1-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

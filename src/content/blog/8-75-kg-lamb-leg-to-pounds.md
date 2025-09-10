@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Easy 8.75 kg Lamb Leg to Pounds Conversion for Air Fryer",
         "description": "Convert 8.75 kg lamb leg to pounds quickly for perfect air frying. Get cooking times, temperatures, and juicy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:44:08.419Z",
         "dateModified": "2025-08-22T23:44:08.419Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "8.75 kg of lamb leg is approximately 19.29 pounds. This conversion is vital for accurately following air fryer cooking guides and timetables, which often use imperial measurements. Knowing the weight in pounds helps you calculate the right cooking time and temperature for a perfectly juicy roast."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I fit an 8.75 kg lamb leg in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An 8.75 kg lamb leg, which is about 19.29 pounds, is quite large and may only fit in extra-large or family-sized air fryer models. Always check the dimensions of your air fryer basket before purchasing or preparing the joint. If it’s too big, you might need to ask your butcher to butterfly or halve the leg for easier air frying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to cook an 8.75 kg lamb leg in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For an 8.75 kg lamb leg (approximately 19.29 pounds), allow roughly 15-20 minutes per pound in a preheated air fryer. This means a total cooking time of about 5 to 6.5 hours for medium-rare, but always use a meat thermometer to check for an internal temperature of 60-65°C for best results. Rest the meat for 20 minutes before carving."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting kilograms to pounds is important because most air fryer recipes and cooking charts use imperial measurements. Accurate conversions ensure your cooking times and temperatures are correct, leading to evenly cooked, delicious results. It also helps when communicating with butchers or following traditional recipes that use pounds and ounces."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:44:08.419000+00:00",
     "dateModified": "2025-08-22T23:44:08.419000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

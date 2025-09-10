@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-plain-flour"
-  },
+        },
         "headline": "Quick Guide: Convert 2.75 Cups of Plain Flour to Grams",
         "description": "Learn how to convert 2.75 cups of plain flour to grams for perfect baking results every time. Get precise measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T16:03:13.440Z",
         "dateModified": "2025-07-28T16:03:13.440Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-plain-flour.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While UK and US cup measurements are slightly different, the variance for plain flour is negligible. 2.75 cups of plain flour equals roughly 344 grams in both systems. For air fryer recipes, using a kitchen scale in grams ensures consistency regardless of location."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use self-raising flour instead of plain flour for this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Self-raising flour includes baking powder, so substituting it for plain flour will alter the recipe’s rise. If you must swap, reduce added leavening agents. However, 2.75 cups of self-raising flour still converts to about 344 grams, though the texture may differ."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer baking turn out dry or dense?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Over-measuring flour is a common culprit. If you’ve converted 2.75 cups of plain flour to grams (344g) but the results are off, check your measuring technique. Air fryers also cook faster, so reducing time or temperature slightly may help."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store plain flour for long-term use?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Keep plain flour in an airtight container in a cool, dry place to prevent moisture absorption or pests. For extended storage, freeze it. Properly stored flour ensures accurate measurements, whether you’re using 2.75 cups or scaling recipes for your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T16:03:13.440000+00:00",
     "dateModified": "2025-07-28T16:03:13.440000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-plain-flour"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

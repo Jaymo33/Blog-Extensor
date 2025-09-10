@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-blueberries"
-  },
+        },
         "headline": "Quick Guide: Convert 275 Grams of Blueberries to Cups Easily",
         "description": "Learn how to convert 275 grams of blueberries to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:31:11.849Z",
         "dateModified": "2025-07-26T21:31:11.849Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-blueberries.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not exactly. 275 grams of blueberries equals about 2.2 UK cups or 2.3 US cups when measured loosely. The slight difference comes from varying cup sizes between measurement systems. For air fryer recipes, it's best to use grams for precision."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I measure 275 grams of blueberries without scales?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have kitchen scales, lightly fill your measuring cup with blueberries without packing them down. 275 grams equals roughly 2 heaping UK cups. However, for air fryer recipes where precision matters, we recommend investing in digital scales for the most accurate results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use frozen blueberries instead of fresh for 275 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute frozen blueberries in the same 275 gram quantity. Just note they may release more liquid during cooking in your air fryer. You might need to adjust cooking times slightly and possibly add a minute or two to account for the extra moisture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do my air fryer recipes with 275g blueberries come out soggy?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sogginess usually means either too many blueberries or overcrowding in the air fryer basket. Even with the correct 275 gram measurement, ensure berries are spread evenly. Tossing them in a bit of flour first can help absorb excess moisture during cooking. Also check your air fryer's temperature accuracy."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.849000+00:00",
     "dateModified": "2025-07-26T21:31:11.849000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-blueberries"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

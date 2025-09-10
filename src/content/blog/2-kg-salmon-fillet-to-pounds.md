@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-salmon-fillet-to-pounds"
-  },
+        },
         "headline": "Easy 2 kg salmon fillet to pounds conversion for air fryer cooking",
         "description": "Convert 2 kg salmon fillet to pounds instantly for perfect air fryer recipes. Get accurate measurements and cooking tips for delicious results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-salmon-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 2 kg salmon fillet, which converts to approximately 4.41 pounds, typically serves 8-10 people as a main course. This estimate is based on standard portion sizes of 150-200 grams (5-7 ounces) per person. The exact number of servings can vary depending on appetite levels, what other dishes you're serving, and whether the salmon is boneless or bone-in."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I adjust air fryer cooking time for a 2 kg salmon fillet?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you should absolutely adjust cooking time when working with a 2 kg salmon fillet in your air fryer. Due to its size (approximately 4.41 pounds), you'll likely need to cut it into smaller portions that fit your air fryer basket. For best results, divide the fillet into 2-3 pieces and cook at 200°C for 12-18 minutes, checking for doneness with a meat thermometer. The internal temperature should reach 63°C for perfectly cooked salmon."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 2 kg salmon fillet whole in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most standard home air fryers cannot accommodate a whole 2 kg salmon fillet (approximately 4.41 pounds) due to basket size limitations. The fillet would need to be cut into smaller portions that fit comfortably with space for air circulation. Some larger countertop oven-style air fryers might handle a whole fillet, but always check your specific model's capacity before attempting. Dividing the salmon ensures even cooking and proper crisping of the skin."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover cooked salmon from a 2 kg fillet?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store leftover cooked salmon in an airtight container in the refrigerator for up to 3 days. For longer storage, freeze portions in freezer-safe containers or bags for up to 3 months. When reheating, use your air fryer at a lower temperature (around 160°C) for 3-5 minutes to restore crispness without overcooking. Always ensure the salmon is thoroughly reheated to 63°C before consuming."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-salmon-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

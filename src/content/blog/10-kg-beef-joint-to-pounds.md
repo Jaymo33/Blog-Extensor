@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-beef-joint-to-pounds"
-  },
+        },
         "headline": "Easy 10 kg Beef Joint to Pounds Conversion Guide",
         "description": "Convert 10 kg beef joint to pounds instantly with our simple guide. Perfect for air fryer cooking and recipe adjustments. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-beef-joint-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversion"
-  },
+        },
         "articleSection": "Conversion",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 10 kg beef joint to pounds accurately, multiply the kilogram value by 2.20462. This gives you 22.046 pounds, which is typically rounded to 22 pounds for practical cooking purposes. The conversion is straightforward and ensures you have the correct weight for following recipes or planning portions.\n\nFor air fryer cooking, this accuracy is crucial as cooking times depend heavily on weight. Always use a reliable digital scale if possible, and remember that boneless and bone-in joints may have slight variations in effective cooking weight due to bone mass."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 10 kg beef joint in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking a full 10 kg beef joint in a standard home air fryer is challenging due to size constraints. Most domestic air fryers have limited capacity, so it's better to divide the joint into smaller portions that fit comfortably in the basket. This ensures proper air circulation and even cooking.\n\nIf you have a large or commercial-style air fryer, you might accommodate bigger cuts, but always check the manufacturer's guidelines. Cooking in batches allows for better control over doneness and prevents overcrowding, which can lead to uneven results. For large cuts, consider using your oven or slow cooker for the initial cook and finishing in the air fryer for crisping."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if the beef joint is bone-in?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion from 10 kg beef joint to pounds remains the same regardless of whether the joint is bone-in or boneless. The weight measurement includes the bone, so 10 kg always converts to approximately 22 pounds. However, bone-in joints may require slightly longer cooking times as the bone can slow heat penetration.\n\nWhen planning cooking times, account for the bone's presence by adding extra minutes per pound or using a meat thermometer to check internal temperature. For air fryer cooking, bone-in joints might need rotation or positioning adjustments to ensure all parts cook evenly. Always rest the meat after cooking to allow juices to redistribute."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find recipes for cooking a large beef joint in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find recipes for cooking large beef joints in an air fryer on dedicated cooking websites like airfryerrecipe.co.uk. Our beef category offers a variety of recipes tailored for air fryers, including tips for adjusting times and temperatures for different sizes. These recipes often include conversion guidelines and step-by-step instructions.\n\nAdditionally, many food blogs and video platforms feature air fryer beef joint recipes shared by home cooks. Look for recipes that specify weight ranges and cooking methods suitable for your air fryer model. Experimenting with herbs, marinades, and cooking techniques can help you achieve delicious results with your converted 10 kg beef joint."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-beef-joint-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

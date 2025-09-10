@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-yeast"
-  },
+        },
         "headline": "Quick Guide: Convert 30g of Yeast to Ounces Easily",
         "description": "Learn how to convert 30g of yeast to ounces for perfect baking every time. Get accurate measurements and handy tips for air fryer recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-yeast.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute 30g of fresh yeast for dry yeast, but you'll need to adjust the quantity. Generally, 30g fresh yeast equals about 10g of active dry yeast or 7g of instant yeast. The different types have varying potency, so adjustments are needed for equivalent rising power."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long will dough made with 30g of yeast take to rise in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "In an air fryer, dough made with 30g of yeast will typically rise faster than in traditional methods due to the enclosed warm environment. First rise usually takes about 30-45 minutes, while the second rise before cooking may only need 15-20 minutes. Always watch for doubled volume rather than timing alone."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 30g of yeast too much for a standard air fryer recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "30g of yeast is quite a large quantity for most air fryer recipes unless you're making multiple batches. Most air fryer bread recipes use 7-15g of yeast due to smaller batch sizes. If adapting an oven recipe calling for 30g, consider halving the quantities to suit your air fryer's capacity."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I tell if my 30g of yeast is still active before baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To test yeast activity, dissolve a small amount of your 30g portion in warm water (about 40°C) with a pinch of sugar. Active yeast will foam and bubble within 5-10 minutes. If no reaction occurs, your yeast may be dead and won't leaven your dough properly, especially in air fryer baking where rise time is limited."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-yeast"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

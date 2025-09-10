@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-crushed-garlic"
-  },
+        },
         "headline": "Quick Answer: 0.5 tbsp crushed garlic to grams conversion",
         "description": "Discover how many grams are in 0.5 tbsp of crushed garlic with our easy UK conversion guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-crushed-garlic.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute minced garlic for crushed garlic in air fryer recipes. The conversion remains the same - 0.5 tbsp of minced garlic also equals about 7 grams. However, minced garlic tends to be slightly denser, so you might want to reduce the quantity slightly if you prefer milder garlic flavour."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the weight of fresh garlic compare to jarred crushed garlic?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Freshly crushed garlic and jarred crushed garlic have similar weights, with 0.5 tbsp of both measuring approximately 7 grams. However, jarred garlic often contains preservatives that can slightly alter the flavour. For best results in air fryer cooking, fresh garlic is recommended, but jarred works fine in a pinch."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air fryer garlic taste bitter sometimes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Bitterness usually occurs when garlic burns in the air fryer's intense heat. Using the correct amount (0.5 tbsp/7g) helps prevent this. Also, try adding garlic later in the cooking process or mixing it with oil to create a protective coating. Lower temperatures and shorter cooking times can also preserve garlic's sweet, aromatic qualities."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I measure 0.5 tbsp of crushed garlic without proper measuring spoons?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have measuring spoons, you can estimate 0.5 tbsp (7g) of crushed garlic as roughly half a standard UK tablespoon or about one level dessert spoon. Alternatively, one medium garlic clove, when crushed, yields approximately this amount. For precision in air fryer recipes, investing in basic measuring tools is worthwhile."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-crushed-garlic"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

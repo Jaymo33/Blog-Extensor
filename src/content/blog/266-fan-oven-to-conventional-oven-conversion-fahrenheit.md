@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/266-fan-oven-to-conventional-oven-conversion-fahrenheit"
-  },
+        },
         "headline": "Quick 266 Fan Oven to Fahrenheit Conversion Guide for Perfect Baking",
         "description": "Learn how to convert 266 fan oven to Fahrenheit for conventional ovens with our easy guide. Get perfect results every time with precise temperature adjustments.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-25T17:54:48.885Z",
         "dateModified": "2025-07-25T17:54:48.885Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/266-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Air fryers typically use similar temperatures to fan ovens. For a 266°F fan oven setting, you can use the same temperature in your air fryer. However, since air fryers cook faster, reduce the cooking time by about 20% compared to fan oven recipes.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 266 fan oven conversion for baking cakes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Yes, the 266°F fan to 300°F conventional conversion works well for cakes. However, for delicate sponges, consider reducing the temperature a further 10°F in the air fryer to prevent over-browning. Check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cake recipes</a> for specific air fryer adaptations.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my food cook differently at 266 fan vs conventional 300?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>The difference comes from heat distribution. Fan ovens circulate air constantly, cooking food more evenly and quickly. Conventional ovens have hotter and cooler spots, requiring higher temperatures to achieve similar results. Air fryers intensify this effect with their compact size and powerful fans.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I clean my air fryer after cooking at 266°F?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>After cooking at any temperature, including 266°F, always cool your air fryer before cleaning. Use our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning methods</a> to remove grease and food particles. Regular maintenance ensures accurate temperature performance for future conversions.</p>"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-25T17:54:48.885000+00:00",
     "dateModified": "2025-07-25T17:54:48.885000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/266-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

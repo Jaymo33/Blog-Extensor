@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-broccoli"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 250 Grams of Broccoli?",
         "description": "Find out exactly how many cups 250 grams of broccoli equals for perfect air fryer recipes every time. Get cooking conversions now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:31:13.697Z",
         "dateModified": "2025-07-26T21:31:13.697Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-broccoli.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, frozen broccoli often contains more water and may compact differently when thawed. For 250 grams of frozen broccoli, measure after thawing and draining to get an accurate cup equivalent—usually slightly less volume than fresh."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 250 grams of broccoli make in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "250 grams of broccoli (about 2.5–3 cups) typically serves 2 as a side dish or 1 as a main with other ingredients. For larger portions, scale up while ensuring your air fryer isn’t overcrowded for optimal crispiness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use cup measurements for all air fryer broccoli recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While cups work for most recipes, weight (grams) is more precise, especially for baking or sauces. If a recipe specifies 250 grams of broccoli, using cups may vary slightly based on how you chop it. When in doubt, weigh for consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my 250 grams of broccoli sometimes cook unevenly in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Uneven cooking often stems from uneven chopping or overcrowding. Cut florets to similar sizes and cook 250 grams (2.5–3 cups) in a single layer. Shake the basket midway to ensure all pieces crisp evenly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:13.697000+00:00",
     "dateModified": "2025-07-26T21:31:13.697000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-broccoli"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

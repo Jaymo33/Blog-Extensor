@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rice"
-  },
+        },
         "headline": "Quick Answer: How Many Ounces is 1.33 Cups of Rice?",
         "description": "Find out exactly how many ounces 1.33 cups of rice weighs for perfect air fryer cooking every time. Simple UK conversion guide inside.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the type of rice does make a small difference. The standard conversion of 1.33 cups to approximately 10.64 ounces is based on long-grain white rice. However, denser rice varieties like short-grain or brown rice can weigh slightly more for the same volume because the grains pack together more tightly. For ultimate precision, especially in baking, it's always best to check the packaging or use a kitchen scale for your specific type of rice."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I measure 1.33 cups of rice cooked or uncooked for the ounce conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This conversion is always for uncooked rice. Rice expands significantly during cooking, typically doubling or even tripling in volume. Therefore, 1.33 cups of uncooked rice will yield a much larger amount of cooked rice. If a recipe calls for a weight of cooked rice, it will specify that separately. For accurate air fryer results, always start your measurements with the uncooked product."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is weighing rice better than using cup measurements for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weighing rice is far more accurate than using cups because it removes variables like how tightly the rice is packed into the cup or the specific shape of the grains. Air fryers rely on precise cooking times and temperatures, and an inaccurate measurement can throw off the entire process, leading to undercooked or overcooked rice. A digital scale ensures perfect consistency and reliability in every recipe you make."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I don't have a scale. How can I accurately measure 1.33 cups of rice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a scale, the best way to measure is to use a proper dry measuring cup. Use a spoon to gently fill the cup with rice until it's heaping, and then level it off with the straight back of a knife. Do not tap the cup or pack the rice down. For 1.33 cups, measure one full cup and then just under a third of another cup. For the most reliable results, especially with air fryer recipes, investing in an inexpensive digital scale is highly recommended."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

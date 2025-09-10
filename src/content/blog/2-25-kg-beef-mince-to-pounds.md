@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-beef-mince-to-pounds"
-  },
+        },
         "headline": "Easy 2.25 kg Beef Mince to Pounds Conversion Guide",
         "description": "Convert 2.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer recipes every time with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-beef-mince-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "2.25 kg of beef mince is exactly 4.960395 pounds, though it's commonly rounded to 4.96 pounds for practical use. This conversion uses the standard factor where 1 kilogram equals approximately 2.20462 pounds. For most cooking purposes, especially in air fryer recipes, rounding to 5 pounds is close enough, but for precision, stick to 4.96 pounds."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert 2.25 kg beef mince to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 2.25 kg beef mince to pounds ensures you use the correct amount for air fryer recipes, which often specify weights to control cooking time and portion size. Air fryers rely on even hot air circulation, and accurate measurements prevent overcrowding or underfilling the basket. This leads to better texture, doneness, and overall meal quality, making the conversion a key step for success."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 2.25 kg beef mince directly in pounds without converting?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you could use 2.25 kg directly if your recipe uses metric units, many recipes—especially from American sources—use pounds. Converting to pounds (approximately 4.96 lbs) helps you follow these recipes accurately and avoid measurement errors. If your kitchen scale has pound units, switching makes it easier to portion and cook without mental math, ensuring consistent results in your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store 2.25 kg of beef mince after converting to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After converting 2.25 kg beef mince to pounds (about 4.96 lbs), divide it into meal-sized portions before storing. Wrap each portion tightly in cling film or freezer bags, label with the date and weight, and freeze for up to three months. Thaw in the refrigerator before using in your air fryer to ensure even cooking and maintain food safety. Proper storage keeps the mince fresh and ready for your next air fryer creation."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-beef-mince-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

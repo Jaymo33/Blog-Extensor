@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-beef-joint-to-pounds"
-  },
+        },
         "headline": "Quick 2.5 kg Beef Joint to Pounds Conversion Guide",
         "description": "Convert 2.5 kg beef joint to pounds instantly. Get perfect air fryer cooking times and temperatures for your roast every single time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-beef-joint-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 2.5 kg beef joint is exactly 5.51155 pounds, but for practical cooking purposes, it is typically rounded to 5.51 pounds. This conversion uses the standard rate where 1 kilogram equals 2.20462 pounds. When preparing your joint for the air fryer, using 5.5 pounds as a guide is perfectly acceptable for calculating cooking time and temperature."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer recipes and appliance presets use pounds rather than kilograms, especially those from American sources or older UK cookbooks. Converting ensures you select the correct cooking time and temperature, which is crucial because air fryers cook faster than conventional ovens. An inaccurate weight could lead to undercooked or overcooked meat, wasting a good cut of beef."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a frozen 2.5 kg beef joint in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is not recommended to cook a frozen 2.5 kg beef joint directly in the air fryer. The exterior may cook too quickly while the interior remains frozen, leading to uneven results and potential food safety issues. Always fully thaw the joint in the refrigerator first, then bring it to room temperature before air frying for the best and safest outcome."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long do I cook a 2.5 kg beef joint in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a 2.5 kg beef joint (approximately 5.51 pounds), cook at 180°C for about 20 minutes per pound for medium-rare, which totals around 110 minutes. However, cooking times can vary based on your air fryer model and desired doneness. Always use a meat thermometer to check the internal temperature, aiming for 57°C for medium-rare, and let the meat rest before carving."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-beef-joint-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

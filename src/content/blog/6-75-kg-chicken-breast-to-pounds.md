@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 6.75 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 6.75 kg chicken breast to pounds easily for perfect air fryer meal prep. Get accurate measurements and cooking tips in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-75-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 6.75 kg chicken breast to pounds is crucial for air frying because it helps you portion the chicken correctly for your appliance's basket capacity. Overloading the basket can lead to uneven cooking, with some pieces underdone and others overcooked. Knowing the weight in pounds allows you to calculate how many batches you need, ensuring each piece cooks evenly and comes out perfectly crispy and juicy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for other types of chicken, like thighs or wings?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion factor from kilograms to pounds is the same regardless of the cut of chicken. Whether you're working with breast, thighs, wings, or drumsticks, 1 kilogram always equals approximately 2.20462 pounds. So 6.75 kg of any chicken part converts to about 14.88 pounds. However, remember that cooking times may vary between cuts due to differences in fat content and thickness, so adjust your air fryer settings accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 6.75 kg chicken breast to pounds if I don't have a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A quick mental approximation is to multiply the kilograms by 2.2, which gives you 14.85 pounds—very close to the exact 14.88 pounds. For everyday cooking, this approximation is perfectly adequate. If you need more precision, remember that 0.75 kg is three-quarters of a kilogram, and since 1 kg is about 2.2 pounds, 0.75 kg is roughly 1.65 pounds. Adding that to 6 kg (13.2 pounds) gets you 14.85 pounds. Keeping a conversion chart on your fridge or bookmarking one on your phone can also be helpful."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if I'm using US pounds versus UK pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, both the US customary pound and the UK imperial pound are defined as exactly 0.45359237 kilograms, so the conversion is identical. When you convert 6.75 kg chicken breast to pounds, you get approximately 14.88 pounds regardless of your location. This standardization makes it easy to follow recipes from different countries without confusion. The only time you might encounter a different pound measurement is in very historical contexts, but for modern cooking and air frying, you can rely on this consistent conversion."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

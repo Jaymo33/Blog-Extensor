@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-0-kg-to-pounds"
-  },
+        },
         "headline": "Quick 2.0 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 2.0 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-0-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not quite exactly, but it is incredibly close for all practical cooking purposes. The precise conversion of 2.0 kilograms to pounds is 4.409245 pounds. Rounding this to 4.4 pounds introduces a minuscule error of less than 0.01 pounds, which is completely negligible when weighing ingredients for your air fryer. You can confidently use 4.4 pounds as the equivalent for 2.0 kg in any recipe."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some UK recipes use kg and others use pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The UK uses a fascinating mix of metric and imperial measurements, often referred to as "metrication." Officially, the UK adopted the metric system, which is why weights on packaged food are almost always in grams and kilograms. However, many traditional cookbooks, older recipes, and everyday speech still use imperial units like pounds and ounces for weight. This is why knowing how to convert 2.0 kg to pounds is so handy—it allows you to seamlessly use recipes from any source or era with your modern air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 2.0 kg to pounds and ounces for a recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert the total weight to pounds. 2.0 kg is approximately 4.409 pounds. The whole number is 4 pounds. To find the ounces, take the decimal part (0.409) and multiply it by 16 (since there are 16 ounces in a pound). So, 0.409 x 16 = 6.544 ounces. You can round this to 6.5 ounces for simplicity. Therefore, 2.0 kg is roughly 4 pounds and 6.5 ounces. For air frying, this precise level of detail is rarely necessary, as cooking is more forgiving than baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My air fryer manual lists capacity in pounds, how much is 2.0 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your air fryer manual states its capacity in pounds, converting 2.0 kg will tell you if your ingredients will fit. 2.0 kg is equivalent to approximately 4.4 pounds. You should always check this against your model's maximum capacity, which is often listed for reference. It is crucial to never exceed your air fryer's recommended capacity, as overcrowding prevents proper air circulation and leads to poorly cooked food. Always leave some space around the food for the hot air to flow effectively."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-0-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

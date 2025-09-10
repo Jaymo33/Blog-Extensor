@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Quick 7 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 7 kg whole chicken to pounds instantly. Get perfect air fryer cooking times and temperatures with our easy weight conversion guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 7 kg whole chicken to pounds accurately, multiply 7 by 2.20462, which gives you approximately 15.43 pounds. For most cooking purposes, rounding to 15.4 pounds is perfectly acceptable. The exact conversion factor accounts for the difference between metric and imperial measurement systems. This precision ensures your air fryer cooking times and temperatures will be correct for a perfectly cooked chicken."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can my air fryer handle a 7 kg whole chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most standard home air fryers cannot accommodate a 7 kg whole chicken (approximately 15.4 pounds) due to size constraints. The average air fryer basket typically fits chickens up to 4-5 kg maximum. For a 7 kg bird, you would need an extra-large capacity air fryer oven or consider spatchcocking (butterflying) the chicken to reduce its profile. Always check your specific air fryer's maximum weight capacity before attempting to cook such a large chicken."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to cook a 7 kg whole chicken in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 7 kg whole chicken (approximately 15.4 pounds) would require about 90-120 minutes in an air fryer at 180°C, depending on your specific model. However, most home air fryers cannot accommodate a chicken this large. If using an extra-large capacity air fryer, always use a meat thermometer to check for doneness rather than relying solely on time. The internal temperature should reach 75°C in the thickest part of the thigh."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert chicken weights from kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting chicken weights from kilograms to pounds is necessary because many air fryer cooking guides and recipes use imperial measurements. Cooking times and temperatures are typically based on pound measurements, so accurate conversions ensure proper cooking. Additionally, some older recipes and American sources use pounds exclusively. Understanding both measurement systems makes you more versatile in the kitchen and helps achieve perfect results with your air fryer recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

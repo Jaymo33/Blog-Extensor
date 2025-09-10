@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/22-8-kg-to-pounds"
-  },
+        },
         "headline": "Quick 22.8 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 22.8 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for your favourite recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/22-8-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting weights like 22.8 kg to pounds is essential for air fryer cooking because many recipes, especially those from the US, use imperial measurements. Your air fryer's performance is highly dependent on the weight of the food inside; accurate portions ensure even cooking, proper crisping, and prevent over or underloading the basket. Knowing the exact pound equivalent helps you follow cooking times and temperatures precisely for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 22.8 kg to US pounds the same as imperial pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for all practical purposes in cooking, the US pound and the imperial pound are the same unit of measurement. Both are defined as exactly 0.45359237 kilograms, so the conversion from 22.8 kg to pounds is identical whether you are referring to US or imperial pounds. You can confidently use the same conversion factor of 2.20462 without any adjustment for your culinary needs."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I easily convert other weights like 22.8 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A simple rule of thumb is to remember that 1 kilogram is roughly equal to 2.2 pounds. For a quick mental calculation for 22.8 kg, you could multiply 22 by 2.2 to get 48.4, and then 0.8 by 2.2 to get 1.76, and add them together for a total of approximately 50.16 pounds. For absolute precision, especially with larger quantities, using a trusted online converter or a calculator is always recommended to ensure recipe accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I have 22.8 kg of chicken thighs. How should I cook this in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "With a large quantity like 22.8 kg (approximately 50 pounds), it is crucial to cook in batches to avoid overcrowding your air fryer basket. Overcrowding leads to steam instead of crisp air frying. For chicken thighs, a good starting point is 200°C for 20-25 minutes per batch, flipping halfway through, until the internal temperature reaches 75°C. You can find specific recipes and timings for different cuts in our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipe category</a>."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/22-8-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

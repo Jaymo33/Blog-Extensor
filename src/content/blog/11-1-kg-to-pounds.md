@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-1-kg-to-pounds"
-  },
+        },
         "headline": "Quick 11.1 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 11.1 kg to pounds instantly for perfect air fryer meal prep. Get accurate weights for recipes, shopping, and portion control with our easy guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:08:58.382Z",
         "dateModified": "2025-08-20T17:08:58.382Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/11-1-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 11.1 kg to pounds is crucial for air frying because recipes and appliance guidelines are often based on weight for accurate cooking times and temperatures. Using the correct weight ensures your food cooks evenly, gets crispy instead of soggy, and reaches a safe internal temperature. A misjudged weight can lead to undercooked or overcooked meals, wasting food and effort."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 11.1 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 11.1 kg is quite a large weight for a single air fryer load, it's a very common weight for bulk buying or large cuts of meat. You might see a whole turkey, a large gammon joint, or a big family pack of frozen food labelled around this weight. You'd typically portion this larger amount into several batches to cook properly in your air fryer, making the conversion from 11.1 kilograms to pounds essential for planning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the easiest way to convert 11.1 kg to lbs without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The easiest way to get a good estimate without a calculator is to remember that 1 kg is roughly 2.2 lbs. So, for 11.1 kg, you can multiply 11 by 2.2 to get 24.2, and then add 0.1*2.2 (0.22) to get approximately 24.42 pounds. This is very close to the exact 24.47 pounds and is perfectly adequate for most kitchen purposes where a precise digital scale will give you the final amount to use."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My air fryer manual uses pounds, but my recipe uses kg. How do I adjust the time?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, accurately convert the recipe's weight from kg to pounds, so for 11.1 kg you know you're working with 24.47 lbs. Air fryer cooking times are generally based on weight, so if your manual has a guide for a 25 lb turkey, you can use that as a very close starting point for your 24.47 lb item. Always use a meat thermometer to check for doneness rather than relying solely on time, as all appliances vary slightly. The internal temperature is the true indicator that your food is perfectly cooked and safe to eat."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:08:58.382000+00:00",
     "dateModified": "2025-08-20T17:08:58.382000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-1-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

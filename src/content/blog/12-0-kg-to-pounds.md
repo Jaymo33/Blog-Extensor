@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/12-0-kg-to-pounds"
-  },
+        },
         "headline": "Quickly Convert 12.0 kg to Pounds for Air Fryer Cooking",
         "description": "Easily convert 12.0 kg to pounds for perfect air fryer meal prep. Get accurate results and cooking tips in seconds for better results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:08:58.382Z",
         "dateModified": "2025-08-20T17:08:58.382Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/12-0-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 12.0 kg to pounds is essential for air frying because many recipes and food packaging use different measurement systems. Accurate weight conversion ensures you use the correct amount of ingredients, which directly affects cooking time and temperature settings. This precision leads to better cooking results and prevents under or overcooking your food."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a simple way to remember the conversion from kilograms to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A simple rule of thumb is that 1 kilogram is approximately equal to 2.2 pounds. For a more precise conversion, remember that 1 kg equals 2.20462 pounds. While the approximation works for quick estimates, using the exact conversion factor is better for cooking accuracy, especially when working with specific air fryer recipes that require precise measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weight for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's not recommended to use volume measurements instead of weight for air fryer recipes. Weight measurements are much more accurate because they aren't affected by how ingredients are packed or their density. Using weight ensures consistent results, which is particularly important for air frying where even cooking relies on precise ingredient amounts and proper air circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 12.0 kg to pounds help with meal prepping for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 12.0 kg to pounds helps with meal prepping by allowing you to accurately portion ingredients for multiple air fryer meals. Knowing the exact weight in pounds helps you divide large packages into appropriate serving sizes, ensuring consistent cooking results across different batches. This is especially useful when preparing freezer meals or planning ahead for busy weeks."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:08:58.382000+00:00",
     "dateModified": "2025-08-20T17:08:58.382000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/12-0-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/1-9-kg-to-pounds"
-  },
+        },
         "headline": "Quick 1.9 kg to Pounds Conversion for Your Air Fryer",
         "description": "Convert 1.9 kg to pounds instantly for perfect air fryer portions. Get easy measurements and cooking tips for delicious results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-9-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 1.9 kg to pounds is essential for air frying because many recipes and packaging use different measurement systems. Knowing that 1.9 kg equals approximately 4.19 pounds helps you portion ingredients correctly, ensuring your air fryer isn't overloaded. Proper portions allow for optimal air circulation, which is key to achieving crispy, evenly cooked results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 1.9 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 1.9 kg is a very common weight for family-sized packs of meat, vegetables, or frozen foods. For example, a pack of chicken breasts or a bag of potatoes often weighs around 1.9 kg. Converting this to pounds (about 4.19) helps you decide if it will fit in your air fryer basket or if you need to cook in batches. This is especially useful for meal prepping or cooking for larger groups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use cups instead of converting 1.9 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "We don't recommend using cups for converting 1.9 kg to pounds because weight measurements are far more accurate. Cups measure volume, which varies greatly with different ingredients—for example, 1 cup of flour weighs less than 1 cup of sugar. For air frying, precision is crucial to avoid under or overcooking. Always use a kitchen scale for the best results, especially with a specific weight like 1.9 kg."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 1.9 kg to pounds and ounces for smaller portions?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 1.9 kg to pounds and ounces, first convert to pounds (1.9 kg × 2.20462 = 4.18878 lbs). The whole number is 4 pounds. Multiply the decimal (0.18878) by 16 to get ounces—approximately 3 ounces. So, 1.9 kg is about 4 pounds and 3 ounces. This is helpful for dividing into smaller, uniform portions for air fryer recipes like meatballs or stuffed vegetables."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/1-9-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

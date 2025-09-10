@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/31-kg-to-pounds"
-  },
+        },
         "headline": "Easy 31 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 31 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T22:25:08.238Z",
         "dateModified": "2025-08-21T22:25:08.238Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/31-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "31 kg equals exactly 68.34322 pounds when using the standard conversion factor of 1 kilogram equals 2.20462 pounds. For most practical cooking purposes, you can round this to 68.34 pounds without significantly affecting your recipes. This precision is helpful when you need accurate measurements for portion control or nutritional calculations.\n\nWhen working with your air fryer, this level of accuracy ensures consistent results batch after batch, especially when preparing larger quantities of food. Whether you're meal prepping or cooking for a crowd, knowing the exact conversion helps you plan your portions perfectly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 31 kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 31 kg to pounds is useful when you purchase ingredients in bulk or follow recipes that use different measurement systems. Many wholesale clubs and butchers sell larger quantities in kilograms, while most air fryer recipes use pounds or ounces. Knowing that 31 kg equals approximately 68.34 pounds helps you portion ingredients properly for your air fryer basket.\n\nProper portioning is crucial for air fryer success because overcrowding can lead to uneven cooking and soggy results. Whether you're preparing 31 kg of chicken wings, vegetables, or frozen foods, accurate conversions ensure each batch cooks perfectly crispy and delicious."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between US pounds and imperial pounds when converting 31 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For practical cooking purposes, there is no significant difference between US pounds and imperial pounds when converting 31 kg. Both measurement systems use the same pound definition for weight measurements, so 31 kg will convert to approximately 68.34 pounds regardless of which system you're using. The tiny historical differences between measurement systems are negligible for kitchen conversions.\n\nThis consistency makes converting 31 kg to pounds straightforward whether you're using British recipes or international sources. Your air fryer doesn't care about the slight historical variations—it just needs properly measured ingredients for the best cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I quickly convert 31 kg to pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a quick mental conversion of 31 kg to pounds, you can use the approximation of 1 kg equals 2.2 pounds. Multiplying 31 by 2.2 gives you 68.2 pounds, which is very close to the exact conversion of 68.34 pounds. This approximation is accurate enough for most cooking purposes and easy to calculate in your head.\n\nIf you need more precision, remember that each additional 0.1 kg adds about 0.22 pounds. Keeping a simple conversion chart on your refrigerator or using a kitchen scale with unit conversion features can make these calculations even easier while you're cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/31-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

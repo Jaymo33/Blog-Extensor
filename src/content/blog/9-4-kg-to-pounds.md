@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-4-kg-to-pounds"
-  },
+        },
         "headline": "Quick 9.4 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 9.4 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes today.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T16:05:32.623Z",
         "dateModified": "2025-08-20T16:05:32.623Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-4-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 9.4 kg to pounds is essential for air fryer cooking because most recipes and appliance manuals use imperial measurements for portion sizes. Knowing that 9.4 kg is roughly 20.7 pounds helps you avoid overloading the basket, which is crucial for proper air circulation. Overcrowding leads to uneven cooking and soggy food, so accurate conversion ensures perfectly crispy results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 9.4 kg to imperial pounds the same as US pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for all practical purposes in cooking, the imperial pound and the US pound are identical. Both units are defined as exactly 0.45359237 kilograms, so the conversion of 9.4 kg to pounds is the same whether you are in the UK or the US. You will get the same result of approximately 20.72 pounds, making it a universal conversion for recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I quickly estimate 9.4 kg in pounds without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A handy rule of thumb is to remember that 1 kilogram is approximately 2.2 pounds. To estimate 9.4 kg in pounds, you can multiply 9.4 by 2.2, which gives you 20.68 pounds—very close to the precise answer. This quick mental math is perfectly accurate enough for portioning ingredients and planning your air fryer batches without needing any tools."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My air fryer recipe uses ounces; how do I convert 9.4 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert 9.4 kg to pounds, which is 20.7235 pounds. The whole number is 20 pounds. To find the ounces, take the decimal part (0.7235) and multiply it by 16, which equals approximately 11.576 ounces. Therefore, 9.4 kg is about 20 pounds and 11.6 ounces. This level of precision is useful for baking or very specific recipes but is often unnecessary for general air frying."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T16:05:32.623000+00:00",
     "dateModified": "2025-08-20T16:05:32.623000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-4-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

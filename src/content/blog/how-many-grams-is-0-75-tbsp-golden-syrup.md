@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-golden-syrup"
-  },
+        },
         "headline": "Quick Conversion: 0.75 tbsp Golden Syrup to Grams UK",
         "description": "Discover how many grams are in 0.75 tbsp of golden syrup with our easy UK conversion guide. Perfect for air fryer recipes!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T22:47:35.785Z",
         "dateModified": "2025-08-04T22:47:35.785Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-golden-syrup.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute honey for golden syrup in most air fryer recipes. Use the same weight (15g for 0.75 tbsp) as they have similar sweetness and viscosity. Note that honey has a stronger flavour, so it may alter the taste slightly. For glazes or sticky bakes, the results will be very similar."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does golden syrup weight matter in air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Golden syrup weight matters because air fryers cook food quickly at high heat. Too much syrup can cause burning or uneven cooking, while too little may leave dishes dry. Grams provide precision, ensuring consistent results. This is especially important for recipes where syrup acts as both sweetener and moisture source."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert other golden syrup amounts to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For other conversions, remember that 1 tbsp golden syrup equals 20g. Multiply or divide accordingly – e.g., 1.5 tbsp would be 30g. For small amounts like 0.5 tbsp, use 10g. Always use a digital scale for the most accurate measurements, especially in air fryer baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does golden syrup behave differently in an air fryer versus an oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Golden syrup reacts similarly in air fryers and ovens, but air fryers’ intense circulating heat means it caramelises faster. Reduce cooking times slightly when using syrupy glazes. Watch closely to prevent burning, as 0.75 tbsp can go from golden to burnt quickly in an air fryer’s concentrated heat."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-golden-syrup"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-chicken-breast"
-  },
+        },
         "headline": "Quick Guide: Convert 475 Grams of Chicken Breast to Cups Easily",
         "description": "Learn how to measure 475 grams of chicken breast in cups for perfect air fryer recipes every time. Get accurate conversions now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T22:50:31.205Z",
         "dateModified": "2025-07-26T22:50:31.205Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-chicken-breast.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, cooked chicken breast shrinks slightly due to moisture loss. While 475 grams of raw chicken breast equals about 2.5 cups, the cooked volume will be slightly less. Always measure raw chicken for the most accurate results in recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for frozen chicken breast?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but ensure the chicken is fully thawed and drained before measuring. Frozen chicken can contain ice crystals that affect weight and volume. For best results, thaw in the fridge overnight before converting grams to cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 475 grams of chicken breast make?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This depends on the recipe and portion size. Typically, 475 grams serves 2-3 people as a main dish or 4-5 in a mixed meal. Check portion guides in our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for specific serving suggestions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is measuring by weight more accurate than cups for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, weighing ingredients with a kitchen scale is always more precise than volume measurements like cups. However, our cup conversion for 475 grams of chicken breast provides a handy alternative when scales aren't available. For consistent results, we recommend using both methods when possible."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:31.205000+00:00",
     "dateModified": "2025-07-26T22:50:31.205000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-chicken-breast"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

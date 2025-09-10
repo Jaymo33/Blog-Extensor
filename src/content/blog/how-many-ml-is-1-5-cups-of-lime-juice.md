@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-lime-juice"
-  },
+        },
         "headline": "Quick Conversion: How Many ml Is 1.5 Cups of Lime Juice?",
         "description": "Convert 1.5 cups of lime juice to ml effortlessly with our precise guide. Perfect for air fryer recipes and baking accuracy.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T21:44:47.476Z",
         "dateModified": "2025-07-28T21:44:47.476Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-5-cups-of-lime-juice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, bottled and fresh lime juice measure the same in millilitres since volume isn't affected by freshness. However, bottled juice often has a more consistent acidity level, while fresh lime juice may vary slightly in tartness. For air fryer recipes where precision matters, either works as long as you measure 355 ml for 1.5 cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many limes do I need for 1.5 cups (355 ml) of juice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You'll need about 12-15 medium limes to yield 1.5 cups (355 ml) of juice, depending on their size and juiciness. Persian limes, commonly found in UK supermarkets, average 30 ml per fruit. Roll limes firmly before cutting and juicing to maximise yield—perfect for air fryer marinades or dressings."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute lemon juice for lime juice in the same ml quantity?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can substitute lemon juice at a 1:1 ratio (355 ml lemon juice for 355 ml lime juice), the flavour profile will differ. Lemon juice is slightly sweeter and less floral than lime. For air fryer recipes where acidity matters (like ceviche-style dishes), this swap works, but adjust other seasonings accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do some recipes list lime juice in grams instead of ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Grams measure weight, while ml measure volume. Lime juice weighs about 1.04 grams per ml, so 355 ml equals roughly 369 grams. Professional recipes often use weight for precision, especially in baking. For air fryer cooking, ml measurements are typically sufficient unless making delicate items like macarons."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T21:44:47.476000+00:00",
     "dateModified": "2025-07-28T21:44:47.476000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-lime-juice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

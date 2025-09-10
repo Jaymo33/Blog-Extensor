@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 3 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 3 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer recipes and meal planning. Get cooking today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T00:37:28.394Z",
         "dateModified": "2025-08-22T00:37:28.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 3 kg chicken breast to pounds is essential because most air fryer recipes and guidelines use imperial measurements. Knowing that 3 kg equals approximately 6.614 pounds helps you follow cooking times and temperatures accurately, ensuring your chicken is perfectly cooked. This conversion also aids in portion control and meal planning, especially when preparing larger quantities."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is the conversion from 3 kg chicken breast to pounds the same for all chicken cuts?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from 3 kg chicken breast to pounds is based on weight, so it applies to any chicken cut, including thighs, wings, or drumsticks. However, cooking times may vary depending on the cut due to differences in density and fat content. Always adjust air fryer settings accordingly for optimal results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a kitchen scale to convert 3 kg chicken breast to pounds directly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most digital kitchen scales allow you to switch between metric and imperial units, making it easy to see 3 kg displayed as pounds instantly. If your scale only shows kilograms, you can manually calculate using the conversion factor (1 kg = 2.20462 pounds) or use an online converter for quick reference."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 3 kg chicken breast to pounds help with air fryer portioning?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 3 kg chicken breast to pounds (about 6.614 pounds) helps you divide the chicken into portions that fit your air fryer basket without overcrowding. Proper portioning ensures even cooking and crispiness, as overcrowding can block air circulation. This is especially useful for batch cooking or meal prepping with your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

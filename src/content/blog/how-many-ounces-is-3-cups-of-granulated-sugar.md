@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-granulated-sugar"
-  },
+        },
         "headline": "Quick Answer: How many ounces is 3 cups of granulated sugar?",
         "description": "Discover how to convert 3 cups of granulated sugar to ounces for perfect baking results every time. Includes UK measurements and air fryer tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-granulated-sugar.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, caster sugar is slightly finer than granulated sugar, so it weighs slightly more by volume. While 3 cups of granulated sugar equals about 21.16 ounces, the same volume of caster sugar would be approximately 22.5 ounces. Always check your specific recipe requirements, especially for delicate air fryer bakes where precision matters."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same ounce measurement for brown sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Brown sugar is denser than granulated due to its moisture content. While 3 cups of granulated sugar is 21.16 ounces, packed brown sugar would be about 24 ounces for the same volume. When adapting recipes for your air fryer, it's best to measure brown sugar by packing it firmly into the cup for consistent results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does altitude affect sugar measurements in air fryer baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "At higher altitudes, sugar's effects can intensify - it may make baked goods brown faster and become drier. When using your 3 cups (21.16oz) measurement in mountain locations, you might need to reduce sugar slightly (by about 1-2 tablespoons per cup) and lower air fryer temperatures by 5-10°C to compensate for these effects."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do my air fryer recipes sometimes crystallize with 3 cups of sugar?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sugar crystallization can occur if the sugar isn't fully dissolved before cooking or if there's too much agitation during the mixing process. When using 3 cups (21.16oz) in air fryer recipes, ensure all sugar is properly incorporated into liquids or fats. The air fryer's rapid air circulation can sometimes exacerbate crystallization, so gentle handling helps prevent this issue."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-granulated-sugar"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

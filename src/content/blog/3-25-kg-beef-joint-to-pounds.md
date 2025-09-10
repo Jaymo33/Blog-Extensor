@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-25-kg-beef-joint-to-pounds"
-  },
+        },
         "headline": "Easy 3.25 kg Beef Joint to Pounds Conversion Guide",
         "description": "Convert 3.25 kg beef joint to pounds instantly. Get perfect air fryer cooking times and temperatures for your roast every single time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-25-kg-beef-joint-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 3.25 kg beef joint to pounds quickly, multiply the weight in kilograms by 2.20462. This gives you approximately 7.17 pounds. You can also use a simple online converter or mobile app for instant results without any calculations. Keeping a conversion chart in your kitchen can save time and ensure accuracy for all your cooking needs."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the weight in pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the weight in pounds is crucial for air frying because most recipes and appliance guidelines use imperial measurements. Accurate weight ensures you set the correct cooking time and temperature, preventing undercooked or dried-out meat. Air fryers cook rapidly, so precise measurements help achieve perfect results every time. This is especially important for larger cuts like a beef joint, where even cooking is essential."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 3.25 kg beef joint in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not all air fryers can accommodate a 3.25 kg beef joint, as it weighs about 7.17 pounds and requires a large basket. Check your air fryer’s capacity and dimensions before attempting to cook a joint this size. If your model is too small, consider cutting the joint into smaller pieces or using a conventional oven. Always ensure there is enough space for air circulation to cook the meat evenly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to air fry a 3.25 kg beef joint?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air frying a 3.25 kg beef joint (approximately 7.17 pounds) typically takes about 20 minutes per pound at 180°C, so around 2 hours and 23 minutes. However, cooking times can vary based on your air fryer model and desired doneness. Always use a meat thermometer to check the internal temperature, which should be 60°C for medium-rare or 70°C for well-done. Let the meat rest for 10-15 minutes before carving for the best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-25-kg-beef-joint-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

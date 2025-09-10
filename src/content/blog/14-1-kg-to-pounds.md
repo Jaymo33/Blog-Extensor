@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/14-1-kg-to-pounds"
-  },
+        },
         "headline": "Quick 14.1 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 14.1 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and meal prep with our easy guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:57:43.961Z",
         "dateModified": "2025-08-20T17:57:43.961Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/14-1-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The simplest way is to multiply the kilogram value by 2.20462. So, for 14.1 kg, you calculate 14.1 x 2.20462, which equals 31.085 pounds. For a quick answer without the maths, you can use any reliable online conversion tool or calculator, which will give you the result instantly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I have a 14.1 kg frozen turkey. How many pounds is that, and will it fit in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 14.1 kg frozen turkey converts to approximately 31 pounds. It is highly unlikely that a whole turkey of this size will fit in a standard home air fryer basket, as most are designed for much smaller items. Air fryers are best for turkey breasts, thighs, or smaller birds. For a turkey this large, you would need to use a conventional oven or consider spatchcocking (butterflying) it to reduce its profile, though even then, an air fryer may not be suitable."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 14.1 kilograms to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 14.1 kilograms to pounds to accurately portion out ingredients from a large bulk package. Air fryers require careful portioning to ensure hot air can circulate freely for even cooking. Knowing the pound equivalent of a 14.1 kg bag of frozen chips or chicken wings helps you defrost and cook the right amount per batch, preventing overcrowding and ensuring perfectly crispy results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 14.1 kg the same as 14.1 kilograms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, absolutely. 'kg' is the standard international abbreviation for kilogram. So, 14.1 kg and 14.1 kilograms represent the exact same unit of mass and weight. The term 'kilo' is also a common informal shortening for kilogram in many parts of the world, so 14.1 kilo means the same as well. They all need to be multiplied by 2.20462 to find the equivalent weight in pounds."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:57:43.961000+00:00",
     "dateModified": "2025-08-20T17:57:43.961000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/14-1-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

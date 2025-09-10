@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-fish-sauce"
-  },
+        },
         "headline": "Quick Answer: 0.5 tbsp fish sauce to grams conversion",
         "description": "Find out exactly how many grams are in 0.5 tbsp of fish sauce for perfect air fryer recipes every time. No guesswork needed!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-05T23:07:32.143Z",
         "dateModified": "2025-08-05T23:07:32.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-fish-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, different fish sauce brands can vary slightly in density due to variations in ingredients and production methods. While our 7.5 grams per 0.5 tablespoon measurement is an average that works for most major UK brands, it's always best to check your specific brand's nutrition label if extreme precision is required for your air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use ml instead of grams for measuring fish sauce?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can measure fish sauce in millilitres, grams are more accurate because they account for density variations. 0.5 tablespoon equals about 7.4ml, but since fish sauce is denser than water, the weight measurement (7.5g) is more reliable for consistent results in air fryer cooking, especially for strongly flavoured ingredients."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I measure 0.5 tbsp if I don't have a half tablespoon measure?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have a 0.5 tablespoon measure, use a full tablespoon and carefully estimate half, or use 1.5 teaspoons (since 1 tablespoon equals 3 teaspoons). For the most accurate 7.5 gram measurement without proper spoons, use digital kitchen scales. This ensures precision in your air fryer recipes where balanced flavours are crucial."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my dish taste too salty even when using 0.5 tbsp fish sauce?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Some fish sauce brands are saltier than others. If your 0.5 tablespoon (7.5g) measurement makes dishes too salty, try reducing slightly or look for lower-sodium varieties. Remember that air fryers intensify flavours, so you might need less fish sauce than traditional cooking methods suggest. Always taste and adjust seasonings gradually."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-fish-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-prawns-to-pounds"
-  },
+        },
         "headline": "Easy 1.25 kg Prawns to Pounds Conversion Guide",
         "description": "Convert 1.25 kg prawns to pounds instantly. Get perfect air fryer portions every time with our simple guide and handy conversion tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-25-kg-prawns-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "1.25 kg of prawns is approximately 2.76 pounds. This conversion is based on the standard rate where 1 kilogram equals 2.20462 pounds. For most cooking purposes, rounding to 2.76 pounds is perfectly acceptable and makes recipe adjustments straightforward."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I weigh prawns with or without shells when converting?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on your recipe. If the recipe specifies "peeled" or "shelled" prawns, you should use the weight after removing the shells. If it doesn't specify, assume it's the total weight including shells. Always check your recipe notes to avoid measurement errors and ensure your dish turns out as intended."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 1.25 kg of prawns in one go in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on the size of your air fryer. For most standard models, 1.25 kg (or 2.76 pounds) of prawns may be too much for a single batch. Overcrowding prevents proper air circulation and can lead to uneven cooking. It's better to cook in two or more batches for the best results, ensuring each prawn is crispy and perfectly cooked."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for prawns?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a wide variety of prawn and shrimp recipes on our website. Head over to <a href="https://www.airfryerrecipe.co.uk/recipe-category/shrimp">airfryerrecipe.co.uk/recipe-category/shrimp</a> for inspiration. From garlic prawns to spicy grilled options, we have recipes to suit every taste. Our collection is updated regularly with new, tried-and-tested ideas to make your air frying journey enjoyable and delicious."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-prawns-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

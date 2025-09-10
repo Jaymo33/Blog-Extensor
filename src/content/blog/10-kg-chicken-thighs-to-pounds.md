@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick 10 kg Chicken Thighs to Pounds Conversion Guide",
         "description": "Convert 10 kg chicken thighs to pounds instantly with our easy guide. Perfect for air fryer meal prep and recipe scaling. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "10 kg of chicken thighs converts exactly to 22.046226 pounds. For practical cooking purposes, most people round this to 22 pounds. This conversion uses the standard ratio where 1 kilogram equals 2.20462262 pounds.\n\nWhen working with air fryer recipes, the slight difference between 22.046 pounds and 22 pounds won't significantly affect your cooking results. Most home kitchen scales aren't precise enough to detect this small variation anyway."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 10 kg of chicken thighs to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting measurements ensures proper portioning for your air fryer basket. Overcrowding prevents proper air circulation, leading to uneven cooking. Knowing that 10 kg equals approximately 22 pounds helps you divide the chicken into appropriate batch sizes for your specific air fryer model.\n\nThis conversion also helps when following recipes that use imperial measurements. Many air fryer recipes specify ingredient quantities in pounds, so converting from kilograms ensures accurate ingredient proportions and cooking times for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust cooking time when working with 10 kg of chicken thighs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When cooking 10 kg (approximately 22 pounds) of chicken thighs, you'll need to cook in batches rather than adjusting time for the total quantity. Most air fryers can only accommodate 2-4 pounds per batch. Maintain the recommended cooking time per batch rather than multiplying the time for the entire amount.\n\nEach batch should cook for the standard time recommended for chicken thighs in your air fryer, typically 20-25 minutes at 200°C. Between batches, allow your air fryer to cool slightly if cooking multiple batches consecutively to prevent overheating the appliance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find recipes that use large quantities of chicken thighs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Our website features numerous recipes perfect for larger quantities of chicken thighs. Visit our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipe category</a> for ideas that scale well for meal prep or family gatherings. Many of these recipes include guidance on adjusting quantities and cooking times for different batch sizes.\n\nFor specific large-batch cooking, our <a href=https://www.airfryerrecipe.co.uk/recipe-category/meal-prep>meal prep section</a> offers recipes designed specifically for preparing multiple meals at once. These recipes often include storage instructions and reheating tips for your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 6.5 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 6.5 kg whole chicken to pounds quickly with our simple guide. Perfect for air fryer cooking and meal planning!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 6.5 kg whole chicken is exactly 14.33 pounds when converted using the standard factor of 1 kilogram equals 2.20462 pounds. This precision is important for air fryer cooking, as recipes often rely on pound measurements for timing and temperature settings. Always use an accurate conversion to ensure your chicken cooks perfectly and safely."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 6.5 kg whole chicken to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 6.5 kg whole chicken to pounds is crucial because most air fryer recipes and manufacturer guidelines use imperial measurements. Accurate weight ensures correct cooking times, preventing undercooking or drying out. Since air fryers cook faster than ovens, knowing the weight in pounds helps you adjust settings properly for a juicy, well-cooked chicken."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use an online converter for 6.5 kg whole chicken to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, online converters are convenient for quickly finding that 6.5 kg whole chicken equals 14.33 pounds. However, it's best to understand the basic conversion (multiply kg by 2.20462) for reliability, especially when cooking large items like a whole chicken in an air fryer. Double-checking with a trusted source like airfryerrecipe.co.uk ensures accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to air fry a 6.5 kg whole chicken in pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air frying a 6.5 kg whole chicken, which is about 14.33 pounds, typically takes around 20 minutes per pound at 180°C, totaling approximately 287 minutes. Always use a meat thermometer to confirm the internal temperature reaches 75°C for safety. Resting the chicken after cooking helps retain juices for the best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

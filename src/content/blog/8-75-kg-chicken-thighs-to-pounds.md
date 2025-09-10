@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick Guide: Convert 8.75 kg Chicken Thighs to Pounds Easily",
         "description": "Convert 8.75 kg chicken thighs to pounds instantly for perfect air fryer meal prep. Get accurate conversions and cooking tips for juicy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8.75 kg chicken thighs to pounds is essential for air frying because most air fryer recipes and guidelines use pounds or ounces for portion sizes. Accurate measurements ensure you apply the correct cooking time and temperature, leading to perfectly cooked, juicy chicken thighs. Without the right conversion, you risk undercooking or drying out your chicken, which affects both safety and taste."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is the conversion from 8.75 kg to pounds the same for boneless and bone-in chicken thighs?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the conversion from 8.75 kg to pounds is the same regardless of whether the chicken thighs are boneless or bone-in, as the weight includes everything. However, bone-in thighs may require slightly longer cooking times in the air fryer due to the bone affecting heat distribution. Always check for doneness using a meat thermometer, ensuring the internal temperature reaches 75°C."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other types of chicken, like breasts or wings?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely, the conversion factor from kilograms to pounds applies to any type of chicken, including breasts, wings, or drumsticks. The formula remains the same: multiply the kilogram value by 2.20462 to get pounds. Keep in mind that cooking times may vary based on the cut and thickness, so adjust accordingly when using your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for chicken thighs after converting the weight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a wide variety of air fryer recipes for chicken thighs on dedicated cooking websites like airfryerrecipe.co.uk. Their recipe category for chicken offers numerous ideas, from crispy skin options to marinated dishes, all tailored for air fryer use. Exploring these resources can help you make the most of your converted 8.75 kg chicken thighs to pounds."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

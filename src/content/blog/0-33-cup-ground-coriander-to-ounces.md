@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-ground-coriander-to-ounces"
-  },
+        },
         "headline": "Quick Guide: Convert 0.33 Cup Ground Coriander to Ounces",
         "description": "Learn how to convert 0.33 cup of ground coriander to ounces for perfect air fryer recipes every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-14T06:21:39.135Z",
         "dateModified": "2025-08-14T06:21:39.135Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-ground-coriander-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but you'll need to adjust the quantity. Whole coriander seeds are less concentrated in flavour. For every 0.33 cup (1.06 oz) of ground coriander, use about 0.5 cup of whole seeds, lightly crushed. Toast them briefly in your air fryer at 160°C for 2 minutes to enhance their aroma before grinding."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long will 0.33 cup of ground coriander stay fresh?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Properly stored in an airtight container away from light and heat, ground coriander maintains optimal flavour for 6 months. The 0.33 cup (1.06 oz) portion will gradually lose potency after this period. For best results in air fryer cooking, buy small quantities and refresh your supply regularly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of ground coriander affect the 0.33 cup to ounce conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Different brands can vary slightly in grind density, but the difference is minimal. Premium brands may be more finely ground, potentially packing slightly more into 0.33 cup. When precision matters for air fryer recipes, weighing your 0.33 cup portion (aiming for 1.06 oz/30g) eliminates any uncertainty."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute fresh coriander for 0.33 cup ground in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fresh coriander (cilantro) has a completely different flavour profile and moisture content. For dry rubs or spice mixes in air fryer cooking, stick to ground coriander. If a recipe specifically calls for fresh, use about 1 cup chopped leaves to replace 0.33 cup ground, adjusting other liquid ingredients accordingly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-ground-coriander-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

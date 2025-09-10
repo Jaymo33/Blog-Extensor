@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-minced-beef"
-  },
+        },
         "headline": "Quick Conversion: 3.0 Cups of Minced Beef to Grams",
         "description": "Convert 3.0 cups of minced beef to grams effortlessly for perfect air fryer meals every time. Get precise measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T20:10:56.962Z",
         "dateModified": "2025-07-28T20:10:56.962Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-cups-minced-beef.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, minced beef loses about 25% of its weight when cooked due to fat and moisture loss. Raw 3.0 cups (680g) may reduce to roughly 510g after air frying. Always account for shrinkage in recipes like meatballs or patties."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use frozen minced beef for the 3.0-cup measurement?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but thaw it first for accuracy. Frozen beef’s uneven density skews cup measurements. Once defrosted, fluff it lightly before measuring. For speed, use our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods guide</a> to adapt cooking times."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many servings does 3.0 cups (680g) of minced beef provide?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It serves 4–6 people, depending on the dish. For burgers, expect four large portions; for pasta sauces or tacos, it stretches to six. Pair with air-fried sides for a complete meal."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air-fryer minced beef recipe turn out dry?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Overcooking or using lean beef can cause dryness. For 3.0 cups (680g), cook at 180°C for 12–15 minutes, checking doneness. Add breadcrumbs or an egg to retain moisture. Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe hub</a> for juicy beef ideas."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:56.962000+00:00",
     "dateModified": "2025-07-28T20:10:56.962000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-minced-beef"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

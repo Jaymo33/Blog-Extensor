@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/322-f-to-fan-oven"
-  },
+        },
         "headline": "322 F to Fan Oven Conversion Guide | Air Fryer Tips",
         "description": "Learn how to convert 322 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-21T20:34:29.941Z",
         "dateModified": "2025-07-21T20:34:29.941Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/322-f-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Both fan ovens and air fryers use convection heating, but air fryers are more compact and intense. While 322 F converts to 160 C in a fan oven, you might need to reduce this slightly in an air fryer and always check food earlier due to faster cooking times.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the 322 F fan oven setting for all types of food?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>The 322 F fan oven setting (160 C) works well for delicate foods like custards, some cakes, and slow-roasted vegetables. However, for meats or items needing higher heat, you'll want to adjust upwards. Always consider the specific requirements of each dish.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is my food cooking faster at 322 F in the air fryer than the fan oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Air fryers circulate heat more aggressively in a smaller space, making them more efficient than standard fan ovens. Even at the same 322 F equivalent temperature, the concentrated heat and airflow in an air fryer will cook food significantly faster.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 322 F to other oven types?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>322 F equals 160 C in a conventional oven. For fan ovens, reduce by about 20 C to 140 C. For gas ovens, check your manufacturer's guide as markings vary. Our conversion charts at <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> provide detailed comparisons for all oven types.</p>"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-21T20:34:29.941000+00:00",
     "dateModified": "2025-07-21T20:34:29.941000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/322-f-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

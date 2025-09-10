@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-beef-mince-to-pounds"
-  },
+        },
         "headline": "Quick 3 kg Beef Mince to Pounds Conversion Guide",
         "description": "Convert 3 kg beef mince to pounds instantly with our easy guide. Perfect for air fryer recipes and meal prep. Get accurate results now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-beef-mince-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Accurate conversion ensures your recipes turn out as intended, especially in air frying where precise measurements affect cooking time and texture. Using the correct weight helps avoid overloading the air fryer basket, which can lead to uneven cooking. It also ensures flavour balance and prevents waste, making your meals consistently delicious."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple rule of thumb for converting 3 kg beef mince to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A rough rule is to multiply kilograms by 2.2 to get pounds, so 3 kg is about 6.6 pounds. For most recipes, this approximation works fine, but for baking or precise dishes, it’s best to use the exact conversion of 6.614 pounds. Digital scales with unit switching are ideal for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 3 kg beef mince to pounds affect air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The weight conversion itself doesn’t change cooking times, but the amount of meat used does. If you’re cooking 6.614 pounds of mince instead of a smaller quantity, you may need to batch cook or adjust timing to ensure thorough cooking. Always check internal temperature for doneness, especially with larger portions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find recipes that use 3 kg beef mince converted to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You’ll find plenty of ideas on <a href=https://www.airfryerrecipe.co.uk/recipe-category/beef>airfryerrecipe.co.uk’s beef category</a>, with recipes scaled for various quantities. Many dishes like chilli, meatballs, or lasagne can be adapted to use 6.614 pounds of mince. Batch cooking and freezing portions is a great way to save time and effort."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-beef-mince-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

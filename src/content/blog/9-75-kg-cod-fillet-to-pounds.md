@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-75-kg-cod-fillet-to-pounds"
-  },
+        },
         "headline": "Quick 9.75 kg cod fillet to pounds conversion guide",
         "description": "Convert 9.75 kg cod fillet to pounds easily for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-75-kg-cod-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "9.75 kg of cod fillet is approximately 21.5 pounds. This conversion uses the standard factor of 1 kilogram equals 2.20462 pounds, which is essential for accurate portioning and cooking in your air fryer. Knowing this helps you follow recipes that use imperial measurements and ensures even cooking for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 9.75 kg cod fillet in my air fryer all at once?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is not recommended to cook a full 9.75 kg cod fillet in your air fryer at once, as this would overcrowd the basket and prevent proper air circulation. Instead, cut the fillet into smaller, uniform pieces and cook in batches. This ensures each piece cooks evenly and achieves a crispy exterior, which is key to great air-fried cod."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 9.75 kg cod fillet to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 9.75 kg cod fillet to pounds and ounces, first convert to pounds (21.5 pounds), then multiply the decimal part (0.5) by 16 to get ounces. This gives you 21 pounds and 8 ounces. This level of detail can be useful for very precise recipes or when using scales that display both units."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the weight in pounds for air frying cod?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the weight in pounds is important because most air fryer recipes and cooking guidelines are based on imperial measurements. Accurate weight ensures correct cooking times and temperatures, preventing undercooked or overcooked fish. It also helps with portion control and cost calculation, especially when buying in bulk or meal prepping."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-75-kg-cod-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

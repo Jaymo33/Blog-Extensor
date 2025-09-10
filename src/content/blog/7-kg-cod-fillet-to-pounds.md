@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-kg-cod-fillet-to-pounds"
-  },
+        },
         "headline": "Easy 7 kg cod fillet to pounds conversion for air fryer cooking",
         "description": "Convert 7 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and delicious recipes today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-kg-cod-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "7 kg of cod fillet is approximately 15.43 pounds. This conversion is based on the standard metric to imperial calculation where 1 kilogram equals about 2.20462 pounds. Knowing this helps you portion your fish correctly for air frying, ensuring even cooking and perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 7 kg cod fillet to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 7 kg cod fillet to pounds and ounces, first calculate the total pounds (15.43). The decimal part (0.43 pounds) can be converted to ounces by multiplying by 16, giving you roughly 6.88 ounces. So, 7 kg is about 15 pounds and 6.88 ounces, ideal for precise air fryer portioning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert weights for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting weights like 7 kg cod fillet to pounds ensures you don’t overcrowd your air fryer basket, which is crucial for proper airflow and crispy results. Accurate portions help with cooking time estimates and prevent undercooked or overcooked food. It also aids in meal planning and reducing waste, making your air frying experience more efficient and enjoyable."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 7 kg cod fillet directly in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It’s not practical to cook a whole 7 kg cod fillet in one go in most home air fryers due to size constraints. Instead, portion it into smaller pieces (around 1-2 pounds each) based on your air fryer’s capacity. This allows for even cooking and better texture. For large batches, cook in multiple rounds, keeping cooked portions warm in a low oven."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-kg-cod-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

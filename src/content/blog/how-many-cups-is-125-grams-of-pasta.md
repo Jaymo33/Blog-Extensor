@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-pasta"
-  },
+        },
         "headline": "125 Grams of Pasta in Cups – Quick Conversion Guide | AirFryerRecipe.co.uk",
         "description": "Find out how many cups 125 grams of pasta equals for perfect air fryer meals. Includes UK/US conversions and tips for measuring pasta without scales.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T15:39:07.591Z",
         "dateModified": "2025-07-22T15:39:07.591Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-pasta.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 125 grams of dried pasta typically expands to about 2.5-3 cups after cooking. The exact amount depends on the pasta shape and cooking method, with air-fried pasta sometimes absorbing slightly less water than boiled."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I measure 125 grams of pasta for air frying without scales?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Use a standard metric cup (125g ≈ 1¼ cups) or visual estimates: five handfuls of long pasta or two coffee mugs of small shapes. For most air fryer recipes, being within 10g of 125 grams won’t significantly affect results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 125 grams of pasta enough for one person?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. 125 grams of dried pasta makes a generous single serving, expanding to 250-300g cooked. In air fryers, this quantity ensures proper circulation and prevents overcrowding for best texture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does pasta shape affect the cup measurement at 125 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Different shapes pack into cups differently - small pasta fills spaces more efficiently than long strands. At 125 grams, compact shapes like orzo measure more cups than spaghetti, which has air gaps between strands. Always check shape-specific conversions for accuracy."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T15:39:07.591000+00:00",
     "dateModified": "2025-07-22T15:39:07.591000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-pasta"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-buttermilk"
-  },
+        },
         "headline": "Quick Answer: How Many ml Is 2.25 Cups of Buttermilk?",
         "description": "Discover how to convert 2.25 cups of buttermilk to ml for perfect baking results every time. Get the exact measurement now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-30T08:54:40.460Z",
         "dateModified": "2025-07-30T08:54:40.460Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-buttermilk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 2.25 cups of buttermilk is the same volume in both the UK and USA, equalling 532.5 ml. However, cup sizes can vary slightly in other countries, so always double-check if using an international recipe. For air fryer recipes, sticking to millilitres ensures consistency."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a different measurement for 2.25 cups of buttermilk?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 2.25 cups of buttermilk equals 532.5 ml, you can also use grams if you prefer. One ml of buttermilk weighs approximately 1 gram, so 532.5 grams would be equivalent. Using a kitchen scale can provide even more precision for baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What if I don’t have buttermilk for my recipe?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can make a buttermilk substitute by mixing 532.5 ml of milk with 2 tablespoons of lemon juice or vinegar. Let it sit for 5 minutes before using. This works well in most recipes, though the flavour may be slightly less tangy than real buttermilk."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does buttermilk last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Unopened buttermilk lasts up to 2 weeks in the fridge, while opened buttermilk should be used within 7 days. Always check for sour smells or separation before using. For best results in air fryer recipes, use fresh buttermilk."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:40.460000+00:00",
     "dateModified": "2025-07-30T08:54:40.460000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-buttermilk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

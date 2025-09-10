@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-prawns-to-pounds"
-  },
+        },
         "headline": "Quick 9.5 kg Prawns to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 9.5 kg prawns to pounds instantly for perfect air fryer portions. Get easy measurements, cooking tips, and delicious recipe ideas today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-5-kg-prawns-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 9.5 kg prawns to pounds is crucial for air frying because most air fryer recipes and guidelines use imperial measurements like pounds. Knowing that 9.5 kg equals approximately 20.94 pounds helps you portion the prawns correctly to avoid overcrowding the basket, which ensures even cooking and a crispy texture. Accurate conversion also allows you to scale seasonings and marinades properly, resulting in perfectly flavoured prawns every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 9.5 kg prawns to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 9.5 kg prawns to pounds and ounces, first multiply 9.5 by 2.20462 to get 20.94389 pounds. The whole number is 20 pounds, and the decimal 0.94389 represents the ounces—multiply this by 16 (since there are 16 ounces in a pound) to get approximately 15.1 ounces. So, 9.5 kg is roughly 20 pounds and 15 ounces. This precise conversion is useful for detailed recipe planning and accurate batch division in air frying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook all 9.5 kg prawns at once in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you should not cook all 9.5 kg prawns (about 20.94 pounds) at once in your air fryer. Air fryers require space for hot air to circulate around the food for even cooking. Overcrowding leads to steaming instead of crisping, resulting in unevenly cooked prawns. Cook in single-layer batches based on your air fryer’s capacity, which usually means 200-400 grams per batch for most models. This ensures each prawn is perfectly cooked and crispy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find recipes for cooking converted 9.5 kg prawns in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find excellent recipes for cooking converted 9.5 kg prawns in your air fryer on websites like airfryerrecipe.co.uk, which offers a wide range of seafood dishes tailored for air fryers. Their recipe section includes options for garlic prawns, spicy prawn skewers, and more, all designed to make the most of your air fryer’s capabilities. These recipes often include portion guidance and cooking times based on weight, making it easy to adapt for your 20.94 pounds of prawns."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-prawns-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

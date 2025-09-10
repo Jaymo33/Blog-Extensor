@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Quick 3 kg Lamb Leg to Pounds Conversion Guide for Air Fryers",
         "description": "Convert 3 kg lamb leg to pounds instantly for perfect air fryer cooking times. Get precise measurements and cooking tips for succulent results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "3 kg of lamb leg converts to approximately 6.61 pounds when using the standard conversion factor of 1 kilogram equals 2.20462 pounds. This precise conversion helps calculate accurate air fryer cooking times, ensuring your lamb cooks evenly and reaches the perfect internal temperature. For most practical purposes, you can round this to 6.6 pounds without significantly affecting your cooking results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryer recipes and manufacturer guidelines use pound measurements for calculating cooking times and temperatures. Converting kilograms to pounds ensures you follow these instructions accurately, preventing undercooked or overcooked results. Since cooking times are weight-dependent, knowing the exact pound equivalent of your 3 kg lamb leg helps you achieve perfectly cooked meat every time you use your air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 3 kg lamb leg in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Whether you can cook a 3 kg lamb leg (approximately 6.61 pounds) in your air fryer depends on your appliance's capacity. Larger air fryer models with spacious baskets can typically accommodate this size, while smaller units might require cutting the lamb into smaller portions. Always check your air fryer's maximum capacity and ensure there's enough space for air circulation around the meat for even cooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does a 3 kg lamb leg take in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3 kg lamb leg (approximately 6.61 pounds) typically takes between 99-132 minutes in an air fryer set at 180°C, depending on your desired doneness. Calculate cooking time at 15-20 minutes per pound, but always use a meat thermometer to check for doneness. The internal temperature should reach 60°C for medium-rare or 71°C for well-done, followed by a 15-20 minute resting period before carving."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

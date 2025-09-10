@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/487-f-to-fan-oven"
-  },
+        },
         "headline": "Quick 487 F to Fan Oven Conversion Guide for Perfect Cooking",
         "description": "Learn how to convert 487 F to fan oven settings for flawless air fryer and oven results. Get precise temperatures in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-23T17:04:24.107Z",
         "dateModified": "2025-07-23T17:04:24.107Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/487-f-to-fan-oven.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "FanOven"
-  },
+        },
         "articleSection": "FanOven",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "487 F is significantly hotter than most conventional oven settings. In a standard oven without a fan, 487 F would be about 253 C. However, because fan ovens circulate hot air more efficiently, you'd typically reduce this by 20°C, making 487 F equivalent to about 230 C in a fan oven setting."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the 487 F conversion for all air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While the 487 F to fan oven conversion works for many recipes, air fryers often require slightly lower temperatures due to their compact size and intense air circulation. For most air fryer recipes, we recommend reducing the converted temperature by another 25°C, making 487 F about 225 C in an air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to cook at such a high temperature as 487 F?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The 487 F to fan oven conversion is ideal for achieving professional-level browning and crispiness. This high heat is perfect for searing meats, creating crispy fried chicken textures, or baking artisan bread with a perfect crust. It's particularly useful in air fryers where you want maximum crispiness in minimal time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust cooking times when using 487 F in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When using the 487 F to fan oven conversion in an air fryer, reduce standard cooking times by about 20-30%. Always check food several minutes before the recommended time, as air fryers cook much faster than conventional ovens at these high temperatures. Use visual cues like golden brown colour to determine doneness."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-23T17:04:24.107000+00:00",
     "dateModified": "2025-07-23T17:04:24.107000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/487-f-to-fan-oven"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

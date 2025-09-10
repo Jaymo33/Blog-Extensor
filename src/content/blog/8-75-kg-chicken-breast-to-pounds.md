@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 8.75 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 8.75 kg chicken breast to pounds instantly. Perfect for meal prep, air fryer recipes, and buying the right amount every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8.75 kg chicken breast to pounds is crucial for air frying because most air fryer recipes and cooking guidelines use imperial measurements. Accurate conversion ensures proper cooking times and temperatures, preventing undercooked or overcooked chicken. It also helps with portion control and meal planning, making your air fryer cooking more efficient and successful."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does cooking 19.29 pounds of chicken breast differ in an air fryer compared to a regular oven?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking 19.29 pounds of chicken breast in an air fryer is significantly faster than using a regular oven, typically cutting cooking time by 20-30%. The air fryer's rapid air circulation also creates a crispier exterior while keeping the inside moist. However, you'll likely need to cook in batches to avoid overcrowding, whereas an oven can handle more at once but takes longer to cook through."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 8.75 kg chicken breast to pounds and ounces for more precise portioning?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can convert 8.75 kg chicken breast to pounds and ounces for more precise portioning. 8.75 kg equals approximately 19 pounds and 4.6 ounces. This level of precision can be helpful when dividing very large batches into exact meal portions or when following recipes that specify weights in ounces. For most air fryer cooking, rounding to the nearest pound is perfectly adequate."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust air fryer settings when cooking 19.29 pounds of chicken breast?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When cooking 19.29 pounds of chicken breast in an air fryer, maintain the same temperature recommended for smaller batches (typically 180-200°C for chicken breast). The main adjustment is cooking in batches to ensure proper air circulation – overcrowding leads to uneven cooking. You may need to add 1-2 minutes per batch if cooking multiple rounds, as the air fryer will be already heated. Always check internal temperature reaches 75°C for food safety."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

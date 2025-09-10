@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-fish-sauce"
-  },
+        },
         "headline": "Quick Guide: Convert 30g of Fish Sauce to Ounces Easily",
         "description": "Learn how to convert 30g of fish sauce to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-08T23:46:47.435Z",
         "dateModified": "2025-08-08T23:46:47.435Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-fish-sauce.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While you can use a spoon, it's not the most accurate method for measuring 30g of fish sauce. A UK tablespoon holds about 15g of fish sauce, so you'd need roughly two level tablespoons. However, weights can vary based on the spoon's shape and how full it is. For precise measurements in air fryer recipes, a digital scale is best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the brand of fish sauce affect the 30g to ounce conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The brand shouldn't significantly affect the conversion from 30g to ounces (1.06 oz), as fish sauce has a fairly consistent density. However, thicker artisanal fish sauces might be slightly heavier per volume than thinner commercial varieties. When precision matters, always weigh rather than rely on volume measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long will 30g of fish sauce last once opened?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An opened bottle of fish sauce lasts indefinitely at room temperature, though its flavour may gradually change. The 30g portion you measure out will maintain its quality for years if stored properly. There's no need to refrigerate after opening, but keep the bottle tightly sealed to prevent evaporation and maintain flavour."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute 30g of fish sauce with something else in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you don't have fish sauce, you can substitute 30g (1.06 oz) with soy sauce mixed with a pinch of sugar, or use Worcestershire sauce for a different but similarly umami flavour. For vegetarian options, try mushroom soy sauce or a teaspoon of marmite dissolved in water. The substitution won't be identical but can work in many recipes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-fish-sauce"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

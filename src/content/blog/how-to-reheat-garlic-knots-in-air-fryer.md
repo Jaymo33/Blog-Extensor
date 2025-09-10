@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-garlic-knots-in-air-fryer"
-  },
+        },
         "headline": "Reheat Garlic Knots in Air Fryer – Quick & Crispy Results",
         "description": "Learn how to reheat garlic knots in an air fryer perfectly – crispy outside, soft inside, just like fresh. Ideal temperature & time included.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T18:06:35.548Z",
         "dateModified": "2025-07-22T18:06:35.548Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-garlic-knots-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can reheat frozen garlic knots in an air fryer. Increase the cooking time to 5–6 minutes at 160°C, checking halfway through. No need to thaw first – the air fryer will crisp them perfectly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent my reheated garlic knots from drying out?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly brush garlic knots with olive oil or butter before reheating, and consider adding a small dish of water to the air fryer basket. This creates steam to keep them moist while still achieving a crispy exterior."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the difference between reheating garlic knots in an air fryer vs microwave?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An air fryer makes garlic knots crispy outside and soft inside, while a microwave tends to make them soggy. The air fryer’s circulating hot air revives texture better, making it the superior reheating method."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat garlic knots with extra cheese in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! For cheesy garlic knots, reduce the temperature to 150°C and cook for 3–4 minutes. Watch closely to prevent the cheese from burning while ensuring the bread heats through."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:06:35.548000+00:00",
     "dateModified": "2025-07-22T18:06:35.548000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-garlic-knots-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

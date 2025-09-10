@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-potatoes"
-  },
+        },
         "headline": "Quick Guide: Convert 225 Grams of Potatoes to Cups Easily",
         "description": "Learn how to convert 225 grams of potatoes to cups for perfect air fryer recipes every time. Get accurate measurements and cooking tips here!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-26T21:31:13.386Z",
         "dateModified": "2025-07-26T21:31:13.386Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-potatoes.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, potato type matters. Floury potatoes (like Russets) are less dense, so 225 grams may fill slightly more than 1.5 cups when diced. Waxy potatoes (like Jersey Royals) are denser and may measure closer to 1.25 cups for the same weight. For accuracy, weigh your potatoes or adjust based on variety."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 225 grams of potatoes for air fryer chips?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 225 grams of potatoes makes a perfect portion for air fryer chips. Slice them evenly, toss with a bit of oil, and cook in a single layer for crisp results. This amount serves one generously or two as a side."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many medium potatoes equal 225 grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Medium potatoes (about the size of a large egg) typically weigh 150–175 grams each. So, one and a half medium potatoes will roughly give you 225 grams. For precision, use scales, especially for baking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my 225 grams of potatoes look different in cups each time?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Inconsistent cuts or packing the cup too tightly can vary measurements. Diced, grated, or sliced potatoes occupy different volumes per gram. Always use a light hand when filling measuring cups, or weigh for consistency."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:13.386000+00:00",
     "dateModified": "2025-07-26T21:31:13.386000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-potatoes"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

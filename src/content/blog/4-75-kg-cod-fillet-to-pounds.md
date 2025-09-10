@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-cod-fillet-to-pounds"
-  },
+        },
         "headline": "Easy 4.75 kg Cod Fillet to Pounds Conversion Guide",
         "description": "Convert 4.75 kg cod fillet to pounds instantly. Perfect for air fryer meal prep, portioning, and cooking with confidence.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-75-kg-cod-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.75 kg cod fillet to pounds is crucial for air frying because most recipes and appliance guidelines use imperial measurements. Knowing the weight in pounds helps you determine correct cooking times, portion sizes, and temperature settings for your air fryer. Accurate conversions prevent under or overcooking, ensuring your cod turns out perfectly flaky and delicious every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 4.75 kg cod fillet to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 4.75 kg cod fillet to pounds and ounces, first multiply 4.75 by 2.20462 to get approximately 10.47 pounds. Then, take the decimal part (0.47) and multiply by 16 to get ounces, which is about 7.5 ounces. So, 4.75 kg is roughly 10 pounds 7.5 ounces. This detailed breakdown helps with precise portioning for air fryer recipes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a whole 4.75 kg cod fillet in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on your air fryer's basket size. A 4.75 kg cod fillet (about 10.47 pounds) is quite large, so most home air fryers won't accommodate it whole without overcrowding. For best results, cut the fillet into smaller, even-sized portions that fit in a single layer with space between them. This ensures proper air circulation and even cooking throughout all pieces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find air fryer recipes for a 4.75 kg cod fillet?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find excellent air fryer cod recipes tailored to various portion sizes on airfryerrecipe.co.uk. Their collection includes everything from simple seasoned cod to more elaborate dishes with coatings or marinades. Since recipes often specify weight in pounds, using your converted 4.75 kg (10.47 lbs) measurement makes it easy to scale recipes appropriately for your needs."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-cod-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

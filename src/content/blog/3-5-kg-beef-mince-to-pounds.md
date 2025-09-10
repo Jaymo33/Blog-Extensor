@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-beef-mince-to-pounds"
-  },
+        },
         "headline": "Easy 3.5 kg Beef Mince to Pounds Conversion Guide",
         "description": "Convert 3.5 kg beef mince to pounds quickly and accurately for perfect air fryer recipes. Get precise measurements and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-beef-mince-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "3.5 kg of beef mince converts exactly to 7.71617 pounds, though most recipes will round this to 7.72 pounds for practical cooking purposes. The conversion uses the standard formula where 1 kilogram equals approximately 2.20462 pounds, so multiplying 3.5 by this conversion factor gives you the precise measurement."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 3.5 kg beef mince to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 3.5 kg beef mince to pounds when following recipes that use imperial measurements or when using an air fryer with capacity guidelines listed in pounds. Accurate conversion ensures you use the right amount of meat for your air fryer basket size, preventing overcrowding that leads to uneven cooking. Proper measurement also helps with recipe scaling and ensures your dishes turn out as intended by the recipe creator."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 3.5 kg (7.72 pounds) of beef mince at once in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most home air fryers cannot accommodate 3.5 kg (7.72 pounds) of beef mince at once without severely compromising cooking quality. Air fryers work best when food is arranged in a single layer with space between items for proper air circulation. For this quantity, you'll need to cook in multiple batches, which might take longer but will yield far better results with properly cooked, evenly browned meat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 3.5 kg beef mince to pounds affect cooking time in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The conversion itself doesn't affect cooking time, but the actual quantity does. Whether you measure 3.5 kg or 7.72 pounds, you're working with the same amount of meat. However, since you'll likely need to cook this quantity in batches, the total cooking time will increase significantly. Each batch typically takes 12-18 minutes depending on the recipe, so factor in this additional time when planning your meal preparation."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-beef-mince-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

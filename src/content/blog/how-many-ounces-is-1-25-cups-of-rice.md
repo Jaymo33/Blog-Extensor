@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-rice"
-  },
+        },
         "headline": "Quick Guide: Convert 1.25 Cups of Rice to Ounces Easily",
         "description": "Discover the exact weight of 1.25 cups of rice in ounces for perfect air fryer meals. Get accurate UK conversions and cooking tips now.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weighing rice in ounces is far more accurate than using cup measurements because volume can vary dramatically based on how the rice is settled or scooped. A tightly packed cup of rice will weigh significantly more than a lightly filled one, leading to inconsistent cooking results, especially in an air fryer where precision affects texture and doneness. Using a scale eliminates this guesswork and ensures you use the exact amount required every time, which is crucial for perfect water-to-rice ratios and fluffy outcomes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of rice change the weight for 1.25 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the type of rice can slightly affect the weight. Long-grain white rice, which is the standard for most conversions, weighs about 7.5 ounces per cup, so 1.25 cups is roughly 9.4 ounces. However, shorter grains like Arborio or sushi rice may be denser and weigh a bit more, while fluffier varieties like jasmine might be slightly lighter. For utmost accuracy, especially in air fryer cooking where moisture balance is key, check the packaging or use a scale for the specific rice you are using."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 1.25 cups of rice directly in my air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is not recommended to cook loose rice directly in the air fryer basket as the grains can fall through the holes or become unevenly cooked. Instead, use a heatproof baking dish or a silicone liner that fits inside your air fryer basket. This container will hold the rice and liquid together, allowing it to steam properly. Ensure whatever you use is safe for air fryer temperatures and does not restrict air flow too much, which could affect cooking performance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust cooking time if I use more or less than 1.25 cups of rice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If you increase the amount of rice, you will likely need to add a few minutes to the cooking time and a bit more liquid to compensate. Conversely, smaller quantities may cook slightly faster. The key is to keep the rice-to-liquid ratio consistent – typically 1 part rice to 1.5 parts liquid for white rice in an air fryer. Always check for doneness a few minutes before the timer ends; the rice should be tender and the liquid absorbed. Let it rest covered for 5 minutes after cooking to finish steaming."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer"
-  },
+        },
         "headline": "Baking Tin in Air Fryer: Safety & Compatibility Guide",
         "description": "Wondering if you can put a baking tin in an air fryer? Learn about safety, risks, and best practices for using metal tins in your air fryer.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipe.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T23:30:57.071Z",
         "dateModified": "2025-07-22T23:30:57.071Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-baking-tin-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Safety"
-  },
+        },
         "articleSection": "Safety",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not all baking tins are suitable. Choose oven-safe metal tins that fit comfortably in your air fryer basket without touching the sides or heating element. Avoid oversized or unusually shaped tins that could block airflow."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Will using a baking tin damage my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Properly used baking tins won’t damage your air fryer. The main risks are scratching the basket or blocking airflow. Always check the tin fits with adequate space around it and isn’t taller than your air fryer’s clearance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What foods cook best in a baking tin in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Small cakes, brownies, frittatas, and individual portions of baked dishes work beautifully. The concentrated heat creates excellent texture – try our air fryer cookie recipes in a 6-inch tin for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent food from sticking when using a baking tin?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly grease the tin with oil or use parchment liners cut to size. For sticky batters, dust the greased tin with flour. Non-stick baking spray works well too – just avoid aerosol sprays near the air fryer’s heating element."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T23:30:57.071000+00:00",
     "dateModified": "2025-07-22T23:30:57.071000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -168,7 +168,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -180,16 +180,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -202,8 +202,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

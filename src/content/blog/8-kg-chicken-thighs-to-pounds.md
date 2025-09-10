@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-chicken-thighs-to-pounds"
-  },
+        },
         "headline": "Quick 8 kg chicken thighs to pounds conversion for air fryer cooking",
         "description": "Convert 8 kg chicken thighs to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-chicken-thighs-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversion"
-  },
+        },
         "articleSection": "Conversion",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8 kg chicken thighs to pounds is crucial for air fryer cooking because accurate measurements ensure proper portioning and cooking results. Air fryers perform best when not overcrowded, and knowing the exact weight in pounds helps you distribute the chicken thighs appropriately in the basket. This conversion also helps when following recipes that use imperial measurements, ensuring your cooking times and temperatures are accurate for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many individual chicken thighs are in 8 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The number of individual chicken thighs in 8 kg varies significantly depending on the size of the thighs. On average, you can expect approximately 40-50 chicken thighs in 8 kg, but this is just an estimate. Larger thighs might yield fewer pieces, while smaller ones will give you more. The weight conversion to pounds (approximately 17.6 pounds) remains constant regardless of how many individual pieces you have, which is why weight measurements are more reliable for cooking purposes than counting pieces."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 8 kg of chicken thighs all at once in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It's not recommended to cook 8 kg of chicken thighs all at once in a standard home air fryer. This quantity (approximately 17.6 pounds) would far exceed the capacity of most domestic air fryers, leading to overcrowding and uneven cooking. For best results, cook in batches, ensuring each thigh has enough space around it for proper air circulation. This approach ensures each chicken thigh cooks evenly and develops that desirable crispy skin that air fryers are known for."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store 8 kg of chicken thighs after purchase?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For 8 kg of chicken thighs (approximately 17.6 pounds), proper storage is essential for food safety. Divide the chicken into meal-sized portions and freeze what you won't use within 1-2 days. Use airtight containers or freezer bags, removing as much air as possible to prevent freezer burn. Label each package with the date and weight for easy identification. Always thaw frozen chicken in the refrigerator, not at room temperature, to maintain food safety standards."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-chicken-thighs-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-corn"
-  },
+        },
         "headline": "Quick Answer: 0.125 Cup of Frozen Corn to Ounces UK",
         "description": "Discover how to convert 0.125 cup of frozen corn to ounces for perfect air fryer meals. Get accurate measurements and cooking tips here.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-15T23:40:45.481Z",
         "dateModified": "2025-08-15T23:40:45.481Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-frozen-corn.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Frozen"
-  },
+        },
         "articleSection": "Frozen",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but fresh corn weighs slightly less than frozen due to moisture content. For 0.125 cup, use about 0.9 ounces (25 grams) of fresh kernels. Adjust air fryer time to 4–6 minutes, as fresh corn cooks faster."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 0.125 cup of frozen corn to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "0.125 cup of frozen corn is roughly 28 grams. For precise baking or dietary tracking, use a kitchen scale. Note that UK recipes often round 1 ounce to 28 grams for simplicity."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air-fried frozen corn turn out soggy?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sogginess usually means overcrowding or insufficient oil. For 0.125 cup (1 ounce), use a teaspoon of oil and spread corn in a single layer. Increase temperature to 200°C if needed, and shake the basket midway."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I air fry 0.125 cup of frozen corn without oil?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but results will be less crispy. For oil-free cooking, spritz corn with water to prevent drying and air fry at 200°C for 6–8 minutes. Stir frequently for even browning."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-corn"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

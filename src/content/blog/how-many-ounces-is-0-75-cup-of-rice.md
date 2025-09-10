@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-rice"
-  },
+        },
         "headline": "Quick 0.75 Cup Rice to Ounces Conversion for Perfect Air Fryer Meals",
         "description": "Convert 0.75 cup of rice to ounces instantly for flawless air fryer cooking. Get precise measurements for perfect rice every time with our easy guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the type of rice does slightly affect the weight. Standard long grain white rice, which is the most common benchmark, weighs about 5.3 ounces for 0.75 cup. However, fluffier varieties like basmati or jasmine rice can be a bit lighter, coming in around 4.8 to 5 ounces for the same volume. Conversely, denser rices like brown rice or short grain sushi rice can weigh more, typically between 5.5 and 5.8 ounces for 0.75 cup. For the most accuracy in air fryer recipes, it is always best to use a kitchen scale."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why should I weigh rice instead of just using a measuring cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weighing rice with a scale is far more accurate than using a measuring cup because it removes human error. How you scoop the rice—whether you spoon it in or scoop directly from the bag—can change how much fits in the cup due to settling and packing. Weight, measured in ounces or grams, is an absolute measurement that guarantees consistency every single time. This precision is especially important in air fryer cooking, where the exact ratio of rice to liquid is critical for achieving the perfect texture and preventing under or overcooking."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for cooked rice as well?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, this conversion specifically applies to uncooked rice. When rice is cooked, it absorbs a significant amount of water and increases in volume and weight dramatically. 0.75 cup of uncooked rice will yield approximately 2 to 2.5 cups of cooked rice, depending on the variety. The weight of cooked rice is therefore completely different and not directly related to the uncooked weight. Always ensure you know whether a recipe is referring to cooked or uncooked rice to avoid measurement mistakes that could ruin your dish."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust other ingredients when I change the amount of rice?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When you scale a recipe up or down, it is crucial to adjust all ingredients proportionally, especially the cooking liquid. The general rule for cooking rice is a 1:1.5 ratio of rice to liquid. So, if your base recipe uses 1 cup of rice and 1.5 cups of water, and you want to use 0.75 cup of rice, you would use 1.125 cups of water. Seasonings, oils, and other flavourings should also be scaled down to 75% of the original amount. This ensures the flavours are balanced and the rice cooks perfectly in your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

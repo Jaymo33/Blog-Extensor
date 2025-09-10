@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-gelatin-powder-to-ounces"
-  },
+        },
         "headline": "Quick 10g gelatin powder to ounces conversion guide",
         "description": "Discover how to convert 10g of gelatin powder to ounces easily for perfect air fryer recipes every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-06T23:33:24.546Z",
         "dateModified": "2025-08-06T23:33:24.546Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-gelatin-powder-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 10g of gelatin powder equals approximately 0.35 ounces, so they can be used interchangeably in recipes. However, for best results in air fryer cooking, it's always better to weigh ingredients rather than relying solely on volume conversions, as density can vary slightly between brands."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does gelatin powder behave differently in air fryers compared to conventional ovens?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Gelatin sets through cooling rather than cooking, so the air fryer's rapid air circulation doesn't significantly affect its performance. The main difference is that air fryers cook faster, so gelatin-based dishes may need less overall time. Always follow recipe instructions for best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best way to store opened gelatin powder for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store opened gelatin powder in an airtight container in a cool, dry place. Properly stored, it lasts about 2-3 years. For accurate 10g gelatin powder to ounces conversions later, keep it away from moisture which can cause clumping and make measuring difficult."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there vegetarian alternatives that measure the same as 10g gelatin powder?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Vegetarian alternatives like agar-agar can replace gelatin, but they have different setting properties. While 10g gelatin powder equals 0.35 ounces, agar-agar requires different quantities. Typically, you'd use about 1 teaspoon agar-agar to replace 10g gelatin powder, but always check specific product instructions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10g-gelatin-powder-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -47,7 +47,7 @@ schema: |
         },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Yes, 0.125 cup equals exactly 2 tablespoons. This measurement also converts to 0.5 ounces by weight. Whether you're using cups, spoons, or scales, these amounts are interchangeable for gluten-free flour in recipes."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "Does the type of gluten-free flour affect the ounce conversion?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Different gluten-free flours have slightly varying densities. While 0.125 cup generally equals 0.5 oz, almond flour may weigh less, and coconut flour more. For precision baking, check your specific flour's packaging or weigh 0.5 oz directly."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "Can I use this conversion for air fryer recipes?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Absolutely! This 0.125 cup to 0.5 oz conversion works perfectly for air fryer cooking. Accurate measurements ensure even cooking and proper texture, especially important for gluten-free batters and coatings in the air fryer."
-    }
-    },
+        }
+        },
     {
             ""@type": "Question",
             ""name": "How do I measure 0.125 cup without a measuring cup?",
     "acceptedAnswer": {
             ""@type": "Answer",
     "text": "Use two standard tablespoons to measure 0.125 cup gluten-free flour. Alternatively, if you have scales, weigh out 0.5 oz. For more measurement hacks, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a>."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             ""@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             ""@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             ""@type": "WebPage",
             ""@id": "https://www.airfryerrecipe.co.uk/blog/0-125-cup-gluten-free-flour-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             ""name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             ""@type": "ImageObject",
             ""url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             ""@type": "Country",
             ""name": "United Kingdom"
-    },
+        },
     {
             ""@type": "Country",
             ""name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             ""@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

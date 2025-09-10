@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/30g-cottage-cheese-to-ounces"
-  },
+        },
         "headline": "Quick 30g cottage cheese to ounces conversion for air fryer recipes",
         "description": "Convert 30g of cottage cheese to ounces in seconds for perfect air fryer meals. Get accurate measurements and cooking tips for UK kitchens.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-cottage-cheese-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use tablespoons or a measuring cup to estimate 30g of cottage cheese. Two level tablespoons or about ⅛ cup of cottage cheese equals roughly 30g (1.06oz). However, for the most accurate results in air fryer cooking, we recommend investing in digital kitchen scales."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the type of cottage cheese affect the 30g to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, slightly. Full-fat cottage cheese is denser than low-fat varieties, so 30g might take up slightly less volume. However, the weight in ounces (1.06oz) remains the same regardless of fat content. For baking or precise air fryer recipes, always measure by weight rather than volume."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this 30g cottage cheese conversion for other cheeses in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This conversion specifically applies to cottage cheese due to its unique texture and moisture content. Other cheeses like cheddar or mozzarella have different densities. For hard cheeses, 30g equals about 1.06oz, but the volume will differ significantly from cottage cheese."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is precise measurement important when using cottage cheese in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Precise measurements ensure consistent cooking results in your air fryer. Too much cottage cheese can release excess moisture, affecting texture, while too little might dry out your dish. The rapid air circulation in air fryers means ingredient ratios need to be spot-on for perfect results every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/30g-cottage-cheese-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

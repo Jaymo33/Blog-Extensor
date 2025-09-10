@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-salmon-fillet-to-pounds"
-  },
+        },
         "headline": "Quick 5.75 kg Salmon Fillet to Pounds Conversion Guide",
         "description": "Convert 5.75 kg salmon fillet to pounds instantly. Perfect for air fryer meal prep and portioning. Get the exact weight and cooking tips now.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T20:01:03.205Z",
         "dateModified": "2025-08-23T20:01:03.205Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-75-kg-salmon-fillet-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 5.75 kg salmon fillet to pounds manually, multiply the kilogram value by 2.20462. So, 5.75 kg multiplied by 2.20462 equals approximately 12.68 pounds. This simple formula works for any weight conversion from kilograms to pounds and ensures accuracy for cooking purposes. Remember to use a calculator for precision, especially with larger quantities like a 5.75 kg fillet."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to know the pound equivalent of a 5.75 kg salmon fillet for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Knowing the pound equivalent of a 5.75 kg salmon fillet is crucial for air frying because most recipes specify cooking times based on weight in pounds. A 12.68-pound fillet may need to be divided to fit in the air fryer basket, and portion size affects cooking time and temperature settings. Accurate conversion helps prevent undercooking or drying out the salmon, ensuring perfect results every time. It also aids in meal planning and purchasing the right amount of salmon for your needs."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a whole 5.75 kg salmon fillet in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most home air fryers cannot accommodate a whole 5.75 kg salmon fillet, as it weighs about 12.68 pounds and is too large for standard baskets. It’s best to cut the fillet into smaller, evenly sized pieces that fit in a single layer for proper air circulation. This ensures even cooking and a crispy exterior without steaming. Preheating the air fryer and adjusting cooking time based on portion thickness will yield the best results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for salmon after converting the weight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find a variety of air fryer recipes for salmon on airfryerrecipe.co.uk, specifically in the salmon category. These recipes cater to different portion sizes and flavours, from simple seasoned fillets to more elaborate dishes. After converting your 5.75 kg salmon fillet to pounds, you can easily adapt these recipes to your needs. The site also offers tips on cooking times, temperatures, and seasoning for perfect air-fried salmon every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T20:01:03.205000+00:00",
     "dateModified": "2025-08-23T20:01:03.205000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/5-75-kg-salmon-fillet-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

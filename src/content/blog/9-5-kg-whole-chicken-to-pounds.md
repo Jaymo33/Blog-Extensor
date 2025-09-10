@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 9.5 kg whole chicken to pounds conversion for air fryers",
         "description": "Convert 9.5 kg whole chicken to pounds quickly for perfect air frying. Get cooking times, temperatures, and juicy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T20:06:59.565Z",
         "dateModified": "2025-08-22T20:06:59.565Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-5-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 9.5 kg whole chicken is exactly 20.94389 pounds when using the standard conversion factor of 1 kilogram equals 2.20462 pounds. For practical purposes, most people round this to 20.94 pounds or even 21 pounds to simplify cooking calculations. This accuracy is important for air fryer users because cooking times are often based on per-pound guidelines."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Will a 9.5 kg whole chicken fit in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 9.5 kg whole chicken converted to pounds is approximately 21 pounds, which is very large and unlikely to fit in most standard air fryers. Air fryer baskets typically accommodate chickens up to 5-6 kg (11-13 pounds). You may need to spatchcock the chicken or cook it in parts if your air fryer cannot handle the full size. Always check your appliance’s maximum capacity before attempting to cook such a large bird."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long do I cook a 9.5 kg whole chicken in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking time for a 9.5 kg whole chicken (about 21 pounds) in an air fryer would be substantial, but most home air fryers cannot accommodate a chicken this size whole. If split or spatchcocked, aim for approximately 15-20 minutes per pound at 180°C, but always use a meat thermometer to ensure the internal temperature reaches 75°C. Due to the size, cooking in parts might be more practical and efficient."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting kilograms to pounds for air frying is crucial because most air fryer recipes and manufacturer guidelines use imperial measurements. Accurate conversions ensure you set the correct cooking time and temperature, which affects food safety and quality. Mistakes in conversion can lead to undercooked or overcooked food, wasting ingredients and potentially causing health risks. Using reliable conversion tools helps achieve perfect results every time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

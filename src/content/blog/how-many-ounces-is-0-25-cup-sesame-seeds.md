@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-sesame-seeds"
-  },
+        },
         "headline": "Quick Answer: 0.25 Cup of Sesame Seeds to Ounces UK",
         "description": "Discover how many ounces are in 0.25 cup of sesame seeds for perfect air fryer recipes. Get accurate UK conversions in seconds!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-11T22:11:18.984Z",
         "dateModified": "2025-08-11T22:11:18.984Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-sesame-seeds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can substitute toasted sesame seeds for raw in the same 0.25 cup quantity (1.2 oz). Toasted seeds are slightly drier and may pack differently, so fluff them well before measuring. They’ll impart a deeper flavour to air-fried dishes but may brown faster – reduce cooking time by 1–2 minutes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I store leftover sesame seeds after measuring 0.25 cup?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store unused sesame seeds in an airtight container in a cool, dark place for up to 3 months. For longer freshness, refrigerate them – they’ll last 6–12 months. Always check for rancidity before use; fresh seeds should smell nutty, not bitter."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does 0.25 cup of sesame seeds weigh less than other nuts?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Sesame seeds are tiny and have more air gaps between them compared to larger nuts like almonds. This makes them less dense – hence 0.25 cup weighs just 1.2 oz. For comparison, 0.25 cup of chopped almonds weighs about 1.5 oz due to tighter packing."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I grind 0.25 cup of sesame seeds for tahini in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Grinding sesame seeds works best in a food processor, but you can toast 0.25 cup (1.2 oz) in the air fryer first for enhanced flavour. Spread them evenly at 150°C for 3 minutes, cool, then blend with oil. Don’t grind seeds directly in the air fryer – they’re too small and could damage the mechanism."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-sesame-seeds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

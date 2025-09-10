@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/20-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick 20.5 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 20.5 kg to pounds instantly for perfect air fryer recipes. Get accurate measurements for ingredients and portion sizes every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, for the purpose of converting 20.5 kg to pounds, there is no practical difference between a US pound and an Imperial pound. Both units are defined as exactly 0.45359237 kilograms, making them identical in modern measurement systems. Therefore, 20.5 kg will always convert to the same number of pounds (approximately 45.194) regardless of which system you are referencing."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert a weight as large as 20.5 kg for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You would typically need to convert 20.5 kg for planning and portioning purposes, not because you'd put that much food in at once. For example, if you buy a 20.5 kg bag of frozen chips or chicken nuggets, converting the total weight to pounds helps you understand how many servings you have. This allows you to calculate how many batches you'll need to cook and helps with meal planning and budgeting, even though you'll only cook a small portion of the total weight in your air fryer at one time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple 2.2 multiplier instead of 2.20462 to convert 20.5 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Using 2.2 is a common approximation and for a weight like 20.5 kg, it would give you 45.1 pounds, which is very close to the precise 45.194 pounds. For most general kitchen purposes and air fryer recipes, this small difference is negligible and won't impact your cooking results. However, for applications requiring extreme precision, such as certain baking recipes or scientific purposes, using the more accurate multiplier of 2.20462 is recommended to get the exact conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 20.5 kg to pounds if my kitchen scale only shows kilograms?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your scale only shows kilograms, you have two easy options. First, you can do the maths manually by multiplying the shown weight (20.5) by 2.20462 to get pounds. Second, you can use your smartphone to quickly ask a voice assistant or use a simple unit converter app or website for an instant result. Simply type "20.5 kg to lbs" into a search engine, and it will provide the answer immediately without any need for calculation on your part."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/20-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

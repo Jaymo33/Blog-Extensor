@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 10 kg whole chicken to pounds conversion for air fryer cooking",
         "description": "Convert 10 kg whole chicken to pounds quickly with our simple guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T20:06:59.565Z",
         "dateModified": "2025-08-22T20:06:59.565Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most standard home air fryers cannot accommodate a 10 kg whole chicken, which converts to approximately 22 pounds. This size chicken is simply too large for typical air fryer baskets. You would need to portion the chicken into smaller pieces that fit your air fryer, cooking them in batches if necessary. Some commercial or extra-large air fryer models might handle larger birds, but for most home kitchens, partitioning is the practical solution."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 10 kg to pounds help with air fryer cooking times?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 10 kg to pounds (approximately 22 pounds) helps determine accurate air fryer cooking times because most recipes and appliance guidelines use pound measurements. Cooking times for chicken are weight-dependent, so knowing the exact pound equivalent allows you to follow timing recommendations precisely. This conversion ensures your chicken cooks thoroughly without drying out, achieving that perfect crispy skin and juicy interior that air fryers are famous for."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert 10 kg whole chicken to pounds if I live in the UK?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Even in the UK where metric measurements are standard, converting 10 kg whole chicken to pounds is useful because many air fryer manuals and recipes use imperial measurements. Additionally, cooking websites like airfryerrecipe.co.uk often provide recipes from international sources that use pound measurements. Understanding both systems makes you more versatile in the kitchen and better prepared to tackle any recipe regardless of its measurement system."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the most accurate way to convert 10 kg whole chicken to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The most accurate way to convert 10 kg whole chicken to pounds is to multiply by 2.20462, giving you 22.0462 pounds. For practical cooking purposes, most people round this to 22 pounds. If you need more precision for specific recipes, you can use the exact conversion, but for air fryer cooking, the rounded number is typically sufficient. Digital kitchen scales that switch between measurement systems can also provide instant conversions without manual calculations."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

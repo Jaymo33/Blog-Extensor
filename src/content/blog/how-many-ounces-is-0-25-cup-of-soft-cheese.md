@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-soft-cheese"
-  },
+        },
         "headline": "Quick Guide: 0.25 Cup of Soft Cheese to Ounces UK",
         "description": "Convert 0.25 cup of soft cheese to ounces instantly. Get precise UK measurements for perfect air fryer recipes every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-soft-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For most standard, full-fat, spreadable soft cheeses like Philadelphia cream cheese or Galbani mascarpone, 0.25 cup will be very close to 2 ounces. However, lighter, whipped, or store-brand varieties that incorporate more air may be less dense, so 0.25 cup could weigh slightly less. For absolute precision, especially in baking, using a digital kitchen scale to measure 2 ounces directly is always recommended over relying on cup measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is weight (ounces) better than volume (cups) for measuring soft cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight is a far more accurate measurement than volume because it is not affected by factors like how tightly you pack the cheese into a cup or how aerated a particular brand is. A cup of densely packed soft cheese will weigh more than a lightly spooned cup, leading to inconsistent results in your recipes. Using ounces ensures you have the exact mass of ingredient required, which is crucial for the chemical reactions in baking and for achieving the perfect texture and flavour in air fryer dishes every single time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other types of cheese, like cheddar or parmesan?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, this specific conversion of 0.25 cup equalling 2 ounces applies only to soft, spreadable cheeses like cream cheese, mascarpone, or ricotta. Harder cheeses like cheddar or parmesan have a completely different density because they contain less moisture and are often grated. For example, 0.25 cup of grated cheddar cheese weighs approximately 1 ounce. Always look for a conversion specific to the type of cheese you are using to ensure your recipe measurements are correct."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My air fryer recipe only lists grams. How do I convert 2 ounces of soft cheese to grams?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting from ounces to grams is very straightforward. One ounce is approximately 28.35 grams. Therefore, 2 ounces of soft cheese is equal to about 57 grams. For most practical kitchen purposes, you can round this to 55 or 60 grams without a noticeable difference in your recipe. Using a digital scale that can toggle between metric and imperial units is the easiest way to handle any recipe, no matter which measurement system it uses."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-soft-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-boiled-potatoes-in-air-fryer"
-  },
+        },
         "headline": "How to reheat boiled potatoes in air fryer – Crispy & quick method | AirFryerRecipe.co.uk",
         "description": "Learn the best way to reheat boiled potatoes in your air fryer for crispy edges and fluffy centres. Perfect temperature, timing, and tips to avoid drying them out.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T16:12:00.810Z",
         "dateModified": "2025-07-22T16:12:00.810Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-boiled-potatoes-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can easily reheat refrigerated boiled potatoes in an air fryer. Just spread them in a single layer at 180°C (350°F) for 5-8 minutes, shaking halfway. They may need an extra minute compared to room temperature potatoes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best temperature to reheat boiled potatoes in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "180°C (350°F) is ideal for most boiled potatoes, giving them crispy edges without drying out. For extra crispiness, you can increase to 190°C (375°F), or reduce to 170°C (340°F) for more delicate potatoes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent reheated boiled potatoes from becoming dry?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Lightly coat the potatoes with oil before reheating and don’t overcook them. Keeping the temperature at 180°C or below and checking them at 5 minutes helps maintain moisture. A spritz of water can also help if they seem dry."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat frozen boiled potatoes directly in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! There’s no need to thaw frozen boiled potatoes first. Just cook them at 180°C (350°F) for 7-10 minutes, shaking occasionally. They might need a minute or two longer than fresh or refrigerated potatoes."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:12:00.810000+00:00",
     "dateModified": "2025-07-22T16:12:00.810000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-boiled-potatoes-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

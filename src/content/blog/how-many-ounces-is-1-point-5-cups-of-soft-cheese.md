@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-point-5-cups-of-soft-cheese"
-  },
+        },
         "headline": "Quick Answer: How Many Ounces is 1.5 Cups of Soft Cheese?",
         "description": "Get the exact weight conversion for 1.5 cups of soft cheese to ounces. Perfect for air fryer recipes and precise baking every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-point-5-cups-of-soft-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the type of soft cheese can slightly affect the weight. The standard conversion of 1.5 cups to 12 ounces is based on dense, block-style soft cheeses like standard cream cheese or well-drained ricotta. Softer, whipped, or aerated varieties (like some tub cream cheeses) contain more air, so 1.5 cups may weigh a little less. For absolute precision, especially in baking, using a kitchen scale to measure by weight is always recommended over using cups."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I'm in the UK; is a US cup different for this conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Technically, yes, a US customary cup is 237 ml while a UK imperial cup is 284 ml. However, in modern recipe sharing, especially online, the US cup measurement has become the international standard. For the purpose of converting 1.5 cups of soft cheese to ounces, the widely accepted rule of 8 ounces per cup is used to avoid confusion. Therefore, you should still aim for 12 ounces, as this will provide the correct result for the recipe's intended ratios."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for baking in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely. This conversion is crucial for air fryer baking. Recipes for items like air fryer cheesecakes, muffins, or stuffed pastries rely on precise ratios of wet to dry ingredients. Using the accurate weight of 12 ounces for 1.5 cups of soft cheese ensures the batter or filling has the right consistency to set properly under the air fryer's intense heat. Inaccurate measurements can lead to a dessert that is too dense, too runny, or that doesn't cook evenly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What's the best tool to measure 1.5 cups of soft cheese in ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The best and most accurate tool is a digital kitchen scale. Simply place your bowl on the scale, tare it to zero, and then add soft cheese until the display reads 12 ounces. This method is far more reliable than using measuring cups, as it eliminates variables like how tightly the cheese is packed into the cup. If you don't have a scale, use the spoon-and-level method: spoon the cheese loosely into a measuring cup and level it off with a straight edge."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-point-5-cups-of-soft-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

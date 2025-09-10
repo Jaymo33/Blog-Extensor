@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-marmalade"
-  },
+        },
         "headline": "Quick Guide: Convert 1.75 Cups of Marmalade to Ounces Easily",
         "description": "Learn how to convert 1.75 cups of marmalade to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-17T16:41:26.143Z",
         "dateModified": "2025-08-17T16:41:26.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-marmalade.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! 1.75 cups of marmalade (14 ounces) works wonderfully in savoury air fryer recipes. Its sweet-tart flavour pairs well with meats like chicken, pork, or duck. Thin it with vinegar or soy sauce for a balanced glaze. The sugars caramelise beautifully in the air fryer's high heat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store leftover marmalade after measuring 1.75 cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store opened marmalade in an airtight container in the fridge for up to 3 months. After measuring 1.75 cups, ensure the remaining marmalade is covered properly. The cold temperature maintains its quality and prevents crystallisation. Always use clean utensils to avoid contamination."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does marmalade brand affect the 1.75 cups to ounces conversion?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 1.75 cups generally equals 14 ounces, thicker premium marmalades might weigh slightly more. Cheaper brands with more liquid could measure lighter. For precision in air fryer recipes, we recommend weighing your specific marmalade. This accounts for any density variations between brands."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I substitute other preserves when a recipe calls for 1.75 cups of marmalade?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute similar citrus preserves, but expect flavour differences. Orange jam works, though it lacks marmalade's bitter notes. For 1.75 cups (14 ounces), adjust sweetness in your air fryer recipe accordingly. Apricot preserves make a good alternative for glazes, offering a different but complementary flavour profile."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-17T16:41:26.143000+00:00",
     "dateModified": "2025-08-17T16:41:26.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-marmalade"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

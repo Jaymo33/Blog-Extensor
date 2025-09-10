@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 8.5 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 8.5 kg whole chicken to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and meal planning.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-5-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An 8.5 kg whole chicken is exactly 18.739 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For most practical cooking purposes, especially when using an air fryer, it's perfectly acceptable to round this to 18.7 or even 19 pounds. This slight rounding won't significantly impact your cooking times or results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook an 8.5 kg whole chicken in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on your air fryer's capacity. An 8.5 kg whole chicken is quite large, approximately 18.74 pounds, so you'll need a very spacious air fryer basket. Many standard home air fryers cannot accommodate a whole chicken of this size without overcrowding. For best results, consider spatchcocking the chicken or cutting it into pieces to ensure even cooking and proper air circulation."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is it important to convert 8.5 kg whole chicken to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8.5 kg whole chicken to pounds is crucial because most air fryer cooking charts and recipes use imperial measurements. Accurate weight ensures you apply the correct cooking time and temperature, which is vital for food safety and quality. An undercooked or overcooked chicken ruins the meal and can be unsafe, so knowing the weight in pounds helps you follow guidelines precisely."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 8.5 kg whole chicken to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 8.5 kg whole chicken to pounds and ounces, first multiply 8.5 by 2.20462 to get pounds (18.739). The decimal part (0.739) represents fractions of a pound. Multiply 0.739 by 16 to convert to ounces, which gives approximately 11.82 ounces. So, 8.5 kg is roughly 18 pounds and 12 ounces. This level of detail is handy for very precise recipes or when dividing the chicken into portions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

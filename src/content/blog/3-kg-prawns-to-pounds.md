@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-prawns-to-pounds"
-  },
+        },
         "headline": "Quick 3 kg prawns to pounds conversion for air fryer cooking",
         "description": "Convert 3 kg prawns to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for juicy, delicious prawns every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T23:54:12.977Z",
         "dateModified": "2025-08-23T23:54:12.977Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-prawns-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "3 kg of prawns equals approximately 6.61 pounds. The exact conversion uses the standard calculation where 1 kilogram equals 2.20462 pounds, so multiplying 3 by this number gives you the precise measurement. This conversion is particularly useful for air fryer cooking where accurate portions ensure even cooking and perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the 3 kg to pounds conversion change if prawns are peeled or shell-on?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The weight conversion from 3 kg to pounds remains the same regardless of whether prawns are peeled or shell-on - it's still approximately 6.61 pounds. However, the edible portion differs significantly. Shell-on prawns will yield less actual meat per pound compared to peeled prawns. For recipe purposes, if the instruction specifies peeled prawns but you have shell-on, you may need to purchase slightly more by weight to account for the shells."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I adjust air fryer cooking time for 6.61 pounds of prawns?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "When cooking approximately 6.61 pounds of prawns (converted from 3 kg) in your air fryer, you'll need to cook in batches rather than all at once for best results. Most air fryers accommodate 1-2 pounds per batch comfortably. Cook prawns at 190°C for 6-8 minutes per batch, shaking the basket halfway through. The prawns are done when they turn pink and opaque throughout. Overcrowding the basket will result in uneven cooking, so multiple batches ensure perfectly cooked prawns every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I find recipes specifically designed for this quantity of prawns?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can find numerous recipes perfectly suited for 3 kg (approximately 6.61 pounds) of prawns at airfryerrecipe.co.uk. Their shrimp category features various dishes from garlic butter prawns to spicy prawn skewers, all tested for air fryer perfection. Many recipes include portion guidance and serving suggestions specifically designed for family meals or entertaining. The website also offers conversion charts and cooking tips to help you make the most of your prawn dishes while ensuring accurate measurements and perfect results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-prawns-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-maple-syrup"
-  },
+        },
         "headline": "Quick Answer: 1.5 tbsp maple syrup to grams conversion",
         "description": "Discover how many grams are in 1.5 tbsp of maple syrup for precise air fryer recipes. Get accurate UK measurements instantly!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-04T22:47:35.785Z",
         "dateModified": "2025-08-04T22:47:35.785Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-maple-syrup.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, honey can substitute maple syrup in a 1:1 ratio by volume (1.5 tbsp honey = 1.5 tbsp maple syrup). However, honey is slightly denser, weighing about 21g per tablespoon, so 1.5 tbsp would be roughly 31.5g. Adjust cooking times slightly, as honey caramelises faster."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why does my air-fried maple syrup glaze burn?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Maple syrup burns easily due to its high sugar content. To prevent this, mix it with oil or butter before brushing onto food. Also, air fry at a lower temperature (160°C) and check frequently. Adding it in the last 2–3 minutes of cooking helps, too."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I clean maple syrup residue from my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Soak the air fryer basket in warm, soapy water to loosen sticky maple syrup. For stubborn spots, use a soft sponge and baking soda paste. Avoid abrasive scrubbers that could damage non-stick coatings. Regular cleaning prevents buildup—see our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> for tips."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is maple syrup healthier than sugar in air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Maple syrup contains antioxidants and minerals like zinc, making it a marginally healthier choice than refined sugar. However, it’s still high in natural sugars, so moderation is key. For lower-sugar options, try reducing the quantity or mixing with spices like cinnamon for flavour."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-maple-syrup"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

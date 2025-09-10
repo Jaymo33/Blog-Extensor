@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/17-9-kg-to-pounds"
-  },
+        },
         "headline": "Quick 17.9 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 17.9 kg to pounds instantly for perfect air fryer portions. Get accurate results and avoid recipe confusion with our easy guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T19:54:05.768Z",
         "dateModified": "2025-08-20T19:54:05.768Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/17-9-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "17.9 kilograms is equal to approximately 39.46 pounds. This conversion uses the standard factor where 1 kilogram equals 2.20462 pounds. Multiplying 17.9 by this number gives you the precise weight in pounds, which is essential for accurately following air fryer recipes that use imperial measurements."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 17.9 kg to pounds and ounces for baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "First, convert 17.9 kg to pounds, which is 39.46 lbs. The whole number is 39 pounds. To find the ounces, take the decimal part (0.46) and multiply it by 16, as there are 16 ounces in a pound. This calculation gives you 7.36 ounces. So, 17.9 kg is equivalent to 39 pounds and 7.36 ounces. This level of precision is handy for recipes where exact proportions are critical."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is there a difference between US pounds and UK pounds when converting 17.9 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, for all practical cooking purposes, there is no difference. Both the US customary pound and the UK imperial pound are defined as exactly 0.45359237 kilograms. Therefore, when you convert 17.9 kg to pounds, the result is the same: approximately 39.46 pounds, regardless of which system your recipe uses."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert a large weight like 17.9 kg for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 17.9 kg is a very large weight for a typical home kitchen, you might encounter it if you are cooking for a very big event or bulk meal prepping. For example, catering a party with a whole suckling pig or preparing a massive batch of freezer meals could involve weights in this range. Converting it to pounds helps you use cooking charts and recipes correctly, ensuring your large air fryer load cooks evenly and safely."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T19:54:05.768000+00:00",
     "dateModified": "2025-08-20T19:54:05.768000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/17-9-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

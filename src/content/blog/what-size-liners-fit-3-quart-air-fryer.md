@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-3-quart-air-fryer"
-  },
+        },
         "headline": "Best Air Fryer Liners for 3 Quart Models – Perfect Fit Guide",
         "description": "Discover the ideal liner size for your 3 quart air fryer with our expert guide. Get the right fit for paper, silicone, or reusable liners today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T20:10:55.256Z",
         "dateModified": "2025-07-28T20:10:55.256Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/what-size-liners-fit-3-quart-air-fryer.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Liner"
-  },
+        },
         "articleSection": "Liner",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While aluminum foil can be used, it’s not ideal. It can block airflow and cause uneven cooking. If you must use it, poke holes for ventilation and avoid covering the entire basket. Parchment or silicone liners are safer and more effective."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do Ninja air fryer liners fit a 3 quart model?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, Ninja sells liners specifically for their 3 quart air fryers. Check the product description for exact dimensions, as sizes vary slightly between models. Generic 7-inch liners usually work too."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are reusable liners worth it for a 3 quart air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely! Silicone or mesh liners save money over time and reduce waste. They’re also more durable and handle high heat better than disposable options. Just hand-wash or place them in the dishwasher for easy cleaning."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Where can I buy liners for my 3 quart air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most kitchen stores, Amazon, or specialty retailers stock them. Look for “3 quart air fryer liners” in the product title. For trusted recommendations, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for curated buying guides."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:55.256000+00:00",
     "dateModified": "2025-07-28T20:10:55.256000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-3-quart-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

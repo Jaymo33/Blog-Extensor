@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-evaporated-milk"
-  },
+        },
         "headline": "Quick Answer: How Many Cups Is 935 ml of Evaporated Milk?",
         "description": "Find out exactly how many cups 935 ml of evaporated milk equals for perfect baking and cooking conversions every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-03T23:25:27.803Z",
         "dateModified": "2025-08-03T23:25:27.803Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-935-ml-of-evaporated-milk.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Volume"
-  },
+        },
         "articleSection": "Volume",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Fresh milk isn’t a direct substitute for evaporated milk because it has a higher water content. If a recipe calls for 935 ml of evaporated milk, using fresh milk could make the dish too runny. Instead, you can simmer fresh milk to reduce it by half, but this takes extra time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does 935 ml of evaporated milk weigh the same as water?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, evaporated milk is denser than water due to its reduced water content. While 935 ml of water weighs 935 grams, the same volume of evaporated milk will weigh slightly more. For precise baking, it’s best to measure by volume (cups or ml) rather than weight."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 935 ml of evaporated milk to US cups vs UK cups?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The difference is minimal, but UK cups are slightly larger (284 ml) compared to US cups (237 ml). For 935 ml, it’s roughly 3.3 UK cups or 3.95 US cups. Most recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> use the US cup measurement unless specified."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a can of evaporated milk if it’s close to 935 ml?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, many canned evaporated milks come in sizes close to 935 ml (such as 400 ml or 1 litre). If your recipe calls for 935 ml, you can adjust slightly by using a full can and reducing other liquids, or measure precisely using a jug. Always check the label for exact millilitre amounts."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-of-evaporated-milk"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

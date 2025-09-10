@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick 2.5 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 2.5 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal prep.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 2.5 kg to pounds is crucial for air frying because accurate ingredient weights ensure even cooking and prevent overloading the basket. Air fryers rely on hot air circulation, and too much food can block airflow, leading to steamed instead of crispy results. Knowing that 2.5 kg equals about 5.5 pounds helps you portion correctly for optimal performance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a cup measure instead of converting 2.5 kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While cup measures are handy for liquids and some dry goods, they are not reliable for converting 2.5 kg to pounds because weight varies greatly by ingredient density. For example, 2.5 kg of flour will fill cups differently than 2.5 kg of chicken. For air frying, where precision affects cooking time and texture, a kitchen scale is always recommended for accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 2.5 kg to pounds affect cooking time in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking time in an air fryer is directly influenced by weight, so converting 2.5 kg to pounds accurately helps you set the right timer. For instance, 2.5 kg of chicken (about 5.5 pounds) will take longer to cook than a smaller portion. Incorrect conversions might lead to undercooked or overcooked food, so always adjust times based on the actual weight in pounds."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any air fryer models that display measurements in both kg and pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most modern digital kitchen scales, which are essential for air fryer prep, allow you to switch between kilograms and pounds with a button press. While air fryers themselves don’t typically display weight units, using a compatible scale simplifies the process. Look for scales with unit conversion features to make converting 2.5 kg to pounds quick and effortless."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

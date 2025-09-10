@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-beef-joint-to-pounds"
-  },
+        },
         "headline": "Easy 9.5 kg beef joint to pounds conversion for perfect roasts",
         "description": "Convert 9.5 kg beef joint to pounds quickly and accurately for ideal air fryer cooking times and delicious, evenly cooked roasts every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-5-kg-beef-joint-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 9.5 kg beef joint is exactly 20.94389 pounds, but for practical cooking purposes, it is almost always rounded to 20.94 pounds. This precise conversion uses the standard multiplier of 1 kilogram equals 2.20462 pounds. When planning your air fryer cooking time, using the 20.94-pound figure will give you the most accurate results for a perfectly cooked roast."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most air fryer recipes and manufacturer guidelines provide cooking times based on pound measurements for meat. Converting your 9.5 kg beef joint to pounds ensures you can accurately follow these instructions, preventing under or overcooking. Furthermore, knowing the weight in pounds helps you determine if the joint will fit in your air fryer basket and allows for proper air circulation, which is crucial for even cooking and crispy results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 9.5 kg beef joint in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not all air fryers are large enough to accommodate a 9.5 kg (20.94 lb) beef joint comfortably. You will need a particularly large capacity or oven-style air fryer to handle a joint of this size. It is vital to check the dimensions of your air fryer basket against the size of the joint before you begin. If the joint is too large, it may block airflow and cook unevenly, so consider cooking it in a conventional oven or dividing it into smaller portions for the air fryer."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What is the best air fryer temperature for a 9.5 kg beef joint?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a large beef joint like a 9.5 kg (20.94 lb) cut, a temperature of 180°C (360°F) is a good starting point in an air fryer. This high heat helps to sear the outside and create a delicious crust while cooking the inside gradually. However, cooking time is more critical than temperature for such a large joint; always use a meat thermometer to check for doneness. The internal temperature should reach 135°F for medium-rare, 145°F for medium, or 160°F for well-done, regardless of the air fryer's setting."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-5-kg-beef-joint-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

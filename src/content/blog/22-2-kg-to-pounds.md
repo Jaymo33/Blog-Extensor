@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/22-2-kg-to-pounds"
-  },
+        },
         "headline": "Quick 22.2 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 22.2 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-21T07:21:09.538Z",
         "dateModified": "2025-08-21T07:21:09.538Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/22-2-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting weights accurately is crucial for air fryer cooking because the appliance relies on hot air circulating evenly around the food. If you misjudge the weight, you might overcrowd the basket, leading to soggy, unevenly cooked results. Knowing that 22.2 kg is 48.94 pounds helps you portion correctly, ensuring everything cooks through perfectly and gets beautifully crispy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 22.2 kg to US pounds the same as imperial pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, for all practical purposes in cooking, a US pound and an imperial pound are the same unit of weight. Both are defined as exactly 0.45359237 kilograms. So, when you convert 22.2 kg to US pounds or imperial pounds, the result is identical: approximately 48.94 pounds. You don't need to worry about a difference between the two for your kitchen conversions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I easily convert 22.2 kilograms to lbs without a calculator?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A simple rule of thumb is to double the kilogram value and then add ten percent. For 22.2 kg, doubling gives you 44.4. Ten percent of 22.2 is 2.22. Adding them together (44.4 + 2.22) gives you 46.62, which is a close estimate to the precise 48.94. For perfect accuracy, especially in baking, using a digital scale with a unit conversion button or a quick online search is always best."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "My recipe uses ounces; what is 22.2 kg in pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "22.2 kg converts to 48 pounds and 15.04 ounces. To break it down, the full conversion is 48.94 pounds. The whole number is 48 pounds. The decimal .94 represents a fraction of a pound; multiply .94 by 16 (ounces in a pound) to get 15.04 ounces. So, for a recipe requiring extreme precision, you would use 48 pounds and 15 ounces."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-21T07:21:09.538000+00:00",
     "dateModified": "2025-08-21T07:21:09.538000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/22-2-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

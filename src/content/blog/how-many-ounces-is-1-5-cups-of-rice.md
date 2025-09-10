@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-rice"
-  },
+        },
         "headline": "Quick Answer: How Many Ounces is 1.5 Cups of Rice?",
         "description": "Discover the exact weight of 1.5 cups of rice in ounces for perfect air fryer meals every time. Get cooking with confidence today!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-rice.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, absolutely. The type of rice significantly impacts its weight. Standard long-grain white rice, which is most commonly used for this conversion, weighs approximately 10.5 ounces for 1.5 cups. However, denser varieties like brown rice can weigh closer to 11.5 ounces for the same volume, while shorter-grain rices like Arborio or sushi rice can also be heavier. The shape, size, and whether the bran layer is intact all affect how the grains settle in a cup. For the most accurate results, especially in air fryer cooking where precision matters, always check the packaging for a weight-per-cup guide or use a kitchen scale."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why should I weigh rice instead of using measuring cups for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weighing rice is far more accurate than using volume measurements like cups because it eliminates variables like how tightly you pack the rice or the specific shape of the grains. A firmly packed cup can contain significantly more rice than a lightly scooped one, which throws off the critical rice-to-liquid ratio. In an air fryer, where cooking is fast and intense, an incorrect ratio can lead to undercooked, crunchy rice or a mushy, overcooked mess. Using a scale to measure out 10.5 ounces for 1.5 cups guarantees you use the exact amount intended by the recipe creator, leading to perfectly textured results every single time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 1.5 cups of rice directly in the air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It is not recommended to cook loose, uncooked rice directly in the main air fryer basket. The small grains could fall through the holes into the heating element below, creating a mess and a potential fire hazard. Instead, you should always cook rice in an air fryer-safe baking dish, cake pan, or even a silicone pot that fits inside your air fryer basket. This contained vessel holds the rice and liquid together, allowing it to steam and cook properly. The circulating hot air of the air fryer then heats the dish evenly, cooking the rice to perfection without any risk of damaging your appliance."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How much cooked rice does 1.5 cups (10.5 oz) of uncooked rice yield?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "As a general rule, uncooked white rice roughly triples in volume once it is cooked. Therefore, 1.5 cups (or 10.5 ounces) of uncooked long-grain white rice will yield approximately 4.5 cups of fluffy cooked rice. This makes it a perfect amount for serving 4-6 people as a side dish, or for creating a base for 2-3 larger main meals like burrito bowls or stir-fries. This yield can vary slightly depending on the specific type of rice and the exact amount of liquid absorbed during cooking, but the triple rule is a reliable guideline for meal planning and portioning."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-rice"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

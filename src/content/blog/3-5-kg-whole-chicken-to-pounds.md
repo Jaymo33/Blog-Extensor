@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 3.5 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 3.5 kg whole chicken to pounds quickly. Get perfect air fryer cooking times and temperatures for your roast chicken every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3.5 kg whole chicken is exactly 7.71617 pounds, but for cooking purposes, it is commonly rounded to 7.7 pounds. This conversion uses the standard factor where 1 kilogram equals approximately 2.20462 pounds. When preparing your chicken in the air fryer, using 7.7 pounds is perfectly accurate for setting cooking times and temperatures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is a 3.5 kg chicken too big for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on the capacity of your air fryer. A 3.5 kg chicken (7.7 pounds) is quite large, so check that your air fryer basket can accommodate it without forcing the lid closed. Most basket-style air fryers with a capacity of 5.8 litres or more can handle this size, but always refer to your model's maximum weight recommendations. If in doubt, measure the basket dimensions against the chicken before purchasing."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to cook a 3.5 kg whole chicken in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 3.5 kg whole chicken typically takes about 50 to 60 minutes in a preheated air fryer at 360°F (182°C). Always flip the chicken halfway through cooking to ensure even browning and crisping. The exact time can vary based on your air fryer model and the chicken's shape, so use a meat thermometer to check that the thickest part of the thigh reaches 75°C (165°F) for food safety."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 3.5 kg whole chicken to pounds and ounces for more precision?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 3.5 kg whole chicken converts to 7 pounds and 11.46 ounces. To calculate this, multiply the decimal part of the pounds (0.71617) by 16, as there are 16 ounces in a pound. For most air frying purposes, rounding to 7 pounds and 11 ounces is sufficiently precise. This level of detail can be helpful if your recipe or air fryer settings require ounce-specific inputs."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 4.75 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 4.75 kg chicken breast to pounds instantly for perfect air fryer cooking. Get accurate measurements and cooking tips for juicy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-75-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 4.75 kg chicken breast to pounds is crucial for air frying because cooking times and temperatures are weight-dependent. Air fryers circulate hot air around food, and inaccurate measurements can lead to uneven cooking, undercooked chicken (a food safety risk), or dried-out results. Knowing the exact weight in pounds ensures you follow recipes correctly and adjust cooking parameters for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 4.75 kg of chicken breast convert to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "4.75 kg of chicken breast converts to approximately 10 pounds and 7.5 ounces. To break this down precisely: 4.75 kg equals 10.47 pounds, and the decimal portion (0.47 pounds) converts to 7.52 ounces (since 1 pound = 16 ounces). This level of precision can be helpful for recipes that require exact measurements or when dividing the chicken into specific portion sizes for meal planning and air frying."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 4.75 kg of chicken breast all at once in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most home air fryers cannot accommodate 4.75 kg (10.47 pounds) of chicken breast all at once without overcrowding. Air fryers require space between food items for proper air circulation and even cooking. For this quantity, you'll need to cook in batches, typically ½-1 pound per batch depending on your air fryer's capacity. Between batches, allow the air fryer to reheat properly for consistent results, and use a meat thermometer to ensure each batch reaches a safe internal temperature of 75°C."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How should I store 4.75 kg of chicken breast after conversion and preparation?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "After converting 4.75 kg to pounds and preparing your chicken breast, proper storage is essential for food safety. Cooked chicken should be cooled completely before transferring to airtight containers. Refrigerated chicken will stay fresh for 3-4 days, while frozen chicken can be stored for 2-3 months. For best results, divide the large quantity into meal-sized portions before storing, and always label containers with contents and dates to maintain organization and ensure you use them while still at peak quality."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

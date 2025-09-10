@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-0-kg-to-pounds"
-  },
+        },
         "headline": "Quick 11.0 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 11.0 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your next meal.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:08:58.382Z",
         "dateModified": "2025-08-20T17:08:58.382Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/11-0-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 11.0 kg to pounds is essential for air fryer cooking because most recipes use imperial measurements, and accurate portion sizes directly affect cooking results. Air fryers rely on proper air circulation, and knowing the exact weight in pounds prevents overloading the basket, ensuring your food cooks evenly and achieves that perfect crisp texture. Precise measurements also help with timing, as air fryers cook faster than conventional ovens and even small weight variations can significantly alter cooking duration."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 11.0 kg to pounds and ounces for more precise measurements?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 11.0 kg to pounds and ounces, first multiply 11.0 by 2.20462 to get 24.2508 pounds. The whole number (24) represents pounds, and the decimal (0.2508) needs conversion to ounces by multiplying by 16, giving you approximately 4 ounces. So 11.0 kg equals 24 pounds and 4 ounces. This precision is particularly useful for baking in your air fryer or when following recipes that require exact ingredient ratios for successful results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tools that can help me convert 11.0 kilograms to pounds quickly?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, several tools can help you convert 11.0 kilograms to pounds quickly and accurately. Many digital kitchen scales have a unit conversion function that switches between kilograms and pounds with a button press. There are also numerous smartphone apps specifically designed for measurement conversions that can instantly tell you what 11.0 kg is in pounds. For traditional methods, keeping a printed conversion chart in your kitchen provides a reliable reference without needing electronic devices."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 11.0 kg to pounds help with meal planning and batch cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 11.0 kg to pounds helps tremendously with meal planning and batch cooking by allowing you to accurately portion ingredients for multiple meals. Knowing that 11.0 kg equals approximately 24.25 pounds helps you divide large purchases into perfect air fryer portions before freezing, making future meal preparation efficient and organized. This systematic approach reduces food waste, saves time, and ensures each air frying session is optimized for perfect results rather than relying on guesswork."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:08:58.382000+00:00",
     "dateModified": "2025-08-20T17:08:58.382000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-0-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

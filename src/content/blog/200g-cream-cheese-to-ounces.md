@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/200g-cream-cheese-to-ounces"
-  },
+        },
         "headline": "Quick 200g cream cheese to ounces conversion for UK bakers",
         "description": "Convert 200g of cream cheese to ounces in seconds with our easy guide. Perfect for air fryer cheesecakes and no-bake desserts.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-10T00:51:10.153Z",
         "dateModified": "2025-08-10T00:51:10.153Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-cream-cheese-to-ounces.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, 200g of cream cheese equals approximately 7.05 ounces, not 8 ounces. This common misconception comes from rounding - 8 ounces is actually about 227g. For precise baking, especially in air fryers where exact measurements matter, use the accurate 7.05 oz conversion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How many tablespoons is 200g of cream cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "200g of cream cheese equals about 14 tablespoons when softened. However, we recommend weighing for accuracy as tablespoon measurements can vary based on how packed or aerated the cream cheese is. For air fryer recipes where precision matters, stick to the 200g (7.05 oz) weight measurement."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use 200g of cream cheese instead of 8 oz in recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can substitute 200g (7.05 oz) for 8 oz in most recipes, but the texture might be slightly different. For baked goods like air fryer cheesecakes, it's better to add an extra 27g to reach the full 8 oz. The small difference matters more in baking than in frostings or dips."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does 200g of cream cheese last in the fridge?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "An unopened 200g block of cream cheese lasts 2-3 weeks past its sell-by date when refrigerated properly. Once opened, use within 5-7 days for best quality. Always check for mould, off smells, or discolouration before using. For air fryer recipes, fresh cream cheese gives the best results."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/200g-cream-cheese-to-ounces"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-tomato-ketchup"
-  },
+        },
         "headline": "Quick Guide: Convert 0.125 Cup Tomato Ketchup to Ounces Easily",
         "description": "Discover how many ounces are in 0.125 cup of tomato ketchup with our simple conversion guide. Perfect for air fryer recipes and meal prep!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-17T16:41:26.143Z",
         "dateModified": "2025-08-17T16:41:26.143Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0125-cup-of-tomato-ketchup.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 0.125 cup of tomato ketchup equals 1 ounce in both UK and US measurements. While the UK typically uses metric measurements, fluid ounces for cooking purposes are nearly identical between the two systems. This makes the conversion consistent for air fryer recipes regardless of your location."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How can I accurately measure 0.125 cup of tomato ketchup for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The easiest way is to use a liquid measuring cup with clear markings. Fill to the 1/8 cup line (which equals 0.125 cup) or use 2 tablespoons (as 2 tbsp = 1 oz = 0.125 cup). For sticky ingredients like ketchup, lightly grease the measuring cup first to help it slide out cleanly into your air fryer recipe mixture."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for other thick sauces in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While 0.125 cup equals 1 ounce for tomato ketchup, other thick sauces may vary slightly due to different densities. Barbecue sauce, mayonnaise, and similar condiments will be close, but for precise air fryer recipes, it's best to weigh them. Most air fryer sauce recipes account for these small variations in their instructions."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is precise measurement important for tomato ketchup in air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Air fryers work best with precise sauce amounts - too much liquid can prevent proper crisping. The 0.125 cup (1 ounce) measurement ensures your food gets flavorful coating without becoming soggy. This amount is perfect for creating glazes that caramelize beautifully in the air fryer's circulating heat without dripping or smoking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-17T16:41:26.143000+00:00",
     "dateModified": "2025-08-17T16:41:26.143000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-tomato-ketchup"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

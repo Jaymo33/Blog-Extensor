@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-eclairs-in-air-fryer"
-  },
+        },
         "headline": "Reheat Eclairs in Air Fryer – Quick & Crispy Results",
         "description": "Learn how to reheat eclairs in an air fryer for a crispy shell and creamy filling. Perfect temperature and timing tips for best results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T18:06:35.548Z",
         "dateModified": "2025-07-22T18:06:35.548Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-eclairs-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, but be extra careful with timing – custard-filled eclairs should only be reheated for 2–3 minutes at 150°C (300°F). Custard can separate if overheated, so check frequently and stop once the pastry is warm."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent eclairs from getting soggy when reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Ensure your air fryer is properly preheated and don’t overcrowd the basket. Let refrigerated eclairs sit at room temperature for 10 minutes first to reduce moisture buildup during reheating."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to store eclairs before reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Store in an airtight container with baking parchment between layers. For longer storage, freeze individually wrapped eclairs – they’ll reheat better than refrigerated ones after a few days."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat gluten-free or vegan eclairs the same way?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Gluten-free pastries may need 30–60 seconds less time as they dry out faster. Vegan eclairs with dairy-free cream can be reheated normally, but check plant-based fillings as some stabilizers react differently to heat."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:06:35.548000+00:00",
     "dateModified": "2025-07-22T18:06:35.548000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-eclairs-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

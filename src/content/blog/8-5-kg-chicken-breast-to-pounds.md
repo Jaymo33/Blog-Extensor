@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-chicken-breast-to-pounds"
-  },
+        },
         "headline": "Quick 8.5 kg Chicken Breast to Pounds Conversion Guide",
         "description": "Convert 8.5 kg chicken breast to pounds instantly for perfect air fryer meal prep. Get accurate measurements and cooking tips for juicy results.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T17:40:31.379Z",
         "dateModified": "2025-08-22T17:40:31.379Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-5-kg-chicken-breast-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8.5 kg chicken breast to pounds accurately is crucial for air frying because it ensures even cooking and proper seasoning. Air fryers rely on consistent portion sizes to circulate heat effectively, preventing some pieces from being undercooked while others dry out. Knowing the exact weight in pounds helps you follow recipes correctly, especially those from American sources that use imperial measurements. This precision leads to better texture, flavour, and overall cooking results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 8.5 kg (18.74 pounds) of chicken breast in my air fryer at once?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Most home air fryers cannot accommodate 18.74 pounds of chicken breast in a single batch due to basket size limitations. Overcrowding the air fryer prevents proper air circulation, leading to uneven cooking and less crispy results. It's best to cook in smaller batches, typically 1-2 pounds at a time depending on your model. This approach ensures each piece cooks evenly and allows you to maintain the ideal temperature throughout the process for perfectly juicy chicken every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 8.5 kg chicken breast to pounds help with meal prepping?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 8.5 kg chicken breast to pounds simplifies meal prepping by allowing precise portion division. Knowing the total is approximately 18.74 pounds lets you create equal meal-sized portions, such as dividing into eighteen 1-pound packs or nine 2-pound packs. This accuracy ensures consistent seasoning and cooking times when you prepare meals throughout the week. It also helps with inventory management and reduces food waste, making your meal prep routine more efficient and cost-effective."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are there any tools that can automatically convert 8.5 kg chicken breast to pounds for me?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, several digital kitchen scales offer automatic unit conversion between kilograms and pounds at the touch of a button. These scales display weights in both units simultaneously, eliminating manual calculations and reducing errors. Many smartphone apps and online converters also provide instant conversions for specific weights like 8.5 kg to pounds. For air fryer users, some advanced models even have built-in scales or recommended weight settings for different foods, making the conversion process seamless during cooking preparation."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-chicken-breast-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

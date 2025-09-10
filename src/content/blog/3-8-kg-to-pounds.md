@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-8-kg-to-pounds"
-  },
+        },
         "headline": "Quick 3.8 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 3.8 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for better cooking results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-8-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "3.8 kg is exactly 8.377556 pounds, but for most practical purposes in the kitchen, you can round it to 8.38 pounds. This conversion uses the standard factor where 1 kilogram equals approximately 2.20462 pounds. When air frying, this level of precision ensures even cooking and perfect portion sizes."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 3.8 kg the same in US pounds and UK pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 3.8 kg to US pounds and UK (imperial) pounds is the same, as both systems use the avoirdupois pound for weight measurements. So, 3.8 kilograms to pounds is approximately 8.38 pounds regardless of where you are. This consistency makes it easy to follow recipes from different sources without confusion."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook 3.8 kg of food at once in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on your air fryer's capacity. 3.8 kg is about 8.38 pounds, which is quite a large quantity. Most standard air fryers may not hold this much without overcrowding, leading to uneven cooking. It's best to cook in batches or check your model's maximum weight recommendation. For large items like a whole chicken, ensure it fits comfortably in the basket."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 3.8 kg to pounds and ounces?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 3.8 kg to pounds and ounces, first find the total pounds (8.38). Then, multiply the decimal part (0.38) by 16 to get ounces, which is approximately 6.08 ounces. So, 3.8 kg is about 8 pounds and 6 ounces. This is useful for recipes requiring precise measurements, especially in baking or when using smaller air fryer portions."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-8-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-1-5-quart-air-fryer"
-  },
+        },
         "headline": "Perfect Fit: Best Liners for a 1.5 Quart Air Fryer",
         "description": "Discover the ideal liner size for your 1.5 quart air fryer with our expert guide. Get cooking with ease and keep cleanup simple!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-28T20:10:56.634Z",
         "dateModified": "2025-07-28T20:10:56.634Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/what-size-liners-fit-1-5-quart-air-fryer.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Liner"
-  },
+        },
         "articleSection": "Liner",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While aluminum foil can be used, it’s not ideal for a 1.5 quart air fryer. Foil can block airflow and may cause uneven cooking. If you must use it, shape it loosely around the basket and avoid covering the entire base. Parchment or silicone liners are safer and more effective."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Do Ninja air fryer liners fit a 1.5 quart model?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Ninja’s official liners are designed for specific models, so check the product details before buying. Some generic 6-7 inch liners may fit, but it’s best to measure your Ninja’s basket first. If unsure, opt for adjustable silicone liners for a custom fit."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Are reusable liners better than disposable ones for a 1.5 quart air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Reusable silicone liners are eco-friendly and cost-effective over time, making them great for frequent use. Disposable parchment liners are convenient for quick meals or greasy foods. Both work well—choose based on your cooking habits and sustainability preferences."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I stop my 1.5 quart air fryer liner from blowing around?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Preheat the air fryer before adding the liner to help it stay in place. For parchment liners, lightly crumple them first or use a small dab of oil to adhere them to the basket. Silicone liners with raised edges are less likely to shift during cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:56.634000+00:00",
     "dateModified": "2025-07-28T20:10:56.634000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-1-5-quart-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-rolled-oats"
-  },
+        },
         "headline": "Quick Guide: Convert 125 Grams of Rolled Oats to Cups Easily",
         "description": "Learn how to convert 125 grams of rolled oats to cups for perfect baking and air frying every time. Get accurate measurements now!",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-27T21:00:04.997Z",
         "dateModified": "2025-07-27T21:00:04.997Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-rolled-oats.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Instant oats and rolled oats have different densities, so the conversion isn't identical. While 125 grams of rolled oats equals about 1.25 cups, instant oats might measure slightly differently due to their finer texture. For best results in recipes, especially air fryer dishes where texture matters, stick to the type specified."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does the 125 grams to cups conversion change for different brands of rolled oats?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Different brands may have slight variations in oat size and density, but the difference is usually minimal. 125 grams of rolled oats will generally be around 1.25 cups across most brands. For precision in baking or air frying, weighing is always more reliable than volume measurements when working with any brand."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is the 125 grams to cups conversion the same for steel-cut oats?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, steel-cut oats are denser and have a different shape than rolled oats. 125 grams of steel-cut oats will yield less volume than rolled oats - approximately 0.75 cups. They also require different cooking times, especially in air fryer recipes, so adjust accordingly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the 125 grams rolled oats measurement for gluten-free recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the 125 grams to cups conversion works the same for gluten-free rolled oats as regular ones. Just ensure your oats are certified gluten-free if that's a dietary requirement. The measurement remains consistent for use in air fryer recipes, baking, or breakfast preparations."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-27T21:00:04.997000+00:00",
     "dateModified": "2025-07-27T21:00:04.997000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-rolled-oats"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

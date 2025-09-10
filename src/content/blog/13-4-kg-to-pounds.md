@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/13-4-kg-to-pounds"
-  },
+        },
         "headline": "Quick 13.4 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 13.4 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your recipes.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:57:43.961Z",
         "dateModified": "2025-08-20T17:57:43.961Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/13-4-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "13.4 kg converts to 29 pounds and approximately 8.64 ounces. To get this, first multiply 13.4 by 2.20462 to get the total pounds (29.5419). The whole number is 29 pounds. Then, take the decimal part (0.5419) and multiply it by 16 (since there are 16 ounces in a pound), which gives you 8.6704 ounces. For most kitchen purposes, you would round this to 29 pounds and 8.6 or 9 ounces.\n\nThis level of precision is particularly helpful for recipes that require exact measurements, such as baking or when preparing specific rubs or brines for large cuts of meat destined for the air fryer. It ensures your seasoning ratios are perfect."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 13.4 kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You would need to convert 13.4 kg to pounds for air frying primarily for portion control and cooking time accuracy. Air fryers have limited basket capacities, and overloading them prevents proper air circulation, leading to unevenly cooked food. Knowing that 13.4 kg is over 29 pounds immediately tells you that this is far too much food to cook at once in a standard home air fryer.\n\nThis conversion allows you to intelligently portion the food into smaller, manageable batches that your appliance can handle. It also helps you accurately adjust cooking times since a heavier weight generally requires a longer cooking duration to ensure the food is cooked through safely and thoroughly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 13.4 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "13.4 kg is not a common weight for a single ingredient going into an air fryer in one go due to the appliance's size constraints. However, it is a very common weight for buying ingredients in bulk. You might buy a 13.4 kg bag of frozen chips, a large box of chicken portions, or a big sack of potatoes.\n\nThe conversion from 13.4 kg to pounds (29.54 lbs) becomes crucial for meal planning and prep. It helps you understand how many smaller portions you can get from that bulk purchase and how many air fryer batches you'll need to cook to use it all, making your cooking process much more efficient."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does converting 13.4 kg to pounds help with following recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 13.4 kg to pounds helps you follow recipes accurately, especially if you find a fantastic recipe from a country that uses the metric system but you are more comfortable with imperial measurements. Seeing an ingredient listed as 13.4 kg can be intimidating, but knowing it's roughly 29.5 pounds makes it instantly relatable and easier to work with.\n\nIt allows you to scale recipes up or down with confidence. If a recipe is designed for a smaller quantity, you can use the conversion to accurately calculate how much of each ingredient you need to make a larger batch, ensuring flavours and textures remain consistent every time you use your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:57:43.961000+00:00",
     "dateModified": "2025-08-20T17:57:43.961000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/13-4-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

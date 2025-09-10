@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-mince-to-pounds"
-  },
+        },
         "headline": "Easy 6.5 kg Beef Mince to Pounds Conversion Guide",
         "description": "Convert 6.5 kg beef mince to pounds quickly and accurately with our simple guide. Perfect for air fryer meal prep and large batch cooking.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-beef-mince-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 6.5 kg beef mince to pounds accurately, multiply 6.5 by 2.20462, which gives you 14.33003 pounds. For most practical purposes, this is rounded to 14.33 pounds. This conversion is vital for following recipes correctly, especially when using an air fryer, as precise measurements ensure even cooking and perfect results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 6.5 kg beef mince to pounds for air fryer cooking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many air fryer recipes, particularly those from American sources or older cookbooks, use pounds instead of kilograms. Converting 6.5 kg beef mince to pounds allows you to use these recipes without error, ensuring you add the right amount of mince for dishes like burgers, meatballs, or mince-based casseroles. Accurate measurements help with cooking times and texture, making your air fryer meals turn out perfectly every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I convert 6.5 kg beef mince to pounds and ounces for more precision?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you can convert 6.5 kg beef mince to pounds and ounces for greater precision. Since 6.5 kg is approximately 14.33 pounds, the decimal portion (0.33) multiplied by 16 gives you about 5.28 ounces. So, 6.5 kg beef mince is roughly 14 pounds and 5 ounces. This level of detail is useful for recipes that require exact measurements, such as when making sausages or portioning for specific dietary needs."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 6.5 kg of beef mince a common quantity to buy, and how should I store it?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "6.5 kg of beef mince is often sold as a bulk or economy pack, making it popular for large families, meal preppers, or those who cook in batches. After converting 6.5 kg beef mince to pounds (about 14.33 lbs), it is best to divide it into smaller portions before freezing. Use airtight containers or freezer bags, label them with the weight and date, and store them for up to three months. This makes it easy to thaw only what you need for air fryer recipes, reducing waste and saving time."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-beef-mince-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

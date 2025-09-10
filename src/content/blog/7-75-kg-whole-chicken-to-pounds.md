@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-whole-chicken-to-pounds"
-  },
+        },
         "headline": "Easy 7.75 kg Whole Chicken to Pounds Conversion Guide",
         "description": "Convert 7.75 kg whole chicken to pounds quickly. Get perfect air fryer cooking times and temperatures with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T18:51:22.444Z",
         "dateModified": "2025-08-22T18:51:22.444Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-75-kg-whole-chicken-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "A 7.75 kg whole chicken is approximately 17.09 pounds. This conversion is done by multiplying the kilogram value by 2.20462, which is the standard conversion factor from metric to imperial weight. Knowing this exact pound equivalent is crucial for adjusting air fryer cooking times and ensuring your chicken cooks perfectly."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 7.75 kg whole chicken in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "It depends on the size and capacity of your air fryer. A 7.75 kg whole chicken weighs about 17.09 pounds, which is quite large. Many standard air fryer baskets may not accommodate a whole chicken of this size without spatchcocking or dividing it first. Always check your appliance’s maximum weight recommendation and available space before proceeding to ensure even cooking and avoid overcrowding."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long does it take to air fry a 7.75 kg whole chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Cooking time for a 7.75 kg whole chicken in an air fryer can vary, but a general guideline is approximately 20 minutes per pound at 180°C. For a 17.09 pound chicken, this would be around 5 hours and 42 minutes. However, it’s essential to use a meat thermometer to check that the internal temperature has reached 75°C in the thickest part of the thigh for food safety and doneness."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is weight conversion important for air frying chicken?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weight conversion is vital because most air fryer recipes and cooking guidelines use pounds or ounces. Converting kilograms to pounds, like 7.75 kg to 17.09 pounds, ensures you follow instructions accurately for timing and temperature. This precision helps prevent undercooking or drying out your chicken, leading to better texture, flavour, and overall cooking results in your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-whole-chicken-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

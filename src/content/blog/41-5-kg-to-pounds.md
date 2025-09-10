@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/41-5-kg-to-pounds"
-  },
+        },
         "headline": "Quick 41.5 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 41.5 kg to pounds instantly for perfect air fryer meal prep. Get accurate weights for recipes, shopping, and portion control with our easy guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T00:37:28.394Z",
         "dateModified": "2025-08-22T00:37:28.394Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/41-5-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "41.5 kilograms is exactly equal to 91.49173 pounds when using the precise conversion factor of 1 kilogram = 2.20462 pounds. For most practical purposes in cooking and air frying, this is typically rounded to 91.49 pounds. The slight decimal variation won't affect your cooking results, as air fryer recipes typically allow for small weight adjustments without significantly altering cooking times or temperatures."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 41.5 kg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You might need to convert 41.5 kg to pounds for air frying when working with recipes that use different measurement systems, when purchasing ingredients sold in kilograms but using recipes that specify pounds, or when understanding your air fryer's capacity limits. Most air fryer baskets have weight limits specified in pounds, so converting 41.5 kg to pounds (approximately 91.49 pounds) helps you recognize that this far exceeds typical home appliance capacities, which usually range from 2-10 pounds."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use a simple 2.2 multiplier instead of 2.20462 for converting kg to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While using 2.2 as a multiplier provides a close approximation (41.5 kg × 2.2 = 91.3 pounds), for precise measurements it's better to use the standard conversion factor of 2.20462. The difference between 91.3 and 91.49 pounds might not matter for most air frying applications, but for exact recipe scaling or nutritional tracking, the more accurate conversion is recommended. Many digital scales and conversion tools use the precise factor to ensure accuracy."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How does 41.5 kg convert to stones and pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 41.5 kg to stones and pounds, first convert to pounds (41.5 × 2.20462 = 91.49173 pounds). Since one stone equals 14 pounds, divide 91.49173 by 14 to get approximately 6.535 stones. The whole number is 6 stone, and the remainder (0.535 × 14) is approximately 7.49 pounds. So 41.5 kg is roughly equal to 6 stone and 7.5 pounds. This conversion might be useful for those who prefer traditional British weight measurements."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/41-5-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

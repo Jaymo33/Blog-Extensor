@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-halloumi-in-air-fryer"
-  },
+        },
         "headline": "Reheat Halloumi in Air Fryer – Crispy & Quick Guide",
         "description": "Learn how to reheat halloumi in an air fryer without drying it out. Get perfect crispy results with our temperature & timing tips.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T18:39:33.442Z",
         "dateModified": "2025-07-22T18:39:33.442Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-halloumi-in-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Reheat"
-  },
+        },
         "articleSection": "Reheat",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>We don’t recommend reheating halloumi multiple times as it becomes increasingly dry and rubbery with each reheating cycle. For best quality, only reheat the amount you plan to eat immediately. Leftover halloumi that’s been reheated should be consumed straight away rather than refrigerated again.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent my halloumi from sticking to the air fryer basket?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Lightly greasing the basket with oil or using parchment paper designed for air fryers can prevent sticking. Alternatively, you can place the halloumi on a thin layer of lemon slices or other vegetables to create a natural barrier while adding flavour.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is it safe to reheat halloumi that’s been left out overnight?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>No, you should never reheat halloumi (or any dairy product) that’s been left at room temperature for more than 2 hours. Bacteria can grow rapidly in these conditions. Always refrigerate leftover halloumi promptly and reheat within 3 days for food safety.</p>"
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What’s the best way to store halloumi for later reheating?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "<p>Store cooked halloumi in an airtight container in the fridge with a damp paper towel to maintain moisture. For longer storage, you can freeze halloumi for up to 2 months – thaw in the fridge before reheating in your air fryer at a slightly lower temperature (170°C) to account for the texture changes.</p>"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:39:33.442000+00:00",
     "dateModified": "2025-07-22T18:39:33.442000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-halloumi-in-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

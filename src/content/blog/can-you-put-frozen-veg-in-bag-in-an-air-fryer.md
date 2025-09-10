@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-frozen-veg-in-bag-in-an-air-fryer"
-  },
+        },
         "headline": "Can You Air Fry Frozen Veg In Bag? Safety & Tips",
         "description": "Wondering if frozen veg in bags is air fryer safe? Learn the dos and don'ts for cooking frozen vegetables in your air fryer without risks.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-07-22T22:38:02.529Z",
         "dateModified": "2025-07-22T22:38:02.529Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-frozen-veg-in-bag-in-an-air-fryer.png"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Frozen"
-  },
+        },
         "articleSection": "Frozen",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you should never put the entire plastic bag of frozen vegetables in any air fryer, including Ninja models. The high heat can melt the plastic, potentially damaging your appliance and creating food safety risks. Always transfer the vegetables to the air fryer basket."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Will frozen vegetables catch fire if cooked in their bag?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "While not common, there is a fire risk when cooking frozen vegetables in plastic bags. The plastic can melt onto heating elements or, if the bag contains metal layers, potentially spark. It's much safer to empty the vegetables directly into your air fryer basket."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I prevent frozen vegetables from sticking in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To prevent sticking, spread frozen vegetables in a single layer with some space between pieces. Lightly tossing them with a small amount of oil (about 1 teaspoon per serving) can help. For delicate vegetables, consider using parchment paper liners designed for air fryers."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I reheat cooked vegetables in their original packaging?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, you should never reheat any food in its original plastic packaging in an air fryer. Always transfer leftovers to an air fryer-safe container or the basket itself. Plastic containers not rated for high heat can melt or release harmful chemicals when exposed to air fryer temperatures."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
     "dateModified": "2025-07-22T22:38:02.529000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-frozen-veg-in-bag-in-an-air-fryer"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

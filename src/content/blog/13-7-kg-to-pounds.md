@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/13-7-kg-to-pounds"
-  },
+        },
         "headline": "Easy 13.7 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 13.7 kg to pounds quickly for perfect air fryer portions. Get accurate measurements for recipes, meal prep, and shopping with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:57:43.961Z",
         "dateModified": "2025-08-20T17:57:43.961Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/13-7-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can convert 13.7 kg to pounds using a simple multiplication. Remember that 1 kilogram is approximately equal to 2.2 pounds. For a quick estimate, multiply 13.7 by 2.2, which gives you 30.14 pounds. For a more precise conversion, use the exact factor of 2.20462, resulting in 30.203 pounds. This mental math is handy in the supermarket or when your phone battery is flat."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why would I need to convert 13.7 kilograms to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 13.7 kilograms to pounds is crucial for accurate recipe following and portion control. Many air fryer recipes, especially from the US, list ingredients in pounds. If you buy a 13.7 kg bag of frozen chips, knowing it's 30.203 pounds helps you use the correct amount for your air fryer's capacity. This prevents overloading, ensures even cooking, and helps you manage your grocery shopping and meal prep efficiently."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 13.7 kg a common weight for air fryer ingredients?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "13.7 kg is a fairly large weight, more common for bulk buying or commercial purposes than for a single air fryer meal. You might see it on large bags of potatoes, big boxes of frozen chicken, or large cuts of meat for a special occasion. For home cooking, you'd typically convert this weight to pounds to portion it out into smaller, air fryer-friendly amounts, often around 1-2 pounds per cook."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "What is 13.7 kg in pounds and ounces for more precise baking?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For precise baking, 13.7 kg converts to 30 pounds and approximately 3.2 ounces. First, convert 13.7 kg to pounds using the exact factor (13.7 * 2.20462 = 30.203 pounds). The whole number is 30 pounds. Then, take the decimal .203 and multiply it by 16 (ounces in a pound) to get 3.248 ounces, which you can round to 3.2 ounces. This level of accuracy is key for sensitive recipes where proportions are critical."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:57:43.961000+00:00",
     "dateModified": "2025-08-20T17:57:43.961000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/13-7-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-3-kg-to-pounds"
-  },
+        },
         "headline": "Quick 9.3 kg to Pounds Conversion for Air Fryer Cooking",
         "description": "Convert 9.3 kg to pounds instantly for perfect air fryer portions. Get easy measurements and cooking tips for delicious results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T16:05:32.623Z",
         "dateModified": "2025-08-20T16:05:32.623Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-3-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Many fantastic air fryer recipes, particularly those from American websites and cookbooks, use pounds as their standard unit of measurement. If your kitchen scale only shows kilograms, converting 9.3 kg to pounds (which is 20.5 lbs) allows you to follow these recipes accurately. Getting the weight right is crucial for determining correct cooking times and temperatures, ensuring your food is never undercooked or overdone."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 9.3 kg too heavy to cook in an air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 9.3 kg (over 20 pounds) is almost certainly too heavy for any domestic air fryer basket. Most household models have a maximum capacity between 2-5 kg. Trying to cook this much at once would prevent proper air circulation, leading to uneven cooking. Instead, use the conversion to divide the total weight into smaller, manageable batches that your appliance can handle effectively for perfect results every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use an online calculator to convert 9.3 kilograms to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely, using a reliable online 9.3 kg to pounds calculator is a quick and accurate way to get your conversion. It eliminates any risk of human error in the multiplication. For air fryer cooking, where precision matters, this tool is incredibly helpful. Just remember that for kitchen purposes, rounding the result to 20.5 pounds is perfectly acceptable and won't impact your recipe's outcome."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 9.3 kg to pounds for baking in the air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For baking, precision is key, so you'll want the exact conversion. 9.3 kg is equal to 20.503 pounds. However, you are very unlikely to need a batter or dough weighing 9.3 kg for a single air fryer bake. You would use this conversion to calculate a fraction of that weight from a larger batch. For example, if a recipe calls for 1 pound of flour, you can work out what proportion of your 9.3 kg (20.5 lb) bag to use."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T16:05:32.623000+00:00",
     "dateModified": "2025-08-20T16:05:32.623000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/9-3-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-2-kg-to-pounds"
-  },
+        },
         "headline": "Easy 11.2 kg to Pounds Conversion for Your Air Fryer",
         "description": "Convert 11.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips in seconds.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T17:08:58.382Z",
         "dateModified": "2025-08-20T17:08:58.382Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/11-2-kg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Converting 11.2 kg to pounds is essential for air fryer users because most appliance manuals and recipes specify weight limits and ingredients in pounds. Overloading your air fryer basket can lead to uneven cooking, poor airflow, and potential damage to the appliance. Knowing that 11.2 kg is approximately 24.69 pounds helps you stay within safe operating limits and plan your cooking batches effectively."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Is 11.2 kg too much for my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, 11.2 kg (or 24.69 pounds) is almost certainly too much for any standard home air fryer. Most models have a basket capacity between 2 to 6 pounds. You would need to divide this quantity into multiple batches to cook properly. Overfilling the basket restricts airflow, resulting in food that is steamed rather than crisped, and it can overwork the appliance's heating element."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I convert 11.2 kg to pounds and ounces accurately?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "To convert 11.2 kg to pounds and ounces, first multiply 11.2 by 2.20462 to get 24.691744 pounds. The whole number (24) is the pounds. Multiply the decimal (0.691744) by 16 to get the ounces, which is approximately 11.07. So, 11.2 kg is about 24 pounds and 11 ounces. Using a digital kitchen scale with unit conversion is the easiest way to get a precise measurement every time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use an online calculator to convert 11.2 kilograms to pounds?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Absolutely, using a trusted online calculator or conversion tool is a quick and accurate way to convert 11.2 kg to pounds. It eliminates human error and provides the result instantly. For air fryer cooking, where precision matters for cooking times and basket capacity, relying on a digital tool ensures your measurements are correct and your food turns out perfectly."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:08:58.382000+00:00",
     "dateModified": "2025-08-20T17:08:58.382000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/11-2-kg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-beef-joint-to-pounds"
-  },
+        },
         "headline": "Quick 3 kg Beef Joint to Pounds Conversion for Perfect Roasts",
         "description": "Convert 3 kg beef joint to pounds instantly for perfect air fryer cooking times. Get precise measurements and cooking tips for juicy results every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-23T19:48:49.567Z",
         "dateModified": "2025-08-23T19:48:49.567Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-kg-beef-joint-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "3 kilograms of beef joint converts exactly to 6.61437 pounds. For practical cooking purposes, most recipes and butchers will round this to 6.6 pounds. This precise conversion is important for calculating accurate air fryer cooking times, as even small weight variations can affect how long your joint needs to cook through properly.\n\nWhen working with air fryer recipes that use pound measurements, this conversion ensures your 3 kg beef joint cooks perfectly without over or undercooking. Always remember that bone-in joints might have slightly different cooking times despite the same weight measurement."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Does the conversion change if my beef joint has bones?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "The weight conversion from 3 kg to pounds remains the same regardless of whether your beef joint contains bones - 3 kg always equals approximately 6.6 pounds. However, bones do affect the actual meat quantity and cooking dynamics. A bone-in joint will have less actual meat than a boneless joint of the same weight, which can slightly impact cooking time calculations.\n\nFor air frying, bone-in joints typically require a few extra minutes of cooking time compared to boneless cuts of the same weight. The bone acts as an insulator, slowing heat penetration to the center of the joint. Always use a meat thermometer to check for doneness rather than relying solely on timing charts."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How long should I cook a 3 kg beef joint in my air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "For a 3 kg beef joint (approximately 6.6 pounds), cook at 190°C for about 25-30 minutes per pound for medium-rare results. This translates to roughly 2 hours 45 minutes to 3 hours 18 minutes total cooking time, though actual times may vary based on your specific air fryer model and the joint's shape. Always preheat your air fryer for at least 3 minutes before adding the beef joint.\n\nThe most reliable method is to use a meat thermometer to check the internal temperature rather than relying solely on time. For medium-rare, aim for 55-60°C internal temperature, remembering that the temperature will continue to rise by 5-10 degrees during resting. Let the joint rest for at least 15-20 minutes before carving for juicier results."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I cook a 3 kg beef joint in any air fryer?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Not all air fryers can accommodate a 3 kg beef joint (6.6 pounds). You'll need a larger capacity air fryer with a basket that can comfortably hold the joint without it touching the sides or heating element. Most basket-style air fryers require at least 5-6 liter capacity for a joint this size, while oven-style air fryers typically offer more space.\n\nBefore attempting to cook a 3 kg beef joint, check your air fryer's maximum capacity recommendations in the manual. If your joint is too large for your air fryer, consider cutting it into smaller pieces that will cook more evenly. Overcrowding the air fryer basket prevents proper air circulation and results in uneven cooking."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/3-kg-beef-joint-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

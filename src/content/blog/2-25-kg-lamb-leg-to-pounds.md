@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-lamb-leg-to-pounds"
-  },
+        },
         "headline": "Easy 2.25 kg Lamb Leg to Pounds Conversion Guide",
         "description": "Convert 2.25 kg lamb leg to pounds instantly. Get perfect air fryer cooking times and temperatures for your roast with our simple guide.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-22T23:04:43.655Z",
         "dateModified": "2025-08-22T23:04:43.655Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-lamb-leg-to-pounds.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Conversions"
-  },
+        },
         "articleSection": "Conversions",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "No, there is no difference between US pounds and UK imperial pounds for weight measurements. Both are defined as exactly 0.453592 kilograms, so your conversion of 2.25 kg lamb leg to pounds will be identical regardless of which system the recipe uses. This means you can confidently use American or British recipes without worrying about measurement discrepancies affecting your cooking times."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Should I consider the bone weight when converting 2.25 kg lamb leg to pounds for air frying?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, you should always consider that the 2.25 kg weight includes the bone unless specifically stated otherwise by your butcher. The bone affects cooking time because it impacts heat conduction and the actual amount of meat. A bone-in leg will take slightly longer to cook than a boneless leg of the same total weight. When using your air fryer, factor in that the bone adds structure but also requires extra time for the heat to penetrate fully to the centre of the joint."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "How do I adjust cooking time if my lamb leg is slightly more or less than 2.25 kg?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "If your lamb leg is slightly different from 2.25 kg, simply adjust the cooking time proportionally. For air frying, a good rule is to allow 25-30 minutes per pound for medium-rare doneness. So for every 100g difference from 2.25kg, adjust the time by roughly 5-6 minutes. Always use a meat thermometer to check the internal temperature, which should be 60°C for medium-rare, as air fryer models can vary in their heating efficiency and airflow."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use the same conversion for other cuts of lamb, like shoulder or shank?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the kilogram to pound conversion rate is the same for all cuts of meat, including lamb shoulder, shank, or chops. 1 kilogram always equals approximately 2.20462 pounds regardless of the cut. However, cooking times will vary significantly between different cuts due to their fat content, bone structure, and muscle density. A 2.25 kg lamb shoulder will require longer cooking than a leg of the same weight because it has more connective tissue that needs slow rendering to become tender."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-lamb-leg-to-pounds"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 

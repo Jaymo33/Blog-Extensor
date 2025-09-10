@@ -15,7 +15,7 @@ schema: |
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-soft-cheese"
-  },
+        },
         "headline": "Quick Guide: 1 Cup of Soft Cheese to Ounces Conversion UK",
         "description": "Convert 1 cup of soft cheese to ounces easily with our UK guide. Perfect for air fryer recipes and accurate baking every time.",
         "author": {
@@ -23,28 +23,28 @@ schema: |
             "name": "AirFryerRecipes.co.uk",
             "url": "https://www.airfryerrecipe.co.uk/about",
             "image": {
-      "@type": "ImageObject",
-      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+        },
         "publisher": {
             "@type": "Organization",
             "name": "Air Fryer Recipe",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
-    }
-  },
+            "@type": "ImageObject",
+            "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+        },
         "datePublished": "2025-08-20T00:27:11.141Z",
         "dateModified": "2025-08-20T00:27:11.141Z",
         "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-soft-cheese.webp"
-  },
+        },
         "about": {
             "@type": "Thing",
             "name": "Measurement"
-  },
+        },
         "articleSection": "Measurement",
         "inLanguage": "en-GB"
 }
@@ -61,34 +61,34 @@ schema: |
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Yes, the type of soft cheese can definitely affect the weight. Standard block cream cheese is quite dense, so 1 cup typically weighs a solid 8 ounces. However, whipped cream cheese has air incorporated, making it lighter, so 1 cup might only weigh around 6 to 7 ounces. Similarly, a very wet ricotta or cottage cheese might have a slightly lower weight per cup compared to a well-drained, firmer variety.\n\nFor the most accurate results in your air fryer recipes, especially for baking, it's always best to use a kitchen scale. This ensures your dishes have the perfect texture and cook evenly, whether you're making a dip, a filling, or a dessert."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "I'm in the UK; is a US cup the same as a UK cup for measuring soft cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "This is a common point of confusion. Historically, a UK imperial cup was slightly larger than a US customary cup, but in modern recipe writing, particularly online and in baking, the US cup measurement is almost universally used. When a recipe states "1 cup," it is almost certainly referring to the US standard of 8 fluid ounces by volume.\n\nTherefore, for converting 1 cup of soft cheese to ounces in a UK kitchen, you should use the US measurement. The weight will be approximately 8 ounces for most standard soft cheeses. To avoid any doubt, using a digital scale set to ounces or grams is the most reliable method."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Why is weighing soft cheese better than using cup measurements for air fryer recipes?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "Weighing ingredients is superior because it is far more precise and consistent. The amount of soft cheese you can pack into a cup can vary dramatically depending on its temperature, brand, and how you scoop it. This variance can throw off the delicate balance of ingredients in an air fryer recipe, leading to issues like a runny filling that leaks or a dip that doesn't set properly.\n\nAir fryers rely on precise cooking times and temperatures, so accurate ingredient weights ensure everything cooks evenly and comes out perfectly. A scale removes all the guesswork, guaranteeing your culinary creations are a success every single time."
-    }
-    },
+        }
+        },
     {
             "@type": "Question",
             "name": "Can I use this conversion for all types of soft cheese, like mascarpone or cottage cheese?",
     "acceptedAnswer": {
             "@type": "Answer",
     "text": "You can use the 1 cup to 8 ounces conversion as a very good general rule of thumb for most firm, packed soft cheeses like standard cream cheese or a dense mascarpone. However, for cheeses with a different structure, like cottage cheese or a very loose ricotta, the weight per cup can be less due to higher moisture content and more air pockets.\n\nFor these varieties, it's wise to check the weight on the packaging if possible, or simply use a scale for the recipe's specified weight. This is especially important for recipes where texture is critical, such as baked goods or firm fillings for your air fryer."
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -101,7 +101,7 @@ schema: |
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -118,8 +118,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 2,
@@ -127,8 +127,8 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog"
-    }
-    },
+        }
+        },
     {
             "@type": "ListItem",
     "position": 3,
@@ -136,10 +136,10 @@ schema: |
     "item": {
             "@type": "WebPage",
             "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-soft-cheese"
-    }
-    }
+        }
+        }
     ]
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -150,7 +150,7 @@ schema: |
             "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-    }
+        }
     </script>
 
     <script type="application/ld+json">
@@ -162,16 +162,16 @@ schema: |
     "logo": {
             "@type": "ImageObject",
             "url": "https://www.airfryerrecipe.co.uk/brand"
-    },
+        },
     "areaServed": [
     {
             "@type": "Country",
             "name": "United Kingdom"
-    },
+        },
     {
             "@type": "Country",
             "name": "United States"
-    }
+        }
     ],
     "contactPoint": {
             "@type": "ContactPoint",
@@ -184,8 +184,8 @@ schema: |
     "English"
     ],
     "email": "support@airfryerrecipe.co.uk"
-    }
-    }
+        }
+        }
     </script>
 ---
 
