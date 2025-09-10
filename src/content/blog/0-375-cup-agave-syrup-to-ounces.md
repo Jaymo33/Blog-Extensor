@@ -8,9 +8,9 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
   "url": "https://www.airfryerrecipe.co.uk/blog/0-375-cup-agave-syrup-to-ounces",
   "mainEntityOfPage": {
     "@type": "WebPage",
